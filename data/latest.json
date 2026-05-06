@@ -1,0 +1,200 @@
+{
+  "ok": true,
+  "new_count": 7,
+  "selected_count": 8,
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-05-06）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials\n命中 7 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Stochastic first-passage modeling of single-event burnout in SiC power MOSFETs\n   关键词：MOSFET, SiC\n   日期：2026-05-04\n   Authors: Feiyi Liu, Min Guo, Shiyang Chen 等\n   https://arxiv.org/abs/2605.02478v1\n2. [arXiv] Numerical Validation of a MOSFET-Based Control Circuit for High-Power Intelligent Reflectin…\n   关键词：MOSFET\n   日期：2026-05-03\n   Authors: Gakuto Ichikawa, Eisuke Omori, Atsuko Nagata 等\n   https://arxiv.org/abs/2605.01683v1\n3. [arXiv] Tracking visible pulsed laser annealing of Hf$_{0.5}$Zr$_{0.5}$O$_2$ heterostructures with …\n   日期：2026-04-29\n   Authors: Aida Amini, Shruti Verma, Katharina Kohlmann 等\n   https://arxiv.org/abs/2604.26718v2\n4. [arXiv] Composition-Driven Tunable Optical and Electrical Properties in Van der Waals Ferroelectric…\n   关键词：ferroelectric\n   日期：2026-05-02\n   Authors: Gaolei Zhao, Juhe Liu, Jinkai Huo 等\n   https://arxiv.org/abs/2605.01285v1\n5. [arXiv] Field-induced metal-insulator transition, Chern insulators, and topological semimetals in a…\n   关键词：semiconductor\n   日期：2026-05-03\n   Authors: Kazuki Guzman, Hiroaki Ishizuka\n   https://arxiv.org/abs/2605.01804v1\n6. [arXiv] Continuous quantification of viral plaque dynamics using ultra-large-area label-free imagin…\n   日期：2026-05-03\n   Authors: Merve Eryilmaz, Yuzhu Li, Xiao Wang 等\n   https://arxiv.org/abs/2605.01738v1\n7. [arXiv] A hidden bulk polymorph governs charge transport dimensionality in an organic semiconductor\n   关键词：semiconductor\n   日期：2026-05-02\n   Authors: Caterina Zuffa, Marco Bardini, Fabian Gasser 等\n   https://arxiv.org/abs/2605.01049v1",
+  "papers": [
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2605.02478v1",
+      "title": "Stochastic first-passage modeling of single-event burnout in SiC power MOSFETs",
+      "url": "https://arxiv.org/abs/2605.02478v1",
+      "published": "2026-05-04",
+      "authors": [
+        "Feiyi Liu",
+        "Min Guo",
+        "Shiyang Chen",
+        "Yuhan Jiang",
+        "Mingyang Liu",
+        "Yang Wang"
+      ],
+      "summary": "Single-event burnout (SEB) in silicon carbide (SiC) power MOSFETs is often characterized by deterministic threshold quantities. Near the boundary between recovery and runaway, stochastic variability can make this threshold description probabilistic rather than sharp. This work introduces a first-passage perspective for stochastic threshold broadening in burnout. The process is described by a reduced electrothermal feedback-relaxation model with an absorbing boundary. The model combines carrier multiplication, avalanche feedback, localized heating, carrier loss, and thermal relaxation. Stochastic carrier and thermal terms represent unresolved event-level variability. The main finding is that finite fluctuations broaden the deterministic burnout threshold into a probabilistic transition band. Noise-induced subthreshold runaway also emerges, where nominally recoverable conditions can still fail through rare stochastic excursions. First-passage-time distributions resolve the time scale of burnout and survival probabilities further distinguish rapid feedback-dominated runaway from delayed stochastic failure. A feedback-relaxation phase diagram organizes recoverable, probabilistic, and rapidly unstable regimes. This framework provides a statistical-physics interpretation of threshold dispersion in single-event burnout of SiC power MOSFETs by linking coarse-grained electrothermal dynamics to probabilistic and time-resolved failure observables.",
+      "score": 8,
+      "priority": 2,
+      "highlights": [
+        "MOSFET",
+        "SiC"
+      ],
+      "abstract_cn": "【中文翻译（基于英文摘要）】\nSingle-event burnout (SEB) in silicon carbide (SiC) power MOSFETs is often characterized by deterministic threshold quantities. Near the boundary between recovery and runaway, stochastic variability can make this threshold description probabilistic rather than sharp. This work introduces a first-passage perspective for stochastic threshold broadening in burnout. The process is described by a reduced electrothermal feedback-relaxation model with an absorbing boundary. The model combines carrier multiplication, avalanche feedback, localized heating, carrier loss, and thermal relaxation. Stochastic carrier and thermal terms represent unresolved event-level variability. The main finding is that finite fluctuations broaden the deterministic burnout threshold into a probabilistic transition band. Noise-induced subthreshold runaway also emerges, where nominally recoverable conditions can still fail through rare stochastic excursions. First-passage-time distributions resolve the time scale of burnout and survival probabilities further distinguish rapid feedback-dominated runaway from delayed stochastic failure. A feedback-relaxation phase diagram organizes recoverable, probabilistic, and rapidly unstable regimes. This framework provides a statistical-physics interpretation of threshold dispersion in single-event burnout of SiC power MOSFETs by linking coarse-grained electrothermal dynamics to probabilistic and time-resolved failure observables.",
+      "reading_notes": "Focus: MOSFET、SiC.\nWhat to check: 可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Stochastic first-passage modeling of single-event burnout in SiC power MOSFETs."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2605.01683v1",
+      "title": "Numerical Validation of a MOSFET-Based Control Circuit for High-Power Intelligent Reflecting Surfaces for Wireless Power Transfer Applications",
+      "url": "https://arxiv.org/abs/2605.01683v1",
+      "published": "2026-05-03",
+      "authors": [
+        "Gakuto Ichikawa",
+        "Eisuke Omori",
+        "Atsuko Nagata",
+        "Akise Kumashiro",
+        "Kazuhiro Kizaki",
+        "Shunsuke Saruwatari",
+        "Hiroki Wakatsuchi"
+      ],
+      "summary": "Intelligent reflecting surfaces (IRSs) have attracted considerable attention because of their ability to dynamically control electromagnetic wave propagation. While most existing IRSs have been developed for low-power communication and sensing applications, their extension to high-power wireless power transfer (WPT) environments remains largely unexplored, as the high induced currents can damage or saturate the sensitive control elements, disrupting their tuning functionality. Here, we propose a metal-oxide-semiconductor field-effect transistor-based (MOSFET-based) binary control circuit for IRSs operating at 2.4 GHz that can withstand input power levels exceeding 1 W per unit cell. The control circuit employs a back-to-back MOSFET switching topology with series and parallel capacitors to suppress impedance variations arising from device nonlinearity while maintaining a reflection phase difference of approximately 180 degrees between the ON and OFF states. A theoretical model based on transmission lines is developed and validated against full-wave co-simulations incorporating nonlinear SPICE device models. The dynamic range is evaluated with respect to both the rated current and the reflection phase difference, demonstrating stable operation up to 1.25 W. Supercell-level beam steering is further demonstrated through far-field simulations, confirming active control of the reflection angle via switching pattern reconfiguration. These results establish a foundation for the deployment of IRSs in high-power WPT scenarios.",
+      "score": 10,
+      "priority": 1,
+      "highlights": [
+        "MOSFET"
+      ],
+      "abstract_cn": "【中文翻译（基于英文摘要）】\nIntelligent reflecting surfaces (IRSs) have attracted considerable attention because of their ability to dynamically control electromagnetic wave propagation. While most existing IRSs have been developed for low-power communication and sensing applications, their extension to high-power wireless power transfer (WPT) environments remains largely unexplored, as the high induced currents can damage or saturate the sensitive control elements, disrupting their tuning functionality. Here, we propose a metal-oxide-semiconductor field-effect transistor-based (MOSFET-based) binary control circuit for IRSs operating at 2.4 GHz that can withstand input power levels exceeding 1 W per unit cell. The control circuit employs a back-to-back MOSFET switching topology with series and parallel capacitors to suppress impedance variations arising from device nonlinearity while maintaining a reflection phase difference of approximately 180 degrees between the ON and OFF states. A theoretical model based on transmission lines is developed and validated against full-wave co-simulations incorporating nonlinear SPICE device models. The dynamic range is evaluated with respect to both the rated current and the reflection phase difference, demonstrating stable operation up to 1.25 W. Supercell-level beam steering is further demonstrated through far-field simulations, confirming active control of the reflection angle via switching pattern reconfiguration. These results establish a foundation for the deployment of IRSs in high-power WPT scenarios.",
+      "reading_notes": "Focus: MOSFET.\nWhat to check: 可靠性与稳定性.\nContext: Numerical Validation of a MOSFET-Based Control Circuit for High-Power Intelligent Reflecting Su…."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2605.00202v1",
+      "title": "Observation of single antiferromagnetic magnon modes in the tunnelling transistors of spin-1/2 Kitaev system a-RuCl3",
+      "url": "https://arxiv.org/abs/2605.00202v1",
+      "published": "2026-05-01",
+      "authors": [
+        "Servet Ozdemir",
+        "Mikhail Kashchenko",
+        "Kostya S. Novoselov"
+      ],
+      "summary": "The small gap room temperature semiconductor a-RuCl3 which is known to undergo a Mott-Hubbard transition at low temperatures, is one of the most promising candidates for realisation of an exotic matter form, the quantum spin liquid state, which may have applications in quantum computing. Although being extensively investigated by neutron scattering techniques, electronic study of this system in form of van der Waals heterostructures has been limited to mainly graphene proximity. Here we report a systematic study of planar and tunnelling electronic properties of a -RuCl3 films, where we observe an n-type semiconducting property of a -RuCl3 films at room temperature, with a Mott insulator nature onset below 120K. In constant some of the previous studies, we focus on films of three-layer thickness and below and we find inelastic scattering features, below the Neel temperature of 7-14.5 K, some of which we attribute to single magnon modes. We believe our study electrically confirms preserved low temperature signatures of the bulk zigzag antiferromagnetic order and its single magnon modes within the previously observed continuum in atomically thin film limit. The experimental progress could be a step for future electronic characterisation of quantum spin liquid state in the vicinity of the zigzag antiferromagnetic order as well as the Majorona excitations in a-RuCl3 in tunnelling transistors.",
+      "score": 7,
+      "priority": 1,
+      "highlights": [
+        "transistor"
+      ],
+      "abstract_cn": "【中文翻译（基于英文摘要）】\nThe small gap room temperature semiconductor a-RuCl3 which is known to undergo a Mott-Hubbard transition at low temperatures, is one of the most promising candidates for realisation of an exotic matter form, the quantum spin liquid state, which may have applications in quantum computing. Although being extensively investigated by neutron scattering techniques, electronic study of this system in form of van der Waals heterostructures has been limited to mainly graphene proximity. Here we report a systematic study of planar and tunnelling electronic properties of a -RuCl3 films, where we observe an n-type semiconducting property of a -RuCl3 films at room temperature, with a Mott insulator nature onset below 120K. In constant some of the previous studies, we focus on films of three-layer thickness and below and we find inelastic scattering features, below the Neel temperature of 7-14.5 K, some of which we attribute to single magnon modes. We believe our study electrically confirms preserved low temperature signatures of the bulk zigzag antiferromagnetic order and its single magnon modes within the previously observed continuum in atomically thin film limit. The experimental progress could be a step for future electronic characterisation of quantum spin liquid state in the vicinity of the zigzag antiferromagnetic order as well as the Majorona excitations in a-RuCl3 in tunnelling transistors.",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Observation of single antiferromagnetic magnon modes in the tunnelling transistors of spin-1/2 …."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2605.00544v1",
+      "title": "An Unsupervised Machine Learning-based Framework for Wafer Scale Variability Analysis and Performance Prediction of Ferroelectric Hf0.5Zr0.5O2 Thin Film Capacitors",
+      "url": "https://arxiv.org/abs/2605.00544v1",
+      "published": "2026-05-01",
+      "authors": [
+        "Anika Anu",
+        "Sayani Majumdar"
+      ],
+      "summary": "Fabrication process-induced performance variability remains a formidable barrier in the high-volume manufacturing of semiconductor chips. With skyrocketing Artificial Intelligence (AI) workload, demand for non-volatile and computational memories is growing exponentially. As embedded non-volatile memory, ferroelectric Hf0.5Zr0.5O2 emerged as a strong candidate due to their CMOS back-end-of-line (BEOL) compatibility, scalability and high performance. However, their sensitive crystallization kinetics leads to significant device-to-device (D2D) non-uniformity leading to unpredictability of performance over wafer scale. In this work, we demonstrate unsupervised machine learning can analyze intra-die D2D variations and predict performance of \"unseen\" dies efficiently. We present a framework utilizing Principal Component Analysis (PCA) and K-Means clustering to analyze D2D performance variations in HZO capacitors and building on data from multiple dies, we move beyond traditional descriptive statistics to a predictive \"Virtual Metrology\" approach that separates performance categories, defined by key parameters like remanent polarization (Pr) and coercive voltage (Vc). The analysis further extends to comparing uniformity across different dies across the wafer showing the proposed methodology can accurately predict device performance on untested dies with a low Mean Absolute Percentage Error (MAPE) in the range of 5-10%, suggesting a robust path for accelerated yield improvement and reduced metrology overhead.",
+      "score": 11,
+      "priority": 0,
+      "highlights": [
+        "ferroelectric",
+        "wafer"
+      ],
+      "abstract_cn": "【中文翻译（基于英文摘要）】\nFabrication process-induced performance variability remains a formidable barrier in the high-volume manufacturing of semiconductor chips. With skyrocketing Artificial Intelligence (AI) workload, demand for non-volatile and computational memories is growing exponentially. As embedded non-volatile memory, ferroelectric Hf0.5Zr0.5O2 emerged as a strong candidate due to their CMOS back-end-of-line (BEOL) compatibility, scalability and high performance. However, their sensitive crystallization kinetics leads to significant device-to-device (D2D) non-uniformity leading to unpredictability of performance over wafer scale. In this work, we demonstrate unsupervised machine learning can analyze intra-die D2D variations and predict performance of \"unseen\" dies efficiently. We present a framework utilizing Principal Component Analysis (PCA) and K-Means clustering to analyze D2D performance variations in HZO capacitors and building on data from multiple dies, we move beyond traditional descriptive statistics to a predictive \"Virtual Metrology\" approach that separates performance categories, defined by key parameters like remanent polarization (Pr) and coercive voltage (Vc). The analysis further extends to comparing uniformity across different dies across the wafer showing the proposed methodology can accurately predict device performance on untested dies with a low Mean Absolute Percentage Error (MAPE) in the range of 5-10%, suggesting a robust path for accelerated yield improvement and reduced metrology overhead.",
+      "reading_notes": "Focus: 铁电材料、wafer.\nWhat to check: 性能提升、可靠性与稳定性、与既有工艺平台的集成价值.\nContext: An Unsupervised Machine Learning-based Framework for Wafer Scale Variability Analysis and Perfo…."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2604.26718v2",
+      "title": "Tracking visible pulsed laser annealing of Hf$_{0.5}$Zr$_{0.5}$O$_2$ heterostructures with in situ transmission electron microscopy",
+      "url": "https://arxiv.org/abs/2604.26718v2",
+      "published": "2026-04-29",
+      "authors": [
+        "Aida Amini",
+        "Shruti Verma",
+        "Katharina Kohlmann",
+        "Sebastian Obernberger",
+        "Jean-Christof Lamanque",
+        "Andreas Rüdiger",
+        "Kenneth R. Beyerlein"
+      ],
+      "summary": "Laser annealing offers a promising route to back end of the line fabrication of ferroelectric thin film transistors based on hafnium-zirconium oxide (HZO). Due to the wide band gap of this material, previous reports have studied the crystallization of HZO using ultraviolet or infrared light. In contrast, we monitor its crystallization in a Si$_3$N$_4$/TiN/Hf$_{0.5}$Zr$_{0.5}$O$_2$ thin film heterostructure upon irradiation with visible nanosecond laser pulses. This geometry mimics the structure of CMOS devices and harnesses the absorption of TiN in the visible regime to generate the heat necessary for the transformation. Through a series of local in situ measurements using a modified transmission electron microscope, we quantify the relationship between the HZO film thickness, critical laser energy density and the ferroelectric HZO phase fraction, finding a sharp threshold behavior in the laser pulse energy necessary to crystallize HZO. The optimal condition of irradiating an 8-nm HZO film with a single laser pulse with an energy density of 177 mJ/cm$^2$ is found to produce 86% of the ferroelectric orthorhombic phase. Heat transfer dynamics within the heterostructure during laser annealing are revealed by finite element simulations, where the partial melting of the silicon nitride substrate is found to play an important role limiting the temperature to 1900 °C. This finding as well as the observed laser pulse energy threshold behavior support a kinetic crystallization pathway involving the tetragonal phase. More generally, these findings show how laser-driven phase engineering can lead to scalable design and enhanced performance of ferroelectric materials in advanced electronic applications.",
+      "score": 7,
+      "priority": 0,
+      "highlights": [],
+      "abstract_cn": "【中文翻译（基于英文摘要）】\nLaser annealing offers a promising route to back end of the line fabrication of ferroelectric thin film transistors based on hafnium-zirconium oxide (HZO). Due to the wide band gap of this material, previous reports have studied the crystallization of HZO using ultraviolet or infrared light. In contrast, we monitor its crystallization in a Si$_3$N$_4$/TiN/Hf$_{0.5}$Zr$_{0.5}$O$_2$ thin film heterostructure upon irradiation with visible nanosecond laser pulses. This geometry mimics the structure of CMOS devices and harnesses the absorption of TiN in the visible regime to generate the heat necessary for the transformation. Through a series of local in situ measurements using a modified transmission electron microscope, we quantify the relationship between the HZO film thickness, critical laser energy density and the ferroelectric HZO phase fraction, finding a sharp threshold behavior in the laser pulse energy necessary to crystallize HZO. The optimal condition of irradiating an 8-nm HZO film with a single laser pulse with an energy density of 177 mJ/cm$^2$ is found to produce 86% of the ferroelectric orthorhombic phase. Heat transfer dynamics within the heterostructure during laser annealing are revealed by finite element simulations, where the partial melting of the silicon nitride substrate is found to play an important role limiting the temperature to 1900 °C. This finding as well as the observed laser pulse energy threshold behavior support a kinetic crystallization pathway involving the tetragonal phase. More generally, these findings show how laser-driven phase engineering can lead to scalable design and enhanced performance of ferroelectric materials in advanced electronic applications.",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、功耗或能效表现、与既有工艺平台的集成价值.\nContext: Tracking visible pulsed laser annealing of Hf$_{0.5}$Zr$_{0.5}$O$_2$ heterostructures with in s…."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2605.01285v1",
+      "title": "Composition-Driven Tunable Optical and Electrical Properties in Van der Waals Ferroelectric NbOI2-xClx Alloys",
+      "url": "https://arxiv.org/abs/2605.01285v1",
+      "published": "2026-05-02",
+      "authors": [
+        "Gaolei Zhao",
+        "Juhe Liu",
+        "Jinkai Huo",
+        "Tian Han",
+        "Yunhao Tong",
+        "Hu Wang",
+        "Konstantin Kozadaev",
+        "Andrei Zheltkovich",
+        "Changsen Sun",
+        "Alexei Tolstik",
+        "Andrey Novitsky",
+        "Lujun Pan",
+        "Dawei Li"
+      ],
+      "summary": "Layered niobium oxide dihalides NbOX2 (X = I, Cl), as a new family of Van der Waals (vdW) ferroelectrics, have attracted extensive attention, while achieving non-volatile modulation of their optical and electrical properties remains challenging, thereby limiting their integration into next-generation nanoelectronics and optoelectronics. Here, we report the controlled fabrication of highly crystalline NbOI2-xClx vdW alloys with composition-driven tunable optical and electrical properties via a chemical vapor transport method. Comprehensive experimental characterization combined with first-principles calculation shows that the crystal lattices, phonon modes, and band structures of NbOI2-xClx can be well tailored, which are distributed between NbOI2 and NbOCl2. Both the amplitude and polarization of second harmonic generation optical signal in NbOI2-xClx exhibit pronounced compositional dependence, offering optical evidence for tunable in-plane ferroelectric characteristic. Moreover, field-effect transistors based on NbOI2-xClx display robust n-type semiconducting behavior, with threshold voltage and carrier mobility precisely modulated through adjustment of I/Cl molar ratio. Furthermore, 2D NbOI2-xClx photodetectors across all compositions exhibit exceptional gate-tunable current on/off ratio and strong polarization-sensitive photo-response. This study thus provides a new vdW ferroelectric material platform with tunable optical and electrical properties, paving the path for its implementation in modern nanophotonics and nanoelectronics.",
+      "score": 6,
+      "priority": 0,
+      "highlights": [
+        "ferroelectric"
+      ],
+      "abstract_cn": "【中文翻译（基于英文摘要）】\nLayered niobium oxide dihalides NbOX2 (X = I, Cl), as a new family of Van der Waals (vdW) ferroelectrics, have attracted extensive attention, while achieving non-volatile modulation of their optical and electrical properties remains challenging, thereby limiting their integration into next-generation nanoelectronics and optoelectronics. Here, we report the controlled fabrication of highly crystalline NbOI2-xClx vdW alloys with composition-driven tunable optical and electrical properties via a chemical vapor transport method. Comprehensive experimental characterization combined with first-principles calculation shows that the crystal lattices, phonon modes, and band structures of NbOI2-xClx can be well tailored, which are distributed between NbOI2 and NbOCl2. Both the amplitude and polarization of second harmonic generation optical signal in NbOI2-xClx exhibit pronounced compositional dependence, offering optical evidence for tunable in-plane ferroelectric characteristic. Moreover, field-effect transistors based on NbOI2-xClx display robust n-type semiconducting behavior, with threshold voltage and carrier mobility precisely modulated through adjustment of I/Cl molar ratio. Furthermore, 2D NbOI2-xClx photodetectors across all compositions exhibit exceptional gate-tunable current on/off ratio and strong polarization-sensitive photo-response. This study thus provides a new vdW ferroelectric material platform with tunable optical and electrical properties, paving the path for its implementation in modern nanophotonics and nanoelectronics.",
+      "reading_notes": "Focus: 铁电材料.\nWhat to check: 可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Composition-Driven Tunable Optical and Electrical Properties in Van der Waals Ferroelectric NbO…."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2604.27650v1",
+      "title": "Neuronal arithmetic operators based on Ovonic threshold switches (OTS) for biologically inspired analog computing",
+      "url": "https://arxiv.org/abs/2604.27650v1",
+      "published": "2026-04-30",
+      "authors": [
+        "Jingyeong Hwang",
+        "Jaesang Lee",
+        "Jiin Bang",
+        "Younghyun Lee",
+        "Unhyeon Kang",
+        "Seungmin Oh",
+        "Kyungmin Lee",
+        "Jaehyun Park",
+        "Seongsik Park",
+        "Hyun Jae Jang",
+        "Sangbum Kim",
+        "Min Hyuk Park",
+        "Suyoun Lee"
+      ],
+      "summary": "Biological neurons perform arithmetic computations - including additive integration and divisive gain modulation - through synaptic conductance changes and shunting inhibition, enabling context-dependent information processing that far exceeds simple threshold-and-fire models. Replicating these capabilities in compact hardware remains a fundamental challenge for neuromorphic engineering. Here, we demonstrate artificial neuron circuits based on Ovonic threshold switches (OTS) that physically implement three arithmetic operations: SUM, PARALLEL, and DIVISION. The SUM and PARALLEL neurons exploit MOSFET-controlled dendritic conductances, producing output firing rates that collapse onto invariant curves as a function of combined inputs - satisfying the canonical criteria for neuronal addition. The DIVISION neuron leverages a JFET-based shunting pathway, inspired by GABA_A-mediated inhibition in the cortex, to achieve divisive gain modulation well described by a Hill-type function (R2 ~ 0.95, Hill exponent n ~ 1.3), consistent with nonlinear normalization observed in visual and olfactory circuits. Applying the DIVISION neuron to pixel-wise image normalization under non-uniform illumination recovers obscured visual content, mirroring contrast normalization in the visual cortex. Compared to CMOS-based division implementations, the proposed approach offers improvements in energy efficiency and scalability exceeding an order of magnitude, establishing a viable path toward compact, brain-inspired analog computing.",
+      "score": 6,
+      "priority": 0,
+      "highlights": [],
+      "abstract_cn": "【中文翻译（基于英文摘要）】\nBiological neurons perform arithmetic computations - including additive integration and divisive gain modulation - through synaptic conductance changes and shunting inhibition, enabling context-dependent information processing that far exceeds simple threshold-and-fire models. Replicating these capabilities in compact hardware remains a fundamental challenge for neuromorphic engineering. Here, we demonstrate artificial neuron circuits based on Ovonic threshold switches (OTS) that physically implement three arithmetic operations: SUM, PARALLEL, and DIVISION. The SUM and PARALLEL neurons exploit MOSFET-controlled dendritic conductances, producing output firing rates that collapse onto invariant curves as a function of combined inputs - satisfying the canonical criteria for neuronal addition. The DIVISION neuron leverages a JFET-based shunting pathway, inspired by GABA_A-mediated inhibition in the cortex, to achieve divisive gain modulation well described by a Hill-type function (R2 ~ 0.95, Hill exponent n ~ 1.3), consistent with nonlinear normalization observed in visual and olfactory circuits. Applying the DIVISION neuron to pixel-wise image normalization under non-uniform illumination recovers obscured visual content, mirroring contrast normalization in the visual cortex. Compared to CMOS-based division implementations, the proposed approach offers improvements in energy efficiency and scalability exceeding an order of magnitude, establishing a viable path toward compact, brain-inspired analog computing.",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、效率/耦合表现、功耗或能效表现.\nContext: Neuronal arithmetic operators based on Ovonic threshold switches (OTS) for biologically inspire…."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2605.01804v1",
+      "title": "Field-induced metal-insulator transition, Chern insulators, and topological semimetals in a clean magnetic semiconductor GdGaI",
+      "url": "https://arxiv.org/abs/2605.01804v1",
+      "published": "2026-05-03",
+      "authors": [
+        "Kazuki Guzman",
+        "Hiroaki Ishizuka"
+      ],
+      "summary": "Non-coplanar magnetic order in low-carrier-density semiconductors provides a platform on which spin-charge coupling can reshape the electronic structure and induce nontrivial topological phases. Motivated by the recent discovery of the four-sublattice triple-$q$ order in the magnetic semiconductor GdGaI, we study an effective theory that couples a Ga $4p$ hole pocket at the $Γ$ point to three Gd $5d$ electron pockets at the $M$ points through four exchange channels. For the antiferromagnetic umbrella state with zero net magnetization, the model hosts trivial ($C = 0$) and $C = \\pm 4$ Chern insulator phases separated by metallic regions; by deriving an analytical low-energy theory at the $Γ$ point, we show that the topological phase boundary is described by two degenerate double-Weyl semimetals, naturally explaining the $ΔC = 4$ jump in the Chern number. In addition, a nodal-line-like state pinned near the Fermi level emerges in the absence of the $p$-$d$ exchange coupling, which separates the $C=\\pm4$ phases for $θ=\\arccos(1/3)$ into two. Tuning the canting angle by an external magnetic field drives an insulator-to-metal transition out of the Chern insulator phase while leaving the trivial insulator largely intact, and stabilizes an additional $C = \\pm 2$ Chern insulator phase when the uniform-magnetization exchange couplings become appreciable. These results identify GdGaI and its sister compounds as highly tunable platforms for realizing topological phases and field-induced metal-insulator transitions in clean magnetic semiconductors.",
+      "score": 5,
+      "priority": 0,
+      "highlights": [
+        "semiconductor"
+      ],
+      "abstract_cn": "【中文翻译（基于英文摘要）】\nNon-coplanar magnetic order in low-carrier-density semiconductors provides a platform on which spin-charge coupling can reshape the electronic structure and induce nontrivial topological phases. Motivated by the recent discovery of the four-sublattice triple-$q$ order in the magnetic semiconductor GdGaI, we study an effective theory that couples a Ga $4p$ hole pocket at the $Γ$ point to three Gd $5d$ electron pockets at the $M$ points through four exchange channels. For the antiferromagnetic umbrella state with zero net magnetization, the model hosts trivial ($C = 0$) and $C = \\pm 4$ Chern insulator phases separated by metallic regions; by deriving an analytical low-energy theory at the $Γ$ point, we show that the topological phase boundary is described by two degenerate double-Weyl semimetals, naturally explaining the $ΔC = 4$ jump in the Chern number. In addition, a nodal-line-like state pinned near the Fermi level emerges in the absence of the $p$-$d$ exchange coupling, which separates the $C=\\pm4$ phases for $θ=\\arccos(1/3)$ into two. Tuning the canting angle by an external magnetic field drives an insulator-to-metal transition out of the Chern insulator phase while leaving the trivial insulator largely intact, and stabilizes an additional $C = \\pm 2$ Chern insulator phase when the uniform-magnetization exchange couplings become appreciable. These results identify GdGaI and its sister compounds as highly tunable platforms for realizing topological phases and field-induced metal-insulator transitions in clean magnetic semiconductors.",
+      "reading_notes": "Focus: 半导体.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Field-induced metal-insulator transition, Chern insulators, and topological semimetals in a cle…."
+    }
+  ],
+  "errors": [],
+  "report_url": "/index.html",
+  "report_url_pc": "/desktop.html",
+  "report_url_mobile": "/mobile.html",
+  "generated_at": "2026-05-06T00:30:00+00:00"
+}

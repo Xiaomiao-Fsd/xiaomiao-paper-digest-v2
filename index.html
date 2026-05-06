@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>论文晨报 v2｜微电子材料 / 晶体管</title>
+  <meta name="description" content="Microelectronics / transistor paper digest v2" />
+  <link rel="stylesheet" href="./assets/app.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">Paper Digest v2</p>
+      <h1>论文晨报｜微电子材料 / 晶体管</h1>
+      <p id="subtitle" class="subtitle">加载中…</p>
+    </div>
+    <div class="toolbar">
+      <button id="themeToggle" type="button">切换主题</button>
+      <a class="button" href="./data/latest.json">JSON</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="summary-grid" aria-label="digest summary">
+      <article class="stat"><span id="selectedCount">-</span><small>入选论文</small></article>
+      <article class="stat"><span id="newCount">-</span><small>新命中</small></article>
+      <article class="stat"><span id="companyCount">-</span><small>Intel / TSMC</small></article>
+      <article class="stat wide"><span id="generatedAt">-</span><small>生成时间</small></article>
+    </section>
+
+    <section class="filters">
+      <input id="searchBox" type="search" placeholder="搜索标题、作者、关键词、摘要…" />
+      <select id="sourceFilter"><option value="">全部来源</option></select>
+      <select id="priorityFilter">
+        <option value="">全部优先级</option>
+        <option value="company">Intel / TSMC 重点</option>
+        <option value="high">高相关</option>
+        <option value="normal">普通相关</option>
+      </select>
+    </section>
+
+    <section id="paperList" class="paper-list" aria-live="polite"></section>
+  </main>
+
+  <footer>
+    <p>v2 UI 固定在 GitHub Pages；每日推送只更新 <code>data/latest.json</code>，避免覆盖页面结构。</p>
+  </footer>
+
+  <template id="paperCardTemplate">
+    <article class="paper-card">
+      <div class="paper-head">
+        <div>
+          <p class="meta"></p>
+          <h2><a class="title" target="_blank" rel="noopener"></a></h2>
+        </div>
+        <span class="badge"></span>
+      </div>
+      <p class="authors"></p>
+      <div class="chips"></div>
+      <div class="columns">
+        <section>
+          <h3>英文摘要</h3>
+          <p class="summary"></p>
+        </section>
+        <section>
+          <h3>中文概述</h3>
+          <p class="abstract-cn"></p>
+        </section>
+        <section>
+          <h3>阅读导览</h3>
+          <p class="reading-notes"></p>
+        </section>
+      </div>
+    </article>
+  </template>
+
+  <script src="./assets/app.js" defer></script>
+</body>
+</html>
