@@ -36,14 +36,67 @@ function renderSummary(digest) {
   $('generatedAt').textContent = fmtDate(digest.generated_at);
 }
 function renderSources() {
-  const select = $('sourceFilter');
   const sources = [...new Set(state.papers.map(p => p.source).filter(Boolean))].sort();
-  for (const source of sources) {
-    const opt = document.createElement('option');
-    opt.value = source;
-    opt.textContent = source;
-    select.appendChild(opt);
+  renderFilterMenu('source', [{ value: '', label: '全部来源' }, ...sources.map(source => ({ value: source, label: source }))]);
+  renderFilterMenu('priority', [
+    { value: '', label: '全部优先级' },
+    { value: 'company', label: 'Intel / TSMC 重点' },
+    { value: 'high', label: '高相关' },
+    { value: 'normal', label: '普通相关' },
+  ]);
+}
+function renderFilterMenu(type, options) {
+  const menu = $(`${type}FilterMenu`);
+  menu.innerHTML = '';
+  for (const option of options) {
+    const item = document.createElement('button');
+    item.type = 'button';
+    item.className = `filter-option${state[type] === option.value ? ' active' : ''}`;
+    item.setAttribute('role', 'option');
+    item.setAttribute('aria-selected', state[type] === option.value ? 'true' : 'false');
+    item.dataset.value = option.value;
+    item.textContent = option.label;
+    item.addEventListener('click', event => {
+      event.stopPropagation();
+      setFilterValue(type, option.value, option.label);
+    });
+    menu.appendChild(item);
   }
+  const selected = options.find(option => option.value === state[type]) || options[0];
+  $(`${type}FilterLabel`).textContent = selected.label;
+}
+function setFilterValue(type, value, label) {
+  state[type] = value;
+  $(`${type}FilterLabel`).textContent = label;
+  document.querySelectorAll(`#${type}FilterMenu .filter-option`).forEach(item => {
+    const active = item.dataset.value === value;
+    item.classList.toggle('active', active);
+    item.setAttribute('aria-selected', active ? 'true' : 'false');
+  });
+  closeFilterMenus();
+  renderPapers();
+}
+function closeFilterMenus() {
+  document.querySelectorAll('.filter-picker.is-open').forEach(picker => {
+    picker.classList.remove('is-open');
+    $(`${picker.dataset.filter}FilterButton`)?.setAttribute('aria-expanded', 'false');
+  });
+}
+function initFilterPickers() {
+  ['source', 'priority'].forEach(type => {
+    $(`${type}FilterButton`).addEventListener('click', event => {
+      event.stopPropagation();
+      const picker = document.querySelector(`.filter-picker[data-filter="${type}"]`);
+      const shouldOpen = !picker.classList.contains('is-open');
+      closeFilterMenus();
+      picker.classList.toggle('is-open', shouldOpen);
+      $(`${type}FilterButton`).setAttribute('aria-expanded', shouldOpen ? 'true' : 'false');
+    });
+  });
+  document.addEventListener('click', closeFilterMenus);
+  document.addEventListener('keydown', event => {
+    if (event.key === 'Escape') closeFilterMenus();
+  });
 }
 function filteredPapers() {
   const q = state.query.trim().toLowerCase();
@@ -171,9 +224,8 @@ async function init() {
   themeMedia.addEventListener('change', () => {
     if (!savedTheme()) applyTheme();
   });
+  initFilterPickers();
   $('searchBox').addEventListener('input', e => { state.query = e.target.value; renderPapers(); });
-  $('sourceFilter').addEventListener('change', e => { state.source = e.target.value; renderPapers(); });
-  $('priorityFilter').addEventListener('change', e => { state.priority = e.target.value; renderPapers(); });
   try {
     const res = await fetch('./data/latest.json', { cache: 'no-store' });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);

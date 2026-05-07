@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>论文晨报 v2｜微电子材料 / 晶体管</title>
   <meta name="description" content="Microelectronics / transistor paper digest v2" />
-  <link rel="stylesheet" href="./assets/app.css?v=20260507-ui12" />
+  <link rel="stylesheet" href="./assets/app.css?v=20260507-ui13" />
 </head>
 <body>
   <section class="digest-browser-bar" aria-label="digest controls">
@@ -34,13 +34,20 @@
 
     <section class="filters">
       <input id="searchBox" type="search" placeholder="搜索标题、作者、关键词、摘要…" />
-      <select id="sourceFilter"><option value="">全部来源</option></select>
-      <select id="priorityFilter">
-        <option value="">全部优先级</option>
-        <option value="company">Intel / TSMC 重点</option>
-        <option value="high">高相关</option>
-        <option value="normal">普通相关</option>
-      </select>
+      <div class="filter-picker" data-filter="source">
+        <button id="sourceFilterButton" class="filter-button" type="button" aria-expanded="false" aria-controls="sourceFilterMenu">
+          <span id="sourceFilterLabel" class="filter-button-label">全部来源</span>
+          <span class="filter-caret" aria-hidden="true">▾</span>
+        </button>
+        <div id="sourceFilterMenu" class="filter-menu" role="listbox" aria-label="全部来源选项"></div>
+      </div>
+      <div class="filter-picker" data-filter="priority">
+        <button id="priorityFilterButton" class="filter-button" type="button" aria-expanded="false" aria-controls="priorityFilterMenu">
+          <span id="priorityFilterLabel" class="filter-button-label">全部优先级</span>
+          <span class="filter-caret" aria-hidden="true">▾</span>
+        </button>
+        <div id="priorityFilterMenu" class="filter-menu" role="listbox" aria-label="全部优先级选项"></div>
+      </div>
     </section>
 
     <section id="paperTableWrap" class="paper-table-wrap" aria-live="polite" aria-label="PC table view">
@@ -99,6 +106,6 @@
     </article>
   </template>
 
-  <script src="./assets/app.js?v=20260507-ui12" defer></script>
+  <script src="./assets/app.js?v=20260507-ui13" defer></script>
 </body>
 </html>
