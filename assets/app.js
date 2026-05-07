@@ -1,5 +1,7 @@
 const state = { digest: null, papers: [], query: '', source: '', priority: '' };
 const $ = (id) => document.getElementById(id);
+const themeMedia = window.matchMedia('(prefers-color-scheme: dark)');
+const themeStorageKey = 'paper_digest_v2_theme_override';
 
 function text(value, fallback = '—') {
   if (value === null || value === undefined || value === '') return fallback;
@@ -135,12 +137,31 @@ function appendCell(row, value, className = '') {
   row.appendChild(td);
   return td;
 }
+function savedTheme() {
+  const value = localStorage.getItem(themeStorageKey);
+  return value === 'light' || value === 'dark' ? value : null;
+}
+function currentTheme() {
+  return savedTheme() || (themeMedia.matches ? 'dark' : 'light');
+}
+function applyTheme(theme = currentTheme()) {
+  document.documentElement.classList.toggle('dark', theme === 'dark');
+  document.documentElement.classList.toggle('light', theme === 'light');
+  const label = theme === 'dark' ? '暗色主题' : '亮色主题';
+  $('themeToggle').textContent = label;
+  $('themeToggle').setAttribute('aria-label', `当前为${label}，点击切换主题`);
+  $('themeToggle').setAttribute('aria-pressed', theme === 'dark' ? 'true' : 'false');
+}
 async function init() {
-  const savedTheme = localStorage.getItem('paper_digest_v2_theme');
-  if (savedTheme === 'dark') document.documentElement.classList.add('dark');
+  applyTheme();
+  requestAnimationFrame(() => document.documentElement.classList.add('theme-ready'));
   $('themeToggle').addEventListener('click', () => {
-    document.documentElement.classList.toggle('dark');
-    localStorage.setItem('paper_digest_v2_theme', document.documentElement.classList.contains('dark') ? 'dark' : 'light');
+    const nextTheme = currentTheme() === 'dark' ? 'light' : 'dark';
+    localStorage.setItem(themeStorageKey, nextTheme);
+    applyTheme(nextTheme);
+  });
+  themeMedia.addEventListener('change', () => {
+    if (!savedTheme()) applyTheme();
   });
   $('searchBox').addEventListener('input', e => { state.query = e.target.value; renderPapers(); });
   $('sourceFilter').addEventListener('change', e => { state.source = e.target.value; renderPapers(); });
