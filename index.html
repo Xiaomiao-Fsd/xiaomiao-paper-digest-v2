@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>论文晨报 v2｜微电子材料 / 晶体管</title>
   <meta name="description" content="Microelectronics / transistor paper digest v2" />
-  <link rel="stylesheet" href="./assets/app.css?v=20260507-ui8" />
+  <link rel="stylesheet" href="./assets/app.css?v=20260507-ui9" />
 </head>
 <body>
   <section class="digest-browser-bar" aria-label="digest controls">
@@ -14,17 +14,6 @@
       <article class="stat"><span id="newCount">-</span><small>新命中</small></article>
       <article class="stat"><span id="companyCount">-</span><small>Intel / TSMC</small></article>
       <article class="stat wide"><span id="generatedAt">-</span><small>生成时间</small></article>
-    </section>
-
-    <section class="filters">
-      <input id="searchBox" type="search" placeholder="搜索标题、作者、关键词、摘要…" />
-      <select id="sourceFilter"><option value="">全部来源</option></select>
-      <select id="priorityFilter">
-        <option value="">全部优先级</option>
-        <option value="company">Intel / TSMC 重点</option>
-        <option value="high">高相关</option>
-        <option value="normal">普通相关</option>
-      </select>
     </section>
   </section>
 
@@ -41,6 +30,18 @@
   </header>
 
   <main>
+
+
+    <section class="filters">
+      <input id="searchBox" type="search" placeholder="搜索标题、作者、关键词、摘要…" />
+      <select id="sourceFilter"><option value="">全部来源</option></select>
+      <select id="priorityFilter">
+        <option value="">全部优先级</option>
+        <option value="company">Intel / TSMC 重点</option>
+        <option value="high">高相关</option>
+        <option value="normal">普通相关</option>
+      </select>
+    </section>
 
     <section id="paperTableWrap" class="paper-table-wrap" aria-live="polite" aria-label="PC table view">
       <table id="paperTable">
@@ -98,6 +99,6 @@
     </article>
   </template>
 
-  <script src="./assets/app.js?v=20260507-ui8" defer></script>
+  <script src="./assets/app.js?v=20260507-ui9" defer></script>
 </body>
 </html>

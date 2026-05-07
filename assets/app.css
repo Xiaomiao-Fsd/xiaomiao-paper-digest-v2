@@ -94,25 +94,12 @@ button, .button, input, select {
 button, .button { cursor: pointer; box-shadow: var(--shadow); }
 .theme-toggle { display: inline-flex; align-items: center; gap: 6px; }
 .theme-glyph { font-family: "Segoe UI Symbol", "Noto Sans Symbols 2", "Noto Sans Symbols", "Apple Symbols", "DejaVu Sans", sans-serif; font-size: 18px; line-height: 1; transform: translateY(-.5px); }
-.digest-browser-bar {
-  position: sticky;
-  top: 0;
-  z-index: 30;
-  width: 100%;
-  margin: 0 0 12px;
-  padding: 7px 12px 8px;
-  border: 0;
-  border-bottom: 1px solid var(--line);
-  border-radius: 0;
-  background: color-mix(in srgb, var(--panel) 88%, var(--bg));
-  box-shadow: var(--shadow);
-  backdrop-filter: blur(16px);
-}
-.summary-grid { display: flex; flex-wrap: nowrap; justify-content: flex-start; gap: 8px; margin: 0; padding-bottom: 6px; border-bottom: 1px solid var(--line); overflow-x: auto; }
+.digest-browser-bar { position: sticky; top: 0; z-index: 30; width: 100%; margin: 0 0 12px; padding: 7px 12px; border: 0; border-bottom: 1px solid var(--line); border-radius: 0; background: color-mix(in srgb, var(--panel) 88%, var(--bg)); box-shadow: var(--shadow); backdrop-filter: blur(16px); }
+.summary-grid { display: flex; flex-wrap: nowrap; justify-content: flex-start; gap: 8px; margin: 0; overflow-x: auto; }
 .stat { display: flex; flex-direction: row-reverse; align-items: center; justify-content: space-between; gap: 10px; flex: 0 0 170px; min-height: 36px; background: color-mix(in srgb, var(--panel) 82%, var(--brand-soft)); border: 1px solid var(--line); border-radius: 12px; padding: 5px 10px; box-shadow: none; }
 .stat span { display: block; font-size: 17px; font-weight: 800; line-height: 1; white-space: nowrap; }
 .stat small { color: var(--muted); font-size: 13px; white-space: nowrap; }
-.filters { margin: 6px 0 0; padding: 5px; display: flex; gap: 8px; flex-wrap: nowrap; border: 1px solid var(--line); border-radius: 16px; background: color-mix(in srgb, var(--bg) 54%, var(--panel)); }
+.filters { margin: 0 0 14px; padding: 6px; display: flex; gap: 8px; flex-wrap: nowrap; border: 1px solid var(--line); border-radius: 16px; background: color-mix(in srgb, var(--bg) 54%, var(--panel)); box-shadow: var(--shadow); }
 .filters input { flex: 1 1 auto; min-width: 260px; border-radius: 999px; background: var(--panel); box-shadow: none; }
 .filters select { flex: 0 0 auto; min-width: 132px; box-shadow: none; background: var(--panel); }
 .paper-list { display: none; gap: 18px; }
