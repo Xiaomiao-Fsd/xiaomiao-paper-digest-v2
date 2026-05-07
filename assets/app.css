@@ -94,7 +94,20 @@ button, .button, input, select {
 button, .button { cursor: pointer; box-shadow: var(--shadow); }
 .theme-toggle { display: inline-flex; align-items: center; gap: 6px; }
 .theme-glyph { font-family: "Segoe UI Symbol", "Noto Sans Symbols 2", "Noto Sans Symbols", "Apple Symbols", "DejaVu Sans", sans-serif; font-size: 18px; line-height: 1; transform: translateY(-.5px); }
-.digest-browser-bar { margin: 8px 0 24px; padding: 10px; border: 1px solid var(--line); border-radius: 22px; background: color-mix(in srgb, var(--panel) 88%, var(--bg)); box-shadow: var(--shadow); backdrop-filter: blur(16px); }
+.digest-browser-bar {
+  position: sticky;
+  top: 0;
+  z-index: 30;
+  width: min(980px, calc(100% - 24px));
+  margin: 0 auto 10px;
+  padding: 10px;
+  border: 1px solid var(--line);
+  border-top: 0;
+  border-radius: 0 0 22px 22px;
+  background: color-mix(in srgb, var(--panel) 88%, var(--bg));
+  box-shadow: var(--shadow);
+  backdrop-filter: blur(16px);
+}
 .summary-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 8px; margin: 0; padding-bottom: 8px; border-bottom: 1px solid var(--line); }
 .stat { display: flex; flex-direction: row-reverse; align-items: center; justify-content: space-between; gap: 10px; min-height: 54px; background: color-mix(in srgb, var(--panel) 82%, var(--brand-soft)); border: 1px solid var(--line); border-radius: 15px; padding: 8px 12px; box-shadow: none; }
 .stat span { display: block; font-size: 21px; font-weight: 800; line-height: 1.1; }
@@ -146,6 +159,7 @@ footer { color: var(--muted); padding: 28px 0 40px; }
 }
 @media (max-width: 520px) {
   .topbar, main, footer { width: min(100% - 20px, 1180px); }
+  .digest-browser-bar { width: min(100% - 12px, 980px); top: 0; }
   .summary-grid { grid-template-columns: 1fr; }
   .paper-card { padding: 16px; border-radius: 20px; }
 }
