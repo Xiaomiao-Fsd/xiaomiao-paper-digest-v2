@@ -90,6 +90,8 @@ button, .button, input, select {
   border-radius: 999px; padding: 10px 14px; font: inherit; font-family: var(--font-regular); text-decoration: none;
 }
 button, .button { cursor: pointer; box-shadow: var(--shadow); }
+.theme-toggle { display: inline-flex; align-items: center; gap: 6px; }
+.theme-glyph { font-family: "Segoe UI Symbol", "Noto Sans Symbols 2", "Noto Sans Symbols", "Apple Symbols", "DejaVu Sans", sans-serif; font-size: 18px; line-height: 1; transform: translateY(-.5px); }
 .summary-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; margin: 12px 0 18px; }
 .stat { background: var(--panel); border: 1px solid var(--line); border-radius: 24px; padding: 18px; box-shadow: var(--shadow); }
 .stat span { display: block; font-size: 28px; font-weight: 800; }

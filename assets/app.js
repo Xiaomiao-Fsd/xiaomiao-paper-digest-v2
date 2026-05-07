@@ -147,8 +147,16 @@ function currentTheme() {
 function applyTheme(theme = currentTheme()) {
   document.documentElement.classList.toggle('dark', theme === 'dark');
   document.documentElement.classList.toggle('light', theme === 'light');
-  const label = theme === 'dark' ? '☾ 暗色' : '☼ 亮色';
-  $('themeToggle').textContent = label;
+  const glyph = theme === 'dark' ? '☾' : '☼';
+  const label = theme === 'dark' ? '暗色' : '亮色';
+  $('themeToggle').replaceChildren();
+  const glyphNode = document.createElement('span');
+  glyphNode.className = 'theme-glyph';
+  glyphNode.setAttribute('aria-hidden', 'true');
+  glyphNode.textContent = glyph;
+  const labelNode = document.createElement('span');
+  labelNode.textContent = label;
+  $('themeToggle').append(glyphNode, labelNode);
   $('themeToggle').setAttribute('aria-label', `当前为${theme === 'dark' ? '暗色' : '亮色'}，点击切换主题`);
   $('themeToggle').setAttribute('aria-pressed', theme === 'dark' ? 'true' : 'false');
 }
