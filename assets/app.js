@@ -13,7 +13,8 @@ function fmtDate(value) {
 }
 function normalizePaper(p) {
   const highlights = Array.isArray(p.highlights) ? p.highlights : [];
-  const priority = p.priority || (highlights.some(h => /Intel|TSMC/i.test(h)) ? 'company' : (Number(p.score || 0) >= 8 ? 'high' : 'normal'));
+  const explicitPriority = ['company', 'high', 'normal'].includes(p.priority) ? p.priority : '';
+  const priority = explicitPriority || (highlights.some(h => /Intel|TSMC/i.test(h)) ? 'company' : (Number(p.priority || p.score || 0) >= 2 || Number(p.score || 0) >= 8 ? 'high' : 'normal'));
   return { ...p, highlights, priority };
 }
 function priorityLabel(priority) {
@@ -53,12 +54,20 @@ function filteredPapers() {
 }
 function renderPapers() {
   const list = $('paperList');
+  const table = $('paperTable');
+  const tbody = $('paperTableBody');
+  const tableEmpty = $('paperTableEmpty');
   list.innerHTML = '';
+  tbody.innerHTML = '';
   const papers = filteredPapers();
   if (!papers.length) {
     list.innerHTML = '<div class="empty">没有匹配的论文。</div>';
+    table.hidden = true;
+    tableEmpty.hidden = false;
     return;
   }
+  table.hidden = false;
+  tableEmpty.hidden = true;
   const tpl = $('paperCardTemplate');
   papers.forEach((p, i) => {
     const node = tpl.content.cloneNode(true);
@@ -82,7 +91,49 @@ function renderPapers() {
     node.querySelector('.abstract-cn').textContent = text(p.abstract_cn || p.overview_cn, '暂无中文概述');
     node.querySelector('.reading-notes').textContent = text(p.reading_notes || p.keyword_extract, '暂无阅读导览');
     list.appendChild(node);
+
+    const tr = document.createElement('tr');
+    appendCell(tr, `#${i + 1}`, 'index-cell');
+    const badgeCell = document.createElement('td');
+    const tableBadge = document.createElement('span');
+    tableBadge.className = `badge ${p.priority}`;
+    tableBadge.textContent = priorityLabel(p.priority);
+    badgeCell.appendChild(tableBadge);
+    tr.appendChild(badgeCell);
+    appendCell(tr, text(p.source));
+    appendCell(tr, text(p.published));
+    const titleCell = document.createElement('td');
+    titleCell.className = 'title-cell';
+    const link = document.createElement('a');
+    link.href = p.url || '#';
+    link.target = '_blank';
+    link.rel = 'noopener';
+    link.textContent = text(p.title);
+    titleCell.appendChild(link);
+    tr.appendChild(titleCell);
+    appendCell(tr, Array.isArray(p.authors) ? p.authors.join(', ') : text(p.authors), 'authors-cell');
+    const keywordCell = document.createElement('td');
+    keywordCell.className = 'keywords-cell';
+    (p.highlights || []).forEach(h => {
+      const chip = document.createElement('span');
+      chip.className = 'chip';
+      chip.textContent = h;
+      keywordCell.appendChild(chip);
+    });
+    if (!keywordCell.children.length) keywordCell.textContent = '—';
+    tr.appendChild(keywordCell);
+    appendCell(tr, text(p.summary, '暂无英文摘要'), 'text-cell');
+    appendCell(tr, text(p.abstract_cn || p.overview_cn, '暂无中文概述'), 'text-cell');
+    appendCell(tr, text(p.reading_notes || p.keyword_extract, '暂无阅读导览'), 'text-cell');
+    tbody.appendChild(tr);
   });
+}
+function appendCell(row, value, className = '') {
+  const td = document.createElement('td');
+  if (className) td.className = className;
+  td.textContent = value;
+  row.appendChild(td);
+  return td;
 }
 async function init() {
   const savedTheme = localStorage.getItem('paper_digest_v2_theme');
@@ -103,7 +154,12 @@ async function init() {
     renderSources();
     renderPapers();
   } catch (err) {
-    $('paperList').innerHTML = `<div class="error">加载 data/latest.json 失败：${err.message}</div>`;
+    const message = `加载 data/latest.json 失败：${err.message}`;
+    $('paperList').innerHTML = `<div class="error">${message}</div>`;
+    $('paperTable').hidden = true;
+    $('paperTableEmpty').textContent = message;
+    $('paperTableEmpty').className = 'error';
+    $('paperTableEmpty').hidden = false;
   }
 }
 init();

@@ -39,11 +39,32 @@
       </select>
     </section>
 
-    <section id="paperList" class="paper-list" aria-live="polite"></section>
+    <section id="paperTableWrap" class="paper-table-wrap" aria-live="polite" aria-label="PC table view">
+      <table id="paperTable">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>重点</th>
+            <th>Source</th>
+            <th>Date</th>
+            <th>Title / Link</th>
+            <th>Authors</th>
+            <th>Keywords</th>
+            <th>Abstract</th>
+            <th>中文概述</th>
+            <th>阅读导览</th>
+          </tr>
+        </thead>
+        <tbody id="paperTableBody"></tbody>
+      </table>
+      <div id="paperTableEmpty" class="empty" hidden>没有匹配的论文。</div>
+    </section>
+
+    <section id="paperList" class="paper-list" aria-live="polite" aria-label="mobile card view"></section>
   </main>
 
   <footer>
-    <p>v2 UI 固定在 GitHub Pages；每日推送只更新 <code>data/latest.json</code>，避免覆盖页面结构。</p>
+    <p>v2 使用同一个入口自适应：PC 端显示表格，手机端自动切换为卡片；每日推送只更新 <code>data/latest.json</code>。</p>
   </footer>
 
   <template id="paperCardTemplate">
