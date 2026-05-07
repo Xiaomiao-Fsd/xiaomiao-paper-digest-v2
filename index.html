@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>论文晨报 v2｜微电子材料 / 晶体管</title>
   <meta name="description" content="Microelectronics / transistor paper digest v2" />
-  <link rel="stylesheet" href="./assets/app.css?v=20260507-ui5" />
+  <link rel="stylesheet" href="./assets/app.css?v=20260507-ui6" />
 </head>
 <body>
   <header class="topbar">
@@ -21,6 +21,7 @@
   </header>
 
   <main>
+    <section class="digest-browser-bar" aria-label="digest controls">
     <section class="summary-grid" aria-label="digest summary">
       <article class="stat"><span id="selectedCount">-</span><small>入选论文</small></article>
       <article class="stat"><span id="newCount">-</span><small>新命中</small></article>
@@ -37,6 +38,7 @@
         <option value="high">高相关</option>
         <option value="normal">普通相关</option>
       </select>
+    </section>
     </section>
 
     <section id="paperTableWrap" class="paper-table-wrap" aria-live="polite" aria-label="PC table view">
@@ -95,6 +97,6 @@
     </article>
   </template>
 
-  <script src="./assets/app.js?v=20260507-ui5" defer></script>
+  <script src="./assets/app.js?v=20260507-ui6" defer></script>
 </body>
 </html>
