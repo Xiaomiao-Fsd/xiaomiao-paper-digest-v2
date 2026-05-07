@@ -147,7 +147,7 @@ function currentTheme() {
 function applyTheme(theme = currentTheme()) {
   document.documentElement.classList.toggle('dark', theme === 'dark');
   document.documentElement.classList.toggle('light', theme === 'light');
-  const label = theme === 'dark' ? '🌙 暗色' : '☀️ 亮色';
+  const label = theme === 'dark' ? '☾ 暗色' : '☼ 亮色';
   $('themeToggle').textContent = label;
   $('themeToggle').setAttribute('aria-label', `当前为${theme === 'dark' ? '暗色' : '亮色'}，点击切换主题`);
   $('themeToggle').setAttribute('aria-pressed', theme === 'dark' ? 'true' : 'false');
