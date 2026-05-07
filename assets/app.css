@@ -50,21 +50,20 @@ button, .button { cursor: pointer; box-shadow: var(--shadow); }
 .filters { margin: 18px 0 24px; }
 .filters input { flex: 1 1 320px; border-radius: 18px; }
 .paper-list { display: none; gap: 18px; }
-.paper-table-wrap { margin: 18px 0 24px; overflow-x: auto; border: 1px solid var(--line); border-radius: 24px; box-shadow: var(--shadow); background: var(--panel); }
-.paper-table-wrap table { width: 100%; min-width: 1680px; border-collapse: collapse; }
+.paper-table-wrap { margin: 18px 0 24px; overflow-x: auto; border-radius: 14px; box-shadow: 0 0 0 1px var(--line) inset; background: var(--panel); }
+.paper-table-wrap table { width: 100%; min-width: 2000px; border-collapse: collapse; }
 .paper-table-wrap th,
-.paper-table-wrap td { border-bottom: 1px solid var(--line); border-right: 1px solid var(--line); padding: 12px 14px; text-align: left; vertical-align: top; }
-.paper-table-wrap th:last-child,
-.paper-table-wrap td:last-child { border-right: 0; }
-.paper-table-wrap tbody tr:last-child td { border-bottom: 0; }
-.paper-table-wrap th { position: sticky; top: 0; z-index: 1; background: color-mix(in srgb, var(--panel) 88%, var(--brand-soft)); color: var(--muted); font-size: 13px; white-space: nowrap; }
-.paper-table-wrap tbody tr:hover td { background: color-mix(in srgb, var(--brand-soft) 42%, transparent); }
-.paper-table-wrap a { color: var(--text); font-weight: 700; text-decoration: none; }
+.paper-table-wrap td { border: 1px solid var(--line); padding: 12px; text-align: left; vertical-align: top; }
+.paper-table-wrap th { position: sticky; top: 0; z-index: 1; background: var(--brand-soft); color: var(--text); font-size: 14px; white-space: nowrap; }
+.paper-table-wrap tbody tr:nth-child(even) td { background: color-mix(in srgb, var(--bg) 42%, transparent); }
+.paper-table-wrap a { color: var(--brand); font-weight: 600; text-decoration: none; }
 .paper-table-wrap a:hover { color: var(--brand); text-decoration: underline; }
-.paper-table-wrap .title-cell { min-width: 280px; }
-.paper-table-wrap .authors-cell { min-width: 220px; color: var(--muted); }
+.paper-table-wrap .title-cell { min-width: 320px; }
+.paper-table-wrap .authors-cell { min-width: 260px; color: var(--text); }
 .paper-table-wrap .keywords-cell { min-width: 180px; }
-.paper-table-wrap .text-cell { min-width: 320px; white-space: pre-wrap; }
+.paper-table-wrap .summary-cell { min-width: 360px; white-space: pre-wrap; line-height: 1.55; }
+.paper-table-wrap .cn-cell,
+.paper-table-wrap .notes-cell { min-width: 300px; white-space: pre-wrap; line-height: 1.6; }
 .paper-table-wrap .index-cell { color: var(--brand); font-weight: 800; }
 .paper-card { background: var(--panel); border: 1px solid var(--line); border-radius: 28px; padding: 22px; box-shadow: var(--shadow); }
 .paper-head { display: flex; justify-content: space-between; gap: 16px; align-items: flex-start; }

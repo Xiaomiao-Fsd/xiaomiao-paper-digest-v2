@@ -122,9 +122,9 @@ function renderPapers() {
     });
     if (!keywordCell.children.length) keywordCell.textContent = '—';
     tr.appendChild(keywordCell);
-    appendCell(tr, text(p.summary, '暂无英文摘要'), 'text-cell');
-    appendCell(tr, text(p.abstract_cn || p.overview_cn, '暂无中文概述'), 'text-cell');
-    appendCell(tr, text(p.reading_notes || p.keyword_extract, '暂无阅读导览'), 'text-cell');
+    appendCell(tr, text(p.summary, '暂无英文摘要'), 'summary-cell');
+    appendCell(tr, text(p.abstract_cn || p.overview_cn, '暂无中文概述'), 'cn-cell');
+    appendCell(tr, text(p.reading_notes || p.keyword_extract, '暂无阅读导览'), 'notes-cell');
     tbody.appendChild(tr);
   });
 }
