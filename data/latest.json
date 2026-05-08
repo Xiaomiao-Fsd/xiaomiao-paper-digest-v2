@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 7,
+  "new_count": 3,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-05-06）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials\n命中 7 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Stochastic first-passage modeling of single-event burnout in SiC power MOSFETs\n   关键词：MOSFET, SiC\n   日期：2026-05-04\n   Authors: Feiyi Liu, Min Guo, Shiyang Chen 等\n   https://arxiv.org/abs/2605.02478v1\n2. [arXiv] Numerical Validation of a MOSFET-Based Control Circuit for High-Power Intelligent Reflectin…\n   关键词：MOSFET\n   日期：2026-05-03\n   Authors: Gakuto Ichikawa, Eisuke Omori, Atsuko Nagata 等\n   https://arxiv.org/abs/2605.01683v1\n3. [arXiv] Tracking visible pulsed laser annealing of Hf$_{0.5}$Zr$_{0.5}$O$_2$ heterostructures with …\n   日期：2026-04-29\n   Authors: Aida Amini, Shruti Verma, Katharina Kohlmann 等\n   https://arxiv.org/abs/2604.26718v2\n4. [arXiv] Composition-Driven Tunable Optical and Electrical Properties in Van der Waals Ferroelectric…\n   关键词：ferroelectric\n   日期：2026-05-02\n   Authors: Gaolei Zhao, Juhe Liu, Jinkai Huo 等\n   https://arxiv.org/abs/2605.01285v1\n5. [arXiv] Field-induced metal-insulator transition, Chern insulators, and topological semimetals in a…\n   关键词：semiconductor\n   日期：2026-05-03\n   Authors: Kazuki Guzman, Hiroaki Ishizuka\n   https://arxiv.org/abs/2605.01804v1\n6. [arXiv] Continuous quantification of viral plaque dynamics using ultra-large-area label-free imagin…\n   日期：2026-05-03\n   Authors: Merve Eryilmaz, Yuzhu Li, Xiao Wang 等\n   https://arxiv.org/abs/2605.01738v1\n7. [arXiv] A hidden bulk polymorph governs charge transport dimensionality in an organic semiconductor\n   关键词：semiconductor\n   日期：2026-05-02\n   Authors: Caterina Zuffa, Marco Bardini, Fabian Gasser 等\n   https://arxiv.org/abs/2605.01049v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-05-08）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials\n命中 3 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Unraveling the Defect Physics of SiC Micropipe Sidewalls by Non-Line-of-Sight Confocal Spec…\n   关键词：SiC\n   日期：2026-05-06\n   Authors: Irwan Saleh Kurniawan, Russel Cruz Sevilla, Ruth Jeane Soebroto 等\n   https://arxiv.org/abs/2605.04865v1\n2. [arXiv] Emergence of Localized Surface Plasmons in Unpatterned Hyperdoped Polycrystalline Silicon\n   日期：2026-05-06\n   Authors: Mohamad Bahsoun, Jesse Groenen, Gonzague Agez 等\n   https://arxiv.org/abs/2605.04854v1\n3. [arXiv] Magnetic Brightening and Nanoscale Imaging of Spin-Polarized Helical Edge Modes\n   日期：2026-05-06\n   Authors: Samuel Haeuser, Richard H. J. Kim, Lin-Lin Wang 等\n   https://arxiv.org/abs/2605.04883v1",
   "papers": [
     {
       "source": "arXiv",
@@ -25,9 +25,8 @@
         "MOSFET",
         "SiC"
       ],
-      "abstract_cn": "【中文翻译（基于英文摘要）】\n碳化硅（SiC）功率 MOSFET 中的单粒子烧毁（SEB）通常用确定性的阈值量来表征。在恢复与失控的边界附近，随机涨落会使这种阈值描述从清晰边界变成概率性的过渡。本文从首次通过过程的角度研究烧毁中的随机阈值展宽问题。作者使用带吸收边界的简化电热反馈—弛豫模型描述该过程，模型综合考虑了载流子倍增、雪崩反馈、局部加热、载流子损失和热弛豫等因素，并用随机载流子项和热项表示事件尺度上未解析的波动。主要结论是，有限涨落会把确定性的烧毁阈值拓宽为一个概率转变区间；同时还会出现噪声诱导的亚阈值失控，即名义上可恢复的工作条件也可能因罕见随机偏移而失效。首次通过时间分布能够解析烧毁发生的时间尺度，而存活概率进一步区分快速反馈主导的失控和延迟型随机失效。反馈—弛豫相图则将可恢复、概率性和失控等工作区域组织起来，为理解 SiC 功率器件辐照可靠性提供了随机建模视角。",
-      "reading_notes": "Focus: MOSFET、SiC.\nWhat to check: 可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Stochastic first-passage modeling of single-event burnout in SiC power MOSFETs.",
-      "abstract_zh": "【中文翻译（基于英文摘要）】\n碳化硅（SiC）功率 MOSFET 中的单粒子烧毁（SEB）通常用确定性的阈值量来表征。在恢复与失控的边界附近，随机涨落会使这种阈值描述从清晰边界变成概率性的过渡。本文从首次通过过程的角度研究烧毁中的随机阈值展宽问题。作者使用带吸收边界的简化电热反馈—弛豫模型描述该过程，模型综合考虑了载流子倍增、雪崩反馈、局部加热、载流子损失和热弛豫等因素，并用随机载流子项和热项表示事件尺度上未解析的波动。主要结论是，有限涨落会把确定性的烧毁阈值拓宽为一个概率转变区间；同时还会出现噪声诱导的亚阈值失控，即名义上可恢复的工作条件也可能因罕见随机偏移而失效。首次通过时间分布能够解析烧毁发生的时间尺度，而存活概率进一步区分快速反馈主导的失控和延迟型随机失效。反馈—弛豫相图则将可恢复、概率性和失控等工作区域组织起来，为理解 SiC 功率器件辐照可靠性提供了随机建模视角。"
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、SiC方向，围绕“Stochastic first-passage modeling of single-event burnout in SiC power MOSFETs”展开。摘要显示，文章重点涉及制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "reading_notes": "Focus: MOSFET、SiC.\nWhat to check: 可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Stochastic first-passage modeling of single-event burnout in SiC power MOSFETs."
     },
     {
       "source": "arXiv",
@@ -50,30 +49,8 @@
       "highlights": [
         "MOSFET"
       ],
-      "abstract_cn": "【中文翻译（基于英文摘要）】\n智能反射面（IRS）因能够动态控制电磁波传播而受到广泛关注。现有 IRS 大多面向低功率通信和传感应用，而在高功率无线电能传输（WPT）环境中的扩展仍缺乏充分研究，因为高感应电流可能损坏或饱和敏感的控制元件，从而破坏调谐功能。本文提出一种基于金属氧化物半导体场效应晶体管（MOSFET）的二进制控制电路，用于工作在 2.4 GHz 的 IRS，并能够承受每个单元超过 1 W 的输入功率。该控制电路采用背靠背 MOSFET 开关拓扑，并结合串联和并联电容，以抑制器件非线性引起的阻抗变化，同时在导通和关断状态之间保持约 180 度的反射相位差。作者建立了基于传输线的理论模型，并通过包含非线性 SPICE 器件模型的全波协同仿真进行了验证。动态范围从额定电流和热可靠性等角度进行评估，结果表明该设计适合高功率 IRS 调控场景。",
-      "reading_notes": "Focus: MOSFET.\nWhat to check: 可靠性与稳定性.\nContext: Numerical Validation of a MOSFET-Based Control Circuit for High-Power Intelligent Reflecting Su….",
-      "abstract_zh": "【中文翻译（基于英文摘要）】\n智能反射面（IRS）因能够动态控制电磁波传播而受到广泛关注。现有 IRS 大多面向低功率通信和传感应用，而在高功率无线电能传输（WPT）环境中的扩展仍缺乏充分研究，因为高感应电流可能损坏或饱和敏感的控制元件，从而破坏调谐功能。本文提出一种基于金属氧化物半导体场效应晶体管（MOSFET）的二进制控制电路，用于工作在 2.4 GHz 的 IRS，并能够承受每个单元超过 1 W 的输入功率。该控制电路采用背靠背 MOSFET 开关拓扑，并结合串联和并联电容，以抑制器件非线性引起的阻抗变化，同时在导通和关断状态之间保持约 180 度的反射相位差。作者建立了基于传输线的理论模型，并通过包含非线性 SPICE 器件模型的全波协同仿真进行了验证。动态范围从额定电流和热可靠性等角度进行评估，结果表明该设计适合高功率 IRS 调控场景。"
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2605.00202v1",
-      "title": "Observation of single antiferromagnetic magnon modes in the tunnelling transistors of spin-1/2 Kitaev system a-RuCl3",
-      "url": "https://arxiv.org/abs/2605.00202v1",
-      "published": "2026-05-01",
-      "authors": [
-        "Servet Ozdemir",
-        "Mikhail Kashchenko",
-        "Kostya S. Novoselov"
-      ],
-      "summary": "The small gap room temperature semiconductor a-RuCl3 which is known to undergo a Mott-Hubbard transition at low temperatures, is one of the most promising candidates for realisation of an exotic matter form, the quantum spin liquid state, which may have applications in quantum computing. Although being extensively investigated by neutron scattering techniques, electronic study of this system in form of van der Waals heterostructures has been limited to mainly graphene proximity. Here we report a systematic study of planar and tunnelling electronic properties of a -RuCl3 films, where we observe an n-type semiconducting property of a -RuCl3 films at room temperature, with a Mott insulator nature onset below 120K. In constant some of the previous studies, we focus on films of three-layer thickness and below and we find inelastic scattering features, below the Neel temperature of 7-14.5 K, some of which we attribute to single magnon modes. We believe our study electrically confirms preserved low temperature signatures of the bulk zigzag antiferromagnetic order and its single magnon modes within the previously observed continuum in atomically thin film limit. The experimental progress could be a step for future electronic characterisation of quantum spin liquid state in the vicinity of the zigzag antiferromagnetic order as well as the Majorona excitations in a-RuCl3 in tunnelling transistors.",
-      "score": 7,
-      "priority": 1,
-      "highlights": [
-        "transistor"
-      ],
-      "abstract_cn": "【中文翻译（基于英文摘要）】\n小带隙室温半导体 α-RuCl3 已知在低温下会发生 Mott-Hubbard 转变，被认为是实现量子自旋液体等奇异物态的有前景候选材料，并可能用于量子计算。尽管该体系已被中子散射技术广泛研究，但以范德华异质结构形式开展的电子学研究仍主要局限于石墨烯邻近效应。本文系统研究了 α-RuCl3 薄膜的平面与隧穿电子特性。作者观察到 α-RuCl3 薄膜在室温下表现出 n 型半导体性质，并在 120 K 以下出现 Mott 绝缘体特征。与部分既有研究不同，本文重点关注三层及以下厚度的薄膜，并在 7–14.5 K 的 Néel 温度以下发现了非弹性散射特征，其中部分被归因于单磁振子模式。作者认为，该研究从电学角度证实了原子级薄膜极限下体材料锯齿型反铁磁有序及其单磁振子模式的低温特征仍得以保留。",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Observation of single antiferromagnetic magnon modes in the tunnelling transistors of spin-1/2 ….",
-      "abstract_zh": "【中文翻译（基于英文摘要）】\n小带隙室温半导体 α-RuCl3 已知在低温下会发生 Mott-Hubbard 转变，被认为是实现量子自旋液体等奇异物态的有前景候选材料，并可能用于量子计算。尽管该体系已被中子散射技术广泛研究，但以范德华异质结构形式开展的电子学研究仍主要局限于石墨烯邻近效应。本文系统研究了 α-RuCl3 薄膜的平面与隧穿电子特性。作者观察到 α-RuCl3 薄膜在室温下表现出 n 型半导体性质，并在 120 K 以下出现 Mott 绝缘体特征。与部分既有研究不同，本文重点关注三层及以下厚度的薄膜，并在 7–14.5 K 的 Néel 温度以下发现了非弹性散射特征，其中部分被归因于单磁振子模式。作者认为，该研究从电学角度证实了原子级薄膜极限下体材料锯齿型反铁磁有序及其单磁振子模式的低温特征仍得以保留。"
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET方向，围绕“Numerical Validation of a MOSFET-Based Control Circuit for High-Power Intellige…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "reading_notes": "Focus: MOSFET.\nWhat to check: 可靠性与稳定性.\nContext: Numerical Validation of a MOSFET-Based Control Circuit for High-Power Intelligent Reflecting Su…."
     },
     {
       "source": "arXiv",
@@ -92,32 +69,34 @@
         "ferroelectric",
         "wafer"
       ],
-      "abstract_cn": "【中文翻译（基于英文摘要）】\n制造工艺引起的性能波动仍是半导体芯片大规模量产中的重要障碍。随着人工智能工作负载迅速增长，对非易失存储和计算存储的需求也在快速上升。作为嵌入式非易失存储材料，铁电 Hf0.5Zr0.5O2（HZO）因兼容 CMOS 后道工艺、可扩展性好和性能较高而成为有力候选。然而，其对结晶动力学高度敏感，导致器件间（D2D）非均匀性显著，并使晶圆尺度性能变得难以预测。本文展示了无监督机器学习可用于分析芯片内部 D2D 变化，并高效预测“未见过”芯片的性能。作者提出结合主成分分析（PCA）和 K-Means 聚类的框架，用于分析 HZO 电容器中的 D2D 性能变化；在多芯片数据基础上，该方法超越传统描述性统计，形成一种预测性的“虚拟量测”方法，可按剩余极化（Pr）和矫顽电压（Vc）等关键参数区分性能类别，从而支持晶圆尺度变异性分析与性能预测。",
-      "reading_notes": "Focus: 铁电材料、wafer.\nWhat to check: 性能提升、可靠性与稳定性、与既有工艺平台的集成价值.\nContext: An Unsupervised Machine Learning-based Framework for Wafer Scale Variability Analysis and Perfo….",
-      "abstract_zh": "【中文翻译（基于英文摘要）】\n制造工艺引起的性能波动仍是半导体芯片大规模量产中的重要障碍。随着人工智能工作负载迅速增长，对非易失存储和计算存储的需求也在快速上升。作为嵌入式非易失存储材料，铁电 Hf0.5Zr0.5O2（HZO）因兼容 CMOS 后道工艺、可扩展性好和性能较高而成为有力候选。然而，其对结晶动力学高度敏感，导致器件间（D2D）非均匀性显著，并使晶圆尺度性能变得难以预测。本文展示了无监督机器学习可用于分析芯片内部 D2D 变化，并高效预测“未见过”芯片的性能。作者提出结合主成分分析（PCA）和 K-Means 聚类的框架，用于分析 HZO 电容器中的 D2D 性能变化；在多芯片数据基础上，该方法超越传统描述性统计，形成一种预测性的“虚拟量测”方法，可按剩余极化（Pr）和矫顽电压（Vc）等关键参数区分性能类别，从而支持晶圆尺度变异性分析与性能预测。"
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注铁电材料、wafer方向，围绕“An Unsupervised Machine Learning-based Framework for Wafer Scale Variability An…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、可靠性与稳定性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "reading_notes": "Focus: 铁电材料、wafer.\nWhat to check: 性能提升、可靠性与稳定性、与既有工艺平台的集成价值.\nContext: An Unsupervised Machine Learning-based Framework for Wafer Scale Variability Analysis and Perfo…."
     },
     {
       "source": "arXiv",
-      "uid": "arxiv:2604.26718v2",
-      "title": "Tracking visible pulsed laser annealing of Hf$_{0.5}$Zr$_{0.5}$O$_2$ heterostructures with in situ transmission electron microscopy",
-      "url": "https://arxiv.org/abs/2604.26718v2",
-      "published": "2026-04-29",
+      "uid": "arxiv:2605.03672v1",
+      "title": "Deterministic positioning of circular Bragg gratings using atomic force lithography for high-performance quantum dot light sources",
+      "url": "https://arxiv.org/abs/2605.03672v1",
+      "published": "2026-05-05",
       "authors": [
-        "Aida Amini",
-        "Shruti Verma",
-        "Katharina Kohlmann",
-        "Sebastian Obernberger",
-        "Jean-Christof Lamanque",
-        "Andreas Rüdiger",
-        "Kenneth R. Beyerlein"
+        "Sai Abhishikth Dhurjati",
+        "Moritz Langer",
+        "Yared G. Zena",
+        "Ahmad Rahimi",
+        "Liesa Raith",
+        "Martin Bauer",
+        "Frank H. P. Fitzek",
+        "Riccardo Bassoli",
+        "Caspar Hopfmann"
       ],
-      "summary": "Laser annealing offers a promising route to back end of the line fabrication of ferroelectric thin film transistors based on hafnium-zirconium oxide (HZO). Due to the wide band gap of this material, previous reports have studied the crystallization of HZO using ultraviolet or infrared light. In contrast, we monitor its crystallization in a Si$_3$N$_4$/TiN/Hf$_{0.5}$Zr$_{0.5}$O$_2$ thin film heterostructure upon irradiation with visible nanosecond laser pulses. This geometry mimics the structure of CMOS devices and harnesses the absorption of TiN in the visible regime to generate the heat necessary for the transformation. Through a series of local in situ measurements using a modified transmission electron microscope, we quantify the relationship between the HZO film thickness, critical laser energy density and the ferroelectric HZO phase fraction, finding a sharp threshold behavior in the laser pulse energy necessary to crystallize HZO. The optimal condition of irradiating an 8-nm HZO film with a single laser pulse with an energy density of 177 mJ/cm$^2$ is found to produce 86% of the ferroelectric orthorhombic phase. Heat transfer dynamics within the heterostructure during laser annealing are revealed by finite element simulations, where the partial melting of the silicon nitride substrate is found to play an important role limiting the temperature to 1900 °C. This finding as well as the observed laser pulse energy threshold behavior support a kinetic crystallization pathway involving the tetragonal phase. More generally, these findings show how laser-driven phase engineering can lead to scalable design and enhanced performance of ferroelectric materials in advanced electronic applications.",
-      "score": 7,
+      "summary": "Semiconductor quantum dots (QDs) grown by molecular beam epitaxy are excellent quantum emitters, but their random spatial distribution hinders deterministic coupling to optical microcavities. We demonstrate a room-temperature atomic force microscopy (AFM)-assisted nano-oxidation lithography technique enabling QD positioning with a radial displacement of $51(28)$ nm. Free-standing asymmetric circular Bragg gratings incorporating AFM-positioned GaAs QDs exhibit a $245$-fold photoluminescence enhancement and fine-structure splitting (FSS) comparable to bulk QDs. Polarization-resolved spectroscopy and finite-difference time-domain simulations show robust emission for displacements up to $50$ nm (Stokes parameter $\\lvert S \\rvert < 0.05$ ). The devices display stable FSS and polarization imbalance below $5 \\, \\%$ , confirming precise, reproducible alignment and potential for high fidelity devices. This scalable approach enables deterministic integration of high-performance QDs with photonic cavities, advancing practical quantum light sources for quantum information technologies.",
+      "score": 6,
       "priority": 0,
-      "highlights": [],
-      "abstract_cn": "【中文翻译（基于英文摘要）】\n激光退火为基于铪锆氧化物（HZO）的铁电薄膜晶体管后道工艺制备提供了一条有前景的路线。由于该材料带隙较宽，既有研究多使用紫外或红外光来研究 HZO 的结晶过程。与此不同，本文在 Si3N4/TiN/Hf0.5Zr0.5O2 薄膜异质结构中，利用可见光纳秒激光脉冲辐照原位监测其结晶过程。该结构模拟 CMOS 器件结构，并利用 TiN 在可见光范围内的吸收产生相变所需热量。通过改造透射电子显微镜开展一系列局域原位测量，作者量化了 HZO 薄膜厚度、临界激光能量密度与铁电 HZO 相含量之间的关系，发现 HZO 结晶所需激光脉冲能量具有明显的阈值行为。最佳条件为对 8 nm HZO 薄膜施加一次能量密度为 177 mJ/cm² 的激光脉冲，可产生 86% 的铁电正交相。有限元仿真揭示了激光退火过程中异质结构内部的热传输动力学，其中氮化硅衬底的部分熔化对将温度限制在 1900 °C 起到重要作用。这一发现以及观测到的激光脉冲能量阈值行为，支持一种涉及四方相的动力学结晶路径。总体而言，该研究表明，激光驱动的相工程可用于先进电子应用中铁电材料的可扩展设计和性能提升。",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、功耗或能效表现、与既有工艺平台的集成价值.\nContext: Tracking visible pulsed laser annealing of Hf$_{0.5}$Zr$_{0.5}$O$_2$ heterostructures with in s….",
-      "abstract_zh": "【中文翻译（基于英文摘要）】\n激光退火为基于铪锆氧化物（HZO）的铁电薄膜晶体管后道工艺制备提供了一条有前景的路线。由于该材料带隙较宽，既有研究多使用紫外或红外光来研究 HZO 的结晶过程。与此不同，本文在 Si3N4/TiN/Hf0.5Zr0.5O2 薄膜异质结构中，利用可见光纳秒激光脉冲辐照原位监测其结晶过程。该结构模拟 CMOS 器件结构，并利用 TiN 在可见光范围内的吸收产生相变所需热量。通过改造透射电子显微镜开展一系列局域原位测量，作者量化了 HZO 薄膜厚度、临界激光能量密度与铁电 HZO 相含量之间的关系，发现 HZO 结晶所需激光脉冲能量具有明显的阈值行为。最佳条件为对 8 nm HZO 薄膜施加一次能量密度为 177 mJ/cm² 的激光脉冲，可产生 86% 的铁电正交相。有限元仿真揭示了激光退火过程中异质结构内部的热传输动力学，其中氮化硅衬底的部分熔化对将温度限制在 1900 °C 起到重要作用。这一发现以及观测到的激光脉冲能量阈值行为，支持一种涉及四方相的动力学结晶路径。总体而言，该研究表明，激光驱动的相工程可用于先进电子应用中铁电材料的可扩展设计和性能提升。"
+      "highlights": [
+        "lithography"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注lithography方向，围绕“Deterministic positioning of circular Bragg gratings using atomic force lithogr…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、效率/耦合表现、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "reading_notes": "Focus: lithography.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: Deterministic positioning of circular Bragg gratings using atomic force lithography for high-pe…."
     },
     {
       "source": "arXiv",
@@ -146,38 +125,59 @@
       "highlights": [
         "ferroelectric"
       ],
-      "abstract_cn": "【中文翻译（基于英文摘要）】\n层状铌氧二卤化物 NbOX2（X = I, Cl）作为新型范德华铁电材料受到广泛关注，但要实现其光学和电学性质的非易失调控仍具有挑战，这限制了其在下一代纳米电子和光电子器件中的集成。本文报道了通过化学气相输运方法可控制备高结晶质量 NbOI2-xClx 范德华合金，并实现由组分驱动的光学与电学性质调控。综合实验表征和第一性原理计算表明，NbOI2-xClx 的晶格、声子模式和能带结构可在 NbOI2 与 NbOCl2 之间连续调节。其二次谐波产生光信号的强度和偏振均表现出明显的组分依赖性，为可调平面内铁电特性提供了光学证据。此外，基于 NbOI2-xClx 的场效应晶体管表现出稳定的 n 型半导体行为，阈值电压和载流子迁移率可通过调节 I/Cl 摩尔比精确调控，说明该材料体系具有用于可调电子与光电子器件的潜力。",
-      "reading_notes": "Focus: 铁电材料.\nWhat to check: 可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Composition-Driven Tunable Optical and Electrical Properties in Van der Waals Ferroelectric NbO….",
-      "abstract_zh": "【中文翻译（基于英文摘要）】\n层状铌氧二卤化物 NbOX2（X = I, Cl）作为新型范德华铁电材料受到广泛关注，但要实现其光学和电学性质的非易失调控仍具有挑战，这限制了其在下一代纳米电子和光电子器件中的集成。本文报道了通过化学气相输运方法可控制备高结晶质量 NbOI2-xClx 范德华合金，并实现由组分驱动的光学与电学性质调控。综合实验表征和第一性原理计算表明，NbOI2-xClx 的晶格、声子模式和能带结构可在 NbOI2 与 NbOCl2 之间连续调节。其二次谐波产生光信号的强度和偏振均表现出明显的组分依赖性，为可调平面内铁电特性提供了光学证据。此外，基于 NbOI2-xClx 的场效应晶体管表现出稳定的 n 型半导体行为，阈值电压和载流子迁移率可通过调节 I/Cl 摩尔比精确调控，说明该材料体系具有用于可调电子与光电子器件的潜力。"
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注铁电材料方向，围绕“Composition-Driven Tunable Optical and Electrical Properties in Van der Waals F…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看可靠性与稳定性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "reading_notes": "Focus: 铁电材料.\nWhat to check: 可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Composition-Driven Tunable Optical and Electrical Properties in Van der Waals Ferroelectric NbO…."
     },
     {
       "source": "arXiv",
-      "uid": "arxiv:2604.27650v1",
-      "title": "Neuronal arithmetic operators based on Ovonic threshold switches (OTS) for biologically inspired analog computing",
-      "url": "https://arxiv.org/abs/2604.27650v1",
-      "published": "2026-04-30",
+      "uid": "arxiv:2605.04865v1",
+      "title": "Unraveling the Defect Physics of SiC Micropipe Sidewalls by Non-Line-of-Sight Confocal Spectromicroscopy: Amphoteric Giant Traps",
+      "url": "https://arxiv.org/abs/2605.04865v1",
+      "published": "2026-05-06",
       "authors": [
-        "Jingyeong Hwang",
-        "Jaesang Lee",
-        "Jiin Bang",
-        "Younghyun Lee",
-        "Unhyeon Kang",
-        "Seungmin Oh",
-        "Kyungmin Lee",
-        "Jaehyun Park",
-        "Seongsik Park",
-        "Hyun Jae Jang",
-        "Sangbum Kim",
-        "Min Hyuk Park",
-        "Suyoun Lee"
+        "Irwan Saleh Kurniawan",
+        "Russel Cruz Sevilla",
+        "Ruth Jeane Soebroto",
+        "Hsiu-Ying Huang",
+        "Hsiu-Ming Hsu",
+        "Ji-Lin Shen",
+        "Sheng Hsiung Chang",
+        "Wen-Chung Li",
+        "Chi-Tsu Yuan"
       ],
-      "summary": "Biological neurons perform arithmetic computations - including additive integration and divisive gain modulation - through synaptic conductance changes and shunting inhibition, enabling context-dependent information processing that far exceeds simple threshold-and-fire models. Replicating these capabilities in compact hardware remains a fundamental challenge for neuromorphic engineering. Here, we demonstrate artificial neuron circuits based on Ovonic threshold switches (OTS) that physically implement three arithmetic operations: SUM, PARALLEL, and DIVISION. The SUM and PARALLEL neurons exploit MOSFET-controlled dendritic conductances, producing output firing rates that collapse onto invariant curves as a function of combined inputs - satisfying the canonical criteria for neuronal addition. The DIVISION neuron leverages a JFET-based shunting pathway, inspired by GABA_A-mediated inhibition in the cortex, to achieve divisive gain modulation well described by a Hill-type function (R2 ~ 0.95, Hill exponent n ~ 1.3), consistent with nonlinear normalization observed in visual and olfactory circuits. Applying the DIVISION neuron to pixel-wise image normalization under non-uniform illumination recovers obscured visual content, mirroring contrast normalization in the visual cortex. Compared to CMOS-based division implementations, the proposed approach offers improvements in energy efficiency and scalability exceeding an order of magnitude, establishing a viable path toward compact, brain-inspired analog computing.",
-      "score": 6,
+      "summary": "Micropipes are among the most detrimental defects in SiC wafer and are closely linked to catastrophic device failure. However, the microscopic defect nature of their internal sidewalls and the mechanism of the associated leakage current remain poorly understood, because their high-aspect-ratio geometry severely restricts direct optical probing. Here, we develop a non-line-of-sight confocal multiple-reflection spectromicroscopy technique combined with direct defect photoionization to unravel the defect physics of micropipe sidewalls. We show that these sidewalls host a high density of donor-like and acceptor-like deep-level states, giving rise to ultrabroad emission bands composed of intrinsic DAP-like recombination and detrapping-mediated free-to-bound transitions. Unlike conventional defect luminescence, the DAP-like emission remains dominant even at room temperature across all excitation powers. This behavior is attributed to rapid carrier capture by the sidewall defects, as evidenced by fast-rising and nanosecond-scale decay dynamics, along with coupled carrier kinetics. These results suggest that micropipe sidewalls can serve as extended amphoteric giant traps and carrier reservoirs, facilitating leakage current through trap-assisted transport. Our work provides a nondestructive optical approach for directly probing high-aspect-ratio extended defects and offers deep mechanistic insight into their defect physics and leakage mechanisms.",
+      "score": 5,
+      "priority": 0,
+      "highlights": [
+        "SiC"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注SiC方向，围绕“Unraveling the Defect Physics of SiC Micropipe Sidewalls by Non-Line-of-Sight C…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "reading_notes": "Focus: SiC.\nWhat to check: 效率/耦合表现.\nContext: Unraveling the Defect Physics of SiC Micropipe Sidewalls by Non-Line-of-Sight Confocal Spectrom…."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2605.04854v1",
+      "title": "Emergence of Localized Surface Plasmons in Unpatterned Hyperdoped Polycrystalline Silicon",
+      "url": "https://arxiv.org/abs/2605.04854v1",
+      "published": "2026-05-06",
+      "authors": [
+        "Mohamad Bahsoun",
+        "Jesse Groenen",
+        "Gonzague Agez",
+        "Sébastien Joulié",
+        "Cécile Marcelot",
+        "Robin Cours",
+        "Sébastien Kerdiles",
+        "Mathieu Opprecht",
+        "Caroline Bonafos",
+        "Jean-Marie Poumirol"
+      ],
+      "summary": "The ability to engineer localized surface plasmon resonances at large scale usually relies on precise nanoscale patterning. Here, we demonstrate that mid-infrared plasmonic responses can instead emerge in unpatterned polysilicon films composed of nanometric (5-50 nm) grains, challenging established design paradigms and eliminating the need for external nanostructuring. Using tailored out-of-equilibrium annealing conditions, we show that hyperdoped polysilicon layers exhibit enhanced light-matter interactions that can be tuned across the mid-infrared range. By combining advanced electron microscopy, infrared spectroscopy and finite-difference time-domain electrodynamic simulations, we demonstrate that these remarkable optical properties originate from naturally formed metal-dielectric interfaces at grain boundaries, which support localized surface plasmon resonances. Importantly, this result is universal and can be extended to any doped semiconductor system, regardless of the synthesis technique, provided that the grain size remains in the nanometric range. This work opens up a new field in plasmonics centered on polycrystalline semiconductors, paving the way for cost-effective systems that are fully compatible with microelectronic and photovoltaic technologies, and capable of significantly reshaping light-matter interactions in the infrared range.",
+      "score": 5,
       "priority": 0,
       "highlights": [],
-      "abstract_cn": "【中文翻译（基于英文摘要）】\n生物神经元能够通过突触电导变化和分流抑制执行算术计算，包括加性积分和除性增益调制，从而实现依赖上下文的信息处理能力，远超简单的阈值—发放模型。在紧凑硬件中复现这些能力仍是神经形态工程的基本挑战。本文展示了基于 Ovonic 阈值开关（OTS）的人工神经元电路，可物理实现三种算术操作：SUM、PARALLEL 和 DIVISION。SUM 与 PARALLEL 神经元利用 MOSFET 控制的树突电导，使输出发放率可随组合输入坍缩到不变曲线上，满足神经元加法的标准判据。DIVISION 神经元则利用基于 JFET 的分流通路，模拟大脑皮层中 GABA_A 介导的抑制，实现除性增益调制，其行为可由 Hill 型函数很好描述（R² 约 0.95，Hill 指数约 1.3），与视觉和嗅觉回路中的非线性归一化相一致。将 DIVISION 神经元用于非均匀照明下的逐像素图像归一化，展示了这类器件在生物启发模拟计算中的应用潜力。",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、效率/耦合表现、功耗或能效表现.\nContext: Neuronal arithmetic operators based on Ovonic threshold switches (OTS) for biologically inspire….",
-      "abstract_zh": "【中文翻译（基于英文摘要）】\n生物神经元能够通过突触电导变化和分流抑制执行算术计算，包括加性积分和除性增益调制，从而实现依赖上下文的信息处理能力，远超简单的阈值—发放模型。在紧凑硬件中复现这些能力仍是神经形态工程的基本挑战。本文展示了基于 Ovonic 阈值开关（OTS）的人工神经元电路，可物理实现三种算术操作：SUM、PARALLEL 和 DIVISION。SUM 与 PARALLEL 神经元利用 MOSFET 控制的树突电导，使输出发放率可随组合输入坍缩到不变曲线上，满足神经元加法的标准判据。DIVISION 神经元则利用基于 JFET 的分流通路，模拟大脑皮层中 GABA_A 介导的抑制，实现除性增益调制，其行为可由 Hill 型函数很好描述（R² 约 0.95，Hill 指数约 1.3），与视觉和嗅觉回路中的非线性归一化相一致。将 DIVISION 神经元用于非均匀照明下的逐像素图像归一化，展示了这类器件在生物启发模拟计算中的应用潜力。"
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Emergence of Localized Surface Plasmons in Unpatterned Hyperdoped Polycrystalli…”展开。摘要显示，文章重点涉及电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: Emergence of Localized Surface Plasmons in Unpatterned Hyperdoped Polycrystalline Silicon."
     },
     {
       "source": "arXiv",
@@ -195,14 +195,13 @@
       "highlights": [
         "semiconductor"
       ],
-      "abstract_cn": "【中文翻译（基于英文摘要）】\n低载流子密度半导体中的非共面磁有序为研究自旋—电荷耦合如何重塑电子结构并诱导非平庸拓扑相提供了平台。受近期在磁性半导体 GdGaI 中发现四亚晶格 triple-q 有序的启发，本文研究了一个有效理论，将 Γ 点处的 Ga 4p 空穴口袋与 M 点处三个 Gd 5d 电子口袋通过四个交换通道耦合起来。对于净磁化为零的反铁磁伞状态，该模型包含平庸（C = 0）和 C = ±4 的陈绝缘体相，中间由金属区域分隔。通过在 Γ 点推导解析低能理论，作者表明拓扑相边界由两个简并的双 Weyl 半金属描述，自然解释了陈数 ΔC = 4 的跳变。此外，在缺少 p-d 交换耦合时，费米能级附近会出现类似节点线的状态，并在 θ = arccos(1/3) 时将 C = ±4 相进一步分隔。外加磁场调节倾角可驱动陈绝缘体相向金属相转变，同时保留相关拓扑特征。",
-      "reading_notes": "Focus: 半导体.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Field-induced metal-insulator transition, Chern insulators, and topological semimetals in a cle….",
-      "abstract_zh": "【中文翻译（基于英文摘要）】\n低载流子密度半导体中的非共面磁有序为研究自旋—电荷耦合如何重塑电子结构并诱导非平庸拓扑相提供了平台。受近期在磁性半导体 GdGaI 中发现四亚晶格 triple-q 有序的启发，本文研究了一个有效理论，将 Γ 点处的 Ga 4p 空穴口袋与 M 点处三个 Gd 5d 电子口袋通过四个交换通道耦合起来。对于净磁化为零的反铁磁伞状态，该模型包含平庸（C = 0）和 C = ±4 的陈绝缘体相，中间由金属区域分隔。通过在 Γ 点推导解析低能理论，作者表明拓扑相边界由两个简并的双 Weyl 半金属描述，自然解释了陈数 ΔC = 4 的跳变。此外，在缺少 p-d 交换耦合时，费米能级附近会出现类似节点线的状态，并在 θ = arccos(1/3) 时将 C = ±4 相进一步分隔。外加磁场调节倾角可驱动陈绝缘体相向金属相转变，同时保留相关拓扑特征。"
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体方向，围绕“Field-induced metal-insulator transition, Chern insulators, and topological sem…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看效率/耦合表现、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "reading_notes": "Focus: 半导体.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Field-induced metal-insulator transition, Chern insulators, and topological semimetals in a cle…."
     }
   ],
   "errors": [],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-05-06T00:30:00+00:00"
+  "generated_at": "2026-05-08T00:30:00+00:00"
 }
