@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 3,
+  "new_count": 0,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-05-08）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials\n命中 3 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Unraveling the Defect Physics of SiC Micropipe Sidewalls by Non-Line-of-Sight Confocal Spec…\n   关键词：SiC\n   日期：2026-05-06\n   Authors: Irwan Saleh Kurniawan, Russel Cruz Sevilla, Ruth Jeane Soebroto 等\n   https://arxiv.org/abs/2605.04865v1\n2. [arXiv] Emergence of Localized Surface Plasmons in Unpatterned Hyperdoped Polycrystalline Silicon\n   日期：2026-05-06\n   Authors: Mohamad Bahsoun, Jesse Groenen, Gonzague Agez 等\n   https://arxiv.org/abs/2605.04854v1\n3. [arXiv] Magnetic Brightening and Nanoscale Imaging of Spin-Polarized Helical Edge Modes\n   日期：2026-05-06\n   Authors: Samuel Haeuser, Richard H. J. Kim, Lin-Lin Wang 等\n   https://arxiv.org/abs/2605.04883v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-05-08）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Stochastic first-passage modeling of single-event burnout in SiC power MOSFETs\n   关键词：MOSFET, SiC\n   日期：2026-05-04\n   Authors: Feiyi Liu, Min Guo, Shiyang Chen 等\n   https://arxiv.org/abs/2605.02478v1\n2. [arXiv] Numerical Validation of a MOSFET-Based Control Circuit for High-Power Intelligent Reflectin…\n   关键词：MOSFET\n   日期：2026-05-03\n   Authors: Gakuto Ichikawa, Eisuke Omori, Atsuko Nagata 等\n   https://arxiv.org/abs/2605.01683v1\n3. [arXiv] An Unsupervised Machine Learning-based Framework for Wafer Scale Variability Analysis and P…\n   关键词：ferroelectric, wafer\n   日期：2026-05-01\n   Authors: Anika Anu, Sayani Majumdar\n   https://arxiv.org/abs/2605.00544v1\n4. [arXiv] Deterministic positioning of circular Bragg gratings using atomic force lithography for hig…\n   关键词：lithography\n   日期：2026-05-05\n   Authors: Sai Abhishikth Dhurjati, Moritz Langer, Yared G. Zena 等\n   https://arxiv.org/abs/2605.03672v1\n5. [arXiv] Composition-Driven Tunable Optical and Electrical Properties in Van der Waals Ferroelectric…\n   关键词：ferroelectric\n   日期：2026-05-02\n   Authors: Gaolei Zhao, Juhe Liu, Jinkai Huo 等\n   https://arxiv.org/abs/2605.01285v1\n6. [arXiv] Unraveling the Defect Physics of SiC Micropipe Sidewalls by Non-Line-of-Sight Confocal Spec…\n   关键词：SiC\n   日期：2026-05-06\n   Authors: Irwan Saleh Kurniawan, Russel Cruz Sevilla, Ruth Jeane Soebroto 等\n   https://arxiv.org/abs/2605.04865v1\n7. [arXiv] Emergence of Localized Surface Plasmons in Unpatterned Hyperdoped Polycrystalline Silicon\n   日期：2026-05-06\n   Authors: Mohamad Bahsoun, Jesse Groenen, Gonzague Agez 等\n   https://arxiv.org/abs/2605.04854v1\n8. [arXiv] Field-induced metal-insulator transition, Chern insulators, and topological semimetals in a…\n   关键词：semiconductor\n   日期：2026-05-03\n   Authors: Kazuki Guzman, Hiroaki Ishizuka\n   https://arxiv.org/abs/2605.01804v1",
   "papers": [
     {
       "source": "arXiv",
@@ -25,7 +25,7 @@
         "MOSFET",
         "SiC"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、SiC方向，围绕“Stochastic first-passage modeling of single-event burnout in SiC power MOSFETs”展开。摘要显示，文章重点涉及制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_cn": "碳化硅（SiC）功率 MOSFET 中的单粒子烧毁（single-event burnout, SEB）通常用确定性的阈值量来表征。在恢复与失控之间的边界附近，随机涨落会使这种阈值描述呈现概率性，而不再是尖锐的界限。本工作为烧毁中的随机阈值展宽引入了一种首达视角。该过程由带有吸收边界的降阶电热反馈—弛豫模型描述。该模型结合了载流子倍增、雪崩反馈、局域加热、载流子损失和热弛豫。随机载流子项和热项用于表示未解析的事件尺度涨落。主要发现是，有限涨落会将确定性的烧毁阈值展宽为一个概率转变带。还出现了噪声诱导的亚阈值失控，即名义上可恢复的条件仍可能通过罕见的随机偏移而失效。首达时间分布解析了烧毁的时间尺度，而存活概率进一步区分了由快速反馈主导的失控与延迟的随机失效。反馈—弛豫相图组织了可恢复、概率性以及快速不稳定的不同区域。该框架通过将粗粒化电热动力学与概率性、时间分辨的失效观测量联系起来，为 SiC 功率 MOSFET 单粒子烧毁中的阈值离散提供了一种统计物理解释。",
       "reading_notes": "Focus: MOSFET、SiC.\nWhat to check: 可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Stochastic first-passage modeling of single-event burnout in SiC power MOSFETs."
     },
     {
@@ -49,7 +49,7 @@
       "highlights": [
         "MOSFET"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET方向，围绕“Numerical Validation of a MOSFET-Based Control Circuit for High-Power Intellige…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_cn": "智能反射表面（intelligent reflecting surfaces, IRSs）因其能够动态控制电磁波传播而受到广泛关注。尽管现有大多数 IRS 是针对低功率通信和传感应用开发的，但其向高功率无线电能传输（wireless power transfer, WPT）环境的扩展仍基本未被探索，因为高感应电流可能损坏或使敏感控制元件饱和，从而破坏其调谐功能。本文提出了一种用于工作在 2.4 GHz 的 IRS 的基于金属—氧化物—半导体场效应晶体管（MOSFET）的二进制控制电路，该电路能够承受每个单元超过 1 W 的输入功率水平。该控制电路采用背靠背 MOSFET 开关拓扑，并结合串联和并联电容，以抑制由器件非线性引起的阻抗变化，同时在 ON 和 OFF 状态之间保持约 180 度的反射相位差。本文建立了基于传输线的理论模型，并通过结合非线性 SPICE 器件模型的全波协同仿真进行了验证。动态范围从额定电流和反射相位差两个方面进行评估，结果表明该电路可稳定工作至 1.25 W。进一步通过远场仿真展示了超单元级波束 steering，证实可通过开关图案重构主动控制反射角。这些结果为 IRS 在高功率 WPT 场景中的部署奠定了基础。",
       "reading_notes": "Focus: MOSFET.\nWhat to check: 可靠性与稳定性.\nContext: Numerical Validation of a MOSFET-Based Control Circuit for High-Power Intelligent Reflecting Su…."
     },
     {
@@ -69,7 +69,7 @@
         "ferroelectric",
         "wafer"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注铁电材料、wafer方向，围绕“An Unsupervised Machine Learning-based Framework for Wafer Scale Variability An…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、可靠性与稳定性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_cn": "由制造工艺引起的性能变异仍然是半导体芯片高产量制造中的一项严峻障碍。随着人工智能（Artificial Intelligence, AI）工作负载急剧增长，对非易失性存储器和计算存储器的需求正呈指数级上升。作为嵌入式非易失性存储器，铁电 Hf0.5Zr0.5O2 因其与 CMOS 后道工艺（back-end-of-line, BEOL）兼容、可缩放性和高性能而成为有力候选。然而，其敏感的结晶动力学会导致显著的器件间（device-to-device, D2D）非均匀性，从而造成晶圆尺度性能的不可预测性。在本工作中，我们展示了无监督机器学习能够高效分析芯片内 D2D 变化，并预测“未见过”的芯片性能。我们提出了一个利用主成分分析（Principal Component Analysis, PCA）和 K-Means 聚类来分析 HZO 电容器中 D2D 性能变化的框架，并基于来自多个芯片的数据，从传统描述性统计推进到一种预测性的“虚拟量测”（Virtual Metrology）方法，该方法可依据剩余极化（Pr）和矫顽电压（Vc）等关键参数定义的性能类别进行区分。该分析进一步扩展到比较晶圆上不同芯片之间的均匀性，表明所提出的方法能够以 5–10% 范围内的较低平均绝对百分比误差（Mean Absolute Percentage Error, MAPE）准确预测未测试芯片上的器件性能，为加速良率提升和降低量测开销提供了一条稳健路径。",
       "reading_notes": "Focus: 铁电材料、wafer.\nWhat to check: 性能提升、可靠性与稳定性、与既有工艺平台的集成价值.\nContext: An Unsupervised Machine Learning-based Framework for Wafer Scale Variability Analysis and Perfo…."
     },
     {
@@ -95,7 +95,7 @@
       "highlights": [
         "lithography"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注lithography方向，围绕“Deterministic positioning of circular Bragg gratings using atomic force lithogr…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、效率/耦合表现、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_cn": "通过分子束外延生长的半导体量子点（quantum dots, QDs）是优异的量子发射体，但其随机空间分布阻碍了与光学微腔的确定性耦合。我们展示了一种室温原子力显微镜（atomic force microscopy, AFM）辅助的纳米氧化光刻技术，可实现径向位移为 $51(28)$ nm 的 QD 定位。结合 AFM 定位 GaAs QD 的自支撑非对称圆形布拉格光栅表现出 $245$ 倍的光致发光增强，并具有与体材料 QD 相当的精细结构分裂（fine-structure splitting, FSS）。偏振分辨光谱和有限差分时域仿真表明，在位移高达 $50$ nm 时仍可实现稳健发射（Stokes 参数 $|S| < 0.05$）。这些器件表现出稳定的 FSS，并且偏振不平衡低于 $5\\,\\%$，证实了精确、可重复的对准以及用于高保真器件的潜力。这种可扩展方法使高性能 QD 与光子腔的确定性集成成为可能，推动了面向量子信息技术的实用量子光源发展。",
       "reading_notes": "Focus: lithography.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: Deterministic positioning of circular Bragg gratings using atomic force lithography for high-pe…."
     },
     {
@@ -125,7 +125,7 @@
       "highlights": [
         "ferroelectric"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注铁电材料方向，围绕“Composition-Driven Tunable Optical and Electrical Properties in Van der Waals F…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看可靠性与稳定性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_cn": "层状卤氧化铌 NbOX2（X = I, Cl）作为一类新的范德华（Van der Waals, vdW）铁电体，已受到广泛关注；然而，实现其光学和电学性质的非易失调制仍具有挑战性，从而限制了其在下一代纳米电子学和光电子学中的集成。本文报道了通过化学气相输运方法可控制备高结晶质量 NbOI2-xClx vdW 合金，并实现由组分驱动的可调光学和电学性质。综合实验表征与第一性原理计算表明，NbOI2-xClx 的晶格、声子模式和能带结构能够得到良好调控，并分布在 NbOI2 与 NbOCl2 之间。NbOI2-xClx 中二次谐波产生光信号的幅度和偏振均表现出显著的组分依赖性，为可调的面内铁电特性提供了光学证据。此外，基于 NbOI2-xClx 的场效应晶体管表现出稳健的 n 型半导体行为，其阈值电压和载流子迁移率可通过调节 I/Cl 摩尔比进行精确调制。进一步地，所有组分的二维 NbOI2-xClx 光电探测器均表现出优异的栅极可调电流开关比和强偏振敏感光响应。因此，本研究提供了一个具有可调光学和电学性质的新型 vdW 铁电材料平台，为其在现代纳米光子学和纳米电子学中的应用铺平了道路。",
       "reading_notes": "Focus: 铁电材料.\nWhat to check: 可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Composition-Driven Tunable Optical and Electrical Properties in Van der Waals Ferroelectric NbO…."
     },
     {
@@ -151,7 +151,7 @@
       "highlights": [
         "SiC"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注SiC方向，围绕“Unraveling the Defect Physics of SiC Micropipe Sidewalls by Non-Line-of-Sight C…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_cn": "微管是 SiC 晶圆中危害最大的缺陷之一，并且与灾难性器件失效密切相关。然而，由于其高深宽比几何结构严重限制了直接光学探测，其内部侧壁的微观缺陷本质以及相关漏电流机制仍了解不足。本文发展了一种非视线共焦多重反射光谱显微技术，并结合直接缺陷光电离，以揭示微管侧壁的缺陷物理。我们表明，这些侧壁具有高密度的类施主和类受主深能级态，从而产生由本征类 DAP 复合和由去俘获介导的自由态到束缚态跃迁组成的超宽发射带。不同于常规缺陷发光，类 DAP 发射即使在室温和所有激发功率下仍保持主导地位。这种行为归因于侧壁缺陷对载流子的快速俘获，快速上升和纳秒尺度衰减动力学以及耦合载流子动力学均证明了这一点。这些结果表明，微管侧壁可作为延展的两性巨型陷阱和载流子库，通过陷阱辅助输运促进漏电流。本工作提供了一种用于直接探测高深宽比延展缺陷的无损光学方法，并对其缺陷物理和漏电机制给出了深入的机理认识。",
       "reading_notes": "Focus: SiC.\nWhat to check: 效率/耦合表现.\nContext: Unraveling the Defect Physics of SiC Micropipe Sidewalls by Non-Line-of-Sight Confocal Spectrom…."
     },
     {
@@ -176,7 +176,7 @@
       "score": 5,
       "priority": 0,
       "highlights": [],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Emergence of Localized Surface Plasmons in Unpatterned Hyperdoped Polycrystalli…”展开。摘要显示，文章重点涉及电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_cn": "大尺度工程化局域表面等离激元共振的能力通常依赖于精确的纳米尺度图案化。本文展示，中红外等离激元响应可以在由纳米级（5–50 nm）晶粒组成的无图案多晶硅薄膜中自发出现，这挑战了既有设计范式，并消除了对外部纳米结构化的需求。通过定制的非平衡退火条件，我们表明超掺杂多晶硅层表现出增强的光—物质相互作用，并且可在整个中红外范围内调谐。通过结合先进电子显微学、红外光谱和有限差分时域电动力学仿真，我们证明这些显著的光学性质源于晶界处自然形成的金属—电介质界面，该界面支持局域表面等离激元共振。重要的是，这一结果具有普适性，并可扩展至任何掺杂半导体体系，而不依赖于合成技术，只要晶粒尺寸保持在纳米尺度范围内即可。本工作开辟了一个以多晶半导体为中心的等离激元学新领域，为成本效益高、完全兼容微电子和光伏技术，并能够显著重塑红外范围内光—物质相互作用的系统铺平了道路。",
       "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: Emergence of Localized Surface Plasmons in Unpatterned Hyperdoped Polycrystalline Silicon."
     },
     {
@@ -195,7 +195,7 @@
       "highlights": [
         "semiconductor"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体方向，围绕“Field-induced metal-insulator transition, Chern insulators, and topological sem…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看效率/耦合表现、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_cn": "低载流子密度半导体中的非共面磁有序提供了一个平台，在该平台上自旋—电荷耦合能够重塑电子结构并诱导非平庸拓扑相。受磁性半导体 GdGaI 中四子晶格三重 $q$ 有序最新发现的启发，我们研究了一种有效理论，该理论通过四个交换通道，将 $Γ$ 点处的 Ga $4p$ 空穴口袋与 $M$ 点处的三个 Gd $5d$ 电子口袋耦合起来。对于净磁化为零的反铁磁伞状态，该模型包含平庸（$C = 0$）和 $C = \\pm 4$ Chern 绝缘体相，它们由金属区域分隔；通过推导 $Γ$ 点处的解析低能理论，我们表明拓扑相边界由两个简并的双 Weyl 半金属描述，这自然解释了 Chern 数中的 $ΔC = 4$ 跳变。此外，在不存在 $p$-$d$ 交换耦合时，在费米能级附近会出现一种类似节线的状态，该状态将 $θ=\\arccos(1/3)$ 时的 $C=\\pm4$ 相一分为二。通过外加磁场调节倾角会驱动 Chern 绝缘体相发生绝缘体到金属的转变，同时使平庸绝缘体基本保持不变；当均匀磁化交换耦合变得显著时，还会稳定额外的 $C = \\pm 2$ Chern 绝缘体相。这些结果表明，GdGaI 及其姊妹化合物是高度可调的平台，可用于在洁净磁性半导体中实现拓扑相和场诱导金属—绝缘体转变。",
       "reading_notes": "Focus: 半导体.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Field-induced metal-insulator transition, Chern insulators, and topological semimetals in a cle…."
     }
   ],
