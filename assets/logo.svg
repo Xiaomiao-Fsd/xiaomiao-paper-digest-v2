@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="Paper digest microelectronics logo">
+  <rect x="128" y="128" width="768" height="768" rx="112" fill="#1f4e79"/>
+  <circle cx="261" cy="255" r="29" fill="#fff"/>
+  <rect x="300" y="246" width="404" height="532" rx="38" fill="#fff"/>
+  <path d="M620 246 L704 330 H620 Z" fill="#1f4e79"/>
+  <rect x="372" y="418" width="260" height="28" rx="14" fill="#1f4e79"/>
+  <rect x="372" y="488" width="320" height="28" rx="14" fill="#1f4e79"/>
+  <rect x="372" y="558" width="230" height="28" rx="14" fill="#1f4e79"/>
+  <rect x="444" y="628" width="136" height="88" rx="18" fill="#1f4e79"/>
+  <g fill="#1f4e79">
+    <rect x="372" y="642" width="72" height="16" rx="8"/><rect x="580" y="642" width="72" height="16" rx="8"/>
+    <rect x="372" y="686" width="72" height="16" rx="8"/><rect x="580" y="686" width="72" height="16" rx="8"/>
+    <rect x="470" y="576" width="16" height="52" rx="8"/><rect x="538" y="576" width="16" height="52" rx="8"/>
+    <rect x="470" y="716" width="16" height="38" rx="8"/><rect x="538" y="716" width="16" height="38" rx="8"/>
+    <circle cx="356" cy="650" r="15"/><circle cx="668" cy="650" r="15"/><circle cx="356" cy="694" r="15"/><circle cx="668" cy="694" r="15"/>
+    <circle cx="478" cy="560" r="15"/><circle cx="546" cy="560" r="15"/><circle cx="478" cy="770" r="15"/><circle cx="546" cy="770" r="15"/>
+  </g>
+</svg>
