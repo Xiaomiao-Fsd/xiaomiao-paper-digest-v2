@@ -2,7 +2,7 @@
   "ok": true,
   "new_count": 0,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-05-08）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Stochastic first-passage modeling of single-event burnout in SiC power MOSFETs\n   关键词：MOSFET, SiC\n   日期：2026-05-04\n   Authors: Feiyi Liu, Min Guo, Shiyang Chen 等\n   https://arxiv.org/abs/2605.02478v1\n2. [arXiv] Numerical Validation of a MOSFET-Based Control Circuit for High-Power Intelligent Reflectin…\n   关键词：MOSFET\n   日期：2026-05-03\n   Authors: Gakuto Ichikawa, Eisuke Omori, Atsuko Nagata 等\n   https://arxiv.org/abs/2605.01683v1\n3. [arXiv] An Unsupervised Machine Learning-based Framework for Wafer Scale Variability Analysis and P…\n   关键词：ferroelectric, wafer\n   日期：2026-05-01\n   Authors: Anika Anu, Sayani Majumdar\n   https://arxiv.org/abs/2605.00544v1\n4. [arXiv] Deterministic positioning of circular Bragg gratings using atomic force lithography for hig…\n   关键词：lithography\n   日期：2026-05-05\n   Authors: Sai Abhishikth Dhurjati, Moritz Langer, Yared G. Zena 等\n   https://arxiv.org/abs/2605.03672v1\n5. [arXiv] Composition-Driven Tunable Optical and Electrical Properties in Van der Waals Ferroelectric…\n   关键词：ferroelectric\n   日期：2026-05-02\n   Authors: Gaolei Zhao, Juhe Liu, Jinkai Huo 等\n   https://arxiv.org/abs/2605.01285v1\n6. [arXiv] Unraveling the Defect Physics of SiC Micropipe Sidewalls by Non-Line-of-Sight Confocal Spec…\n   关键词：SiC\n   日期：2026-05-06\n   Authors: Irwan Saleh Kurniawan, Russel Cruz Sevilla, Ruth Jeane Soebroto 等\n   https://arxiv.org/abs/2605.04865v1\n7. [arXiv] Emergence of Localized Surface Plasmons in Unpatterned Hyperdoped Polycrystalline Silicon\n   日期：2026-05-06\n   Authors: Mohamad Bahsoun, Jesse Groenen, Gonzague Agez 等\n   https://arxiv.org/abs/2605.04854v1\n8. [arXiv] Field-induced metal-insulator transition, Chern insulators, and topological semimetals in a…\n   关键词：semiconductor\n   日期：2026-05-03\n   Authors: Kazuki Guzman, Hiroaki Ishizuka\n   https://arxiv.org/abs/2605.01804v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-05-10）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Stochastic first-passage modeling of single-event burnout in SiC power MOSFETs\n   关键词：MOSFET, SiC\n   日期：2026-05-04\n   Authors: Feiyi Liu, Min Guo, Shiyang Chen 等\n   https://arxiv.org/abs/2605.02478v1\n2. [arXiv] Numerical Validation of a MOSFET-Based Control Circuit for High-Power Intelligent Reflectin…\n   关键词：MOSFET\n   日期：2026-05-03\n   Authors: Gakuto Ichikawa, Eisuke Omori, Atsuko Nagata 等\n   https://arxiv.org/abs/2605.01683v1\n3. [arXiv] Deterministic positioning of circular Bragg gratings using atomic force lithography for hig…\n   关键词：lithography\n   日期：2026-05-05\n   Authors: Sai Abhishikth Dhurjati, Moritz Langer, Yared G. Zena 等\n   https://arxiv.org/abs/2605.03672v1\n4. [arXiv] Moire based strain analysis in wurtzite GaAs -- rock-salt (Pb,Sn)Te core-shell nanowires gr…\n   关键词：epitaxy\n   日期：2026-05-08\n   Authors: Maciej Wojcik, Sania Dad, Piotr Dziawa 等\n   https://arxiv.org/abs/2605.06603v1\n5. [arXiv] Unraveling the Defect Physics of SiC Micropipe Sidewalls by Non-Line-of-Sight Confocal Spec…\n   关键词：SiC\n   日期：2026-05-06\n   Authors: Irwan Saleh Kurniawan, Russel Cruz Sevilla, Ruth Jeane Soebroto 等\n   https://arxiv.org/abs/2605.04865v1\n6. [arXiv] Emergence of Localized Surface Plasmons in Unpatterned Hyperdoped Polycrystalline Silicon\n   日期：2026-05-06\n   Authors: Mohamad Bahsoun, Jesse Groenen, Gonzague Agez 等\n   https://arxiv.org/abs/2605.04854v1\n7. [arXiv] Field-induced metal-insulator transition, Chern insulators, and topological semimetals in a…\n   关键词：semiconductor\n   日期：2026-05-03\n   Authors: Kazuki Guzman, Hiroaki Ishizuka\n   https://arxiv.org/abs/2605.01804v1\n8. [arXiv] Continuous quantification of viral plaque dynamics using ultra-large-area label-free imagin…\n   日期：2026-05-03\n   Authors: Merve Eryilmaz, Yuzhu Li, Xiao Wang 等\n   https://arxiv.org/abs/2605.01738v1",
   "papers": [
     {
       "source": "arXiv",
@@ -25,7 +25,7 @@
         "MOSFET",
         "SiC"
       ],
-      "abstract_cn": "碳化硅（SiC）功率 MOSFET 中的单粒子烧毁（single-event burnout, SEB）通常用确定性的阈值量来表征。在恢复与失控之间的边界附近，随机涨落会使这种阈值描述呈现概率性，而不再是尖锐的界限。本工作为烧毁中的随机阈值展宽引入了一种首达视角。该过程由带有吸收边界的降阶电热反馈—弛豫模型描述。该模型结合了载流子倍增、雪崩反馈、局域加热、载流子损失和热弛豫。随机载流子项和热项用于表示未解析的事件尺度涨落。主要发现是，有限涨落会将确定性的烧毁阈值展宽为一个概率转变带。还出现了噪声诱导的亚阈值失控，即名义上可恢复的条件仍可能通过罕见的随机偏移而失效。首达时间分布解析了烧毁的时间尺度，而存活概率进一步区分了由快速反馈主导的失控与延迟的随机失效。反馈—弛豫相图组织了可恢复、概率性以及快速不稳定的不同区域。该框架通过将粗粒化电热动力学与概率性、时间分辨的失效观测量联系起来，为 SiC 功率 MOSFET 单粒子烧毁中的阈值离散提供了一种统计物理解释。",
+      "abstract_cn": "碳化硅（SiC）功率 MOSFET 中的单粒子烧毁（single-event burnout, SEB）通常用确定性的阈值量来表征。在恢复与失控之间的边界附近，随机变异会使这种阈值描述呈现概率性，而不再是尖锐的界限。本工作为烧毁中的随机阈值展宽引入了一种首达视角。该过程由带有吸收边界的降阶电热反馈—弛豫模型描述。该模型结合了载流子倍增、雪崩反馈、局域加热、载流子损失和热弛豫。随机载流子项和热项用于表示未解析的事件尺度变异。主要发现是，有限涨落会将确定性的烧毁阈值展宽为一个概率转变带。还会出现噪声诱导的亚阈值失控，即名义上可恢复的条件仍可能通过罕见的随机偏移而失效。首达时间分布解析了烧毁的时间尺度，而存活概率进一步区分了由快速反馈主导的失控与延迟的随机失效。反馈—弛豫相图组织了可恢复、概率性以及快速不稳定的不同区域。该框架通过将粗粒化电热动力学与概率性、时间分辨的失效观测量联系起来，为 SiC 功率 MOSFET 单粒子烧毁中的阈值离散提供了一种统计物理解释。",
       "reading_notes": "Focus: MOSFET、SiC.\nWhat to check: 可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Stochastic first-passage modeling of single-event burnout in SiC power MOSFETs."
     },
     {
@@ -49,28 +49,8 @@
       "highlights": [
         "MOSFET"
       ],
-      "abstract_cn": "智能反射表面（intelligent reflecting surfaces, IRSs）因其能够动态控制电磁波传播而受到广泛关注。尽管现有大多数 IRS 是针对低功率通信和传感应用开发的，但其向高功率无线电能传输（wireless power transfer, WPT）环境的扩展仍基本未被探索，因为高感应电流可能损坏或使敏感控制元件饱和，从而破坏其调谐功能。本文提出了一种用于工作在 2.4 GHz 的 IRS 的基于金属—氧化物—半导体场效应晶体管（MOSFET）的二进制控制电路，该电路能够承受每个单元超过 1 W 的输入功率水平。该控制电路采用背靠背 MOSFET 开关拓扑，并结合串联和并联电容，以抑制由器件非线性引起的阻抗变化，同时在 ON 和 OFF 状态之间保持约 180 度的反射相位差。本文建立了基于传输线的理论模型，并通过结合非线性 SPICE 器件模型的全波协同仿真进行了验证。动态范围从额定电流和反射相位差两个方面进行评估，结果表明该电路可稳定工作至 1.25 W。进一步通过远场仿真展示了超单元级波束 steering，证实可通过开关图案重构主动控制反射角。这些结果为 IRS 在高功率 WPT 场景中的部署奠定了基础。",
+      "abstract_cn": "智能反射表面（intelligent reflecting surfaces, IRSs）因其能够动态控制电磁波传播而受到广泛关注。尽管现有大多数 IRS 是针对低功率通信和传感应用开发的，但其向高功率无线电能传输（wireless power transfer, WPT）环境的扩展仍基本未被探索，因为高感应电流可能损坏敏感控制元件或使其饱和，从而破坏其调谐功能。本文提出了一种用于工作在 2.4 GHz 的 IRS 的基于金属—氧化物—半导体场效应晶体管（MOSFET）的二进制控制电路，该电路能够承受每个单元超过 1 W 的输入功率水平。该控制电路采用背靠背 MOSFET 开关拓扑，并结合串联和并联电容，以抑制由器件非线性引起的阻抗变化，同时在 ON 和 OFF 状态之间保持约 180 度的反射相位差。本文建立了基于传输线的理论模型，并通过结合非线性 SPICE 器件模型的全波协同仿真进行了验证。动态范围从额定电流和反射相位差两个方面进行评估，结果表明该电路可稳定工作至 1.25 W。进一步通过远场仿真展示了超单元级波束偏转，证实可通过开关图案重构主动控制反射角。这些结果为 IRS 在高功率 WPT 场景中的部署奠定了基础。",
       "reading_notes": "Focus: MOSFET.\nWhat to check: 可靠性与稳定性.\nContext: Numerical Validation of a MOSFET-Based Control Circuit for High-Power Intelligent Reflecting Su…."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2605.00544v1",
-      "title": "An Unsupervised Machine Learning-based Framework for Wafer Scale Variability Analysis and Performance Prediction of Ferroelectric Hf0.5Zr0.5O2 Thin Film Capacitors",
-      "url": "https://arxiv.org/abs/2605.00544v1",
-      "published": "2026-05-01",
-      "authors": [
-        "Anika Anu",
-        "Sayani Majumdar"
-      ],
-      "summary": "Fabrication process-induced performance variability remains a formidable barrier in the high-volume manufacturing of semiconductor chips. With skyrocketing Artificial Intelligence (AI) workload, demand for non-volatile and computational memories is growing exponentially. As embedded non-volatile memory, ferroelectric Hf0.5Zr0.5O2 emerged as a strong candidate due to their CMOS back-end-of-line (BEOL) compatibility, scalability and high performance. However, their sensitive crystallization kinetics leads to significant device-to-device (D2D) non-uniformity leading to unpredictability of performance over wafer scale. In this work, we demonstrate unsupervised machine learning can analyze intra-die D2D variations and predict performance of \"unseen\" dies efficiently. We present a framework utilizing Principal Component Analysis (PCA) and K-Means clustering to analyze D2D performance variations in HZO capacitors and building on data from multiple dies, we move beyond traditional descriptive statistics to a predictive \"Virtual Metrology\" approach that separates performance categories, defined by key parameters like remanent polarization (Pr) and coercive voltage (Vc). The analysis further extends to comparing uniformity across different dies across the wafer showing the proposed methodology can accurately predict device performance on untested dies with a low Mean Absolute Percentage Error (MAPE) in the range of 5-10%, suggesting a robust path for accelerated yield improvement and reduced metrology overhead.",
-      "score": 11,
-      "priority": 0,
-      "highlights": [
-        "ferroelectric",
-        "wafer"
-      ],
-      "abstract_cn": "由制造工艺引起的性能变异仍然是半导体芯片高产量制造中的一项严峻障碍。随着人工智能（Artificial Intelligence, AI）工作负载急剧增长，对非易失性存储器和计算存储器的需求正呈指数级上升。作为嵌入式非易失性存储器，铁电 Hf0.5Zr0.5O2 因其与 CMOS 后道工艺（back-end-of-line, BEOL）兼容、可缩放性和高性能而成为有力候选。然而，其敏感的结晶动力学会导致显著的器件间（device-to-device, D2D）非均匀性，从而造成晶圆尺度性能的不可预测性。在本工作中，我们展示了无监督机器学习能够高效分析芯片内 D2D 变化，并预测“未见过”的芯片性能。我们提出了一个利用主成分分析（Principal Component Analysis, PCA）和 K-Means 聚类来分析 HZO 电容器中 D2D 性能变化的框架，并基于来自多个芯片的数据，从传统描述性统计推进到一种预测性的“虚拟量测”（Virtual Metrology）方法，该方法可依据剩余极化（Pr）和矫顽电压（Vc）等关键参数定义的性能类别进行区分。该分析进一步扩展到比较晶圆上不同芯片之间的均匀性，表明所提出的方法能够以 5–10% 范围内的较低平均绝对百分比误差（Mean Absolute Percentage Error, MAPE）准确预测未测试芯片上的器件性能，为加速良率提升和降低量测开销提供了一条稳健路径。",
-      "reading_notes": "Focus: 铁电材料、wafer.\nWhat to check: 性能提升、可靠性与稳定性、与既有工艺平台的集成价值.\nContext: An Unsupervised Machine Learning-based Framework for Wafer Scale Variability Analysis and Perfo…."
     },
     {
       "source": "arXiv",
@@ -95,38 +75,31 @@
       "highlights": [
         "lithography"
       ],
-      "abstract_cn": "通过分子束外延生长的半导体量子点（quantum dots, QDs）是优异的量子发射体，但其随机空间分布阻碍了与光学微腔的确定性耦合。我们展示了一种室温原子力显微镜（atomic force microscopy, AFM）辅助的纳米氧化光刻技术，可实现径向位移为 $51(28)$ nm 的 QD 定位。结合 AFM 定位 GaAs QD 的自支撑非对称圆形布拉格光栅表现出 $245$ 倍的光致发光增强，并具有与体材料 QD 相当的精细结构分裂（fine-structure splitting, FSS）。偏振分辨光谱和有限差分时域仿真表明，在位移高达 $50$ nm 时仍可实现稳健发射（Stokes 参数 $|S| < 0.05$）。这些器件表现出稳定的 FSS，并且偏振不平衡低于 $5\\,\\%$，证实了精确、可重复的对准以及用于高保真器件的潜力。这种可扩展方法使高性能 QD 与光子腔的确定性集成成为可能，推动了面向量子信息技术的实用量子光源发展。",
+      "abstract_cn": "通过分子束外延生长的半导体量子点（quantum dots, QDs）是优异的量子发射体，但其随机空间分布阻碍了与光学微腔的确定性耦合。我们展示了一种室温原子力显微镜（atomic force microscopy, AFM）辅助的纳米氧化光刻技术，可实现径向位移为 $51(28)$ nm 的 QD 定位。结合 AFM 定位 GaAs QD 的自支撑非对称圆形布拉格光栅表现出 $245$ 倍的光致发光增强，并具有与体材料 QD 相当的精细结构分裂（fine-structure splitting, FSS）。偏振分辨光谱和有限差分时域仿真表明，在位移高达 $50$ nm 时仍可实现稳健发射（Stokes 参数 $\\lvert S \\rvert < 0.05$）。这些器件表现出稳定的 FSS，并且偏振不平衡低于 $5 \\, \\%$，证实了精确、可重复的对准以及用于高保真器件的潜力。这种可扩展方法使高性能 QD 与光子腔的确定性集成成为可能，推动了面向量子信息技术的实用量子光源发展。",
       "reading_notes": "Focus: lithography.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: Deterministic positioning of circular Bragg gratings using atomic force lithography for high-pe…."
     },
     {
       "source": "arXiv",
-      "uid": "arxiv:2605.01285v1",
-      "title": "Composition-Driven Tunable Optical and Electrical Properties in Van der Waals Ferroelectric NbOI2-xClx Alloys",
-      "url": "https://arxiv.org/abs/2605.01285v1",
-      "published": "2026-05-02",
+      "uid": "arxiv:2605.06603v1",
+      "title": "Moire based strain analysis in wurtzite GaAs -- rock-salt (Pb,Sn)Te core-shell nanowires grown by molecular beam epitaxy",
+      "url": "https://arxiv.org/abs/2605.06603v1",
+      "published": "2026-05-08",
       "authors": [
-        "Gaolei Zhao",
-        "Juhe Liu",
-        "Jinkai Huo",
-        "Tian Han",
-        "Yunhao Tong",
-        "Hu Wang",
-        "Konstantin Kozadaev",
-        "Andrei Zheltkovich",
-        "Changsen Sun",
-        "Alexei Tolstik",
-        "Andrey Novitsky",
-        "Lujun Pan",
-        "Dawei Li"
+        "Maciej Wojcik",
+        "Sania Dad",
+        "Piotr Dziawa",
+        "Slawomir Kret",
+        "Wojciech Pacuski",
+        "Janusz Sadowski"
       ],
-      "summary": "Layered niobium oxide dihalides NbOX2 (X = I, Cl), as a new family of Van der Waals (vdW) ferroelectrics, have attracted extensive attention, while achieving non-volatile modulation of their optical and electrical properties remains challenging, thereby limiting their integration into next-generation nanoelectronics and optoelectronics. Here, we report the controlled fabrication of highly crystalline NbOI2-xClx vdW alloys with composition-driven tunable optical and electrical properties via a chemical vapor transport method. Comprehensive experimental characterization combined with first-principles calculation shows that the crystal lattices, phonon modes, and band structures of NbOI2-xClx can be well tailored, which are distributed between NbOI2 and NbOCl2. Both the amplitude and polarization of second harmonic generation optical signal in NbOI2-xClx exhibit pronounced compositional dependence, offering optical evidence for tunable in-plane ferroelectric characteristic. Moreover, field-effect transistors based on NbOI2-xClx display robust n-type semiconducting behavior, with threshold voltage and carrier mobility precisely modulated through adjustment of I/Cl molar ratio. Furthermore, 2D NbOI2-xClx photodetectors across all compositions exhibit exceptional gate-tunable current on/off ratio and strong polarization-sensitive photo-response. This study thus provides a new vdW ferroelectric material platform with tunable optical and electrical properties, paving the path for its implementation in modern nanophotonics and nanoelectronics.",
-      "score": 6,
+      "summary": "We investigate core/shell GaAs/(Pb,Sn)Te nanowire nanoheterostructures with wurtzite (wz) GaAs cores and (Pb,Sn)Te topological crystalline insulator shells. The nanostructures have been grown by molecular beam epitaxy using two distinct MBE systems dedicated to III-V, and IV-VI semiconductors. The interface structure of wz-GaAs/(Pb,Sn)Te nanowires is investigated using high resolution transmission electron microscopy, scanning transmission electron microscopy and geometric phase analysis. Misfit dislocations and moiré fringes are observed as a direct result of the lattice mismatch between the core and the shell materials, and used to estimate strain in crystalline topological insulator shells. Our results point to a possibility of using moiré patterns analysis as an alternative, for estimating strain in the core-shell nanowire structures.",
+      "score": 5,
       "priority": 0,
       "highlights": [
-        "ferroelectric"
+        "epitaxy"
       ],
-      "abstract_cn": "层状卤氧化铌 NbOX2（X = I, Cl）作为一类新的范德华（Van der Waals, vdW）铁电体，已受到广泛关注；然而，实现其光学和电学性质的非易失调制仍具有挑战性，从而限制了其在下一代纳米电子学和光电子学中的集成。本文报道了通过化学气相输运方法可控制备高结晶质量 NbOI2-xClx vdW 合金，并实现由组分驱动的可调光学和电学性质。综合实验表征与第一性原理计算表明，NbOI2-xClx 的晶格、声子模式和能带结构能够得到良好调控，并分布在 NbOI2 与 NbOCl2 之间。NbOI2-xClx 中二次谐波产生光信号的幅度和偏振均表现出显著的组分依赖性，为可调的面内铁电特性提供了光学证据。此外，基于 NbOI2-xClx 的场效应晶体管表现出稳健的 n 型半导体行为，其阈值电压和载流子迁移率可通过调节 I/Cl 摩尔比进行精确调制。进一步地，所有组分的二维 NbOI2-xClx 光电探测器均表现出优异的栅极可调电流开关比和强偏振敏感光响应。因此，本研究提供了一个具有可调光学和电学性质的新型 vdW 铁电材料平台，为其在现代纳米光子学和纳米电子学中的应用铺平了道路。",
-      "reading_notes": "Focus: 铁电材料.\nWhat to check: 可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Composition-Driven Tunable Optical and Electrical Properties in Van der Waals Ferroelectric NbO…."
+      "abstract_cn": "我们研究了具有纤锌矿（wz）GaAs 核和 (Pb,Sn)Te 拓扑晶体绝缘体壳层的核/壳 GaAs/(Pb,Sn)Te 纳米线纳米异质结构。这些纳米结构通过分子束外延生长，使用了分别专用于 III-V 族和 IV-VI 族半导体的两个不同 MBE 系统。利用高分辨透射电子显微镜、扫描透射电子显微镜和几何相位分析研究了 wz-GaAs/(Pb,Sn)Te 纳米线的界面结构。作为核材料与壳层材料之间晶格失配的直接结果，观察到了失配位错和莫尔条纹，并利用它们估算晶体拓扑绝缘体壳层中的应变。我们的结果表明，莫尔图案分析有可能作为一种替代方法，用于估算核—壳纳米线结构中的应变。",
+      "reading_notes": "Focus: epitaxy.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Moire based strain analysis in wurtzite GaAs -- rock-salt (Pb,Sn)Te core-shell nanowires grown …."
     },
     {
       "source": "arXiv",
@@ -197,11 +170,37 @@
       ],
       "abstract_cn": "低载流子密度半导体中的非共面磁有序提供了一个平台，在该平台上自旋—电荷耦合能够重塑电子结构并诱导非平庸拓扑相。受磁性半导体 GdGaI 中四子晶格三重 $q$ 有序最新发现的启发，我们研究了一种有效理论，该理论通过四个交换通道，将 $Γ$ 点处的 Ga $4p$ 空穴口袋与 $M$ 点处的三个 Gd $5d$ 电子口袋耦合起来。对于净磁化为零的反铁磁伞状态，该模型包含平庸（$C = 0$）和 $C = \\pm 4$ Chern 绝缘体相，它们由金属区域分隔；通过推导 $Γ$ 点处的解析低能理论，我们表明拓扑相边界由两个简并的双 Weyl 半金属描述，这自然解释了 Chern 数中的 $ΔC = 4$ 跳变。此外，在不存在 $p$-$d$ 交换耦合时，在费米能级附近会出现一种类似节线的状态，该状态将 $θ=\\arccos(1/3)$ 时的 $C=\\pm4$ 相一分为二。通过外加磁场调节倾角会驱动 Chern 绝缘体相发生绝缘体到金属的转变，同时使平庸绝缘体基本保持不变；当均匀磁化交换耦合变得显著时，还会稳定额外的 $C = \\pm 2$ Chern 绝缘体相。这些结果表明，GdGaI 及其姊妹化合物是高度可调的平台，可用于在洁净磁性半导体中实现拓扑相和场诱导金属—绝缘体转变。",
       "reading_notes": "Focus: 半导体.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Field-induced metal-insulator transition, Chern insulators, and topological semimetals in a cle…."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2605.01738v1",
+      "title": "Continuous quantification of viral plaque dynamics using ultra-large-area label-free imaging enables rapid antiviral susceptibility testing",
+      "url": "https://arxiv.org/abs/2605.01738v1",
+      "published": "2026-05-03",
+      "authors": [
+        "Merve Eryilmaz",
+        "Yuzhu Li",
+        "Xiao Wang",
+        "Max Zhang",
+        "Alp Inegol",
+        "Zixiang Ji",
+        "Lucas Thai",
+        "Guangdong Ma",
+        "Akihiko Fujisawa",
+        "Kazunori Yamaguchi",
+        "Aydogan Ozcan"
+      ],
+      "summary": "The plaque reduction assay (PRA) remains the gold standard for antiviral susceptibility testing, evaluating drug potency by measuring reductions in plaque-forming units (PFUs). However, the traditional PRA is time-consuming, labor-intensive, prone to manual counting errors, and offers limited scalability. Moreover, its reliance on destructive fixation and chemical staining reduces the assay to a static, endpoint observation, obscuring the dynamic, time-resolved kinetics of dose-dependent viral inhibition. Here, we introduce a label-free, time-resolved PRA platform that transforms the conventional assay into a continuous, high-dimensional measurement of viral infection dynamics. Our system integrates a compact lens-free imaging setup with a custom-designed ultra-large-area (100 cm^2) thin-film transistor (TFT) image sensor and deep learning-based algorithms to autonomously quantify PFU dynamics within an incubator. Validated using herpes simplex virus type-1 (HSV-1) treated with acyclovir, the platform matched chemically-stained ground truth measurements with zero false positives while accelerating readout by ~26 hours. Crucially, our system revealed that increasing drug concentrations induce temporally distinct delays and suppress new PFU formation, enabling conclusive drug efficacy evaluations within ~60 hours post-infection. This scalable, label-free framework redefines antiviral susceptibility testing as a rapid, time-resolved and information-rich measurement framework, providing a generalizable platform for virology research, high-throughput drug screening, and clinical diagnostics.",
+      "score": 5,
+      "priority": 0,
+      "highlights": [],
+      "abstract_cn": "噬斑减少试验（plaque reduction assay, PRA）仍然是抗病毒药物敏感性测试的金标准，它通过测量噬斑形成单位（plaque-forming units, PFUs）的减少来评估药物效力。然而，传统 PRA 耗时、劳动强度大、容易产生人工计数误差，并且可扩展性有限。此外，其对破坏性固定和化学染色的依赖使该试验退化为静态的终点观察，从而掩盖了剂量依赖性病毒抑制的动态、时间分辨动力学。本文提出了一种无标记、时间分辨的 PRA 平台，将传统试验转变为对病毒感染动力学的连续、高维测量。我们的系统集成了紧凑型无透镜成像装置、自主设计的超大面积（100 cm^2）薄膜晶体管（thin-film transistor, TFT）图像传感器，以及基于深度学习的算法，可在培养箱内自主量化 PFU 动态。使用经阿昔洛韦处理的 1 型单纯疱疹病毒（herpes simplex virus type-1, HSV-1）进行验证后，该平台与化学染色的真实值测量结果一致，实现零假阳性，同时将读出时间缩短了约 26 小时。关键的是，我们的系统揭示出，升高药物浓度会诱导时间上不同的延迟，并抑制新的 PFU 形成，从而能够在感染后约 60 小时内完成确定性的药效评估。这一可扩展的无标记框架将抗病毒药物敏感性测试重新定义为一种快速、时间分辨且信息丰富的测量框架，为病毒学研究、高通量药物筛选和临床诊断提供了一个可推广的平台。",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Continuous quantification of viral plaque dynamics using ultra-large-area label-free imaging en…."
     }
   ],
   "errors": [],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-05-08T00:30:00+00:00"
+  "generated_at": "2026-05-10T00:30:00+00:00"
 }
