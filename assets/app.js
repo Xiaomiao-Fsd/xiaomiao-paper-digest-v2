@@ -20,7 +20,8 @@ function paperKey(p) {
 function normalizePaper(p) {
   const highlights = Array.isArray(p.highlights) ? p.highlights : [];
   const explicitPriority = ['company', 'high', 'normal'].includes(p.priority) ? p.priority : '';
-  const priority = explicitPriority || (highlights.some(h => /Intel|TSMC/i.test(h)) ? 'company' : (Number(p.priority || p.score || 0) >= 2 || Number(p.score || 0) >= 8 ? 'high' : 'normal'));
+  const numericPriority = Number.isFinite(Number(p.priority)) ? Number(p.priority) : null;
+  const priority = explicitPriority || (highlights.some(h => /Intel|TSMC/i.test(h)) ? 'company' : (numericPriority !== null ? (numericPriority >= 1 ? 'high' : 'normal') : (Number(p.score || 0) >= 8 ? 'high' : 'normal')));
   return { ...p, highlights, priority, uid: paperKey(p) || `paper:${Math.random().toString(36).slice(2)}` };
 }
 function priorityLabel(priority) {
