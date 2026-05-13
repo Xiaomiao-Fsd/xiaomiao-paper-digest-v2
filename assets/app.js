@@ -1,4 +1,4 @@
-const state = { digest: null, papers: [], query: '', source: '', priority: '', favorites: new Map() };
+const state = { digest: null, papers: [], query: '', source: '', priority: '', favorites: new Map(), favoritesOpen: false };
 const $ = (id) => document.getElementById(id);
 const themeMedia = window.matchMedia('(prefers-color-scheme: dark)');
 const themeStorageKey = 'paper_digest_v2_theme_override';
@@ -190,11 +190,20 @@ function renderPaperCard(p, i, { inFavorites = false } = {}) {
   return node;
 }
 function renderFavorites() {
+  const panel = $('favoritesPanel');
+  const toggle = $('favoritesToggle');
   const list = $('favoriteList');
   list.innerHTML = '';
   const favs = favoritePapers();
+  panel.classList.toggle('is-open', state.favoritesOpen);
+  toggle.textContent = state.favoritesOpen ? '收起收藏夹' : `展开收藏夹（${favs.length}）`;
+  toggle.setAttribute('aria-expanded', state.favoritesOpen ? 'true' : 'false');
   if (!favs.length) {
     list.innerHTML = '<div class="empty">暂无收藏。点主列表里的“收藏”，论文会移动到这里，并长期保存在当前浏览器。</div>';
+    return;
+  }
+  if (!state.favoritesOpen) {
+    list.innerHTML = `<div class="favorite-collapsed-hint">已收藏 ${favs.length} 篇。点击“展开收藏夹”查看卡片。</div>`;
     return;
   }
   favs.forEach((p, i) => list.appendChild(renderPaperCard(p, i, { inFavorites: true })));
@@ -307,6 +316,10 @@ async function init() {
     if (!savedTheme()) applyTheme();
   });
   initFilterPickers();
+  $('favoritesToggle').addEventListener('click', () => {
+    state.favoritesOpen = !state.favoritesOpen;
+    renderFavorites();
+  });
   $('searchBox').addEventListener('input', e => { state.query = e.target.value; renderPapers(); });
   try {
     const res = await fetch('./data/latest.json', { cache: 'no-store' });
