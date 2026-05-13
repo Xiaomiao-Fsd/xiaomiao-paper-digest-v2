@@ -1,7 +1,8 @@
-const state = { digest: null, papers: [], query: '', source: '', priority: '' };
+const state = { digest: null, papers: [], query: '', source: '', priority: '', favorites: new Map() };
 const $ = (id) => document.getElementById(id);
 const themeMedia = window.matchMedia('(prefers-color-scheme: dark)');
 const themeStorageKey = 'paper_digest_v2_theme_override';
+const favoritesStorageKey = 'paper_digest_v2_favorites_v1';
 
 function text(value, fallback = '—') {
   if (value === null || value === undefined || value === '') return fallback;
@@ -13,11 +14,14 @@ function fmtDate(value) {
   if (Number.isNaN(d.getTime())) return value;
   return d.toLocaleString('zh-CN', { dateStyle: 'medium', timeStyle: 'short' });
 }
+function paperKey(p) {
+  return String(p?.uid || p?.url || p?.title || '').trim();
+}
 function normalizePaper(p) {
   const highlights = Array.isArray(p.highlights) ? p.highlights : [];
   const explicitPriority = ['company', 'high', 'normal'].includes(p.priority) ? p.priority : '';
   const priority = explicitPriority || (highlights.some(h => /Intel|TSMC/i.test(h)) ? 'company' : (Number(p.priority || p.score || 0) >= 2 || Number(p.score || 0) >= 8 ? 'high' : 'normal'));
-  return { ...p, highlights, priority };
+  return { ...p, highlights, priority, uid: paperKey(p) || `paper:${Math.random().toString(36).slice(2)}` };
 }
 function priorityLabel(priority) {
   if (priority === 'company') return 'Intel / TSMC';
@@ -28,15 +32,56 @@ function searchable(p) {
   return [p.title, p.authors, p.source, p.summary, p.abstract_cn, p.reading_notes, ...(p.highlights || [])]
     .flat().join(' ').toLowerCase();
 }
+function loadFavorites() {
+  try {
+    const raw = localStorage.getItem(favoritesStorageKey);
+    const items = raw ? JSON.parse(raw) : [];
+    state.favorites = new Map((Array.isArray(items) ? items : [])
+      .map(item => normalizePaper(item))
+      .map(item => [paperKey(item), item])
+      .filter(([key]) => key));
+  } catch (err) {
+    console.warn('Failed to load favorites', err);
+    state.favorites = new Map();
+  }
+}
+function saveFavorites() {
+  localStorage.setItem(favoritesStorageKey, JSON.stringify([...state.favorites.values()]));
+}
+function isFavorite(p) {
+  return state.favorites.has(paperKey(p));
+}
+function addFavorite(p) {
+  const key = paperKey(p);
+  if (!key) return;
+  state.favorites.set(key, { ...p, favorited_at: new Date().toISOString() });
+  saveFavorites();
+  renderAll();
+}
+function removeFavorite(p) {
+  state.favorites.delete(paperKey(p));
+  saveFavorites();
+  renderAll();
+}
+function mainPapers() {
+  return state.papers.filter(p => !isFavorite(p));
+}
+function favoritePapers() {
+  return [...state.favorites.values()].sort((a, b) => String(b.favorited_at || '').localeCompare(String(a.favorited_at || '')));
+}
 function renderSummary(digest) {
-  $('subtitle').textContent = digest.message ? digest.message.split('\n').slice(0, 3).join('｜') : '微电子材料 / 晶体管方向每日论文筛选';
-  $('selectedCount').textContent = text(digest.selected_count ?? digest.papers?.length ?? 0, '0');
+  const sourceLine = '来源：预印本 arXiv；期刊 Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL';
+  const summaryLine = digest.message ? digest.message.split('\n').filter(line => !/^Sources:/i.test(line)).slice(0, 2).join('｜') : '微电子材料 / 晶体管方向每日论文筛选';
+  $('subtitle').textContent = `${summaryLine}｜${sourceLine}`;
+  $('selectedCount').textContent = String(mainPapers().length);
   $('newCount').textContent = text(digest.new_count, '0');
-  $('companyCount').textContent = String(state.papers.filter(p => p.priority === 'company' || (p.highlights || []).some(h => /Intel|TSMC/i.test(h))).length);
+  $('companyCount').textContent = String(mainPapers().filter(p => p.priority === 'company' || (p.highlights || []).some(h => /Intel|TSMC/i.test(h))).length);
+  $('favoriteCount').textContent = String(state.favorites.size);
   $('generatedAt').textContent = fmtDate(digest.generated_at);
 }
 function renderSources() {
-  const sources = [...new Set(state.papers.map(p => p.source).filter(Boolean))].sort();
+  const sources = [...new Set(mainPapers().map(p => p.source).filter(Boolean))].sort();
+  if (state.source && !sources.includes(state.source)) state.source = '';
   renderFilterMenu('source', [{ value: '', label: '全部来源' }, ...sources.map(source => ({ value: source, label: source }))]);
   renderFilterMenu('priority', [
     { value: '', label: '全部优先级' },
@@ -100,12 +145,59 @@ function initFilterPickers() {
 }
 function filteredPapers() {
   const q = state.query.trim().toLowerCase();
-  return state.papers.filter(p => {
+  return mainPapers().filter(p => {
     if (state.source && p.source !== state.source) return false;
     if (state.priority && p.priority !== state.priority) return false;
     if (q && !searchable(p).includes(q)) return false;
     return true;
   });
+}
+function createFavoriteButton(p, inFavorites = false) {
+  const btn = document.createElement('button');
+  btn.type = 'button';
+  btn.className = `favorite-toggle${inFavorites ? ' active' : ''}`;
+  btn.textContent = inFavorites ? '移出收藏' : '收藏';
+  btn.setAttribute('aria-label', `${inFavorites ? '从收藏夹移出' : '收藏'}：${text(p.title)}`);
+  btn.addEventListener('click', () => inFavorites ? removeFavorite(p) : addFavorite(p));
+  return btn;
+}
+function renderPaperCard(p, i, { inFavorites = false } = {}) {
+  const tpl = $('paperCardTemplate');
+  const node = tpl.content.cloneNode(true);
+  node.querySelector('.meta').textContent = `${inFavorites ? '收藏' : `#${i + 1}`} · ${text(p.source)} · ${text(p.published)}`;
+  const a = node.querySelector('.title');
+  a.textContent = text(p.title);
+  a.href = p.url || '#';
+  node.querySelector('.authors').textContent = Array.isArray(p.authors) ? p.authors.join(', ') : text(p.authors);
+  const badge = node.querySelector('.badge');
+  badge.textContent = priorityLabel(p.priority);
+  badge.classList.add(p.priority);
+  const actions = document.createElement('div');
+  actions.className = 'paper-actions';
+  badge.replaceWith(actions);
+  actions.append(badge, createFavoriteButton(p, inFavorites));
+  const chips = node.querySelector('.chips');
+  (p.highlights || []).forEach(h => {
+    const chip = document.createElement('span');
+    chip.className = 'chip';
+    chip.textContent = h;
+    chips.appendChild(chip);
+  });
+  if (!chips.children.length) chips.remove();
+  node.querySelector('.summary').textContent = text(p.summary, '暂无英文摘要');
+  node.querySelector('.abstract-cn').textContent = text(p.abstract_cn || p.overview_cn, '暂无中文概述');
+  node.querySelector('.reading-notes').textContent = text(p.reading_notes || p.keyword_extract, '暂无阅读导览');
+  return node;
+}
+function renderFavorites() {
+  const list = $('favoriteList');
+  list.innerHTML = '';
+  const favs = favoritePapers();
+  if (!favs.length) {
+    list.innerHTML = '<div class="empty">暂无收藏。点主列表里的“收藏”，论文会移动到这里，并长期保存在当前浏览器。</div>';
+    return;
+  }
+  favs.forEach((p, i) => list.appendChild(renderPaperCard(p, i, { inFavorites: true })));
 }
 function renderPapers() {
   const list = $('paperList');
@@ -123,29 +215,8 @@ function renderPapers() {
   }
   table.hidden = false;
   tableEmpty.hidden = true;
-  const tpl = $('paperCardTemplate');
   papers.forEach((p, i) => {
-    const node = tpl.content.cloneNode(true);
-    node.querySelector('.meta').textContent = `#${i + 1} · ${text(p.source)} · ${text(p.published)}`;
-    const a = node.querySelector('.title');
-    a.textContent = text(p.title);
-    a.href = p.url || '#';
-    node.querySelector('.authors').textContent = Array.isArray(p.authors) ? p.authors.join(', ') : text(p.authors);
-    const badge = node.querySelector('.badge');
-    badge.textContent = priorityLabel(p.priority);
-    badge.classList.add(p.priority);
-    const chips = node.querySelector('.chips');
-    (p.highlights || []).forEach(h => {
-      const chip = document.createElement('span');
-      chip.className = 'chip';
-      chip.textContent = h;
-      chips.appendChild(chip);
-    });
-    if (!chips.children.length) chips.remove();
-    node.querySelector('.summary').textContent = text(p.summary, '暂无英文摘要');
-    node.querySelector('.abstract-cn').textContent = text(p.abstract_cn || p.overview_cn, '暂无中文概述');
-    node.querySelector('.reading-notes').textContent = text(p.reading_notes || p.keyword_extract, '暂无阅读导览');
-    list.appendChild(node);
+    list.appendChild(renderPaperCard(p, i));
 
     const tr = document.createElement('tr');
     appendCell(tr, `#${i + 1}`, 'index-cell');
@@ -155,6 +226,10 @@ function renderPapers() {
     tableBadge.textContent = priorityLabel(p.priority);
     badgeCell.appendChild(tableBadge);
     tr.appendChild(badgeCell);
+    const favoriteCell = document.createElement('td');
+    favoriteCell.className = 'favorite-cell';
+    favoriteCell.appendChild(createFavoriteButton(p));
+    tr.appendChild(favoriteCell);
     appendCell(tr, text(p.source));
     appendCell(tr, text(p.published));
     const titleCell = document.createElement('td');
@@ -182,6 +257,12 @@ function renderPapers() {
     appendCell(tr, text(p.reading_notes || p.keyword_extract, '暂无阅读导览'), 'notes-cell');
     tbody.appendChild(tr);
   });
+}
+function renderAll() {
+  if (state.digest) renderSummary(state.digest);
+  renderSources();
+  renderFavorites();
+  renderPapers();
 }
 function appendCell(row, value, className = '') {
   const td = document.createElement('td');
@@ -214,6 +295,7 @@ function applyTheme(theme = currentTheme()) {
   $('themeToggle').setAttribute('aria-pressed', theme === 'dark' ? 'true' : 'false');
 }
 async function init() {
+  loadFavorites();
   applyTheme();
   requestAnimationFrame(() => document.documentElement.classList.add('theme-ready'));
   $('themeToggle').addEventListener('click', () => {
@@ -231,9 +313,7 @@ async function init() {
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     state.digest = await res.json();
     state.papers = (state.digest.papers || []).map(normalizePaper);
-    renderSummary(state.digest);
-    renderSources();
-    renderPapers();
+    renderAll();
   } catch (err) {
     const message = `加载 data/latest.json 失败：${err.message}`;
     $('paperList').innerHTML = `<div class="error">${message}</div>`;
@@ -241,6 +321,7 @@ async function init() {
     $('paperTableEmpty').textContent = message;
     $('paperTableEmpty').className = 'error';
     $('paperTableEmpty').hidden = false;
+    renderFavorites();
   }
 }
 init();

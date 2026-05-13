@@ -7,14 +7,15 @@
   <meta name="description" content="Microelectronics / transistor paper digest v2" />
   <link rel="icon" type="image/svg+xml" href="./assets/logo.svg" />
   <link rel="apple-touch-icon" href="./assets/logo.png" />
-  <link rel="stylesheet" href="./assets/app.css?v=20260509-logo1" />
+  <link rel="stylesheet" href="./assets/app.css?v=20260509-fav1" />
 </head>
 <body>
   <section class="digest-browser-bar" aria-label="digest controls">
     <section class="summary-grid" aria-label="digest summary">
-      <article class="stat"><span id="selectedCount">-</span><small>入选论文</small></article>
+      <article class="stat"><span id="selectedCount">-</span><small>主列表</small></article>
       <article class="stat"><span id="newCount">-</span><small>新命中</small></article>
       <article class="stat"><span id="companyCount">-</span><small>Intel / TSMC</small></article>
+      <article class="stat"><span id="favoriteCount">0</span><small>收藏夹</small></article>
       <article class="stat wide"><span id="generatedAt">-</span><small>生成时间</small></article>
     </section>
     <div class="toolbar control-actions">
@@ -29,6 +30,10 @@
       <div class="brand-copy">
         <p class="eyebrow">Paper Digest v2</p>
         <h1>论文晨报｜微电子材料 / 晶体管</h1>
+        <div class="source-summary" aria-label="监控来源">
+          <span><strong>预印本</strong> arXiv</span>
+          <span><strong>期刊</strong> Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL</span>
+        </div>
         <p id="subtitle" class="subtitle">加载中…</p>
       </div>
     </div>
@@ -55,12 +60,24 @@
       </div>
     </section>
 
+    <section id="favoritesPanel" class="favorites-panel" aria-label="收藏夹">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Favorites</p>
+          <h2>收藏夹</h2>
+        </div>
+        <p class="section-note">收藏后的论文会移出主列表；收藏数据保存在当前浏览器，不跟随每日数据窗口清理。</p>
+      </div>
+      <section id="favoriteList" class="favorite-list" aria-live="polite"></section>
+    </section>
+
     <section id="paperTableWrap" class="paper-table-wrap" aria-live="polite" aria-label="PC table view">
       <table id="paperTable">
         <thead>
           <tr>
             <th>#</th>
             <th>重点</th>
+            <th>收藏</th>
             <th>Source</th>
             <th>Date</th>
             <th>Title / Link</th>
@@ -111,6 +128,6 @@
     </article>
   </template>
 
-  <script src="./assets/app.js?v=20260507-ui14" defer></script>
+  <script src="./assets/app.js?v=20260509-fav1" defer></script>
 </body>
 </html>
