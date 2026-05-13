@@ -1,64 +1,125 @@
 {
   "ok": true,
-  "new_count": 0,
-  "selected_count": 7,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-05-11）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 7 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Stochastic first-passage modeling of single-event burnout in SiC power MOSFETs\n   关键词：MOSFET, SiC\n   日期：2026-05-04\n   Authors: Feiyi Liu, Min Guo, Shiyang Chen 等\n   https://arxiv.org/abs/2605.02478v1\n2. [arXiv] Deterministic positioning of circular Bragg gratings using atomic force lithography for hig…\n   关键词：lithography\n   日期：2026-05-05\n   Authors: Sai Abhishikth Dhurjati, Moritz Langer, Yared G. Zena 等\n   https://arxiv.org/abs/2605.03672v1\n3. [arXiv] Moire based strain analysis in wurtzite GaAs -- rock-salt (Pb,Sn)Te core-shell nanowires gr…\n   关键词：epitaxy\n   日期：2026-05-08\n   Authors: Maciej Wojcik, Sania Dad, Piotr Dziawa 等\n   https://arxiv.org/abs/2605.06603v1\n4. [arXiv] Unraveling the Defect Physics of SiC Micropipe Sidewalls by Non-Line-of-Sight Confocal Spec…\n   关键词：SiC\n   日期：2026-05-06\n   Authors: Irwan Saleh Kurniawan, Russel Cruz Sevilla, Ruth Jeane Soebroto 等\n   https://arxiv.org/abs/2605.04865v1\n5. [arXiv] Emergence of Localized Surface Plasmons in Unpatterned Hyperdoped Polycrystalline Silicon\n   日期：2026-05-06\n   Authors: Mohamad Bahsoun, Jesse Groenen, Gonzague Agez 等\n   https://arxiv.org/abs/2605.04854v1\n6. [arXiv] Magnetic Brightening and Nanoscale Imaging of Spin-Polarized Helical Edge Modes\n   日期：2026-05-06\n   Authors: Samuel Haeuser, Richard H. J. Kim, Lin-Lin Wang 等\n   https://arxiv.org/abs/2605.04883v1\n7. [arXiv] The high K anomaly in ScAlN explained\n   日期：2026-05-05\n   Authors: Ilan Shalish\n   https://arxiv.org/abs/2605.03765v1",
+  "new_count": 6,
+  "selected_count": 8,
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-05-13）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 6 篇；Intel/TSMC 重点 0 篇\n1. [Nature Electronics] Flexible radio-frequency carbon nanotube transistors operating at frequencies above 100 GHz\n   关键词：transistor\n   日期：2026-05-12\n   https://www.nature.com/articles/s41928-026-01632-1\n2. [arXiv] Emerging 2D Materials for Beyond von Neumann Computing: A Perspective\n   关键词：2D materials\n   日期：2026-05-11\n   Authors: Yaser Banad\n   https://arxiv.org/abs/2605.09695v1\n3. [arXiv] Band alignment of grafted diamond/GaN p-n heterojunctions interfaced with ALD Al2O3 and SiN…\n   关键词：GaN\n   日期：2026-05-10\n   Authors: Tsung-Han Tsai, Chenyu Wang, Jiarui Gong 等\n   https://arxiv.org/abs/2605.09108v1\n4. [arXiv] Optical selection rules in hexagonal Ge polytypes and their lifting by symmetry perturbation\n   日期：2026-05-11\n   Authors: Martin Keller, Haichen Wang, Friedhelm Bechstedt 等\n   https://arxiv.org/abs/2605.10709v1\n5. [arXiv] Perspective on tailoring quantum coherence with electron beams\n   日期：2026-05-11\n   Authors: Nahid Talebi\n   https://arxiv.org/abs/2605.10492v1\n6. [arXiv] Purcell enhancement in layered InSe on the Mie-resonant silicon nitride waveguide\n   日期：2026-05-11\n   Authors: A. I. Veretennikov, E. A. Shepelev, A. S. Shorokhov 等\n   https://arxiv.org/abs/2605.09645v1",
   "papers": [
     {
-      "source": "arXiv",
-      "uid": "arxiv:2605.02478v1",
-      "title": "Stochastic first-passage modeling of single-event burnout in SiC power MOSFETs",
-      "url": "https://arxiv.org/abs/2605.02478v1",
-      "published": "2026-05-04",
-      "authors": [
-        "Feiyi Liu",
-        "Min Guo",
-        "Shiyang Chen",
-        "Yuhan Jiang",
-        "Mingyang Liu",
-        "Yang Wang"
-      ],
-      "summary": "Single-event burnout (SEB) in silicon carbide (SiC) power MOSFETs is often characterized by deterministic threshold quantities. Near the boundary between recovery and runaway, stochastic variability can make this threshold description probabilistic rather than sharp. This work introduces a first-passage perspective for stochastic threshold broadening in burnout. The process is described by a reduced electrothermal feedback-relaxation model with an absorbing boundary. The model combines carrier multiplication, avalanche feedback, localized heating, carrier loss, and thermal relaxation. Stochastic carrier and thermal terms represent unresolved event-level variability. The main finding is that finite fluctuations broaden the deterministic burnout threshold into a probabilistic transition band. Noise-induced subthreshold runaway also emerges, where nominally recoverable conditions can still fail through rare stochastic excursions. First-passage-time distributions resolve the time scale of burnout and survival probabilities further distinguish rapid feedback-dominated runaway from delayed stochastic failure. A feedback-relaxation phase diagram organizes recoverable, probabilistic, and rapidly unstable regimes. This framework provides a statistical-physics interpretation of threshold dispersion in single-event burnout of SiC power MOSFETs by linking coarse-grained electrothermal dynamics to probabilistic and time-resolved failure observables.",
+      "source": "Nature Electronics",
+      "uid": "Nature Electronics:10.1038/s41928-026-01632-1",
+      "title": "Flexible radio-frequency carbon nanotube transistors operating at frequencies above 100 GHz",
+      "url": "https://www.nature.com/articles/s41928-026-01632-1",
+      "published": "2026-05-12",
+      "authors": [],
+      "summary": "Nature Electronics, Published online: 12 May 2026; doi:10.1038/s41928-026-01632-1 An electrothermal co-design strategy can be used to make flexible transistors based on aligned carbon nanotube arrays with current-gain cut-off frequencies of 152 GHz and power-gain cut-off frequencies of 102 GHz.",
       "score": 8,
-      "priority": 2,
+      "priority": 1,
       "highlights": [
-        "MOSFET",
-        "SiC"
+        "transistor"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、SiC方向，围绕“Stochastic first-passage modeling of single-event burnout in SiC power MOSFETs”展开。摘要显示，文章重点涉及制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "reading_notes": "Focus: MOSFET、SiC.\nWhat to check: 可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Stochastic first-passage modeling of single-event burnout in SiC power MOSFETs."
+      "abstract_cn": "《Nature Electronics》，在线发表：2026年5月12日；doi:10.1038/s41928-026-01632-1。一种电—热协同设计策略可用于制备基于取向碳纳米管阵列的柔性晶体管，其电流增益截止频率达到 152 GHz，功率增益截止频率达到 102 GHz。",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Flexible radio-frequency carbon nanotube transistors operating at frequencies above 100 GHz."
     },
     {
       "source": "arXiv",
-      "uid": "arxiv:2605.03672v1",
-      "title": "Deterministic positioning of circular Bragg gratings using atomic force lithography for high-performance quantum dot light sources",
-      "url": "https://arxiv.org/abs/2605.03672v1",
-      "published": "2026-05-05",
+      "uid": "arxiv:2605.09695v1",
+      "title": "Emerging 2D Materials for Beyond von Neumann Computing: A Perspective",
+      "url": "https://arxiv.org/abs/2605.09695v1",
+      "published": "2026-05-11",
       "authors": [
-        "Sai Abhishikth Dhurjati",
-        "Moritz Langer",
-        "Yared G. Zena",
-        "Ahmad Rahimi",
-        "Liesa Raith",
-        "Martin Bauer",
-        "Frank H. P. Fitzek",
-        "Riccardo Bassoli",
-        "Caspar Hopfmann"
+        "Yaser Banad"
       ],
-      "summary": "Semiconductor quantum dots (QDs) grown by molecular beam epitaxy are excellent quantum emitters, but their random spatial distribution hinders deterministic coupling to optical microcavities. We demonstrate a room-temperature atomic force microscopy (AFM)-assisted nano-oxidation lithography technique enabling QD positioning with a radial displacement of $51(28)$ nm. Free-standing asymmetric circular Bragg gratings incorporating AFM-positioned GaAs QDs exhibit a $245$-fold photoluminescence enhancement and fine-structure splitting (FSS) comparable to bulk QDs. Polarization-resolved spectroscopy and finite-difference time-domain simulations show robust emission for displacements up to $50$ nm (Stokes parameter $\\lvert S \\rvert < 0.05$ ). The devices display stable FSS and polarization imbalance below $5 \\, \\%$ , confirming precise, reproducible alignment and potential for high fidelity devices. This scalable approach enables deterministic integration of high-performance QDs with photonic cavities, advancing practical quantum light sources for quantum information technologies.",
-      "score": 6,
+      "summary": "The end of conventional Dennard scaling and the widening gap between memory bandwidth and arithmetic throughput have made the von Neumann partition a structural bottleneck rather than a transient one. Two-dimensional (2D) materials, with atomically thin geometries, electrically tunable carrier densities, and large optical responses, offer a unified platform on which to build devices that compute where they store, process events rather than clock cycles, and shift workload into the optical domain. This perspective surveys progress along three converging thrusts, graphene and graphene nanoribbon transistors as scalable channel materials, oxide and 2D-integrated memristors for in-memory analog compute, and silicon-compatible 2D photonic and thermal-emitter structures for optical computing primitives. Our central argument is that the 2D-materials community has spent a decade producing record devices, and the next decade will be decided by who first integrates three of them on a single semiconductor wafer.",
+      "score": 9,
       "priority": 0,
       "highlights": [
-        "lithography"
+        "2D materials"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注lithography方向，围绕“Deterministic positioning of circular Bragg gratings using atomic force lithogr…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、效率/耦合表现、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "reading_notes": "Focus: lithography.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: Deterministic positioning of circular Bragg gratings using atomic force lithography for high-pe…."
+      "abstract_cn": "传统 Dennard 缩放的终结以及存储带宽与算术吞吐量之间差距的扩大，已使冯·诺依曼分区从一种暂时性约束变成了结构性瓶颈。二维（2D）材料具有原子级薄的几何尺寸、电可调的载流子密度和强光学响应，为构建一种统一平台提供了可能，在该平台上器件可以“在其存储之处进行计算”，以事件而非时钟周期为单位进行处理，并将工作负载转移到光学领域。本文综述了沿着三个趋同方向的进展：作为可扩展沟道材料的石墨烯和石墨烯纳米带晶体管、用于存内模拟计算的氧化物和二维集成忆阻器，以及用于光计算基本单元的硅兼容二维光子与热辐射器结构。我们的核心论点是，二维材料领域已经花了十年时间制造创纪录器件，而下一个十年的胜负将取决于谁能最先把其中三类器件集成到同一片半导体晶圆上。",
+      "reading_notes": "Focus: 二维材料.\nWhat to check: 先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Emerging 2D Materials for Beyond von Neumann Computing: A Perspective."
     },
     {
       "source": "arXiv",
-      "uid": "arxiv:2605.06603v1",
+      "uid": "arxiv:2605.09108v1",
+      "title": "Band alignment of grafted diamond/GaN p-n heterojunctions interfaced with ALD Al2O3 and SiNx/Al2O3",
+      "url": "https://arxiv.org/abs/2605.09108v1",
+      "published": "2026-05-10",
+      "authors": [
+        "Tsung-Han Tsai",
+        "Chenyu Wang",
+        "Jiarui Gong",
+        "Xuanyu Zhou",
+        "Luke Suter",
+        "Aaron Hardy",
+        "Carolina Adamo",
+        "Yang Liu",
+        "Dong Liu",
+        "Connor S Bailey",
+        "Michael Eller",
+        "Stephanie Liu",
+        "Matthias Muehle",
+        "Jung-Hun Seo",
+        "Katherine Fountaine",
+        "Vincent Gambin",
+        "Zhenqiang Ma"
+      ],
+      "summary": "Diamond and gallium nitride are complementary semiconductors for forming p-n junctions because of their respective doping limitations. Understanding the band alignment of grafted diamond/GaN heterojunctions is therefore essential for optimizing diode performance. In this study, the band alignment of diamond/Al2O3/GaN and diamond/Al2O3/SiNx/GaN heterostructures was determined by X-ray photoelectron spectroscopy. Both structures exhibit type-II band alignment, but with different band offsets. The band offsets of the diamond/Al2O3/SiNx/GaN heterojunction are larger by 0.42 eV than those of diamond/Al2O3/GaN. This difference is attributed to a modification of the interfacial electrostatic potential, which may arise from a reduced density of positive fixed charges in the interfacial dielectric near the diamond/Al2O3 interface after insertion of the SiNx layer. These results demonstrate that interfacial-layer engineering provides an effective strategy for tailoring the band alignment of grafted diamond/GaN heterojunctions, offering guidance for the design of p-n diodes with tunable rectifying characteristics.",
+      "score": 7,
+      "priority": 0,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "金刚石和氮化镓由于各自的掺杂限制，是形成 p-n 结的互补半导体。因此，理解接枝式 diamond/GaN 异质结的能带对齐对于优化二极管性能至关重要。本研究通过 X 射线光电子能谱确定了 diamond/Al2O3/GaN 和 diamond/Al2O3/SiNx/Al2O3 结构的能带对齐。两种结构均表现出 II 型能带对齐，但带阶不同。diamond/Al2O3/SiNx/Al2O3 异质结的带阶比 diamond/Al2O3/GaN 大 0.42 eV。该差异归因于界面静电势的改变，这可能源于在引入 SiNx 层后，diamond/Al2O3 界面附近界面介质中的正固定电荷密度降低。这些结果表明，界面层工程为调控接枝式 diamond/GaN 异质结的能带对齐提供了一种有效策略，可为设计具有可调整流特性的 p-n 二极管提供指导。",
+      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升.\nContext: Band alignment of grafted diamond/GaN p-n heterojunctions interfaced with ALD Al2O3 and SiNx/Al…."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2605.07927v1",
+      "title": "MatterSim-MT: A multi-task foundation model for in silico materials characterization",
+      "url": "https://arxiv.org/abs/2605.07927v1",
+      "published": "2026-05-09",
+      "authors": [
+        "Han Yang",
+        "Xixian Liu",
+        "Chenxi Hu",
+        "Yichi Zhou",
+        "Yu Shi",
+        "Chang Liu",
+        "Junfu Tan",
+        "Jielan Li",
+        "Guanzhi Li",
+        "Qian Wang",
+        "Yu Zhu",
+        "Zekun Chen",
+        "Shuizhou Chen",
+        "Fabian Thiemann",
+        "Claudio Zeni",
+        "Matthew Horton",
+        "Robert Pinsler",
+        "Andrew Fowler",
+        "Daniel Zügner",
+        "Tian Xie",
+        "Lixin Sun",
+        "Yicheng Chen",
+        "Lingyu Kong",
+        "Yeqi Bai",
+        "Deniz Gunceler",
+        "Frank Noé",
+        "Hongxia Hao",
+        "Ziheng Lu"
+      ],
+      "summary": "Accurate property characterization is a major bottleneck in materials design. While first-principles methods and task-specific machine-learning models have driven important progress, they remain fundamentally limited in scalability and generalizability across the vast space of structures and properties relevant to real-world materials design. We present MatterSim-MT, a multi-task foundation model for in silico materials simulation and property characterization. The model is pretrained on over 35 million first-principles-labeled structures covering 89 elements, temperatures up to 5000 K and pressures up to 1000 GPa, and is fine-tuned on various properties including Bader charges, magnetic moments, Born effective charges, and dielectric matrices. Out of the box, MatterSim-MT not only serves as a foundation model for predicting material structure, dynamics and thermodynamics, its multi-task architecture also enables a wide range of complex simulations that cannot be captured by potential energy surfaces alone. For example, we demonstrate pressure-dependent LO-TO phonon splitting in SiC with close agreement with experiment, electric hysteresis in ferroelectric BaTiO3, and the cationic-to-anionic redox transition during delithiation of a Li-rich cathode material. Finally, we show that MatterSim-MT scales well with more data and parameters, can be efficiently fine-tuned to higher levels of theory, and can be efficiently extended to new systems via active learning. Overall, we believe this approach provides a scalable route to accurate in silico materials characterization.",
+      "score": 5,
+      "priority": 0,
+      "highlights": [],
+      "abstract_cn": "准确的性质表征是材料设计中的一项主要瓶颈。尽管第一性原理方法和面向特定任务的机器学习模型已经推动了重要进展，但它们在面向真实材料设计所涉及的庞大结构与性质空间时，在可扩展性和泛化能力方面仍受到根本限制。我们提出 MatterSim-MT，这是一种用于计算机模拟材料仿真和性质表征的多任务基础模型。该模型在超过 3500 万个带有第一性原理标注的结构上进行预训练，覆盖 89 种元素、最高 5000 K 的温度和最高 1000 GPa 的压力，并在包括 Bader 电荷、磁矩、Born 有效电荷和介电矩阵在内的多种性质上进行微调。MatterSim-MT 开箱即用，不仅可作为预测材料结构、动力学和热力学的基础模型，其多任务架构还支持仅靠势能面无法捕捉的广泛复杂仿真。例如，我们展示了 SiC 中与实验高度一致的压力依赖 LO-TO 声子劈裂、铁电 BaTiO3 中的电滞回线，以及富锂正极材料脱锂过程中的阳离子到阴离子氧化还原转变。最后，我们表明 MatterSim-MT 能够随着更多数据和参数实现良好扩展，可以高效微调到更高理论水平，并且可以通过主动学习高效扩展到新体系。总体而言，我们认为这种方法为准确的计算机模拟材料表征提供了一条可扩展路径。",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 功耗或能效表现.\nContext: MatterSim-MT: A multi-task foundation model for in silico materials characterization."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2605.06603v2",
       "title": "Moire based strain analysis in wurtzite GaAs -- rock-salt (Pb,Sn)Te core-shell nanowires grown by molecular beam epitaxy",
-      "url": "https://arxiv.org/abs/2605.06603v1",
+      "url": "https://arxiv.org/abs/2605.06603v2",
       "published": "2026-05-08",
       "authors": [
         "Maciej Wojcik",
@@ -74,7 +135,7 @@
       "highlights": [
         "epitaxy"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注epitaxy方向，围绕“Moire based strain analysis in wurtzite GaAs -- rock-salt (Pb,Sn)Te core-shell …”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_cn": "我们研究了具有纤锌矿（wz）GaAs 核和 (Pb,Sn)Te 拓扑晶体绝缘体壳层的核/壳 GaAs/(Pb,Sn)Te 纳米线纳米异质结构。这些纳米结构通过分子束外延生长，使用了分别专用于 III-V 族和 IV-VI 族半导体的两个不同 MBE 系统。利用高分辨透射电子显微镜、扫描透射电子显微镜和几何相位分析研究了 wz-GaAs/(Pb,Sn)Te 纳米线的界面结构。作为核材料与壳层材料之间晶格失配的直接结果，观察到了失配位错和莫尔条纹，并利用它们估算晶体拓扑绝缘体壳层中的应变。我们的结果表明，莫尔图案分析有可能作为一种替代方法，用于估算核—壳纳米线结构中的应变。",
       "reading_notes": "Focus: epitaxy.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Moire based strain analysis in wurtzite GaAs -- rock-salt (Pb,Sn)Te core-shell nanowires grown …."
     },
     {
@@ -100,7 +161,7 @@
       "highlights": [
         "SiC"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注SiC方向，围绕“Unraveling the Defect Physics of SiC Micropipe Sidewalls by Non-Line-of-Sight C…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_cn": "微管是 SiC 晶圆中危害最大的缺陷之一，并且与灾难性器件失效密切相关。然而，由于其高深宽比几何结构严重限制了直接光学探测，其内部侧壁的微观缺陷本质以及相关漏电流机制仍了解不足。本文发展了一种非视线共焦多重反射光谱显微技术，并结合直接缺陷光电离，以揭示微管侧壁的缺陷物理。我们表明，这些侧壁具有高密度的类施主和类受主深能级态，从而产生由本征类 DAP 复合和由去俘获介导的自由态到束缚态跃迁组成的超宽发射带。不同于常规缺陷发光，类 DAP 发射即使在室温和所有激发功率下仍保持主导地位。这种行为归因于侧壁缺陷对载流子的快速俘获，快速上升和纳秒尺度衰减动力学以及耦合载流子动力学均证明了这一点。这些结果表明，微管侧壁可作为延展的两性巨型陷阱和载流子库，通过陷阱辅助输运促进漏电流。本工作提供了一种用于直接探测高深宽比延展缺陷的无损光学方法，并对其缺陷物理和漏电机制给出了深入的机理认识。",
       "reading_notes": "Focus: SiC.\nWhat to check: 效率/耦合表现.\nContext: Unraveling the Defect Physics of SiC Micropipe Sidewalls by Non-Line-of-Sight Confocal Spectrom…."
     },
     {
@@ -125,56 +186,33 @@
       "score": 5,
       "priority": 0,
       "highlights": [],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Emergence of Localized Surface Plasmons in Unpatterned Hyperdoped Polycrystalli…”展开。摘要显示，文章重点涉及电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_cn": "大尺度工程化局域表面等离激元共振的能力通常依赖于精确的纳米尺度图案化。本文展示，中红外等离激元响应可以在由纳米级（5–50 nm）晶粒组成的无图案多晶硅薄膜中自发出现，这挑战了既有设计范式，并消除了对外部纳米结构化的需求。通过定制的非平衡退火条件，我们表明超掺杂多晶硅层表现出增强的光—物质相互作用，并且可在整个中红外范围内调谐。通过结合先进电子显微学、红外光谱和有限差分时域电动力学仿真，我们证明这些显著的光学性质源于晶界处自然形成的金属—电介质界面，该界面支持局域表面等离激元共振。重要的是，这一结果具有普适性，并可扩展至任何掺杂半导体体系，而不依赖于合成技术，只要晶粒尺寸保持在纳米尺度范围内即可。本工作开辟了一个以多晶半导体为中心的等离激元学新领域，为成本效益高、完全兼容微电子和光伏技术，并能够显著重塑红外范围内光—物质相互作用的系统铺平了道路。",
       "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: Emergence of Localized Surface Plasmons in Unpatterned Hyperdoped Polycrystalline Silicon."
     },
     {
       "source": "arXiv",
-      "uid": "arxiv:2605.04883v1",
-      "title": "Magnetic Brightening and Nanoscale Imaging of Spin-Polarized Helical Edge Modes",
-      "url": "https://arxiv.org/abs/2605.04883v1",
-      "published": "2026-05-06",
+      "uid": "arxiv:2605.10709v1",
+      "title": "Optical selection rules in hexagonal Ge polytypes and their lifting by symmetry perturbation",
+      "url": "https://arxiv.org/abs/2605.10709v1",
+      "published": "2026-05-11",
       "authors": [
-        "Samuel Haeuser",
-        "Richard H. J. Kim",
-        "Lin-Lin Wang",
-        "Thomas Koschny",
-        "Pedro M. Lozano",
-        "Genda Gu",
-        "Randall K. Chan",
-        "Joong-Mok Park",
-        "Martin Mootz",
-        "Liang Luo",
-        "Qiang Li",
-        "Jigang Wang"
+        "Martin Keller",
+        "Haichen Wang",
+        "Friedhelm Bechstedt",
+        "Jürgen Furthmüller",
+        "Silvana Botti"
       ],
-      "summary": "Efficient sub-10 nm electric transport remains a major challenge for nanoelectronics due to high losses and impedance mismatches in conventional Drude metals. Despite their promise of dissipationless, reflection-free conduction, topologically protected chiral edge modes remain little explored in their nanoscale spin polarized transport-particularly regarding real-space visualization, magnetic field tunability, and high-frequency edge conductivity. Here, we report magnetic brightening and nanoscale visualization of highly spin-polarizable infrared helical edge states using cryogenic magneto-infrared scattering-type scanning near-field optical microscopy (cm-IR-sSNOM). Our measurements reveal magnetic field-induced near-field conductivity at step edges, uncovering quantum spin Hall spin-splitting modes with enhanced infrared polarizability and slightly narrowed near-field profiles. In addition, the infrared edge electrodynamic response scales nearly linearly with atomic layer number, providing compelling evidence that magnetic-field-induced gaps do not disrupt individual-layer edge states at energies of around 100 meV. These results sharply contrast with microwave and DC transport, where even small magnetically induced gaps decrease edge conduction. Magnetically tunable, topologically robust high-frequency edge modes open a pathway toward ultralow-loss nanoscale interconnects and quantum logic architectures for next-generation microelectronics, spintronics and quantum information science.",
+      "summary": "Hexagonal germanium polytypes have emerged as promising direct-gap semiconductors for silicon-integrated optoelectronics, yet their optical properties remain largely unexplored beyond the well-studied 2H phase. We present a comprehensive theoretical study of optical properties of hexagonal 2H-, 4H-, and 6H-Ge polytypes through ab initio calculations of quasiparticle band structures, dipole transition matrix elements, and solution of the Bethe-Salpeter equation. While all three polytypes exhibit direct band gaps of increasing size from 2H to 6H, we reveal that the fundamental optical transition in 4H-Ge is parity-forbidden due to matching band parities at the valence and conduction band edges. This selection rule results in a radiative lifetime seven orders of magnitude longer than in 2H- and 6H-Ge, severely limiting light emission capabilities. To demonstrate that the selection rule can be lifted, we introduce controlled symmetry perturbations by substituting single Ge atoms with Si in each unit cell, breaking the crystal symmetry. This perturbation increases the optical matrix elements by up to two orders of magnitude and reduces radiative lifetimes for all perturbed polytypes. We also compute absorption coefficients and frequency-dependent dielectric tensors for both light polarizations, including excitonic effects up to 5 eV, providing complete optical characterization of ideal and symmetry-perturbed hexagonal Ge systems relevant for optoelectronic applications.",
       "score": 4,
       "priority": 0,
       "highlights": [],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Magnetic Brightening and Nanoscale Imaging of Spin-Polarized Helical Edge Modes”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: Magnetic Brightening and Nanoscale Imaging of Spin-Polarized Helical Edge Modes."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2605.03765v1",
-      "title": "The high K anomaly in ScAlN explained",
-      "url": "https://arxiv.org/abs/2605.03765v1",
-      "published": "2026-05-05",
-      "authors": [
-        "Ilan Shalish"
-      ],
-      "summary": "We resolve the long-standing discrepancy between theoretical material constants and experimental observations of the dielectric response in scandium aluminum nitride (ScAlN). While first-principles calculations of the rigid lattice predict a permittivity of about 11.7, experiments consistently report values near 15. We demonstrate that this \"high K\" behavior is a manifestation of electromechanical inflation, where the enormous internal electric fields of polar heterostructures induce macroscopic lattice strain via the inverse piezoelectric effect. By applying stress-free mechanical boundary conditions to the coupled equations of state, we derive an analytical relation for the effective permittivity: epsilon_eff=epsilon_33^S + e_33^2/C_33. This model quantitatively accounts for experimental observations across the ScAlN alloy range and defines the fundamental limit of the rigid-lattice approximation in highly polar semiconductors.",
-      "score": 4,
-      "priority": 0,
-      "highlights": [],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“The high K anomaly in ScAlN explained”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: The high K anomaly in ScAlN explained."
+      "abstract_cn": "六方锗多型体已成为用于硅集成光电子学的有前景直接带隙半导体，但除已广泛研究的 2H 相之外，其光学性质仍基本未被探索。我们通过对准粒子能带结构、偶极跃迁矩阵元以及 Bethe-Salpeter 方程求解的第一性原理计算，对六方 2H-、4H- 和 6H-Ge 多型体的光学性质进行了全面的理论研究。尽管这三种多型体都表现出从 2H 到 6H 逐渐增大的直接带隙，我们发现 4H-Ge 的基本光学跃迁由于价带和导带边缘处的能带宇称相同而被宇称禁戒。该选择定则导致其辐射寿命比 2H- 和 6H-Ge 长七个数量级，严重限制了其发光能力。为证明该选择定则可以被解除，我们在每个晶胞中用 Si 替换单个 Ge 原子，引入受控的对称性扰动，从而打破晶体对称性。该扰动使光学矩阵元最高提高两个数量级，并降低了所有受扰多型体的辐射寿命。我们还计算了光吸收系数和频率依赖介电张量，涵盖两种光偏振并考虑至 5 eV 的激子效应，从而为与光电子应用相关的理想和受对称性扰动的六方 Ge 体系提供了完整的光学表征。",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 效率/耦合表现、与既有工艺平台的集成价值.\nContext: Optical selection rules in hexagonal Ge polytypes and their lifting by symmetry perturbation."
     }
   ],
   "errors": [],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-05-11T00:30:00+00:00"
+  "generated_at": "2026-05-13T00:30:00+00:00"
 }
