@@ -70,9 +70,8 @@ function favoritePapers() {
   return [...state.favorites.values()].sort((a, b) => String(b.favorited_at || '').localeCompare(String(a.favorited_at || '')));
 }
 function renderSummary(digest) {
-  const sourceLine = '来源：预印本 arXiv；期刊 Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL';
   const summaryLine = digest.message ? digest.message.split('\n').filter(line => !/^Sources:/i.test(line)).slice(0, 2).join('｜') : '微电子材料 / 晶体管方向每日论文筛选';
-  $('subtitle').textContent = `${summaryLine}｜${sourceLine}`;
+  $('subtitle').textContent = summaryLine;
   $('selectedCount').textContent = String(mainPapers().length);
   $('newCount').textContent = text(digest.new_count, '0');
   $('companyCount').textContent = String(mainPapers().filter(p => p.priority === 'company' || (p.highlights || []).some(h => /Intel|TSMC/i.test(h))).length);
