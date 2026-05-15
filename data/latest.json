@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 1,
+  "new_count": 5,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-05-14）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 1 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Understanding oxide-thickness-dependent variability in dense Si-MOS quantum dot arrays\n   日期：2026-05-12\n   Authors: Arne Loenders, Jacques Van Damme, Clement Godfrin 等\n   https://arxiv.org/abs/2605.12143v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-05-15）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 5 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Giant optical spin-orbit interactions in ferroelectric van der Waals waveguides\n   关键词：ferroelectric\n   日期：2026-05-13\n   Authors: Ding Xu, Saeed Rahmanian Koshkaki, Vicente Galicia 等\n   https://arxiv.org/abs/2605.13707v1\n2. [arXiv] Direct-write electrochemical nanofabrication of ultrasmall graphene devices\n   日期：2026-05-13\n   Authors: Xiao Liu, Colm Durkan\n   https://arxiv.org/abs/2605.12660v1\n3. [arXiv] Understanding oxide-thickness-dependent variability in dense Si-MOS quantum dot arrays\n   日期：2026-05-12\n   Authors: Arne Loenders, Jacques Van Damme, Clement Godfrin 等\n   https://arxiv.org/abs/2605.12143v2\n4. [arXiv] Layer thickness dependent band gap of MBE grown single- to few-layer MoS$_{2}$\n   日期：2026-05-13\n   Authors: Maciej Bazarnik, Thorsten Deilmann, Marta Przychodnia 等\n   https://arxiv.org/abs/2605.13637v1\n5. [arXiv] Highly Efficient Exciton Modulation in MoSe$_2$/PdSe$_2$ Heterostructures\n   日期：2026-05-13\n   Authors: Petr Rozhin, Emma Contin, Danae Katrisoti 等\n   https://arxiv.org/abs/2605.13211v1",
   "papers": [
     {
       "source": "Nature Electronics",
@@ -40,6 +40,57 @@
     },
     {
       "source": "arXiv",
+      "uid": "arxiv:2605.13707v1",
+      "title": "Giant optical spin-orbit interactions in ferroelectric van der Waals waveguides",
+      "url": "https://arxiv.org/abs/2605.13707v1",
+      "published": "2026-05-13",
+      "authors": [
+        "Ding Xu",
+        "Saeed Rahmanian Koshkaki",
+        "Vicente Galicia",
+        "Chun-Ying Huang",
+        "Victoria Quirós-Cordero",
+        "Jakhangirkhodja A. Tulyagankhodjaev",
+        "André Koch Liston",
+        "Daniel G. Chica",
+        "Emma Lian",
+        "Amirhosein Amini",
+        "Yongseok Hong",
+        "Taketo Handa",
+        "P. James Schuck",
+        "Xiaoyang Zhu",
+        "Xavier Roy",
+        "Arkajit Mandal",
+        "Milan Delor"
+      ],
+      "summary": "Optical spin-orbit interactions (SOI) link photonic spin to momentum, offering a route toward on-chip polarization control and beam steering. Nevertheless, achieving sufficient optical SOI and nonlinearities on sub-micrometer scales - a prerequisite for dense photonic integration - remains an outstanding challenge. Here, we show that highly birefringent van der Waals (vdW) waveguides provide an ideal, chip-compatible platform to address this limitation. We focus on the ferroelectric semiconductor NbOI2, which exhibits record optical nonlinearities and dielectric anisotropy. Using femtosecond optical microscopy, we image light propagation and harmonic conversion beyond the total internal reflection barrier over tens of micrometers in NbOI2 slab waveguides. We report giant optical spin-splitting through the optical spin Hall effect, which facilitates spatial separation of optical spin currents on sub-micrometer scales, in quantitative agreement with a microscopic light-matter interaction model. We further leverage optical spin-momentum locking to realize polarization-controlled waveguide steering. We generalize these observations across various vdW waveguides and empirically confirm a scaling law linking dielectric anisotropy to geometric spin-splitting. Our results establish highly anisotropic vdW waveguides as an ideal platform for densely integrated opto-spintronic technologies.",
+      "score": 7,
+      "priority": 0,
+      "highlights": [
+        "ferroelectric"
+      ],
+      "abstract_cn": "光学自旋—轨道相互作用（optical spin-orbit interactions, SOI）将光子自旋与动量联系起来，为片上偏振控制和波束偏转提供了一条路径。然而，在亚微米尺度上实现足够强的光学 SOI 和非线性——这是高密度光子集成的前提——仍然是一项突出挑战。本文表明，高双折射范德华（van der Waals, vdW）波导提供了一个理想且芯片兼容的平台来应对这一限制。我们聚焦于铁电半导体 NbOI2，该材料表现出创纪录的光学非线性和介电各向异性。利用飞秒光学显微技术，我们在 NbOI2 平板波导中对跨越数十微米、突破全内反射限制的光传播和谐波转换进行了成像。我们报道了通过光学自旋霍尔效应产生的巨型光学自旋劈裂，该效应促进了亚微米尺度上光自旋流的空间分离，并与微观光—物质相互作用模型定量一致。我们进一步利用光学自旋—动量锁定实现了偏振控制的波导转向。我们将这些观测推广到多种 vdW 波导，并通过实验经验确认了一条将介电各向异性与几何自旋劈裂联系起来的标度律。我们的结果确立了高各向异性 vdW 波导作为高密度集成光自旋电子技术理想平台的地位。",
+      "reading_notes": "Focus: 铁电材料.\nWhat to check: 先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Giant optical spin-orbit interactions in ferroelectric van der Waals waveguides."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2605.12660v1",
+      "title": "Direct-write electrochemical nanofabrication of ultrasmall graphene devices",
+      "url": "https://arxiv.org/abs/2605.12660v1",
+      "published": "2026-05-13",
+      "authors": [
+        "Xiao Liu",
+        "Colm Durkan"
+      ],
+      "summary": "Graphene nano-ribbons, GNRs, are promising channel materials for next-generation ultra-miniaturised devices due to their exceptional electrical and thermal properties which arise from their atomic thickness, as well as their ability to have a size-dependent band-gap [1-9]. However, despite extensive efforts to reliably fabricate narrow GNR-based field-effect transistors [10-12], their integration into conventional transistor technologies remains hindered by challenges such as high fabrication costs and complex processing requirements [13, 14]. In this study, we present a direct-write, relatively low-cost and robust approach for fabricating sub-10 nm GNR-based FETs using electrochemical atomic force microscopy lithography with an alternating current (AC) bias, obviating the need for electrodes. We also explain the underlying electrochemical process and provide a model which can be used to describe it. Leveraging the high-precision positioning capability of AFM, this method enables precise nanoscale graphene patterning with feature sizes below 10nm. Compared with conventional lithographic techniques, photo- and electron-beam lithography i.e., PL & EBL, respectively [2, 15-20], it offers higher resolution, lower defect density, contamination-free processing, and the capability for in situ nanoscale device modification and characterisation. This work provides an efficient strategy for advancing GNR-based nanoelectronics.",
+      "score": 7,
+      "priority": 0,
+      "highlights": [],
+      "abstract_cn": "石墨烯纳米带（graphene nano-ribbons, GNRs）由于其原子级厚度所带来的优异电学和热学性质，以及其能够具有尺寸依赖带隙的能力，被认为是下一代超小型化器件中很有前景的沟道材料 [1-9]。然而，尽管人们为可靠制备窄 GNR 基场效应晶体管付出了大量努力 [10-12]，其与传统晶体管技术的集成仍受到高制造成本和复杂工艺要求等挑战的阻碍 [13, 14]。在本研究中，我们提出了一种直接写入、成本相对较低且稳健的方法，利用施加交流（AC）偏压的电化学原子力显微镜光刻来制备亚 10 nm GNR 基 FET，从而无需电极。我们还解释了其背后的电化学过程，并给出了可用于描述该过程的模型。借助 AFM 的高精度定位能力，该方法能够实现特征尺寸低于 10 nm 的精确纳米尺度石墨烯图形化。与传统光刻技术，即光刻和电子束光刻（分别为 PL 和 EBL）[2, 15-20] 相比，该方法具有更高分辨率、更低缺陷密度、无污染加工，以及原位纳米尺度器件修改和表征能力。本工作为推进 GNR 基纳米电子学提供了一种高效策略。",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 可靠性与稳定性、先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Direct-write electrochemical nanofabrication of ultrasmall graphene devices."
+    },
+    {
+      "source": "arXiv",
       "uid": "arxiv:2605.09108v1",
       "title": "Band alignment of grafted diamond/GaN p-n heterojunctions interfaced with ALD Al2O3 and SiNx/Al2O3",
       "url": "https://arxiv.org/abs/2605.09108v1",
@@ -74,9 +125,9 @@
     },
     {
       "source": "arXiv",
-      "uid": "arxiv:2605.12143v1",
+      "uid": "arxiv:2605.12143v2",
       "title": "Understanding oxide-thickness-dependent variability in dense Si-MOS quantum dot arrays",
-      "url": "https://arxiv.org/abs/2605.12143v1",
+      "url": "https://arxiv.org/abs/2605.12143v2",
       "published": "2026-05-12",
       "authors": [
         "Arne Loenders",
@@ -108,6 +159,25 @@
       "highlights": [],
       "abstract_cn": "实现半导体自旋量子比特的均匀且可扩展控制，仍然是大规模量子计算面临的一项关键挑战。在本工作中，我们研究了栅氧化层厚度如何影响密集二维硅量子点阵列中的均匀性。我们使用在 300 mm CMOS 工艺中通过 EUV 光刻图形化制备的 7 x 7 阵列，对四种不同氧化层厚度下的 392 个量子点进行了统计表征。通过基于行的并行测量提取阈值电压、电容、杠杆臂和充电能，并确定了 17 nm 的最优 SiO2 厚度，可将阈值电压变异性最小化至标准差低于 63 mV。我们的观测说明，多种无序来源可能引入相互竞争的氧化层厚度依赖性，从而导致非单调趋势。这些结果为密集、可扩展的硅自旋量子比特架构提供了关键设计准则。",
       "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Understanding oxide-thickness-dependent variability in dense Si-MOS quantum dot arrays."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2605.13637v1",
+      "title": "Layer thickness dependent band gap of MBE grown single- to few-layer MoS$_{2}$",
+      "url": "https://arxiv.org/abs/2605.13637v1",
+      "published": "2026-05-13",
+      "authors": [
+        "Maciej Bazarnik",
+        "Thorsten Deilmann",
+        "Marta Przychodnia",
+        "Anika Schlenhoff"
+      ],
+      "summary": "In light of the rise of transition metal dichalcogenides as 2D semiconductors for device applications, band engineering becomes very important from an application point of view. In many of these materials, such as the canonical example of MoS$_{2}$, the semiconductor band gap depends on the layer number. It changes from indirect to direct as it evolves from a bulk semiconductor to a monolayer. Interestingly, it was predicted and experimentally confirmed that, by thinning the material from bulk to a bilayer, the indirect transition shows a strong blue-shift. Here, we present the results of scanning tunnelling spectroscopy measurements on MoS$_{2}$ that has been grown \\textit{in situ} via molecular beam epitaxy on graphene on Ir(111) at thicknesses ranging from 1 to 5 layers. We find a drastic decrease of the band gap with increasing layer number, to values even below the band gap in bulk. We also observe that the pinning of the conduction band vanishes above 4 layers. Comparing our experimental data with density functional theory and \\textit{GW} calculations indicates that an additional screening is introduced by the sample growth conditions.",
+      "score": 5,
+      "priority": 0,
+      "highlights": [],
+      "abstract_cn": "鉴于过渡金属二硫族化合物作为用于器件应用的二维半导体正在兴起，从应用角度来看，能带工程变得非常重要。在这类材料中的许多体系中，例如典型代表 MoS$_{2}$，半导体带隙取决于层数。当其从体相半导体演化为单层时，带隙会从间接带隙转变为直接带隙。有趣的是，已有预测并经实验证实，当材料由体相减薄到双层时，间接跃迁会表现出强烈蓝移。本文给出了对 MoS$_{2}$ 的扫描隧道谱测量结果，该 MoS$_{2}$ 是在 Ir(111) 上的石墨烯衬底上通过分子束外延原位生长的，厚度范围为 1 至 5 层。我们发现，随着层数增加，带隙急剧减小，甚至低于体相带隙值。我们还观察到，导带钉扎在超过 4 层后消失。将我们的实验数据与密度泛函理论和 GW 计算进行比较表明，样品生长条件引入了额外的屏蔽作用。",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Layer thickness dependent band gap of MBE grown single- to few-layer MoS$_{2}$."
     },
     {
       "source": "arXiv",
@@ -151,70 +221,11 @@
       "highlights": [],
       "abstract_cn": "准确的性质表征是材料设计中的一项主要瓶颈。尽管第一性原理方法和面向特定任务的机器学习模型已经推动了重要进展，但它们在面向真实材料设计所涉及的庞大结构与性质空间时，在可扩展性和泛化能力方面仍受到根本限制。我们提出 MatterSim-MT，这是一种用于计算机模拟材料仿真和性质表征的多任务基础模型。该模型在超过 3500 万个带有第一性原理标注的结构上进行预训练，覆盖 89 种元素、最高 5000 K 的温度和最高 1000 GPa 的压力，并在包括 Bader 电荷、磁矩、Born 有效电荷和介电矩阵在内的多种性质上进行微调。MatterSim-MT 开箱即用，不仅可作为预测材料结构、动力学和热力学的基础模型，其多任务架构还支持仅靠势能面无法捕捉的广泛复杂仿真。例如，我们展示了 SiC 中与实验高度一致的压力依赖 LO-TO 声子劈裂、铁电 BaTiO3 中的电滞回线，以及富锂正极材料脱锂过程中的阳离子到阴离子氧化还原转变。最后，我们表明 MatterSim-MT 能够随着更多数据和参数实现良好扩展，可以高效微调到更高理论水平，并且可以通过主动学习高效扩展到新体系。总体而言，我们认为这种方法为准确的计算机模拟材料表征提供了一条可扩展路径。",
       "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 功耗或能效表现.\nContext: MatterSim-MT: A multi-task foundation model for in silico materials characterization."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2605.06603v2",
-      "title": "Moire based strain analysis in wurtzite GaAs -- rock-salt (Pb,Sn)Te core-shell nanowires grown by molecular beam epitaxy",
-      "url": "https://arxiv.org/abs/2605.06603v2",
-      "published": "2026-05-08",
-      "authors": [
-        "Maciej Wojcik",
-        "Sania Dad",
-        "Piotr Dziawa",
-        "Slawomir Kret",
-        "Wojciech Pacuski",
-        "Janusz Sadowski"
-      ],
-      "summary": "We investigate core/shell GaAs/(Pb,Sn)Te nanowire nanoheterostructures with wurtzite (wz) GaAs cores and (Pb,Sn)Te topological crystalline insulator shells. The nanostructures have been grown by molecular beam epitaxy using two distinct MBE systems dedicated to III-V, and IV-VI semiconductors. The interface structure of wz-GaAs/(Pb,Sn)Te nanowires is investigated using high resolution transmission electron microscopy, scanning transmission electron microscopy and geometric phase analysis. Misfit dislocations and moiré fringes are observed as a direct result of the lattice mismatch between the core and the shell materials, and used to estimate strain in crystalline topological insulator shells. Our results point to a possibility of using moiré patterns analysis as an alternative, for estimating strain in the core-shell nanowire structures.",
-      "score": 5,
-      "priority": 0,
-      "highlights": [
-        "epitaxy"
-      ],
-      "abstract_cn": "我们研究了具有纤锌矿（wz）GaAs 核和 (Pb,Sn)Te 拓扑晶体绝缘体壳层的核/壳 GaAs/(Pb,Sn)Te 纳米线纳米异质结构。这些纳米结构通过分子束外延生长，使用了分别专用于 III-V 族和 IV-VI 族半导体的两个不同 MBE 系统。利用高分辨透射电子显微镜、扫描透射电子显微镜和几何相位分析研究了 wz-GaAs/(Pb,Sn)Te 纳米线的界面结构。作为核材料与壳层材料之间晶格失配的直接结果，观察到了失配位错和莫尔条纹，并利用它们估算晶体拓扑绝缘体壳层中的应变。我们的结果表明，莫尔图案分析有可能作为一种替代方法，用于估算核—壳纳米线结构中的应变。",
-      "reading_notes": "Focus: epitaxy.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Moire based strain analysis in wurtzite GaAs -- rock-salt (Pb,Sn)Te core-shell nanowires grown …."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2605.10709v1",
-      "title": "Optical selection rules in hexagonal Ge polytypes and their lifting by symmetry perturbation",
-      "url": "https://arxiv.org/abs/2605.10709v1",
-      "published": "2026-05-11",
-      "authors": [
-        "Martin Keller",
-        "Haichen Wang",
-        "Friedhelm Bechstedt",
-        "Jürgen Furthmüller",
-        "Silvana Botti"
-      ],
-      "summary": "Hexagonal germanium polytypes have emerged as promising direct-gap semiconductors for silicon-integrated optoelectronics, yet their optical properties remain largely unexplored beyond the well-studied 2H phase. We present a comprehensive theoretical study of optical properties of hexagonal 2H-, 4H-, and 6H-Ge polytypes through ab initio calculations of quasiparticle band structures, dipole transition matrix elements, and solution of the Bethe-Salpeter equation. While all three polytypes exhibit direct band gaps of increasing size from 2H to 6H, we reveal that the fundamental optical transition in 4H-Ge is parity-forbidden due to matching band parities at the valence and conduction band edges. This selection rule results in a radiative lifetime seven orders of magnitude longer than in 2H- and 6H-Ge, severely limiting light emission capabilities. To demonstrate that the selection rule can be lifted, we introduce controlled symmetry perturbations by substituting single Ge atoms with Si in each unit cell, breaking the crystal symmetry. This perturbation increases the optical matrix elements by up to two orders of magnitude and reduces radiative lifetimes for all perturbed polytypes. We also compute absorption coefficients and frequency-dependent dielectric tensors for both light polarizations, including excitonic effects up to 5 eV, providing complete optical characterization of ideal and symmetry-perturbed hexagonal Ge systems relevant for optoelectronic applications.",
-      "score": 4,
-      "priority": 0,
-      "highlights": [],
-      "abstract_cn": "六方锗多型体已成为用于硅集成光电子学的有前景直接带隙半导体，但除已被充分研究的 2H 相之外，其光学性质仍基本未被探索。我们通过对准粒子能带结构、偶极跃迁矩阵元以及 Bethe-Salpeter 方程求解的第一性原理计算，对六方 2H-、4H- 和 6H-Ge 多型体的光学性质进行了全面的理论研究。尽管这三种多型体都表现出从 2H 到 6H 逐渐增大的直接带隙，我们发现 4H-Ge 的基本光学跃迁由于价带和导带边缘处的能带宇称相同而被宇称禁戒。该选择定则导致其辐射寿命比 2H- 和 6H-Ge 长七个数量级，严重限制了其发光能力。为证明该选择定则可以被解除，我们通过在每个晶胞中用 Si 替换单个 Ge 原子来引入受控的对称性扰动，从而打破晶体对称性。这种扰动使光学矩阵元最高提高两个数量级，并降低了所有受扰多型体的辐射寿命。我们还计算了两种光偏振下的吸收系数和频率依赖介电张量，并纳入最高至 5 eV 的激子效应，从而为与光电子应用相关的理想和受对称性扰动的六方 Ge 体系提供了完整的光学表征。",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 效率/耦合表现、与既有工艺平台的集成价值.\nContext: Optical selection rules in hexagonal Ge polytypes and their lifting by symmetry perturbation."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2605.10492v1",
-      "title": "Perspective on tailoring quantum coherence with electron beams",
-      "url": "https://arxiv.org/abs/2605.10492v1",
-      "published": "2026-05-11",
-      "authors": [
-        "Nahid Talebi"
-      ],
-      "summary": "Examining and controlling the interaction between semiconductor quantum qubits and their environment can boost semiconductor quantum technologies, which have many applications in table-top quantum computing hardware. Electron beams in electron microscopes have opened up a new avenue for the quantum-coherent probing of semiconductor excitations and strong-coupling effects. Here, I provide a brief overview of recent advancements in electron-beam probes for investigating quantum coherence in semiconductors and two-dimensional materials, complemented by my perspective on using electron beams to manipulate the entanglement and correlations between quantum systems.",
-      "score": 4,
-      "priority": 0,
-      "highlights": [],
-      "abstract_cn": "研究并控制半导体量子比特与其环境之间的相互作用，可以推动半导体量子技术的发展；这类技术在台式量子计算硬件中具有许多应用。电子显微镜中的电子束为半导体激发和强耦合效应的量子相干探测开辟了新的途径。本文简要概述了利用电子束探针研究半导体和二维材料中量子相干性的最新进展，并结合我的观点讨论了如何使用电子束操控量子系统之间的纠缠和关联。",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 效率/耦合表现.\nContext: Perspective on tailoring quantum coherence with electron beams."
     }
   ],
   "errors": [],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-05-14T00:30:00+00:00"
+  "generated_at": "2026-05-15T00:30:00+00:00"
 }
