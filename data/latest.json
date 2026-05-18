@@ -1,9 +1,41 @@
 {
   "ok": true,
-  "new_count": 5,
-  "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-05-15）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 5 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Giant optical spin-orbit interactions in ferroelectric van der Waals waveguides\n   关键词：ferroelectric\n   日期：2026-05-13\n   Authors: Ding Xu, Saeed Rahmanian Koshkaki, Vicente Galicia 等\n   https://arxiv.org/abs/2605.13707v1\n2. [arXiv] Direct-write electrochemical nanofabrication of ultrasmall graphene devices\n   日期：2026-05-13\n   Authors: Xiao Liu, Colm Durkan\n   https://arxiv.org/abs/2605.12660v1\n3. [arXiv] Understanding oxide-thickness-dependent variability in dense Si-MOS quantum dot arrays\n   日期：2026-05-12\n   Authors: Arne Loenders, Jacques Van Damme, Clement Godfrin 等\n   https://arxiv.org/abs/2605.12143v2\n4. [arXiv] Layer thickness dependent band gap of MBE grown single- to few-layer MoS$_{2}$\n   日期：2026-05-13\n   Authors: Maciej Bazarnik, Thorsten Deilmann, Marta Przychodnia 等\n   https://arxiv.org/abs/2605.13637v1\n5. [arXiv] Highly Efficient Exciton Modulation in MoSe$_2$/PdSe$_2$ Heterostructures\n   日期：2026-05-13\n   Authors: Petr Rozhin, Emma Contin, Danae Katrisoti 等\n   https://arxiv.org/abs/2605.13211v1",
+  "new_count": 0,
+  "selected_count": 3,
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-05-18）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 3 篇；Intel/TSMC 重点 0 篇\n1. [Science Advances] Proton-shuttling nanosheet membranes enable high-power-density protonic fuel cells\n   关键词：nanosheet\n   日期：2026-05-15\n   Authors: Kaiqiang He, Yuxiang Wang, Dehua Dong 等\n   https://doi.org/10.1126/sciadv.aea1569\n2. [Nature Electronics] Flexible radio-frequency carbon nanotube transistors operating at frequencies above 100 GHz\n   关键词：transistor\n   日期：2026-05-12\n   https://www.nature.com/articles/s41928-026-01632-1\n3. [Science Advances] Colossal dielectric perovskites enable Coulombic interfacial β-phase stabilization\n   关键词：dielectric\n   日期：2026-05-15\n   Authors: Qi Wei Shi, Fei Jin, Ziqin Wang 等\n   https://doi.org/10.1126/sciadv.aed7505\n注：以下源本次抓取失败：arXiv",
   "papers": [
+    {
+      "source": "Science Advances",
+      "uid": "doi:10.1126/sciadv.aea1569",
+      "title": "Proton-shuttling nanosheet membranes enable high-power-density protonic fuel cells",
+      "url": "https://doi.org/10.1126/sciadv.aea1569",
+      "published": "2026-05-15",
+      "authors": [
+        "Kaiqiang He",
+        "Yuxiang Wang",
+        "Dehua Dong",
+        "Fanmengjing Wang",
+        "Kevin Ung",
+        "Zhuyuan Wang",
+        "Zhikao Li",
+        "Xiwang Zhang",
+        "Shanwen Tao",
+        "Jacek J. Jasieniak",
+        "Paul A. Webley",
+        "Douglas R. MacFarlane",
+        "Jefferson Zhe Liu",
+        "Zongping Shao",
+        "Huanting Wang"
+      ],
+      "summary": "High-temperature operation enhances the efficiency and design simplicity of electrochemical devices, but conventional polymer membranes lose proton conductivity rapidly due to dehydration. Atomically thin nanosheets can selectively transport thermal protons through nanoscale corrugations and quantum tunneling, making them promising for high-temperature proton-conducting membranes. However, stacked nanosheet assemblies often suffer from poor proton transport between layers. We built nanosheet-based membranes by bridging individual nanosheets using nanoconfined phosphoric acid. This architecture enables low-tortuosity, synergistic proton transport via both through-nanosheet conduction and hydrogen bond–mediated hopping along confined acid layers, resulting in ultrafast, stable proton conduction under anhydrous high-temperature conditions. A polyethylenimine-functionalized graphene/boron nitride bilayer membrane achieves a proton conductivity of 166 millisiemens per centimeter and delivers a power density of 1011 milliwatts per square centimeter in hydrogen fuel cells at 250°C, outperforming most previously reported anhydrous proton-conducting membranes. Furthermore, it exhibits superior methanol tolerance, achieving 502 milliwatts per square centimeter on concentrated methanol. This work offers a versatile platform for next-generation high-temperature proton-conducting membranes.",
+      "score": 10,
+      "priority": 1,
+      "highlights": [
+        "nanosheet"
+      ],
+      "abstract_cn": "高温运行能够提高电化学器件的效率并简化设计，但传统聚合物膜会因脱水而迅速失去质子电导率。原子级薄的纳米片可以通过纳米尺度褶皱和量子隧穿选择性传输热质子，因此有望用于高温质子传导膜。然而，堆叠纳米片组装体通常存在层间质子传输不佳的问题。我们通过使用纳米限域磷酸桥接单个纳米片，构建了基于纳米片的膜。这种结构通过贯穿纳米片的传导以及沿限域酸层的氢键介导跳跃，实现了低曲折度、协同质子传输，从而在无水高温条件下获得超快且稳定的质子传导。聚乙烯亚胺功能化石墨烯/氮化硼双层膜实现了 166 毫西门子每厘米的质子电导率，并在 250°C 的氢燃料电池中输出 1011 毫瓦每平方厘米的功率密度，优于此前报道的大多数无水质子传导膜。此外，它表现出优异的甲醇耐受性，在浓甲醇条件下实现了 502 毫瓦每平方厘米的功率密度。本工作为下一代高温质子传导膜提供了一个通用平台。",
+      "reading_notes": "Focus: nanosheet.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: Proton-shuttling nanosheet membranes enable high-power-density protonic fuel cells."
+    },
     {
       "source": "Nature Electronics",
       "uid": "Nature Electronics:10.1038/s41928-026-01632-1",
@@ -21,211 +53,36 @@
       "reading_notes": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Flexible radio-frequency carbon nanotube transistors operating at frequencies above 100 GHz."
     },
     {
-      "source": "arXiv",
-      "uid": "arxiv:2605.09695v1",
-      "title": "Emerging 2D Materials for Beyond von Neumann Computing: A Perspective",
-      "url": "https://arxiv.org/abs/2605.09695v1",
-      "published": "2026-05-11",
+      "source": "Science Advances",
+      "uid": "doi:10.1126/sciadv.aed7505",
+      "title": "Colossal dielectric perovskites enable Coulombic interfacial β-phase stabilization",
+      "url": "https://doi.org/10.1126/sciadv.aed7505",
+      "published": "2026-05-15",
       "authors": [
-        "Yaser Banad"
+        "Qi Wei Shi",
+        "Fei Jin",
+        "Ziqin Wang",
+        "Lisha Hua",
+        "Hugo Wiryaputra",
+        "Yaxuan Wang",
+        "Jun Liu",
+        "Steven Wang"
       ],
-      "summary": "The end of conventional Dennard scaling and the widening gap between memory bandwidth and arithmetic throughput have made the von Neumann partition a structural bottleneck rather than a transient one. Two-dimensional (2D) materials, with atomically thin geometries, electrically tunable carrier densities, and large optical responses, offer a unified platform on which to build devices that compute where they store, process events rather than clock cycles, and shift workload into the optical domain. This perspective surveys progress along three converging thrusts, graphene and graphene nanoribbon transistors as scalable channel materials, oxide and 2D-integrated memristors for in-memory analog compute, and silicon-compatible 2D photonic and thermal-emitter structures for optical computing primitives. Our central argument is that the 2D-materials community has spent a decade producing record devices, and the next decade will be decided by who first integrates three of them on a single semiconductor wafer.",
-      "score": 9,
-      "priority": 0,
-      "highlights": [
-        "2D materials"
-      ],
-      "abstract_cn": "传统 Dennard 缩放的终结以及存储带宽与算术吞吐量之间差距的扩大，已使冯·诺依曼分区从一种暂时性问题变成了结构性瓶颈。二维（2D）材料具有原子级薄的几何结构、电可调的载流子密度和强光学响应，为构建统一平台提供了可能，在该平台上器件可以在存储位置进行计算、以事件而非时钟周期为对象进行处理，并将工作负载转移到光学域。本文从三个正在汇聚的方向综述了相关进展：作为可扩展沟道材料的石墨烯和石墨烯纳米带晶体管、用于存内模拟计算的氧化物和二维集成忆阻器，以及用于光计算基本单元的硅兼容二维光子与热发射器结构。我们的核心观点是，二维材料领域已经用了十年时间制造出创纪录的器件，而下一个十年的关键将取决于谁能率先把其中三类器件集成到同一片半导体晶圆上。",
-      "reading_notes": "Focus: 二维材料.\nWhat to check: 先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Emerging 2D Materials for Beyond von Neumann Computing: A Perspective."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2605.13707v1",
-      "title": "Giant optical spin-orbit interactions in ferroelectric van der Waals waveguides",
-      "url": "https://arxiv.org/abs/2605.13707v1",
-      "published": "2026-05-13",
-      "authors": [
-        "Ding Xu",
-        "Saeed Rahmanian Koshkaki",
-        "Vicente Galicia",
-        "Chun-Ying Huang",
-        "Victoria Quirós-Cordero",
-        "Jakhangirkhodja A. Tulyagankhodjaev",
-        "André Koch Liston",
-        "Daniel G. Chica",
-        "Emma Lian",
-        "Amirhosein Amini",
-        "Yongseok Hong",
-        "Taketo Handa",
-        "P. James Schuck",
-        "Xiaoyang Zhu",
-        "Xavier Roy",
-        "Arkajit Mandal",
-        "Milan Delor"
-      ],
-      "summary": "Optical spin-orbit interactions (SOI) link photonic spin to momentum, offering a route toward on-chip polarization control and beam steering. Nevertheless, achieving sufficient optical SOI and nonlinearities on sub-micrometer scales - a prerequisite for dense photonic integration - remains an outstanding challenge. Here, we show that highly birefringent van der Waals (vdW) waveguides provide an ideal, chip-compatible platform to address this limitation. We focus on the ferroelectric semiconductor NbOI2, which exhibits record optical nonlinearities and dielectric anisotropy. Using femtosecond optical microscopy, we image light propagation and harmonic conversion beyond the total internal reflection barrier over tens of micrometers in NbOI2 slab waveguides. We report giant optical spin-splitting through the optical spin Hall effect, which facilitates spatial separation of optical spin currents on sub-micrometer scales, in quantitative agreement with a microscopic light-matter interaction model. We further leverage optical spin-momentum locking to realize polarization-controlled waveguide steering. We generalize these observations across various vdW waveguides and empirically confirm a scaling law linking dielectric anisotropy to geometric spin-splitting. Our results establish highly anisotropic vdW waveguides as an ideal platform for densely integrated opto-spintronic technologies.",
+      "summary": "Soft piezoelectric polymers hold promise for the advancement of flexible wearable sensors offering self-powered precise monitoring capability. However, their long-term stability of performance is often constrained by modest crystallinity and insufficient dipole alignment. To conquer this, we fabricated a polymer-inorganic hybrid via Coulombic interfacial field anchoring. Using the colossal permittivity perovskite (CaCu 3 Ti 4 O 12 ) as a dielectric template intensifies interfacial field under electrospinning, driving fluoropolymer chain into all-trans conformation and stabilize ferroelectric switching. This electrostatic coupling elevates the β-phase content and remanent polarization, delivering an exceptional 700% gain in piezoelectric response relative to pure poly(vinylidene fluoride). Leveraging the stable electromechanical response and mechanical endurance, the nonwoven fabric were implemented into a helmet liner, which maps impact location and severity in real time, and a three-dimensional–structured insole enabling early-stage fall detection. This works demonstrates a Coulombic interaction–driven intermolecular anchoring approach to produce high-performance organic-inorganic piezoelectric nanocomposites, expanding the capabilities of electromechanical smart monitoring.",
       "score": 7,
       "priority": 0,
       "highlights": [
-        "ferroelectric"
+        "dielectric"
       ],
-      "abstract_cn": "光学自旋—轨道相互作用（optical spin-orbit interactions, SOI）将光子自旋与动量联系起来，为片上偏振控制和波束偏转提供了一条路径。然而，在亚微米尺度上实现足够强的光学 SOI 和非线性——这是高密度光子集成的前提——仍然是一项突出挑战。本文表明，高双折射范德华（van der Waals, vdW）波导提供了一个理想且芯片兼容的平台来应对这一限制。我们聚焦于铁电半导体 NbOI2，该材料表现出创纪录的光学非线性和介电各向异性。利用飞秒光学显微技术，我们在 NbOI2 平板波导中对跨越数十微米、突破全内反射限制的光传播和谐波转换进行了成像。我们报道了通过光学自旋霍尔效应产生的巨型光学自旋劈裂，该效应促进了亚微米尺度上光自旋流的空间分离，并与微观光—物质相互作用模型定量一致。我们进一步利用光学自旋—动量锁定实现了偏振控制的波导转向。我们将这些观测推广到多种 vdW 波导，并通过实验经验确认了一条将介电各向异性与几何自旋劈裂联系起来的标度律。我们的结果确立了高各向异性 vdW 波导作为高密度集成光自旋电子技术理想平台的地位。",
-      "reading_notes": "Focus: 铁电材料.\nWhat to check: 先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Giant optical spin-orbit interactions in ferroelectric van der Waals waveguides."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2605.12660v1",
-      "title": "Direct-write electrochemical nanofabrication of ultrasmall graphene devices",
-      "url": "https://arxiv.org/abs/2605.12660v1",
-      "published": "2026-05-13",
-      "authors": [
-        "Xiao Liu",
-        "Colm Durkan"
-      ],
-      "summary": "Graphene nano-ribbons, GNRs, are promising channel materials for next-generation ultra-miniaturised devices due to their exceptional electrical and thermal properties which arise from their atomic thickness, as well as their ability to have a size-dependent band-gap [1-9]. However, despite extensive efforts to reliably fabricate narrow GNR-based field-effect transistors [10-12], their integration into conventional transistor technologies remains hindered by challenges such as high fabrication costs and complex processing requirements [13, 14]. In this study, we present a direct-write, relatively low-cost and robust approach for fabricating sub-10 nm GNR-based FETs using electrochemical atomic force microscopy lithography with an alternating current (AC) bias, obviating the need for electrodes. We also explain the underlying electrochemical process and provide a model which can be used to describe it. Leveraging the high-precision positioning capability of AFM, this method enables precise nanoscale graphene patterning with feature sizes below 10nm. Compared with conventional lithographic techniques, photo- and electron-beam lithography i.e., PL & EBL, respectively [2, 15-20], it offers higher resolution, lower defect density, contamination-free processing, and the capability for in situ nanoscale device modification and characterisation. This work provides an efficient strategy for advancing GNR-based nanoelectronics.",
-      "score": 7,
-      "priority": 0,
-      "highlights": [],
-      "abstract_cn": "石墨烯纳米带（graphene nano-ribbons, GNRs）由于其原子级厚度所带来的优异电学和热学性质，以及其能够具有尺寸依赖带隙的能力，被认为是下一代超小型化器件中很有前景的沟道材料 [1-9]。然而，尽管人们为可靠制备窄 GNR 基场效应晶体管付出了大量努力 [10-12]，其与传统晶体管技术的集成仍受到高制造成本和复杂工艺要求等挑战的阻碍 [13, 14]。在本研究中，我们提出了一种直接写入、成本相对较低且稳健的方法，利用施加交流（AC）偏压的电化学原子力显微镜光刻来制备亚 10 nm GNR 基 FET，从而无需电极。我们还解释了其背后的电化学过程，并给出了可用于描述该过程的模型。借助 AFM 的高精度定位能力，该方法能够实现特征尺寸低于 10 nm 的精确纳米尺度石墨烯图形化。与传统光刻技术，即光刻和电子束光刻（分别为 PL 和 EBL）[2, 15-20] 相比，该方法具有更高分辨率、更低缺陷密度、无污染加工，以及原位纳米尺度器件修改和表征能力。本工作为推进 GNR 基纳米电子学提供了一种高效策略。",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 可靠性与稳定性、先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Direct-write electrochemical nanofabrication of ultrasmall graphene devices."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2605.09108v1",
-      "title": "Band alignment of grafted diamond/GaN p-n heterojunctions interfaced with ALD Al2O3 and SiNx/Al2O3",
-      "url": "https://arxiv.org/abs/2605.09108v1",
-      "published": "2026-05-10",
-      "authors": [
-        "Tsung-Han Tsai",
-        "Chenyu Wang",
-        "Jiarui Gong",
-        "Xuanyu Zhou",
-        "Luke Suter",
-        "Aaron Hardy",
-        "Carolina Adamo",
-        "Yang Liu",
-        "Dong Liu",
-        "Connor S Bailey",
-        "Michael Eller",
-        "Stephanie Liu",
-        "Matthias Muehle",
-        "Jung-Hun Seo",
-        "Katherine Fountaine",
-        "Vincent Gambin",
-        "Zhenqiang Ma"
-      ],
-      "summary": "Diamond and gallium nitride are complementary semiconductors for forming p-n junctions because of their respective doping limitations. Understanding the band alignment of grafted diamond/GaN heterojunctions is therefore essential for optimizing diode performance. In this study, the band alignment of diamond/Al2O3/GaN and diamond/Al2O3/SiNx/GaN heterostructures was determined by X-ray photoelectron spectroscopy. Both structures exhibit type-II band alignment, but with different band offsets. The band offsets of the diamond/Al2O3/SiNx/GaN heterojunction are larger by 0.42 eV than those of diamond/Al2O3/GaN. This difference is attributed to a modification of the interfacial electrostatic potential, which may arise from a reduced density of positive fixed charges in the interfacial dielectric near the diamond/Al2O3 interface after insertion of the SiNx layer. These results demonstrate that interfacial-layer engineering provides an effective strategy for tailoring the band alignment of grafted diamond/GaN heterojunctions, offering guidance for the design of p-n diodes with tunable rectifying characteristics.",
-      "score": 7,
-      "priority": 0,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "金刚石和氮化镓由于各自的掺杂限制，是形成 p-n 结的互补半导体。因此，理解接枝式 diamond/GaN 异质结的能带对齐对于优化二极管性能至关重要。本研究通过 X 射线光电子能谱确定了 diamond/Al2O3/GaN 和 diamond/Al2O3/SiNx/GaN 异质结构的能带对齐。两种结构均表现出 II 型能带对齐，但具有不同的带阶。diamond/Al2O3/SiNx/GaN 异质结的带阶比 diamond/Al2O3/GaN 大 0.42 eV。该差异归因于界面静电势的改变，这可能源于插入 SiNx 层后，diamond/Al2O3 界面附近界面介质中的正固定电荷密度降低。这些结果表明，界面层工程为调控接枝式 diamond/GaN 异质结的能带对齐提供了一种有效策略，可为设计具有可调整流特性的 p-n 二极管提供指导。",
-      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升.\nContext: Band alignment of grafted diamond/GaN p-n heterojunctions interfaced with ALD Al2O3 and SiNx/Al…."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2605.12143v2",
-      "title": "Understanding oxide-thickness-dependent variability in dense Si-MOS quantum dot arrays",
-      "url": "https://arxiv.org/abs/2605.12143v2",
-      "published": "2026-05-12",
-      "authors": [
-        "Arne Loenders",
-        "Jacques Van Damme",
-        "Clement Godfrin",
-        "Paola Favia",
-        "Jacopo Franco",
-        "Thomas Van Caekenberghe",
-        "Bart Raes",
-        "Gulzat Jaliel",
-        "Sylvain Baudot",
-        "Luis Francisco Pinotti",
-        "Alexander Grill",
-        "George Simion",
-        "Kristof Moors",
-        "Vukan Levajac",
-        "Sofie Beyne",
-        "Sugandha Sharma",
-        "Stefan Kubicek",
-        "Yosuke Shimura",
-        "Roger Loo",
-        "Massimo Mongillo",
-        "Danny Wan",
-        "Kristiaan De Greve"
-      ],
-      "summary": "Achieving uniform and scalable control of semiconductor spin qubits remains a key challenge for large scale quantum computing. In this work, we investigate how gate oxide thickness influences uniformity in dense two dimensional silicon quantum dot arrays. Using a 7 x 7 array fabricated in a 300 mm CMOS-process patterned by EUV lithography, we statistically characterize 392 quantum dots across four different oxide thicknesses. The threshold voltages, capacitances, lever arms, and charging energies are extracted using parallel row based measurements and we identify an optimal SiO2 thickness of 17 nm that minimizes threshold voltage variability below 63 mV standard deviation. Our observations illustrate how multiple sources of disorder can introduce competing oxide-thickness dependencies, resulting in non-monotonic trends. These results provide key design guidelines for dense, scalable silicon spin qubit architectures.",
-      "score": 6,
-      "priority": 0,
-      "highlights": [],
-      "abstract_cn": "实现半导体自旋量子比特的均匀且可扩展控制，仍然是大规模量子计算面临的一项关键挑战。在本工作中，我们研究了栅氧化层厚度如何影响密集二维硅量子点阵列中的均匀性。我们使用在 300 mm CMOS 工艺中通过 EUV 光刻图形化制备的 7 x 7 阵列，对四种不同氧化层厚度下的 392 个量子点进行了统计表征。通过基于行的并行测量提取阈值电压、电容、杠杆臂和充电能，并确定了 17 nm 的最优 SiO2 厚度，可将阈值电压变异性最小化至标准差低于 63 mV。我们的观测说明，多种无序来源可能引入相互竞争的氧化层厚度依赖性，从而导致非单调趋势。这些结果为密集、可扩展的硅自旋量子比特架构提供了关键设计准则。",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Understanding oxide-thickness-dependent variability in dense Si-MOS quantum dot arrays."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2605.13637v1",
-      "title": "Layer thickness dependent band gap of MBE grown single- to few-layer MoS$_{2}$",
-      "url": "https://arxiv.org/abs/2605.13637v1",
-      "published": "2026-05-13",
-      "authors": [
-        "Maciej Bazarnik",
-        "Thorsten Deilmann",
-        "Marta Przychodnia",
-        "Anika Schlenhoff"
-      ],
-      "summary": "In light of the rise of transition metal dichalcogenides as 2D semiconductors for device applications, band engineering becomes very important from an application point of view. In many of these materials, such as the canonical example of MoS$_{2}$, the semiconductor band gap depends on the layer number. It changes from indirect to direct as it evolves from a bulk semiconductor to a monolayer. Interestingly, it was predicted and experimentally confirmed that, by thinning the material from bulk to a bilayer, the indirect transition shows a strong blue-shift. Here, we present the results of scanning tunnelling spectroscopy measurements on MoS$_{2}$ that has been grown \\textit{in situ} via molecular beam epitaxy on graphene on Ir(111) at thicknesses ranging from 1 to 5 layers. We find a drastic decrease of the band gap with increasing layer number, to values even below the band gap in bulk. We also observe that the pinning of the conduction band vanishes above 4 layers. Comparing our experimental data with density functional theory and \\textit{GW} calculations indicates that an additional screening is introduced by the sample growth conditions.",
-      "score": 5,
-      "priority": 0,
-      "highlights": [],
-      "abstract_cn": "鉴于过渡金属二硫族化合物作为用于器件应用的二维半导体正在兴起，从应用角度来看，能带工程变得非常重要。在这类材料中的许多体系中，例如典型代表 MoS$_{2}$，半导体带隙取决于层数。当其从体相半导体演化为单层时，带隙会从间接带隙转变为直接带隙。有趣的是，已有预测并经实验证实，当材料由体相减薄到双层时，间接跃迁会表现出强烈蓝移。本文给出了对 MoS$_{2}$ 的扫描隧道谱测量结果，该 MoS$_{2}$ 是在 Ir(111) 上的石墨烯衬底上通过分子束外延原位生长的，厚度范围为 1 至 5 层。我们发现，随着层数增加，带隙急剧减小，甚至低于体相带隙值。我们还观察到，导带钉扎在超过 4 层后消失。将我们的实验数据与密度泛函理论和 GW 计算进行比较表明，样品生长条件引入了额外的屏蔽作用。",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Layer thickness dependent band gap of MBE grown single- to few-layer MoS$_{2}$."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2605.07927v1",
-      "title": "MatterSim-MT: A multi-task foundation model for in silico materials characterization",
-      "url": "https://arxiv.org/abs/2605.07927v1",
-      "published": "2026-05-09",
-      "authors": [
-        "Han Yang",
-        "Xixian Liu",
-        "Chenxi Hu",
-        "Yichi Zhou",
-        "Yu Shi",
-        "Chang Liu",
-        "Junfu Tan",
-        "Jielan Li",
-        "Guanzhi Li",
-        "Qian Wang",
-        "Yu Zhu",
-        "Zekun Chen",
-        "Shuizhou Chen",
-        "Fabian Thiemann",
-        "Claudio Zeni",
-        "Matthew Horton",
-        "Robert Pinsler",
-        "Andrew Fowler",
-        "Daniel Zügner",
-        "Tian Xie",
-        "Lixin Sun",
-        "Yicheng Chen",
-        "Lingyu Kong",
-        "Yeqi Bai",
-        "Deniz Gunceler",
-        "Frank Noé",
-        "Hongxia Hao",
-        "Ziheng Lu"
-      ],
-      "summary": "Accurate property characterization is a major bottleneck in materials design. While first-principles methods and task-specific machine-learning models have driven important progress, they remain fundamentally limited in scalability and generalizability across the vast space of structures and properties relevant to real-world materials design. We present MatterSim-MT, a multi-task foundation model for in silico materials simulation and property characterization. The model is pretrained on over 35 million first-principles-labeled structures covering 89 elements, temperatures up to 5000 K and pressures up to 1000 GPa, and is fine-tuned on various properties including Bader charges, magnetic moments, Born effective charges, and dielectric matrices. Out of the box, MatterSim-MT not only serves as a foundation model for predicting material structure, dynamics and thermodynamics, its multi-task architecture also enables a wide range of complex simulations that cannot be captured by potential energy surfaces alone. For example, we demonstrate pressure-dependent LO-TO phonon splitting in SiC with close agreement with experiment, electric hysteresis in ferroelectric BaTiO3, and the cationic-to-anionic redox transition during delithiation of a Li-rich cathode material. Finally, we show that MatterSim-MT scales well with more data and parameters, can be efficiently fine-tuned to higher levels of theory, and can be efficiently extended to new systems via active learning. Overall, we believe this approach provides a scalable route to accurate in silico materials characterization.",
-      "score": 5,
-      "priority": 0,
-      "highlights": [],
-      "abstract_cn": "准确的性质表征是材料设计中的一项主要瓶颈。尽管第一性原理方法和面向特定任务的机器学习模型已经推动了重要进展，但它们在面向真实材料设计所涉及的庞大结构与性质空间时，在可扩展性和泛化能力方面仍受到根本限制。我们提出 MatterSim-MT，这是一种用于计算机模拟材料仿真和性质表征的多任务基础模型。该模型在超过 3500 万个带有第一性原理标注的结构上进行预训练，覆盖 89 种元素、最高 5000 K 的温度和最高 1000 GPa 的压力，并在包括 Bader 电荷、磁矩、Born 有效电荷和介电矩阵在内的多种性质上进行微调。MatterSim-MT 开箱即用，不仅可作为预测材料结构、动力学和热力学的基础模型，其多任务架构还支持仅靠势能面无法捕捉的广泛复杂仿真。例如，我们展示了 SiC 中与实验高度一致的压力依赖 LO-TO 声子劈裂、铁电 BaTiO3 中的电滞回线，以及富锂正极材料脱锂过程中的阳离子到阴离子氧化还原转变。最后，我们表明 MatterSim-MT 能够随着更多数据和参数实现良好扩展，可以高效微调到更高理论水平，并且可以通过主动学习高效扩展到新体系。总体而言，我们认为这种方法为准确的计算机模拟材料表征提供了一条可扩展路径。",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 功耗或能效表现.\nContext: MatterSim-MT: A multi-task foundation model for in silico materials characterization."
+      "abstract_cn": "软压电聚合物有望推动柔性可穿戴传感器的发展，使其具备自供能精确监测能力。然而，其长期性能稳定性常受限于有限的结晶度和不足的偶极取向。为克服这一问题，我们通过库仑界面场锚定制备了一种聚合物—无机杂化材料。以巨介电常数钙钛矿（CaCu3Ti4O12）作为介电模板，可在静电纺丝过程中增强界面场，驱动含氟聚合物链转变为全反式构象，并稳定铁电翻转。这种静电耦合提高了 β 相含量和剩余极化，使压电响应相对于纯聚偏二氟乙烯提升了 700%。利用其稳定的机电响应和机械耐久性，该非织造织物被集成到头盔衬垫中，可实时映射冲击位置和严重程度；同时还被制成三维结构鞋垫，实现早期跌倒检测。本工作展示了一种由库仑相互作用驱动的分子间锚定方法，用于制备高性能有机—无机压电纳米复合材料，拓展了机电智能监测的能力。",
+      "reading_notes": "Focus: 介电材料.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: Colossal dielectric perovskites enable Coulombic interfacial β-phase stabilization."
     }
   ],
-  "errors": [],
+  "errors": [
+    "arXiv"
+  ],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-05-15T00:30:00+00:00"
+  "generated_at": "2026-05-18T00:30:00+00:00"
 }
