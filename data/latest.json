@@ -1,9 +1,30 @@
 {
   "ok": true,
-  "new_count": 0,
-  "selected_count": 3,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-05-18）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 3 篇；Intel/TSMC 重点 0 篇\n1. [Science Advances] Proton-shuttling nanosheet membranes enable high-power-density protonic fuel cells\n   关键词：nanosheet\n   日期：2026-05-15\n   Authors: Kaiqiang He, Yuxiang Wang, Dehua Dong 等\n   https://doi.org/10.1126/sciadv.aea1569\n2. [Nature Electronics] Flexible radio-frequency carbon nanotube transistors operating at frequencies above 100 GHz\n   关键词：transistor\n   日期：2026-05-12\n   https://www.nature.com/articles/s41928-026-01632-1\n3. [Science Advances] Colossal dielectric perovskites enable Coulombic interfacial β-phase stabilization\n   关键词：dielectric\n   日期：2026-05-15\n   Authors: Qi Wei Shi, Fei Jin, Ziqin Wang 等\n   https://doi.org/10.1126/sciadv.aed7505\n注：以下源本次抓取失败：arXiv",
+  "new_count": 3,
+  "selected_count": 8,
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-05-19）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 3 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Radio-frequency reflectometry in silicon carbide large-area transistors\n   关键词：transistor\n   日期：2026-05-15\n   Authors: Alexander Zotov, Conor McGeough, Megan Powell 等\n   https://arxiv.org/abs/2605.15389v1\n2. [arXiv] Reversible nanoscale patterning of WTe$_2$ with a scanning tunneling microscope\n   日期：2026-05-15\n   Authors: Kevin Hauser, Danyang Liu, Berk Zengin 等\n   https://arxiv.org/abs/2605.15387v1\n3. [arXiv] Rapid Atmospheric Vapor Deposition of H:In2O3 Transparent Conducting Oxide Thin Films\n   关键词：deposition\n   日期：2026-05-16\n   Authors: Xiaoyu Guo, Hae-Jun Seok, Eilidh L. Quinn 等\n   https://arxiv.org/abs/2605.16166v1",
   "papers": [
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2605.15389v1",
+      "title": "Radio-frequency reflectometry in silicon carbide large-area transistors",
+      "url": "https://arxiv.org/abs/2605.15389v1",
+      "published": "2026-05-15",
+      "authors": [
+        "Alexander Zotov",
+        "Conor McGeough",
+        "Megan Powell",
+        "Alessandro Rossi"
+      ],
+      "summary": "Radio-frequency (RF) reflectometry is widely used for high-bandwidth readout of semiconductor quantum devices at cryogenic temperatures, but its application has mainly been limited to nanoscale structures with relatively small capacitances. Here, we investigate RF readout in a different regime by applying gate-based reflectometry to a large-area silicon carbide transistor with parasitic capacitances orders of magnitude larger than those of typical quantum devices, conditions normally expected to hinder RF readout. We observe a gate-dependent RF response which degrades and eventually vanishes as temperature is lowered, although MOSFET operation in DC transport is maintained down to deep cryogenic temperatures. We attribute this behaviour to impedance changes introduced by carrier freeze-out in the transistor drift region, and propose a modified circuit configuration designed to restore sensitivity under these conditions. These results establish how parasitic pathways and device geometry can limit RF readout, providing insight into the design of scalable cryogenic-CMOS quantum systems.",
+      "score": 14,
+      "priority": 1,
+      "highlights": [
+        "transistor"
+      ],
+      "abstract_cn": "射频（radio-frequency, RF）反射测量广泛用于低温下半导体量子器件的高带宽读出，但其应用主要局限于电容相对较小的纳米尺度结构。本文通过将基于栅极的反射测量应用于一种大面积碳化硅晶体管，研究了另一种工作区域下的 RF 读出；该晶体管的寄生电容比典型量子器件大数个数量级，而这种条件通常被认为会阻碍 RF 读出。我们观察到一种依赖于栅压的 RF 响应，该响应随着温度降低而退化，并最终消失，尽管 MOSFET 在直流输运中的工作可一直维持到深低温。我们将这种行为归因于晶体管漂移区载流子冻结所引入的阻抗变化，并提出了一种改进的电路配置，旨在这些条件下恢复灵敏度。这些结果阐明了寄生通路和器件几何结构如何限制 RF 读出，为可扩展低温 CMOS 量子系统的设计提供了认识。",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Radio-frequency reflectometry in silicon carbide large-area transistors."
+    },
     {
       "source": "Science Advances",
       "uid": "doi:10.1126/sciadv.aea1569",
@@ -37,20 +58,28 @@
       "reading_notes": "Focus: nanosheet.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: Proton-shuttling nanosheet membranes enable high-power-density protonic fuel cells."
     },
     {
-      "source": "Nature Electronics",
-      "uid": "Nature Electronics:10.1038/s41928-026-01632-1",
-      "title": "Flexible radio-frequency carbon nanotube transistors operating at frequencies above 100 GHz",
-      "url": "https://www.nature.com/articles/s41928-026-01632-1",
-      "published": "2026-05-12",
-      "authors": [],
-      "summary": "Nature Electronics, Published online: 12 May 2026; doi:10.1038/s41928-026-01632-1 An electrothermal co-design strategy can be used to make flexible transistors based on aligned carbon nanotube arrays with current-gain cut-off frequencies of 152 GHz and power-gain cut-off frequencies of 102 GHz.",
-      "score": 8,
+      "source": "arXiv",
+      "uid": "arxiv:2605.14329v1",
+      "title": "Depletion-mode N-polar AlN-based high electron mobility transistors with improved on/off ratios",
+      "url": "https://arxiv.org/abs/2605.14329v1",
+      "published": "2026-05-14",
+      "authors": [
+        "Xu Yang",
+        "Sheng Zhang",
+        "Ke Wei",
+        "Xinhua Wang",
+        "Xinyu Liu",
+        "Itsuki Furuhashi",
+        "Markus Pristovsek"
+      ],
+      "summary": "We report N-polar AlN-based high-electron mobility transistors (HEMTs) with a GaN channel thickness of 5.2 nm on N-polar AlN on sapphire. The threshold voltage is around -2.4 to -3.0 V with saturation currents over 240 mA/mm and on/off ratios as high as 10,000, much higher than previously reported N-polar AlN-based HEMTs. The high on/off ratio is attributed to the use of an abrupt AlN/GaN heterostructure with a dedicated AlN transition layer, together with improved gate leakage. The high frequency properties as well as the on-resistance of ~20 Ohm mm are all limited by the 2000 Ohm/square sheet resistance of the channel layer.",
+      "score": 7,
       "priority": 1,
       "highlights": [
         "transistor"
       ],
-      "abstract_cn": "《Nature Electronics》，在线发表：2026年5月12日；doi:10.1038/s41928-026-01632-1。一种电—热协同设计策略可用于制备基于取向碳纳米管阵列的柔性晶体管，其电流增益截止频率达到 152 GHz，功率增益截止频率达到 102 GHz。",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Flexible radio-frequency carbon nanotube transistors operating at frequencies above 100 GHz."
+      "abstract_cn": "我们报道了基于 N 极性 AlN 的耗尽型高电子迁移率晶体管（high-electron mobility transistors, HEMTs），其在蓝宝石衬底上的 N 极性 AlN 上具有 5.2 nm 厚的 GaN 沟道。阈值电压约为 -2.4 至 -3.0 V，饱和电流超过 240 mA/mm，开关比高达 10,000，显著高于此前报道的基于 N 极性 AlN 的 HEMT。高开关比归因于采用了带有专用 AlN 过渡层的突变 AlN/GaN 异质结构，并同时改善了栅极漏电。高频特性以及约 ~20 Ohm mm 的导通电阻均受到沟道层 2000 Ohm/square 方块电阻的限制。",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Depletion-mode N-polar AlN-based high electron mobility transistors with improved on/off ratios."
     },
     {
       "source": "Science Advances",
@@ -76,13 +105,123 @@
       ],
       "abstract_cn": "软压电聚合物有望推动柔性可穿戴传感器的发展，使其具备自供能精确监测能力。然而，其长期性能稳定性常受限于有限的结晶度和不足的偶极取向。为克服这一问题，我们通过库仑界面场锚定制备了一种聚合物—无机杂化材料。以巨介电常数钙钛矿（CaCu3Ti4O12）作为介电模板，可在静电纺丝过程中增强界面场，驱动含氟聚合物链转变为全反式构象，并稳定铁电翻转。这种静电耦合提高了 β 相含量和剩余极化，使压电响应相对于纯聚偏二氟乙烯提升了 700%。利用其稳定的机电响应和机械耐久性，该非织造织物被集成到头盔衬垫中，可实时映射冲击位置和严重程度；同时还被制成三维结构鞋垫，实现早期跌倒检测。本工作展示了一种由库仑相互作用驱动的分子间锚定方法，用于制备高性能有机—无机压电纳米复合材料，拓展了机电智能监测的能力。",
       "reading_notes": "Focus: 介电材料.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: Colossal dielectric perovskites enable Coulombic interfacial β-phase stabilization."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2605.13707v1",
+      "title": "Giant optical spin-orbit interactions in ferroelectric van der Waals waveguides",
+      "url": "https://arxiv.org/abs/2605.13707v1",
+      "published": "2026-05-13",
+      "authors": [
+        "Ding Xu",
+        "Saeed Rahmanian Koshkaki",
+        "Vicente Galicia",
+        "Chun-Ying Huang",
+        "Victoria Quirós-Cordero",
+        "Jakhangirkhodja A. Tulyagankhodjaev",
+        "André Koch Liston",
+        "Daniel G. Chica",
+        "Emma Lian",
+        "Amirhosein Amini",
+        "Yongseok Hong",
+        "Taketo Handa",
+        "P. James Schuck",
+        "Xiaoyang Zhu",
+        "Xavier Roy",
+        "Arkajit Mandal",
+        "Milan Delor"
+      ],
+      "summary": "Optical spin-orbit interactions (SOI) link photonic spin to momentum, offering a route toward on-chip polarization control and beam steering. Nevertheless, achieving sufficient optical SOI and nonlinearities on sub-micrometer scales - a prerequisite for dense photonic integration - remains an outstanding challenge. Here, we show that highly birefringent van der Waals (vdW) waveguides provide an ideal, chip-compatible platform to address this limitation. We focus on the ferroelectric semiconductor NbOI2, which exhibits record optical nonlinearities and dielectric anisotropy. Using femtosecond optical microscopy, we image light propagation and harmonic conversion beyond the total internal reflection barrier over tens of micrometers in NbOI2 slab waveguides. We report giant optical spin-splitting through the optical spin Hall effect, which facilitates spatial separation of optical spin currents on sub-micrometer scales, in quantitative agreement with a microscopic light-matter interaction model. We further leverage optical spin-momentum locking to realize polarization-controlled waveguide steering. We generalize these observations across various vdW waveguides and empirically confirm a scaling law linking dielectric anisotropy to geometric spin-splitting. Our results establish highly anisotropic vdW waveguides as an ideal platform for densely integrated opto-spintronic technologies.",
+      "score": 7,
+      "priority": 0,
+      "highlights": [
+        "ferroelectric"
+      ],
+      "abstract_cn": "光学自旋—轨道相互作用（optical spin-orbit interactions, SOI）将光子自旋与动量联系起来，为片上偏振控制和波束偏转提供了一条路径。然而，在亚微米尺度上实现足够强的光学 SOI 和非线性——这是高密度光子集成的前提——仍然是一项突出挑战。本文表明，高双折射范德华（van der Waals, vdW）波导提供了一个理想且芯片兼容的平台来应对这一限制。我们聚焦于铁电半导体 NbOI2，该材料表现出创纪录的光学非线性和介电各向异性。利用飞秒光学显微技术，我们在 NbOI2 平板波导中对跨越数十微米、突破全内反射限制的光传播和谐波转换进行了成像。我们报道了通过光学自旋霍尔效应产生的巨型光学自旋劈裂，该效应促进了亚微米尺度上光自旋流的空间分离，并与微观光—物质相互作用模型定量一致。我们进一步利用光学自旋—动量锁定实现了偏振控制的波导转向。我们将这些观测推广到多种 vdW 波导，并通过实验经验确认了一条将介电各向异性与几何自旋劈裂联系起来的标度律。我们的结果确立了高各向异性 vdW 波导作为高密度集成光自旋电子技术理想平台的地位。",
+      "reading_notes": "Focus: 铁电材料.\nWhat to check: 先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Giant optical spin-orbit interactions in ferroelectric van der Waals waveguides."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2605.12660v1",
+      "title": "Direct-write electrochemical nanofabrication of ultrasmall graphene devices",
+      "url": "https://arxiv.org/abs/2605.12660v1",
+      "published": "2026-05-13",
+      "authors": [
+        "Xiao Liu",
+        "Colm Durkan"
+      ],
+      "summary": "Graphene nano-ribbons, GNRs, are promising channel materials for next-generation ultra-miniaturised devices due to their exceptional electrical and thermal properties which arise from their atomic thickness, as well as their ability to have a size-dependent band-gap [1-9]. However, despite extensive efforts to reliably fabricate narrow GNR-based field-effect transistors [10-12], their integration into conventional transistor technologies remains hindered by challenges such as high fabrication costs and complex processing requirements [13, 14]. In this study, we present a direct-write, relatively low-cost and robust approach for fabricating sub-10 nm GNR-based FETs using electrochemical atomic force microscopy lithography with an alternating current (AC) bias, obviating the need for electrodes. We also explain the underlying electrochemical process and provide a model which can be used to describe it. Leveraging the high-precision positioning capability of AFM, this method enables precise nanoscale graphene patterning with feature sizes below 10nm. Compared with conventional lithographic techniques, photo- and electron-beam lithography i.e., PL & EBL, respectively [2, 15-20], it offers higher resolution, lower defect density, contamination-free processing, and the capability for in situ nanoscale device modification and characterisation. This work provides an efficient strategy for advancing GNR-based nanoelectronics.",
+      "score": 7,
+      "priority": 0,
+      "highlights": [],
+      "abstract_cn": "石墨烯纳米带（graphene nano-ribbons, GNRs）由于其原子级厚度所带来的优异电学和热学性质，以及其能够具有尺寸依赖带隙的能力，被认为是下一代超小型化器件中很有前景的沟道材料 [1-9]。然而，尽管人们为可靠制备窄 GNR 基场效应晶体管付出了大量努力 [10-12]，其与传统晶体管技术的集成仍受到高制造成本和复杂工艺要求等挑战的阻碍 [13, 14]。在本研究中，我们提出了一种直接写入、成本相对较低且稳健的方法，利用施加交流（AC）偏压的电化学原子力显微镜光刻来制备亚 10 nm GNR 基 FET，从而无需电极。我们还解释了其背后的电化学过程，并给出了可用于描述该过程的模型。借助 AFM 的高精度定位能力，该方法能够实现特征尺寸低于 10 nm 的精确纳米尺度石墨烯图形化。与传统光刻技术，即光刻和电子束光刻（分别为 PL 和 EBL）[2, 15-20] 相比，该方法具有更高分辨率、更低缺陷密度、无污染加工，以及原位纳米尺度器件修改和表征能力。本工作为推进 GNR 基纳米电子学提供了一种高效策略。",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 可靠性与稳定性、先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Direct-write electrochemical nanofabrication of ultrasmall graphene devices."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2605.12143v2",
+      "title": "Understanding oxide-thickness-dependent variability in dense Si-MOS quantum dot arrays",
+      "url": "https://arxiv.org/abs/2605.12143v2",
+      "published": "2026-05-12",
+      "authors": [
+        "Arne Loenders",
+        "Jacques Van Damme",
+        "Clement Godfrin",
+        "Paola Favia",
+        "Jacopo Franco",
+        "Thomas Van Caekenberghe",
+        "Bart Raes",
+        "Gulzat Jaliel",
+        "Sylvain Baudot",
+        "Luis Francisco Pinotti",
+        "Alexander Grill",
+        "George Simion",
+        "Kristof Moors",
+        "Vukan Levajac",
+        "Sofie Beyne",
+        "Sugandha Sharma",
+        "Stefan Kubicek",
+        "Yosuke Shimura",
+        "Roger Loo",
+        "Massimo Mongillo",
+        "Danny Wan",
+        "Kristiaan De Greve"
+      ],
+      "summary": "Achieving uniform and scalable control of semiconductor spin qubits remains a key challenge for large scale quantum computing. In this work, we investigate how gate oxide thickness influences uniformity in dense two dimensional silicon quantum dot arrays. Using a 7 x 7 array fabricated in a 300 mm CMOS-process patterned by EUV lithography, we statistically characterize 392 quantum dots across four different oxide thicknesses. The threshold voltages, capacitances, lever arms, and charging energies are extracted using parallel row based measurements and we identify an optimal SiO2 thickness of 17 nm that minimizes threshold voltage variability below 63 mV standard deviation. Our observations illustrate how multiple sources of disorder can introduce competing oxide-thickness dependencies, resulting in non-monotonic trends. These results provide key design guidelines for dense, scalable silicon spin qubit architectures.",
+      "score": 6,
+      "priority": 0,
+      "highlights": [],
+      "abstract_cn": "实现半导体自旋量子比特的均匀且可扩展控制，仍然是大规模量子计算面临的一项关键挑战。在本工作中，我们研究了栅氧化层厚度如何影响密集二维硅量子点阵列中的均匀性。我们使用在 300 mm CMOS 工艺中通过 EUV 光刻图形化制备的 7 x 7 阵列，对四种不同氧化层厚度下的 392 个量子点进行了统计表征。通过基于行的并行测量提取阈值电压、电容、杠杆臂和充电能，并确定了 17 nm 的最优 SiO2 厚度，可将阈值电压变异性最小化至标准差低于 63 mV。我们的观测说明，多种无序来源可能引入相互竞争的氧化层厚度依赖性，从而导致非单调趋势。这些结果为密集、可扩展的硅自旋量子比特架构提供了关键设计准则。",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Understanding oxide-thickness-dependent variability in dense Si-MOS quantum dot arrays."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2605.15387v1",
+      "title": "Reversible nanoscale patterning of WTe$_2$ with a scanning tunneling microscope",
+      "url": "https://arxiv.org/abs/2605.15387v1",
+      "published": "2026-05-15",
+      "authors": [
+        "Kevin Hauser",
+        "Danyang Liu",
+        "Berk Zengin",
+        "Jens Oppliger",
+        "Samuel Mañas-Valero",
+        "Catherine Witteveen",
+        "Fabian O. von Rohr",
+        "Jennifer E. Hoffman",
+        "Fabian D. Natterer"
+      ],
+      "summary": "Manipulating the lattice structure of ferroelectric quantum materials enables their use in low-power electronic devices, including field-effect transistors. WTe$_2$ is a Weyl-semimetal candidate and ferroelectric, both properties arising from the reduced crystal symmetry of its T$_\\mathrm{d}$ ground state. The T$_\\mathrm{d}$ crystal phase results from a Peierls distortion of the 1T parent structure and an interlayer shift. While experiments in WTe$_2$ have established ferroelectric switching and transient control of the predicted topological phase via ultrafast excitations, persistent electronic changes on the nanometer scale remain elusive. Here, we demonstrate that current pulses applied via scanning tunneling microscopy can both write and erase persistent nanometer-scale patterns on the surface of WTe$_2$. These patterns consist of apparent picometer in-plane and out-of-plane atomic displacements, accompanied by changes to the local density of states. The out-of-plane displacements further modulate the Peierls-like distortion present in WTe$_2$, while the in-plane displacements are indicative of ferroelectric switching. The induced patterns can be repositioned and erased, suggesting a nanoscale handle on the ferroelectric properties of WTe$_2$.",
+      "score": 5,
+      "priority": 0,
+      "highlights": [],
+      "abstract_cn": "操控铁电量子材料的晶格结构使其能够用于低功耗电子器件，包括场效应晶体管。WTe$_2$ 是一种 Weyl 半金属候选材料和铁电体，这两种性质都源于其 T$_\\mathrm{d}$ 基态的晶体对称性降低。T$_\\mathrm{d}$ 晶相来自 1T 母体结构的 Peierls 畸变以及层间位移。尽管 WTe$_2$ 中的实验已经确立了铁电翻转，并通过超快激发实现了对预测拓扑相的瞬态控制，但纳米尺度上的持久电子变化仍难以实现。本文证明，通过扫描隧道显微镜施加的电流脉冲可以在 WTe$_2$ 表面写入和擦除持久的纳米尺度图案。这些图案由表观的皮米级面内和面外原子位移组成，并伴随局域态密度的变化。面外位移进一步调制了 WTe$_2$ 中存在的类 Peierls 畸变，而面内位移则指示铁电翻转。所诱导的图案可以重新定位并被擦除，表明这为操控 WTe$_2$ 的铁电性质提供了一种纳米尺度手段。",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Reversible nanoscale patterning of WTe$_2$ with a scanning tunneling microscope."
     }
   ],
-  "errors": [
-    "arXiv"
-  ],
+  "errors": [],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-05-18T00:30:00+00:00"
+  "generated_at": "2026-05-19T00:30:00+00:00"
 }
