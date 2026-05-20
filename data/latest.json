@@ -1,9 +1,29 @@
 {
   "ok": true,
-  "new_count": 3,
+  "new_count": 8,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-05-19）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 3 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Radio-frequency reflectometry in silicon carbide large-area transistors\n   关键词：transistor\n   日期：2026-05-15\n   Authors: Alexander Zotov, Conor McGeough, Megan Powell 等\n   https://arxiv.org/abs/2605.15389v1\n2. [arXiv] Reversible nanoscale patterning of WTe$_2$ with a scanning tunneling microscope\n   日期：2026-05-15\n   Authors: Kevin Hauser, Danyang Liu, Berk Zengin 等\n   https://arxiv.org/abs/2605.15387v1\n3. [arXiv] Rapid Atmospheric Vapor Deposition of H:In2O3 Transparent Conducting Oxide Thin Films\n   关键词：deposition\n   日期：2026-05-16\n   Authors: Xiaoyu Guo, Hae-Jun Seok, Eilidh L. Quinn 等\n   https://arxiv.org/abs/2605.16166v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-05-20）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 1 篇\n1. ⭐ [arXiv] An Efficient Approach for Calculating Free Energy in Molecular Dynamics: Demineralization o…\n   关键词：Intel\n   日期：2026-05-16\n   Authors: Mahdi Tavakol, Jin-Chong Tan, Alexander M. Korsunsky\n   https://arxiv.org/abs/2605.16957v1\n2. [arXiv] Berry-phase in a periodically driven single molecule magnet transistor\n   关键词：transistor\n   日期：2026-05-16\n   Authors: Gabriel Gonzalez\n   https://arxiv.org/abs/2605.16635v1\n3. [Nature Electronics] Non-volatile memories based on patterned metal–semiconductor heterostructures of niobium di…\n   关键词：semiconductor\n   日期：2026-05-19\n   https://www.nature.com/articles/s41928-026-01634-z\n4. [arXiv] Defect Control via Cu Enrichment Enhances Multifunctional Properties in the Polar Semicondu…\n   关键词：semiconductor\n   日期：2026-05-19\n   Authors: Subrata Ghosh, Yu Liu, Saugata Sarker 等\n   https://arxiv.org/abs/2605.18584v1\n5. [arXiv] Probing Dielectric Screening in van der Waals Heterostructures via Pressure-Tuned Exciton R…\n   关键词：dielectric\n   日期：2026-05-18\n   Authors: Shalini Badola, Adlen Smiri, Thomas Pelini 等\n   https://arxiv.org/abs/2605.18506v1\n6. [arXiv] Simulation of S-parameters of general multilayer boxed PCBs with the method of moments and …\n   日期：2026-05-18\n   Authors: A. O. Makarenko, P. Zheglova, R. Gaponenko 等\n   https://arxiv.org/abs/2605.18492v1\n7. [arXiv] Strain-free, symmetrical, InGaAs quantum dots as single photon emitters in the telecomC-band\n   日期：2026-05-17\n   Authors: Rabbia Tahir, Paweł Wyborski, Artur Tuktamyshev 等\n   https://arxiv.org/abs/2605.17332v1\n8. [arXiv] Reprogrammable magnonic logic in a multiferroic heterostructure via magnetoelectric coupling\n   日期：2026-05-16\n   Authors: Ping Che, Amr Abdelsamie, Ádám Papp 等\n   https://arxiv.org/abs/2605.16946v1",
   "papers": [
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2605.16957v1",
+      "title": "An Efficient Approach for Calculating Free Energy in Molecular Dynamics: Demineralization of Hydroxyapatite as a Case Study",
+      "url": "https://arxiv.org/abs/2605.16957v1",
+      "published": "2026-05-16",
+      "authors": [
+        "Mahdi Tavakol",
+        "Jin-Chong Tan",
+        "Alexander M. Korsunsky"
+      ],
+      "summary": "Despite the strength of Molecular Dynamics simulations in providing insights into the microscopic details of phenomenon in many fields in materials science, physics and biology, the biggest barrier is its limited timescale which is several orders of magnitude lower than the timescale of the real-world processes and phenomena being modeled. Free energy calculations are designed as a remedy to this problem that in theory can overcome this barrier. This is particularly relevant for biomineralisation processes such as tooth mineral formation and dissolution, while reflecting a broader challenge in accurately modelling rare events and long-timescale phenomena across complex molecular systems. However, due to the novelty of the field, a number of questions remain outstanding pertaining to the best practice of applying this method. The non-equilibrium work approach based on the Jarzynski equation is one of the most promising free energy calculation methods. However, the biggest challenge for the broader use of this method is the question of how many simulations are required for an accurate free energy estimation. Comparing the free energy results with very long reversible pulling simulations of atom clusters from the surface, each taking 75 days on the 48-core Intel Xeon Platinum 8268 CPUs, in this study we showed that this question is irrelevant and higher quality and better equilibrated initial structures is the proper approach than simply based on the number of simulations. We designed a new adaptive free energy calculation methodology which combines high quality, high computational cost free energy values with lower quality, lower cost values to build up the entire free energy profile. In the best case scenario this method lowers manifold the computational cost required for the non-equilibrium work free energy calculations compared to both the regular method and the reversible simulation.",
+      "score": 8,
+      "priority": 2,
+      "highlights": [
+        "Intel"
+      ],
+      "abstract_cn": "尽管分子动力学模拟在材料科学、物理学和生物学等许多领域中能够为现象的微观细节提供洞见，但其最大障碍在于受限的时间尺度，这一时间尺度比所建模的真实世界过程和现象的时间尺度低数个数量级。自由能计算被设计为解决这一问题的补救方法，理论上可以克服这一障碍。这一点对于牙齿矿物形成和溶解等生物矿化过程尤为相关，同时也反映了在复杂分子体系中准确建模稀有事件和长时间尺度现象所面临的更广泛挑战。然而，由于该领域较为新颖，关于应用该方法的最佳实践仍有许多悬而未决的问题。基于 Jarzynski 方程的非平衡功方法是最有前景的自由能计算方法之一。然而，更广泛使用该方法所面临的最大挑战在于：为了准确估算自由能，需要进行多少次模拟。通过将自由能结果与从表面拉出原子簇的极长可逆拉伸模拟进行比较——每次模拟在 48 核 Intel Xeon Platinum 8268 CPU 上耗时 75 天——本研究表明，这个问题本身并不相关；相比于仅仅依据模拟次数，采用质量更高且平衡更充分的初始结构才是更合适的方法。我们设计了一种新的自适应自由能计算方法，该方法将高质量、高计算成本的自由能数值与较低质量、较低成本的数值相结合，以构建完整的自由能剖面。在最佳情况下，与常规方法和可逆模拟相比，该方法可成倍降低非平衡功自由能计算所需的计算成本。",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 功耗或能效表现.\nContext: An Efficient Approach for Calculating Free Energy in Molecular Dynamics: Demineralization of Hy…."
+    },
     {
       "source": "arXiv",
       "uid": "arxiv:2605.15389v1",
@@ -82,6 +102,40 @@
       "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Depletion-mode N-polar AlN-based high electron mobility transistors with improved on/off ratios."
     },
     {
+      "source": "arXiv",
+      "uid": "arxiv:2605.16635v1",
+      "title": "Berry-phase in a periodically driven single molecule magnet transistor",
+      "url": "https://arxiv.org/abs/2605.16635v1",
+      "published": "2026-05-16",
+      "authors": [
+        "Gabriel Gonzalez"
+      ],
+      "summary": "We consider the electron transport through a single molecule magnet transistor in the presence of a local transverse magnetic field and ac-driven gate voltage. We calculate the conductance as a function of the electron energy and transverse magnetic field by using the Floquet and Landauer formalism. We show that the time periodic potential causes zero transmission resonances that oscillate as a function of the transverse magnetic field due to the Berry phase interference associated with two quantum tunneling paths. We find that these Berry phase oscillations can be detected in the conductance as a function of the transverse magnetic field for an incoming electron with a specific energy.",
+      "score": 5,
+      "priority": 1,
+      "highlights": [
+        "transistor"
+      ],
+      "abstract_cn": "我们考虑了在局域横向磁场和交流驱动栅电压存在下，电子通过单分子磁体晶体管的输运。我们利用 Floquet 和 Landauer 形式体系，计算了电导随电子能量和横向磁场的变化。我们表明，时间周期性势会导致零透射共振；由于与两条量子隧穿路径相关的 Berry 相位干涉，这些共振会随横向磁场发生振荡。我们发现，对于具有特定能量的入射电子，可以在电导随横向磁场的变化中探测到这些 Berry 相位振荡。",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 功耗或能效表现.\nContext: Berry-phase in a periodically driven single molecule magnet transistor."
+    },
+    {
+      "source": "Nature Electronics",
+      "uid": "Nature Electronics:10.1038/s41928-026-01634-z",
+      "title": "Non-volatile memories based on patterned metal–semiconductor heterostructures of niobium disulfide and molybdenum disulfide",
+      "url": "https://www.nature.com/articles/s41928-026-01634-z",
+      "published": "2026-05-19",
+      "authors": [],
+      "summary": "Nature Electronics, Published online: 19 May 2026; doi:10.1038/s41928-026-01634-z Patterned and scalable two-dimensional metal–semiconductor heterostructures formed between niobium disulfide and molybdenum disulfide can be created using an in situ sulfurization process and used to make field-effect transistors and non-volatile memory devices.",
+      "score": 9,
+      "priority": 0,
+      "highlights": [
+        "semiconductor"
+      ],
+      "abstract_cn": "《Nature Electronics》，在线发表：2026年5月19日；doi:10.1038/s41928-026-01634-z。可图案化且可扩展的二维金属—半导体异质结构可通过原位硫化工艺在二硫化铌和二硫化钼之间形成，并可用于制备场效应晶体管和非易失性存储器件。",
+      "reading_notes": "Focus: 半导体.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Non-volatile memories based on patterned metal–semiconductor heterostructures of niobium disulf…."
+    },
+    {
       "source": "Science Advances",
       "uid": "doi:10.1126/sciadv.aed7505",
       "title": "Colossal dielectric perovskites enable Coulombic interfacial β-phase stabilization",
@@ -139,89 +193,11 @@
       ],
       "abstract_cn": "光学自旋—轨道相互作用（optical spin-orbit interactions, SOI）将光子自旋与动量联系起来，为片上偏振控制和波束偏转提供了一条路径。然而，在亚微米尺度上实现足够强的光学 SOI 和非线性——这是高密度光子集成的前提——仍然是一项突出挑战。本文表明，高双折射范德华（van der Waals, vdW）波导提供了一个理想且芯片兼容的平台来应对这一限制。我们聚焦于铁电半导体 NbOI2，该材料表现出创纪录的光学非线性和介电各向异性。利用飞秒光学显微技术，我们在 NbOI2 平板波导中对跨越数十微米、突破全内反射限制的光传播和谐波转换进行了成像。我们报道了通过光学自旋霍尔效应产生的巨型光学自旋劈裂，该效应促进了亚微米尺度上光自旋流的空间分离，并与微观光—物质相互作用模型定量一致。我们进一步利用光学自旋—动量锁定实现了偏振控制的波导转向。我们将这些观测推广到多种 vdW 波导，并通过实验经验确认了一条将介电各向异性与几何自旋劈裂联系起来的标度律。我们的结果确立了高各向异性 vdW 波导作为高密度集成光自旋电子技术理想平台的地位。",
       "reading_notes": "Focus: 铁电材料.\nWhat to check: 先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Giant optical spin-orbit interactions in ferroelectric van der Waals waveguides."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2605.12660v1",
-      "title": "Direct-write electrochemical nanofabrication of ultrasmall graphene devices",
-      "url": "https://arxiv.org/abs/2605.12660v1",
-      "published": "2026-05-13",
-      "authors": [
-        "Xiao Liu",
-        "Colm Durkan"
-      ],
-      "summary": "Graphene nano-ribbons, GNRs, are promising channel materials for next-generation ultra-miniaturised devices due to their exceptional electrical and thermal properties which arise from their atomic thickness, as well as their ability to have a size-dependent band-gap [1-9]. However, despite extensive efforts to reliably fabricate narrow GNR-based field-effect transistors [10-12], their integration into conventional transistor technologies remains hindered by challenges such as high fabrication costs and complex processing requirements [13, 14]. In this study, we present a direct-write, relatively low-cost and robust approach for fabricating sub-10 nm GNR-based FETs using electrochemical atomic force microscopy lithography with an alternating current (AC) bias, obviating the need for electrodes. We also explain the underlying electrochemical process and provide a model which can be used to describe it. Leveraging the high-precision positioning capability of AFM, this method enables precise nanoscale graphene patterning with feature sizes below 10nm. Compared with conventional lithographic techniques, photo- and electron-beam lithography i.e., PL & EBL, respectively [2, 15-20], it offers higher resolution, lower defect density, contamination-free processing, and the capability for in situ nanoscale device modification and characterisation. This work provides an efficient strategy for advancing GNR-based nanoelectronics.",
-      "score": 7,
-      "priority": 0,
-      "highlights": [],
-      "abstract_cn": "石墨烯纳米带（graphene nano-ribbons, GNRs）由于其原子级厚度所带来的优异电学和热学性质，以及其能够具有尺寸依赖带隙的能力，被认为是下一代超小型化器件中很有前景的沟道材料 [1-9]。然而，尽管人们为可靠制备窄 GNR 基场效应晶体管付出了大量努力 [10-12]，其与传统晶体管技术的集成仍受到高制造成本和复杂工艺要求等挑战的阻碍 [13, 14]。在本研究中，我们提出了一种直接写入、成本相对较低且稳健的方法，利用施加交流（AC）偏压的电化学原子力显微镜光刻来制备亚 10 nm GNR 基 FET，从而无需电极。我们还解释了其背后的电化学过程，并给出了可用于描述该过程的模型。借助 AFM 的高精度定位能力，该方法能够实现特征尺寸低于 10 nm 的精确纳米尺度石墨烯图形化。与传统光刻技术，即光刻和电子束光刻（分别为 PL 和 EBL）[2, 15-20] 相比，该方法具有更高分辨率、更低缺陷密度、无污染加工，以及原位纳米尺度器件修改和表征能力。本工作为推进 GNR 基纳米电子学提供了一种高效策略。",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 可靠性与稳定性、先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Direct-write electrochemical nanofabrication of ultrasmall graphene devices."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2605.12143v2",
-      "title": "Understanding oxide-thickness-dependent variability in dense Si-MOS quantum dot arrays",
-      "url": "https://arxiv.org/abs/2605.12143v2",
-      "published": "2026-05-12",
-      "authors": [
-        "Arne Loenders",
-        "Jacques Van Damme",
-        "Clement Godfrin",
-        "Paola Favia",
-        "Jacopo Franco",
-        "Thomas Van Caekenberghe",
-        "Bart Raes",
-        "Gulzat Jaliel",
-        "Sylvain Baudot",
-        "Luis Francisco Pinotti",
-        "Alexander Grill",
-        "George Simion",
-        "Kristof Moors",
-        "Vukan Levajac",
-        "Sofie Beyne",
-        "Sugandha Sharma",
-        "Stefan Kubicek",
-        "Yosuke Shimura",
-        "Roger Loo",
-        "Massimo Mongillo",
-        "Danny Wan",
-        "Kristiaan De Greve"
-      ],
-      "summary": "Achieving uniform and scalable control of semiconductor spin qubits remains a key challenge for large scale quantum computing. In this work, we investigate how gate oxide thickness influences uniformity in dense two dimensional silicon quantum dot arrays. Using a 7 x 7 array fabricated in a 300 mm CMOS-process patterned by EUV lithography, we statistically characterize 392 quantum dots across four different oxide thicknesses. The threshold voltages, capacitances, lever arms, and charging energies are extracted using parallel row based measurements and we identify an optimal SiO2 thickness of 17 nm that minimizes threshold voltage variability below 63 mV standard deviation. Our observations illustrate how multiple sources of disorder can introduce competing oxide-thickness dependencies, resulting in non-monotonic trends. These results provide key design guidelines for dense, scalable silicon spin qubit architectures.",
-      "score": 6,
-      "priority": 0,
-      "highlights": [],
-      "abstract_cn": "实现半导体自旋量子比特的均匀且可扩展控制，仍然是大规模量子计算面临的一项关键挑战。在本工作中，我们研究了栅氧化层厚度如何影响密集二维硅量子点阵列中的均匀性。我们使用在 300 mm CMOS 工艺中通过 EUV 光刻图形化制备的 7 x 7 阵列，对四种不同氧化层厚度下的 392 个量子点进行了统计表征。通过基于行的并行测量提取阈值电压、电容、杠杆臂和充电能，并确定了 17 nm 的最优 SiO2 厚度，可将阈值电压变异性最小化至标准差低于 63 mV。我们的观测说明，多种无序来源可能引入相互竞争的氧化层厚度依赖性，从而导致非单调趋势。这些结果为密集、可扩展的硅自旋量子比特架构提供了关键设计准则。",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Understanding oxide-thickness-dependent variability in dense Si-MOS quantum dot arrays."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2605.15387v1",
-      "title": "Reversible nanoscale patterning of WTe$_2$ with a scanning tunneling microscope",
-      "url": "https://arxiv.org/abs/2605.15387v1",
-      "published": "2026-05-15",
-      "authors": [
-        "Kevin Hauser",
-        "Danyang Liu",
-        "Berk Zengin",
-        "Jens Oppliger",
-        "Samuel Mañas-Valero",
-        "Catherine Witteveen",
-        "Fabian O. von Rohr",
-        "Jennifer E. Hoffman",
-        "Fabian D. Natterer"
-      ],
-      "summary": "Manipulating the lattice structure of ferroelectric quantum materials enables their use in low-power electronic devices, including field-effect transistors. WTe$_2$ is a Weyl-semimetal candidate and ferroelectric, both properties arising from the reduced crystal symmetry of its T$_\\mathrm{d}$ ground state. The T$_\\mathrm{d}$ crystal phase results from a Peierls distortion of the 1T parent structure and an interlayer shift. While experiments in WTe$_2$ have established ferroelectric switching and transient control of the predicted topological phase via ultrafast excitations, persistent electronic changes on the nanometer scale remain elusive. Here, we demonstrate that current pulses applied via scanning tunneling microscopy can both write and erase persistent nanometer-scale patterns on the surface of WTe$_2$. These patterns consist of apparent picometer in-plane and out-of-plane atomic displacements, accompanied by changes to the local density of states. The out-of-plane displacements further modulate the Peierls-like distortion present in WTe$_2$, while the in-plane displacements are indicative of ferroelectric switching. The induced patterns can be repositioned and erased, suggesting a nanoscale handle on the ferroelectric properties of WTe$_2$.",
-      "score": 5,
-      "priority": 0,
-      "highlights": [],
-      "abstract_cn": "操控铁电量子材料的晶格结构使其能够用于低功耗电子器件，包括场效应晶体管。WTe$_2$ 是一种 Weyl 半金属候选材料和铁电体，这两种性质都源于其 T$_\\mathrm{d}$ 基态的晶体对称性降低。T$_\\mathrm{d}$ 晶相来自 1T 母体结构的 Peierls 畸变以及层间位移。尽管 WTe$_2$ 中的实验已经确立了铁电翻转，并通过超快激发实现了对预测拓扑相的瞬态控制，但纳米尺度上的持久电子变化仍难以实现。本文证明，通过扫描隧道显微镜施加的电流脉冲可以在 WTe$_2$ 表面写入和擦除持久的纳米尺度图案。这些图案由表观的皮米级面内和面外原子位移组成，并伴随局域态密度的变化。面外位移进一步调制了 WTe$_2$ 中存在的类 Peierls 畸变，而面内位移则指示铁电翻转。所诱导的图案可以重新定位并被擦除，表明这为操控 WTe$_2$ 的铁电性质提供了一种纳米尺度手段。",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Reversible nanoscale patterning of WTe$_2$ with a scanning tunneling microscope."
     }
   ],
   "errors": [],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-05-19T00:30:00+00:00"
+  "generated_at": "2026-05-20T00:30:00+00:00"
 }
