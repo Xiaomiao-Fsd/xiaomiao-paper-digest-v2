@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 8,
+  "new_count": 6,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-05-20）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 1 篇\n1. ⭐ [arXiv] An Efficient Approach for Calculating Free Energy in Molecular Dynamics: Demineralization o…\n   关键词：Intel\n   日期：2026-05-16\n   Authors: Mahdi Tavakol, Jin-Chong Tan, Alexander M. Korsunsky\n   https://arxiv.org/abs/2605.16957v1\n2. [arXiv] Berry-phase in a periodically driven single molecule magnet transistor\n   关键词：transistor\n   日期：2026-05-16\n   Authors: Gabriel Gonzalez\n   https://arxiv.org/abs/2605.16635v1\n3. [Nature Electronics] Non-volatile memories based on patterned metal–semiconductor heterostructures of niobium di…\n   关键词：semiconductor\n   日期：2026-05-19\n   https://www.nature.com/articles/s41928-026-01634-z\n4. [arXiv] Defect Control via Cu Enrichment Enhances Multifunctional Properties in the Polar Semicondu…\n   关键词：semiconductor\n   日期：2026-05-19\n   Authors: Subrata Ghosh, Yu Liu, Saugata Sarker 等\n   https://arxiv.org/abs/2605.18584v1\n5. [arXiv] Probing Dielectric Screening in van der Waals Heterostructures via Pressure-Tuned Exciton R…\n   关键词：dielectric\n   日期：2026-05-18\n   Authors: Shalini Badola, Adlen Smiri, Thomas Pelini 等\n   https://arxiv.org/abs/2605.18506v1\n6. [arXiv] Simulation of S-parameters of general multilayer boxed PCBs with the method of moments and …\n   日期：2026-05-18\n   Authors: A. O. Makarenko, P. Zheglova, R. Gaponenko 等\n   https://arxiv.org/abs/2605.18492v1\n7. [arXiv] Strain-free, symmetrical, InGaAs quantum dots as single photon emitters in the telecomC-band\n   日期：2026-05-17\n   Authors: Rabbia Tahir, Paweł Wyborski, Artur Tuktamyshev 等\n   https://arxiv.org/abs/2605.17332v1\n8. [arXiv] Reprogrammable magnonic logic in a multiferroic heterostructure via magnetoelectric coupling\n   日期：2026-05-16\n   Authors: Ping Che, Amr Abdelsamie, Ádám Papp 等\n   https://arxiv.org/abs/2605.16946v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-05-21）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 6 篇；Intel/TSMC 重点 0 篇\n1. [Nature Electronics] High-performance p-type monolayer tungsten diselenide transistors\n   关键词：transistor\n   日期：2026-05-20\n   https://www.nature.com/articles/s41928-026-01637-w\n2. [Science Advances] Probing individual quantum emitters in bulk semiconductors via photonic nanojets\n   关键词：semiconductor\n   日期：2026-05-22\n   Authors: Behrooz Semnani, Sai Sreesh Venuturumilli, Mohammad Soltani 等\n   https://doi.org/10.1126/sciadv.aea5936\n3. [arXiv] Transconductance as a Probe of Valley Thermodynamics in Multilayer WSe$_2$\n   日期：2026-05-19\n   Authors: Katsunori Wakabayashi, Souren Adhikary, Tomoaki Kameda\n   https://arxiv.org/abs/2605.19212v1\n4. [Nature Electronics] A large-scale stretchable neuromorphic circuit for on-body edge computing\n   日期：2026-05-20\n   https://www.nature.com/articles/s41928-026-01639-8\n5. [arXiv] $G_0W_0$@HF and BSE methods in periodic systems from Hartree-Fock theory: gaussian orbital …\n   日期：2026-05-19\n   Authors: Charles H. Patterson\n   https://arxiv.org/abs/2605.19746v1\n6. [arXiv] Harnessing hidden quantum metric response in a 2D magnet via nonlocal photovoltaic effect\n   日期：2026-05-19\n   Authors: Yong Tan, Qian Hu, Rui-Chun Xiao 等\n   https://arxiv.org/abs/2605.19238v1",
   "papers": [
     {
       "source": "arXiv",
@@ -21,7 +21,7 @@
       "highlights": [
         "Intel"
       ],
-      "abstract_cn": "尽管分子动力学模拟在材料科学、物理学和生物学等许多领域中能够为现象的微观细节提供洞见，但其最大障碍在于受限的时间尺度，这一时间尺度比所建模的真实世界过程和现象的时间尺度低数个数量级。自由能计算被设计为解决这一问题的补救方法，理论上可以克服这一障碍。这一点对于牙齿矿物形成和溶解等生物矿化过程尤为相关，同时也反映了在复杂分子体系中准确建模稀有事件和长时间尺度现象所面临的更广泛挑战。然而，由于该领域较为新颖，关于应用该方法的最佳实践仍有许多悬而未决的问题。基于 Jarzynski 方程的非平衡功方法是最有前景的自由能计算方法之一。然而，更广泛使用该方法所面临的最大挑战在于：为了准确估算自由能，需要进行多少次模拟。通过将自由能结果与从表面拉出原子簇的极长可逆拉伸模拟进行比较——每次模拟在 48 核 Intel Xeon Platinum 8268 CPU 上耗时 75 天——本研究表明，这个问题本身并不相关；相比于仅仅依据模拟次数，采用质量更高且平衡更充分的初始结构才是更合适的方法。我们设计了一种新的自适应自由能计算方法，该方法将高质量、高计算成本的自由能数值与较低质量、较低成本的数值相结合，以构建完整的自由能剖面。在最佳情况下，与常规方法和可逆模拟相比，该方法可成倍降低非平衡功自由能计算所需的计算成本。",
+      "abstract_cn": "尽管分子动力学模拟在材料科学、物理学和生物学等许多领域中能够为现象的微观细节提供洞见，但其最大障碍在于受限的时间尺度，这一时间尺度比所建模的真实世界过程和现象的时间尺度低数个数量级。自由能计算被设计为解决这一问题的补救方法，理论上可以克服这一障碍。这一点对于牙齿矿物形成和溶解等生物矿化过程尤为相关，同时也反映了在复杂分子体系中准确建模稀有事件和长时间尺度现象所面临的更广泛挑战。然而，由于该领域较为新颖，关于应用该方法的最佳实践仍有许多悬而未决的问题。基于 Jarzynski 方程的非平衡功方法是最有前景的自由能计算方法之一。然而，更广泛使用该方法所面临的最大挑战在于：为了准确估算自由能，需要进行多少次模拟。通过将自由能结果与从表面拉出原子簇的极长可逆拉伸模拟进行比较——每次模拟在 48 核 Intel Xeon Platinum 8268 CPU 上耗时 75 天——本研究表明，这个问题本身并不关键；相比于仅仅依据模拟次数，采用质量更高且平衡更充分的初始结构才是更合适的方法。我们设计了一种新的自适应自由能计算方法，该方法将高质量、高计算成本的自由能数值与较低质量、较低成本的数值相结合，以构建完整的自由能剖面。在最佳情况下，与常规方法和可逆模拟相比，该方法可成倍降低非平衡功自由能计算所需的计算成本。",
       "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 功耗或能效表现.\nContext: An Efficient Approach for Calculating Free Energy in Molecular Dynamics: Demineralization of Hy…."
     },
     {
@@ -46,36 +46,20 @@
       "reading_notes": "Focus: 晶体管.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Radio-frequency reflectometry in silicon carbide large-area transistors."
     },
     {
-      "source": "Science Advances",
-      "uid": "doi:10.1126/sciadv.aea1569",
-      "title": "Proton-shuttling nanosheet membranes enable high-power-density protonic fuel cells",
-      "url": "https://doi.org/10.1126/sciadv.aea1569",
-      "published": "2026-05-15",
-      "authors": [
-        "Kaiqiang He",
-        "Yuxiang Wang",
-        "Dehua Dong",
-        "Fanmengjing Wang",
-        "Kevin Ung",
-        "Zhuyuan Wang",
-        "Zhikao Li",
-        "Xiwang Zhang",
-        "Shanwen Tao",
-        "Jacek J. Jasieniak",
-        "Paul A. Webley",
-        "Douglas R. MacFarlane",
-        "Jefferson Zhe Liu",
-        "Zongping Shao",
-        "Huanting Wang"
-      ],
-      "summary": "High-temperature operation enhances the efficiency and design simplicity of electrochemical devices, but conventional polymer membranes lose proton conductivity rapidly due to dehydration. Atomically thin nanosheets can selectively transport thermal protons through nanoscale corrugations and quantum tunneling, making them promising for high-temperature proton-conducting membranes. However, stacked nanosheet assemblies often suffer from poor proton transport between layers. We built nanosheet-based membranes by bridging individual nanosheets using nanoconfined phosphoric acid. This architecture enables low-tortuosity, synergistic proton transport via both through-nanosheet conduction and hydrogen bond–mediated hopping along confined acid layers, resulting in ultrafast, stable proton conduction under anhydrous high-temperature conditions. A polyethylenimine-functionalized graphene/boron nitride bilayer membrane achieves a proton conductivity of 166 millisiemens per centimeter and delivers a power density of 1011 milliwatts per square centimeter in hydrogen fuel cells at 250°C, outperforming most previously reported anhydrous proton-conducting membranes. Furthermore, it exhibits superior methanol tolerance, achieving 502 milliwatts per square centimeter on concentrated methanol. This work offers a versatile platform for next-generation high-temperature proton-conducting membranes.",
-      "score": 10,
+      "source": "Nature Electronics",
+      "uid": "Nature Electronics:10.1038/s41928-026-01637-w",
+      "title": "High-performance p-type monolayer tungsten diselenide transistors",
+      "url": "https://www.nature.com/articles/s41928-026-01637-w",
+      "published": "2026-05-20",
+      "authors": [],
+      "summary": "Nature Electronics, Published online: 20 May 2026; doi:10.1038/s41928-026-01637-w Using an industry-compatible and tunable oxygen-incorporated technique to heal defect states, p-type monolayer tungsten diselenide transistors can be created with a hole mobility of 137 cm2 V−1 s−1 and a contact resistance of approximately 560 Ω µm at room temperature.",
+      "score": 9,
       "priority": 1,
       "highlights": [
-        "nanosheet"
+        "transistor"
       ],
-      "abstract_cn": "高温运行能够提高电化学器件的效率并简化设计，但传统聚合物膜会因脱水而迅速失去质子电导率。原子级薄的纳米片可以通过纳米尺度褶皱和量子隧穿选择性传输热质子，因此有望用于高温质子传导膜。然而，堆叠纳米片组装体通常存在层间质子传输不佳的问题。我们通过使用纳米限域磷酸桥接单个纳米片，构建了基于纳米片的膜。这种结构通过贯穿纳米片的传导以及沿限域酸层的氢键介导跳跃，实现了低曲折度、协同质子传输，从而在无水高温条件下获得超快且稳定的质子传导。聚乙烯亚胺功能化石墨烯/氮化硼双层膜实现了 166 毫西门子每厘米的质子电导率，并在 250°C 的氢燃料电池中输出 1011 毫瓦每平方厘米的功率密度，优于此前报道的大多数无水质子传导膜。此外，它表现出优异的甲醇耐受性，在浓甲醇条件下实现了 502 毫瓦每平方厘米的功率密度。本工作为下一代高温质子传导膜提供了一个通用平台。",
-      "reading_notes": "Focus: nanosheet.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: Proton-shuttling nanosheet membranes enable high-power-density protonic fuel cells."
+      "abstract_cn": "《Nature Electronics》，在线发表：2026年5月20日；doi:10.1038/s41928-026-01637-w。利用一种工业兼容且可调的氧引入技术来修复缺陷态，可以制备 p 型单层二硒化钨晶体管，其在室温下具有 137 cm² V⁻¹ s⁻¹ 的空穴迁移率和约 560 Ω µm 的接触电阻。",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、接触/互连相关指标、与既有工艺平台的集成价值.\nContext: High-performance p-type monolayer tungsten diselenide transistors."
     },
     {
       "source": "arXiv",
@@ -98,7 +82,7 @@
       "highlights": [
         "transistor"
       ],
-      "abstract_cn": "我们报道了基于 N 极性 AlN 的耗尽型高电子迁移率晶体管（high-electron mobility transistors, HEMTs），其在蓝宝石衬底上的 N 极性 AlN 上具有 5.2 nm 厚的 GaN 沟道。阈值电压约为 -2.4 至 -3.0 V，饱和电流超过 240 mA/mm，开关比高达 10,000，显著高于此前报道的基于 N 极性 AlN 的 HEMT。高开关比归因于采用了带有专用 AlN 过渡层的突变 AlN/GaN 异质结构，并同时改善了栅极漏电。高频特性以及约 ~20 Ohm mm 的导通电阻均受到沟道层 2000 Ohm/square 方块电阻的限制。",
+      "abstract_cn": "我们报道了 N 极性 AlN 基高电子迁移率晶体管（high-electron mobility transistors, HEMTs），其在蓝宝石衬底上的 N 极性 AlN 上具有 5.2 nm 厚的 GaN 沟道。阈值电压约为 -2.4 至 -3.0 V，饱和电流超过 240 mA/mm，开关比高达 10,000，显著高于此前报道的 N 极性 AlN 基 HEMT。高开关比归因于采用了带有专用 AlN 过渡层的突变 AlN/GaN 异质结构，并同时改善了栅极漏电。高频特性以及约 ~20 Ω mm 的导通电阻均受到沟道层 2000 Ω/square 方块电阻的限制。",
       "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Depletion-mode N-polar AlN-based high electron mobility transistors with improved on/off ratios."
     },
     {
@@ -137,67 +121,53 @@
     },
     {
       "source": "Science Advances",
-      "uid": "doi:10.1126/sciadv.aed7505",
-      "title": "Colossal dielectric perovskites enable Coulombic interfacial β-phase stabilization",
-      "url": "https://doi.org/10.1126/sciadv.aed7505",
-      "published": "2026-05-15",
+      "uid": "doi:10.1126/sciadv.aea5936",
+      "title": "Probing individual quantum emitters in bulk semiconductors via photonic nanojets",
+      "url": "https://doi.org/10.1126/sciadv.aea5936",
+      "published": "2026-05-22",
       "authors": [
-        "Qi Wei Shi",
-        "Fei Jin",
-        "Ziqin Wang",
-        "Lisha Hua",
-        "Hugo Wiryaputra",
-        "Yaxuan Wang",
-        "Jun Liu",
-        "Steven Wang"
+        "Behrooz Semnani",
+        "Sai Sreesh Venuturumilli",
+        "Mohammad Soltani",
+        "Pratik Adhikary",
+        "Abdolreza Pasharavesh",
+        "Nikolay Videnov",
+        "Paul Anderson",
+        "Supratik Sarkar",
+        "Vinodh Raj Rajagopal Muthu",
+        "Michal Bajcsy"
       ],
-      "summary": "Soft piezoelectric polymers hold promise for the advancement of flexible wearable sensors offering self-powered precise monitoring capability. However, their long-term stability of performance is often constrained by modest crystallinity and insufficient dipole alignment. To conquer this, we fabricated a polymer-inorganic hybrid via Coulombic interfacial field anchoring. Using the colossal permittivity perovskite (CaCu 3 Ti 4 O 12 ) as a dielectric template intensifies interfacial field under electrospinning, driving fluoropolymer chain into all-trans conformation and stabilize ferroelectric switching. This electrostatic coupling elevates the β-phase content and remanent polarization, delivering an exceptional 700% gain in piezoelectric response relative to pure poly(vinylidene fluoride). Leveraging the stable electromechanical response and mechanical endurance, the nonwoven fabric were implemented into a helmet liner, which maps impact location and severity in real time, and a three-dimensional–structured insole enabling early-stage fall detection. This works demonstrates a Coulombic interaction–driven intermolecular anchoring approach to produce high-performance organic-inorganic piezoelectric nanocomposites, expanding the capabilities of electromechanical smart monitoring.",
+      "summary": "Solid-state quantum emitters serve as fundamental building blocks for quantum information processing, quantum telecommunication, and quantum-enhanced sensing, particularly at the nanoscale. However, the high refractive index of the emitters’ host materials often result in low-efficiency collection of the photons generated by the emitters. In addition, isolating individual quantum emitters generally requires high-purity samples and precise defect implantation, adding to the fabrication complexity. In this work, we use free-form topology optimization to design broadband monolithic photonic structures within high–refractive index materials hosting a relatively dense ensemble of randomly distributed quantum emitters. Fabricated via standard top-down patterning techniques, these inverse-designed nanostructures generate tightly confined photonic nanojets, which in turn enable selective excitation of individual emitters and improve photon extraction efficiency. The optimized geometries also substantially suppress background photoluminescence from near-surface optically active defects and from randomly distributed emitters in the bulk, boosting the signal-to-noise ratio. We demonstrate this paradigm using negatively charged nitrogen vacancy (NV − ) centers in a low-cost diamond sample at room temperature as a case study, achieving selective single emitter excitation with a 10-fold power enhancement and more than 15-fold improvement in the photon extraction efficiency of photoluminescence collection in confocal microscopy. Beyond NV centers and other diamond-embedded quantum emitters, the use of inverse-designed structures generating subwavelength photonic nanojets is applicable to other semiconductor materials containing emitters and can be seamlessly generalized to fiber-integrated platforms.",
       "score": 7,
       "priority": 0,
       "highlights": [
-        "dielectric"
+        "semiconductor"
       ],
-      "abstract_cn": "软压电聚合物有望推动柔性可穿戴传感器的发展，使其具备自供能精确监测能力。然而，其长期性能稳定性常受限于有限的结晶度和不足的偶极取向。为克服这一问题，我们通过库仑界面场锚定制备了一种聚合物—无机杂化材料。以巨介电常数钙钛矿（CaCu3Ti4O12）作为介电模板，可在静电纺丝过程中增强界面场，驱动含氟聚合物链转变为全反式构象，并稳定铁电翻转。这种静电耦合提高了 β 相含量和剩余极化，使压电响应相对于纯聚偏二氟乙烯提升了 700%。利用其稳定的机电响应和机械耐久性，该非织造织物被集成到头盔衬垫中，可实时映射冲击位置和严重程度；同时还被制成三维结构鞋垫，实现早期跌倒检测。本工作展示了一种由库仑相互作用驱动的分子间锚定方法，用于制备高性能有机—无机压电纳米复合材料，拓展了机电智能监测的能力。",
-      "reading_notes": "Focus: 介电材料.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: Colossal dielectric perovskites enable Coulombic interfacial β-phase stabilization."
+      "abstract_cn": "固态量子发射体是量子信息处理、量子通信和量子增强传感的基本构件，尤其是在纳米尺度上。然而，发射体宿主材料的高折射率通常会导致对发射体所产生光子的收集效率较低。此外，分离单个量子发射体通常需要高纯度样品和精确的缺陷注入，从而增加了制造复杂性。在本工作中，我们利用自由形态拓扑优化，在含有相对高密度随机分布量子发射体集合的高折射率材料中设计宽带单片光子结构。这些反向设计的纳米结构通过标准自上而下图形化技术制备，可产生强限域的光子纳米喷流，从而实现对单个发射体的选择性激发，并提高光子提取效率。优化后的几何结构还显著抑制来自近表面光学活性缺陷以及体内随机分布发射体的背景光致发光，从而提升信噪比。我们以低成本金刚石样品中的负电荷氮—空位（NV−）中心为案例，在室温下展示了这一范式，实现了选择性单发射体激发，并获得 10 倍功率增强；同时，在共焦显微镜的光致发光收集中，光子提取效率提高超过 15 倍。除 NV 中心和其他嵌入金刚石的量子发射体之外，利用反向设计结构产生亚波长光子纳米喷流的方法也适用于其他含有发射体的半导体材料，并且可以无缝推广到光纤集成平台。",
+      "reading_notes": "Focus: 半导体.\nWhat to check: 性能提升、效率/耦合表现.\nContext: Probing individual quantum emitters in bulk semiconductors via photonic nanojets."
     },
     {
       "source": "arXiv",
-      "uid": "arxiv:2605.13707v1",
-      "title": "Giant optical spin-orbit interactions in ferroelectric van der Waals waveguides",
-      "url": "https://arxiv.org/abs/2605.13707v1",
-      "published": "2026-05-13",
+      "uid": "arxiv:2605.19212v1",
+      "title": "Transconductance as a Probe of Valley Thermodynamics in Multilayer WSe$_2$",
+      "url": "https://arxiv.org/abs/2605.19212v1",
+      "published": "2026-05-19",
       "authors": [
-        "Ding Xu",
-        "Saeed Rahmanian Koshkaki",
-        "Vicente Galicia",
-        "Chun-Ying Huang",
-        "Victoria Quirós-Cordero",
-        "Jakhangirkhodja A. Tulyagankhodjaev",
-        "André Koch Liston",
-        "Daniel G. Chica",
-        "Emma Lian",
-        "Amirhosein Amini",
-        "Yongseok Hong",
-        "Taketo Handa",
-        "P. James Schuck",
-        "Xiaoyang Zhu",
-        "Xavier Roy",
-        "Arkajit Mandal",
-        "Milan Delor"
+        "Katsunori Wakabayashi",
+        "Souren Adhikary",
+        "Tomoaki Kameda"
       ],
-      "summary": "Optical spin-orbit interactions (SOI) link photonic spin to momentum, offering a route toward on-chip polarization control and beam steering. Nevertheless, achieving sufficient optical SOI and nonlinearities on sub-micrometer scales - a prerequisite for dense photonic integration - remains an outstanding challenge. Here, we show that highly birefringent van der Waals (vdW) waveguides provide an ideal, chip-compatible platform to address this limitation. We focus on the ferroelectric semiconductor NbOI2, which exhibits record optical nonlinearities and dielectric anisotropy. Using femtosecond optical microscopy, we image light propagation and harmonic conversion beyond the total internal reflection barrier over tens of micrometers in NbOI2 slab waveguides. We report giant optical spin-splitting through the optical spin Hall effect, which facilitates spatial separation of optical spin currents on sub-micrometer scales, in quantitative agreement with a microscopic light-matter interaction model. We further leverage optical spin-momentum locking to realize polarization-controlled waveguide steering. We generalize these observations across various vdW waveguides and empirically confirm a scaling law linking dielectric anisotropy to geometric spin-splitting. Our results establish highly anisotropic vdW waveguides as an ideal platform for densely integrated opto-spintronic technologies.",
+      "summary": "Transconductance is a central figure of merit in field-effect transistors, typically governed by charge accumulation and carrier mobility. In multilayer WSe$_2$ transistors, however, it is shown to carry a nonlinear transport signature of inter-valley carrier redistribution between the $K$ and $Γ$ valleys. This valley-crossover contribution suppresses transconductance in bilayer WSe$_2$ and reverses sign in trilayer, while remaining absent in single-valley systems. Unlike extrinsic mechanisms such as trap-state filling or contact resistance, the anomaly leaves the subthreshold swing unchanged and cannot be reproduced within conventional single-valley transport models. Introducing the valley susceptibility $χ_v \\equiv \\partial f_Γ/\\partial V_{\\rm GS}$, bounded by an intrinsic thermodynamic limit $(4k_BT)^{-1}$, we quantify this response and show that it reaches ${\\sim}0.20\\,\\mathrm{V}^{-1}$ in bilayer WSe$_2$ near threshold at room temperature. The sign, magnitude, and temperature dependence of the anomaly provide directly measurable fingerprints of valley thermodynamics, establishing transconductance as an electrical probe of internal electronic degrees of freedom and revealing a previously hidden nonlinear response in standard transistor measurements.",
       "score": 7,
       "priority": 0,
-      "highlights": [
-        "ferroelectric"
-      ],
-      "abstract_cn": "光学自旋—轨道相互作用（optical spin-orbit interactions, SOI）将光子自旋与动量联系起来，为片上偏振控制和波束偏转提供了一条路径。然而，在亚微米尺度上实现足够强的光学 SOI 和非线性——这是高密度光子集成的前提——仍然是一项突出挑战。本文表明，高双折射范德华（van der Waals, vdW）波导提供了一个理想且芯片兼容的平台来应对这一限制。我们聚焦于铁电半导体 NbOI2，该材料表现出创纪录的光学非线性和介电各向异性。利用飞秒光学显微技术，我们在 NbOI2 平板波导中对跨越数十微米、突破全内反射限制的光传播和谐波转换进行了成像。我们报道了通过光学自旋霍尔效应产生的巨型光学自旋劈裂，该效应促进了亚微米尺度上光自旋流的空间分离，并与微观光—物质相互作用模型定量一致。我们进一步利用光学自旋—动量锁定实现了偏振控制的波导转向。我们将这些观测推广到多种 vdW 波导，并通过实验经验确认了一条将介电各向异性与几何自旋劈裂联系起来的标度律。我们的结果确立了高各向异性 vdW 波导作为高密度集成光自旋电子技术理想平台的地位。",
-      "reading_notes": "Focus: 铁电材料.\nWhat to check: 先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Giant optical spin-orbit interactions in ferroelectric van der Waals waveguides."
+      "highlights": [],
+      "abstract_cn": "跨导是场效应晶体管中的核心品质因数，通常由电荷积累和载流子迁移率决定。然而，在多层 WSe$_2$ 晶体管中，跨导被证明携带了 $K$ 谷和 $Γ$ 谷之间谷间载流子重新分布的非线性输运特征。这种谷转换贡献会抑制双层 WSe$_2$ 中的跨导，并在三层中反转符号，而在单谷体系中不存在。不同于陷阱态填充或接触电阻等外源机制，这一异常不会改变亚阈值摆幅，并且无法在传统单谷输运模型中再现。通过引入谷易感性 χ_v ≡ ∂f_Γ/∂V_GS，并考虑其受内禀热力学极限 (4k_BT)^−1 约束，我们量化了这一响应，并表明其在室温下双层 WSe$_2$ 的阈值附近达到约 0.20 V⁻¹。该异常的符号、幅值和温度依赖性提供了可直接测量的谷热力学指纹，确立了跨导作为内部电子自由度电学探针的作用，并揭示了标准晶体管测量中此前隐藏的非线性响应。",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 接触/互连相关指标.\nContext: Transconductance as a Probe of Valley Thermodynamics in Multilayer WSe$_2$."
     }
   ],
   "errors": [],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-05-20T00:30:00+00:00"
+  "generated_at": "2026-05-21T00:30:00+00:00"
 }
