@@ -1,9 +1,33 @@
 {
   "ok": true,
-  "new_count": 6,
+  "new_count": 2,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-05-21）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 6 篇；Intel/TSMC 重点 0 篇\n1. [Nature Electronics] High-performance p-type monolayer tungsten diselenide transistors\n   关键词：transistor\n   日期：2026-05-20\n   https://www.nature.com/articles/s41928-026-01637-w\n2. [Science Advances] Probing individual quantum emitters in bulk semiconductors via photonic nanojets\n   关键词：semiconductor\n   日期：2026-05-22\n   Authors: Behrooz Semnani, Sai Sreesh Venuturumilli, Mohammad Soltani 等\n   https://doi.org/10.1126/sciadv.aea5936\n3. [arXiv] Transconductance as a Probe of Valley Thermodynamics in Multilayer WSe$_2$\n   日期：2026-05-19\n   Authors: Katsunori Wakabayashi, Souren Adhikary, Tomoaki Kameda\n   https://arxiv.org/abs/2605.19212v1\n4. [Nature Electronics] A large-scale stretchable neuromorphic circuit for on-body edge computing\n   日期：2026-05-20\n   https://www.nature.com/articles/s41928-026-01639-8\n5. [arXiv] $G_0W_0$@HF and BSE methods in periodic systems from Hartree-Fock theory: gaussian orbital …\n   日期：2026-05-19\n   Authors: Charles H. Patterson\n   https://arxiv.org/abs/2605.19746v1\n6. [arXiv] Harnessing hidden quantum metric response in a 2D magnet via nonlocal photovoltaic effect\n   日期：2026-05-19\n   Authors: Yong Tan, Qian Hu, Rui-Chun Xiao 等\n   https://arxiv.org/abs/2605.19238v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-05-22）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 2 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] High Performance TiO2 Ferroelectric Field Effect Transistors with HfZrO2 for Neuromorphic C…\n   关键词：transistor, ferroelectric\n   日期：2026-05-20\n   Authors: Chandan Samanta, Elia Palmese, Ziyu Ouyang 等\n   https://arxiv.org/abs/2605.20406v1\n2. [arXiv] Towards transistor-based quantum computing\n   关键词：transistor\n   日期：2026-05-20\n   Authors: Y. -D. Liu, X. Xu, Q. -R. Wang 等\n   https://arxiv.org/abs/2605.21045v1",
   "papers": [
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2605.20406v1",
+      "title": "High Performance TiO2 Ferroelectric Field Effect Transistors with HfZrO2 for Neuromorphic Computing",
+      "url": "https://arxiv.org/abs/2605.20406v1",
+      "published": "2026-05-20",
+      "authors": [
+        "Chandan Samanta",
+        "Elia Palmese",
+        "Ziyu Ouyang",
+        "Tuofu Zhama",
+        "Robinson Pino",
+        "Yuping Zeng"
+      ],
+      "summary": "TiO2 ferroelectric field effect transistors (FeFETs) with HfZrO2 (HZO) ferroelectric dielectric layers and bottom gate topology are fabricated for applications in neuromorphic systems. Two sets of devices are fabricated with different gate topologies by varying the thickness of the ferroelectric gate stack. Different device architectures are studied by varying the source drain length (LSD) and gate length (LG). The devices have high on/off ratios up to 10^7 with low leakage off currents <10^-12 A. Repeated cycle testing shows high reliability and a stable memory window. The devices have large memory windows ranging from 3 to 8 V.",
+      "score": 10,
+      "priority": 2,
+      "highlights": [
+        "transistor",
+        "ferroelectric"
+      ],
+      "abstract_cn": "面向神经形态系统应用，制备了采用 HfZrO2（HZO）铁电介质层和底栅拓扑结构的 TiO2 铁电场效应晶体管（ferroelectric field effect transistors, FeFETs）。通过改变铁电栅堆叠的厚度，制备了两组具有不同栅拓扑结构的器件。通过改变源漏长度（LSD）和栅长（LG），研究了不同的器件架构。器件具有高达 10^7 的高开关比，并且关态漏电流低于 <10^-12 A。重复循环测试显示出高可靠性和稳定的存储窗口。器件具有较大的存储窗口，范围为 3 至 8 V。",
+      "reading_notes": "Focus: 晶体管、铁电材料.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: High Performance TiO2 Ferroelectric Field Effect Transistors with HfZrO2 for Neuromorphic Compu…."
+    },
     {
       "source": "arXiv",
       "uid": "arxiv:2605.16957v1",
@@ -25,27 +49,6 @@
       "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 功耗或能效表现.\nContext: An Efficient Approach for Calculating Free Energy in Molecular Dynamics: Demineralization of Hy…."
     },
     {
-      "source": "arXiv",
-      "uid": "arxiv:2605.15389v1",
-      "title": "Radio-frequency reflectometry in silicon carbide large-area transistors",
-      "url": "https://arxiv.org/abs/2605.15389v1",
-      "published": "2026-05-15",
-      "authors": [
-        "Alexander Zotov",
-        "Conor McGeough",
-        "Megan Powell",
-        "Alessandro Rossi"
-      ],
-      "summary": "Radio-frequency (RF) reflectometry is widely used for high-bandwidth readout of semiconductor quantum devices at cryogenic temperatures, but its application has mainly been limited to nanoscale structures with relatively small capacitances. Here, we investigate RF readout in a different regime by applying gate-based reflectometry to a large-area silicon carbide transistor with parasitic capacitances orders of magnitude larger than those of typical quantum devices, conditions normally expected to hinder RF readout. We observe a gate-dependent RF response which degrades and eventually vanishes as temperature is lowered, although MOSFET operation in DC transport is maintained down to deep cryogenic temperatures. We attribute this behaviour to impedance changes introduced by carrier freeze-out in the transistor drift region, and propose a modified circuit configuration designed to restore sensitivity under these conditions. These results establish how parasitic pathways and device geometry can limit RF readout, providing insight into the design of scalable cryogenic-CMOS quantum systems.",
-      "score": 14,
-      "priority": 1,
-      "highlights": [
-        "transistor"
-      ],
-      "abstract_cn": "射频（radio-frequency, RF）反射测量广泛用于低温下半导体量子器件的高带宽读出，但其应用主要局限于电容相对较小的纳米尺度结构。本文通过将基于栅极的反射测量应用于一种大面积碳化硅晶体管，研究了另一种工作区域下的 RF 读出；该晶体管的寄生电容比典型量子器件大数个数量级，而这种条件通常被认为会阻碍 RF 读出。我们观察到一种依赖于栅压的 RF 响应，该响应随着温度降低而退化，并最终消失，尽管 MOSFET 在直流输运中的工作可一直维持到深低温。我们将这种行为归因于晶体管漂移区载流子冻结所引入的阻抗变化，并提出了一种改进的电路配置，旨在这些条件下恢复灵敏度。这些结果阐明了寄生通路和器件几何结构如何限制 RF 读出，为可扩展低温 CMOS 量子系统的设计提供了认识。",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Radio-frequency reflectometry in silicon carbide large-area transistors."
-    },
-    {
       "source": "Nature Electronics",
       "uid": "Nature Electronics:10.1038/s41928-026-01637-w",
       "title": "High-performance p-type monolayer tungsten diselenide transistors",
@@ -58,32 +61,29 @@
       "highlights": [
         "transistor"
       ],
-      "abstract_cn": "《Nature Electronics》，在线发表：2026年5月20日；doi:10.1038/s41928-026-01637-w。利用一种工业兼容且可调的氧引入技术来修复缺陷态，可以制备 p 型单层二硒化钨晶体管，其在室温下具有 137 cm² V⁻¹ s⁻¹ 的空穴迁移率和约 560 Ω µm 的接触电阻。",
+      "abstract_cn": "《Nature Electronics》，在线发表：2026年5月20日；doi:10.1038/s41928-026-01637-w。利用一种工业兼容且可调的氧引入技术来修复缺陷态，可以制备 p 型单层二硒化钨晶体管，其在室温下具有 137 cm2 V−1 s−1 的空穴迁移率和约 560 Ω µm 的接触电阻。",
       "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、接触/互连相关指标、与既有工艺平台的集成价值.\nContext: High-performance p-type monolayer tungsten diselenide transistors."
     },
     {
       "source": "arXiv",
-      "uid": "arxiv:2605.14329v1",
-      "title": "Depletion-mode N-polar AlN-based high electron mobility transistors with improved on/off ratios",
-      "url": "https://arxiv.org/abs/2605.14329v1",
-      "published": "2026-05-14",
+      "uid": "arxiv:2605.21045v1",
+      "title": "Towards transistor-based quantum computing",
+      "url": "https://arxiv.org/abs/2605.21045v1",
+      "published": "2026-05-20",
       "authors": [
-        "Xu Yang",
-        "Sheng Zhang",
-        "Ke Wei",
-        "Xinhua Wang",
-        "Xinyu Liu",
-        "Itsuki Furuhashi",
-        "Markus Pristovsek"
+        "Y. -D. Liu",
+        "X. Xu",
+        "Q. -R. Wang",
+        "D. -S. Wang"
       ],
-      "summary": "We report N-polar AlN-based high-electron mobility transistors (HEMTs) with a GaN channel thickness of 5.2 nm on N-polar AlN on sapphire. The threshold voltage is around -2.4 to -3.0 V with saturation currents over 240 mA/mm and on/off ratios as high as 10,000, much higher than previously reported N-polar AlN-based HEMTs. The high on/off ratio is attributed to the use of an abrupt AlN/GaN heterostructure with a dedicated AlN transition layer, together with improved gate leakage. The high frequency properties as well as the on-resistance of ~20 Ohm mm are all limited by the 2000 Ohm/square sheet resistance of the channel layer.",
-      "score": 7,
+      "summary": "In this work, we propose and study in depth a universal quantum computing architecture based on a quantum construction of transistors. Our teleportation-based quantum transistors, called ``telesistors'', are ground states of systems with symmetry-protected topological order, hence suppress certain noises and provide high-fidelity Clifford gates without the need for active error correction. This physical protection, quantified by the string order parameters, serves as a low-overhead foundation upon which conventional fault-tolerant encoding (e.g., with stabilizer codes) can be built to achieve universal quantum computation. This architecture shows rich connections with current known architectures, and some desirable merits especially compared with the qubit-based circuits regarding modularity, integration, and program storage. Our study shows that it is plausible to realize it with current technology in the near future.",
+      "score": 8,
       "priority": 1,
       "highlights": [
         "transistor"
       ],
-      "abstract_cn": "我们报道了 N 极性 AlN 基高电子迁移率晶体管（high-electron mobility transistors, HEMTs），其在蓝宝石衬底上的 N 极性 AlN 上具有 5.2 nm 厚的 GaN 沟道。阈值电压约为 -2.4 至 -3.0 V，饱和电流超过 240 mA/mm，开关比高达 10,000，显著高于此前报道的 N 极性 AlN 基 HEMT。高开关比归因于采用了带有专用 AlN 过渡层的突变 AlN/GaN 异质结构，并同时改善了栅极漏电。高频特性以及约 ~20 Ω mm 的导通电阻均受到沟道层 2000 Ω/square 方块电阻的限制。",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Depletion-mode N-polar AlN-based high electron mobility transistors with improved on/off ratios."
+      "abstract_cn": "在本工作中，我们提出并深入研究了一种基于晶体管量子构造的通用量子计算架构。我们基于量子隐形传态的量子晶体管称为“telesistors”，它们是具有对称性保护拓扑序的系统基态，因此能够抑制某些噪声，并在不需要主动纠错的情况下提供高保真 Clifford 门。这种由弦序参量量化的物理保护，构成了一个低开销基础，可在其上构建传统容错编码（例如使用稳定子码）以实现通用量子计算。该架构与当前已知架构具有丰富联系，并且相较于基于量子比特的电路，在模块化、集成和程序存储方面具有一些理想优点。我们的研究表明，在不久的将来利用现有技术实现该架构是可行的。",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Towards transistor-based quantum computing."
     },
     {
       "source": "arXiv",
@@ -161,7 +161,7 @@
       "score": 7,
       "priority": 0,
       "highlights": [],
-      "abstract_cn": "跨导是场效应晶体管中的核心品质因数，通常由电荷积累和载流子迁移率决定。然而，在多层 WSe$_2$ 晶体管中，跨导被证明携带了 $K$ 谷和 $Γ$ 谷之间谷间载流子重新分布的非线性输运特征。这种谷转换贡献会抑制双层 WSe$_2$ 中的跨导，并在三层中反转符号，而在单谷体系中不存在。不同于陷阱态填充或接触电阻等外源机制，这一异常不会改变亚阈值摆幅，并且无法在传统单谷输运模型中再现。通过引入谷易感性 χ_v ≡ ∂f_Γ/∂V_GS，并考虑其受内禀热力学极限 (4k_BT)^−1 约束，我们量化了这一响应，并表明其在室温下双层 WSe$_2$ 的阈值附近达到约 0.20 V⁻¹。该异常的符号、幅值和温度依赖性提供了可直接测量的谷热力学指纹，确立了跨导作为内部电子自由度电学探针的作用，并揭示了标准晶体管测量中此前隐藏的非线性响应。",
+      "abstract_cn": "跨导是场效应晶体管中的核心品质因数，通常由电荷积累和载流子迁移率决定。然而，在多层 WSe$_2$ 晶体管中，跨导被证明携带了 $K$ 谷和 $Γ$ 谷之间谷间载流子重新分布的非线性输运特征。这种谷转换贡献会抑制双层 WSe$_2$ 中的跨导，并在三层中反转符号，而在单谷体系中不存在。不同于陷阱态填充或接触电阻等外源机制，这一异常不会改变亚阈值摆幅，并且无法在传统单谷输运模型中再现。通过引入谷易感性 χ_v ≡ ∂f_Γ/∂V_GS，并考虑其受内禀热力学极限 (4k_BT)^−1 约束，我们量化了这一响应，并表明其在室温下双层 WSe$_2$ 的阈值附近达到约 0.20 V−1。该异常的符号、幅值和温度依赖性提供了可直接测量的谷热力学指纹，确立了跨导作为内部电子自由度电学探针的作用，并揭示了标准晶体管测量中此前隐藏的非线性响应。",
       "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 接触/互连相关指标.\nContext: Transconductance as a Probe of Valley Thermodynamics in Multilayer WSe$_2$."
     }
   ],
@@ -169,5 +169,5 @@
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-05-21T00:30:00+00:00"
+  "generated_at": "2026-05-22T00:30:00+00:00"
 }
