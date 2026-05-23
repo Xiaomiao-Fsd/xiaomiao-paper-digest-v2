@@ -2,7 +2,7 @@
   "ok": true,
   "new_count": 2,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-05-22）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 2 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] High Performance TiO2 Ferroelectric Field Effect Transistors with HfZrO2 for Neuromorphic C…\n   关键词：transistor, ferroelectric\n   日期：2026-05-20\n   Authors: Chandan Samanta, Elia Palmese, Ziyu Ouyang 等\n   https://arxiv.org/abs/2605.20406v1\n2. [arXiv] Towards transistor-based quantum computing\n   关键词：transistor\n   日期：2026-05-20\n   Authors: Y. -D. Liu, X. Xu, Q. -R. Wang 等\n   https://arxiv.org/abs/2605.21045v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-05-23）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 2 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Transport Enhancement and In Situ Control of Electronic Correlation via Photoinduced Modula…\n   日期：2026-05-21\n   Authors: Collin R. Sanborn, Son T. Le, Thuc T. Mai 等\n   https://arxiv.org/abs/2605.22452v1\n2. [arXiv] Backward Mapping from Device Targets to Chemical Genomes for Interpretable Discovery of Pha…\n   日期：2026-05-21\n   Authors: Nafis Ahtasum, Sohanur Rahman Sohan, Md. Mostaq Ahmed Himel 等\n   https://arxiv.org/abs/2605.21650v1",
   "papers": [
     {
       "source": "arXiv",
@@ -25,7 +25,7 @@
         "transistor",
         "ferroelectric"
       ],
-      "abstract_cn": "面向神经形态系统应用，制备了采用 HfZrO2（HZO）铁电介质层和底栅拓扑结构的 TiO2 铁电场效应晶体管（ferroelectric field effect transistors, FeFETs）。通过改变铁电栅堆叠的厚度，制备了两组具有不同栅拓扑结构的器件。通过改变源漏长度（LSD）和栅长（LG），研究了不同的器件架构。器件具有高达 10^7 的高开关比，并且关态漏电流低于 <10^-12 A。重复循环测试显示出高可靠性和稳定的存储窗口。器件具有较大的存储窗口，范围为 3 至 8 V。",
+      "abstract_cn": "面向神经形态系统应用，制备了采用 HfZrO2（HZO）铁电介电层和底栅拓扑结构的 TiO2 铁电场效应晶体管（ferroelectric field effect transistors, FeFETs）。通过改变铁电栅堆叠的厚度，制备了两组具有不同栅拓扑结构的器件。通过改变源漏长度（LSD）和栅长（LG），研究了不同的器件架构。器件具有高达 10^7 的高开关比，并且关态漏电流低于 10^-12 A。重复循环测试显示出高可靠性和稳定的存储窗口。器件具有较大的存储窗口，范围为 3 至 8 V。",
       "reading_notes": "Focus: 晶体管、铁电材料.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: High Performance TiO2 Ferroelectric Field Effect Transistors with HfZrO2 for Neuromorphic Compu…."
     },
     {
@@ -82,26 +82,8 @@
       "highlights": [
         "transistor"
       ],
-      "abstract_cn": "在本工作中，我们提出并深入研究了一种基于晶体管量子构造的通用量子计算架构。我们基于量子隐形传态的量子晶体管称为“telesistors”，它们是具有对称性保护拓扑序的系统基态，因此能够抑制某些噪声，并在不需要主动纠错的情况下提供高保真 Clifford 门。这种由弦序参量量化的物理保护，构成了一个低开销基础，可在其上构建传统容错编码（例如使用稳定子码）以实现通用量子计算。该架构与当前已知架构具有丰富联系，并且相较于基于量子比特的电路，在模块化、集成和程序存储方面具有一些理想优点。我们的研究表明，在不久的将来利用现有技术实现该架构是可行的。",
+      "abstract_cn": "在本工作中，我们提出并深入研究了一种基于晶体管量子构造的通用量子计算架构。我们基于量子隐形传态的量子晶体管称为“telesistors”，它们是具有对称性保护拓扑序的系统基态，因此能够抑制某些噪声，并在不需要主动纠错的情况下提供高保真 Clifford 门。这种由弦序参量量化的物理保护构成了一个低开销基础，可在其上构建传统容错编码（例如使用稳定子码）以实现通用量子计算。该架构与当前已知架构具有丰富联系，并且相较于基于量子比特的电路，在模块化、集成和程序存储方面具有一些理想优点。我们的研究表明，在不久的将来利用现有技术实现该架构是可行的。",
       "reading_notes": "Focus: 晶体管.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Towards transistor-based quantum computing."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2605.16635v1",
-      "title": "Berry-phase in a periodically driven single molecule magnet transistor",
-      "url": "https://arxiv.org/abs/2605.16635v1",
-      "published": "2026-05-16",
-      "authors": [
-        "Gabriel Gonzalez"
-      ],
-      "summary": "We consider the electron transport through a single molecule magnet transistor in the presence of a local transverse magnetic field and ac-driven gate voltage. We calculate the conductance as a function of the electron energy and transverse magnetic field by using the Floquet and Landauer formalism. We show that the time periodic potential causes zero transmission resonances that oscillate as a function of the transverse magnetic field due to the Berry phase interference associated with two quantum tunneling paths. We find that these Berry phase oscillations can be detected in the conductance as a function of the transverse magnetic field for an incoming electron with a specific energy.",
-      "score": 5,
-      "priority": 1,
-      "highlights": [
-        "transistor"
-      ],
-      "abstract_cn": "我们考虑了在局域横向磁场和交流驱动栅电压存在下，电子通过单分子磁体晶体管的输运。我们利用 Floquet 和 Landauer 形式体系，计算了电导随电子能量和横向磁场的变化。我们表明，时间周期性势会导致零透射共振；由于与两条量子隧穿路径相关的 Berry 相位干涉，这些共振会随横向磁场发生振荡。我们发现，对于具有特定能量的入射电子，可以在电导随横向磁场的变化中探测到这些 Berry 相位振荡。",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 功耗或能效表现.\nContext: Berry-phase in a periodically driven single molecule magnet transistor."
     },
     {
       "source": "Nature Electronics",
@@ -161,13 +143,27 @@
       "score": 7,
       "priority": 0,
       "highlights": [],
-      "abstract_cn": "跨导是场效应晶体管中的核心品质因数，通常由电荷积累和载流子迁移率决定。然而，在多层 WSe$_2$ 晶体管中，跨导被证明携带了 $K$ 谷和 $Γ$ 谷之间谷间载流子重新分布的非线性输运特征。这种谷转换贡献会抑制双层 WSe$_2$ 中的跨导，并在三层中反转符号，而在单谷体系中不存在。不同于陷阱态填充或接触电阻等外源机制，这一异常不会改变亚阈值摆幅，并且无法在传统单谷输运模型中再现。通过引入谷易感性 χ_v ≡ ∂f_Γ/∂V_GS，并考虑其受内禀热力学极限 (4k_BT)^−1 约束，我们量化了这一响应，并表明其在室温下双层 WSe$_2$ 的阈值附近达到约 0.20 V−1。该异常的符号、幅值和温度依赖性提供了可直接测量的谷热力学指纹，确立了跨导作为内部电子自由度电学探针的作用，并揭示了标准晶体管测量中此前隐藏的非线性响应。",
+      "abstract_cn": "跨导是场效应晶体管中的核心品质因数，通常由电荷积累和载流子迁移率决定。然而，在多层 WSe2 晶体管中，跨导被证明携带了 K 谷和 Γ 谷之间谷间载流子重新分布的非线性输运特征。这种谷转换贡献会抑制双层 WSe2 中的跨导，并在三层中反转符号，而在单谷体系中不存在。不同于陷阱态填充或接触电阻等外源机制，这一异常不会改变亚阈值摆幅，并且无法在传统单谷输运模型中再现。通过引入谷易感性 χ_v ≡ ∂f_Γ/∂V_GS，并考虑其受内禀热力学极限 (4kBT)^−1 约束，我们量化了这一响应，并表明其在室温下双层 WSe2 的阈值附近达到约 0.20 V−1。该异常的符号、幅值和温度依赖性提供了可直接测量的谷热力学指纹，确立了跨导作为内部电子自由度电学探针的作用，并揭示了标准晶体管测量中此前隐藏的非线性响应。",
       "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 接触/互连相关指标.\nContext: Transconductance as a Probe of Valley Thermodynamics in Multilayer WSe$_2$."
+    },
+    {
+      "source": "Nature Electronics",
+      "uid": "Nature Electronics:10.1038/s41928-026-01639-8",
+      "title": "A large-scale stretchable neuromorphic circuit for on-body edge computing",
+      "url": "https://www.nature.com/articles/s41928-026-01639-8",
+      "published": "2026-05-20",
+      "authors": [],
+      "summary": "Nature Electronics, Published online: 20 May 2026; doi:10.1038/s41928-026-01639-8 A photolithographic fabrication process can be used to create soft and stretchy organic electrochemical transistor arrays that have a density up to 10,000 devices per square centimetre, and can perform edge computing tasks in wearable devices and soft robots.",
+      "score": 6,
+      "priority": 0,
+      "highlights": [],
+      "abstract_cn": "《Nature Electronics》，在线发表：2026年5月20日；doi:10.1038/s41928-026-01639-8。一种光刻制造工艺可用于制备柔软且可拉伸的有机电化学晶体管阵列，其密度最高可达每平方厘米 10,000 个器件，并可在可穿戴设备和软体机器人中执行边缘计算任务。",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: A large-scale stretchable neuromorphic circuit for on-body edge computing."
     }
   ],
   "errors": [],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-05-22T00:30:00+00:00"
+  "generated_at": "2026-05-23T00:30:00+00:00"
 }
