@@ -1,9 +1,41 @@
 {
   "ok": true,
-  "new_count": 0,
+  "new_count": 3,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-05-25）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] High Performance TiO2 Ferroelectric Field Effect Transistors with HfZrO2 for Neuromorphic C…\n   关键词：transistor, ferroelectric\n   日期：2026-05-20\n   Authors: Chandan Samanta, Elia Palmese, Ziyu Ouyang 等\n   https://arxiv.org/abs/2605.20406v1\n2. [Nature Electronics] High-performance p-type monolayer tungsten diselenide transistors\n   关键词：transistor\n   日期：2026-05-20\n   https://www.nature.com/articles/s41928-026-01637-w\n3. [arXiv] Towards transistor-based quantum computing\n   关键词：transistor\n   日期：2026-05-20\n   Authors: Y. -D. Liu, X. Xu, Q. -R. Wang 等\n   https://arxiv.org/abs/2605.21045v1\n4. [Nature Electronics] Non-volatile memories based on patterned metal–semiconductor heterostructures of niobium di…\n   关键词：semiconductor\n   日期：2026-05-19\n   https://www.nature.com/articles/s41928-026-01634-z\n5. [Science Advances] Probing individual quantum emitters in bulk semiconductors via photonic nanojets\n   关键词：semiconductor\n   日期：2026-05-22\n   Authors: Behrooz Semnani, Sai Sreesh Venuturumilli, Mohammad Soltani 等\n   https://doi.org/10.1126/sciadv.aea5936\n6. [arXiv] Transconductance as a Probe of Valley Thermodynamics in Multilayer WSe$_2$\n   日期：2026-05-19\n   Authors: Katsunori Wakabayashi, Souren Adhikary, Tomoaki Kameda\n   https://arxiv.org/abs/2605.19212v1\n7. [Nature Electronics] A large-scale stretchable neuromorphic circuit for on-body edge computing\n   日期：2026-05-20\n   https://www.nature.com/articles/s41928-026-01639-8\n8. [arXiv] Defect Control via Cu Enrichment Enhances Multifunctional Properties in the Polar Semicondu…\n   关键词：semiconductor\n   日期：2026-05-19\n   Authors: Subrata Ghosh, Yu Liu, Saugata Sarker 等\n   https://arxiv.org/abs/2605.18584v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-05-26）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 3 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Localized Excitonic Emission in Wafer-Scale MOCVD-Grown GaSe 2D Nanosheets for Classical an…\n   关键词：nanosheets, wafer\n   日期：2026-05-22\n   Authors: Bhabani Sankar Sahoo, Nils Fritjof Langlotz, Shachi Machchhar 等\n   https://arxiv.org/abs/2605.23418v1\n2. [arXiv] Thickness-Dependent Spintronic Terahertz Emission in MBE-Grown PtTe$_2$: From Semiconductor…\n   关键词：semiconductor\n   日期：2026-05-22\n   Authors: Rahul Sharma, Sylvain Massabeau, Armando Pezo 等\n   https://arxiv.org/abs/2605.22932v1\n3. [arXiv] Genome-Guided Interpretable Screening of Phase-Stable, Lead-Free Double Perovskite Absorber…\n   关键词：semiconductor\n   日期：2026-05-21\n   Authors: Nafis Ahtasu, Sohanur Rahman Sohan, Md. Mostaq Ahmed Himel 等\n   https://arxiv.org/abs/2605.22887v1",
   "papers": [
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2605.23418v1",
+      "title": "Localized Excitonic Emission in Wafer-Scale MOCVD-Grown GaSe 2D Nanosheets for Classical and Non-Classical Light Sources",
+      "url": "https://arxiv.org/abs/2605.23418v1",
+      "published": "2026-05-22",
+      "authors": [
+        "Bhabani Sankar Sahoo",
+        "Nils Fritjof Langlotz",
+        "Shachi Machchhar",
+        "Kartik Gaur",
+        "Robin Günkel",
+        "Max Bergmann",
+        "Naghmeh Ghadghooni",
+        "Aris Koulas-Simos",
+        "Jürgen Belz",
+        "Chirag Chandrakant Palekar",
+        "Maximilian Ries",
+        "Kerstin Volz",
+        "Stephan Reitzenstein",
+        "Imad Limame"
+      ],
+      "summary": "Wafer-scale growth of two-dimensional semiconductors remains a key challenge for their integration into photonic technologies. While most studies of two-dimensional semiconductors have focused on transition metal dichalcogenides and their scalable fabrication, comparatively little attention has been given to III-VI monochalcogenides. Here, we report wafer-scale growth of gallium selenide (GaSe) by metal-organic chemical vapor deposition (MOCVD) and investigate its structural and optical properties for visible-range classical and quantum light emission. Two samples with thicknesses ranging from a few monolayers to several micrometers, controlled via the growth time, were investigated. The 30-minute grown sample yields intense, broad photoluminescence spanning 1.7--2.0$\\,$eV, whereas the thinner 3-minute sample exhibits discrete narrow emission lines and single-photon emission with $(g^{(2)}(0) = 0.15 \\pm 0.10)$. Remarkably, cathodoluminescence mapping reveals pronounced spatial localization of both spectrally narrow and broad emission centers. Together with temperature-dependent power-law analysis and Raman mapping, our results indicate defect-induced emission rather than intrinsic excitonic recombination. These findings establish wafer-scale MOCVD grown 2D GaSe as a platform for classical and non-classical light sources and highlight defect-engineered localization as a route toward scalable quantum photonics.",
+      "score": 11,
+      "priority": 2,
+      "highlights": [
+        "nanosheets",
+        "wafer"
+      ],
+      "abstract_cn": "二维半导体的晶圆级生长仍然是其集成到光子技术中的关键挑战。尽管大多数二维半导体研究集中于过渡金属二硫族化合物及其可扩展制备，但 III-VI 族单硫族化物受到的关注相对较少。本文报道了通过金属有机化学气相沉积（metal-organic chemical vapor deposition, MOCVD）实现硒化镓（GaSe）的晶圆级生长，并研究了其面向可见光范围经典和量子发光的结构与光学性质。我们研究了两种样品，其厚度通过生长时间控制，范围从少数单层到数微米。生长 30 分钟的样品产生覆盖 1.7--2.0$\\,$eV 的强而宽的光致发光，而较薄的 3 分钟样品则表现出离散的窄发射线以及单光子发射，$(g^{(2)}(0) = 0.15 \\pm 0.10)$。值得注意的是，阴极发光映射揭示了光谱窄发射中心和宽发射中心都具有显著的空间局域化。结合温度依赖的幂律分析和 Raman 映射，我们的结果表明该发射源于缺陷诱导发射，而非本征激子复合。这些发现确立了晶圆级 MOCVD 生长的二维 GaSe 作为经典和非经典光源平台的地位，并突出了缺陷工程化局域作为通向可扩展量子光子学的一条路径。",
+      "reading_notes": "Focus: nanosheets、wafer.\nWhat to check: 效率/耦合表现、先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Localized Excitonic Emission in Wafer-Scale MOCVD-Grown GaSe 2D Nanosheets for Classical and No…."
+    },
     {
       "source": "arXiv",
       "uid": "arxiv:2605.20406v1",
@@ -66,22 +98,6 @@
       "reading_notes": "Focus: 晶体管.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Towards transistor-based quantum computing."
     },
     {
-      "source": "Nature Electronics",
-      "uid": "Nature Electronics:10.1038/s41928-026-01634-z",
-      "title": "Non-volatile memories based on patterned metal–semiconductor heterostructures of niobium disulfide and molybdenum disulfide",
-      "url": "https://www.nature.com/articles/s41928-026-01634-z",
-      "published": "2026-05-19",
-      "authors": [],
-      "summary": "Nature Electronics, Published online: 19 May 2026; doi:10.1038/s41928-026-01634-z Patterned and scalable two-dimensional metal–semiconductor heterostructures formed between niobium disulfide and molybdenum disulfide can be created using an in situ sulfurization process and used to make field-effect transistors and non-volatile memory devices.",
-      "score": 9,
-      "priority": 0,
-      "highlights": [
-        "semiconductor"
-      ],
-      "abstract_cn": "《Nature Electronics》，在线发表：2026年5月19日；doi:10.1038/s41928-026-01634-z。可图案化且可扩展的二维金属—半导体异质结构可通过原位硫化工艺在二硫化铌和二硫化钼之间形成，并可用于制备场效应晶体管和非易失性存储器件。",
-      "reading_notes": "Focus: 半导体.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Non-volatile memories based on patterned metal–semiconductor heterostructures of niobium disulf…."
-    },
-    {
       "source": "Science Advances",
       "uid": "doi:10.1126/sciadv.aea5936",
       "title": "Probing individual quantum emitters in bulk semiconductors via photonic nanojets",
@@ -109,24 +125,6 @@
       "reading_notes": "Focus: 半导体.\nWhat to check: 性能提升、效率/耦合表现.\nContext: Probing individual quantum emitters in bulk semiconductors via photonic nanojets."
     },
     {
-      "source": "arXiv",
-      "uid": "arxiv:2605.19212v1",
-      "title": "Transconductance as a Probe of Valley Thermodynamics in Multilayer WSe$_2$",
-      "url": "https://arxiv.org/abs/2605.19212v1",
-      "published": "2026-05-19",
-      "authors": [
-        "Katsunori Wakabayashi",
-        "Souren Adhikary",
-        "Tomoaki Kameda"
-      ],
-      "summary": "Transconductance is a central figure of merit in field-effect transistors, typically governed by charge accumulation and carrier mobility. In multilayer WSe$_2$ transistors, however, it is shown to carry a nonlinear transport signature of inter-valley carrier redistribution between the $K$ and $Γ$ valleys. This valley-crossover contribution suppresses transconductance in bilayer WSe$_2$ and reverses sign in trilayer, while remaining absent in single-valley systems. Unlike extrinsic mechanisms such as trap-state filling or contact resistance, the anomaly leaves the subthreshold swing unchanged and cannot be reproduced within conventional single-valley transport models. Introducing the valley susceptibility $χ_v \\equiv \\partial f_Γ/\\partial V_{\\rm GS}$, bounded by an intrinsic thermodynamic limit $(4k_BT)^{-1}$, we quantify this response and show that it reaches ${\\sim}0.20\\,\\mathrm{V}^{-1}$ in bilayer WSe$_2$ near threshold at room temperature. The sign, magnitude, and temperature dependence of the anomaly provide directly measurable fingerprints of valley thermodynamics, establishing transconductance as an electrical probe of internal electronic degrees of freedom and revealing a previously hidden nonlinear response in standard transistor measurements.",
-      "score": 7,
-      "priority": 0,
-      "highlights": [],
-      "abstract_cn": "跨导是场效应晶体管中的核心品质因数，通常由电荷积累和载流子迁移率决定。然而，在多层 WSe$_2$ 晶体管中，跨导被证明携带了 $K$ 谷和 $Γ$ 谷之间谷间载流子重新分布的非线性输运特征。这种谷转换贡献会抑制双层 WSe$_2$ 中的跨导，并在三层中反转符号，而在单谷体系中不存在。不同于陷阱态填充或接触电阻等外源机制，这一异常不会改变亚阈值摆幅，并且无法在传统单谷输运模型中再现。通过引入谷易感性 $χ_v \\equiv \\partial f_Γ/\\partial V_{\\rm GS}$，并考虑其受内禀热力学极限 $(4k_BT)^{-1}$ 约束，我们量化了这一响应，并表明其在室温下双层 WSe$_2$ 的阈值附近达到 ${\\sim}0.20\\,\\mathrm{V}^{-1}$。该异常的符号、幅值和温度依赖性提供了可直接测量的谷热力学指纹，确立了跨导作为内部电子自由度电学探针的作用，并揭示了标准晶体管测量中此前隐藏的非线性响应。",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 接触/互连相关指标.\nContext: Transconductance as a Probe of Valley Thermodynamics in Multilayer WSe$_2$."
-    },
-    {
       "source": "Nature Electronics",
       "uid": "Nature Electronics:10.1038/s41928-026-01639-8",
       "title": "A large-scale stretchable neuromorphic circuit for on-body edge computing",
@@ -142,43 +140,67 @@
     },
     {
       "source": "arXiv",
-      "uid": "arxiv:2605.18584v1",
-      "title": "Defect Control via Cu Enrichment Enhances Multifunctional Properties in the Polar Semiconductor Cu1+xMn1-ySiTe3",
-      "url": "https://arxiv.org/abs/2605.18584v1",
-      "published": "2026-05-19",
+      "uid": "arxiv:2605.22932v1",
+      "title": "Thickness-Dependent Spintronic Terahertz Emission in MBE-Grown PtTe$_2$: From Semiconductor to Type-II Dirac Semimetal",
+      "url": "https://arxiv.org/abs/2605.22932v1",
+      "published": "2026-05-22",
       "authors": [
-        "Subrata Ghosh",
-        "Yu Liu",
-        "Saugata Sarker",
-        "Boyang Zheng",
-        "Sreekant Anil",
-        "Soumi Mondal",
-        "Yuxi Zhang",
-        "Sai Venkata Gayathri Ayyagari",
-        "Mingyu Xu",
-        "Yingdong Guan",
-        "Tsung-Han Yang",
-        "Xiaoping Wang",
-        "Vincent H. Crespi",
-        "Nasim Alem",
-        "Weiwei Xie",
-        "Venkatraman Gopalan",
-        "Qiang Zhang",
-        "Zhiqiang Mao"
+        "Rahul Sharma",
+        "Sylvain Massabeau",
+        "Armando Pezo",
+        "Ekta Yadav",
+        "Viliam Vretenár",
+        "Ravi K. Biroju",
+        "Fatima Ibrahim",
+        "Sukhdeep Dhillon",
+        "Alain Marty",
+        "Isabelle Gomes de Moraes",
+        "Adrien Michon",
+        "Jing Li",
+        "Mairbek Chshiev",
+        "Henri Jaffrès",
+        "Jean-Marie George",
+        "Matthieu Jamet"
       ],
-      "summary": "Polar materials have recently attracted significant interest due to their rich multifunctional properties. The chalcogenide polar semiconductor Cu1-xMn1+ySiTe3 (Cu-deficient) is an emerging multiferroic system in which electric polarization is coupled to magnetization. However, its macroscopic ferroelectric polarization is strongly suppressed due to the presence of a high density of stacking faults. In this work, we demonstrate that these crystal defects, likely originating from non-stoichiometry, can be substantially reduced by increasing the Cu content. Cu-enriched samples, Cu1+xMn1-ySiTe3, crystallize in a noncentrosymmetric monoclinic structure (space group Pm) as the Cu-deficient counterpart but show a nearly stacking-fault-free phase, which is attributed to the emergence of an interstitial site. Consequently, the Cu-enriched samples show a pronounced enhancement of the second-harmonic generation (SHG) response compared to Cu-deficient compositions. Magnetically, the Cu-enriched crystals retain long-range antiferromagnetic order with a Neel temperature of TN ~ 33 K without a glassy state but manifest a distinct spin-flop transition along the polar b-axis that is absent in the Cu-deficient compositions. Furthermore, the electronic ground state evolves from insulating to doped semiconducting behavior upon Cu enrichment. Together, these results establish this material system as a unique and versatile platform for elucidating the interplay among composition, crystal defects, and multifunctional properties, offering a route to design magnetic polar systems with tunable quantum functionalities.",
+      "summary": "Spintronic terahertz (THz) emitters have established themselves as among the most practical broadband THz sources available, yet their performance remains fundamentally limited by the spin Hall conductivity of the nonmagnetic conversion layer - a quantity that is fixed once the material is chosen. Here, we demonstrate that in PtTe$_2$, a type-II Dirac semimetal within the transition metal dichalcogenide family, this limitation can be circumvented by exploiting the dramatic thickness-driven electronic phase evolution of the material itself. Using molecular beam epitaxy to grow PtTe$_2$ films with single-monolayer precision from 1 to 20 ML, we show that the spintronic THz emission tracks the underlying electronic phase diagram directly: it is absent in the single-layer semiconducting phase, turns on sharply at the semimetal transition near 2 ML, and reaches a peak amplitude six times that of an equivalent Pt reference at 10 ML, before declining at larger thicknesses due to THz reabsorption in the increasingly metallic film. This non-monotonic behavior is inconsistent with a bulk inverse spin Hall mechanism and instead reflects a multi-channel spin-to-charge conversion process in which spin-momentum-locked topological surface states and a thickness-dependent interfacial Rashba splitting both contribute and strengthen as the type-II Dirac band structure develops. First-principles calculations of the interfacial spin accumulation reproduce the experimental trend quantitatively, confirming this physical picture. These findings introduce thickness engineering of van der Waals semimetals as a new and accessible route to optimizing spintronic THz emitters and spin-orbit torques in magnetic memories (SOT-MRAMs), with direct implications for the broader class of dimensionally tunable topological materials.",
       "score": 5,
       "priority": 0,
       "highlights": [
         "semiconductor"
       ],
-      "abstract_cn": "极性材料因其丰富的多功能性质，近期引起了广泛关注。硫族化物极性半导体 Cu1-xMn1+ySiTe3（缺 Cu）是一种新兴多铁体系，其中电极化与磁化相耦合。然而，由于存在高密度堆垛层错，其宏观铁电极化受到强烈抑制。在本工作中，我们证明，这些可能源于非化学计量的晶体缺陷可以通过提高 Cu 含量而大幅减少。富 Cu 样品 Cu1+xMn1-ySiTe3 与缺 Cu 对应物一样结晶为非中心对称单斜结构（空间群 Pm），但表现出几乎无堆垛层错的相，这归因于间隙位点的出现。因此，与缺 Cu 组分相比，富 Cu 样品显示出显著增强的二次谐波产生（second-harmonic generation, SHG）响应。在磁性方面，富 Cu 晶体保留了长程反铁磁有序，Néel 温度 TN ~ 33 K，且不存在玻璃态；但沿极性 b 轴表现出一种明显的自旋翻转转变，而这种转变在缺 Cu 组分中不存在。此外，随着 Cu 富集，电子基态从绝缘行为演化为掺杂半导体行为。总之，这些结果确立了该材料体系作为一个独特且多用途的平台，可用于阐明组分、晶体缺陷和多功能性质之间的相互作用，并为设计具有可调量子功能的磁性极性体系提供了一条路径。",
-      "reading_notes": "Focus: 半导体.\nWhat to check: 性能提升.\nContext: Defect Control via Cu Enrichment Enhances Multifunctional Properties in the Polar Semiconductor…."
+      "abstract_cn": "自旋电子太赫兹（THz）发射器已成为现有最实用的宽带 THz 源之一，但其性能仍从根本上受限于非磁性转换层的自旋霍尔电导率，而该量在材料一经选定后即被固定。本文证明，在过渡金属二硫族化合物家族中的 II 型 Dirac 半金属 PtTe$_2$ 中，可以通过利用材料本身由厚度驱动的剧烈电子相演化来规避这一限制。我们采用分子束外延以单层精度生长 1 至 20 ML 的 PtTe$_2$ 薄膜，并表明自旋电子 THz 发射直接跟随其底层电子相图：在单层半导体相中不存在，在约 2 ML 附近的半金属转变处急剧开启，并在 10 ML 时达到峰值振幅，其幅度为等效 Pt 参考样品的六倍；随后在更大厚度下，由于越来越金属性的薄膜中发生 THz 再吸收而下降。这种非单调行为与体相逆自旋霍尔机制不一致，而是反映了一种多通道自旋—电荷转换过程，其中自旋—动量锁定的拓扑表面态和厚度依赖的界面 Rashba 劈裂均作出贡献，并随着 II 型 Dirac 能带结构的发展而增强。界面自旋积累的第一性原理计算定量再现了实验趋势，证实了这一物理图像。这些发现引入了范德华半金属厚度工程，作为优化自旋电子 THz 发射器和磁存储器（SOT-MRAMs）中自旋—轨道力矩的一条新的、易实现的路径，并对更广泛的尺寸可调拓扑材料类别具有直接意义。",
+      "reading_notes": "Focus: 半导体.\nWhat to check: 性能提升、效率/耦合表现.\nContext: Thickness-Dependent Spintronic Terahertz Emission in MBE-Grown PtTe$_2$: From Semiconductor to …."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2605.22887v1",
+      "title": "Genome-Guided Interpretable Screening of Phase-Stable, Lead-Free Double Perovskite Absorbers for All-Inorganic Semiconductors, Sensors, and Photovoltaics with DFT-Validated Design Rules",
+      "url": "https://arxiv.org/abs/2605.22887v1",
+      "published": "2026-05-21",
+      "authors": [
+        "Nafis Ahtasu",
+        "Sohanur Rahman Sohan",
+        "Md. Mostaq Ahmed Himel",
+        "Md. Zahid Hassan",
+        "Muhammad Harussani Moklis",
+        "Masud Rana Rashel",
+        "Hasan Jamil",
+        "AKM Kamrul Islam",
+        "Mouhaydine Tlemcani"
+      ],
+      "summary": "The discovery of stable, lead-free halide perovskites for optoelectronic applications is constrained by vast compositional space and limited interpretability of conventional screening approaches. We present a genome-guided, physics-informed framework that decodes thermodynamic stability and optoelectronic behavior through four physically interpretable descriptor families: packing, bonding, polarization, and electronic identity. Trained on 1,221 DFT-calculated A2BB'X6 compounds, machine-learning surrogates achieve robust predictive performance, with a recall-optimized stability classifier (ROC-AUC = 0.92) and an XGBoost regressor for band-gap prediction (R2 = 0.93 on held-out data). Applying a staged inverse-design constraint stack to 13,088 charge-balanced, lead-free compositions reduces the search space to five DFT-validated, phase-stable semiconductors: Rb2SnMnBr6, Cs2CdSnBr6, Cs2CdSnI6, Cs2KGaI6, and Cs2AgAlBr6. These candidates lie on the convex hull (E_hull <= 0 meV/atom), preserve ordered double-perovskite structures, and exhibit strong optical absorption (alpha peak ~1e5 cm^-1). Genotype-phenotype coupling analysis reveals a hierarchical control mechanism: packing genes define structural formability, bonding genes govern near-edge optical transitions and conductivity, and optoelectronic response genes regulate dielectric response and exciton screening (epsilon0 = 4.6-8.2). This work establishes a generalizable paradigm for interpretable inverse design, linking descriptor-level genomics to experimentally relevant optoelectronic phenotypes and providing design rules for discovering stable, lead-free double perovskites for photovoltaics, sensing, and transparent electronic applications.",
+      "score": 5,
+      "priority": 0,
+      "highlights": [
+        "semiconductor"
+      ],
+      "abstract_cn": "用于光电子应用的稳定无铅卤化物钙钛矿的发现受到庞大组分空间和传统筛选方法可解释性有限的制约。我们提出了一种基因组引导、物理信息驱动的框架，通过四类具有物理可解释性的描述符家族——堆积、成键、极化和电子身份——来解码热力学稳定性和光电子行为。基于 1,221 个 DFT 计算的 A2BB'X6 化合物进行训练后，机器学习替代模型实现了稳健的预测性能，其中包括一个以召回率优化的稳定性分类器（ROC-AUC = 0.92）以及一个用于带隙预测的 XGBoost 回归器（在留出数据上 R2 = 0.93）。将分阶段逆向设计约束堆栈应用于 13,088 种电荷平衡、无铅组分后，搜索空间被缩小到五种经 DFT 验证的相稳定半导体：Rb2SnMnBr6、Cs2CdSnBr6、Cs2CdSnI6、Cs2KGaI6 和 Cs2AgAlBr6。这些候选材料位于凸包上（E_hull <= 0 meV/atom），保持有序双钙钛矿结构，并表现出强光吸收（alpha 峰值约为 ~1e5 cm^-1）。基因型—表型耦合分析揭示了一种层级控制机制：堆积基因决定结构可形成性，成键基因支配近带边光学跃迁和电导性，而光电子响应基因调控介电响应和激子屏蔽（epsilon0 = 4.6-8.2）。本工作建立了一种可推广的可解释逆向设计范式，将描述符层面的基因组学与实验相关的光电子表型联系起来，并为发现用于光伏、传感和透明电子应用的稳定无铅双钙钛矿提供了设计规则。",
+      "reading_notes": "Focus: 半导体.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: Genome-Guided Interpretable Screening of Phase-Stable, Lead-Free Double Perovskite Absorbers fo…."
     }
   ],
   "errors": [],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-05-25T00:30:00+00:00"
+  "generated_at": "2026-05-26T00:30:00+00:00"
 }
