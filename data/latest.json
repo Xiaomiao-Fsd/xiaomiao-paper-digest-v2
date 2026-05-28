@@ -1,9 +1,65 @@
 {
   "ok": true,
-  "new_count": 3,
+  "new_count": 18,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-05-26）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 3 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Localized Excitonic Emission in Wafer-Scale MOCVD-Grown GaSe 2D Nanosheets for Classical an…\n   关键词：nanosheets, wafer\n   日期：2026-05-22\n   Authors: Bhabani Sankar Sahoo, Nils Fritjof Langlotz, Shachi Machchhar 等\n   https://arxiv.org/abs/2605.23418v1\n2. [arXiv] Thickness-Dependent Spintronic Terahertz Emission in MBE-Grown PtTe$_2$: From Semiconductor…\n   关键词：semiconductor\n   日期：2026-05-22\n   Authors: Rahul Sharma, Sylvain Massabeau, Armando Pezo 等\n   https://arxiv.org/abs/2605.22932v1\n3. [arXiv] Genome-Guided Interpretable Screening of Phase-Stable, Lead-Free Double Perovskite Absorber…\n   关键词：semiconductor\n   日期：2026-05-21\n   Authors: Nafis Ahtasu, Sohanur Rahman Sohan, Md. Mostaq Ahmed Himel 等\n   https://arxiv.org/abs/2605.22887v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-05-28）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [IEEE Electron Device Letters] High-Pressure Deuterium Annealing Effect on HfO <sub>2</sub> -Based Gate-All-Around Ferroel…\n   关键词：FET, GAA, ferroelectric\n   日期：2026-06-01\n   Authors: Min-Jae Choi, Ju-Won Yeon, Ji-Man Yu 等\n   https://doi.org/10.1109/led.2026.3684114\n2. [IEEE Electron Device Letters] Selective-Injection GaN Heterojunction Bipolar Transistors With 275 kA/cm <sup>2</sup> Curr…\n   关键词：transistor, GaN\n   日期：2026-06-01\n   Authors: Zhanbo Xia, Chandan Joishi, Shahadat H. Sohel 等\n   https://doi.org/10.1109/led.2026.3684004\n3. [IEEE Electron Device Letters] Impact of Measurement Setup on Cryogenic CMOS FET Characterization\n   关键词：FET, CMOS\n   日期：2026-06-01\n   Authors: Jhih-Wei Chen, J. P. Campbell, P. R. Shrestha 等\n   https://doi.org/10.1109/led.2026.3679453\n4. [IEEE Electron Device Letters] Corrections to “Semi-Classical Monte Carlo Simulation of Quantum Confinement Effects in Si …\n   关键词：nanosheet\n   日期：2026-06-01\n   Authors: Uiho Lee, Jaeyeon Kim, Byoung Hak Hong 等\n   https://doi.org/10.1109/led.2026.3682574\n5. [IEEE Electron Device Letters] Demonstration of High-Performance Ultra-Wide Bandgap SrSnO <sub>3</sub> Top-Gated MOSFETs\n   关键词：MOSFET\n   日期：2026-06-01\n   Authors: Junghyun Koo, Weideng Sun, Donghwan Kim 等\n   https://doi.org/10.1109/led.2026.3687403\n6. [IEEE Electron Device Letters] 2-T Embedded Flash Memory Using Standard 28-nm Logic CMOS Technology\n   关键词：CMOS\n   日期：2026-06-01\n   Authors: Jonghyun Ko, Jeseung Jeong, Jiseong Im 等\n   https://doi.org/10.1109/led.2026.3685316\n7. [IEEE Electron Device Letters] A Reconfigurable Transistor Enabling Adaptive Computing at Cryogenic Temperatures\n   关键词：transistor\n   日期：2026-06-01\n   Authors: Andreas Fuchsberger, Nikolas Knaller, Lukas Wind 等\n   https://doi.org/10.1109/led.2026.3683584\n8. [IEEE Electron Device Letters] Thickness Scaling and Roughness-Induced Mobility Cliff in Ultra-Thin-Body MOSFETs\n   关键词：MOSFET\n   日期：2026-06-01\n   Authors: Mir Md Fahimul Islam, In Huh, Jian-Yu Lin 等\n   https://doi.org/10.1109/led.2026.3685176",
   "papers": [
+    {
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3684114",
+      "title": "High-Pressure Deuterium Annealing Effect on HfO <sub>2</sub> -Based Gate-All-Around Ferroelectric FET",
+      "url": "https://doi.org/10.1109/led.2026.3684114",
+      "published": "2026-06-01",
+      "authors": [
+        "Min-Jae Choi",
+        "Ju-Won Yeon",
+        "Ji-Man Yu",
+        "Myungsoo Seo",
+        "Min-Ho Kang",
+        "Sheung Hun Kim",
+        "Byung Jin Cho",
+        "Jun-Young Park",
+        "Yang-Kyu Choi"
+      ],
+      "summary": "",
+      "score": 15,
+      "priority": 2,
+      "highlights": [
+        "FET",
+        "GAA",
+        "ferroelectric"
+      ],
+      "abstract_cn": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
+      "reading_notes": "Focus: FET、GAA / 全环栅、铁电材料.\nNote: no abstract available; infer from title only."
+    },
+    {
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3684004",
+      "title": "Selective-Injection GaN Heterojunction Bipolar Transistors With 275 kA/cm <sup>2</sup> Current Density",
+      "url": "https://doi.org/10.1109/led.2026.3684004",
+      "published": "2026-06-01",
+      "authors": [
+        "Zhanbo Xia",
+        "Chandan Joishi",
+        "Shahadat H. Sohel",
+        "Andy Xie",
+        "Md Saklain Morshed",
+        "Binzhi Liu",
+        "Jinwoo Hwang",
+        "Edward Beam",
+        "Yu Cao",
+        "Siddharth Rajan"
+      ],
+      "summary": "",
+      "score": 11,
+      "priority": 2,
+      "highlights": [
+        "transistor",
+        "GaN"
+      ],
+      "abstract_cn": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
+      "reading_notes": "Focus: 晶体管、GaN.\nNote: no abstract available; infer from title only."
+    },
     {
       "source": "arXiv",
       "uid": "arxiv:2605.23418v1",
@@ -33,174 +89,134 @@
         "nanosheets",
         "wafer"
       ],
-      "abstract_cn": "二维半导体的晶圆级生长仍然是其集成到光子技术中的关键挑战。尽管大多数二维半导体研究集中于过渡金属二硫族化合物及其可扩展制备，但 III-VI 族单硫族化物受到的关注相对较少。本文报道了通过金属有机化学气相沉积（metal-organic chemical vapor deposition, MOCVD）实现硒化镓（GaSe）的晶圆级生长，并研究了其面向可见光范围经典和量子发光的结构与光学性质。我们研究了两种样品，其厚度通过生长时间控制，范围从少数单层到数微米。生长 30 分钟的样品产生覆盖 1.7--2.0$\\,$eV 的强而宽的光致发光，而较薄的 3 分钟样品则表现出离散的窄发射线以及单光子发射，$(g^{(2)}(0) = 0.15 \\pm 0.10)$。值得注意的是，阴极发光映射揭示了光谱窄发射中心和宽发射中心都具有显著的空间局域化。结合温度依赖的幂律分析和 Raman 映射，我们的结果表明该发射源于缺陷诱导发射，而非本征激子复合。这些发现确立了晶圆级 MOCVD 生长的二维 GaSe 作为经典和非经典光源平台的地位，并突出了缺陷工程化局域作为通向可扩展量子光子学的一条路径。",
+      "abstract_cn": "二维半导体的晶圆级生长仍然是其集成到光子技术中的关键挑战。尽管大多数二维半导体研究集中于过渡金属二硫族化合物及其可扩展制备，但 III-VI 族单硫属化合物受到的关注相对较少。本文报道了通过金属有机化学气相沉积（metal-organic chemical vapor deposition, MOCVD）实现硒化镓（GaSe）的晶圆级生长，并研究了其面向可见光范围经典和量子发光的结构与光学性质。我们研究了两种样品，其厚度通过生长时间控制，范围从数个单层到数微米。生长 30 分钟的样品产生覆盖 1.7–2.0 eV 的强而宽的光致发光，而较薄的 3 分钟样品则表现出离散的窄发射线以及单光子发射，g^{(2)}(0) = 0.15 ± 0.10。值得注意的是，阴极发光映射揭示了光谱窄发射中心和宽发射中心都具有显著的空间局域化。结合温度依赖的幂律分析和 Raman 映射，我们的结果表明该发射源于缺陷诱导发射，而非本征激子复合。这些发现确立了晶圆级 MOCVD 生长的二维 GaSe 作为经典和非经典光源平台的地位，并突出了缺陷工程化局域作为通向可扩展量子光子学的一条路径。",
       "reading_notes": "Focus: nanosheets、wafer.\nWhat to check: 效率/耦合表现、先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Localized Excitonic Emission in Wafer-Scale MOCVD-Grown GaSe 2D Nanosheets for Classical and No…."
     },
     {
-      "source": "arXiv",
-      "uid": "arxiv:2605.20406v1",
-      "title": "High Performance TiO2 Ferroelectric Field Effect Transistors with HfZrO2 for Neuromorphic Computing",
-      "url": "https://arxiv.org/abs/2605.20406v1",
-      "published": "2026-05-20",
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3679453",
+      "title": "Impact of Measurement Setup on Cryogenic CMOS FET Characterization",
+      "url": "https://doi.org/10.1109/led.2026.3679453",
+      "published": "2026-06-01",
       "authors": [
-        "Chandan Samanta",
-        "Elia Palmese",
-        "Ziyu Ouyang",
-        "Tuofu Zhama",
-        "Robinson Pino",
-        "Yuping Zeng"
+        "Jhih-Wei Chen",
+        "J. P. Campbell",
+        "P. R. Shrestha",
+        "Mau-Chung Frank Chang"
       ],
-      "summary": "TiO2 ferroelectric field effect transistors (FeFETs) with HfZrO2 (HZO) ferroelectric dielectric layers and bottom gate topology are fabricated for applications in neuromorphic systems. Two sets of devices are fabricated with different gate topologies by varying the thickness of the ferroelectric gate stack. Different device architectures are studied by varying the source drain length (LSD) and gate length (LG). The devices have high on/off ratios up to 10^7 with low leakage off currents <10^-12 A. Repeated cycle testing shows high reliability and a stable memory window. The devices have large memory windows ranging from 3 to 8 V.",
-      "score": 10,
-      "priority": 2,
-      "highlights": [
-        "transistor",
-        "ferroelectric"
-      ],
-      "abstract_cn": "面向神经形态系统应用，制备了采用 HfZrO2（HZO）铁电介电层和底栅拓扑结构的 TiO2 铁电场效应晶体管（ferroelectric field effect transistors, FeFETs）。通过改变铁电栅堆叠的厚度，制备了两组具有不同栅拓扑结构的器件。通过改变源漏长度（LSD）和栅长（LG），研究了不同的器件架构。器件具有高达 10^7 的高开关比，并且关态漏电流低于 10^-12 A。重复循环测试显示出高可靠性和稳定的存储窗口。器件具有较大的存储窗口，范围为 3 至 8 V。",
-      "reading_notes": "Focus: 晶体管、铁电材料.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: High Performance TiO2 Ferroelectric Field Effect Transistors with HfZrO2 for Neuromorphic Compu…."
-    },
-    {
-      "source": "Nature Electronics",
-      "uid": "Nature Electronics:10.1038/s41928-026-01637-w",
-      "title": "High-performance p-type monolayer tungsten diselenide transistors",
-      "url": "https://www.nature.com/articles/s41928-026-01637-w",
-      "published": "2026-05-20",
-      "authors": [],
-      "summary": "Nature Electronics, Published online: 20 May 2026; doi:10.1038/s41928-026-01637-w Using an industry-compatible and tunable oxygen-incorporated technique to heal defect states, p-type monolayer tungsten diselenide transistors can be created with a hole mobility of 137 cm2 V−1 s−1 and a contact resistance of approximately 560 Ω µm at room temperature.",
-      "score": 9,
+      "summary": "",
+      "score": 12,
       "priority": 1,
       "highlights": [
-        "transistor"
+        "FET",
+        "CMOS"
       ],
-      "abstract_cn": "《Nature Electronics》，在线发表：2026年5月20日；doi:10.1038/s41928-026-01637-w。利用一种工业兼容且可调的氧引入技术来修复缺陷态，可以制备 p 型单层二硒化钨晶体管，其在室温下具有 137 cm2 V−1 s−1 的空穴迁移率和约 560 Ω µm 的接触电阻。",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、接触/互连相关指标、与既有工艺平台的集成价值.\nContext: High-performance p-type monolayer tungsten diselenide transistors."
+      "abstract_cn": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
+      "reading_notes": "Focus: FET、CMOS.\nNote: no abstract available; infer from title only."
     },
     {
-      "source": "arXiv",
-      "uid": "arxiv:2605.21045v1",
-      "title": "Towards transistor-based quantum computing",
-      "url": "https://arxiv.org/abs/2605.21045v1",
-      "published": "2026-05-20",
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3682574",
+      "title": "Corrections to “Semi-Classical Monte Carlo Simulation of Quantum Confinement Effects in Si Nanosheet and Fin FETs in Industry Standard Orientation”",
+      "url": "https://doi.org/10.1109/led.2026.3682574",
+      "published": "2026-06-01",
       "authors": [
-        "Y. -D. Liu",
-        "X. Xu",
-        "Q. -R. Wang",
-        "D. -S. Wang"
+        "Uiho Lee",
+        "Jaeyeon Kim",
+        "Byoung Hak Hong",
+        "Wookhyun Kwon",
+        "Branch T. Archer",
+        "Leonard F. Register",
+        "Sanjay K. Banerjee",
+        "Jiwon Chang"
       ],
-      "summary": "In this work, we propose and study in depth a universal quantum computing architecture based on a quantum construction of transistors. Our teleportation-based quantum transistors, called ``telesistors'', are ground states of systems with symmetry-protected topological order, hence suppress certain noises and provide high-fidelity Clifford gates without the need for active error correction. This physical protection, quantified by the string order parameters, serves as a low-overhead foundation upon which conventional fault-tolerant encoding (e.g., with stabilizer codes) can be built to achieve universal quantum computation. This architecture shows rich connections with current known architectures, and some desirable merits especially compared with the qubit-based circuits regarding modularity, integration, and program storage. Our study shows that it is plausible to realize it with current technology in the near future.",
+      "summary": "",
+      "score": 8,
+      "priority": 1,
+      "highlights": [
+        "nanosheet"
+      ],
+      "abstract_cn": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
+      "reading_notes": "Focus: nanosheet.\nNote: no abstract available; infer from title only."
+    },
+    {
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3687403",
+      "title": "Demonstration of High-Performance Ultra-Wide Bandgap SrSnO <sub>3</sub> Top-Gated MOSFETs",
+      "url": "https://doi.org/10.1109/led.2026.3687403",
+      "published": "2026-06-01",
+      "authors": [
+        "Junghyun Koo",
+        "Weideng Sun",
+        "Donghwan Kim",
+        "Hongseung Lee",
+        "Chengyu Zhu",
+        "Kiyoung Lee",
+        "Hagyoul Bae",
+        "Bharat Jalan",
+        "Gang Qiu"
+      ],
+      "summary": "",
+      "score": 8,
+      "priority": 1,
+      "highlights": [
+        "MOSFET"
+      ],
+      "abstract_cn": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
+      "reading_notes": "Focus: MOSFET.\nNote: no abstract available; infer from title only."
+    },
+    {
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3685316",
+      "title": "2-T Embedded Flash Memory Using Standard 28-nm Logic CMOS Technology",
+      "url": "https://doi.org/10.1109/led.2026.3685316",
+      "published": "2026-06-01",
+      "authors": [
+        "Jonghyun Ko",
+        "Jeseung Jeong",
+        "Jiseong Im",
+        "Kyung Min Lee",
+        "Kangwook Choi",
+        "Gyuweon Jung",
+        "Jong-Ho Lee"
+      ],
+      "summary": "",
+      "score": 8,
+      "priority": 1,
+      "highlights": [
+        "CMOS"
+      ],
+      "abstract_cn": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
+      "reading_notes": "Focus: CMOS.\nNote: no abstract available; infer from title only."
+    },
+    {
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3683584",
+      "title": "A Reconfigurable Transistor Enabling Adaptive Computing at Cryogenic Temperatures",
+      "url": "https://doi.org/10.1109/led.2026.3683584",
+      "published": "2026-06-01",
+      "authors": [
+        "Andreas Fuchsberger",
+        "Nikolas Knaller",
+        "Lukas Wind",
+        "Viktor Wahler",
+        "Daniele Nazzari",
+        "Walter M. Weber",
+        "Masiar Sistani"
+      ],
+      "summary": "",
       "score": 8,
       "priority": 1,
       "highlights": [
         "transistor"
       ],
-      "abstract_cn": "在本工作中，我们提出并深入研究了一种基于晶体管量子构造的通用量子计算架构。我们基于量子隐形传态的量子晶体管称为“telesistors”，它们是具有对称性保护拓扑序的系统基态，因此能够抑制某些噪声，并在不需要主动纠错的情况下提供高保真 Clifford 门。这种由弦序参量量化的物理保护构成了一个低开销基础，可在其上构建传统容错编码（例如使用稳定子码）以实现通用量子计算。该架构与当前已知架构具有丰富联系，并且相较于基于量子比特的电路，在模块化、集成和程序存储方面具有一些理想优点。我们的研究表明，在不久的将来利用现有技术实现该架构是可行的。",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Towards transistor-based quantum computing."
-    },
-    {
-      "source": "Science Advances",
-      "uid": "doi:10.1126/sciadv.aea5936",
-      "title": "Probing individual quantum emitters in bulk semiconductors via photonic nanojets",
-      "url": "https://doi.org/10.1126/sciadv.aea5936",
-      "published": "2026-05-22",
-      "authors": [
-        "Behrooz Semnani",
-        "Sai Sreesh Venuturumilli",
-        "Mohammad Soltani",
-        "Pratik Adhikary",
-        "Abdolreza Pasharavesh",
-        "Nikolay Videnov",
-        "Paul Anderson",
-        "Supratik Sarkar",
-        "Vinodh Raj Rajagopal Muthu",
-        "Michal Bajcsy"
-      ],
-      "summary": "Solid-state quantum emitters serve as fundamental building blocks for quantum information processing, quantum telecommunication, and quantum-enhanced sensing, particularly at the nanoscale. However, the high refractive index of the emitters’ host materials often result in low-efficiency collection of the photons generated by the emitters. In addition, isolating individual quantum emitters generally requires high-purity samples and precise defect implantation, adding to the fabrication complexity. In this work, we use free-form topology optimization to design broadband monolithic photonic structures within high–refractive index materials hosting a relatively dense ensemble of randomly distributed quantum emitters. Fabricated via standard top-down patterning techniques, these inverse-designed nanostructures generate tightly confined photonic nanojets, which in turn enable selective excitation of individual emitters and improve photon extraction efficiency. The optimized geometries also substantially suppress background photoluminescence from near-surface optically active defects and from randomly distributed emitters in the bulk, boosting the signal-to-noise ratio. We demonstrate this paradigm using negatively charged nitrogen vacancy (NV − ) centers in a low-cost diamond sample at room temperature as a case study, achieving selective single emitter excitation with a 10-fold power enhancement and more than 15-fold improvement in the photon extraction efficiency of photoluminescence collection in confocal microscopy. Beyond NV centers and other diamond-embedded quantum emitters, the use of inverse-designed structures generating subwavelength photonic nanojets is applicable to other semiconductor materials containing emitters and can be seamlessly generalized to fiber-integrated platforms.",
-      "score": 7,
-      "priority": 0,
-      "highlights": [
-        "semiconductor"
-      ],
-      "abstract_cn": "固态量子发射体是量子信息处理、量子通信和量子增强传感的基本构件，尤其是在纳米尺度上。然而，发射体宿主材料的高折射率通常会导致对发射体所产生光子的收集效率较低。此外，分离单个量子发射体通常需要高纯度样品和精确的缺陷注入，从而增加了制造复杂性。在本工作中，我们利用自由形态拓扑优化，在含有相对高密度随机分布量子发射体集合的高折射率材料中设计宽带单片光子结构。这些反向设计的纳米结构通过标准自上而下图形化技术制备，可产生强限域的光子纳米喷流，从而实现对单个发射体的选择性激发，并提高光子提取效率。优化后的几何结构还显著抑制来自近表面光学活性缺陷以及体内随机分布发射体的背景光致发光，从而提升信噪比。我们以低成本金刚石样品中的负电荷氮—空位（NV−）中心为案例，在室温下展示了这一范式，实现了选择性单发射体激发，并获得 10 倍功率增强；同时，在共焦显微镜的光致发光收集中，光子提取效率提高超过 15 倍。除 NV 中心和其他嵌入金刚石的量子发射体之外，利用反向设计结构产生亚波长光子纳米喷流的方法也适用于其他含有发射体的半导体材料，并且可以无缝推广到光纤集成平台。",
-      "reading_notes": "Focus: 半导体.\nWhat to check: 性能提升、效率/耦合表现.\nContext: Probing individual quantum emitters in bulk semiconductors via photonic nanojets."
-    },
-    {
-      "source": "Nature Electronics",
-      "uid": "Nature Electronics:10.1038/s41928-026-01639-8",
-      "title": "A large-scale stretchable neuromorphic circuit for on-body edge computing",
-      "url": "https://www.nature.com/articles/s41928-026-01639-8",
-      "published": "2026-05-20",
-      "authors": [],
-      "summary": "Nature Electronics, Published online: 20 May 2026; doi:10.1038/s41928-026-01639-8 A photolithographic fabrication process can be used to create soft and stretchy organic electrochemical transistor arrays that have a density up to 10,000 devices per square centimetre, and can perform edge computing tasks in wearable devices and soft robots.",
-      "score": 6,
-      "priority": 0,
-      "highlights": [],
-      "abstract_cn": "《Nature Electronics》，在线发表：2026年5月20日；doi:10.1038/s41928-026-01639-8。一种光刻制造工艺可用于制备柔软且可拉伸的有机电化学晶体管阵列，其密度最高可达每平方厘米 10,000 个器件，并可在可穿戴设备和软体机器人中执行边缘计算任务。",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: A large-scale stretchable neuromorphic circuit for on-body edge computing."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2605.22932v1",
-      "title": "Thickness-Dependent Spintronic Terahertz Emission in MBE-Grown PtTe$_2$: From Semiconductor to Type-II Dirac Semimetal",
-      "url": "https://arxiv.org/abs/2605.22932v1",
-      "published": "2026-05-22",
-      "authors": [
-        "Rahul Sharma",
-        "Sylvain Massabeau",
-        "Armando Pezo",
-        "Ekta Yadav",
-        "Viliam Vretenár",
-        "Ravi K. Biroju",
-        "Fatima Ibrahim",
-        "Sukhdeep Dhillon",
-        "Alain Marty",
-        "Isabelle Gomes de Moraes",
-        "Adrien Michon",
-        "Jing Li",
-        "Mairbek Chshiev",
-        "Henri Jaffrès",
-        "Jean-Marie George",
-        "Matthieu Jamet"
-      ],
-      "summary": "Spintronic terahertz (THz) emitters have established themselves as among the most practical broadband THz sources available, yet their performance remains fundamentally limited by the spin Hall conductivity of the nonmagnetic conversion layer - a quantity that is fixed once the material is chosen. Here, we demonstrate that in PtTe$_2$, a type-II Dirac semimetal within the transition metal dichalcogenide family, this limitation can be circumvented by exploiting the dramatic thickness-driven electronic phase evolution of the material itself. Using molecular beam epitaxy to grow PtTe$_2$ films with single-monolayer precision from 1 to 20 ML, we show that the spintronic THz emission tracks the underlying electronic phase diagram directly: it is absent in the single-layer semiconducting phase, turns on sharply at the semimetal transition near 2 ML, and reaches a peak amplitude six times that of an equivalent Pt reference at 10 ML, before declining at larger thicknesses due to THz reabsorption in the increasingly metallic film. This non-monotonic behavior is inconsistent with a bulk inverse spin Hall mechanism and instead reflects a multi-channel spin-to-charge conversion process in which spin-momentum-locked topological surface states and a thickness-dependent interfacial Rashba splitting both contribute and strengthen as the type-II Dirac band structure develops. First-principles calculations of the interfacial spin accumulation reproduce the experimental trend quantitatively, confirming this physical picture. These findings introduce thickness engineering of van der Waals semimetals as a new and accessible route to optimizing spintronic THz emitters and spin-orbit torques in magnetic memories (SOT-MRAMs), with direct implications for the broader class of dimensionally tunable topological materials.",
-      "score": 5,
-      "priority": 0,
-      "highlights": [
-        "semiconductor"
-      ],
-      "abstract_cn": "自旋电子太赫兹（THz）发射器已成为现有最实用的宽带 THz 源之一，但其性能仍从根本上受限于非磁性转换层的自旋霍尔电导率，而该量在材料一经选定后即被固定。本文证明，在过渡金属二硫族化合物家族中的 II 型 Dirac 半金属 PtTe$_2$ 中，可以通过利用材料本身由厚度驱动的剧烈电子相演化来规避这一限制。我们采用分子束外延以单层精度生长 1 至 20 ML 的 PtTe$_2$ 薄膜，并表明自旋电子 THz 发射直接跟随其底层电子相图：在单层半导体相中不存在，在约 2 ML 附近的半金属转变处急剧开启，并在 10 ML 时达到峰值振幅，其幅度为等效 Pt 参考样品的六倍；随后在更大厚度下，由于越来越金属性的薄膜中发生 THz 再吸收而下降。这种非单调行为与体相逆自旋霍尔机制不一致，而是反映了一种多通道自旋—电荷转换过程，其中自旋—动量锁定的拓扑表面态和厚度依赖的界面 Rashba 劈裂均作出贡献，并随着 II 型 Dirac 能带结构的发展而增强。界面自旋积累的第一性原理计算定量再现了实验趋势，证实了这一物理图像。这些发现引入了范德华半金属厚度工程，作为优化自旋电子 THz 发射器和磁存储器（SOT-MRAMs）中自旋—轨道力矩的一条新的、易实现的路径，并对更广泛的尺寸可调拓扑材料类别具有直接意义。",
-      "reading_notes": "Focus: 半导体.\nWhat to check: 性能提升、效率/耦合表现.\nContext: Thickness-Dependent Spintronic Terahertz Emission in MBE-Grown PtTe$_2$: From Semiconductor to …."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2605.22887v1",
-      "title": "Genome-Guided Interpretable Screening of Phase-Stable, Lead-Free Double Perovskite Absorbers for All-Inorganic Semiconductors, Sensors, and Photovoltaics with DFT-Validated Design Rules",
-      "url": "https://arxiv.org/abs/2605.22887v1",
-      "published": "2026-05-21",
-      "authors": [
-        "Nafis Ahtasu",
-        "Sohanur Rahman Sohan",
-        "Md. Mostaq Ahmed Himel",
-        "Md. Zahid Hassan",
-        "Muhammad Harussani Moklis",
-        "Masud Rana Rashel",
-        "Hasan Jamil",
-        "AKM Kamrul Islam",
-        "Mouhaydine Tlemcani"
-      ],
-      "summary": "The discovery of stable, lead-free halide perovskites for optoelectronic applications is constrained by vast compositional space and limited interpretability of conventional screening approaches. We present a genome-guided, physics-informed framework that decodes thermodynamic stability and optoelectronic behavior through four physically interpretable descriptor families: packing, bonding, polarization, and electronic identity. Trained on 1,221 DFT-calculated A2BB'X6 compounds, machine-learning surrogates achieve robust predictive performance, with a recall-optimized stability classifier (ROC-AUC = 0.92) and an XGBoost regressor for band-gap prediction (R2 = 0.93 on held-out data). Applying a staged inverse-design constraint stack to 13,088 charge-balanced, lead-free compositions reduces the search space to five DFT-validated, phase-stable semiconductors: Rb2SnMnBr6, Cs2CdSnBr6, Cs2CdSnI6, Cs2KGaI6, and Cs2AgAlBr6. These candidates lie on the convex hull (E_hull <= 0 meV/atom), preserve ordered double-perovskite structures, and exhibit strong optical absorption (alpha peak ~1e5 cm^-1). Genotype-phenotype coupling analysis reveals a hierarchical control mechanism: packing genes define structural formability, bonding genes govern near-edge optical transitions and conductivity, and optoelectronic response genes regulate dielectric response and exciton screening (epsilon0 = 4.6-8.2). This work establishes a generalizable paradigm for interpretable inverse design, linking descriptor-level genomics to experimentally relevant optoelectronic phenotypes and providing design rules for discovering stable, lead-free double perovskites for photovoltaics, sensing, and transparent electronic applications.",
-      "score": 5,
-      "priority": 0,
-      "highlights": [
-        "semiconductor"
-      ],
-      "abstract_cn": "用于光电子应用的稳定无铅卤化物钙钛矿的发现受到庞大组分空间和传统筛选方法可解释性有限的制约。我们提出了一种基因组引导、物理信息驱动的框架，通过四类具有物理可解释性的描述符家族——堆积、成键、极化和电子身份——来解码热力学稳定性和光电子行为。基于 1,221 个 DFT 计算的 A2BB'X6 化合物进行训练后，机器学习替代模型实现了稳健的预测性能，其中包括一个以召回率优化的稳定性分类器（ROC-AUC = 0.92）以及一个用于带隙预测的 XGBoost 回归器（在留出数据上 R2 = 0.93）。将分阶段逆向设计约束堆栈应用于 13,088 种电荷平衡、无铅组分后，搜索空间被缩小到五种经 DFT 验证的相稳定半导体：Rb2SnMnBr6、Cs2CdSnBr6、Cs2CdSnI6、Cs2KGaI6 和 Cs2AgAlBr6。这些候选材料位于凸包上（E_hull <= 0 meV/atom），保持有序双钙钛矿结构，并表现出强光吸收（alpha 峰值约为 ~1e5 cm^-1）。基因型—表型耦合分析揭示了一种层级控制机制：堆积基因决定结构可形成性，成键基因支配近带边光学跃迁和电导性，而光电子响应基因调控介电响应和激子屏蔽（epsilon0 = 4.6-8.2）。本工作建立了一种可推广的可解释逆向设计范式，将描述符层面的基因组学与实验相关的光电子表型联系起来，并为发现用于光伏、传感和透明电子应用的稳定无铅双钙钛矿提供了设计规则。",
-      "reading_notes": "Focus: 半导体.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: Genome-Guided Interpretable Screening of Phase-Stable, Lead-Free Double Perovskite Absorbers fo…."
+      "abstract_cn": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
+      "reading_notes": "Focus: 晶体管.\nNote: no abstract available; infer from title only."
     }
   ],
   "errors": [],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-05-26T00:30:00+00:00"
+  "generated_at": "2026-05-28T00:30:00+00:00"
 }
