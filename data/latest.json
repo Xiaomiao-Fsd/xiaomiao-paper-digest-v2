@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 18,
+  "new_count": 0,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-05-28）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [IEEE Electron Device Letters] High-Pressure Deuterium Annealing Effect on HfO <sub>2</sub> -Based Gate-All-Around Ferroel…\n   关键词：FET, GAA, ferroelectric\n   日期：2026-06-01\n   Authors: Min-Jae Choi, Ju-Won Yeon, Ji-Man Yu 等\n   https://doi.org/10.1109/led.2026.3684114\n2. [IEEE Electron Device Letters] Selective-Injection GaN Heterojunction Bipolar Transistors With 275 kA/cm <sup>2</sup> Curr…\n   关键词：transistor, GaN\n   日期：2026-06-01\n   Authors: Zhanbo Xia, Chandan Joishi, Shahadat H. Sohel 等\n   https://doi.org/10.1109/led.2026.3684004\n3. [IEEE Electron Device Letters] Impact of Measurement Setup on Cryogenic CMOS FET Characterization\n   关键词：FET, CMOS\n   日期：2026-06-01\n   Authors: Jhih-Wei Chen, J. P. Campbell, P. R. Shrestha 等\n   https://doi.org/10.1109/led.2026.3679453\n4. [IEEE Electron Device Letters] Corrections to “Semi-Classical Monte Carlo Simulation of Quantum Confinement Effects in Si …\n   关键词：nanosheet\n   日期：2026-06-01\n   Authors: Uiho Lee, Jaeyeon Kim, Byoung Hak Hong 等\n   https://doi.org/10.1109/led.2026.3682574\n5. [IEEE Electron Device Letters] Demonstration of High-Performance Ultra-Wide Bandgap SrSnO <sub>3</sub> Top-Gated MOSFETs\n   关键词：MOSFET\n   日期：2026-06-01\n   Authors: Junghyun Koo, Weideng Sun, Donghwan Kim 等\n   https://doi.org/10.1109/led.2026.3687403\n6. [IEEE Electron Device Letters] 2-T Embedded Flash Memory Using Standard 28-nm Logic CMOS Technology\n   关键词：CMOS\n   日期：2026-06-01\n   Authors: Jonghyun Ko, Jeseung Jeong, Jiseong Im 等\n   https://doi.org/10.1109/led.2026.3685316\n7. [IEEE Electron Device Letters] A Reconfigurable Transistor Enabling Adaptive Computing at Cryogenic Temperatures\n   关键词：transistor\n   日期：2026-06-01\n   Authors: Andreas Fuchsberger, Nikolas Knaller, Lukas Wind 等\n   https://doi.org/10.1109/led.2026.3683584\n8. [IEEE Electron Device Letters] Thickness Scaling and Roughness-Induced Mobility Cliff in Ultra-Thin-Body MOSFETs\n   关键词：MOSFET\n   日期：2026-06-01\n   Authors: Mir Md Fahimul Islam, In Huh, Jian-Yu Lin 等\n   https://doi.org/10.1109/led.2026.3685176",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-01）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [IEEE Electron Device Letters] High-Pressure Deuterium Annealing Effect on HfO <sub>2</sub> -Based Gate-All-Around Ferroel…\n   关键词：FET, GAA, ferroelectric\n   日期：2026-06-01\n   Authors: Min-Jae Choi, Ju-Won Yeon, Ji-Man Yu 等\n   https://doi.org/10.1109/led.2026.3684114\n2. [IEEE Electron Device Letters] Selective-Injection GaN Heterojunction Bipolar Transistors With 275 kA/cm <sup>2</sup> Curr…\n   关键词：transistor, GaN\n   日期：2026-06-01\n   Authors: Zhanbo Xia, Chandan Joishi, Shahadat H. Sohel 等\n   https://doi.org/10.1109/led.2026.3684004\n3. [IEEE Electron Device Letters] Impact of Measurement Setup on Cryogenic CMOS FET Characterization\n   关键词：FET, CMOS\n   日期：2026-06-01\n   Authors: Jhih-Wei Chen, J. P. Campbell, P. R. Shrestha 等\n   https://doi.org/10.1109/led.2026.3679453\n4. [IEEE Electron Device Letters] Corrections to “Semi-Classical Monte Carlo Simulation of Quantum Confinement Effects in Si …\n   关键词：nanosheet\n   日期：2026-06-01\n   Authors: Uiho Lee, Jaeyeon Kim, Byoung Hak Hong 等\n   https://doi.org/10.1109/led.2026.3682574\n5. [IEEE Electron Device Letters] Demonstration of High-Performance Ultra-Wide Bandgap SrSnO <sub>3</sub> Top-Gated MOSFETs\n   关键词：MOSFET\n   日期：2026-06-01\n   Authors: Junghyun Koo, Weideng Sun, Donghwan Kim 等\n   https://doi.org/10.1109/led.2026.3687403\n6. [IEEE Electron Device Letters] A Reconfigurable Transistor Enabling Adaptive Computing at Cryogenic Temperatures\n   关键词：transistor\n   日期：2026-06-01\n   Authors: Andreas Fuchsberger, Nikolas Knaller, Lukas Wind 等\n   https://doi.org/10.1109/led.2026.3683584\n7. [IEEE Electron Device Letters] 2-T Embedded Flash Memory Using Standard 28-nm Logic CMOS Technology\n   关键词：CMOS\n   日期：2026-06-01\n   Authors: Jonghyun Ko, Jeseung Jeong, Jiseong Im 等\n   https://doi.org/10.1109/led.2026.3685316\n8. [IEEE Electron Device Letters] Thickness Scaling and Roughness-Induced Mobility Cliff in Ultra-Thin-Body MOSFETs\n   关键词：MOSFET\n   日期：2026-06-01\n   Authors: Mir Md Fahimul Islam, In Huh, Jian-Yu Lin 等\n   https://doi.org/10.1109/led.2026.3685176",
   "papers": [
     {
       "source": "IEEE Electron Device Letters",
@@ -59,38 +59,6 @@
       ],
       "abstract_cn": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
       "reading_notes": "Focus: 晶体管、GaN.\nNote: no abstract available; infer from title only."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2605.23418v1",
-      "title": "Localized Excitonic Emission in Wafer-Scale MOCVD-Grown GaSe 2D Nanosheets for Classical and Non-Classical Light Sources",
-      "url": "https://arxiv.org/abs/2605.23418v1",
-      "published": "2026-05-22",
-      "authors": [
-        "Bhabani Sankar Sahoo",
-        "Nils Fritjof Langlotz",
-        "Shachi Machchhar",
-        "Kartik Gaur",
-        "Robin Günkel",
-        "Max Bergmann",
-        "Naghmeh Ghadghooni",
-        "Aris Koulas-Simos",
-        "Jürgen Belz",
-        "Chirag Chandrakant Palekar",
-        "Maximilian Ries",
-        "Kerstin Volz",
-        "Stephan Reitzenstein",
-        "Imad Limame"
-      ],
-      "summary": "Wafer-scale growth of two-dimensional semiconductors remains a key challenge for their integration into photonic technologies. While most studies of two-dimensional semiconductors have focused on transition metal dichalcogenides and their scalable fabrication, comparatively little attention has been given to III-VI monochalcogenides. Here, we report wafer-scale growth of gallium selenide (GaSe) by metal-organic chemical vapor deposition (MOCVD) and investigate its structural and optical properties for visible-range classical and quantum light emission. Two samples with thicknesses ranging from a few monolayers to several micrometers, controlled via the growth time, were investigated. The 30-minute grown sample yields intense, broad photoluminescence spanning 1.7--2.0$\\,$eV, whereas the thinner 3-minute sample exhibits discrete narrow emission lines and single-photon emission with $(g^{(2)}(0) = 0.15 \\pm 0.10)$. Remarkably, cathodoluminescence mapping reveals pronounced spatial localization of both spectrally narrow and broad emission centers. Together with temperature-dependent power-law analysis and Raman mapping, our results indicate defect-induced emission rather than intrinsic excitonic recombination. These findings establish wafer-scale MOCVD grown 2D GaSe as a platform for classical and non-classical light sources and highlight defect-engineered localization as a route toward scalable quantum photonics.",
-      "score": 11,
-      "priority": 2,
-      "highlights": [
-        "nanosheets",
-        "wafer"
-      ],
-      "abstract_cn": "二维半导体的晶圆级生长仍然是其集成到光子技术中的关键挑战。尽管大多数二维半导体研究集中于过渡金属二硫族化合物及其可扩展制备，但 III-VI 族单硫属化合物受到的关注相对较少。本文报道了通过金属有机化学气相沉积（metal-organic chemical vapor deposition, MOCVD）实现硒化镓（GaSe）的晶圆级生长，并研究了其面向可见光范围经典和量子发光的结构与光学性质。我们研究了两种样品，其厚度通过生长时间控制，范围从数个单层到数微米。生长 30 分钟的样品产生覆盖 1.7–2.0 eV 的强而宽的光致发光，而较薄的 3 分钟样品则表现出离散的窄发射线以及单光子发射，g^{(2)}(0) = 0.15 ± 0.10。值得注意的是，阴极发光映射揭示了光谱窄发射中心和宽发射中心都具有显著的空间局域化。结合温度依赖的幂律分析和 Raman 映射，我们的结果表明该发射源于缺陷诱导发射，而非本征激子复合。这些发现确立了晶圆级 MOCVD 生长的二维 GaSe 作为经典和非经典光源平台的地位，并突出了缺陷工程化局域作为通向可扩展量子光子学的一条路径。",
-      "reading_notes": "Focus: nanosheets、wafer.\nWhat to check: 效率/耦合表现、先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Localized Excitonic Emission in Wafer-Scale MOCVD-Grown GaSe 2D Nanosheets for Classical and No…."
     },
     {
       "source": "IEEE Electron Device Letters",
@@ -167,6 +135,30 @@
     },
     {
       "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3683584",
+      "title": "A Reconfigurable Transistor Enabling Adaptive Computing at Cryogenic Temperatures",
+      "url": "https://doi.org/10.1109/led.2026.3683584",
+      "published": "2026-06-01",
+      "authors": [
+        "Andreas Fuchsberger",
+        "Nikolas Knaller",
+        "Lukas Wind",
+        "Viktor Wahler",
+        "Daniele Nazzari",
+        "Walter M. Weber",
+        "Masiar Sistani"
+      ],
+      "summary": "",
+      "score": 8,
+      "priority": 1,
+      "highlights": [
+        "transistor"
+      ],
+      "abstract_cn": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
+      "reading_notes": "Focus: 晶体管.\nNote: no abstract available; infer from title only."
+    },
+    {
+      "source": "IEEE Electron Device Letters",
       "uid": "doi:10.1109/led.2026.3685316",
       "title": "2-T Embedded Flash Memory Using Standard 28-nm Logic CMOS Technology",
       "url": "https://doi.org/10.1109/led.2026.3685316",
@@ -191,32 +183,33 @@
     },
     {
       "source": "IEEE Electron Device Letters",
-      "uid": "doi:10.1109/led.2026.3683584",
-      "title": "A Reconfigurable Transistor Enabling Adaptive Computing at Cryogenic Temperatures",
-      "url": "https://doi.org/10.1109/led.2026.3683584",
+      "uid": "doi:10.1109/led.2026.3685176",
+      "title": "Thickness Scaling and Roughness-Induced Mobility Cliff in Ultra-Thin-Body MOSFETs",
+      "url": "https://doi.org/10.1109/led.2026.3685176",
       "published": "2026-06-01",
       "authors": [
-        "Andreas Fuchsberger",
-        "Nikolas Knaller",
-        "Lukas Wind",
-        "Viktor Wahler",
-        "Daniele Nazzari",
-        "Walter M. Weber",
-        "Masiar Sistani"
+        "Mir Md Fahimul Islam",
+        "In Huh",
+        "Jian-Yu Lin",
+        "Seokyeon Shin",
+        "Youngjoon Lee",
+        "Changwook Jeong",
+        "Peide D. Ye",
+        "Muhammad Ashraful Alam"
       ],
       "summary": "",
       "score": 8,
       "priority": 1,
       "highlights": [
-        "transistor"
+        "MOSFET"
       ],
       "abstract_cn": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
-      "reading_notes": "Focus: 晶体管.\nNote: no abstract available; infer from title only."
+      "reading_notes": "Focus: MOSFET.\nNote: no abstract available; infer from title only."
     }
   ],
   "errors": [],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-05-28T00:30:00+00:00"
+  "generated_at": "2026-06-01T00:30:00+00:00"
 }
