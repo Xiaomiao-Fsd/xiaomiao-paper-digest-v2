@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 0,
+  "new_count": 7,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-01）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [IEEE Electron Device Letters] High-Pressure Deuterium Annealing Effect on HfO <sub>2</sub> -Based Gate-All-Around Ferroel…\n   关键词：FET, GAA, ferroelectric\n   日期：2026-06-01\n   Authors: Min-Jae Choi, Ju-Won Yeon, Ji-Man Yu 等\n   https://doi.org/10.1109/led.2026.3684114\n2. [IEEE Electron Device Letters] Selective-Injection GaN Heterojunction Bipolar Transistors With 275 kA/cm <sup>2</sup> Curr…\n   关键词：transistor, GaN\n   日期：2026-06-01\n   Authors: Zhanbo Xia, Chandan Joishi, Shahadat H. Sohel 等\n   https://doi.org/10.1109/led.2026.3684004\n3. [IEEE Electron Device Letters] Impact of Measurement Setup on Cryogenic CMOS FET Characterization\n   关键词：FET, CMOS\n   日期：2026-06-01\n   Authors: Jhih-Wei Chen, J. P. Campbell, P. R. Shrestha 等\n   https://doi.org/10.1109/led.2026.3679453\n4. [IEEE Electron Device Letters] Corrections to “Semi-Classical Monte Carlo Simulation of Quantum Confinement Effects in Si …\n   关键词：nanosheet\n   日期：2026-06-01\n   Authors: Uiho Lee, Jaeyeon Kim, Byoung Hak Hong 等\n   https://doi.org/10.1109/led.2026.3682574\n5. [IEEE Electron Device Letters] Demonstration of High-Performance Ultra-Wide Bandgap SrSnO <sub>3</sub> Top-Gated MOSFETs\n   关键词：MOSFET\n   日期：2026-06-01\n   Authors: Junghyun Koo, Weideng Sun, Donghwan Kim 等\n   https://doi.org/10.1109/led.2026.3687403\n6. [IEEE Electron Device Letters] A Reconfigurable Transistor Enabling Adaptive Computing at Cryogenic Temperatures\n   关键词：transistor\n   日期：2026-06-01\n   Authors: Andreas Fuchsberger, Nikolas Knaller, Lukas Wind 等\n   https://doi.org/10.1109/led.2026.3683584\n7. [IEEE Electron Device Letters] 2-T Embedded Flash Memory Using Standard 28-nm Logic CMOS Technology\n   关键词：CMOS\n   日期：2026-06-01\n   Authors: Jonghyun Ko, Jeseung Jeong, Jiseong Im 等\n   https://doi.org/10.1109/led.2026.3685316\n8. [IEEE Electron Device Letters] Thickness Scaling and Roughness-Induced Mobility Cliff in Ultra-Thin-Body MOSFETs\n   关键词：MOSFET\n   日期：2026-06-01\n   Authors: Mir Md Fahimul Islam, In Huh, Jian-Yu Lin 等\n   https://doi.org/10.1109/led.2026.3685176",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-03）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 7 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Synthesis of single-layered fluorographdiyne nanosheets via selective on-surface 2D covalen…\n   关键词：nanosheets\n   日期：2026-05-30\n   Authors: Chen-Hui Shu, Yi Zheng, Tao Lin 等\n   https://arxiv.org/abs/2606.00495v1\n2. [arXiv] Surface Modification for III-V Selective Area Molecular Beam Epitaxy of Non-Selective Mask …\n   关键词：epitaxy\n   日期：2026-06-01\n   Authors: Ashlee M. García, Byron D. Aguilar, William J. Doyle 等\n   https://arxiv.org/abs/2606.02317v1\n3. [arXiv] Impact of Disorder Dynamics and Multi-Domain Kinetics on the Sliding Ferroelectricity of CV…\n   日期：2026-05-30\n   Authors: Sourav Paul, Prasenjit Ghosh, Krishna Prasad Maity 等\n   https://arxiv.org/abs/2606.00665v1\n4. [arXiv] Nonequilibrium transport in epitaxial CsPbBr3 single crystals\n   日期：2026-06-02\n   Authors: Seryio Saris, Roberto Rosati, Vladimir Bruevich 等\n   https://arxiv.org/abs/2606.02460v1\n5. [arXiv] Optically programmable and erasable cryogenic flash memory on an undoped Si/SiGe heterostru…\n   日期：2026-05-30\n   Authors: S Rastogi, S Samanta, V Jangir 等\n   https://arxiv.org/abs/2606.00711v1\n6. [arXiv] Bragg-enhanced time-domain Brillouin scattering from a propagating acoustic grating\n   日期：2026-06-01\n   Authors: O. S. Ken, D. O. Horiachyi, V. L. Korenev 等\n   https://arxiv.org/abs/2606.02012v1\n7. [arXiv] Co-adsorption mechanism drives CO oxidation on defective ZnS\n   日期：2026-05-30\n   Authors: P. R. A. de Oliveira, C. Codeço, M. G. Menezes 等\n   https://arxiv.org/abs/2606.00264v1",
   "papers": [
     {
       "source": "IEEE Electron Device Letters",
@@ -135,30 +135,6 @@
     },
     {
       "source": "IEEE Electron Device Letters",
-      "uid": "doi:10.1109/led.2026.3683584",
-      "title": "A Reconfigurable Transistor Enabling Adaptive Computing at Cryogenic Temperatures",
-      "url": "https://doi.org/10.1109/led.2026.3683584",
-      "published": "2026-06-01",
-      "authors": [
-        "Andreas Fuchsberger",
-        "Nikolas Knaller",
-        "Lukas Wind",
-        "Viktor Wahler",
-        "Daniele Nazzari",
-        "Walter M. Weber",
-        "Masiar Sistani"
-      ],
-      "summary": "",
-      "score": 8,
-      "priority": 1,
-      "highlights": [
-        "transistor"
-      ],
-      "abstract_cn": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
-      "reading_notes": "Focus: 晶体管.\nNote: no abstract available; infer from title only."
-    },
-    {
-      "source": "IEEE Electron Device Letters",
       "uid": "doi:10.1109/led.2026.3685316",
       "title": "2-T Embedded Flash Memory Using Standard 28-nm Logic CMOS Technology",
       "url": "https://doi.org/10.1109/led.2026.3685316",
@@ -180,6 +156,30 @@
       ],
       "abstract_cn": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
       "reading_notes": "Focus: CMOS.\nNote: no abstract available; infer from title only."
+    },
+    {
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3683584",
+      "title": "A Reconfigurable Transistor Enabling Adaptive Computing at Cryogenic Temperatures",
+      "url": "https://doi.org/10.1109/led.2026.3683584",
+      "published": "2026-06-01",
+      "authors": [
+        "Andreas Fuchsberger",
+        "Nikolas Knaller",
+        "Lukas Wind",
+        "Viktor Wahler",
+        "Daniele Nazzari",
+        "Walter M. Weber",
+        "Masiar Sistani"
+      ],
+      "summary": "",
+      "score": 8,
+      "priority": 1,
+      "highlights": [
+        "transistor"
+      ],
+      "abstract_cn": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
+      "reading_notes": "Focus: 晶体管.\nNote: no abstract available; infer from title only."
     },
     {
       "source": "IEEE Electron Device Letters",
@@ -211,5 +211,5 @@
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-06-01T00:30:00+00:00"
+  "generated_at": "2026-06-03T00:30:00+00:00"
 }
