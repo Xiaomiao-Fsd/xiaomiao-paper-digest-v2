@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 7,
+  "new_count": 2,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-03）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 7 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Synthesis of single-layered fluorographdiyne nanosheets via selective on-surface 2D covalen…\n   关键词：nanosheets\n   日期：2026-05-30\n   Authors: Chen-Hui Shu, Yi Zheng, Tao Lin 等\n   https://arxiv.org/abs/2606.00495v1\n2. [arXiv] Surface Modification for III-V Selective Area Molecular Beam Epitaxy of Non-Selective Mask …\n   关键词：epitaxy\n   日期：2026-06-01\n   Authors: Ashlee M. García, Byron D. Aguilar, William J. Doyle 等\n   https://arxiv.org/abs/2606.02317v1\n3. [arXiv] Impact of Disorder Dynamics and Multi-Domain Kinetics on the Sliding Ferroelectricity of CV…\n   日期：2026-05-30\n   Authors: Sourav Paul, Prasenjit Ghosh, Krishna Prasad Maity 等\n   https://arxiv.org/abs/2606.00665v1\n4. [arXiv] Nonequilibrium transport in epitaxial CsPbBr3 single crystals\n   日期：2026-06-02\n   Authors: Seryio Saris, Roberto Rosati, Vladimir Bruevich 等\n   https://arxiv.org/abs/2606.02460v1\n5. [arXiv] Optically programmable and erasable cryogenic flash memory on an undoped Si/SiGe heterostru…\n   日期：2026-05-30\n   Authors: S Rastogi, S Samanta, V Jangir 等\n   https://arxiv.org/abs/2606.00711v1\n6. [arXiv] Bragg-enhanced time-domain Brillouin scattering from a propagating acoustic grating\n   日期：2026-06-01\n   Authors: O. S. Ken, D. O. Horiachyi, V. L. Korenev 等\n   https://arxiv.org/abs/2606.02012v1\n7. [arXiv] Co-adsorption mechanism drives CO oxidation on defective ZnS\n   日期：2026-05-30\n   Authors: P. R. A. de Oliveira, C. Codeço, M. G. Menezes 等\n   https://arxiv.org/abs/2606.00264v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-04）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 2 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] AlN Gate Interlayer for UWBG AlGaN Transistors with Breakdown Field >6.9 MV/cm and PFOM >1.…\n   关键词：transistor\n   日期：2026-06-02\n   Authors: Seungheon Shin, Jonathan Pratt, Joe McGlone 等\n   https://arxiv.org/abs/2606.02954v1\n2. [arXiv] 20 ps Non-Destructive Read and 1 ns Write Operations at <5 V in Ferroelectric HfO2/ZrO2 Non…\n   关键词：ferroelectric, HfO2\n   日期：2026-06-02\n   Authors: Alexandre Baigol, Ruben Hamming-Green, Paul Uriarte Vicandi 等\n   https://arxiv.org/abs/2606.03677v1",
   "papers": [
     {
       "source": "IEEE Electron Device Letters",
@@ -135,30 +135,6 @@
     },
     {
       "source": "IEEE Electron Device Letters",
-      "uid": "doi:10.1109/led.2026.3685316",
-      "title": "2-T Embedded Flash Memory Using Standard 28-nm Logic CMOS Technology",
-      "url": "https://doi.org/10.1109/led.2026.3685316",
-      "published": "2026-06-01",
-      "authors": [
-        "Jonghyun Ko",
-        "Jeseung Jeong",
-        "Jiseong Im",
-        "Kyung Min Lee",
-        "Kangwook Choi",
-        "Gyuweon Jung",
-        "Jong-Ho Lee"
-      ],
-      "summary": "",
-      "score": 8,
-      "priority": 1,
-      "highlights": [
-        "CMOS"
-      ],
-      "abstract_cn": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
-      "reading_notes": "Focus: CMOS.\nNote: no abstract available; infer from title only."
-    },
-    {
-      "source": "IEEE Electron Device Letters",
       "uid": "doi:10.1109/led.2026.3683584",
       "title": "A Reconfigurable Transistor Enabling Adaptive Computing at Cryogenic Temperatures",
       "url": "https://doi.org/10.1109/led.2026.3683584",
@@ -180,6 +156,30 @@
       ],
       "abstract_cn": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
       "reading_notes": "Focus: 晶体管.\nNote: no abstract available; infer from title only."
+    },
+    {
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3685316",
+      "title": "2-T Embedded Flash Memory Using Standard 28-nm Logic CMOS Technology",
+      "url": "https://doi.org/10.1109/led.2026.3685316",
+      "published": "2026-06-01",
+      "authors": [
+        "Jonghyun Ko",
+        "Jeseung Jeong",
+        "Jiseong Im",
+        "Kyung Min Lee",
+        "Kangwook Choi",
+        "Gyuweon Jung",
+        "Jong-Ho Lee"
+      ],
+      "summary": "",
+      "score": 8,
+      "priority": 1,
+      "highlights": [
+        "CMOS"
+      ],
+      "abstract_cn": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
+      "reading_notes": "Focus: CMOS.\nNote: no abstract available; infer from title only."
     },
     {
       "source": "IEEE Electron Device Letters",
@@ -211,5 +211,5 @@
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-06-03T00:30:00+00:00"
+  "generated_at": "2026-06-04T00:30:00+00:00"
 }
