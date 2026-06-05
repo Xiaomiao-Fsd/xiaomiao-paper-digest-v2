@@ -21,7 +21,7 @@
         "Jun-Young Park",
         "Yang-Kyu Choi"
       ],
-      "summary": "",
+      "summary": "This work demonstrates high-pressure deuterium annealing (HPDA) to improve the performance and reliability of HfO 2 based gate-all-around ferroelectric FET (GAA-FeFET). HPDA switches device operation from a trapping dominated (TD) clockwise (CW) to an ideal ferroelectric switching dominated (FSD) counter-clockwise (CCW) hysteresis, yielding a maximum memory window (MW) of 1.6 V with significantly reduced device-to-device (D2D) variation. Unlike high-pressure hydrogen annealing (HPHA) which degrades remanent polarization ( ${P}_{r}\\text {)}$ , HPDA enhances $2{P}_{r}$ up to $48~\\mu $ C/cm 2 . X-ray photoelectron spectroscopy (XPS) confirms a reduction in oxygen vacancy (V ${}_{\\!\\text {o}}\\text {)}$ and sub-oxide. Low-frequency noise spectroscopy (LFN) reveals a decrease in interface trap density at HZO/SiO 2 interface ( ${D}_{\\text {it},\\text {HZO}/\\text {SiO}{_{2}}}\\text {)}$ to ${8}\\times {10} ^{{10}}$ cm ${}^{-{2}}$ eV ${}^{-{1}}$ . This improved interface quality results in robust endurance ( $10^{{7}}$ cycles at ±5 V/ $100~\\mu $ s) and retention behavior. These results establish HPDA as a crucial process for reliable, high-performance GAA-FeFET.",
       "score": 15,
       "priority": 2,
       "highlights": [
@@ -29,8 +29,10 @@
         "GAA",
         "ferroelectric"
       ],
-      "abstract_cn": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
-      "reading_notes": "Focus: FET、GAA / 全环栅、铁电材料.\nNote: no abstract available; infer from title only."
+      "abstract_cn": "本工作展示了高压氘退火（high-pressure deuterium annealing, HPDA）用于提升 HfO2 基环栅铁电 FET（gate-all-around ferroelectric FET, GAA-FeFET）的性能和可靠性。HPDA 将器件工作特性从陷阱主导（trapping dominated, TD）的顺时针（clockwise, CW）滞回转变为理想的铁电翻转主导（ferroelectric switching dominated, FSD）逆时针（counter-clockwise, CCW）滞回，实现了 1.6 V 的最大存储窗口（memory window, MW），同时显著降低了器件间（device-to-device, D2D）变化。不同于会降低剩余极化（Pr）的高压氢退火（high-pressure hydrogen annealing, HPHA），HPDA 可将 2Pr 提高至 48 μC/cm2。X 射线光电子能谱（X-ray photoelectron spectroscopy, XPS）证实氧空位（Vo）和亚氧化物减少。低频噪声谱（low-frequency noise spectroscopy, LFN）表明 HZO/SiO2 界面的界面陷阱密度（Dit,HZO/SiO2）降低至 8×10^10 cm^-2 eV^-1。这种改善的界面质量带来了稳健的耐久性（在 ±5 V/100 μs 下为 10^7 次循环）和保持特性。这些结果确立了 HPDA 作为可靠、高性能 GAA-FeFET 的关键工艺。",
+      "abstract_zh": "本工作展示了高压氘退火（high-pressure deuterium annealing, HPDA）用于提升 HfO2 基环栅铁电 FET（gate-all-around ferroelectric FET, GAA-FeFET）的性能和可靠性。HPDA 将器件工作特性从陷阱主导（trapping dominated, TD）的顺时针（clockwise, CW）滞回转变为理想的铁电翻转主导（ferroelectric switching dominated, FSD）逆时针（counter-clockwise, CCW）滞回，实现了 1.6 V 的最大存储窗口（memory window, MW），同时显著降低了器件间（device-to-device, D2D）变化。不同于会降低剩余极化（Pr）的高压氢退火（high-pressure hydrogen annealing, HPHA），HPDA 可将 2Pr 提高至 48 μC/cm2。X 射线光电子能谱（X-ray photoelectron spectroscopy, XPS）证实氧空位（Vo）和亚氧化物减少。低频噪声谱（low-frequency noise spectroscopy, LFN）表明 HZO/SiO2 界面的界面陷阱密度（Dit,HZO/SiO2）降低至 8×10^10 cm^-2 eV^-1。这种改善的界面质量带来了稳健的耐久性（在 ±5 V/100 μs 下为 10^7 次循环）和保持特性。这些结果确立了 HPDA 作为可靠、高性能 GAA-FeFET 的关键工艺。",
+      "overview_cn": "Focus: FET、GAA / 全环栅、铁电材料.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: High-Pressure Deuterium Annealing Effect on HfO <sub>2</sub> -Based Gate-All-Around Ferroelectr….",
+      "reading_notes": "Focus: FET、GAA / 全环栅、铁电材料.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: High-Pressure Deuterium Annealing Effect on HfO <sub>2</sub> -Based Gate-All-Around Ferroelectr…."
     },
     {
       "source": "IEEE Electron Device Letters",
@@ -50,15 +52,17 @@
         "Yu Cao",
         "Siddharth Rajan"
       ],
-      "summary": "",
+      "summary": "We design and demonstrate selective injection GaN heterojunction bipolar transistors that utilize a patterned base for selective injection of electrons from the emitter. The design maneuvers minority carrier injection through a thin p-GaN base region, while the majority carrier holes for base current are injected from thick p-GaN regions adjacent to the thin p-GaN base. The design is realized using a regrowth emitter approach with SiO ${}_{\\mathbf {{2}}}$ as a spacer between the emitter layer and the thick p-GaN base contact regions. The fabricated device demonstrated state-of-art output current density (I ${}_{\\text {C},\\max }$ ) ~275 kA/cm ${}^{\\mathbf {{2}}}$ with a current gain ( $\\beta $ ) of 9, and 17 for the planar HBT design (I ${}_{\\text {C},\\max } =150$ kA/cm ${}^{\\mathbf {{2}}}$ ). The reported results highlight the potential of the selective injection design to overcome the persistent GaN HBT design tradeoff between base resistance and current gain, paving the way for next-generation radio frequency and mm-Wave applications.",
       "score": 11,
       "priority": 2,
       "highlights": [
         "transistor",
         "GaN"
       ],
-      "abstract_cn": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
-      "reading_notes": "Focus: 晶体管、GaN.\nNote: no abstract available; infer from title only."
+      "abstract_cn": "我们设计并展示了选择性注入 GaN 异质结双极晶体管，该晶体管利用图形化基区实现从发射极选择性注入电子。该设计通过较薄的 p-GaN 基区调控少数载流子注入，而用于基极电流的多数载流子空穴则从邻近薄 p-GaN 基区的厚 p-GaN 区域注入。该设计采用再生长发射极方法实现，并使用 SiO2 作为发射极层与厚 p-GaN 基极接触区域之间的间隔层。所制备器件展示了最先进水平的输出电流密度（IC,max）约 275 kA/cm2，电流增益（β）为 9；而平面 HBT 设计的 β 为 17（IC,max = 150 kA/cm2）。所报道的结果突出了选择性注入设计在克服 GaN HBT 设计中长期存在的基极电阻与电流增益权衡方面的潜力，为下一代射频和毫米波应用铺平了道路。",
+      "abstract_zh": "我们设计并展示了选择性注入 GaN 异质结双极晶体管，该晶体管利用图形化基区实现从发射极选择性注入电子。该设计通过较薄的 p-GaN 基区调控少数载流子注入，而用于基极电流的多数载流子空穴则从邻近薄 p-GaN 基区的厚 p-GaN 区域注入。该设计采用再生长发射极方法实现，并使用 SiO2 作为发射极层与厚 p-GaN 基极接触区域之间的间隔层。所制备器件展示了最先进水平的输出电流密度（IC,max）约 275 kA/cm2，电流增益（β）为 9；而平面 HBT 设计的 β 为 17（IC,max = 150 kA/cm2）。所报道的结果突出了选择性注入设计在克服 GaN HBT 设计中长期存在的基极电阻与电流增益权衡方面的潜力，为下一代射频和毫米波应用铺平了道路。",
+      "overview_cn": "Focus: 晶体管、GaN.\nWhat to check: 接触/互连相关指标.\nContext: Selective-Injection GaN Heterojunction Bipolar Transistors With 275 kA/cm <sup>2</sup> Current ….",
+      "reading_notes": "Focus: 晶体管、GaN.\nWhat to check: 接触/互连相关指标.\nContext: Selective-Injection GaN Heterojunction Bipolar Transistors With 275 kA/cm <sup>2</sup> Current …."
     },
     {
       "source": "IEEE Electron Device Letters",
@@ -72,15 +76,17 @@
         "P. R. Shrestha",
         "Mau-Chung Frank Chang"
       ],
-      "summary": "",
+      "summary": "Accurate cryogenic device characterization is essential for developing compact models needed to realize scalable quantum control electronics. However, we observe abnormal current-voltage (I-V) characteristics in 16 nm and 28 nm FETs at cryogenic temperatures. It is shown that these abnormalities arise not only from intrinsic device behavior, but also from self-sustained oscillations induced by parasitic LC feedback present in nearly all standard measurements. These abnormalities are exacerbated at low temperatures (due to the increased device gain) and are especially prominent for low loss and high inductance configurations. SPICE simulations incorporating realistic parasitics, combined with high-resolution time-domain measurements, confirm the presence of these oscillations and their impact on the more commonly reported time-averaged I-V characteristics. We demonstrate that using ground-signal-ground (GSG) RF wafer probes effectively suppresses these artifacts by minimizing loop inductance, restoring true device behavior. These results highlight the need for careful test structure and measurement setup design to ensure reliable cryogenic CMOS characterization.",
       "score": 12,
       "priority": 1,
       "highlights": [
         "FET",
         "CMOS"
       ],
-      "abstract_cn": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
-      "reading_notes": "Focus: FET、CMOS.\nNote: no abstract available; infer from title only."
+      "abstract_cn": "准确的低温器件表征对于开发紧凑模型至关重要，而这些模型是实现可扩展量子控制电子学所必需的。然而，我们在低温下观察到 16 nm 和 28 nm FET 中存在异常的电流—电压（I-V）特性。结果表明，这些异常不仅源于器件的内禀行为，还源于几乎所有标准测量中存在的寄生 LC 反馈所诱导的自维持振荡。这些异常在低温下会加剧（由于器件增益提高），并且在低损耗和高电感配置中尤其显著。结合真实寄生参数的 SPICE 仿真以及高分辨率时域测量，证实了这些振荡的存在及其对更常报道的时间平均 I-V 特性的影响。我们证明，使用地—信号—地（ground-signal-ground, GSG）射频晶圆探针可通过最小化环路电感有效抑制这些伪影，从而恢复真实的器件行为。这些结果强调，需要仔细设计测试结构和测量装置，以确保可靠的低温 CMOS 表征。",
+      "abstract_zh": "准确的低温器件表征对于开发紧凑模型至关重要，而这些模型是实现可扩展量子控制电子学所必需的。然而，我们在低温下观察到 16 nm 和 28 nm FET 中存在异常的电流—电压（I-V）特性。结果表明，这些异常不仅源于器件的内禀行为，还源于几乎所有标准测量中存在的寄生 LC 反馈所诱导的自维持振荡。这些异常在低温下会加剧（由于器件增益提高），并且在低损耗和高电感配置中尤其显著。结合真实寄生参数的 SPICE 仿真以及高分辨率时域测量，证实了这些振荡的存在及其对更常报道的时间平均 I-V 特性的影响。我们证明，使用地—信号—地（ground-signal-ground, GSG）射频晶圆探针可通过最小化环路电感有效抑制这些伪影，从而恢复真实的器件行为。这些结果强调，需要仔细设计测试结构和测量装置，以确保可靠的低温 CMOS 表征。",
+      "overview_cn": "Focus: FET、CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Impact of Measurement Setup on Cryogenic CMOS FET Characterization.",
+      "reading_notes": "Focus: FET、CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Impact of Measurement Setup on Cryogenic CMOS FET Characterization."
     },
     {
       "source": "IEEE Electron Device Letters",
@@ -98,14 +104,16 @@
         "Sanjay K. Banerjee",
         "Jiwon Chang"
       ],
-      "summary": "",
+      "summary": "Presents corrections to the paper, (“Semi-Classical Monte Carlo Simulation of Quantum Confinement Effects in Si Nanosheet and Fin FETs in Industry Standard Orientation”).",
       "score": 8,
       "priority": 1,
       "highlights": [
         "nanosheet"
       ],
-      "abstract_cn": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
-      "reading_notes": "Focus: nanosheet.\nNote: no abstract available; infer from title only."
+      "abstract_cn": "本文给出了对论文《工业标准取向中 Si 纳米片和 Fin FET 量子限域效应的半经典蒙特卡罗模拟》的更正。",
+      "abstract_zh": "本文给出了对论文《工业标准取向中 Si 纳米片和 Fin FET 量子限域效应的半经典蒙特卡罗模拟》的更正。",
+      "overview_cn": "Focus: nanosheet.\nWhat to check: 先进尺度下的可扩展性.\nContext: Corrections to “Semi-Classical Monte Carlo Simulation of Quantum Confinement Effects in Si Nano….",
+      "reading_notes": "Focus: nanosheet.\nWhat to check: 先进尺度下的可扩展性.\nContext: Corrections to “Semi-Classical Monte Carlo Simulation of Quantum Confinement Effects in Si Nano…."
     },
     {
       "source": "IEEE Electron Device Letters",
@@ -124,14 +132,16 @@
         "Bharat Jalan",
         "Gang Qiu"
       ],
-      "summary": "",
+      "summary": "We report the demonstration of high-performance top-gated metal–oxide–semiconductor field-effect transistors (MOSFETs) based on the ultra-wide bandgap perovskite oxide SrSnO 3 (SSO). Using hybrid molecular beam epitaxy-grown SSO channels and ALD-deposited HfO 2 gate dielectrics, the devices exhibit field-effect mobility exceeding ${65}{\\,}{\\text {cm}^{{2}}/\\text {V}\\cdot \\text {s}}$ , an on-state current up to ${194}{\\,}\\text {mA/ {mm}}$ , an on/off current ratio above $1\\times 10^{{8}}$ , and a contact resistance of ${1}.{3}{\\,}\\Omega \\!\\cdot \\!\\text {mm}$ . The devices also show a near-ideal subthreshold slope of ${68}{\\,}\\text {mV/ {dec}}$ and negligible hysteresis, indicating a high-quality dielectric/semiconductor interface. These results establish SrSnO 3 as a promising ultra-wide bandgap oxide semiconductor platform for high-performance power electronic applications.",
       "score": 8,
       "priority": 1,
       "highlights": [
         "MOSFET"
       ],
-      "abstract_cn": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
-      "reading_notes": "Focus: MOSFET.\nNote: no abstract available; infer from title only."
+      "abstract_cn": "我们报道了基于超宽带隙钙钛矿氧化物 SrSnO3（SSO）的高性能顶栅金属—氧化物—半导体场效应晶体管（MOSFET）的展示。利用混合分子束外延生长的 SSO 沟道和 ALD 沉积的 HfO2 栅介质，器件表现出超过 65 cm2/V·s 的场效应迁移率、高达 194 mA/mm 的导通态电流、超过 1×10^8 的开关电流比，以及 1.3 Ω·mm 的接触电阻。器件还表现出接近理想的 68 mV/dec 亚阈值摆幅和可忽略的滞回，表明其具有高质量的介质/半导体界面。这些结果确立了 SrSnO3 作为面向高性能功率电子应用的有前景超宽带隙氧化物半导体平台。",
+      "abstract_zh": "我们报道了基于超宽带隙钙钛矿氧化物 SrSnO3（SSO）的高性能顶栅金属—氧化物—半导体场效应晶体管（MOSFET）的展示。利用混合分子束外延生长的 SSO 沟道和 ALD 沉积的 HfO2 栅介质，器件表现出超过 65 cm2/V·s 的场效应迁移率、高达 194 mA/mm 的导通态电流、超过 1×10^8 的开关电流比，以及 1.3 Ω·mm 的接触电阻。器件还表现出接近理想的 68 mV/dec 亚阈值摆幅和可忽略的滞回，表明其具有高质量的介质/半导体界面。这些结果确立了 SrSnO3 作为面向高性能功率电子应用的有前景超宽带隙氧化物半导体平台。",
+      "overview_cn": "Focus: MOSFET.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Demonstration of High-Performance Ultra-Wide Bandgap SrSnO <sub>3</sub> Top-Gated MOSFETs.",
+      "reading_notes": "Focus: MOSFET.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Demonstration of High-Performance Ultra-Wide Bandgap SrSnO <sub>3</sub> Top-Gated MOSFETs."
     },
     {
       "source": "IEEE Electron Device Letters",
@@ -148,14 +158,16 @@
         "Gyuweon Jung",
         "Jong-Ho Lee"
       ],
-      "summary": "",
+      "summary": "A 2-transistor (2-T) embedded flash (eflash) memory fully implemented using a 28 nm logic CMOS technology (Samsung 28 nm LPP) is proposed. The proposed 2-T eflash requires no additional process steps. Compared with prior eflash memory employing three or more transistors and requiring program/erase voltages above 6.8 V, the proposed 2-T eflash reduces the device count and lowers the operating voltage to 4.5 V, substantially simplifying the peripheral circuit configuration. Owing to the low-voltage tunneling-based operation, the eflash exhibits high endurance exceeding $10^{{7}}$ cycles and retention characteristics are maintained for up to $10^{{4}}$ s at an elevated temperature of 80°C. While preserving high-performance retention, the proposed eflash achieves endurance exceeding $10^{{7}}$ cycles, showing nearly a two orders of magnitude improvement, compared to conventional flash memory endurance. In addition, selective program and erase operations are demonstrated, enabling precise threshold-voltage tuning in a memory array. These results indicate that the proposed 2-T eflash is a promising candidate for scalable compute-in-memory applications.",
       "score": 8,
       "priority": 1,
       "highlights": [
         "CMOS"
       ],
-      "abstract_cn": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
-      "reading_notes": "Focus: CMOS.\nNote: no abstract available; infer from title only."
+      "abstract_cn": "本文提出了一种完全使用 28 nm 逻辑 CMOS 技术（Samsung 28 nm LPP）实现的 2 晶体管（2-T）嵌入式闪存（embedded flash, eflash）。所提出的 2-T eflash 不需要任何额外工艺步骤。与以往采用三个或更多晶体管且需要高于 6.8 V 编程/擦除电压的 eflash 存储器相比，所提出的 2-T eflash 减少了器件数量，并将工作电压降低至 4.5 V，从而大幅简化了外围电路配置。由于采用基于低电压隧穿的工作方式，该 eflash 表现出超过 10^7 次循环的高耐久性，并且在 80°C 的升高温度下可保持长达 10^4 s 的保持特性。在保持高性能保持特性的同时，所提出的 eflash 实现了超过 10^7 次循环的耐久性，与传统闪存耐久性相比，提升了近两个数量级。此外，本文展示了选择性编程和擦除操作，使存储阵列中的阈值电压能够被精确调节。这些结果表明，所提出的 2-T eflash 是可扩展存内计算应用的有前景候选方案。",
+      "abstract_zh": "本文提出了一种完全使用 28 nm 逻辑 CMOS 技术（Samsung 28 nm LPP）实现的 2 晶体管（2-T）嵌入式闪存（embedded flash, eflash）。所提出的 2-T eflash 不需要任何额外工艺步骤。与以往采用三个或更多晶体管且需要高于 6.8 V 编程/擦除电压的 eflash 存储器相比，所提出的 2-T eflash 减少了器件数量，并将工作电压降低至 4.5 V，从而大幅简化了外围电路配置。由于采用基于低电压隧穿的工作方式，该 eflash 表现出超过 10^7 次循环的高耐久性，并且在 80°C 的升高温度下可保持长达 10^4 s 的保持特性。在保持高性能保持特性的同时，所提出的 eflash 实现了超过 10^7 次循环的耐久性，与传统闪存耐久性相比，提升了近两个数量级。此外，本文展示了选择性编程和擦除操作，使存储阵列中的阈值电压能够被精确调节。这些结果表明，所提出的 2-T eflash 是可扩展存内计算应用的有前景候选方案。",
+      "overview_cn": "Focus: CMOS.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: 2-T Embedded Flash Memory Using Standard 28-nm Logic CMOS Technology.",
+      "reading_notes": "Focus: CMOS.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: 2-T Embedded Flash Memory Using Standard 28-nm Logic CMOS Technology."
     },
     {
       "source": "IEEE Electron Device Letters",
@@ -172,14 +184,16 @@
         "Walter M. Weber",
         "Masiar Sistani"
       ],
-      "summary": "",
+      "summary": "Transistors operable at cryogenic temperatures are essential for the efficient control and readout of qubits. Yet conventional CMOS cannot meet the performance constraints at cryogenic temperatures due to dopant freeze-out and unacceptably high operation voltages. In this context, reconfigurable transistors emerge as a compelling alternative, enabling energy-efficient adaptive digital and analog circuitry at cryogenic temperatures. Here, we demonstrate a doping-free reconfigurable Si transistor with high and symmetric on-currents in both NMOS and PMOS mode at temperatures as low as 4.5 K by replacing doped source/drain regions with gated Schottky junctions. Notably, inverse subthreshold slopes of $\\mathrm {24~\\text {m}\\text {V} /\\text{dec} }$ and $\\mathrm {27~\\text {m}\\text {V} /\\text{dec} }$ for NMOS and PMOS operation, respectively.",
       "score": 8,
       "priority": 1,
       "highlights": [
         "transistor"
       ],
-      "abstract_cn": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
-      "reading_notes": "Focus: 晶体管.\nNote: no abstract available; infer from title only."
+      "abstract_cn": "可在低温下工作的晶体管对于量子比特的高效控制和读出至关重要。然而，由于掺杂剂冻结和不可接受的高工作电压，传统 CMOS 无法满足低温下的性能约束。在这一背景下，可重构晶体管成为一种有吸引力的替代方案，能够在低温下实现能量高效的自适应数字和模拟电路。本文通过用栅控肖特基结替代掺杂源/漏区，展示了一种无掺杂可重构 Si 晶体管，该晶体管在低至 4.5 K 的温度下，在 NMOS 和 PMOS 模式中均具有较高且对称的导通电流。值得注意的是，其 NMOS 和 PMOS 工作模式下的反亚阈值摆幅分别为 24 mV/dec 和 27 mV/dec。",
+      "abstract_zh": "可在低温下工作的晶体管对于量子比特的高效控制和读出至关重要。然而，由于掺杂剂冻结和不可接受的高工作电压，传统 CMOS 无法满足低温下的性能约束。在这一背景下，可重构晶体管成为一种有吸引力的替代方案，能够在低温下实现能量高效的自适应数字和模拟电路。本文通过用栅控肖特基结替代掺杂源/漏区，展示了一种无掺杂可重构 Si 晶体管，该晶体管在低至 4.5 K 的温度下，在 NMOS 和 PMOS 模式中均具有较高且对称的导通电流。值得注意的是，其 NMOS 和 PMOS 工作模式下的反亚阈值摆幅分别为 24 mV/dec 和 27 mV/dec。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、功耗或能效表现、与既有工艺平台的集成价值.\nContext: A Reconfigurable Transistor Enabling Adaptive Computing at Cryogenic Temperatures.",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、功耗或能效表现、与既有工艺平台的集成价值.\nContext: A Reconfigurable Transistor Enabling Adaptive Computing at Cryogenic Temperatures."
     },
     {
       "source": "IEEE Electron Device Letters",
@@ -197,14 +211,16 @@
         "Peide D. Ye",
         "Muhammad Ashraful Alam"
       ],
-      "summary": "",
+      "summary": "For future technology generations, Ultra-thin-body (UTB) MOSFETs are expected to replace classical bulk MOSFETs owing to their superior electrostatic scaling. However, process-control variability, especially under cryogenic operation, has heightened concerns regarding the channel/gate oxide interface. In this regime, interface-induced surface-roughness (SR) scattering becomes increasingly dominant, leading to a sharp roll-off in mobility. In this letter, we present (i) a universal thickness-scaling principle for long-channel mobility ( $\\mu _{c}$ ), validated across multiple transistor technologies, that captures the non-ideal mobility roll-off exponent ( ${n}_{\\text {eff}}$ ) by explicitly accounting for finite potential-well type and confinement, and (ii) a closed-form analytical model that directly extracts the critical thickness ( ${T}_{\\text {crit}}$ ) and the associated critical-mobility trade-off. Overall, this compact and scalable approach quantitatively highlights the need for stringent thickness uniformity to preserve mobility control in next-generation complementary field-effect transistors (CFETs) technology.",
       "score": 8,
       "priority": 1,
       "highlights": [
         "MOSFET"
       ],
-      "abstract_cn": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
-      "reading_notes": "Focus: MOSFET.\nNote: no abstract available; infer from title only."
+      "abstract_cn": "对于未来技术世代，超薄体（ultra-thin-body, UTB）MOSFET 预计将凭借其优越的静电缩放能力取代传统体硅 MOSFET。然而，工艺控制变异性，尤其是在低温工作条件下，加剧了人们对沟道/栅氧化层界面的担忧。在这一工作区域中，界面诱导的表面粗糙度（surface-roughness, SR）散射变得越来越占主导地位，导致迁移率急剧下降。在本文中，我们提出：（i）一种适用于长沟道迁移率（μc）的通用厚度缩放原则，并已在多种晶体管技术中得到验证；该原则通过显式考虑有限势阱类型和限域效应，捕捉非理想迁移率下降指数（neff）；以及（ii）一种闭式解析模型，可直接提取临界厚度（Tcrit）及其相关的临界迁移率权衡。总体而言，这种紧凑且可扩展的方法定量强调了在下一代互补场效应晶体管（complementary field-effect transistors, CFETs）技术中，为保持迁移率控制而严格保证厚度均匀性的必要性。",
+      "abstract_zh": "对于未来技术世代，超薄体（ultra-thin-body, UTB）MOSFET 预计将凭借其优越的静电缩放能力取代传统体硅 MOSFET。然而，工艺控制变异性，尤其是在低温工作条件下，加剧了人们对沟道/栅氧化层界面的担忧。在这一工作区域中，界面诱导的表面粗糙度（surface-roughness, SR）散射变得越来越占主导地位，导致迁移率急剧下降。在本文中，我们提出：（i）一种适用于长沟道迁移率（μc）的通用厚度缩放原则，并已在多种晶体管技术中得到验证；该原则通过显式考虑有限势阱类型和限域效应，捕捉非理想迁移率下降指数（neff）；以及（ii）一种闭式解析模型，可直接提取临界厚度（Tcrit）及其相关的临界迁移率权衡。总体而言，这种紧凑且可扩展的方法定量强调了在下一代互补场效应晶体管（complementary field-effect transistors, CFETs）技术中，为保持迁移率控制而严格保证厚度均匀性的必要性。",
+      "overview_cn": "Focus: MOSFET.\nWhat to check: 先进尺度下的可扩展性.\nContext: Thickness Scaling and Roughness-Induced Mobility Cliff in Ultra-Thin-Body MOSFETs.",
+      "reading_notes": "Focus: MOSFET.\nWhat to check: 先进尺度下的可扩展性.\nContext: Thickness Scaling and Roughness-Induced Mobility Cliff in Ultra-Thin-Body MOSFETs."
     }
   ],
   "errors": [
