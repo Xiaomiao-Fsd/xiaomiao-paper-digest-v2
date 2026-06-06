@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 0,
+  "new_count": 17,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-05）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [IEEE Electron Device Letters] High-Pressure Deuterium Annealing Effect on HfO <sub>2</sub> -Based Gate-All-Around Ferroel…\n   关键词：FET, GAA, ferroelectric\n   日期：2026-06-01\n   Authors: Min-Jae Choi, Ju-Won Yeon, Ji-Man Yu 等\n   https://doi.org/10.1109/led.2026.3684114\n2. [IEEE Electron Device Letters] Selective-Injection GaN Heterojunction Bipolar Transistors With 275 kA/cm <sup>2</sup> Curr…\n   关键词：transistor, GaN\n   日期：2026-06-01\n   Authors: Zhanbo Xia, Chandan Joishi, Shahadat H. Sohel 等\n   https://doi.org/10.1109/led.2026.3684004\n3. [IEEE Electron Device Letters] Impact of Measurement Setup on Cryogenic CMOS FET Characterization\n   关键词：FET, CMOS\n   日期：2026-06-01\n   Authors: Jhih-Wei Chen, J. P. Campbell, P. R. Shrestha 等\n   https://doi.org/10.1109/led.2026.3679453\n4. [IEEE Electron Device Letters] Corrections to “Semi-Classical Monte Carlo Simulation of Quantum Confinement Effects in Si …\n   关键词：nanosheet\n   日期：2026-06-01\n   Authors: Uiho Lee, Jaeyeon Kim, Byoung Hak Hong 等\n   https://doi.org/10.1109/led.2026.3682574\n5. [IEEE Electron Device Letters] Demonstration of High-Performance Ultra-Wide Bandgap SrSnO <sub>3</sub> Top-Gated MOSFETs\n   关键词：MOSFET\n   日期：2026-06-01\n   Authors: Junghyun Koo, Weideng Sun, Donghwan Kim 等\n   https://doi.org/10.1109/led.2026.3687403\n6. [IEEE Electron Device Letters] 2-T Embedded Flash Memory Using Standard 28-nm Logic CMOS Technology\n   关键词：CMOS\n   日期：2026-06-01\n   Authors: Jonghyun Ko, Jeseung Jeong, Jiseong Im 等\n   https://doi.org/10.1109/led.2026.3685316\n7. [IEEE Electron Device Letters] A Reconfigurable Transistor Enabling Adaptive Computing at Cryogenic Temperatures\n   关键词：transistor\n   日期：2026-06-01\n   Authors: Andreas Fuchsberger, Nikolas Knaller, Lukas Wind 等\n   https://doi.org/10.1109/led.2026.3683584\n8. [IEEE Electron Device Letters] Thickness Scaling and Roughness-Induced Mobility Cliff in Ultra-Thin-Body MOSFETs\n   关键词：MOSFET\n   日期：2026-06-01\n   Authors: Mir Md Fahimul Islam, In Huh, Jian-Yu Lin 等\n   https://doi.org/10.1109/led.2026.3685176\n注：以下源本次抓取失败：arXiv",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-06）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [Science Advances] Biofunctionalized polymer semiconductors toward soft and stretchable transistor-based biose…\n   关键词：transistor, semiconductor\n   日期：2026-06-05\n   Authors: Chuanzhen Zhao, Qianhe Liu, Jia-Yuan Chang 等\n   https://doi.org/10.1126/sciadv.aec2641\n2. [arXiv] Barrier-channel intermixing and 2-dimensional electron gas degradation in Al-rich Al(Ga)N/A…\n   关键词：transistor\n   日期：2026-06-03\n   Authors: Pietro Pampili, Vitaly Z. Zubialevich, Badal Mondal 等\n   https://arxiv.org/abs/2606.04842v1\n3. [arXiv] Breaking the width-scaling limit in high-performance atomically thin 2D nanoribbon transist…\n   关键词：transistor\n   日期：2026-06-03\n   Authors: Sameer Kumar Mallik, Adrian Christiansen, Saroj P. Dash\n   https://arxiv.org/abs/2606.04219v1\n4. [IEEE Electron Device Letters] Ultra-Wide Bandgap AlN/AlGaN/AlN-on-SiC HEMT With Record-High Thermal Performance\n   关键词：SiC\n   日期：2026-06-01\n   Authors: Seokjun Kim, Eungkyun Kim, Jashan Singhal 等\n   https://doi.org/10.1109/led.2026.3684862\n5. [IEEE Electron Device Letters] GaN-on-Si HEMTs for Low-Voltage FR2 Applications Enabled by Reactive-Sputtered n <sup>++</s…\n   关键词：GaN\n   日期：2026-06-01\n   Authors: Yihao Zhuang, Siyu Liu, Qingyun Xie 等\n   https://doi.org/10.1109/led.2026.3678989\n6. [IEEE Electron Device Letters] High-Efficiency X-Band AlGaN/GaN/AlN HEMTs With 64.2% PAE and 6.27 W/mm Continuous Wave Out…\n   关键词：GaN\n   日期：2026-06-01\n   Authors: Donghan Kim, Jeonghoon Choe, Sangmin Lee 等\n   https://doi.org/10.1109/led.2026.3675266\n7. [IEEE Electron Device Letters] Monolithic 3-D Integration of IAZO/Si-Based 2T0C DRAM With RRAM for Monte Carlo Dropconnect…\n   日期：2026-06-01\n   Authors: Lin Bao, Bowen Jiang, Jiaqi Zhao 等\n   https://doi.org/10.1109/led.2026.3685423\n8. [IEEE Electron Device Letters] A &gt;2.5 kV, 93 ps GaN Diode Avalanche Shaper With 1.68 GW/cm <sup>2</sup> Peak Power Dens…\n   关键词：GaN\n   日期：2026-06-01\n   Authors: Zhiqing Yang, Ming Xiao, Yuhao Zhang 等\n   https://doi.org/10.1109/led.2026.3681189",
   "papers": [
     {
       "source": "IEEE Electron Device Letters",
@@ -22,17 +22,50 @@
         "Yang-Kyu Choi"
       ],
       "summary": "This work demonstrates high-pressure deuterium annealing (HPDA) to improve the performance and reliability of HfO 2 based gate-all-around ferroelectric FET (GAA-FeFET). HPDA switches device operation from a trapping dominated (TD) clockwise (CW) to an ideal ferroelectric switching dominated (FSD) counter-clockwise (CCW) hysteresis, yielding a maximum memory window (MW) of 1.6 V with significantly reduced device-to-device (D2D) variation. Unlike high-pressure hydrogen annealing (HPHA) which degrades remanent polarization ( ${P}_{r}\\text {)}$ , HPDA enhances $2{P}_{r}$ up to $48~\\mu $ C/cm 2 . X-ray photoelectron spectroscopy (XPS) confirms a reduction in oxygen vacancy (V ${}_{\\!\\text {o}}\\text {)}$ and sub-oxide. Low-frequency noise spectroscopy (LFN) reveals a decrease in interface trap density at HZO/SiO 2 interface ( ${D}_{\\text {it},\\text {HZO}/\\text {SiO}{_{2}}}\\text {)}$ to ${8}\\times {10} ^{{10}}$ cm ${}^{-{2}}$ eV ${}^{-{1}}$ . This improved interface quality results in robust endurance ( $10^{{7}}$ cycles at ±5 V/ $100~\\mu $ s) and retention behavior. These results establish HPDA as a crucial process for reliable, high-performance GAA-FeFET.",
-      "score": 15,
+      "score": 17,
       "priority": 2,
       "highlights": [
         "FET",
         "GAA",
         "ferroelectric"
       ],
-      "abstract_cn": "本工作展示了高压氘退火（high-pressure deuterium annealing, HPDA）用于提升 HfO2 基环栅铁电 FET（gate-all-around ferroelectric FET, GAA-FeFET）的性能和可靠性。HPDA 将器件工作特性从陷阱主导（trapping dominated, TD）的顺时针（clockwise, CW）滞回转变为理想的铁电翻转主导（ferroelectric switching dominated, FSD）逆时针（counter-clockwise, CCW）滞回，实现了 1.6 V 的最大存储窗口（memory window, MW），同时显著降低了器件间（device-to-device, D2D）变化。不同于会降低剩余极化（Pr）的高压氢退火（high-pressure hydrogen annealing, HPHA），HPDA 可将 2Pr 提高至 48 μC/cm2。X 射线光电子能谱（X-ray photoelectron spectroscopy, XPS）证实氧空位（Vo）和亚氧化物减少。低频噪声谱（low-frequency noise spectroscopy, LFN）表明 HZO/SiO2 界面的界面陷阱密度（Dit,HZO/SiO2）降低至 8×10^10 cm^-2 eV^-1。这种改善的界面质量带来了稳健的耐久性（在 ±5 V/100 μs 下为 10^7 次循环）和保持特性。这些结果确立了 HPDA 作为可靠、高性能 GAA-FeFET 的关键工艺。",
-      "abstract_zh": "本工作展示了高压氘退火（high-pressure deuterium annealing, HPDA）用于提升 HfO2 基环栅铁电 FET（gate-all-around ferroelectric FET, GAA-FeFET）的性能和可靠性。HPDA 将器件工作特性从陷阱主导（trapping dominated, TD）的顺时针（clockwise, CW）滞回转变为理想的铁电翻转主导（ferroelectric switching dominated, FSD）逆时针（counter-clockwise, CCW）滞回，实现了 1.6 V 的最大存储窗口（memory window, MW），同时显著降低了器件间（device-to-device, D2D）变化。不同于会降低剩余极化（Pr）的高压氢退火（high-pressure hydrogen annealing, HPHA），HPDA 可将 2Pr 提高至 48 μC/cm2。X 射线光电子能谱（X-ray photoelectron spectroscopy, XPS）证实氧空位（Vo）和亚氧化物减少。低频噪声谱（low-frequency noise spectroscopy, LFN）表明 HZO/SiO2 界面的界面陷阱密度（Dit,HZO/SiO2）降低至 8×10^10 cm^-2 eV^-1。这种改善的界面质量带来了稳健的耐久性（在 ±5 V/100 μs 下为 10^7 次循环）和保持特性。这些结果确立了 HPDA 作为可靠、高性能 GAA-FeFET 的关键工艺。",
+      "abstract_cn": "本工作展示了高压氘退火（high-pressure deuterium annealing, HPDA）用于提升 HfO2 基环栅铁电 FET（gate-all-around ferroelectric FET, GAA-FeFET）的性能和可靠性。HPDA 将器件工作特性从陷阱主导（trapping dominated, TD）的顺时针（clockwise, CW）滞回转变为理想的铁电翻转主导（ferroelectric switching dominated, FSD）逆时针（counter-clockwise, CCW）滞回，实现了 1.6 V 的最大存储窗口（memory window, MW），同时显著降低了器件间（device-to-device, D2D）变化。不同于会降低剩余极化（Pr）的高压氢退火（high-pressure hydrogen annealing, HPHA），HPDA 可将 2Pr 提高至 48 μC/cm2。X 射线光电子能谱（X-ray photoelectron spectroscopy, XPS）证实氧空位（VO）和亚氧化物减少。低频噪声谱（low-frequency noise spectroscopy, LFN）表明 HZO/SiO2 界面的界面陷阱密度（D_it,HZO/SiO2）降低至 8×10^10 cm^-2 eV^-1。这种改善的界面质量带来了稳健的耐久性（在 ±5 V/100 μs 下为 10^7 次循环）和保持特性。这些结果确立了 HPDA 作为可靠、高性能 GAA-FeFET 的关键工艺。",
+      "abstract_zh": "本工作展示了高压氘退火（high-pressure deuterium annealing, HPDA）用于提升 HfO2 基环栅铁电 FET（gate-all-around ferroelectric FET, GAA-FeFET）的性能和可靠性。HPDA 将器件工作特性从陷阱主导（trapping dominated, TD）的顺时针（clockwise, CW）滞回转变为理想的铁电翻转主导（ferroelectric switching dominated, FSD）逆时针（counter-clockwise, CCW）滞回，实现了 1.6 V 的最大存储窗口（memory window, MW），同时显著降低了器件间（device-to-device, D2D）变化。不同于会降低剩余极化（Pr）的高压氢退火（high-pressure hydrogen annealing, HPHA），HPDA 可将 2Pr 提高至 48 μC/cm2。X 射线光电子能谱（X-ray photoelectron spectroscopy, XPS）证实氧空位（VO）和亚氧化物减少。低频噪声谱（low-frequency noise spectroscopy, LFN）表明 HZO/SiO2 界面的界面陷阱密度（D_it,HZO/SiO2）降低至 8×10^10 cm^-2 eV^-1。这种改善的界面质量带来了稳健的耐久性（在 ±5 V/100 μs 下为 10^7 次循环）和保持特性。这些结果确立了 HPDA 作为可靠、高性能 GAA-FeFET 的关键工艺。",
       "overview_cn": "Focus: FET、GAA / 全环栅、铁电材料.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: High-Pressure Deuterium Annealing Effect on HfO <sub>2</sub> -Based Gate-All-Around Ferroelectr….",
       "reading_notes": "Focus: FET、GAA / 全环栅、铁电材料.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: High-Pressure Deuterium Annealing Effect on HfO <sub>2</sub> -Based Gate-All-Around Ferroelectr…."
+    },
+    {
+      "source": "Science Advances",
+      "uid": "doi:10.1126/sciadv.aec2641",
+      "title": "Biofunctionalized polymer semiconductors toward soft and stretchable transistor-based biosensors",
+      "url": "https://doi.org/10.1126/sciadv.aec2641",
+      "published": "2026-06-05",
+      "authors": [
+        "Chuanzhen Zhao",
+        "Qianhe Liu",
+        "Jia-Yuan Chang",
+        "Aditri Patil",
+        "Lukas Michalek",
+        "Yilei Wu",
+        "Yujia Yuan",
+        "Rachael K. Mow",
+        "Yuran Shi",
+        "Yating Yao",
+        "Kuang-Jung Hsu",
+        "Yu Zheng",
+        "Zhenan Bao"
+      ],
+      "summary": "Organic materials with tunable chemical and mechanical properties are ideal for interfacing with skin and tissue in biomedical applications. While polymer semiconductors (PSCs) have advanced toward skin-like mechanical performance, the limited capacity for biofunctionalization has restricted their biosensing applications. In this study, we introduce a direct biofunctionalization strategy for PSCs based on thiol-ene chemistry. We selectively grafted thiolated biomolecules (e.g., aptamers) onto elastomeric domains within an interconnected semiconductor/elastomer network. This approach enables high-resolution patterning down to 10 micrometers while preserving the electronic performance of PSCs. Leveraging this platform, we designed and fabricated skin-like electrolyte-gated organic field-effect transistors with biofunctionalized channels. These soft and stretchable devices exhibit stable operation in physiological buffers for more than 50 days and maintain performance under up to 50% strain. When functionalized with cortisol-binding aptamers, the sensors achieved sensitive detection across physiologically relevant concentrations, down to the picomolar range. This work establishes a foundation for integrating stretchable and biofunctional PSCs into skin-like wearable devices.",
+      "score": 15,
+      "priority": 2,
+      "highlights": [
+        "transistor",
+        "semiconductor"
+      ],
+      "abstract_cn": "具有可调化学和力学性质的有机材料非常适合在生物医学应用中与皮肤和组织形成界面。尽管聚合物半导体（polymer semiconductors, PSCs）已朝着类皮肤力学性能取得进展，但其有限的生物功能化能力限制了其生物传感应用。在本研究中，我们提出了一种基于巯基-烯化学的 PSC 直接生物功能化策略。我们将巯基化生物分子（例如适配体）选择性接枝到互连半导体/弹性体网络中的弹性体域上。该方法能够实现低至 10 微米的高分辨率图形化，同时保持 PSC 的电子性能。利用这一平台，我们设计并制备了具有生物功能化沟道的类皮肤电解质栅控有机场效应晶体管。这些柔软且可拉伸的器件在生理缓冲液中可稳定工作超过 50 天，并在高达 50% 应变下保持性能。当用皮质醇结合适配体进行功能化后，传感器能够在生理相关浓度范围内实现灵敏检测，最低可达皮摩尔范围。本工作为将可拉伸且生物功能化的 PSC 集成到类皮肤可穿戴器件中奠定了基础。",
+      "abstract_zh": "具有可调化学和力学性质的有机材料非常适合在生物医学应用中与皮肤和组织形成界面。尽管聚合物半导体（polymer semiconductors, PSCs）已朝着类皮肤力学性能取得进展，但其有限的生物功能化能力限制了其生物传感应用。在本研究中，我们提出了一种基于巯基-烯化学的 PSC 直接生物功能化策略。我们将巯基化生物分子（例如适配体）选择性接枝到互连半导体/弹性体网络中的弹性体域上。该方法能够实现低至 10 微米的高分辨率图形化，同时保持 PSC 的电子性能。利用这一平台，我们设计并制备了具有生物功能化沟道的类皮肤电解质栅控有机场效应晶体管。这些柔软且可拉伸的器件在生理缓冲液中可稳定工作超过 50 天，并在高达 50% 应变下保持性能。当用皮质醇结合适配体进行功能化后，传感器能够在生理相关浓度范围内实现灵敏检测，最低可达皮摩尔范围。本工作为将可拉伸且生物功能化的 PSC 集成到类皮肤可穿戴器件中奠定了基础。",
+      "overview_cn": "Focus: 晶体管、半导体.\nWhat to check: 性能提升、可靠性与稳定性、接触/互连相关指标.\nContext: Biofunctionalized polymer semiconductors toward soft and stretchable transistor-based biosensors.",
+      "reading_notes": "Focus: 晶体管、半导体.\nWhat to check: 性能提升、可靠性与稳定性、接触/互连相关指标.\nContext: Biofunctionalized polymer semiconductors toward soft and stretchable transistor-based biosensors."
     },
     {
       "source": "IEEE Electron Device Letters",
@@ -66,54 +99,30 @@
     },
     {
       "source": "IEEE Electron Device Letters",
-      "uid": "doi:10.1109/led.2026.3679453",
-      "title": "Impact of Measurement Setup on Cryogenic CMOS FET Characterization",
-      "url": "https://doi.org/10.1109/led.2026.3679453",
+      "uid": "doi:10.1109/led.2026.3685176",
+      "title": "Thickness Scaling and Roughness-Induced Mobility Cliff in Ultra-Thin-Body MOSFETs",
+      "url": "https://doi.org/10.1109/led.2026.3685176",
       "published": "2026-06-01",
       "authors": [
-        "Jhih-Wei Chen",
-        "J. P. Campbell",
-        "P. R. Shrestha",
-        "Mau-Chung Frank Chang"
+        "Mir Md Fahimul Islam",
+        "In Huh",
+        "Jian-Yu Lin",
+        "Seokyeon Shin",
+        "Youngjoon Lee",
+        "Changwook Jeong",
+        "Peide D. Ye",
+        "Muhammad Ashraful Alam"
       ],
-      "summary": "Accurate cryogenic device characterization is essential for developing compact models needed to realize scalable quantum control electronics. However, we observe abnormal current-voltage (I-V) characteristics in 16 nm and 28 nm FETs at cryogenic temperatures. It is shown that these abnormalities arise not only from intrinsic device behavior, but also from self-sustained oscillations induced by parasitic LC feedback present in nearly all standard measurements. These abnormalities are exacerbated at low temperatures (due to the increased device gain) and are especially prominent for low loss and high inductance configurations. SPICE simulations incorporating realistic parasitics, combined with high-resolution time-domain measurements, confirm the presence of these oscillations and their impact on the more commonly reported time-averaged I-V characteristics. We demonstrate that using ground-signal-ground (GSG) RF wafer probes effectively suppresses these artifacts by minimizing loop inductance, restoring true device behavior. These results highlight the need for careful test structure and measurement setup design to ensure reliable cryogenic CMOS characterization.",
-      "score": 12,
+      "summary": "For future technology generations, Ultra-thin-body (UTB) MOSFETs are expected to replace classical bulk MOSFETs owing to their superior electrostatic scaling. However, process-control variability, especially under cryogenic operation, has heightened concerns regarding the channel/gate oxide interface. In this regime, interface-induced surface-roughness (SR) scattering becomes increasingly dominant, leading to a sharp roll-off in mobility. In this letter, we present (i) a universal thickness-scaling principle for long-channel mobility ( $\\mu _{c}$ ), validated across multiple transistor technologies, that captures the non-ideal mobility roll-off exponent ( ${n}_{\\text {eff}}$ ) by explicitly accounting for finite potential-well type and confinement, and (ii) a closed-form analytical model that directly extracts the critical thickness ( ${T}_{\\text {crit}}$ ) and the associated critical-mobility trade-off. Overall, this compact and scalable approach quantitatively highlights the need for stringent thickness uniformity to preserve mobility control in next-generation complementary field-effect transistors (CFETs) technology.",
+      "score": 16,
       "priority": 1,
       "highlights": [
-        "FET",
-        "CMOS"
+        "MOSFET"
       ],
-      "abstract_cn": "准确的低温器件表征对于开发紧凑模型至关重要，而这些模型是实现可扩展量子控制电子学所必需的。然而，我们在低温下观察到 16 nm 和 28 nm FET 中存在异常的电流—电压（I-V）特性。结果表明，这些异常不仅源于器件的内禀行为，还源于几乎所有标准测量中存在的寄生 LC 反馈所诱导的自维持振荡。这些异常在低温下会加剧（由于器件增益提高），并且在低损耗和高电感配置中尤其显著。结合真实寄生参数的 SPICE 仿真以及高分辨率时域测量，证实了这些振荡的存在及其对更常报道的时间平均 I-V 特性的影响。我们证明，使用地—信号—地（ground-signal-ground, GSG）射频晶圆探针可通过最小化环路电感有效抑制这些伪影，从而恢复真实的器件行为。这些结果强调，需要仔细设计测试结构和测量装置，以确保可靠的低温 CMOS 表征。",
-      "abstract_zh": "准确的低温器件表征对于开发紧凑模型至关重要，而这些模型是实现可扩展量子控制电子学所必需的。然而，我们在低温下观察到 16 nm 和 28 nm FET 中存在异常的电流—电压（I-V）特性。结果表明，这些异常不仅源于器件的内禀行为，还源于几乎所有标准测量中存在的寄生 LC 反馈所诱导的自维持振荡。这些异常在低温下会加剧（由于器件增益提高），并且在低损耗和高电感配置中尤其显著。结合真实寄生参数的 SPICE 仿真以及高分辨率时域测量，证实了这些振荡的存在及其对更常报道的时间平均 I-V 特性的影响。我们证明，使用地—信号—地（ground-signal-ground, GSG）射频晶圆探针可通过最小化环路电感有效抑制这些伪影，从而恢复真实的器件行为。这些结果强调，需要仔细设计测试结构和测量装置，以确保可靠的低温 CMOS 表征。",
-      "overview_cn": "Focus: FET、CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Impact of Measurement Setup on Cryogenic CMOS FET Characterization.",
-      "reading_notes": "Focus: FET、CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Impact of Measurement Setup on Cryogenic CMOS FET Characterization."
-    },
-    {
-      "source": "IEEE Electron Device Letters",
-      "uid": "doi:10.1109/led.2026.3682574",
-      "title": "Corrections to “Semi-Classical Monte Carlo Simulation of Quantum Confinement Effects in Si Nanosheet and Fin FETs in Industry Standard Orientation”",
-      "url": "https://doi.org/10.1109/led.2026.3682574",
-      "published": "2026-06-01",
-      "authors": [
-        "Uiho Lee",
-        "Jaeyeon Kim",
-        "Byoung Hak Hong",
-        "Wookhyun Kwon",
-        "Branch T. Archer",
-        "Leonard F. Register",
-        "Sanjay K. Banerjee",
-        "Jiwon Chang"
-      ],
-      "summary": "Presents corrections to the paper, (“Semi-Classical Monte Carlo Simulation of Quantum Confinement Effects in Si Nanosheet and Fin FETs in Industry Standard Orientation”).",
-      "score": 8,
-      "priority": 1,
-      "highlights": [
-        "nanosheet"
-      ],
-      "abstract_cn": "本文给出了对论文《工业标准取向中 Si 纳米片和 Fin FET 量子限域效应的半经典蒙特卡罗模拟》的更正。",
-      "abstract_zh": "本文给出了对论文《工业标准取向中 Si 纳米片和 Fin FET 量子限域效应的半经典蒙特卡罗模拟》的更正。",
-      "overview_cn": "Focus: nanosheet.\nWhat to check: 先进尺度下的可扩展性.\nContext: Corrections to “Semi-Classical Monte Carlo Simulation of Quantum Confinement Effects in Si Nano….",
-      "reading_notes": "Focus: nanosheet.\nWhat to check: 先进尺度下的可扩展性.\nContext: Corrections to “Semi-Classical Monte Carlo Simulation of Quantum Confinement Effects in Si Nano…."
+      "abstract_cn": "对于未来技术世代，超薄体（ultra-thin-body, UTB）MOSFET 预计将凭借其优越的静电缩放能力取代传统体硅 MOSFET。然而，工艺控制变异性，尤其是在低温工作条件下，加剧了人们对沟道/栅氧化层界面的担忧。在这一工作区域中，界面诱导的表面粗糙度（surface-roughness, SR）散射变得越来越占主导地位，导致迁移率急剧下降。在本文中，我们提出：（i）一种适用于长沟道迁移率（μc）的通用厚度缩放原则，并已在多种晶体管技术中得到验证；该原则通过显式考虑有限势阱类型和限域效应，捕捉非理想迁移率下降指数（neff）；以及（ii）一种闭式解析模型，可直接提取临界厚度（Tcrit）及其相关的临界迁移率权衡。总体而言，这种紧凑且可扩展的方法定量强调了在下一代互补场效应晶体管（complementary field-effect transistors, CFETs）技术中，为保持迁移率控制而严格保证厚度均匀性的必要性。",
+      "abstract_zh": "对于未来技术世代，超薄体（ultra-thin-body, UTB）MOSFET 预计将凭借其优越的静电缩放能力取代传统体硅 MOSFET。然而，工艺控制变异性，尤其是在低温工作条件下，加剧了人们对沟道/栅氧化层界面的担忧。在这一工作区域中，界面诱导的表面粗糙度（surface-roughness, SR）散射变得越来越占主导地位，导致迁移率急剧下降。在本文中，我们提出：（i）一种适用于长沟道迁移率（μc）的通用厚度缩放原则，并已在多种晶体管技术中得到验证；该原则通过显式考虑有限势阱类型和限域效应，捕捉非理想迁移率下降指数（neff）；以及（ii）一种闭式解析模型，可直接提取临界厚度（Tcrit）及其相关的临界迁移率权衡。总体而言，这种紧凑且可扩展的方法定量强调了在下一代互补场效应晶体管（complementary field-effect transistors, CFETs）技术中，为保持迁移率控制而严格保证厚度均匀性的必要性。",
+      "overview_cn": "Focus: MOSFET.\nWhat to check: 先进尺度下的可扩展性.\nContext: Thickness Scaling and Roughness-Induced Mobility Cliff in Ultra-Thin-Body MOSFETs.",
+      "reading_notes": "Focus: MOSFET.\nWhat to check: 先进尺度下的可扩展性.\nContext: Thickness Scaling and Roughness-Induced Mobility Cliff in Ultra-Thin-Body MOSFETs."
     },
     {
       "source": "IEEE Electron Device Letters",
@@ -133,7 +142,7 @@
         "Gang Qiu"
       ],
       "summary": "We report the demonstration of high-performance top-gated metal–oxide–semiconductor field-effect transistors (MOSFETs) based on the ultra-wide bandgap perovskite oxide SrSnO 3 (SSO). Using hybrid molecular beam epitaxy-grown SSO channels and ALD-deposited HfO 2 gate dielectrics, the devices exhibit field-effect mobility exceeding ${65}{\\,}{\\text {cm}^{{2}}/\\text {V}\\cdot \\text {s}}$ , an on-state current up to ${194}{\\,}\\text {mA/ {mm}}$ , an on/off current ratio above $1\\times 10^{{8}}$ , and a contact resistance of ${1}.{3}{\\,}\\Omega \\!\\cdot \\!\\text {mm}$ . The devices also show a near-ideal subthreshold slope of ${68}{\\,}\\text {mV/ {dec}}$ and negligible hysteresis, indicating a high-quality dielectric/semiconductor interface. These results establish SrSnO 3 as a promising ultra-wide bandgap oxide semiconductor platform for high-performance power electronic applications.",
-      "score": 8,
+      "score": 15,
       "priority": 1,
       "highlights": [
         "MOSFET"
@@ -159,7 +168,7 @@
         "Jong-Ho Lee"
       ],
       "summary": "A 2-transistor (2-T) embedded flash (eflash) memory fully implemented using a 28 nm logic CMOS technology (Samsung 28 nm LPP) is proposed. The proposed 2-T eflash requires no additional process steps. Compared with prior eflash memory employing three or more transistors and requiring program/erase voltages above 6.8 V, the proposed 2-T eflash reduces the device count and lowers the operating voltage to 4.5 V, substantially simplifying the peripheral circuit configuration. Owing to the low-voltage tunneling-based operation, the eflash exhibits high endurance exceeding $10^{{7}}$ cycles and retention characteristics are maintained for up to $10^{{4}}$ s at an elevated temperature of 80°C. While preserving high-performance retention, the proposed eflash achieves endurance exceeding $10^{{7}}$ cycles, showing nearly a two orders of magnitude improvement, compared to conventional flash memory endurance. In addition, selective program and erase operations are demonstrated, enabling precise threshold-voltage tuning in a memory array. These results indicate that the proposed 2-T eflash is a promising candidate for scalable compute-in-memory applications.",
-      "score": 8,
+      "score": 14,
       "priority": 1,
       "highlights": [
         "CMOS"
@@ -185,49 +194,44 @@
         "Masiar Sistani"
       ],
       "summary": "Transistors operable at cryogenic temperatures are essential for the efficient control and readout of qubits. Yet conventional CMOS cannot meet the performance constraints at cryogenic temperatures due to dopant freeze-out and unacceptably high operation voltages. In this context, reconfigurable transistors emerge as a compelling alternative, enabling energy-efficient adaptive digital and analog circuitry at cryogenic temperatures. Here, we demonstrate a doping-free reconfigurable Si transistor with high and symmetric on-currents in both NMOS and PMOS mode at temperatures as low as 4.5 K by replacing doped source/drain regions with gated Schottky junctions. Notably, inverse subthreshold slopes of $\\mathrm {24~\\text {m}\\text {V} /\\text{dec} }$ and $\\mathrm {27~\\text {m}\\text {V} /\\text{dec} }$ for NMOS and PMOS operation, respectively.",
-      "score": 8,
+      "score": 14,
       "priority": 1,
       "highlights": [
         "transistor"
       ],
-      "abstract_cn": "可在低温下工作的晶体管对于量子比特的高效控制和读出至关重要。然而，由于掺杂剂冻结和不可接受的高工作电压，传统 CMOS 无法满足低温下的性能约束。在这一背景下，可重构晶体管成为一种有吸引力的替代方案，能够在低温下实现能量高效的自适应数字和模拟电路。本文通过用栅控肖特基结替代掺杂源/漏区，展示了一种无掺杂可重构 Si 晶体管，该晶体管在低至 4.5 K 的温度下，在 NMOS 和 PMOS 模式中均具有较高且对称的导通电流。值得注意的是，其 NMOS 和 PMOS 工作模式下的反亚阈值摆幅分别为 24 mV/dec 和 27 mV/dec。",
-      "abstract_zh": "可在低温下工作的晶体管对于量子比特的高效控制和读出至关重要。然而，由于掺杂剂冻结和不可接受的高工作电压，传统 CMOS 无法满足低温下的性能约束。在这一背景下，可重构晶体管成为一种有吸引力的替代方案，能够在低温下实现能量高效的自适应数字和模拟电路。本文通过用栅控肖特基结替代掺杂源/漏区，展示了一种无掺杂可重构 Si 晶体管，该晶体管在低至 4.5 K 的温度下，在 NMOS 和 PMOS 模式中均具有较高且对称的导通电流。值得注意的是，其 NMOS 和 PMOS 工作模式下的反亚阈值摆幅分别为 24 mV/dec 和 27 mV/dec。",
+      "abstract_cn": "可在低温下工作的晶体管对于量子比特的高效控制和读出至关重要。然而，由于掺杂剂冻结和不可接受的高工作电压，传统 CMOS 无法满足低温下的性能约束。在这一背景下，可重构晶体管成为一种有吸引力的替代方案，能够在低温下实现能量高效的自适应数字和模拟电路。本文通过用栅控肖特基结替代掺杂源/漏区，展示了一种无掺杂可重构 Si 晶体管，该晶体管在低至 4.5 K 的温度下，在 NMOS 和 PMOS 模式中均具有较高且对称的导通电流。值得注意的是，其 NMOS 和 PMOS 工作模式下的反亚阈值斜率分别为 24 mV/dec 和 27 mV/dec。",
+      "abstract_zh": "可在低温下工作的晶体管对于量子比特的高效控制和读出至关重要。然而，由于掺杂剂冻结和不可接受的高工作电压，传统 CMOS 无法满足低温下的性能约束。在这一背景下，可重构晶体管成为一种有吸引力的替代方案，能够在低温下实现能量高效的自适应数字和模拟电路。本文通过用栅控肖特基结替代掺杂源/漏区，展示了一种无掺杂可重构 Si 晶体管，该晶体管在低至 4.5 K 的温度下，在 NMOS 和 PMOS 模式中均具有较高且对称的导通电流。值得注意的是，其 NMOS 和 PMOS 工作模式下的反亚阈值斜率分别为 24 mV/dec 和 27 mV/dec。",
       "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、功耗或能效表现、与既有工艺平台的集成价值.\nContext: A Reconfigurable Transistor Enabling Adaptive Computing at Cryogenic Temperatures.",
       "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、功耗或能效表现、与既有工艺平台的集成价值.\nContext: A Reconfigurable Transistor Enabling Adaptive Computing at Cryogenic Temperatures."
     },
     {
       "source": "IEEE Electron Device Letters",
-      "uid": "doi:10.1109/led.2026.3685176",
-      "title": "Thickness Scaling and Roughness-Induced Mobility Cliff in Ultra-Thin-Body MOSFETs",
-      "url": "https://doi.org/10.1109/led.2026.3685176",
+      "uid": "doi:10.1109/led.2026.3679453",
+      "title": "Impact of Measurement Setup on Cryogenic CMOS FET Characterization",
+      "url": "https://doi.org/10.1109/led.2026.3679453",
       "published": "2026-06-01",
       "authors": [
-        "Mir Md Fahimul Islam",
-        "In Huh",
-        "Jian-Yu Lin",
-        "Seokyeon Shin",
-        "Youngjoon Lee",
-        "Changwook Jeong",
-        "Peide D. Ye",
-        "Muhammad Ashraful Alam"
+        "Jhih-Wei Chen",
+        "J. P. Campbell",
+        "P. R. Shrestha",
+        "Mau-Chung Frank Chang"
       ],
-      "summary": "For future technology generations, Ultra-thin-body (UTB) MOSFETs are expected to replace classical bulk MOSFETs owing to their superior electrostatic scaling. However, process-control variability, especially under cryogenic operation, has heightened concerns regarding the channel/gate oxide interface. In this regime, interface-induced surface-roughness (SR) scattering becomes increasingly dominant, leading to a sharp roll-off in mobility. In this letter, we present (i) a universal thickness-scaling principle for long-channel mobility ( $\\mu _{c}$ ), validated across multiple transistor technologies, that captures the non-ideal mobility roll-off exponent ( ${n}_{\\text {eff}}$ ) by explicitly accounting for finite potential-well type and confinement, and (ii) a closed-form analytical model that directly extracts the critical thickness ( ${T}_{\\text {crit}}$ ) and the associated critical-mobility trade-off. Overall, this compact and scalable approach quantitatively highlights the need for stringent thickness uniformity to preserve mobility control in next-generation complementary field-effect transistors (CFETs) technology.",
-      "score": 8,
+      "summary": "Accurate cryogenic device characterization is essential for developing compact models needed to realize scalable quantum control electronics. However, we observe abnormal current-voltage (I-V) characteristics in 16 nm and 28 nm FETs at cryogenic temperatures. It is shown that these abnormalities arise not only from intrinsic device behavior, but also from self-sustained oscillations induced by parasitic LC feedback present in nearly all standard measurements. These abnormalities are exacerbated at low temperatures (due to the increased device gain) and are especially prominent for low loss and high inductance configurations. SPICE simulations incorporating realistic parasitics, combined with high-resolution time-domain measurements, confirm the presence of these oscillations and their impact on the more commonly reported time-averaged I-V characteristics. We demonstrate that using ground-signal-ground (GSG) RF wafer probes effectively suppresses these artifacts by minimizing loop inductance, restoring true device behavior. These results highlight the need for careful test structure and measurement setup design to ensure reliable cryogenic CMOS characterization.",
+      "score": 14,
       "priority": 1,
       "highlights": [
-        "MOSFET"
+        "FET",
+        "CMOS"
       ],
-      "abstract_cn": "对于未来技术世代，超薄体（ultra-thin-body, UTB）MOSFET 预计将凭借其优越的静电缩放能力取代传统体硅 MOSFET。然而，工艺控制变异性，尤其是在低温工作条件下，加剧了人们对沟道/栅氧化层界面的担忧。在这一工作区域中，界面诱导的表面粗糙度（surface-roughness, SR）散射变得越来越占主导地位，导致迁移率急剧下降。在本文中，我们提出：（i）一种适用于长沟道迁移率（μc）的通用厚度缩放原则，并已在多种晶体管技术中得到验证；该原则通过显式考虑有限势阱类型和限域效应，捕捉非理想迁移率下降指数（neff）；以及（ii）一种闭式解析模型，可直接提取临界厚度（Tcrit）及其相关的临界迁移率权衡。总体而言，这种紧凑且可扩展的方法定量强调了在下一代互补场效应晶体管（complementary field-effect transistors, CFETs）技术中，为保持迁移率控制而严格保证厚度均匀性的必要性。",
-      "abstract_zh": "对于未来技术世代，超薄体（ultra-thin-body, UTB）MOSFET 预计将凭借其优越的静电缩放能力取代传统体硅 MOSFET。然而，工艺控制变异性，尤其是在低温工作条件下，加剧了人们对沟道/栅氧化层界面的担忧。在这一工作区域中，界面诱导的表面粗糙度（surface-roughness, SR）散射变得越来越占主导地位，导致迁移率急剧下降。在本文中，我们提出：（i）一种适用于长沟道迁移率（μc）的通用厚度缩放原则，并已在多种晶体管技术中得到验证；该原则通过显式考虑有限势阱类型和限域效应，捕捉非理想迁移率下降指数（neff）；以及（ii）一种闭式解析模型，可直接提取临界厚度（Tcrit）及其相关的临界迁移率权衡。总体而言，这种紧凑且可扩展的方法定量强调了在下一代互补场效应晶体管（complementary field-effect transistors, CFETs）技术中，为保持迁移率控制而严格保证厚度均匀性的必要性。",
-      "overview_cn": "Focus: MOSFET.\nWhat to check: 先进尺度下的可扩展性.\nContext: Thickness Scaling and Roughness-Induced Mobility Cliff in Ultra-Thin-Body MOSFETs.",
-      "reading_notes": "Focus: MOSFET.\nWhat to check: 先进尺度下的可扩展性.\nContext: Thickness Scaling and Roughness-Induced Mobility Cliff in Ultra-Thin-Body MOSFETs."
+      "abstract_cn": "准确的低温器件表征对于开发紧凑模型至关重要，而这些模型是实现可扩展量子控制电子学所必需的。然而，我们在低温下观察到 16 nm 和 28 nm FET 中存在异常的电流—电压（I-V）特性。结果表明，这些异常不仅源于器件的内禀行为，还源于几乎所有标准测量中存在的寄生 LC 反馈所诱导的自维持振荡。这些异常在低温下会加剧（由于器件增益提高），并且在低损耗和高电感配置中尤其显著。结合真实寄生参数的 SPICE 仿真以及高分辨率时域测量，证实了这些振荡的存在及其对更常报道的时间平均 I-V 特性的影响。我们证明，使用地—信号—地（ground-signal-ground, GSG）射频晶圆探针可通过最小化环路电感有效抑制这些伪影，从而恢复真实的器件行为。这些结果强调，需要仔细设计测试结构和测量装置，以确保可靠的低温 CMOS 表征。",
+      "abstract_zh": "准确的低温器件表征对于开发紧凑模型至关重要，而这些模型是实现可扩展量子控制电子学所必需的。然而，我们在低温下观察到 16 nm 和 28 nm FET 中存在异常的电流—电压（I-V）特性。结果表明，这些异常不仅源于器件的内禀行为，还源于几乎所有标准测量中存在的寄生 LC 反馈所诱导的自维持振荡。这些异常在低温下会加剧（由于器件增益提高），并且在低损耗和高电感配置中尤其显著。结合真实寄生参数的 SPICE 仿真以及高分辨率时域测量，证实了这些振荡的存在及其对更常报道的时间平均 I-V 特性的影响。我们证明，使用地—信号—地（ground-signal-ground, GSG）射频晶圆探针可通过最小化环路电感有效抑制这些伪影，从而恢复真实的器件行为。这些结果强调，需要仔细设计测试结构和测量装置，以确保可靠的低温 CMOS 表征。",
+      "overview_cn": "Focus: FET、CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Impact of Measurement Setup on Cryogenic CMOS FET Characterization.",
+      "reading_notes": "Focus: FET、CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Impact of Measurement Setup on Cryogenic CMOS FET Characterization."
     }
   ],
-  "errors": [
-    "arXiv"
-  ],
+  "errors": [],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-06-05T00:30:00+00:00"
+  "generated_at": "2026-06-06T00:30:00+00:00"
 }
