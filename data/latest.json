@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 17,
+  "new_count": 0,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-06）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [Science Advances] Biofunctionalized polymer semiconductors toward soft and stretchable transistor-based biose…\n   关键词：transistor, semiconductor\n   日期：2026-06-05\n   Authors: Chuanzhen Zhao, Qianhe Liu, Jia-Yuan Chang 等\n   https://doi.org/10.1126/sciadv.aec2641\n2. [arXiv] Barrier-channel intermixing and 2-dimensional electron gas degradation in Al-rich Al(Ga)N/A…\n   关键词：transistor\n   日期：2026-06-03\n   Authors: Pietro Pampili, Vitaly Z. Zubialevich, Badal Mondal 等\n   https://arxiv.org/abs/2606.04842v1\n3. [arXiv] Breaking the width-scaling limit in high-performance atomically thin 2D nanoribbon transist…\n   关键词：transistor\n   日期：2026-06-03\n   Authors: Sameer Kumar Mallik, Adrian Christiansen, Saroj P. Dash\n   https://arxiv.org/abs/2606.04219v1\n4. [IEEE Electron Device Letters] Ultra-Wide Bandgap AlN/AlGaN/AlN-on-SiC HEMT With Record-High Thermal Performance\n   关键词：SiC\n   日期：2026-06-01\n   Authors: Seokjun Kim, Eungkyun Kim, Jashan Singhal 等\n   https://doi.org/10.1109/led.2026.3684862\n5. [IEEE Electron Device Letters] GaN-on-Si HEMTs for Low-Voltage FR2 Applications Enabled by Reactive-Sputtered n <sup>++</s…\n   关键词：GaN\n   日期：2026-06-01\n   Authors: Yihao Zhuang, Siyu Liu, Qingyun Xie 等\n   https://doi.org/10.1109/led.2026.3678989\n6. [IEEE Electron Device Letters] High-Efficiency X-Band AlGaN/GaN/AlN HEMTs With 64.2% PAE and 6.27 W/mm Continuous Wave Out…\n   关键词：GaN\n   日期：2026-06-01\n   Authors: Donghan Kim, Jeonghoon Choe, Sangmin Lee 等\n   https://doi.org/10.1109/led.2026.3675266\n7. [IEEE Electron Device Letters] Monolithic 3-D Integration of IAZO/Si-Based 2T0C DRAM With RRAM for Monte Carlo Dropconnect…\n   日期：2026-06-01\n   Authors: Lin Bao, Bowen Jiang, Jiaqi Zhao 等\n   https://doi.org/10.1109/led.2026.3685423\n8. [IEEE Electron Device Letters] A &gt;2.5 kV, 93 ps GaN Diode Avalanche Shaper With 1.68 GW/cm <sup>2</sup> Peak Power Dens…\n   关键词：GaN\n   日期：2026-06-01\n   Authors: Zhiqing Yang, Ming Xiao, Yuhao Zhang 等\n   https://doi.org/10.1109/led.2026.3681189",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-07）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [IEEE Electron Device Letters] High-Pressure Deuterium Annealing Effect on HfO <sub>2</sub> -Based Gate-All-Around Ferroel…\n   关键词：FET, GAA, ferroelectric\n   日期：2026-06-01\n   Authors: Min-Jae Choi, Ju-Won Yeon, Ji-Man Yu 等\n   https://doi.org/10.1109/led.2026.3684114\n2. [Science Advances] Biofunctionalized polymer semiconductors toward soft and stretchable transistor-based biose…\n   关键词：transistor, semiconductor\n   日期：2026-06-05\n   Authors: Chuanzhen Zhao, Qianhe Liu, Jia-Yuan Chang 等\n   https://doi.org/10.1126/sciadv.aec2641\n3. [IEEE Electron Device Letters] Selective-Injection GaN Heterojunction Bipolar Transistors With 275 kA/cm <sup>2</sup> Curr…\n   关键词：transistor, GaN\n   日期：2026-06-01\n   Authors: Zhanbo Xia, Chandan Joishi, Shahadat H. Sohel 等\n   https://doi.org/10.1109/led.2026.3684004\n4. [IEEE Electron Device Letters] Thickness Scaling and Roughness-Induced Mobility Cliff in Ultra-Thin-Body MOSFETs\n   关键词：MOSFET\n   日期：2026-06-01\n   Authors: Mir Md Fahimul Islam, In Huh, Jian-Yu Lin 等\n   https://doi.org/10.1109/led.2026.3685176\n5. [IEEE Electron Device Letters] Demonstration of High-Performance Ultra-Wide Bandgap SrSnO <sub>3</sub> Top-Gated MOSFETs\n   关键词：MOSFET\n   日期：2026-06-01\n   Authors: Junghyun Koo, Weideng Sun, Donghwan Kim 等\n   https://doi.org/10.1109/led.2026.3687403\n6. [IEEE Electron Device Letters] A Reconfigurable Transistor Enabling Adaptive Computing at Cryogenic Temperatures\n   关键词：transistor\n   日期：2026-06-01\n   Authors: Andreas Fuchsberger, Nikolas Knaller, Lukas Wind 等\n   https://doi.org/10.1109/led.2026.3683584\n7. [IEEE Electron Device Letters] 2-T Embedded Flash Memory Using Standard 28-nm Logic CMOS Technology\n   关键词：CMOS\n   日期：2026-06-01\n   Authors: Jonghyun Ko, Jeseung Jeong, Jiseong Im 等\n   https://doi.org/10.1109/led.2026.3685316\n8. [IEEE Electron Device Letters] Impact of Measurement Setup on Cryogenic CMOS FET Characterization\n   关键词：FET, CMOS\n   日期：2026-06-01\n   Authors: Jhih-Wei Chen, J. P. Campbell, P. R. Shrestha 等\n   https://doi.org/10.1109/led.2026.3679453",
   "papers": [
     {
       "source": "IEEE Electron Device Letters",
@@ -29,8 +29,8 @@
         "GAA",
         "ferroelectric"
       ],
-      "abstract_cn": "本工作展示了高压氘退火（high-pressure deuterium annealing, HPDA）用于提升 HfO2 基环栅铁电 FET（gate-all-around ferroelectric FET, GAA-FeFET）的性能和可靠性。HPDA 将器件工作特性从陷阱主导（trapping dominated, TD）的顺时针（clockwise, CW）滞回转变为理想的铁电翻转主导（ferroelectric switching dominated, FSD）逆时针（counter-clockwise, CCW）滞回，实现了 1.6 V 的最大存储窗口（memory window, MW），同时显著降低了器件间（device-to-device, D2D）变化。不同于会降低剩余极化（Pr）的高压氢退火（high-pressure hydrogen annealing, HPHA），HPDA 可将 2Pr 提高至 48 μC/cm2。X 射线光电子能谱（X-ray photoelectron spectroscopy, XPS）证实氧空位（VO）和亚氧化物减少。低频噪声谱（low-frequency noise spectroscopy, LFN）表明 HZO/SiO2 界面的界面陷阱密度（D_it,HZO/SiO2）降低至 8×10^10 cm^-2 eV^-1。这种改善的界面质量带来了稳健的耐久性（在 ±5 V/100 μs 下为 10^7 次循环）和保持特性。这些结果确立了 HPDA 作为可靠、高性能 GAA-FeFET 的关键工艺。",
-      "abstract_zh": "本工作展示了高压氘退火（high-pressure deuterium annealing, HPDA）用于提升 HfO2 基环栅铁电 FET（gate-all-around ferroelectric FET, GAA-FeFET）的性能和可靠性。HPDA 将器件工作特性从陷阱主导（trapping dominated, TD）的顺时针（clockwise, CW）滞回转变为理想的铁电翻转主导（ferroelectric switching dominated, FSD）逆时针（counter-clockwise, CCW）滞回，实现了 1.6 V 的最大存储窗口（memory window, MW），同时显著降低了器件间（device-to-device, D2D）变化。不同于会降低剩余极化（Pr）的高压氢退火（high-pressure hydrogen annealing, HPHA），HPDA 可将 2Pr 提高至 48 μC/cm2。X 射线光电子能谱（X-ray photoelectron spectroscopy, XPS）证实氧空位（VO）和亚氧化物减少。低频噪声谱（low-frequency noise spectroscopy, LFN）表明 HZO/SiO2 界面的界面陷阱密度（D_it,HZO/SiO2）降低至 8×10^10 cm^-2 eV^-1。这种改善的界面质量带来了稳健的耐久性（在 ±5 V/100 μs 下为 10^7 次循环）和保持特性。这些结果确立了 HPDA 作为可靠、高性能 GAA-FeFET 的关键工艺。",
+      "abstract_cn": "本工作展示了高压氘退火（high-pressure deuterium annealing, HPDA）用于提升 HfO2 基环栅铁电 FET（gate-all-around ferroelectric FET, GAA-FeFET）的性能和可靠性。HPDA 将器件工作特性从陷阱主导（trapping dominated, TD）的顺时针（clockwise, CW）滞回转变为理想的铁电翻转主导（ferroelectric switching dominated, FSD）逆时针（counter-clockwise, CCW）滞回，实现了 1.6 V 的最大存储窗口（memory window, MW），同时显著降低了器件间（device-to-device, D2D）变化。不同于会降低剩余极化（Pr）的高压氢退火（high-pressure hydrogen annealing, HPHA），HPDA 可将 2Pr 提高至 48 μC/cm2。X 射线光电子能谱（X-ray photoelectron spectroscopy, XPS）证实氧空位（VO）和亚氧化物减少。低频噪声谱（low-frequency noise spectroscopy, LFN）表明 HZO/SiO2 界面的界面陷阱密度（Dit,HZO/SiO2）降低至 8×10^10 cm^-2 eV^-1。这种改善的界面质量带来了稳健的耐久性（在 ±5 V/100 μs 下为 10^7 次循环）和保持特性。这些结果确立了 HPDA 作为可靠、高性能 GAA-FeFET 的关键工艺。",
+      "abstract_zh": "本工作展示了高压氘退火（high-pressure deuterium annealing, HPDA）用于提升 HfO2 基环栅铁电 FET（gate-all-around ferroelectric FET, GAA-FeFET）的性能和可靠性。HPDA 将器件工作特性从陷阱主导（trapping dominated, TD）的顺时针（clockwise, CW）滞回转变为理想的铁电翻转主导（ferroelectric switching dominated, FSD）逆时针（counter-clockwise, CCW）滞回，实现了 1.6 V 的最大存储窗口（memory window, MW），同时显著降低了器件间（device-to-device, D2D）变化。不同于会降低剩余极化（Pr）的高压氢退火（high-pressure hydrogen annealing, HPHA），HPDA 可将 2Pr 提高至 48 μC/cm2。X 射线光电子能谱（X-ray photoelectron spectroscopy, XPS）证实氧空位（VO）和亚氧化物减少。低频噪声谱（low-frequency noise spectroscopy, LFN）表明 HZO/SiO2 界面的界面陷阱密度（Dit,HZO/SiO2）降低至 8×10^10 cm^-2 eV^-1。这种改善的界面质量带来了稳健的耐久性（在 ±5 V/100 μs 下为 10^7 次循环）和保持特性。这些结果确立了 HPDA 作为可靠、高性能 GAA-FeFET 的关键工艺。",
       "overview_cn": "Focus: FET、GAA / 全环栅、铁电材料.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: High-Pressure Deuterium Annealing Effect on HfO <sub>2</sub> -Based Gate-All-Around Ferroelectr….",
       "reading_notes": "Focus: FET、GAA / 全环栅、铁电材料.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: High-Pressure Deuterium Annealing Effect on HfO <sub>2</sub> -Based Gate-All-Around Ferroelectr…."
     },
@@ -154,32 +154,6 @@
     },
     {
       "source": "IEEE Electron Device Letters",
-      "uid": "doi:10.1109/led.2026.3685316",
-      "title": "2-T Embedded Flash Memory Using Standard 28-nm Logic CMOS Technology",
-      "url": "https://doi.org/10.1109/led.2026.3685316",
-      "published": "2026-06-01",
-      "authors": [
-        "Jonghyun Ko",
-        "Jeseung Jeong",
-        "Jiseong Im",
-        "Kyung Min Lee",
-        "Kangwook Choi",
-        "Gyuweon Jung",
-        "Jong-Ho Lee"
-      ],
-      "summary": "A 2-transistor (2-T) embedded flash (eflash) memory fully implemented using a 28 nm logic CMOS technology (Samsung 28 nm LPP) is proposed. The proposed 2-T eflash requires no additional process steps. Compared with prior eflash memory employing three or more transistors and requiring program/erase voltages above 6.8 V, the proposed 2-T eflash reduces the device count and lowers the operating voltage to 4.5 V, substantially simplifying the peripheral circuit configuration. Owing to the low-voltage tunneling-based operation, the eflash exhibits high endurance exceeding $10^{{7}}$ cycles and retention characteristics are maintained for up to $10^{{4}}$ s at an elevated temperature of 80°C. While preserving high-performance retention, the proposed eflash achieves endurance exceeding $10^{{7}}$ cycles, showing nearly a two orders of magnitude improvement, compared to conventional flash memory endurance. In addition, selective program and erase operations are demonstrated, enabling precise threshold-voltage tuning in a memory array. These results indicate that the proposed 2-T eflash is a promising candidate for scalable compute-in-memory applications.",
-      "score": 14,
-      "priority": 1,
-      "highlights": [
-        "CMOS"
-      ],
-      "abstract_cn": "本文提出了一种完全使用 28 nm 逻辑 CMOS 技术（Samsung 28 nm LPP）实现的 2 晶体管（2-T）嵌入式闪存（embedded flash, eflash）。所提出的 2-T eflash 不需要任何额外工艺步骤。与以往采用三个或更多晶体管且需要高于 6.8 V 编程/擦除电压的 eflash 存储器相比，所提出的 2-T eflash 减少了器件数量，并将工作电压降低至 4.5 V，从而大幅简化了外围电路配置。由于采用基于低电压隧穿的工作方式，该 eflash 表现出超过 10^7 次循环的高耐久性，并且在 80°C 的升高温度下可保持长达 10^4 s 的保持特性。在保持高性能保持特性的同时，所提出的 eflash 实现了超过 10^7 次循环的耐久性，与传统闪存耐久性相比，提升了近两个数量级。此外，本文展示了选择性编程和擦除操作，使存储阵列中的阈值电压能够被精确调节。这些结果表明，所提出的 2-T eflash 是可扩展存内计算应用的有前景候选方案。",
-      "abstract_zh": "本文提出了一种完全使用 28 nm 逻辑 CMOS 技术（Samsung 28 nm LPP）实现的 2 晶体管（2-T）嵌入式闪存（embedded flash, eflash）。所提出的 2-T eflash 不需要任何额外工艺步骤。与以往采用三个或更多晶体管且需要高于 6.8 V 编程/擦除电压的 eflash 存储器相比，所提出的 2-T eflash 减少了器件数量，并将工作电压降低至 4.5 V，从而大幅简化了外围电路配置。由于采用基于低电压隧穿的工作方式，该 eflash 表现出超过 10^7 次循环的高耐久性，并且在 80°C 的升高温度下可保持长达 10^4 s 的保持特性。在保持高性能保持特性的同时，所提出的 eflash 实现了超过 10^7 次循环的耐久性，与传统闪存耐久性相比，提升了近两个数量级。此外，本文展示了选择性编程和擦除操作，使存储阵列中的阈值电压能够被精确调节。这些结果表明，所提出的 2-T eflash 是可扩展存内计算应用的有前景候选方案。",
-      "overview_cn": "Focus: CMOS.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: 2-T Embedded Flash Memory Using Standard 28-nm Logic CMOS Technology.",
-      "reading_notes": "Focus: CMOS.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: 2-T Embedded Flash Memory Using Standard 28-nm Logic CMOS Technology."
-    },
-    {
-      "source": "IEEE Electron Device Letters",
       "uid": "doi:10.1109/led.2026.3683584",
       "title": "A Reconfigurable Transistor Enabling Adaptive Computing at Cryogenic Temperatures",
       "url": "https://doi.org/10.1109/led.2026.3683584",
@@ -203,6 +177,32 @@
       "abstract_zh": "可在低温下工作的晶体管对于量子比特的高效控制和读出至关重要。然而，由于掺杂剂冻结和不可接受的高工作电压，传统 CMOS 无法满足低温下的性能约束。在这一背景下，可重构晶体管成为一种有吸引力的替代方案，能够在低温下实现能量高效的自适应数字和模拟电路。本文通过用栅控肖特基结替代掺杂源/漏区，展示了一种无掺杂可重构 Si 晶体管，该晶体管在低至 4.5 K 的温度下，在 NMOS 和 PMOS 模式中均具有较高且对称的导通电流。值得注意的是，其 NMOS 和 PMOS 工作模式下的反亚阈值斜率分别为 24 mV/dec 和 27 mV/dec。",
       "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、功耗或能效表现、与既有工艺平台的集成价值.\nContext: A Reconfigurable Transistor Enabling Adaptive Computing at Cryogenic Temperatures.",
       "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、功耗或能效表现、与既有工艺平台的集成价值.\nContext: A Reconfigurable Transistor Enabling Adaptive Computing at Cryogenic Temperatures."
+    },
+    {
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3685316",
+      "title": "2-T Embedded Flash Memory Using Standard 28-nm Logic CMOS Technology",
+      "url": "https://doi.org/10.1109/led.2026.3685316",
+      "published": "2026-06-01",
+      "authors": [
+        "Jonghyun Ko",
+        "Jeseung Jeong",
+        "Jiseong Im",
+        "Kyung Min Lee",
+        "Kangwook Choi",
+        "Gyuweon Jung",
+        "Jong-Ho Lee"
+      ],
+      "summary": "A 2-transistor (2-T) embedded flash (eflash) memory fully implemented using a 28 nm logic CMOS technology (Samsung 28 nm LPP) is proposed. The proposed 2-T eflash requires no additional process steps. Compared with prior eflash memory employing three or more transistors and requiring program/erase voltages above 6.8 V, the proposed 2-T eflash reduces the device count and lowers the operating voltage to 4.5 V, substantially simplifying the peripheral circuit configuration. Owing to the low-voltage tunneling-based operation, the eflash exhibits high endurance exceeding $10^{{7}}$ cycles and retention characteristics are maintained for up to $10^{{4}}$ s at an elevated temperature of 80°C. While preserving high-performance retention, the proposed eflash achieves endurance exceeding $10^{{7}}$ cycles, showing nearly a two orders of magnitude improvement, compared to conventional flash memory endurance. In addition, selective program and erase operations are demonstrated, enabling precise threshold-voltage tuning in a memory array. These results indicate that the proposed 2-T eflash is a promising candidate for scalable compute-in-memory applications.",
+      "score": 14,
+      "priority": 1,
+      "highlights": [
+        "CMOS"
+      ],
+      "abstract_cn": "本文提出了一种完全使用 28 nm 逻辑 CMOS 技术（Samsung 28 nm LPP）实现的 2 晶体管（2-T）嵌入式闪存（embedded flash, eflash）。所提出的 2-T eflash 不需要任何额外工艺步骤。与以往采用三个或更多晶体管且需要高于 6.8 V 编程/擦除电压的 eflash 存储器相比，所提出的 2-T eflash 减少了器件数量，并将工作电压降低至 4.5 V，从而大幅简化了外围电路配置。由于采用基于低电压隧穿的工作方式，该 eflash 表现出超过 10^7 次循环的高耐久性，并且在 80°C 的升高温度下可保持长达 10^4 s 的保持特性。在保持高性能保持特性的同时，所提出的 eflash 实现了超过 10^7 次循环的耐久性，与传统闪存耐久性相比，提升了近两个数量级。此外，本文展示了选择性编程和擦除操作，使存储阵列中的阈值电压能够被精确调节。这些结果表明，所提出的 2-T eflash 是可扩展存内计算应用的有前景候选方案。",
+      "abstract_zh": "本文提出了一种完全使用 28 nm 逻辑 CMOS 技术（Samsung 28 nm LPP）实现的 2 晶体管（2-T）嵌入式闪存（embedded flash, eflash）。所提出的 2-T eflash 不需要任何额外工艺步骤。与以往采用三个或更多晶体管且需要高于 6.8 V 编程/擦除电压的 eflash 存储器相比，所提出的 2-T eflash 减少了器件数量，并将工作电压降低至 4.5 V，从而大幅简化了外围电路配置。由于采用基于低电压隧穿的工作方式，该 eflash 表现出超过 10^7 次循环的高耐久性，并且在 80°C 的升高温度下可保持长达 10^4 s 的保持特性。在保持高性能保持特性的同时，所提出的 eflash 实现了超过 10^7 次循环的耐久性，与传统闪存耐久性相比，提升了近两个数量级。此外，本文展示了选择性编程和擦除操作，使存储阵列中的阈值电压能够被精确调节。这些结果表明，所提出的 2-T eflash 是可扩展存内计算应用的有前景候选方案。",
+      "overview_cn": "Focus: CMOS.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: 2-T Embedded Flash Memory Using Standard 28-nm Logic CMOS Technology.",
+      "reading_notes": "Focus: CMOS.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: 2-T Embedded Flash Memory Using Standard 28-nm Logic CMOS Technology."
     },
     {
       "source": "IEEE Electron Device Letters",
@@ -233,5 +233,5 @@
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-06-06T00:30:00+00:00"
+  "generated_at": "2026-06-07T00:30:00+00:00"
 }
