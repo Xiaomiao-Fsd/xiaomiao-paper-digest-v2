@@ -2,38 +2,8 @@
   "ok": true,
   "new_count": 0,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-07）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [IEEE Electron Device Letters] High-Pressure Deuterium Annealing Effect on HfO <sub>2</sub> -Based Gate-All-Around Ferroel…\n   关键词：FET, GAA, ferroelectric\n   日期：2026-06-01\n   Authors: Min-Jae Choi, Ju-Won Yeon, Ji-Man Yu 等\n   https://doi.org/10.1109/led.2026.3684114\n2. [Science Advances] Biofunctionalized polymer semiconductors toward soft and stretchable transistor-based biose…\n   关键词：transistor, semiconductor\n   日期：2026-06-05\n   Authors: Chuanzhen Zhao, Qianhe Liu, Jia-Yuan Chang 等\n   https://doi.org/10.1126/sciadv.aec2641\n3. [IEEE Electron Device Letters] Selective-Injection GaN Heterojunction Bipolar Transistors With 275 kA/cm <sup>2</sup> Curr…\n   关键词：transistor, GaN\n   日期：2026-06-01\n   Authors: Zhanbo Xia, Chandan Joishi, Shahadat H. Sohel 等\n   https://doi.org/10.1109/led.2026.3684004\n4. [IEEE Electron Device Letters] Thickness Scaling and Roughness-Induced Mobility Cliff in Ultra-Thin-Body MOSFETs\n   关键词：MOSFET\n   日期：2026-06-01\n   Authors: Mir Md Fahimul Islam, In Huh, Jian-Yu Lin 等\n   https://doi.org/10.1109/led.2026.3685176\n5. [IEEE Electron Device Letters] Demonstration of High-Performance Ultra-Wide Bandgap SrSnO <sub>3</sub> Top-Gated MOSFETs\n   关键词：MOSFET\n   日期：2026-06-01\n   Authors: Junghyun Koo, Weideng Sun, Donghwan Kim 等\n   https://doi.org/10.1109/led.2026.3687403\n6. [IEEE Electron Device Letters] A Reconfigurable Transistor Enabling Adaptive Computing at Cryogenic Temperatures\n   关键词：transistor\n   日期：2026-06-01\n   Authors: Andreas Fuchsberger, Nikolas Knaller, Lukas Wind 等\n   https://doi.org/10.1109/led.2026.3683584\n7. [IEEE Electron Device Letters] 2-T Embedded Flash Memory Using Standard 28-nm Logic CMOS Technology\n   关键词：CMOS\n   日期：2026-06-01\n   Authors: Jonghyun Ko, Jeseung Jeong, Jiseong Im 等\n   https://doi.org/10.1109/led.2026.3685316\n8. [IEEE Electron Device Letters] Impact of Measurement Setup on Cryogenic CMOS FET Characterization\n   关键词：FET, CMOS\n   日期：2026-06-01\n   Authors: Jhih-Wei Chen, J. P. Campbell, P. R. Shrestha 等\n   https://doi.org/10.1109/led.2026.3679453",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-08）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [Science Advances] Biofunctionalized polymer semiconductors toward soft and stretchable transistor-based biose…\n   关键词：transistor, semiconductor\n   日期：2026-06-05\n   Authors: Chuanzhen Zhao, Qianhe Liu, Jia-Yuan Chang 等\n   https://doi.org/10.1126/sciadv.aec2641\n2. [arXiv] Barrier-channel intermixing and 2-dimensional electron gas degradation in Al-rich Al(Ga)N/A…\n   关键词：transistor\n   日期：2026-06-03\n   Authors: Pietro Pampili, Vitaly Z. Zubialevich, Badal Mondal 等\n   https://arxiv.org/abs/2606.04842v1\n3. [arXiv] Breaking the width-scaling limit in high-performance atomically thin 2D nanoribbon transist…\n   关键词：transistor\n   日期：2026-06-03\n   Authors: Sameer Kumar Mallik, Adrian Christiansen, Saroj P. Dash\n   https://arxiv.org/abs/2606.04219v1\n4. [arXiv] AlN Gate Interlayer for UWBG AlGaN Transistors with Breakdown Field >6.9 MV/cm and PFOM >1.…\n   关键词：transistor\n   日期：2026-06-02\n   Authors: Seungheon Shin, Jonathan Pratt, Joe McGlone 等\n   https://arxiv.org/abs/2606.02954v1\n5. [arXiv] 20 ps Non-Destructive Read and 1 ns Write Operations at <5 V in Ferroelectric HfO2/ZrO2 Non…\n   关键词：ferroelectric, HfO2\n   日期：2026-06-02\n   Authors: Alexandre Baigol, Ruben Hamming-Green, Paul Uriarte Vicandi 等\n   https://arxiv.org/abs/2606.03677v1\n6. [arXiv] Surface Modification for III-V Selective Area Molecular Beam Epitaxy of Non-Selective Mask …\n   关键词：epitaxy\n   日期：2026-06-01\n   Authors: Ashlee M. García, Byron D. Aguilar, William J. Doyle 等\n   https://arxiv.org/abs/2606.02317v1\n7. [arXiv] Ferroelectric brightening of spin forbidden dark excitons in a WSe2/hybrid perovskite heter…\n   关键词：ferroelectric\n   日期：2026-06-04\n   Authors: Xinyun Wang, Magdalena Grzeszczyk, Maxim Trushin 等\n   https://arxiv.org/abs/2606.06128v1\n8. [arXiv] The KNN rollercoaster: from bulk ceramics to phase engineered wafer-scale thin films\n   关键词：wafer\n   日期：2026-06-04\n   Authors: Giulia Pavese, Federico Orlando, Fabio Melzi 等\n   https://arxiv.org/abs/2606.05974v1",
   "papers": [
-    {
-      "source": "IEEE Electron Device Letters",
-      "uid": "doi:10.1109/led.2026.3684114",
-      "title": "High-Pressure Deuterium Annealing Effect on HfO <sub>2</sub> -Based Gate-All-Around Ferroelectric FET",
-      "url": "https://doi.org/10.1109/led.2026.3684114",
-      "published": "2026-06-01",
-      "authors": [
-        "Min-Jae Choi",
-        "Ju-Won Yeon",
-        "Ji-Man Yu",
-        "Myungsoo Seo",
-        "Min-Ho Kang",
-        "Sheung Hun Kim",
-        "Byung Jin Cho",
-        "Jun-Young Park",
-        "Yang-Kyu Choi"
-      ],
-      "summary": "This work demonstrates high-pressure deuterium annealing (HPDA) to improve the performance and reliability of HfO 2 based gate-all-around ferroelectric FET (GAA-FeFET). HPDA switches device operation from a trapping dominated (TD) clockwise (CW) to an ideal ferroelectric switching dominated (FSD) counter-clockwise (CCW) hysteresis, yielding a maximum memory window (MW) of 1.6 V with significantly reduced device-to-device (D2D) variation. Unlike high-pressure hydrogen annealing (HPHA) which degrades remanent polarization ( ${P}_{r}\\text {)}$ , HPDA enhances $2{P}_{r}$ up to $48~\\mu $ C/cm 2 . X-ray photoelectron spectroscopy (XPS) confirms a reduction in oxygen vacancy (V ${}_{\\!\\text {o}}\\text {)}$ and sub-oxide. Low-frequency noise spectroscopy (LFN) reveals a decrease in interface trap density at HZO/SiO 2 interface ( ${D}_{\\text {it},\\text {HZO}/\\text {SiO}{_{2}}}\\text {)}$ to ${8}\\times {10} ^{{10}}$ cm ${}^{-{2}}$ eV ${}^{-{1}}$ . This improved interface quality results in robust endurance ( $10^{{7}}$ cycles at ±5 V/ $100~\\mu $ s) and retention behavior. These results establish HPDA as a crucial process for reliable, high-performance GAA-FeFET.",
-      "score": 17,
-      "priority": 2,
-      "highlights": [
-        "FET",
-        "GAA",
-        "ferroelectric"
-      ],
-      "abstract_cn": "本工作展示了高压氘退火（high-pressure deuterium annealing, HPDA）用于提升 HfO2 基环栅铁电 FET（gate-all-around ferroelectric FET, GAA-FeFET）的性能和可靠性。HPDA 将器件工作特性从陷阱主导（trapping dominated, TD）的顺时针（clockwise, CW）滞回转变为理想的铁电翻转主导（ferroelectric switching dominated, FSD）逆时针（counter-clockwise, CCW）滞回，实现了 1.6 V 的最大存储窗口（memory window, MW），同时显著降低了器件间（device-to-device, D2D）变化。不同于会降低剩余极化（Pr）的高压氢退火（high-pressure hydrogen annealing, HPHA），HPDA 可将 2Pr 提高至 48 μC/cm2。X 射线光电子能谱（X-ray photoelectron spectroscopy, XPS）证实氧空位（VO）和亚氧化物减少。低频噪声谱（low-frequency noise spectroscopy, LFN）表明 HZO/SiO2 界面的界面陷阱密度（Dit,HZO/SiO2）降低至 8×10^10 cm^-2 eV^-1。这种改善的界面质量带来了稳健的耐久性（在 ±5 V/100 μs 下为 10^7 次循环）和保持特性。这些结果确立了 HPDA 作为可靠、高性能 GAA-FeFET 的关键工艺。",
-      "abstract_zh": "本工作展示了高压氘退火（high-pressure deuterium annealing, HPDA）用于提升 HfO2 基环栅铁电 FET（gate-all-around ferroelectric FET, GAA-FeFET）的性能和可靠性。HPDA 将器件工作特性从陷阱主导（trapping dominated, TD）的顺时针（clockwise, CW）滞回转变为理想的铁电翻转主导（ferroelectric switching dominated, FSD）逆时针（counter-clockwise, CCW）滞回，实现了 1.6 V 的最大存储窗口（memory window, MW），同时显著降低了器件间（device-to-device, D2D）变化。不同于会降低剩余极化（Pr）的高压氢退火（high-pressure hydrogen annealing, HPHA），HPDA 可将 2Pr 提高至 48 μC/cm2。X 射线光电子能谱（X-ray photoelectron spectroscopy, XPS）证实氧空位（VO）和亚氧化物减少。低频噪声谱（low-frequency noise spectroscopy, LFN）表明 HZO/SiO2 界面的界面陷阱密度（Dit,HZO/SiO2）降低至 8×10^10 cm^-2 eV^-1。这种改善的界面质量带来了稳健的耐久性（在 ±5 V/100 μs 下为 10^7 次循环）和保持特性。这些结果确立了 HPDA 作为可靠、高性能 GAA-FeFET 的关键工艺。",
-      "overview_cn": "Focus: FET、GAA / 全环栅、铁电材料.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: High-Pressure Deuterium Annealing Effect on HfO <sub>2</sub> -Based Gate-All-Around Ferroelectr….",
-      "reading_notes": "Focus: FET、GAA / 全环栅、铁电材料.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: High-Pressure Deuterium Annealing Effect on HfO <sub>2</sub> -Based Gate-All-Around Ferroelectr…."
-    },
     {
       "source": "Science Advances",
       "uid": "doi:10.1126/sciadv.aec2641",
@@ -68,170 +38,211 @@
       "reading_notes": "Focus: 晶体管、半导体.\nWhat to check: 性能提升、可靠性与稳定性、接触/互连相关指标.\nContext: Biofunctionalized polymer semiconductors toward soft and stretchable transistor-based biosensors."
     },
     {
-      "source": "IEEE Electron Device Letters",
-      "uid": "doi:10.1109/led.2026.3684004",
-      "title": "Selective-Injection GaN Heterojunction Bipolar Transistors With 275 kA/cm <sup>2</sup> Current Density",
-      "url": "https://doi.org/10.1109/led.2026.3684004",
-      "published": "2026-06-01",
+      "source": "arXiv",
+      "uid": "arxiv:2606.04842v1",
+      "title": "Barrier-channel intermixing and 2-dimensional electron gas degradation in Al-rich Al(Ga)N/AlGaN high electron mobility transistor heterostructures",
+      "url": "https://arxiv.org/abs/2606.04842v1",
+      "published": "2026-06-03",
       "authors": [
-        "Zhanbo Xia",
-        "Chandan Joishi",
-        "Shahadat H. Sohel",
-        "Andy Xie",
-        "Md Saklain Morshed",
-        "Binzhi Liu",
-        "Jinwoo Hwang",
-        "Edward Beam",
-        "Yu Cao",
-        "Siddharth Rajan"
+        "Pietro Pampili",
+        "Vitaly Z. Zubialevich",
+        "Badal Mondal",
+        "Jayjit Mukherjee",
+        "Stefan Schulz",
+        "David A. J. Moran",
+        "Peter J. Parbrook"
       ],
-      "summary": "We design and demonstrate selective injection GaN heterojunction bipolar transistors that utilize a patterned base for selective injection of electrons from the emitter. The design maneuvers minority carrier injection through a thin p-GaN base region, while the majority carrier holes for base current are injected from thick p-GaN regions adjacent to the thin p-GaN base. The design is realized using a regrowth emitter approach with SiO ${}_{\\mathbf {{2}}}$ as a spacer between the emitter layer and the thick p-GaN base contact regions. The fabricated device demonstrated state-of-art output current density (I ${}_{\\text {C},\\max }$ ) ~275 kA/cm ${}^{\\mathbf {{2}}}$ with a current gain ( $\\beta $ ) of 9, and 17 for the planar HBT design (I ${}_{\\text {C},\\max } =150$ kA/cm ${}^{\\mathbf {{2}}}$ ). The reported results highlight the potential of the selective injection design to overcome the persistent GaN HBT design tradeoff between base resistance and current gain, paving the way for next-generation radio frequency and mm-Wave applications.",
-      "score": 11,
-      "priority": 2,
-      "highlights": [
-        "transistor",
-        "GaN"
-      ],
-      "abstract_cn": "我们设计并展示了选择性注入 GaN 异质结双极晶体管，该晶体管利用图形化基区实现从发射极选择性注入电子。该设计通过较薄的 p-GaN 基区调控少数载流子注入，而用于基极电流的多数载流子空穴则从邻近薄 p-GaN 基区的厚 p-GaN 区域注入。该设计采用再生长发射极方法实现，并使用 SiO2 作为发射极层与厚 p-GaN 基极接触区域之间的间隔层。所制备器件展示了最先进水平的输出电流密度（IC,max）约 275 kA/cm2，电流增益（β）为 9；而平面 HBT 设计的 β 为 17（IC,max = 150 kA/cm2）。所报道的结果突出了选择性注入设计在克服 GaN HBT 设计中长期存在的基极电阻与电流增益权衡方面的潜力，为下一代射频和毫米波应用铺平了道路。",
-      "abstract_zh": "我们设计并展示了选择性注入 GaN 异质结双极晶体管，该晶体管利用图形化基区实现从发射极选择性注入电子。该设计通过较薄的 p-GaN 基区调控少数载流子注入，而用于基极电流的多数载流子空穴则从邻近薄 p-GaN 基区的厚 p-GaN 区域注入。该设计采用再生长发射极方法实现，并使用 SiO2 作为发射极层与厚 p-GaN 基极接触区域之间的间隔层。所制备器件展示了最先进水平的输出电流密度（IC,max）约 275 kA/cm2，电流增益（β）为 9；而平面 HBT 设计的 β 为 17（IC,max = 150 kA/cm2）。所报道的结果突出了选择性注入设计在克服 GaN HBT 设计中长期存在的基极电阻与电流增益权衡方面的潜力，为下一代射频和毫米波应用铺平了道路。",
-      "overview_cn": "Focus: 晶体管、GaN.\nWhat to check: 接触/互连相关指标.\nContext: Selective-Injection GaN Heterojunction Bipolar Transistors With 275 kA/cm <sup>2</sup> Current ….",
-      "reading_notes": "Focus: 晶体管、GaN.\nWhat to check: 接触/互连相关指标.\nContext: Selective-Injection GaN Heterojunction Bipolar Transistors With 275 kA/cm <sup>2</sup> Current …."
-    },
-    {
-      "source": "IEEE Electron Device Letters",
-      "uid": "doi:10.1109/led.2026.3685176",
-      "title": "Thickness Scaling and Roughness-Induced Mobility Cliff in Ultra-Thin-Body MOSFETs",
-      "url": "https://doi.org/10.1109/led.2026.3685176",
-      "published": "2026-06-01",
-      "authors": [
-        "Mir Md Fahimul Islam",
-        "In Huh",
-        "Jian-Yu Lin",
-        "Seokyeon Shin",
-        "Youngjoon Lee",
-        "Changwook Jeong",
-        "Peide D. Ye",
-        "Muhammad Ashraful Alam"
-      ],
-      "summary": "For future technology generations, Ultra-thin-body (UTB) MOSFETs are expected to replace classical bulk MOSFETs owing to their superior electrostatic scaling. However, process-control variability, especially under cryogenic operation, has heightened concerns regarding the channel/gate oxide interface. In this regime, interface-induced surface-roughness (SR) scattering becomes increasingly dominant, leading to a sharp roll-off in mobility. In this letter, we present (i) a universal thickness-scaling principle for long-channel mobility ( $\\mu _{c}$ ), validated across multiple transistor technologies, that captures the non-ideal mobility roll-off exponent ( ${n}_{\\text {eff}}$ ) by explicitly accounting for finite potential-well type and confinement, and (ii) a closed-form analytical model that directly extracts the critical thickness ( ${T}_{\\text {crit}}$ ) and the associated critical-mobility trade-off. Overall, this compact and scalable approach quantitatively highlights the need for stringent thickness uniformity to preserve mobility control in next-generation complementary field-effect transistors (CFETs) technology.",
-      "score": 16,
-      "priority": 1,
-      "highlights": [
-        "MOSFET"
-      ],
-      "abstract_cn": "对于未来技术世代，超薄体（ultra-thin-body, UTB）MOSFET 预计将凭借其优越的静电缩放能力取代传统体硅 MOSFET。然而，工艺控制变异性，尤其是在低温工作条件下，加剧了人们对沟道/栅氧化层界面的担忧。在这一工作区域中，界面诱导的表面粗糙度（surface-roughness, SR）散射变得越来越占主导地位，导致迁移率急剧下降。在本文中，我们提出：（i）一种适用于长沟道迁移率（μc）的通用厚度缩放原则，并已在多种晶体管技术中得到验证；该原则通过显式考虑有限势阱类型和限域效应，捕捉非理想迁移率下降指数（neff）；以及（ii）一种闭式解析模型，可直接提取临界厚度（Tcrit）及其相关的临界迁移率权衡。总体而言，这种紧凑且可扩展的方法定量强调了在下一代互补场效应晶体管（complementary field-effect transistors, CFETs）技术中，为保持迁移率控制而严格保证厚度均匀性的必要性。",
-      "abstract_zh": "对于未来技术世代，超薄体（ultra-thin-body, UTB）MOSFET 预计将凭借其优越的静电缩放能力取代传统体硅 MOSFET。然而，工艺控制变异性，尤其是在低温工作条件下，加剧了人们对沟道/栅氧化层界面的担忧。在这一工作区域中，界面诱导的表面粗糙度（surface-roughness, SR）散射变得越来越占主导地位，导致迁移率急剧下降。在本文中，我们提出：（i）一种适用于长沟道迁移率（μc）的通用厚度缩放原则，并已在多种晶体管技术中得到验证；该原则通过显式考虑有限势阱类型和限域效应，捕捉非理想迁移率下降指数（neff）；以及（ii）一种闭式解析模型，可直接提取临界厚度（Tcrit）及其相关的临界迁移率权衡。总体而言，这种紧凑且可扩展的方法定量强调了在下一代互补场效应晶体管（complementary field-effect transistors, CFETs）技术中，为保持迁移率控制而严格保证厚度均匀性的必要性。",
-      "overview_cn": "Focus: MOSFET.\nWhat to check: 先进尺度下的可扩展性.\nContext: Thickness Scaling and Roughness-Induced Mobility Cliff in Ultra-Thin-Body MOSFETs.",
-      "reading_notes": "Focus: MOSFET.\nWhat to check: 先进尺度下的可扩展性.\nContext: Thickness Scaling and Roughness-Induced Mobility Cliff in Ultra-Thin-Body MOSFETs."
-    },
-    {
-      "source": "IEEE Electron Device Letters",
-      "uid": "doi:10.1109/led.2026.3687403",
-      "title": "Demonstration of High-Performance Ultra-Wide Bandgap SrSnO <sub>3</sub> Top-Gated MOSFETs",
-      "url": "https://doi.org/10.1109/led.2026.3687403",
-      "published": "2026-06-01",
-      "authors": [
-        "Junghyun Koo",
-        "Weideng Sun",
-        "Donghwan Kim",
-        "Hongseung Lee",
-        "Chengyu Zhu",
-        "Kiyoung Lee",
-        "Hagyoul Bae",
-        "Bharat Jalan",
-        "Gang Qiu"
-      ],
-      "summary": "We report the demonstration of high-performance top-gated metal–oxide–semiconductor field-effect transistors (MOSFETs) based on the ultra-wide bandgap perovskite oxide SrSnO 3 (SSO). Using hybrid molecular beam epitaxy-grown SSO channels and ALD-deposited HfO 2 gate dielectrics, the devices exhibit field-effect mobility exceeding ${65}{\\,}{\\text {cm}^{{2}}/\\text {V}\\cdot \\text {s}}$ , an on-state current up to ${194}{\\,}\\text {mA/ {mm}}$ , an on/off current ratio above $1\\times 10^{{8}}$ , and a contact resistance of ${1}.{3}{\\,}\\Omega \\!\\cdot \\!\\text {mm}$ . The devices also show a near-ideal subthreshold slope of ${68}{\\,}\\text {mV/ {dec}}$ and negligible hysteresis, indicating a high-quality dielectric/semiconductor interface. These results establish SrSnO 3 as a promising ultra-wide bandgap oxide semiconductor platform for high-performance power electronic applications.",
-      "score": 15,
-      "priority": 1,
-      "highlights": [
-        "MOSFET"
-      ],
-      "abstract_cn": "我们报道了基于超宽带隙钙钛矿氧化物 SrSnO3（SSO）的高性能顶栅金属—氧化物—半导体场效应晶体管（MOSFET）的展示。利用混合分子束外延生长的 SSO 沟道和 ALD 沉积的 HfO2 栅介质，器件表现出超过 65 cm2/V·s 的场效应迁移率、高达 194 mA/mm 的导通态电流、超过 1×10^8 的开关电流比，以及 1.3 Ω·mm 的接触电阻。器件还表现出接近理想的 68 mV/dec 亚阈值摆幅和可忽略的滞回，表明其具有高质量的介质/半导体界面。这些结果确立了 SrSnO3 作为面向高性能功率电子应用的有前景超宽带隙氧化物半导体平台。",
-      "abstract_zh": "我们报道了基于超宽带隙钙钛矿氧化物 SrSnO3（SSO）的高性能顶栅金属—氧化物—半导体场效应晶体管（MOSFET）的展示。利用混合分子束外延生长的 SSO 沟道和 ALD 沉积的 HfO2 栅介质，器件表现出超过 65 cm2/V·s 的场效应迁移率、高达 194 mA/mm 的导通态电流、超过 1×10^8 的开关电流比，以及 1.3 Ω·mm 的接触电阻。器件还表现出接近理想的 68 mV/dec 亚阈值摆幅和可忽略的滞回，表明其具有高质量的介质/半导体界面。这些结果确立了 SrSnO3 作为面向高性能功率电子应用的有前景超宽带隙氧化物半导体平台。",
-      "overview_cn": "Focus: MOSFET.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Demonstration of High-Performance Ultra-Wide Bandgap SrSnO <sub>3</sub> Top-Gated MOSFETs.",
-      "reading_notes": "Focus: MOSFET.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Demonstration of High-Performance Ultra-Wide Bandgap SrSnO <sub>3</sub> Top-Gated MOSFETs."
-    },
-    {
-      "source": "IEEE Electron Device Letters",
-      "uid": "doi:10.1109/led.2026.3683584",
-      "title": "A Reconfigurable Transistor Enabling Adaptive Computing at Cryogenic Temperatures",
-      "url": "https://doi.org/10.1109/led.2026.3683584",
-      "published": "2026-06-01",
-      "authors": [
-        "Andreas Fuchsberger",
-        "Nikolas Knaller",
-        "Lukas Wind",
-        "Viktor Wahler",
-        "Daniele Nazzari",
-        "Walter M. Weber",
-        "Masiar Sistani"
-      ],
-      "summary": "Transistors operable at cryogenic temperatures are essential for the efficient control and readout of qubits. Yet conventional CMOS cannot meet the performance constraints at cryogenic temperatures due to dopant freeze-out and unacceptably high operation voltages. In this context, reconfigurable transistors emerge as a compelling alternative, enabling energy-efficient adaptive digital and analog circuitry at cryogenic temperatures. Here, we demonstrate a doping-free reconfigurable Si transistor with high and symmetric on-currents in both NMOS and PMOS mode at temperatures as low as 4.5 K by replacing doped source/drain regions with gated Schottky junctions. Notably, inverse subthreshold slopes of $\\mathrm {24~\\text {m}\\text {V} /\\text{dec} }$ and $\\mathrm {27~\\text {m}\\text {V} /\\text{dec} }$ for NMOS and PMOS operation, respectively.",
-      "score": 14,
+      "summary": "In this work, we report on recent results in understanding and addressing the issue of interface smearing in high-aluminium content AlGaN/AlGaN heterostructures. On the one hand, the growth of high-crystal quality AlGaN by metal-organic vapour phase epitaxy (MOVPE) requires the use of high temperatures, but on the other hand this may lead to alloy intermixing between barrier and channel layers, which smoothens out the polarization contrast and severely degrades or even completely destroys the 2-dimensional electron gas (2DEG). We show that X-Ray Diffraction (XRD) analysis can be used as a non-destructive way to assess the sharpness of the interface, and that improved growth schemes can be successfully used to achieve high-quality 2DEG, as confirmed by contactless resistivity measurements. In particular, sheet resistivities around 2,500 $Ω/\\Box$ were demonstrated for AlN/Al$_{0.75}$Ga$_{0.25}$N, consistent with the best-reported values in the literature.",
+      "score": 7,
       "priority": 1,
       "highlights": [
         "transistor"
       ],
-      "abstract_cn": "可在低温下工作的晶体管对于量子比特的高效控制和读出至关重要。然而，由于掺杂剂冻结和不可接受的高工作电压，传统 CMOS 无法满足低温下的性能约束。在这一背景下，可重构晶体管成为一种有吸引力的替代方案，能够在低温下实现能量高效的自适应数字和模拟电路。本文通过用栅控肖特基结替代掺杂源/漏区，展示了一种无掺杂可重构 Si 晶体管，该晶体管在低至 4.5 K 的温度下，在 NMOS 和 PMOS 模式中均具有较高且对称的导通电流。值得注意的是，其 NMOS 和 PMOS 工作模式下的反亚阈值斜率分别为 24 mV/dec 和 27 mV/dec。",
-      "abstract_zh": "可在低温下工作的晶体管对于量子比特的高效控制和读出至关重要。然而，由于掺杂剂冻结和不可接受的高工作电压，传统 CMOS 无法满足低温下的性能约束。在这一背景下，可重构晶体管成为一种有吸引力的替代方案，能够在低温下实现能量高效的自适应数字和模拟电路。本文通过用栅控肖特基结替代掺杂源/漏区，展示了一种无掺杂可重构 Si 晶体管，该晶体管在低至 4.5 K 的温度下，在 NMOS 和 PMOS 模式中均具有较高且对称的导通电流。值得注意的是，其 NMOS 和 PMOS 工作模式下的反亚阈值斜率分别为 24 mV/dec 和 27 mV/dec。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、功耗或能效表现、与既有工艺平台的集成价值.\nContext: A Reconfigurable Transistor Enabling Adaptive Computing at Cryogenic Temperatures.",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、功耗或能效表现、与既有工艺平台的集成价值.\nContext: A Reconfigurable Transistor Enabling Adaptive Computing at Cryogenic Temperatures."
+      "abstract_cn": "在本工作中，我们报道了近期在理解和解决高铝含量 AlGaN/AlGaN 异质结构中界面模糊问题方面的结果。一方面，通过金属有机气相外延（metal-organic vapour phase epitaxy, MOVPE）生长高晶体质量 AlGaN 需要使用高温；但另一方面，这可能导致势垒层和沟道层之间发生合金互混，从而削弱极化对比，并严重劣化甚至完全破坏二维电子气（2-dimensional electron gas, 2DEG）。我们表明，X 射线衍射（X-Ray Diffraction, XRD）分析可作为一种无损方法来评估界面锐利程度，并且改进的生长方案可成功用于获得高质量 2DEG，这一点由非接触式电阻率测量得到证实。特别是，对于 AlN/Al0.75Ga0.25N，已实现约 2,500 Ω/□ 的薄层电阻率，与文献中报道的最佳数值一致。",
+      "abstract_zh": "在本工作中，我们报道了近期在理解和解决高铝含量 AlGaN/AlGaN 异质结构中界面模糊问题方面的结果。一方面，通过金属有机气相外延（metal-organic vapour phase epitaxy, MOVPE）生长高晶体质量 AlGaN 需要使用高温；但另一方面，这可能导致势垒层和沟道层之间发生合金互混，从而削弱极化对比，并严重劣化甚至完全破坏二维电子气（2-dimensional electron gas, 2DEG）。我们表明，X 射线衍射（X-Ray Diffraction, XRD）分析可作为一种无损方法来评估界面锐利程度，并且改进的生长方案可成功用于获得高质量 2DEG，这一点由非接触式电阻率测量得到证实。特别是，对于 AlN/Al0.75Ga0.25N，已实现约 2,500 Ω/□ 的薄层电阻率，与文献中报道的最佳数值一致。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升.\nContext: Barrier-channel intermixing and 2-dimensional electron gas degradation in Al-rich Al(Ga)N/AlGaN….",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升.\nContext: Barrier-channel intermixing and 2-dimensional electron gas degradation in Al-rich Al(Ga)N/AlGaN…."
     },
     {
-      "source": "IEEE Electron Device Letters",
-      "uid": "doi:10.1109/led.2026.3685316",
-      "title": "2-T Embedded Flash Memory Using Standard 28-nm Logic CMOS Technology",
-      "url": "https://doi.org/10.1109/led.2026.3685316",
-      "published": "2026-06-01",
+      "source": "arXiv",
+      "uid": "arxiv:2606.04219v1",
+      "title": "Breaking the width-scaling limit in high-performance atomically thin 2D nanoribbon transistors",
+      "url": "https://arxiv.org/abs/2606.04219v1",
+      "published": "2026-06-03",
       "authors": [
-        "Jonghyun Ko",
-        "Jeseung Jeong",
-        "Jiseong Im",
-        "Kyung Min Lee",
-        "Kangwook Choi",
-        "Gyuweon Jung",
-        "Jong-Ho Lee"
+        "Sameer Kumar Mallik",
+        "Adrian Christiansen",
+        "Saroj P. Dash"
       ],
-      "summary": "A 2-transistor (2-T) embedded flash (eflash) memory fully implemented using a 28 nm logic CMOS technology (Samsung 28 nm LPP) is proposed. The proposed 2-T eflash requires no additional process steps. Compared with prior eflash memory employing three or more transistors and requiring program/erase voltages above 6.8 V, the proposed 2-T eflash reduces the device count and lowers the operating voltage to 4.5 V, substantially simplifying the peripheral circuit configuration. Owing to the low-voltage tunneling-based operation, the eflash exhibits high endurance exceeding $10^{{7}}$ cycles and retention characteristics are maintained for up to $10^{{4}}$ s at an elevated temperature of 80°C. While preserving high-performance retention, the proposed eflash achieves endurance exceeding $10^{{7}}$ cycles, showing nearly a two orders of magnitude improvement, compared to conventional flash memory endurance. In addition, selective program and erase operations are demonstrated, enabling precise threshold-voltage tuning in a memory array. These results indicate that the proposed 2-T eflash is a promising candidate for scalable compute-in-memory applications.",
-      "score": 14,
+      "summary": "State-of-the-art transistors have been successfully scaled the gate lengths and channel thicknesses down to 5 nm for high-performance and energy-efficient information processing. However, reducing channel width below 40-50 nm remains a bottleneck, as dangling bonds, edge disorder, and lateral depletion suppress drive current and degrade device performance. Here, we break this width-scaling wall using ultra-scaled two-dimensional semiconductor (2DSC) nanoribbon transistors down to 15 nm. In contrast to the conventional scaling rule of degradation of current density upon width scaling, our atomically-thin monolayer and bilayer molybdenum disulfide nanoribbon transistors exhibit enhancement of on-current density of up to 230% and 170%,respectively, followed by a saturation for the narrowest channels down to 15 nm. The ultra-narrow nanoribbon transistors maintain the highest on/off ratios reported so far for similar device dimensions, with improved mobility and threshold-voltage stability, indicating reduced edge scattering and depletion with a stronger electrostatic control. These findings lead to a breakthrough in width scaling rules using 2DSC nanoribbons with enhanced performance at narrower channel widths, which is promising for the ultimate scaling of transistors.",
+      "score": 7,
       "priority": 1,
       "highlights": [
-        "CMOS"
+        "transistor"
       ],
-      "abstract_cn": "本文提出了一种完全使用 28 nm 逻辑 CMOS 技术（Samsung 28 nm LPP）实现的 2 晶体管（2-T）嵌入式闪存（embedded flash, eflash）。所提出的 2-T eflash 不需要任何额外工艺步骤。与以往采用三个或更多晶体管且需要高于 6.8 V 编程/擦除电压的 eflash 存储器相比，所提出的 2-T eflash 减少了器件数量，并将工作电压降低至 4.5 V，从而大幅简化了外围电路配置。由于采用基于低电压隧穿的工作方式，该 eflash 表现出超过 10^7 次循环的高耐久性，并且在 80°C 的升高温度下可保持长达 10^4 s 的保持特性。在保持高性能保持特性的同时，所提出的 eflash 实现了超过 10^7 次循环的耐久性，与传统闪存耐久性相比，提升了近两个数量级。此外，本文展示了选择性编程和擦除操作，使存储阵列中的阈值电压能够被精确调节。这些结果表明，所提出的 2-T eflash 是可扩展存内计算应用的有前景候选方案。",
-      "abstract_zh": "本文提出了一种完全使用 28 nm 逻辑 CMOS 技术（Samsung 28 nm LPP）实现的 2 晶体管（2-T）嵌入式闪存（embedded flash, eflash）。所提出的 2-T eflash 不需要任何额外工艺步骤。与以往采用三个或更多晶体管且需要高于 6.8 V 编程/擦除电压的 eflash 存储器相比，所提出的 2-T eflash 减少了器件数量，并将工作电压降低至 4.5 V，从而大幅简化了外围电路配置。由于采用基于低电压隧穿的工作方式，该 eflash 表现出超过 10^7 次循环的高耐久性，并且在 80°C 的升高温度下可保持长达 10^4 s 的保持特性。在保持高性能保持特性的同时，所提出的 eflash 实现了超过 10^7 次循环的耐久性，与传统闪存耐久性相比，提升了近两个数量级。此外，本文展示了选择性编程和擦除操作，使存储阵列中的阈值电压能够被精确调节。这些结果表明，所提出的 2-T eflash 是可扩展存内计算应用的有前景候选方案。",
-      "overview_cn": "Focus: CMOS.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: 2-T Embedded Flash Memory Using Standard 28-nm Logic CMOS Technology.",
-      "reading_notes": "Focus: CMOS.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: 2-T Embedded Flash Memory Using Standard 28-nm Logic CMOS Technology."
+      "abstract_cn": "最先进的晶体管已成功将栅长和沟道厚度缩放至 5 nm，用于高性能和高能效的信息处理。然而，将沟道宽度降低到 40–50 nm 以下仍是一个瓶颈，因为悬挂键、边缘无序和横向耗尽会抑制驱动电流并降低器件性能。本文利用宽度低至 15 nm 的超缩放二维半导体（two-dimensional semiconductor, 2DSC）纳米带晶体管突破了这一宽度缩放壁垒。与传统缩放规则中宽度缩放会导致电流密度退化不同，我们的原子级薄单层和双层二硫化钼纳米带晶体管分别表现出最高达 230% 和 170% 的导通电流密度增强，随后在最窄低至 15 nm 的沟道中趋于饱和。这些超窄纳米带晶体管在相似器件尺寸下保持了迄今报道的最高开关比，并具有改善的迁移率和阈值电压稳定性，表明在更强静电控制下边缘散射和耗尽得到降低。这些发现利用 2DSC 纳米带在更窄沟道宽度下实现增强性能，带来了宽度缩放规则上的突破，有望推动晶体管的极限缩放。",
+      "abstract_zh": "最先进的晶体管已成功将栅长和沟道厚度缩放至 5 nm，用于高性能和高能效的信息处理。然而，将沟道宽度降低到 40–50 nm 以下仍是一个瓶颈，因为悬挂键、边缘无序和横向耗尽会抑制驱动电流并降低器件性能。本文利用宽度低至 15 nm 的超缩放二维半导体（two-dimensional semiconductor, 2DSC）纳米带晶体管突破了这一宽度缩放壁垒。与传统缩放规则中宽度缩放会导致电流密度退化不同，我们的原子级薄单层和双层二硫化钼纳米带晶体管分别表现出最高达 230% 和 170% 的导通电流密度增强，随后在最窄低至 15 nm 的沟道中趋于饱和。这些超窄纳米带晶体管在相似器件尺寸下保持了迄今报道的最高开关比，并具有改善的迁移率和阈值电压稳定性，表明在更强静电控制下边缘散射和耗尽得到降低。这些发现利用 2DSC 纳米带在更窄沟道宽度下实现增强性能，带来了宽度缩放规则上的突破，有望推动晶体管的极限缩放。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: Breaking the width-scaling limit in high-performance atomically thin 2D nanoribbon transistors.",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: Breaking the width-scaling limit in high-performance atomically thin 2D nanoribbon transistors."
     },
     {
-      "source": "IEEE Electron Device Letters",
-      "uid": "doi:10.1109/led.2026.3679453",
-      "title": "Impact of Measurement Setup on Cryogenic CMOS FET Characterization",
-      "url": "https://doi.org/10.1109/led.2026.3679453",
-      "published": "2026-06-01",
+      "source": "arXiv",
+      "uid": "arxiv:2606.02954v1",
+      "title": "AlN Gate Interlayer for UWBG AlGaN Transistors with Breakdown Field >6.9 MV/cm and PFOM >1.8 GW/cm2",
+      "url": "https://arxiv.org/abs/2606.02954v1",
+      "published": "2026-06-02",
       "authors": [
-        "Jhih-Wei Chen",
-        "J. P. Campbell",
-        "P. R. Shrestha",
-        "Mau-Chung Frank Chang"
+        "Seungheon Shin",
+        "Jonathan Pratt",
+        "Joe McGlone",
+        "Yinxuan Zhu",
+        "Brianna A. Klein",
+        "Andrew Armstrong",
+        "Andrew A. Allerman",
+        "Siddharth Rajan"
       ],
-      "summary": "Accurate cryogenic device characterization is essential for developing compact models needed to realize scalable quantum control electronics. However, we observe abnormal current-voltage (I-V) characteristics in 16 nm and 28 nm FETs at cryogenic temperatures. It is shown that these abnormalities arise not only from intrinsic device behavior, but also from self-sustained oscillations induced by parasitic LC feedback present in nearly all standard measurements. These abnormalities are exacerbated at low temperatures (due to the increased device gain) and are especially prominent for low loss and high inductance configurations. SPICE simulations incorporating realistic parasitics, combined with high-resolution time-domain measurements, confirm the presence of these oscillations and their impact on the more commonly reported time-averaged I-V characteristics. We demonstrate that using ground-signal-ground (GSG) RF wafer probes effectively suppresses these artifacts by minimizing loop inductance, restoring true device behavior. These results highlight the need for careful test structure and measurement setup design to ensure reliable cryogenic CMOS characterization.",
-      "score": 14,
+      "summary": "We report the demonstration of regrown epitaxial AlN gate interlayers with ultra-wide bandgap (UWBG) AlGaN polarization-graded field effect transistors (PolFETs). The introduction of the epitaxial AlN gate interlayer enables significant improvement in breakdown strength, with average breakdown field exceeding 6.94 MV/cm, which represents state-of-the-art for lateral field effect transistors, while maintaining excellent on-state current density exceeding 1 A/mm. The integration of epitaxial AlN enables state-of-the-art power-switching figure of merit exceeding 1.87 GW/cm2 at a breakdown voltage exceeding 1.45 kV. This work shows the potential of UWBG AlGaN for next-generation high-power switching and RF applications with enhanced device performance established by a high-quality epitaxially regrown AlN gate interlayer.",
+      "score": 5,
       "priority": 1,
       "highlights": [
-        "FET",
-        "CMOS"
+        "transistor"
       ],
-      "abstract_cn": "准确的低温器件表征对于开发紧凑模型至关重要，而这些模型是实现可扩展量子控制电子学所必需的。然而，我们在低温下观察到 16 nm 和 28 nm FET 中存在异常的电流—电压（I-V）特性。结果表明，这些异常不仅源于器件的内禀行为，还源于几乎所有标准测量中存在的寄生 LC 反馈所诱导的自维持振荡。这些异常在低温下会加剧（由于器件增益提高），并且在低损耗和高电感配置中尤其显著。结合真实寄生参数的 SPICE 仿真以及高分辨率时域测量，证实了这些振荡的存在及其对更常报道的时间平均 I-V 特性的影响。我们证明，使用地—信号—地（ground-signal-ground, GSG）射频晶圆探针可通过最小化环路电感有效抑制这些伪影，从而恢复真实的器件行为。这些结果强调，需要仔细设计测试结构和测量装置，以确保可靠的低温 CMOS 表征。",
-      "abstract_zh": "准确的低温器件表征对于开发紧凑模型至关重要，而这些模型是实现可扩展量子控制电子学所必需的。然而，我们在低温下观察到 16 nm 和 28 nm FET 中存在异常的电流—电压（I-V）特性。结果表明，这些异常不仅源于器件的内禀行为，还源于几乎所有标准测量中存在的寄生 LC 反馈所诱导的自维持振荡。这些异常在低温下会加剧（由于器件增益提高），并且在低损耗和高电感配置中尤其显著。结合真实寄生参数的 SPICE 仿真以及高分辨率时域测量，证实了这些振荡的存在及其对更常报道的时间平均 I-V 特性的影响。我们证明，使用地—信号—地（ground-signal-ground, GSG）射频晶圆探针可通过最小化环路电感有效抑制这些伪影，从而恢复真实的器件行为。这些结果强调，需要仔细设计测试结构和测量装置，以确保可靠的低温 CMOS 表征。",
-      "overview_cn": "Focus: FET、CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Impact of Measurement Setup on Cryogenic CMOS FET Characterization.",
-      "reading_notes": "Focus: FET、CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Impact of Measurement Setup on Cryogenic CMOS FET Characterization."
+      "abstract_cn": "我们报道了在超宽带隙（ultra-wide bandgap, UWBG）AlGaN 极化渐变场效应晶体管（polarization-graded field effect transistors, PolFETs）中实现再生长外延 AlN 栅界面层。引入外延 AlN 栅界面层显著提升了击穿强度，平均击穿场超过 6.94 MV/cm，代表了横向场效应晶体管的最先进水平，同时保持了超过 1 A/mm 的优异导通态电流密度。集成外延 AlN 后，在击穿电压超过 1.45 kV 时，实现了超过 1.87 GW/cm2 的最先进功率开关品质因数。本工作展示了 UWBG AlGaN 在下一代高功率开关和射频应用中的潜力，其增强的器件性能由高质量外延再生长 AlN 栅界面层所确立。",
+      "abstract_zh": "我们报道了在超宽带隙（ultra-wide bandgap, UWBG）AlGaN 极化渐变场效应晶体管（polarization-graded field effect transistors, PolFETs）中实现再生长外延 AlN 栅界面层。引入外延 AlN 栅界面层显著提升了击穿强度，平均击穿场超过 6.94 MV/cm，代表了横向场效应晶体管的最先进水平，同时保持了超过 1 A/mm 的优异导通态电流密度。集成外延 AlN 后，在击穿电压超过 1.45 kV 时，实现了超过 1.87 GW/cm2 的最先进功率开关品质因数。本工作展示了 UWBG AlGaN 在下一代高功率开关和射频应用中的潜力，其增强的器件性能由高质量外延再生长 AlN 栅界面层所确立。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: AlN Gate Interlayer for UWBG AlGaN Transistors with Breakdown Field >6.9 MV/cm and PFOM >1.8 GW….",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: AlN Gate Interlayer for UWBG AlGaN Transistors with Breakdown Field >6.9 MV/cm and PFOM >1.8 GW…."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2606.03677v1",
+      "title": "20 ps Non-Destructive Read and 1 ns Write Operations at <5 V in Ferroelectric HfO2/ZrO2 Non-Volatile Memories",
+      "url": "https://arxiv.org/abs/2606.03677v1",
+      "published": "2026-06-02",
+      "authors": [
+        "Alexandre Baigol",
+        "Ruben Hamming-Green",
+        "Paul Uriarte Vicandi",
+        "Jiajie Gao",
+        "Till Zellweger",
+        "Anwesha Panda",
+        "Alexandros Emboras",
+        "Miklós Csontos",
+        "Mathieu Luisier",
+        "Beatriz Noheda",
+        "Laura Bégon-Lours"
+      ],
+      "summary": "Achieving low-voltage, nanosecond multi-level programming and non-destructive read-out of ferroelectric non-volatile memories (NVM) is critical for analog in-memory computing architectures relying on ferroelectric capacitive devices (FeCap). We integrate HfO2/ZrO2 ferroelectric nanolayers concurrently in the BEOL of CMOS and on SiO2/Si, achieving nanosecond multilevel switching with programming voltages below 5 V. Partial ferroelectric switching enhances FeCap endurance above 1011 cycles, leading to MemCapacitance (MC) states with non-destructive read-out and 10-year retention. However, experiments reveal the collapse of the MC window for read frequencies above 1 MHz. To overcome this speed limit, we introduce a novel, non-destructive readout methodology. Using electrical pulses with widths down to 20 ps, below the RC time constant of the FeCaps, we enable measurement of the polarization-dependent leakage current, providing ultrafast and non-destructive read operations at only 14 fJ.",
+      "score": 8,
+      "priority": 0,
+      "highlights": [
+        "ferroelectric",
+        "HfO2"
+      ],
+      "abstract_cn": "实现铁电非易失性存储器（non-volatile memories, NVM）的低电压、纳秒级多级编程和非破坏性读出，对于依赖铁电电容器件（ferroelectric capacitive devices, FeCap）的模拟存内计算架构至关重要。我们在 CMOS 后道工艺（back-end-of-line, BEOL）以及 SiO2/Si 上同时集成 HfO2/ZrO2 铁电纳米层，实现了编程电压低于 5 V 的纳秒级多级翻转。部分铁电翻转将 FeCap 耐久性提升至超过 10^11 次循环，形成具有非破坏性读出和 10 年保持能力的忆电容（MemCapacitance, MC）状态。然而，实验显示，当读取频率高于 1 MHz 时，MC 窗口会发生塌缩。为克服这一速度限制，我们引入了一种新的非破坏性读出方法。通过使用宽度低至 20 ps、低于 FeCap RC 时间常数的电脉冲，我们能够测量与极化相关的漏电流，从而以仅 14 fJ 的能量实现超快且非破坏性的读操作。",
+      "abstract_zh": "实现铁电非易失性存储器（non-volatile memories, NVM）的低电压、纳秒级多级编程和非破坏性读出，对于依赖铁电电容器件（ferroelectric capacitive devices, FeCap）的模拟存内计算架构至关重要。我们在 CMOS 后道工艺（back-end-of-line, BEOL）以及 SiO2/Si 上同时集成 HfO2/ZrO2 铁电纳米层，实现了编程电压低于 5 V 的纳秒级多级翻转。部分铁电翻转将 FeCap 耐久性提升至超过 10^11 次循环，形成具有非破坏性读出和 10 年保持能力的忆电容（MemCapacitance, MC）状态。然而，实验显示，当读取频率高于 1 MHz 时，MC 窗口会发生塌缩。为克服这一速度限制，我们引入了一种新的非破坏性读出方法。通过使用宽度低至 20 ps、低于 FeCap RC 时间常数的电脉冲，我们能够测量与极化相关的漏电流，从而以仅 14 fJ 的能量实现超快且非破坏性的读操作。",
+      "overview_cn": "Focus: 铁电材料、HfO2.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: 20 ps Non-Destructive Read and 1 ns Write Operations at <5 V in Ferroelectric HfO2/ZrO2 Non-Vol….",
+      "reading_notes": "Focus: 铁电材料、HfO2.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: 20 ps Non-Destructive Read and 1 ns Write Operations at <5 V in Ferroelectric HfO2/ZrO2 Non-Vol…."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2606.02317v1",
+      "title": "Surface Modification for III-V Selective Area Molecular Beam Epitaxy of Non-Selective Mask Materials",
+      "url": "https://arxiv.org/abs/2606.02317v1",
+      "published": "2026-06-01",
+      "authors": [
+        "Ashlee M. García",
+        "Byron D. Aguilar",
+        "William J. Doyle",
+        "Pernille Undrum Fathi",
+        "Federico Capasso",
+        "Daniel Wasserman",
+        "Seth R. Bank"
+      ],
+      "summary": "Selective-area embedded regrowth of III-V semiconductors by molecular beam epitaxy enables the seamless integration of metals and dielectrics into crystalline material for novel design of optoelectronic devices. However, traditional masks like $SiO_2$ and $Si_{3}N_{4}$ limit the design of high-contrast photonics in the infrared due to their high extinction coefficients at technologically relevant wavelengths. Consequently, there is a need to explore alternative mask materials to expand the selective area molecular beam epitaxy capabilities beyond those traditionally used. This study evaluates the deposition selectivity of the alternative materials $Al_{2}O_{3}$, $TiO_2$, and $HfO_2$, films with preferable spectral responses but higher surface reactivity. It was found that $Al_{2}O_{3}$ exhibits promising selective growth characteristics within typical GaAs growth temperatures, $HfO_2$ demonstrated a high non-selectivity dominated by Ga adsorption on the mask at temperatures up to 650 $^\\circ$C, and $TiO_2$ proved reactive during deposition. To achieve selective growth of highly non-selective and even reactive mask materials, a surface modification technique was employed to improve the selective growth characteristics of any given film. Selective growth of $Si_{3}N_{4}$ and $TiO_2$ films was achieved with the application of a thin $SiO_2$ capping layer utilizing growth conditions typical of the GaAs/$SiO_2$ system. The relationship between the thickness of $SiO_2$ caps and growth selectivity was examined, revealing that sub-1 nm capping layers can significantly influence the mask surface chemistry, indicating that by depositing a thin layer of $SiO_2$, $SiO_2$-like selectivity for any mask material can be realized without degrading its optical response.",
+      "score": 8,
+      "priority": 0,
+      "highlights": [
+        "epitaxy"
+      ],
+      "abstract_cn": "通过分子束外延对 III-V 族半导体进行选择区域嵌入式再生长，可将金属和介质无缝集成到晶体材料中，用于光电子器件的新型设计。然而，SiO2 和 Si3N4 等传统掩膜材料由于在技术相关波长处具有较高消光系数，限制了红外高对比度光子器件的设计。因此，有必要探索替代掩膜材料，以将选择区域分子束外延能力扩展到传统材料之外。本研究评估了替代材料 Al2O3、TiO2 和 HfO2 的沉积选择性，这些薄膜具有更理想的光谱响应，但表面反应性更高。研究发现，在典型 GaAs 生长温度范围内，Al2O3 表现出有前景的选择性生长特性；HfO2 在最高 650 °C 的温度下表现出很高的非选择性，主要由掩膜上的 Ga 吸附主导；而 TiO2 在沉积过程中表现出反应性。为实现高度非选择性甚至反应性掩膜材料的选择性生长，本文采用了一种表面改性技术，以改善任意给定薄膜的选择性生长特性。通过施加一层薄 SiO2 覆盖层，并利用 GaAs/SiO2 体系的典型生长条件，实现了 Si3N4 和 TiO2 薄膜上的选择性生长。本文考察了 SiO2 覆盖层厚度与生长选择性之间的关系，发现亚 1 nm 覆盖层即可显著影响掩膜表面化学，表明通过沉积一层薄 SiO2，可在不削弱其光学响应的情况下，为任意掩膜材料实现类似 SiO2 的选择性。",
+      "abstract_zh": "通过分子束外延对 III-V 族半导体进行选择区域嵌入式再生长，可将金属和介质无缝集成到晶体材料中，用于光电子器件的新型设计。然而，SiO2 和 Si3N4 等传统掩膜材料由于在技术相关波长处具有较高消光系数，限制了红外高对比度光子器件的设计。因此，有必要探索替代掩膜材料，以将选择区域分子束外延能力扩展到传统材料之外。本研究评估了替代材料 Al2O3、TiO2 和 HfO2 的沉积选择性，这些薄膜具有更理想的光谱响应，但表面反应性更高。研究发现，在典型 GaAs 生长温度范围内，Al2O3 表现出有前景的选择性生长特性；HfO2 在最高 650 °C 的温度下表现出很高的非选择性，主要由掩膜上的 Ga 吸附主导；而 TiO2 在沉积过程中表现出反应性。为实现高度非选择性甚至反应性掩膜材料的选择性生长，本文采用了一种表面改性技术，以改善任意给定薄膜的选择性生长特性。通过施加一层薄 SiO2 覆盖层，并利用 GaAs/SiO2 体系的典型生长条件，实现了 Si3N4 和 TiO2 薄膜上的选择性生长。本文考察了 SiO2 覆盖层厚度与生长选择性之间的关系，发现亚 1 nm 覆盖层即可显著影响掩膜表面化学，表明通过沉积一层薄 SiO2，可在不削弱其光学响应的情况下，为任意掩膜材料实现类似 SiO2 的选择性。",
+      "overview_cn": "Focus: epitaxy.\nWhat to check: 性能提升、先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Surface Modification for III-V Selective Area Molecular Beam Epitaxy of Non-Selective Mask Mate….",
+      "reading_notes": "Focus: epitaxy.\nWhat to check: 性能提升、先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Surface Modification for III-V Selective Area Molecular Beam Epitaxy of Non-Selective Mask Mate…."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2606.06128v1",
+      "title": "Ferroelectric brightening of spin forbidden dark excitons in a WSe2/hybrid perovskite heterostructure",
+      "url": "https://arxiv.org/abs/2606.06128v1",
+      "published": "2026-06-04",
+      "authors": [
+        "Xinyun Wang",
+        "Magdalena Grzeszczyk",
+        "Maxim Trushin",
+        "Ivan Verzhbitskiy",
+        "Dmitrii Litvinov",
+        "Yi Wei Ho",
+        "Yuan Chen",
+        "Zhenyue Wu",
+        "Mykola Telychko",
+        "Chuanqi Zhang",
+        "Andres Granados del Aguila",
+        "Kuan Eng Johnson Goh",
+        "Xinwei Li",
+        "Goki Eda",
+        "Shaffique Adam",
+        "Maciej Koperski",
+        "Kian Ping Loh"
+      ],
+      "summary": "Long-lived dark excitons in monolayer WSe2 present promising candidates for carrying spin and valley information, but their optical access and spin manipulation have conventionally required the use of strong external magnetic fields. Here, using a ferroelectric hybrid perovskite heterostructure, we leverage the ferroelectric proximity effect to break the WSe2's in-plane rotational symmetry and brighten the spin-forbidden dark excitons under zero magnetic field conditions. Furthermore, we show that the twist angle between the WSe2 and perovskite crystals controls the ferroelectric coupling strength and valley-contrasting polarization. Our proposed mechanism, supported by a four-band tight-binding model, suggests that the ferroelectric proximity effect induces an asymmetric intersublattice interaction, generating an effective in-plane spin-orbit coupling (SOC) field that rotates spin/valley polarization and brightens dark excitons. Our work establishes ferroelectric proximity coupling as an electrically reconfigurable, magnetic-field-free strategy for spin exciton control in two-dimensional semiconductors.",
+      "score": 5,
+      "priority": 0,
+      "highlights": [
+        "ferroelectric"
+      ],
+      "abstract_cn": "单层 WSe2 中长寿命暗激子是携带自旋和谷信息的有前景候选者，但其光学访问和自旋操控传统上需要使用强外部磁场。本文利用一种铁电杂化钙钛矿异质结构，借助铁电邻近效应打破 WSe2 的面内旋转对称性，并在零磁场条件下亮化自旋禁戒暗激子。此外，我们表明 WSe2 与钙钛矿晶体之间的扭转角可控制铁电耦合强度和谷反差极化。我们提出的机制由四能带紧束缚模型支持，表明铁电邻近效应会诱导非对称的子晶格间相互作用，产生一个有效的面内自旋—轨道耦合（spin-orbit coupling, SOC）场，从而旋转自旋/谷极化并亮化暗激子。本工作确立了铁电邻近耦合作为二维半导体中自旋激子控制的一种电可重构、无磁场策略。",
+      "abstract_zh": "单层 WSe2 中长寿命暗激子是携带自旋和谷信息的有前景候选者，但其光学访问和自旋操控传统上需要使用强外部磁场。本文利用一种铁电杂化钙钛矿异质结构，借助铁电邻近效应打破 WSe2 的面内旋转对称性，并在零磁场条件下亮化自旋禁戒暗激子。此外，我们表明 WSe2 与钙钛矿晶体之间的扭转角可控制铁电耦合强度和谷反差极化。我们提出的机制由四能带紧束缚模型支持，表明铁电邻近效应会诱导非对称的子晶格间相互作用，产生一个有效的面内自旋—轨道耦合（spin-orbit coupling, SOC）场，从而旋转自旋/谷极化并亮化暗激子。本工作确立了铁电邻近耦合作为二维半导体中自旋激子控制的一种电可重构、无磁场策略。",
+      "overview_cn": "Focus: 铁电材料.\nWhat to check: 效率/耦合表现.\nContext: Ferroelectric brightening of spin forbidden dark excitons in a WSe2/hybrid perovskite heterostr….",
+      "reading_notes": "Focus: 铁电材料.\nWhat to check: 效率/耦合表现.\nContext: Ferroelectric brightening of spin forbidden dark excitons in a WSe2/hybrid perovskite heterostr…."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2606.05974v1",
+      "title": "The KNN rollercoaster: from bulk ceramics to phase engineered wafer-scale thin films",
+      "url": "https://arxiv.org/abs/2606.05974v1",
+      "published": "2026-06-04",
+      "authors": [
+        "Giulia Pavese",
+        "Federico Orlando",
+        "Fabio Melzi",
+        "Walter Piazzi",
+        "Andrea Pescarolo",
+        "Federico Maspero",
+        "Marco Asa",
+        "Riccardo Gianola",
+        "Andrea Picco",
+        "Andrea Serafini",
+        "Kui Yao",
+        "Silvia Picozzi",
+        "Laura Castoldi",
+        "Miguel-Ángel Badillo-Ávila",
+        "Riccardo Bertacco"
+      ],
+      "summary": "Since the initial disclosure of the extraordinary piezoelectric coefficients of Potassium sodium niobate (KNN) in near-equimolar bulk ceramics, its development trajectory has resembled a rollercoaster, with its integration into microelectronics severely lagging due to thermodynamic stability issues and poor planar process compatibility. In this work, we revisit the bulk-derived phase diagram for the specific case of thin films integrated on silicon. By systematically investigating Mn-doped K1-xNaxNbO3 films grown on 8-inch wafers, we demonstrate that the optimal stoichiometry for thin films fundamentally diverges from the bulk equimolar standard. A Na-rich composition (> 70 at.%) is required to overcome substrate-induced constraints, effectively suppressing pyrochlore formation and chemical phase segregation while promoting dense columnar growth with a complete (001) out-of-plane polar orientation. Consequently, Na-rich films deliver outstanding functional properties, reaching remanent polarizations up to 14 uC cm-2, with piezoelectric coefficients of d33f= 79 pm/V and e31f = 10 C/m2. Supported by Density Functional Theory simulations, we correlate this enhancement with improved stability and a strain-driven structural reorientation toward a lower-symmetry monoclinic phase with tilted polarization. By redefining the phase engineering rules for wafer-scale thin films, our results establish a clear route toward KNN integration in microsystems.",
+      "score": 5,
+      "priority": 0,
+      "highlights": [
+        "wafer"
+      ],
+      "abstract_cn": "自近等摩尔体相陶瓷中铌酸钾钠（potassium sodium niobate, KNN）异常高压电系数首次披露以来，其发展轨迹就像过山车一样起伏不定；由于热力学稳定性问题和平面工艺兼容性较差，其与微电子学的集成严重滞后。在本工作中，我们针对集成在硅上的薄膜这一特定情况，重新审视了源自体相的相图。通过系统研究在 8 英寸晶圆上生长的 Mn 掺杂 K1−xNaxNbO3 薄膜，我们证明薄膜的最优化学计量从根本上偏离了体相近等摩尔标准。为克服衬底诱导的约束，需要富 Na 组分（> 70 at.%），这可有效抑制烧绿石形成和化学相分离，同时促进致密柱状生长并形成完整的 (001) 面外极性取向。因此，富 Na 薄膜表现出优异的功能性质，剩余极化最高达到 14 μC cm−2，压电系数达到 d33f = 79 pm/V 和 e31f = 10 C/m2。在密度泛函理论模拟的支持下，我们将这种增强与稳定性的提高以及应变驱动的结构重取向联系起来；这种重取向使结构转向具有倾斜极化的较低对称性单斜相。通过重新定义晶圆级薄膜的相工程规则，我们的结果为 KNN 在微系统中的集成确立了一条清晰路径。",
+      "abstract_zh": "自近等摩尔体相陶瓷中铌酸钾钠（potassium sodium niobate, KNN）异常高压电系数首次披露以来，其发展轨迹就像过山车一样起伏不定；由于热力学稳定性问题和平面工艺兼容性较差，其与微电子学的集成严重滞后。在本工作中，我们针对集成在硅上的薄膜这一特定情况，重新审视了源自体相的相图。通过系统研究在 8 英寸晶圆上生长的 Mn 掺杂 K1−xNaxNbO3 薄膜，我们证明薄膜的最优化学计量从根本上偏离了体相近等摩尔标准。为克服衬底诱导的约束，需要富 Na 组分（> 70 at.%），这可有效抑制烧绿石形成和化学相分离，同时促进致密柱状生长并形成完整的 (001) 面外极性取向。因此，富 Na 薄膜表现出优异的功能性质，剩余极化最高达到 14 μC cm−2，压电系数达到 d33f = 79 pm/V 和 e31f = 10 C/m2。在密度泛函理论模拟的支持下，我们将这种增强与稳定性的提高以及应变驱动的结构重取向联系起来；这种重取向使结构转向具有倾斜极化的较低对称性单斜相。通过重新定义晶圆级薄膜的相工程规则，我们的结果为 KNN 在微系统中的集成确立了一条清晰路径。",
+      "overview_cn": "Focus: wafer.\nWhat to check: 性能提升、可靠性与稳定性、与既有工艺平台的集成价值.\nContext: The KNN rollercoaster: from bulk ceramics to phase engineered wafer-scale thin films.",
+      "reading_notes": "Focus: wafer.\nWhat to check: 性能提升、可靠性与稳定性、与既有工艺平台的集成价值.\nContext: The KNN rollercoaster: from bulk ceramics to phase engineered wafer-scale thin films."
     }
   ],
   "errors": [],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-06-07T00:30:00+00:00"
+  "generated_at": "2026-06-08T00:30:00+00:00"
 }
