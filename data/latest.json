@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 0,
+  "new_count": 3,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-08）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [Science Advances] Biofunctionalized polymer semiconductors toward soft and stretchable transistor-based biose…\n   关键词：transistor, semiconductor\n   日期：2026-06-05\n   Authors: Chuanzhen Zhao, Qianhe Liu, Jia-Yuan Chang 等\n   https://doi.org/10.1126/sciadv.aec2641\n2. [arXiv] Barrier-channel intermixing and 2-dimensional electron gas degradation in Al-rich Al(Ga)N/A…\n   关键词：transistor\n   日期：2026-06-03\n   Authors: Pietro Pampili, Vitaly Z. Zubialevich, Badal Mondal 等\n   https://arxiv.org/abs/2606.04842v1\n3. [arXiv] Breaking the width-scaling limit in high-performance atomically thin 2D nanoribbon transist…\n   关键词：transistor\n   日期：2026-06-03\n   Authors: Sameer Kumar Mallik, Adrian Christiansen, Saroj P. Dash\n   https://arxiv.org/abs/2606.04219v1\n4. [arXiv] AlN Gate Interlayer for UWBG AlGaN Transistors with Breakdown Field >6.9 MV/cm and PFOM >1.…\n   关键词：transistor\n   日期：2026-06-02\n   Authors: Seungheon Shin, Jonathan Pratt, Joe McGlone 等\n   https://arxiv.org/abs/2606.02954v1\n5. [arXiv] 20 ps Non-Destructive Read and 1 ns Write Operations at <5 V in Ferroelectric HfO2/ZrO2 Non…\n   关键词：ferroelectric, HfO2\n   日期：2026-06-02\n   Authors: Alexandre Baigol, Ruben Hamming-Green, Paul Uriarte Vicandi 等\n   https://arxiv.org/abs/2606.03677v1\n6. [arXiv] Surface Modification for III-V Selective Area Molecular Beam Epitaxy of Non-Selective Mask …\n   关键词：epitaxy\n   日期：2026-06-01\n   Authors: Ashlee M. García, Byron D. Aguilar, William J. Doyle 等\n   https://arxiv.org/abs/2606.02317v1\n7. [arXiv] Ferroelectric brightening of spin forbidden dark excitons in a WSe2/hybrid perovskite heter…\n   关键词：ferroelectric\n   日期：2026-06-04\n   Authors: Xinyun Wang, Magdalena Grzeszczyk, Maxim Trushin 等\n   https://arxiv.org/abs/2606.06128v1\n8. [arXiv] The KNN rollercoaster: from bulk ceramics to phase engineered wafer-scale thin films\n   关键词：wafer\n   日期：2026-06-04\n   Authors: Giulia Pavese, Federico Orlando, Fabio Melzi 等\n   https://arxiv.org/abs/2606.05974v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-09）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 3 篇；Intel/TSMC 重点 1 篇\n1. ⭐ [arXiv] Driving Exchange Interaction in Spin Qubits with Quasi-Zero Pulses\n   关键词：Intel\n   日期：2026-06-06\n   Authors: Julian D. Teske, Remy L. Delva, Shobhan Kulshreshtha 等\n   https://arxiv.org/abs/2606.07472v1\n2. [Nature Materials] Ultralow-voltage electrochemical organic light-emitting transistors with pinned and wide la…\n   关键词：transistor\n   日期：2026-06-08\n   https://www.nature.com/articles/s41563-026-02613-7\n3. [arXiv] Characterization of Nonlinear Dynamics in Semiconductors in Frequency Domain using Modulate…\n   关键词：semiconductor\n   日期：2026-06-05\n   Authors: Attia Awan, Rong Tang, Zhou Kang 等\n   https://arxiv.org/abs/2606.06952v1",
   "papers": [
     {
       "source": "Science Advances",
@@ -39,6 +39,52 @@
     },
     {
       "source": "arXiv",
+      "uid": "arxiv:2606.07472v1",
+      "title": "Driving Exchange Interaction in Spin Qubits with Quasi-Zero Pulses",
+      "url": "https://arxiv.org/abs/2606.07472v1",
+      "published": "2026-06-06",
+      "authors": [
+        "Julian D. Teske",
+        "Remy L. Delva",
+        "Shobhan Kulshreshtha",
+        "Yuval Baum",
+        "Florian Luthi",
+        "Fahd A. Mohiyaddin",
+        "Rostyslav Savytskyy",
+        "Thomas Watson",
+        "Pranav S. Mundada"
+      ],
+      "summary": "The implementation of high-fidelity quantum gates for spin qubits requires accurate control of exchange interactions between electrons confined in quantum dots, but pulse distortions can limit this control accuracy. Although linear-dynamical distortions can be compensated for by appropriately convolving the control signal, determining the necessary convolution requires detailed knowledge of the distortion's transfer function, and therefore the calibration of numerous parameters. Alternatively, control pulses can be designed to have a net-zero time integral canceling out linear-dynamical pulse distortions. We generalize net-zero pulse designs to quasi-zero pulses allowing net-positive but reduced time integrals. Using these pulse designs, we systematically develop complete gate sets for exchange-only qubits, and study the resulting tradeoffs between pulse duration, fidelity, and the required number of tunable parameters, both in simulation and experiment. We benchmark the optimized gate pulses on Intel's Tunnel Falls six-dot device and show they achieve fidelities similar to those obtained with a full filtering approach, with identical pulse durations and fewer tuning parameters. This reduction in complexity opens the door to fast and easily automated calibration schemes compatible with large-scale commercial quantum devices.",
+      "score": 8,
+      "priority": 2,
+      "highlights": [
+        "Intel"
+      ],
+      "abstract_cn": "实现自旋量子比特的高保真量子门，需要精确控制限域在量子点中电子之间的交换相互作用，但脉冲畸变可能限制这种控制精度。尽管线性动力学畸变可以通过对控制信号进行适当卷积来补偿，但确定所需卷积需要对畸变的传递函数有详细了解，因此需要校准大量参数。另一种方法是将控制脉冲设计为具有净零时间积分，从而抵消线性动力学脉冲畸变。我们将净零脉冲设计推广到准零脉冲，使其允许净正但降低的时间积分。利用这些脉冲设计，我们系统地开发了仅交换量子比特的完整门集，并在仿真和实验中研究了由此产生的脉冲持续时间、保真度和所需可调参数数量之间的权衡。我们在 Intel 的 Tunnel Falls 六量子点器件上对优化后的门脉冲进行了基准测试，并表明它们在相同脉冲持续时间和更少调谐参数下，实现了与完整滤波方法相近的保真度。这种复杂度降低为快速且易于自动化的校准方案打开了道路，并可兼容大规模商用量子器件。",
+      "abstract_zh": "实现自旋量子比特的高保真量子门，需要精确控制限域在量子点中电子之间的交换相互作用，但脉冲畸变可能限制这种控制精度。尽管线性动力学畸变可以通过对控制信号进行适当卷积来补偿，但确定所需卷积需要对畸变的传递函数有详细了解，因此需要校准大量参数。另一种方法是将控制脉冲设计为具有净零时间积分，从而抵消线性动力学脉冲畸变。我们将净零脉冲设计推广到准零脉冲，使其允许净正但降低的时间积分。利用这些脉冲设计，我们系统地开发了仅交换量子比特的完整门集，并在仿真和实验中研究了由此产生的脉冲持续时间、保真度和所需可调参数数量之间的权衡。我们在 Intel 的 Tunnel Falls 六量子点器件上对优化后的门脉冲进行了基准测试，并表明它们在相同脉冲持续时间和更少调谐参数下，实现了与完整滤波方法相近的保真度。这种复杂度降低为快速且易于自动化的校准方案打开了道路，并可兼容大规模商用量子器件。",
+      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Driving Exchange Interaction in Spin Qubits with Quasi-Zero Pulses.",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Driving Exchange Interaction in Spin Qubits with Quasi-Zero Pulses."
+    },
+    {
+      "source": "Nature Materials",
+      "uid": "Nature Materials:10.1038/s41563-026-02613-7",
+      "title": "Ultralow-voltage electrochemical organic light-emitting transistors with pinned and wide lateral recombination",
+      "url": "https://www.nature.com/articles/s41563-026-02613-7",
+      "published": "2026-06-08",
+      "authors": [],
+      "summary": "Nature Materials, Published online: 08 June 2026; doi:10.1038/s41563-026-02613-7 Organic light-emitting transistors require a large operating voltage and exhibit a narrow recombination zone, owing to inefficient charge injection. By incorporating an ion transport enhancer into light-emitting polymers, organic light-emitting transistors achieving <3.5-V voltage operation and a maximum recombination zone width of ~267 µm are realized.",
+      "score": 7,
+      "priority": 1,
+      "highlights": [
+        "transistor"
+      ],
+      "abstract_cn": "《Nature Materials》，在线发表：2026年6月8日；doi:10.1038/s41563-026-02613-7。由于电荷注入效率较低，有机发光晶体管需要较高的工作电压，并表现出较窄的复合区。通过在发光聚合物中引入离子传输增强剂，实现了工作电压低于 3.5 V、最大复合区宽度约为 267 µm 的有机发光晶体管。",
+      "abstract_zh": "《Nature Materials》，在线发表：2026年6月8日；doi:10.1038/s41563-026-02613-7。由于电荷注入效率较低，有机发光晶体管需要较高的工作电压，并表现出较窄的复合区。通过在发光聚合物中引入离子传输增强剂，实现了工作电压低于 3.5 V、最大复合区宽度约为 267 µm 的有机发光晶体管。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、效率/耦合表现.\nContext: Ultralow-voltage electrochemical organic light-emitting transistors with pinned and wide latera….",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、效率/耦合表现.\nContext: Ultralow-voltage electrochemical organic light-emitting transistors with pinned and wide latera…."
+    },
+    {
+      "source": "arXiv",
       "uid": "arxiv:2606.04842v1",
       "title": "Barrier-channel intermixing and 2-dimensional electron gas degradation in Al-rich Al(Ga)N/AlGaN high electron mobility transistor heterostructures",
       "url": "https://arxiv.org/abs/2606.04842v1",
@@ -58,8 +104,8 @@
       "highlights": [
         "transistor"
       ],
-      "abstract_cn": "在本工作中，我们报道了近期在理解和解决高铝含量 AlGaN/AlGaN 异质结构中界面模糊问题方面的结果。一方面，通过金属有机气相外延（metal-organic vapour phase epitaxy, MOVPE）生长高晶体质量 AlGaN 需要使用高温；但另一方面，这可能导致势垒层和沟道层之间发生合金互混，从而削弱极化对比，并严重劣化甚至完全破坏二维电子气（2-dimensional electron gas, 2DEG）。我们表明，X 射线衍射（X-Ray Diffraction, XRD）分析可作为一种无损方法来评估界面锐利程度，并且改进的生长方案可成功用于获得高质量 2DEG，这一点由非接触式电阻率测量得到证实。特别是，对于 AlN/Al0.75Ga0.25N，已实现约 2,500 Ω/□ 的薄层电阻率，与文献中报道的最佳数值一致。",
-      "abstract_zh": "在本工作中，我们报道了近期在理解和解决高铝含量 AlGaN/AlGaN 异质结构中界面模糊问题方面的结果。一方面，通过金属有机气相外延（metal-organic vapour phase epitaxy, MOVPE）生长高晶体质量 AlGaN 需要使用高温；但另一方面，这可能导致势垒层和沟道层之间发生合金互混，从而削弱极化对比，并严重劣化甚至完全破坏二维电子气（2-dimensional electron gas, 2DEG）。我们表明，X 射线衍射（X-Ray Diffraction, XRD）分析可作为一种无损方法来评估界面锐利程度，并且改进的生长方案可成功用于获得高质量 2DEG，这一点由非接触式电阻率测量得到证实。特别是，对于 AlN/Al0.75Ga0.25N，已实现约 2,500 Ω/□ 的薄层电阻率，与文献中报道的最佳数值一致。",
+      "abstract_cn": "在本工作中，我们报道了近期在理解和解决高铝含量 AlGaN/AlGaN 异质结构中界面模糊问题方面的结果。一方面，通过金属有机气相外延（metal-organic vapour phase epitaxy, MOVPE）生长高晶体质量 AlGaN 需要使用高温；但另一方面，这可能导致势垒层和沟道层之间发生合金互混，从而削弱极化对比，并严重劣化甚至完全破坏二维电子气（2-dimensional electron gas, 2DEG）。我们表明，X 射线衍射（X-Ray Diffraction, XRD）分析可作为一种无损方法来评估界面锐利程度，并且改进的生长方案可成功用于获得高质量 2DEG，这一点由非接触式电阻率测量得到证实。特别是，对于 AlN/Al0.75Ga0.25N，已展示约 2,500 Ω/□ 的薄层电阻率，与文献中报道的最佳数值一致。",
+      "abstract_zh": "在本工作中，我们报道了近期在理解和解决高铝含量 AlGaN/AlGaN 异质结构中界面模糊问题方面的结果。一方面，通过金属有机气相外延（metal-organic vapour phase epitaxy, MOVPE）生长高晶体质量 AlGaN 需要使用高温；但另一方面，这可能导致势垒层和沟道层之间发生合金互混，从而削弱极化对比，并严重劣化甚至完全破坏二维电子气（2-dimensional electron gas, 2DEG）。我们表明，X 射线衍射（X-Ray Diffraction, XRD）分析可作为一种无损方法来评估界面锐利程度，并且改进的生长方案可成功用于获得高质量 2DEG，这一点由非接触式电阻率测量得到证实。特别是，对于 AlN/Al0.75Ga0.25N，已展示约 2,500 Ω/□ 的薄层电阻率，与文献中报道的最佳数值一致。",
       "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升.\nContext: Barrier-channel intermixing and 2-dimensional electron gas degradation in Al-rich Al(Ga)N/AlGaN….",
       "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升.\nContext: Barrier-channel intermixing and 2-dimensional electron gas degradation in Al-rich Al(Ga)N/AlGaN…."
     },
@@ -80,37 +126,10 @@
       "highlights": [
         "transistor"
       ],
-      "abstract_cn": "最先进的晶体管已成功将栅长和沟道厚度缩放至 5 nm，用于高性能和高能效的信息处理。然而，将沟道宽度降低到 40–50 nm 以下仍是一个瓶颈，因为悬挂键、边缘无序和横向耗尽会抑制驱动电流并降低器件性能。本文利用宽度低至 15 nm 的超缩放二维半导体（two-dimensional semiconductor, 2DSC）纳米带晶体管突破了这一宽度缩放壁垒。与传统缩放规则中宽度缩放会导致电流密度退化不同，我们的原子级薄单层和双层二硫化钼纳米带晶体管分别表现出最高达 230% 和 170% 的导通电流密度增强，随后在最窄低至 15 nm 的沟道中趋于饱和。这些超窄纳米带晶体管在相似器件尺寸下保持了迄今报道的最高开关比，并具有改善的迁移率和阈值电压稳定性，表明在更强静电控制下边缘散射和耗尽得到降低。这些发现利用 2DSC 纳米带在更窄沟道宽度下实现增强性能，带来了宽度缩放规则上的突破，有望推动晶体管的极限缩放。",
-      "abstract_zh": "最先进的晶体管已成功将栅长和沟道厚度缩放至 5 nm，用于高性能和高能效的信息处理。然而，将沟道宽度降低到 40–50 nm 以下仍是一个瓶颈，因为悬挂键、边缘无序和横向耗尽会抑制驱动电流并降低器件性能。本文利用宽度低至 15 nm 的超缩放二维半导体（two-dimensional semiconductor, 2DSC）纳米带晶体管突破了这一宽度缩放壁垒。与传统缩放规则中宽度缩放会导致电流密度退化不同，我们的原子级薄单层和双层二硫化钼纳米带晶体管分别表现出最高达 230% 和 170% 的导通电流密度增强，随后在最窄低至 15 nm 的沟道中趋于饱和。这些超窄纳米带晶体管在相似器件尺寸下保持了迄今报道的最高开关比，并具有改善的迁移率和阈值电压稳定性，表明在更强静电控制下边缘散射和耗尽得到降低。这些发现利用 2DSC 纳米带在更窄沟道宽度下实现增强性能，带来了宽度缩放规则上的突破，有望推动晶体管的极限缩放。",
+      "abstract_cn": "最先进的晶体管已成功将栅长和沟道厚度缩小至 5 nm，用于高性能和高能效的信息处理。然而，将沟道宽度降低到 40–50 nm 以下仍是一个瓶颈，因为悬挂键、边缘无序和横向耗尽会抑制驱动电流并降低器件性能。本文利用宽度低至 15 nm 的超缩放二维半导体（two-dimensional semiconductor, 2DSC）纳米带晶体管突破了这一宽度缩放壁垒。与传统缩放规则中宽度缩放会导致电流密度退化不同，我们的原子级薄单层和双层二硫化钼纳米带晶体管分别表现出最高达 230% 和 170% 的导通电流密度增强，随后在最窄低至 15 nm 的沟道中趋于饱和。这些超窄纳米带晶体管在相似器件尺寸下保持了迄今报道的最高开关比，并具有改善的迁移率和阈值电压稳定性，表明在更强静电控制下边缘散射和耗尽得到降低。这些发现利用 2DSC 纳米带在更窄沟道宽度下实现增强性能，带来了宽度缩放规则上的突破，有望推动晶体管的极限缩放。",
+      "abstract_zh": "最先进的晶体管已成功将栅长和沟道厚度缩小至 5 nm，用于高性能和高能效的信息处理。然而，将沟道宽度降低到 40–50 nm 以下仍是一个瓶颈，因为悬挂键、边缘无序和横向耗尽会抑制驱动电流并降低器件性能。本文利用宽度低至 15 nm 的超缩放二维半导体（two-dimensional semiconductor, 2DSC）纳米带晶体管突破了这一宽度缩放壁垒。与传统缩放规则中宽度缩放会导致电流密度退化不同，我们的原子级薄单层和双层二硫化钼纳米带晶体管分别表现出最高达 230% 和 170% 的导通电流密度增强，随后在最窄低至 15 nm 的沟道中趋于饱和。这些超窄纳米带晶体管在相似器件尺寸下保持了迄今报道的最高开关比，并具有改善的迁移率和阈值电压稳定性，表明在更强静电控制下边缘散射和耗尽得到降低。这些发现利用 2DSC 纳米带在更窄沟道宽度下实现增强性能，带来了宽度缩放规则上的突破，有望推动晶体管的极限缩放。",
       "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: Breaking the width-scaling limit in high-performance atomically thin 2D nanoribbon transistors.",
       "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: Breaking the width-scaling limit in high-performance atomically thin 2D nanoribbon transistors."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2606.02954v1",
-      "title": "AlN Gate Interlayer for UWBG AlGaN Transistors with Breakdown Field >6.9 MV/cm and PFOM >1.8 GW/cm2",
-      "url": "https://arxiv.org/abs/2606.02954v1",
-      "published": "2026-06-02",
-      "authors": [
-        "Seungheon Shin",
-        "Jonathan Pratt",
-        "Joe McGlone",
-        "Yinxuan Zhu",
-        "Brianna A. Klein",
-        "Andrew Armstrong",
-        "Andrew A. Allerman",
-        "Siddharth Rajan"
-      ],
-      "summary": "We report the demonstration of regrown epitaxial AlN gate interlayers with ultra-wide bandgap (UWBG) AlGaN polarization-graded field effect transistors (PolFETs). The introduction of the epitaxial AlN gate interlayer enables significant improvement in breakdown strength, with average breakdown field exceeding 6.94 MV/cm, which represents state-of-the-art for lateral field effect transistors, while maintaining excellent on-state current density exceeding 1 A/mm. The integration of epitaxial AlN enables state-of-the-art power-switching figure of merit exceeding 1.87 GW/cm2 at a breakdown voltage exceeding 1.45 kV. This work shows the potential of UWBG AlGaN for next-generation high-power switching and RF applications with enhanced device performance established by a high-quality epitaxially regrown AlN gate interlayer.",
-      "score": 5,
-      "priority": 1,
-      "highlights": [
-        "transistor"
-      ],
-      "abstract_cn": "我们报道了在超宽带隙（ultra-wide bandgap, UWBG）AlGaN 极化渐变场效应晶体管（polarization-graded field effect transistors, PolFETs）中实现再生长外延 AlN 栅界面层。引入外延 AlN 栅界面层显著提升了击穿强度，平均击穿场超过 6.94 MV/cm，代表了横向场效应晶体管的最先进水平，同时保持了超过 1 A/mm 的优异导通态电流密度。集成外延 AlN 后，在击穿电压超过 1.45 kV 时，实现了超过 1.87 GW/cm2 的最先进功率开关品质因数。本工作展示了 UWBG AlGaN 在下一代高功率开关和射频应用中的潜力，其增强的器件性能由高质量外延再生长 AlN 栅界面层所确立。",
-      "abstract_zh": "我们报道了在超宽带隙（ultra-wide bandgap, UWBG）AlGaN 极化渐变场效应晶体管（polarization-graded field effect transistors, PolFETs）中实现再生长外延 AlN 栅界面层。引入外延 AlN 栅界面层显著提升了击穿强度，平均击穿场超过 6.94 MV/cm，代表了横向场效应晶体管的最先进水平，同时保持了超过 1 A/mm 的优异导通态电流密度。集成外延 AlN 后，在击穿电压超过 1.45 kV 时，实现了超过 1.87 GW/cm2 的最先进功率开关品质因数。本工作展示了 UWBG AlGaN 在下一代高功率开关和射频应用中的潜力，其增强的器件性能由高质量外延再生长 AlN 栅界面层所确立。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: AlN Gate Interlayer for UWBG AlGaN Transistors with Breakdown Field >6.9 MV/cm and PFOM >1.8 GW….",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: AlN Gate Interlayer for UWBG AlGaN Transistors with Breakdown Field >6.9 MV/cm and PFOM >1.8 GW…."
     },
     {
       "source": "arXiv",
@@ -145,29 +164,26 @@
     },
     {
       "source": "arXiv",
-      "uid": "arxiv:2606.02317v1",
-      "title": "Surface Modification for III-V Selective Area Molecular Beam Epitaxy of Non-Selective Mask Materials",
-      "url": "https://arxiv.org/abs/2606.02317v1",
-      "published": "2026-06-01",
+      "uid": "arxiv:2606.06952v1",
+      "title": "Characterization of Nonlinear Dynamics in Semiconductors in Frequency Domain using Modulated Photoexcitation",
+      "url": "https://arxiv.org/abs/2606.06952v1",
+      "published": "2026-06-05",
       "authors": [
-        "Ashlee M. García",
-        "Byron D. Aguilar",
-        "William J. Doyle",
-        "Pernille Undrum Fathi",
-        "Federico Capasso",
-        "Daniel Wasserman",
-        "Seth R. Bank"
+        "Attia Awan",
+        "Rong Tang",
+        "Zhou Kang",
+        "Khadga Jung Karki"
       ],
-      "summary": "Selective-area embedded regrowth of III-V semiconductors by molecular beam epitaxy enables the seamless integration of metals and dielectrics into crystalline material for novel design of optoelectronic devices. However, traditional masks like $SiO_2$ and $Si_{3}N_{4}$ limit the design of high-contrast photonics in the infrared due to their high extinction coefficients at technologically relevant wavelengths. Consequently, there is a need to explore alternative mask materials to expand the selective area molecular beam epitaxy capabilities beyond those traditionally used. This study evaluates the deposition selectivity of the alternative materials $Al_{2}O_{3}$, $TiO_2$, and $HfO_2$, films with preferable spectral responses but higher surface reactivity. It was found that $Al_{2}O_{3}$ exhibits promising selective growth characteristics within typical GaAs growth temperatures, $HfO_2$ demonstrated a high non-selectivity dominated by Ga adsorption on the mask at temperatures up to 650 $^\\circ$C, and $TiO_2$ proved reactive during deposition. To achieve selective growth of highly non-selective and even reactive mask materials, a surface modification technique was employed to improve the selective growth characteristics of any given film. Selective growth of $Si_{3}N_{4}$ and $TiO_2$ films was achieved with the application of a thin $SiO_2$ capping layer utilizing growth conditions typical of the GaAs/$SiO_2$ system. The relationship between the thickness of $SiO_2$ caps and growth selectivity was examined, revealing that sub-1 nm capping layers can significantly influence the mask surface chemistry, indicating that by depositing a thin layer of $SiO_2$, $SiO_2$-like selectivity for any mask material can be realized without degrading its optical response.",
-      "score": 8,
+      "summary": "Carrier dynamics in semiconductors is inherently complex owing to the coexistence of different excited species, such as free carriers and excitons, and their interactions among themselves and with traps and phonons. It is usual to use time-resolved responses to identify the processes that contribute to the dynamics. However, the responses often are non-exponential, leading to ambiguity in the interpretation. Here, we propose a frequency domain method to characterize nonlinear dynamics in semiconductors using CdSe as the test system. We show that by analyzing the frequency components in the total photoluminescence induced by a pair of phase-modulated beams, the parameters, such as rates of different types of recombination of free carriers and excitons, can be evaluated. The method can be used as a simple diagnostic tool to characterize ultrafast processes that are relevant to the functionality of semiconductor devices.",
+      "score": 5,
       "priority": 0,
       "highlights": [
-        "epitaxy"
+        "semiconductor"
       ],
-      "abstract_cn": "通过分子束外延对 III-V 族半导体进行选择区域嵌入式再生长，可将金属和介质无缝集成到晶体材料中，用于光电子器件的新型设计。然而，SiO2 和 Si3N4 等传统掩膜材料由于在技术相关波长处具有较高消光系数，限制了红外高对比度光子器件的设计。因此，有必要探索替代掩膜材料，以将选择区域分子束外延能力扩展到传统材料之外。本研究评估了替代材料 Al2O3、TiO2 和 HfO2 的沉积选择性，这些薄膜具有更理想的光谱响应，但表面反应性更高。研究发现，在典型 GaAs 生长温度范围内，Al2O3 表现出有前景的选择性生长特性；HfO2 在最高 650 °C 的温度下表现出很高的非选择性，主要由掩膜上的 Ga 吸附主导；而 TiO2 在沉积过程中表现出反应性。为实现高度非选择性甚至反应性掩膜材料的选择性生长，本文采用了一种表面改性技术，以改善任意给定薄膜的选择性生长特性。通过施加一层薄 SiO2 覆盖层，并利用 GaAs/SiO2 体系的典型生长条件，实现了 Si3N4 和 TiO2 薄膜上的选择性生长。本文考察了 SiO2 覆盖层厚度与生长选择性之间的关系，发现亚 1 nm 覆盖层即可显著影响掩膜表面化学，表明通过沉积一层薄 SiO2，可在不削弱其光学响应的情况下，为任意掩膜材料实现类似 SiO2 的选择性。",
-      "abstract_zh": "通过分子束外延对 III-V 族半导体进行选择区域嵌入式再生长，可将金属和介质无缝集成到晶体材料中，用于光电子器件的新型设计。然而，SiO2 和 Si3N4 等传统掩膜材料由于在技术相关波长处具有较高消光系数，限制了红外高对比度光子器件的设计。因此，有必要探索替代掩膜材料，以将选择区域分子束外延能力扩展到传统材料之外。本研究评估了替代材料 Al2O3、TiO2 和 HfO2 的沉积选择性，这些薄膜具有更理想的光谱响应，但表面反应性更高。研究发现，在典型 GaAs 生长温度范围内，Al2O3 表现出有前景的选择性生长特性；HfO2 在最高 650 °C 的温度下表现出很高的非选择性，主要由掩膜上的 Ga 吸附主导；而 TiO2 在沉积过程中表现出反应性。为实现高度非选择性甚至反应性掩膜材料的选择性生长，本文采用了一种表面改性技术，以改善任意给定薄膜的选择性生长特性。通过施加一层薄 SiO2 覆盖层，并利用 GaAs/SiO2 体系的典型生长条件，实现了 Si3N4 和 TiO2 薄膜上的选择性生长。本文考察了 SiO2 覆盖层厚度与生长选择性之间的关系，发现亚 1 nm 覆盖层即可显著影响掩膜表面化学，表明通过沉积一层薄 SiO2，可在不削弱其光学响应的情况下，为任意掩膜材料实现类似 SiO2 的选择性。",
-      "overview_cn": "Focus: epitaxy.\nWhat to check: 性能提升、先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Surface Modification for III-V Selective Area Molecular Beam Epitaxy of Non-Selective Mask Mate….",
-      "reading_notes": "Focus: epitaxy.\nWhat to check: 性能提升、先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Surface Modification for III-V Selective Area Molecular Beam Epitaxy of Non-Selective Mask Mate…."
+      "abstract_cn": "由于自由载流子和激子等不同激发物种的共存，以及它们彼此之间并与陷阱和声子之间的相互作用，半导体中的载流子动力学本质上十分复杂。通常会使用时间分辨响应来识别对动力学有贡献的过程。然而，这些响应往往是非指数型的，从而导致解释上的歧义。本文提出了一种利用调制光激发在频域表征半导体非线性动力学的方法，并以 CdSe 作为测试体系。我们表明，通过分析由一对相位调制光束诱导的总光致发光中的频率分量，可以评估自由载流子和激子不同类型复合的速率等参数。该方法可作为一种简单的诊断工具，用于表征与半导体器件功能相关的超快过程。",
+      "abstract_zh": "由于自由载流子和激子等不同激发物种的共存，以及它们彼此之间并与陷阱和声子之间的相互作用，半导体中的载流子动力学本质上十分复杂。通常会使用时间分辨响应来识别对动力学有贡献的过程。然而，这些响应往往是非指数型的，从而导致解释上的歧义。本文提出了一种利用调制光激发在频域表征半导体非线性动力学的方法，并以 CdSe 作为测试体系。我们表明，通过分析由一对相位调制光束诱导的总光致发光中的频率分量，可以评估自由载流子和激子不同类型复合的速率等参数。该方法可作为一种简单的诊断工具，用于表征与半导体器件功能相关的超快过程。",
+      "overview_cn": "Focus: 半导体.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Characterization of Nonlinear Dynamics in Semiconductors in Frequency Domain using Modulated Ph….",
+      "reading_notes": "Focus: 半导体.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Characterization of Nonlinear Dynamics in Semiconductors in Frequency Domain using Modulated Ph…."
     },
     {
       "source": "arXiv",
@@ -204,45 +220,11 @@
       "abstract_zh": "单层 WSe2 中长寿命暗激子是携带自旋和谷信息的有前景候选者，但其光学访问和自旋操控传统上需要使用强外部磁场。本文利用一种铁电杂化钙钛矿异质结构，借助铁电邻近效应打破 WSe2 的面内旋转对称性，并在零磁场条件下亮化自旋禁戒暗激子。此外，我们表明 WSe2 与钙钛矿晶体之间的扭转角可控制铁电耦合强度和谷反差极化。我们提出的机制由四能带紧束缚模型支持，表明铁电邻近效应会诱导非对称的子晶格间相互作用，产生一个有效的面内自旋—轨道耦合（spin-orbit coupling, SOC）场，从而旋转自旋/谷极化并亮化暗激子。本工作确立了铁电邻近耦合作为二维半导体中自旋激子控制的一种电可重构、无磁场策略。",
       "overview_cn": "Focus: 铁电材料.\nWhat to check: 效率/耦合表现.\nContext: Ferroelectric brightening of spin forbidden dark excitons in a WSe2/hybrid perovskite heterostr….",
       "reading_notes": "Focus: 铁电材料.\nWhat to check: 效率/耦合表现.\nContext: Ferroelectric brightening of spin forbidden dark excitons in a WSe2/hybrid perovskite heterostr…."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2606.05974v1",
-      "title": "The KNN rollercoaster: from bulk ceramics to phase engineered wafer-scale thin films",
-      "url": "https://arxiv.org/abs/2606.05974v1",
-      "published": "2026-06-04",
-      "authors": [
-        "Giulia Pavese",
-        "Federico Orlando",
-        "Fabio Melzi",
-        "Walter Piazzi",
-        "Andrea Pescarolo",
-        "Federico Maspero",
-        "Marco Asa",
-        "Riccardo Gianola",
-        "Andrea Picco",
-        "Andrea Serafini",
-        "Kui Yao",
-        "Silvia Picozzi",
-        "Laura Castoldi",
-        "Miguel-Ángel Badillo-Ávila",
-        "Riccardo Bertacco"
-      ],
-      "summary": "Since the initial disclosure of the extraordinary piezoelectric coefficients of Potassium sodium niobate (KNN) in near-equimolar bulk ceramics, its development trajectory has resembled a rollercoaster, with its integration into microelectronics severely lagging due to thermodynamic stability issues and poor planar process compatibility. In this work, we revisit the bulk-derived phase diagram for the specific case of thin films integrated on silicon. By systematically investigating Mn-doped K1-xNaxNbO3 films grown on 8-inch wafers, we demonstrate that the optimal stoichiometry for thin films fundamentally diverges from the bulk equimolar standard. A Na-rich composition (> 70 at.%) is required to overcome substrate-induced constraints, effectively suppressing pyrochlore formation and chemical phase segregation while promoting dense columnar growth with a complete (001) out-of-plane polar orientation. Consequently, Na-rich films deliver outstanding functional properties, reaching remanent polarizations up to 14 uC cm-2, with piezoelectric coefficients of d33f= 79 pm/V and e31f = 10 C/m2. Supported by Density Functional Theory simulations, we correlate this enhancement with improved stability and a strain-driven structural reorientation toward a lower-symmetry monoclinic phase with tilted polarization. By redefining the phase engineering rules for wafer-scale thin films, our results establish a clear route toward KNN integration in microsystems.",
-      "score": 5,
-      "priority": 0,
-      "highlights": [
-        "wafer"
-      ],
-      "abstract_cn": "自近等摩尔体相陶瓷中铌酸钾钠（potassium sodium niobate, KNN）异常高压电系数首次披露以来，其发展轨迹就像过山车一样起伏不定；由于热力学稳定性问题和平面工艺兼容性较差，其与微电子学的集成严重滞后。在本工作中，我们针对集成在硅上的薄膜这一特定情况，重新审视了源自体相的相图。通过系统研究在 8 英寸晶圆上生长的 Mn 掺杂 K1−xNaxNbO3 薄膜，我们证明薄膜的最优化学计量从根本上偏离了体相近等摩尔标准。为克服衬底诱导的约束，需要富 Na 组分（> 70 at.%），这可有效抑制烧绿石形成和化学相分离，同时促进致密柱状生长并形成完整的 (001) 面外极性取向。因此，富 Na 薄膜表现出优异的功能性质，剩余极化最高达到 14 μC cm−2，压电系数达到 d33f = 79 pm/V 和 e31f = 10 C/m2。在密度泛函理论模拟的支持下，我们将这种增强与稳定性的提高以及应变驱动的结构重取向联系起来；这种重取向使结构转向具有倾斜极化的较低对称性单斜相。通过重新定义晶圆级薄膜的相工程规则，我们的结果为 KNN 在微系统中的集成确立了一条清晰路径。",
-      "abstract_zh": "自近等摩尔体相陶瓷中铌酸钾钠（potassium sodium niobate, KNN）异常高压电系数首次披露以来，其发展轨迹就像过山车一样起伏不定；由于热力学稳定性问题和平面工艺兼容性较差，其与微电子学的集成严重滞后。在本工作中，我们针对集成在硅上的薄膜这一特定情况，重新审视了源自体相的相图。通过系统研究在 8 英寸晶圆上生长的 Mn 掺杂 K1−xNaxNbO3 薄膜，我们证明薄膜的最优化学计量从根本上偏离了体相近等摩尔标准。为克服衬底诱导的约束，需要富 Na 组分（> 70 at.%），这可有效抑制烧绿石形成和化学相分离，同时促进致密柱状生长并形成完整的 (001) 面外极性取向。因此，富 Na 薄膜表现出优异的功能性质，剩余极化最高达到 14 μC cm−2，压电系数达到 d33f = 79 pm/V 和 e31f = 10 C/m2。在密度泛函理论模拟的支持下，我们将这种增强与稳定性的提高以及应变驱动的结构重取向联系起来；这种重取向使结构转向具有倾斜极化的较低对称性单斜相。通过重新定义晶圆级薄膜的相工程规则，我们的结果为 KNN 在微系统中的集成确立了一条清晰路径。",
-      "overview_cn": "Focus: wafer.\nWhat to check: 性能提升、可靠性与稳定性、与既有工艺平台的集成价值.\nContext: The KNN rollercoaster: from bulk ceramics to phase engineered wafer-scale thin films.",
-      "reading_notes": "Focus: wafer.\nWhat to check: 性能提升、可靠性与稳定性、与既有工艺平台的集成价值.\nContext: The KNN rollercoaster: from bulk ceramics to phase engineered wafer-scale thin films."
     }
   ],
   "errors": [],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-06-08T00:30:00+00:00"
+  "generated_at": "2026-06-09T00:30:00+00:00"
 }
