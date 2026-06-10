@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 3,
+  "new_count": 8,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-09）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 3 篇；Intel/TSMC 重点 1 篇\n1. ⭐ [arXiv] Driving Exchange Interaction in Spin Qubits with Quasi-Zero Pulses\n   关键词：Intel\n   日期：2026-06-06\n   Authors: Julian D. Teske, Remy L. Delva, Shobhan Kulshreshtha 等\n   https://arxiv.org/abs/2606.07472v1\n2. [Nature Materials] Ultralow-voltage electrochemical organic light-emitting transistors with pinned and wide la…\n   关键词：transistor\n   日期：2026-06-08\n   https://www.nature.com/articles/s41563-026-02613-7\n3. [arXiv] Characterization of Nonlinear Dynamics in Semiconductors in Frequency Domain using Modulate…\n   关键词：semiconductor\n   日期：2026-06-05\n   Authors: Attia Awan, Rong Tang, Zhou Kang 等\n   https://arxiv.org/abs/2606.06952v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-10）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Thermal Processing Limits in Oxide-Channel Ferroelectric Field Effect Transistors\n   关键词：transistor, ferroelectric\n   日期：2026-06-07\n   Authors: Lance Fernandes, Yu-Hsin Kuo, Chengyang Zhang 等\n   https://arxiv.org/abs/2606.08378v1\n2. [arXiv] Wafer-scale Demonstration of High-voltage beta-Ga2O3 MOSFETs with Excellent Uniformity and …\n   关键词：MOSFET, wafer\n   日期：2026-06-06\n   Authors: Ningtao Liu, Hengrui Zhang, Shujun Zhu 等\n   https://arxiv.org/abs/2606.07973v1\n3. [arXiv] Valley Engineering in Bilayer WSe$_2$ Gate-All-Around Transistors\n   关键词：transistor, GAA\n   日期：2026-06-08\n   Authors: Katsunori Wakabayashi, Souren Adhikary, Kazuhito Tsukagoshi\n   https://arxiv.org/abs/2606.08955v1\n4. [arXiv] V-Doped Niobate Nanosheets for Enhanced Photocatalytic Activity\n   关键词：nanosheets\n   日期：2026-06-07\n   Authors: M. Tuğrul Avcu, Uğur Ünal\n   https://arxiv.org/abs/2606.08567v1\n5. [Nature Electronics] Precise and efficient computing via signal folding\n   日期：2026-06-09\n   https://www.nature.com/articles/s41928-026-01646-9\n6. [arXiv] Controlled component segregation in vapor-deposited organic semiconductor glass mixtures\n   关键词：semiconductor\n   日期：2026-06-08\n   Authors: Shinian Cheng, Yejung Lee, Lian Yu 等\n   https://arxiv.org/abs/2606.09527v1\n7. [arXiv] BSE+ calculations for 2D materials: a unified description of excitons and plasmons\n   关键词：2D materials\n   日期：2026-06-08\n   Authors: Amalie H. Svaneborg, and Kristian S. Thygesen\n   https://arxiv.org/abs/2606.09192v1\n8. [arXiv] Agentic multi-fidelity learning of quasiparticle and excitonic properties\n   日期：2026-06-06\n   Authors: Arnab Neogi, Aaron Forde, Christopher A. Lane 等\n   https://arxiv.org/abs/2606.07836v1",
   "papers": [
     {
       "source": "Science Advances",
@@ -39,6 +39,74 @@
     },
     {
       "source": "arXiv",
+      "uid": "arxiv:2606.08378v1",
+      "title": "Thermal Processing Limits in Oxide-Channel Ferroelectric Field Effect Transistors",
+      "url": "https://arxiv.org/abs/2606.08378v1",
+      "published": "2026-06-07",
+      "authors": [
+        "Lance Fernandes",
+        "Yu-Hsin Kuo",
+        "Chengyang Zhang",
+        "Priyankka Ravikumar",
+        "Ranie Jeyakumar",
+        "Dyutimoy Chakraborty",
+        "Jiayi Chen",
+        "Taeyoung Song",
+        "Kai Ni",
+        "Woohyun Hwang",
+        "Kwangyou Seo",
+        "Suhwan Lim",
+        "Wanki Kim",
+        "Daewon Ha",
+        "Julia Medvedeva",
+        "Suman Datta",
+        "Shimeng Yu",
+        "Asif Khan"
+      ],
+      "summary": "In this work, we report a systematic study of the impact of high-temperature post-capping thermal annealing on the memory characteristics of Oxide-semiconductor channel ferroelectric field-effect transistors (OS-FeFETs). Using an identical engineered ferroelectric gate stack 8nm Hf0.5Zr0.5O2 (HZO) / 3 nm Al2O3 / 8 nm HZO (8/3/8) and a hybrid capping layer (3 nm HfO2 + 3 nm Al2O3), 10 percent Ga doped InO (IGO) channel and 4 percent W doped InO (IWO) channel FeFETs remain functional after annealing at temperatures up to 650 C for durations of up to 30 min and 10 min, respectively; further annealing results in irreversible loss of conduction and device failure. Detailed electrical analysis reveals that the MW enhancement originates from a preferential positive shift in the erased-state threshold voltage, while the programmed-state threshold voltage remains comparatively stable. Grazing-incidence X-ray diffraction measurements further indicate structural evolution in the IWO and IGO oxide channels with increasing annealing temperature, supporting the observed electrical trends.",
+      "score": 11,
+      "priority": 2,
+      "highlights": [
+        "transistor",
+        "ferroelectric"
+      ],
+      "abstract_cn": "在本工作中，我们系统研究了高温封帽后热退火对氧化物半导体沟道铁电场效应晶体管（Oxide-semiconductor channel ferroelectric field-effect transistors, OS-FeFETs）存储特性的影响。采用相同的工程化铁电栅堆叠 8 nm Hf0.5Zr0.5O2（HZO）/3 nm Al2O3/8 nm HZO（8/3/8）以及混合封帽层（3 nm HfO2 + 3 nm Al2O3），10% Ga 掺杂 InO（IGO）沟道和 4% W 掺杂 InO（IWO）沟道 FeFET 在最高 650 °C 的退火温度下分别持续最长 30 min 和 10 min 后仍保持功能；进一步退火会导致不可逆的导电性丧失和器件失效。详细电学分析表明，存储窗口（MW）增强源于擦除态阈值电压的优先正向偏移，而编程态阈值电压保持相对稳定。掠入射 X 射线衍射测量进一步表明，随着退火温度升高，IWO 和 IGO 氧化物沟道发生结构演化，这支持了所观察到的电学趋势。",
+      "abstract_zh": "在本工作中，我们系统研究了高温封帽后热退火对氧化物半导体沟道铁电场效应晶体管（Oxide-semiconductor channel ferroelectric field-effect transistors, OS-FeFETs）存储特性的影响。采用相同的工程化铁电栅堆叠 8 nm Hf0.5Zr0.5O2（HZO）/3 nm Al2O3/8 nm HZO（8/3/8）以及混合封帽层（3 nm HfO2 + 3 nm Al2O3），10% Ga 掺杂 InO（IGO）沟道和 4% W 掺杂 InO（IWO）沟道 FeFET 在最高 650 °C 的退火温度下分别持续最长 30 min 和 10 min 后仍保持功能；进一步退火会导致不可逆的导电性丧失和器件失效。详细电学分析表明，存储窗口（MW）增强源于擦除态阈值电压的优先正向偏移，而编程态阈值电压保持相对稳定。掠入射 X 射线衍射测量进一步表明，随着退火温度升高，IWO 和 IGO 氧化物沟道发生结构演化，这支持了所观察到的电学趋势。",
+      "overview_cn": "Focus: 晶体管、铁电材料.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Thermal Processing Limits in Oxide-Channel Ferroelectric Field Effect Transistors.",
+      "reading_notes": "Focus: 晶体管、铁电材料.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Thermal Processing Limits in Oxide-Channel Ferroelectric Field Effect Transistors."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2606.07973v1",
+      "title": "Wafer-scale Demonstration of High-voltage beta-Ga2O3 MOSFETs with Excellent Uniformity and over 3kV Breakdown Voltages",
+      "url": "https://arxiv.org/abs/2606.07973v1",
+      "published": "2026-06-06",
+      "authors": [
+        "Ningtao Liu",
+        "Hengrui Zhang",
+        "Shujun Zhu",
+        "Zhihao Yan",
+        "Dongyang Han",
+        "Shen Hu",
+        "Li Ji",
+        "Ning Xia",
+        "Jichun Ye",
+        "Wenrui Zhang"
+      ],
+      "summary": "This study demonstrates a wafer-scale growth of a 2-inch Si-doped $β$-Ga2O3 (100) epitaxial wafer and the realization of uniform, high-voltage lateral $β$-Ga2O3 MOSFET arrays. The 2-inch homoepitaxial $β$-Ga2O3 (100) film grown by MOCVD exhibit excellent crystalline uniformity with an average rocking curve FWHM of ~27.0 arcsec and a low surface roughness less than 1 nm, alongside a uniform net doping concentration on the value of 4.60 $\\times$ 1E17 cm-3. The fabricated MOSFETs deliver a threshold voltage of -31.75 V, a drain-current on/off ratio over 1E9, a specific on-resistance of 126.52 mohm$\\cdot$cm2 and breakdown voltage exceeding 3 kV. Statistical analysis across the entire wafer presents good device uniformity, with threshold voltages ranging from -28 V to -36 V, output current densities of 60-75 mA/mm, and a breakdown voltage over 3 kV. These results provide the demonstration using the 2-inch $β$-Ga2O3 epitaxial wafer to realize high-voltage $β$-Ga2O3 MOSFETs with wafer-scale performance uniformity for next-generation power device application.",
+      "score": 11,
+      "priority": 2,
+      "highlights": [
+        "MOSFET",
+        "wafer"
+      ],
+      "abstract_cn": "本研究展示了 2 英寸 Si 掺杂 β-Ga2O3 (100) 外延晶圆的晶圆级生长，以及均匀高压横向 β-Ga2O3 MOSFET 阵列的实现。通过 MOCVD 生长的 2 英寸同质外延 β-Ga2O3 (100) 薄膜表现出优异的晶体均匀性，摇摆曲线平均半峰全宽（FWHM）约为 27.0 arcsec，表面粗糙度低于 1 nm，同时具有均匀的净掺杂浓度，数值为 4.60×1E17 cm^-3。所制备的 MOSFET 实现了 -31.75 V 的阈值电压、超过 1E9 的漏极电流开关比、126.52 mΩ·cm2 的比导通电阻以及超过 3 kV 的击穿电压。整个晶圆范围内的统计分析显示出良好的器件均匀性，阈值电压范围为 -28 V 至 -36 V，输出电流密度为 60–75 mA/mm，击穿电压超过 3 kV。这些结果证明，利用 2 英寸 β-Ga2O3 外延晶圆可实现具有晶圆级性能均匀性的高压 β-Ga2O3 MOSFET，用于下一代功率器件应用。",
+      "abstract_zh": "本研究展示了 2 英寸 Si 掺杂 β-Ga2O3 (100) 外延晶圆的晶圆级生长，以及均匀高压横向 β-Ga2O3 MOSFET 阵列的实现。通过 MOCVD 生长的 2 英寸同质外延 β-Ga2O3 (100) 薄膜表现出优异的晶体均匀性，摇摆曲线平均半峰全宽（FWHM）约为 27.0 arcsec，表面粗糙度低于 1 nm，同时具有均匀的净掺杂浓度，数值为 4.60×1E17 cm^-3。所制备的 MOSFET 实现了 -31.75 V 的阈值电压、超过 1E9 的漏极电流开关比、126.52 mΩ·cm2 的比导通电阻以及超过 3 kV 的击穿电压。整个晶圆范围内的统计分析显示出良好的器件均匀性，阈值电压范围为 -28 V 至 -36 V，输出电流密度为 60–75 mA/mm，击穿电压超过 3 kV。这些结果证明，利用 2 英寸 β-Ga2O3 外延晶圆可实现具有晶圆级性能均匀性的高压 β-Ga2O3 MOSFET，用于下一代功率器件应用。",
+      "overview_cn": "Focus: MOSFET、wafer.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Wafer-scale Demonstration of High-voltage beta-Ga2O3 MOSFETs with Excellent Uniformity and over….",
+      "reading_notes": "Focus: MOSFET、wafer.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Wafer-scale Demonstration of High-voltage beta-Ga2O3 MOSFETs with Excellent Uniformity and over…."
+    },
+    {
+      "source": "arXiv",
       "uid": "arxiv:2606.07472v1",
       "title": "Driving Exchange Interaction in Spin Qubits with Quasi-Zero Pulses",
       "url": "https://arxiv.org/abs/2606.07472v1",
@@ -64,6 +132,29 @@
       "abstract_zh": "实现自旋量子比特的高保真量子门，需要精确控制限域在量子点中电子之间的交换相互作用，但脉冲畸变可能限制这种控制精度。尽管线性动力学畸变可以通过对控制信号进行适当卷积来补偿，但确定所需卷积需要对畸变的传递函数有详细了解，因此需要校准大量参数。另一种方法是将控制脉冲设计为具有净零时间积分，从而抵消线性动力学脉冲畸变。我们将净零脉冲设计推广到准零脉冲，使其允许净正但降低的时间积分。利用这些脉冲设计，我们系统地开发了仅交换量子比特的完整门集，并在仿真和实验中研究了由此产生的脉冲持续时间、保真度和所需可调参数数量之间的权衡。我们在 Intel 的 Tunnel Falls 六量子点器件上对优化后的门脉冲进行了基准测试，并表明它们在相同脉冲持续时间和更少调谐参数下，实现了与完整滤波方法相近的保真度。这种复杂度降低为快速且易于自动化的校准方案打开了道路，并可兼容大规模商用量子器件。",
       "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Driving Exchange Interaction in Spin Qubits with Quasi-Zero Pulses.",
       "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Driving Exchange Interaction in Spin Qubits with Quasi-Zero Pulses."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2606.08955v1",
+      "title": "Valley Engineering in Bilayer WSe$_2$ Gate-All-Around Transistors",
+      "url": "https://arxiv.org/abs/2606.08955v1",
+      "published": "2026-06-08",
+      "authors": [
+        "Katsunori Wakabayashi",
+        "Souren Adhikary",
+        "Kazuhito Tsukagoshi"
+      ],
+      "summary": "In bilayer WSe$_2$, interlayer coupling reduces the K--$Γ$ valley splitting to $Δ_{KΓ} \\approx k_BT$ at room temperature, placing two hole-transport channels of markedly different effective mass in near-thermal equilibrium. We combine density functional theory (DFT) with spin--orbit coupling and an analytical two-valley device model to quantify how this near-degeneracy governs hole transport in gate-all-around (GAA) field-effect transistors. Three main results are obtained: (i)~the subthreshold swing is protected near $60$~mV~dec$^{-1}$ by quantum-capacitance screening independently of layer number; (ii)~the effective mobility is set by the K-to-$Γ$ valley occupation ratio and decreases monotonically with layer number; and (iii)~in the bilayer, compressive biaxial strain \\emph{simultaneously} enhances the on-current, suppresses the off-current, and improves the on/off ratio from ${\\approx}69$ to ${\\approx}156$, while the subthreshold swing remains near the thermionic limit. This decoupling of on-state performance from switching slope is inaccessible through conventional mobility engineering and establishes a concrete design principle: \\emph{valley-engineering sensitivity is maximized when $Δ_{KΓ} \\approx k_BT$}, the condition most naturally satisfied by bilayer WSe$_2$ at room temperature and zero strain, making it the optimal channel for valley-engineered GAA transistors.",
+      "score": 12,
+      "priority": 1,
+      "highlights": [
+        "transistor",
+        "GAA"
+      ],
+      "abstract_cn": "在双层 WSe2 中，层间耦合将 K–Γ 谷劈裂降低至室温下的 ΔKΓ ≈ kBT，使两个有效质量显著不同的空穴输运通道处于近热平衡状态。我们将包含自旋—轨道耦合的密度泛函理论（density functional theory, DFT）与解析双谷器件模型相结合，量化这种近简并性如何支配环栅（gate-all-around, GAA）场效应晶体管中的空穴输运。得到三个主要结果：（i）由于量子电容屏蔽，亚阈值摆幅被保护在接近 60 mV dec^-1，且与层数无关；（ii）有效迁移率由 K 谷到 Γ 谷的占据比决定，并随层数增加单调降低；（iii）在双层中，压缩双轴应变可同时增强导通电流、抑制关断电流，并将开关比从约 69 提高到约 156，同时亚阈值摆幅仍接近热离子极限。这种导通态性能与开关斜率之间的解耦无法通过传统迁移率工程实现，并确立了一条具体设计原则：当 ΔKΓ ≈ kBT 时，谷工程敏感性最大；这一条件在室温和零应变下最自然地由双层 WSe2 满足，使其成为谷工程 GAA 晶体管的最佳沟道。",
+      "abstract_zh": "在双层 WSe2 中，层间耦合将 K–Γ 谷劈裂降低至室温下的 ΔKΓ ≈ kBT，使两个有效质量显著不同的空穴输运通道处于近热平衡状态。我们将包含自旋—轨道耦合的密度泛函理论（density functional theory, DFT）与解析双谷器件模型相结合，量化这种近简并性如何支配环栅（gate-all-around, GAA）场效应晶体管中的空穴输运。得到三个主要结果：（i）由于量子电容屏蔽，亚阈值摆幅被保护在接近 60 mV dec^-1，且与层数无关；（ii）有效迁移率由 K 谷到 Γ 谷的占据比决定，并随层数增加单调降低；（iii）在双层中，压缩双轴应变可同时增强导通电流、抑制关断电流，并将开关比从约 69 提高到约 156，同时亚阈值摆幅仍接近热离子极限。这种导通态性能与开关斜率之间的解耦无法通过传统迁移率工程实现，并确立了一条具体设计原则：当 ΔKΓ ≈ kBT 时，谷工程敏感性最大；这一条件在室温和零应变下最自然地由双层 WSe2 满足，使其成为谷工程 GAA 晶体管的最佳沟道。",
+      "overview_cn": "Focus: 晶体管、GAA / 全环栅.\nWhat to check: 性能提升、效率/耦合表现、先进尺度下的可扩展性.\nContext: Valley Engineering in Bilayer WSe$_2$ Gate-All-Around Transistors.",
+      "reading_notes": "Focus: 晶体管、GAA / 全环栅.\nWhat to check: 性能提升、效率/耦合表现、先进尺度下的可扩展性.\nContext: Valley Engineering in Bilayer WSe$_2$ Gate-All-Around Transistors."
     },
     {
       "source": "Nature Materials",
@@ -111,120 +202,29 @@
     },
     {
       "source": "arXiv",
-      "uid": "arxiv:2606.04219v1",
-      "title": "Breaking the width-scaling limit in high-performance atomically thin 2D nanoribbon transistors",
-      "url": "https://arxiv.org/abs/2606.04219v1",
-      "published": "2026-06-03",
+      "uid": "arxiv:2606.08567v1",
+      "title": "V-Doped Niobate Nanosheets for Enhanced Photocatalytic Activity",
+      "url": "https://arxiv.org/abs/2606.08567v1",
+      "published": "2026-06-07",
       "authors": [
-        "Sameer Kumar Mallik",
-        "Adrian Christiansen",
-        "Saroj P. Dash"
+        "M. Tuğrul Avcu",
+        "Uğur Ünal"
       ],
-      "summary": "State-of-the-art transistors have been successfully scaled the gate lengths and channel thicknesses down to 5 nm for high-performance and energy-efficient information processing. However, reducing channel width below 40-50 nm remains a bottleneck, as dangling bonds, edge disorder, and lateral depletion suppress drive current and degrade device performance. Here, we break this width-scaling wall using ultra-scaled two-dimensional semiconductor (2DSC) nanoribbon transistors down to 15 nm. In contrast to the conventional scaling rule of degradation of current density upon width scaling, our atomically-thin monolayer and bilayer molybdenum disulfide nanoribbon transistors exhibit enhancement of on-current density of up to 230% and 170%,respectively, followed by a saturation for the narrowest channels down to 15 nm. The ultra-narrow nanoribbon transistors maintain the highest on/off ratios reported so far for similar device dimensions, with improved mobility and threshold-voltage stability, indicating reduced edge scattering and depletion with a stronger electrostatic control. These findings lead to a breakthrough in width scaling rules using 2DSC nanoribbons with enhanced performance at narrower channel widths, which is promising for the ultimate scaling of transistors.",
-      "score": 7,
+      "summary": "V-doped [Ca$_{2}$Nb$_{3-x}$V$_{x}$O$_{10}$]$^{-}$ (x = 0, 0.15, 0.3, 0.6, 0.75) nanosheets were produced by solid state reaction followed by protonation and exfoliation by tetrabutylammonium ions. 2D nanosheets have improved photocatalytic activity due to their small thickness that reduces electron-hole recombination, larger surface area that increases photocatalytic sites, and decreased band gap from added V. V-doping has caused the wide band gap of 3.54 eV of undoped nanosheets to decrease to 2.60-2.88 eV range. 10 vol% methanol was used as a hole scavenger in the hydrogen evolution reactions, and 3 wt% Pt was deposited on nanosheets as a co-catalyst. Under a full-spectrum Xe light, [Ca$_{2}$Nb$_{2.7}$V$_{0.3}$O$_{10}$]$^{-}$ has produced 4.7 times the H$_{2}$ yield as undoped nanosheets with a 11.3 mmol/g/h production rate, [Ca$_{2}$Nb$_{2.7}$V$_{0.3}$O$_{10}$]$^{-}$ with Pt co-catalyst has produced 2.9 times the H$_{2}$ yield as undoped Pt-loaded nanosheets.",
+      "score": 5,
       "priority": 1,
       "highlights": [
-        "transistor"
+        "nanosheets"
       ],
-      "abstract_cn": "最先进的晶体管已成功将栅长和沟道厚度缩小至 5 nm，用于高性能和高能效的信息处理。然而，将沟道宽度降低到 40–50 nm 以下仍是一个瓶颈，因为悬挂键、边缘无序和横向耗尽会抑制驱动电流并降低器件性能。本文利用宽度低至 15 nm 的超缩放二维半导体（two-dimensional semiconductor, 2DSC）纳米带晶体管突破了这一宽度缩放壁垒。与传统缩放规则中宽度缩放会导致电流密度退化不同，我们的原子级薄单层和双层二硫化钼纳米带晶体管分别表现出最高达 230% 和 170% 的导通电流密度增强，随后在最窄低至 15 nm 的沟道中趋于饱和。这些超窄纳米带晶体管在相似器件尺寸下保持了迄今报道的最高开关比，并具有改善的迁移率和阈值电压稳定性，表明在更强静电控制下边缘散射和耗尽得到降低。这些发现利用 2DSC 纳米带在更窄沟道宽度下实现增强性能，带来了宽度缩放规则上的突破，有望推动晶体管的极限缩放。",
-      "abstract_zh": "最先进的晶体管已成功将栅长和沟道厚度缩小至 5 nm，用于高性能和高能效的信息处理。然而，将沟道宽度降低到 40–50 nm 以下仍是一个瓶颈，因为悬挂键、边缘无序和横向耗尽会抑制驱动电流并降低器件性能。本文利用宽度低至 15 nm 的超缩放二维半导体（two-dimensional semiconductor, 2DSC）纳米带晶体管突破了这一宽度缩放壁垒。与传统缩放规则中宽度缩放会导致电流密度退化不同，我们的原子级薄单层和双层二硫化钼纳米带晶体管分别表现出最高达 230% 和 170% 的导通电流密度增强，随后在最窄低至 15 nm 的沟道中趋于饱和。这些超窄纳米带晶体管在相似器件尺寸下保持了迄今报道的最高开关比，并具有改善的迁移率和阈值电压稳定性，表明在更强静电控制下边缘散射和耗尽得到降低。这些发现利用 2DSC 纳米带在更窄沟道宽度下实现增强性能，带来了宽度缩放规则上的突破，有望推动晶体管的极限缩放。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: Breaking the width-scaling limit in high-performance atomically thin 2D nanoribbon transistors.",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: Breaking the width-scaling limit in high-performance atomically thin 2D nanoribbon transistors."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2606.03677v1",
-      "title": "20 ps Non-Destructive Read and 1 ns Write Operations at <5 V in Ferroelectric HfO2/ZrO2 Non-Volatile Memories",
-      "url": "https://arxiv.org/abs/2606.03677v1",
-      "published": "2026-06-02",
-      "authors": [
-        "Alexandre Baigol",
-        "Ruben Hamming-Green",
-        "Paul Uriarte Vicandi",
-        "Jiajie Gao",
-        "Till Zellweger",
-        "Anwesha Panda",
-        "Alexandros Emboras",
-        "Miklós Csontos",
-        "Mathieu Luisier",
-        "Beatriz Noheda",
-        "Laura Bégon-Lours"
-      ],
-      "summary": "Achieving low-voltage, nanosecond multi-level programming and non-destructive read-out of ferroelectric non-volatile memories (NVM) is critical for analog in-memory computing architectures relying on ferroelectric capacitive devices (FeCap). We integrate HfO2/ZrO2 ferroelectric nanolayers concurrently in the BEOL of CMOS and on SiO2/Si, achieving nanosecond multilevel switching with programming voltages below 5 V. Partial ferroelectric switching enhances FeCap endurance above 1011 cycles, leading to MemCapacitance (MC) states with non-destructive read-out and 10-year retention. However, experiments reveal the collapse of the MC window for read frequencies above 1 MHz. To overcome this speed limit, we introduce a novel, non-destructive readout methodology. Using electrical pulses with widths down to 20 ps, below the RC time constant of the FeCaps, we enable measurement of the polarization-dependent leakage current, providing ultrafast and non-destructive read operations at only 14 fJ.",
-      "score": 8,
-      "priority": 0,
-      "highlights": [
-        "ferroelectric",
-        "HfO2"
-      ],
-      "abstract_cn": "实现铁电非易失性存储器（non-volatile memories, NVM）的低电压、纳秒级多级编程和非破坏性读出，对于依赖铁电电容器件（ferroelectric capacitive devices, FeCap）的模拟存内计算架构至关重要。我们在 CMOS 后道工艺（back-end-of-line, BEOL）以及 SiO2/Si 上同时集成 HfO2/ZrO2 铁电纳米层，实现了编程电压低于 5 V 的纳秒级多级翻转。部分铁电翻转将 FeCap 耐久性提升至超过 10^11 次循环，形成具有非破坏性读出和 10 年保持能力的忆电容（MemCapacitance, MC）状态。然而，实验显示，当读取频率高于 1 MHz 时，MC 窗口会发生塌缩。为克服这一速度限制，我们引入了一种新的非破坏性读出方法。通过使用宽度低至 20 ps、低于 FeCap RC 时间常数的电脉冲，我们能够测量与极化相关的漏电流，从而以仅 14 fJ 的能量实现超快且非破坏性的读操作。",
-      "abstract_zh": "实现铁电非易失性存储器（non-volatile memories, NVM）的低电压、纳秒级多级编程和非破坏性读出，对于依赖铁电电容器件（ferroelectric capacitive devices, FeCap）的模拟存内计算架构至关重要。我们在 CMOS 后道工艺（back-end-of-line, BEOL）以及 SiO2/Si 上同时集成 HfO2/ZrO2 铁电纳米层，实现了编程电压低于 5 V 的纳秒级多级翻转。部分铁电翻转将 FeCap 耐久性提升至超过 10^11 次循环，形成具有非破坏性读出和 10 年保持能力的忆电容（MemCapacitance, MC）状态。然而，实验显示，当读取频率高于 1 MHz 时，MC 窗口会发生塌缩。为克服这一速度限制，我们引入了一种新的非破坏性读出方法。通过使用宽度低至 20 ps、低于 FeCap RC 时间常数的电脉冲，我们能够测量与极化相关的漏电流，从而以仅 14 fJ 的能量实现超快且非破坏性的读操作。",
-      "overview_cn": "Focus: 铁电材料、HfO2.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: 20 ps Non-Destructive Read and 1 ns Write Operations at <5 V in Ferroelectric HfO2/ZrO2 Non-Vol….",
-      "reading_notes": "Focus: 铁电材料、HfO2.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: 20 ps Non-Destructive Read and 1 ns Write Operations at <5 V in Ferroelectric HfO2/ZrO2 Non-Vol…."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2606.06952v1",
-      "title": "Characterization of Nonlinear Dynamics in Semiconductors in Frequency Domain using Modulated Photoexcitation",
-      "url": "https://arxiv.org/abs/2606.06952v1",
-      "published": "2026-06-05",
-      "authors": [
-        "Attia Awan",
-        "Rong Tang",
-        "Zhou Kang",
-        "Khadga Jung Karki"
-      ],
-      "summary": "Carrier dynamics in semiconductors is inherently complex owing to the coexistence of different excited species, such as free carriers and excitons, and their interactions among themselves and with traps and phonons. It is usual to use time-resolved responses to identify the processes that contribute to the dynamics. However, the responses often are non-exponential, leading to ambiguity in the interpretation. Here, we propose a frequency domain method to characterize nonlinear dynamics in semiconductors using CdSe as the test system. We show that by analyzing the frequency components in the total photoluminescence induced by a pair of phase-modulated beams, the parameters, such as rates of different types of recombination of free carriers and excitons, can be evaluated. The method can be used as a simple diagnostic tool to characterize ultrafast processes that are relevant to the functionality of semiconductor devices.",
-      "score": 5,
-      "priority": 0,
-      "highlights": [
-        "semiconductor"
-      ],
-      "abstract_cn": "由于自由载流子和激子等不同激发物种的共存，以及它们彼此之间并与陷阱和声子之间的相互作用，半导体中的载流子动力学本质上十分复杂。通常会使用时间分辨响应来识别对动力学有贡献的过程。然而，这些响应往往是非指数型的，从而导致解释上的歧义。本文提出了一种利用调制光激发在频域表征半导体非线性动力学的方法，并以 CdSe 作为测试体系。我们表明，通过分析由一对相位调制光束诱导的总光致发光中的频率分量，可以评估自由载流子和激子不同类型复合的速率等参数。该方法可作为一种简单的诊断工具，用于表征与半导体器件功能相关的超快过程。",
-      "abstract_zh": "由于自由载流子和激子等不同激发物种的共存，以及它们彼此之间并与陷阱和声子之间的相互作用，半导体中的载流子动力学本质上十分复杂。通常会使用时间分辨响应来识别对动力学有贡献的过程。然而，这些响应往往是非指数型的，从而导致解释上的歧义。本文提出了一种利用调制光激发在频域表征半导体非线性动力学的方法，并以 CdSe 作为测试体系。我们表明，通过分析由一对相位调制光束诱导的总光致发光中的频率分量，可以评估自由载流子和激子不同类型复合的速率等参数。该方法可作为一种简单的诊断工具，用于表征与半导体器件功能相关的超快过程。",
-      "overview_cn": "Focus: 半导体.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Characterization of Nonlinear Dynamics in Semiconductors in Frequency Domain using Modulated Ph….",
-      "reading_notes": "Focus: 半导体.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Characterization of Nonlinear Dynamics in Semiconductors in Frequency Domain using Modulated Ph…."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2606.06128v1",
-      "title": "Ferroelectric brightening of spin forbidden dark excitons in a WSe2/hybrid perovskite heterostructure",
-      "url": "https://arxiv.org/abs/2606.06128v1",
-      "published": "2026-06-04",
-      "authors": [
-        "Xinyun Wang",
-        "Magdalena Grzeszczyk",
-        "Maxim Trushin",
-        "Ivan Verzhbitskiy",
-        "Dmitrii Litvinov",
-        "Yi Wei Ho",
-        "Yuan Chen",
-        "Zhenyue Wu",
-        "Mykola Telychko",
-        "Chuanqi Zhang",
-        "Andres Granados del Aguila",
-        "Kuan Eng Johnson Goh",
-        "Xinwei Li",
-        "Goki Eda",
-        "Shaffique Adam",
-        "Maciej Koperski",
-        "Kian Ping Loh"
-      ],
-      "summary": "Long-lived dark excitons in monolayer WSe2 present promising candidates for carrying spin and valley information, but their optical access and spin manipulation have conventionally required the use of strong external magnetic fields. Here, using a ferroelectric hybrid perovskite heterostructure, we leverage the ferroelectric proximity effect to break the WSe2's in-plane rotational symmetry and brighten the spin-forbidden dark excitons under zero magnetic field conditions. Furthermore, we show that the twist angle between the WSe2 and perovskite crystals controls the ferroelectric coupling strength and valley-contrasting polarization. Our proposed mechanism, supported by a four-band tight-binding model, suggests that the ferroelectric proximity effect induces an asymmetric intersublattice interaction, generating an effective in-plane spin-orbit coupling (SOC) field that rotates spin/valley polarization and brightens dark excitons. Our work establishes ferroelectric proximity coupling as an electrically reconfigurable, magnetic-field-free strategy for spin exciton control in two-dimensional semiconductors.",
-      "score": 5,
-      "priority": 0,
-      "highlights": [
-        "ferroelectric"
-      ],
-      "abstract_cn": "单层 WSe2 中长寿命暗激子是携带自旋和谷信息的有前景候选者，但其光学访问和自旋操控传统上需要使用强外部磁场。本文利用一种铁电杂化钙钛矿异质结构，借助铁电邻近效应打破 WSe2 的面内旋转对称性，并在零磁场条件下亮化自旋禁戒暗激子。此外，我们表明 WSe2 与钙钛矿晶体之间的扭转角可控制铁电耦合强度和谷反差极化。我们提出的机制由四能带紧束缚模型支持，表明铁电邻近效应会诱导非对称的子晶格间相互作用，产生一个有效的面内自旋—轨道耦合（spin-orbit coupling, SOC）场，从而旋转自旋/谷极化并亮化暗激子。本工作确立了铁电邻近耦合作为二维半导体中自旋激子控制的一种电可重构、无磁场策略。",
-      "abstract_zh": "单层 WSe2 中长寿命暗激子是携带自旋和谷信息的有前景候选者，但其光学访问和自旋操控传统上需要使用强外部磁场。本文利用一种铁电杂化钙钛矿异质结构，借助铁电邻近效应打破 WSe2 的面内旋转对称性，并在零磁场条件下亮化自旋禁戒暗激子。此外，我们表明 WSe2 与钙钛矿晶体之间的扭转角可控制铁电耦合强度和谷反差极化。我们提出的机制由四能带紧束缚模型支持，表明铁电邻近效应会诱导非对称的子晶格间相互作用，产生一个有效的面内自旋—轨道耦合（spin-orbit coupling, SOC）场，从而旋转自旋/谷极化并亮化暗激子。本工作确立了铁电邻近耦合作为二维半导体中自旋激子控制的一种电可重构、无磁场策略。",
-      "overview_cn": "Focus: 铁电材料.\nWhat to check: 效率/耦合表现.\nContext: Ferroelectric brightening of spin forbidden dark excitons in a WSe2/hybrid perovskite heterostr….",
-      "reading_notes": "Focus: 铁电材料.\nWhat to check: 效率/耦合表现.\nContext: Ferroelectric brightening of spin forbidden dark excitons in a WSe2/hybrid perovskite heterostr…."
+      "abstract_cn": "V 掺杂 [Ca2Nb3-xVxO10]^-（x = 0、0.15、0.3、0.6、0.75）纳米片通过固相反应制备，随后经质子化并由四丁基铵离子剥离得到。二维纳米片由于厚度较小可减少电子—空穴复合、较大的表面积可增加光催化位点，并且加入 V 会降低带隙，因此具有改善的光催化活性。V 掺杂使未掺杂纳米片 3.54 eV 的宽带隙降低至 2.60–2.88 eV 范围。在析氢反应中使用 10 vol% 甲醇作为空穴清除剂，并在纳米片上沉积 3 wt% Pt 作为助催化剂。在全光谱 Xe 光照下，[Ca2Nb2.7V0.3O10]^- 产生的 H2 产率为未掺杂纳米片的 4.7 倍，产率达到 11.3 mmol/g/h；负载 Pt 助催化剂的 [Ca2Nb2.7V0.3O10]^- 产生的 H2 产率为未掺杂 Pt 负载纳米片的 2.9 倍。",
+      "abstract_zh": "V 掺杂 [Ca2Nb3-xVxO10]^-（x = 0、0.15、0.3、0.6、0.75）纳米片通过固相反应制备，随后经质子化并由四丁基铵离子剥离得到。二维纳米片由于厚度较小可减少电子—空穴复合、较大的表面积可增加光催化位点，并且加入 V 会降低带隙，因此具有改善的光催化活性。V 掺杂使未掺杂纳米片 3.54 eV 的宽带隙降低至 2.60–2.88 eV 范围。在析氢反应中使用 10 vol% 甲醇作为空穴清除剂，并在纳米片上沉积 3 wt% Pt 作为助催化剂。在全光谱 Xe 光照下，[Ca2Nb2.7V0.3O10]^- 产生的 H2 产率为未掺杂纳米片的 4.7 倍，产率达到 11.3 mmol/g/h；负载 Pt 助催化剂的 [Ca2Nb2.7V0.3O10]^- 产生的 H2 产率为未掺杂 Pt 负载纳米片的 2.9 倍。",
+      "overview_cn": "Focus: nanosheets.\nWhat to check: 性能提升、先进尺度下的可扩展性.\nContext: V-Doped Niobate Nanosheets for Enhanced Photocatalytic Activity.",
+      "reading_notes": "Focus: nanosheets.\nWhat to check: 性能提升、先进尺度下的可扩展性.\nContext: V-Doped Niobate Nanosheets for Enhanced Photocatalytic Activity."
     }
   ],
   "errors": [],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-06-09T00:30:00+00:00"
+  "generated_at": "2026-06-10T00:30:00+00:00"
 }
