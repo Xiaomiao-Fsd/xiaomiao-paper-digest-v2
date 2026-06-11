@@ -1,42 +1,9 @@
 {
   "ok": true,
-  "new_count": 8,
+  "new_count": 5,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-10）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Thermal Processing Limits in Oxide-Channel Ferroelectric Field Effect Transistors\n   关键词：transistor, ferroelectric\n   日期：2026-06-07\n   Authors: Lance Fernandes, Yu-Hsin Kuo, Chengyang Zhang 等\n   https://arxiv.org/abs/2606.08378v1\n2. [arXiv] Wafer-scale Demonstration of High-voltage beta-Ga2O3 MOSFETs with Excellent Uniformity and …\n   关键词：MOSFET, wafer\n   日期：2026-06-06\n   Authors: Ningtao Liu, Hengrui Zhang, Shujun Zhu 等\n   https://arxiv.org/abs/2606.07973v1\n3. [arXiv] Valley Engineering in Bilayer WSe$_2$ Gate-All-Around Transistors\n   关键词：transistor, GAA\n   日期：2026-06-08\n   Authors: Katsunori Wakabayashi, Souren Adhikary, Kazuhito Tsukagoshi\n   https://arxiv.org/abs/2606.08955v1\n4. [arXiv] V-Doped Niobate Nanosheets for Enhanced Photocatalytic Activity\n   关键词：nanosheets\n   日期：2026-06-07\n   Authors: M. Tuğrul Avcu, Uğur Ünal\n   https://arxiv.org/abs/2606.08567v1\n5. [Nature Electronics] Precise and efficient computing via signal folding\n   日期：2026-06-09\n   https://www.nature.com/articles/s41928-026-01646-9\n6. [arXiv] Controlled component segregation in vapor-deposited organic semiconductor glass mixtures\n   关键词：semiconductor\n   日期：2026-06-08\n   Authors: Shinian Cheng, Yejung Lee, Lian Yu 等\n   https://arxiv.org/abs/2606.09527v1\n7. [arXiv] BSE+ calculations for 2D materials: a unified description of excitons and plasmons\n   关键词：2D materials\n   日期：2026-06-08\n   Authors: Amalie H. Svaneborg, and Kristian S. Thygesen\n   https://arxiv.org/abs/2606.09192v1\n8. [arXiv] Agentic multi-fidelity learning of quasiparticle and excitonic properties\n   日期：2026-06-06\n   Authors: Arnab Neogi, Aaron Forde, Christopher A. Lane 等\n   https://arxiv.org/abs/2606.07836v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-11）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 5 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Electrical Spectroscopy of Intervalley Relaxation in WSe$_2$ Transistors\n   关键词：transistor\n   日期：2026-06-09\n   Authors: Katsunori Wakabayashi\n   https://arxiv.org/abs/2606.10470v1\n2. [Science Advances] Oil-impregnated densified wood veneer with high electrical insulation enabled by nanosized …\n   日期：2026-06-12\n   Authors: Meiling Wu, Yue Xu, Qian Zhang 等\n   https://doi.org/10.1126/sciadv.aed5744\n3. [arXiv] Optical-like interference control polar-phonons dispersions in 2D materials\n   关键词：2D materials\n   日期：2026-06-09\n   Authors: Benoit Van Troeye, Geoffrey Pourtois\n   https://arxiv.org/abs/2606.10549v1\n4. [arXiv] Robust AI-Driven Discovery of Electronic Metal Phosphide Semiconductors\n   关键词：semiconductor\n   日期：2026-06-09\n   Authors: Benhao Zhu, Muhammad Faizan, Zewei Li 等\n   https://arxiv.org/abs/2606.10251v1\n5. [arXiv] Synthesis and Characterization of Atomically-Sharp Superconductor-Dielectric Interface\n   关键词：dielectric\n   日期：2026-06-09\n   Authors: Nathan Sitaraman, Zhaslan Baraissov, Alexis Grassl 等\n   https://arxiv.org/abs/2606.10144v1",
   "papers": [
-    {
-      "source": "Science Advances",
-      "uid": "doi:10.1126/sciadv.aec2641",
-      "title": "Biofunctionalized polymer semiconductors toward soft and stretchable transistor-based biosensors",
-      "url": "https://doi.org/10.1126/sciadv.aec2641",
-      "published": "2026-06-05",
-      "authors": [
-        "Chuanzhen Zhao",
-        "Qianhe Liu",
-        "Jia-Yuan Chang",
-        "Aditri Patil",
-        "Lukas Michalek",
-        "Yilei Wu",
-        "Yujia Yuan",
-        "Rachael K. Mow",
-        "Yuran Shi",
-        "Yating Yao",
-        "Kuang-Jung Hsu",
-        "Yu Zheng",
-        "Zhenan Bao"
-      ],
-      "summary": "Organic materials with tunable chemical and mechanical properties are ideal for interfacing with skin and tissue in biomedical applications. While polymer semiconductors (PSCs) have advanced toward skin-like mechanical performance, the limited capacity for biofunctionalization has restricted their biosensing applications. In this study, we introduce a direct biofunctionalization strategy for PSCs based on thiol-ene chemistry. We selectively grafted thiolated biomolecules (e.g., aptamers) onto elastomeric domains within an interconnected semiconductor/elastomer network. This approach enables high-resolution patterning down to 10 micrometers while preserving the electronic performance of PSCs. Leveraging this platform, we designed and fabricated skin-like electrolyte-gated organic field-effect transistors with biofunctionalized channels. These soft and stretchable devices exhibit stable operation in physiological buffers for more than 50 days and maintain performance under up to 50% strain. When functionalized with cortisol-binding aptamers, the sensors achieved sensitive detection across physiologically relevant concentrations, down to the picomolar range. This work establishes a foundation for integrating stretchable and biofunctional PSCs into skin-like wearable devices.",
-      "score": 15,
-      "priority": 2,
-      "highlights": [
-        "transistor",
-        "semiconductor"
-      ],
-      "abstract_cn": "具有可调化学和力学性质的有机材料非常适合在生物医学应用中与皮肤和组织形成界面。尽管聚合物半导体（polymer semiconductors, PSCs）已朝着类皮肤力学性能取得进展，但其有限的生物功能化能力限制了其生物传感应用。在本研究中，我们提出了一种基于巯基-烯化学的 PSC 直接生物功能化策略。我们将巯基化生物分子（例如适配体）选择性接枝到互连半导体/弹性体网络中的弹性体域上。该方法能够实现低至 10 微米的高分辨率图形化，同时保持 PSC 的电子性能。利用这一平台，我们设计并制备了具有生物功能化沟道的类皮肤电解质栅控有机场效应晶体管。这些柔软且可拉伸的器件在生理缓冲液中可稳定工作超过 50 天，并在高达 50% 应变下保持性能。当用皮质醇结合适配体进行功能化后，传感器能够在生理相关浓度范围内实现灵敏检测，最低可达皮摩尔范围。本工作为将可拉伸且生物功能化的 PSC 集成到类皮肤可穿戴器件中奠定了基础。",
-      "abstract_zh": "具有可调化学和力学性质的有机材料非常适合在生物医学应用中与皮肤和组织形成界面。尽管聚合物半导体（polymer semiconductors, PSCs）已朝着类皮肤力学性能取得进展，但其有限的生物功能化能力限制了其生物传感应用。在本研究中，我们提出了一种基于巯基-烯化学的 PSC 直接生物功能化策略。我们将巯基化生物分子（例如适配体）选择性接枝到互连半导体/弹性体网络中的弹性体域上。该方法能够实现低至 10 微米的高分辨率图形化，同时保持 PSC 的电子性能。利用这一平台，我们设计并制备了具有生物功能化沟道的类皮肤电解质栅控有机场效应晶体管。这些柔软且可拉伸的器件在生理缓冲液中可稳定工作超过 50 天，并在高达 50% 应变下保持性能。当用皮质醇结合适配体进行功能化后，传感器能够在生理相关浓度范围内实现灵敏检测，最低可达皮摩尔范围。本工作为将可拉伸且生物功能化的 PSC 集成到类皮肤可穿戴器件中奠定了基础。",
-      "overview_cn": "Focus: 晶体管、半导体.\nWhat to check: 性能提升、可靠性与稳定性、接触/互连相关指标.\nContext: Biofunctionalized polymer semiconductors toward soft and stretchable transistor-based biosensors.",
-      "reading_notes": "Focus: 晶体管、半导体.\nWhat to check: 性能提升、可靠性与稳定性、接触/互连相关指标.\nContext: Biofunctionalized polymer semiconductors toward soft and stretchable transistor-based biosensors."
-    },
     {
       "source": "arXiv",
       "uid": "arxiv:2606.08378v1",
@@ -70,8 +37,8 @@
         "transistor",
         "ferroelectric"
       ],
-      "abstract_cn": "在本工作中，我们系统研究了高温封帽后热退火对氧化物半导体沟道铁电场效应晶体管（Oxide-semiconductor channel ferroelectric field-effect transistors, OS-FeFETs）存储特性的影响。采用相同的工程化铁电栅堆叠 8 nm Hf0.5Zr0.5O2（HZO）/3 nm Al2O3/8 nm HZO（8/3/8）以及混合封帽层（3 nm HfO2 + 3 nm Al2O3），10% Ga 掺杂 InO（IGO）沟道和 4% W 掺杂 InO（IWO）沟道 FeFET 在最高 650 °C 的退火温度下分别持续最长 30 min 和 10 min 后仍保持功能；进一步退火会导致不可逆的导电性丧失和器件失效。详细电学分析表明，存储窗口（MW）增强源于擦除态阈值电压的优先正向偏移，而编程态阈值电压保持相对稳定。掠入射 X 射线衍射测量进一步表明，随着退火温度升高，IWO 和 IGO 氧化物沟道发生结构演化，这支持了所观察到的电学趋势。",
-      "abstract_zh": "在本工作中，我们系统研究了高温封帽后热退火对氧化物半导体沟道铁电场效应晶体管（Oxide-semiconductor channel ferroelectric field-effect transistors, OS-FeFETs）存储特性的影响。采用相同的工程化铁电栅堆叠 8 nm Hf0.5Zr0.5O2（HZO）/3 nm Al2O3/8 nm HZO（8/3/8）以及混合封帽层（3 nm HfO2 + 3 nm Al2O3），10% Ga 掺杂 InO（IGO）沟道和 4% W 掺杂 InO（IWO）沟道 FeFET 在最高 650 °C 的退火温度下分别持续最长 30 min 和 10 min 后仍保持功能；进一步退火会导致不可逆的导电性丧失和器件失效。详细电学分析表明，存储窗口（MW）增强源于擦除态阈值电压的优先正向偏移，而编程态阈值电压保持相对稳定。掠入射 X 射线衍射测量进一步表明，随着退火温度升高，IWO 和 IGO 氧化物沟道发生结构演化，这支持了所观察到的电学趋势。",
+      "abstract_cn": "在本工作中，我们系统研究了高温封帽后热退火对氧化物半导体沟道铁电场效应晶体管（oxide-semiconductor channel ferroelectric field-effect transistors, OS-FeFETs）存储特性的影响。采用相同的工程化铁电栅堆叠 8 nm Hf0.5Zr0.5O2（HZO）/3 nm Al2O3/8 nm HZO（8/3/8）以及混合封帽层（3 nm HfO2 + 3 nm Al2O3），10% Ga 掺杂 InO（IGO）沟道和 4% W 掺杂 InO（IWO）沟道 FeFET 在最高 650 °C 的退火温度下分别持续最长 30 min 和 10 min 后仍保持功能；进一步退火会导致不可逆的导电性丧失和器件失效。详细电学分析表明，存储窗口（memory window, MW）的增强源于擦除态阈值电压的优先正向偏移，而编程态阈值电压保持相对稳定。掠入射 X 射线衍射测量进一步表明，随着退火温度升高，IWO 和 IGO 氧化物沟道发生结构演化，这支持了所观察到的电学趋势。",
+      "abstract_zh": "在本工作中，我们系统研究了高温封帽后热退火对氧化物半导体沟道铁电场效应晶体管（oxide-semiconductor channel ferroelectric field-effect transistors, OS-FeFETs）存储特性的影响。采用相同的工程化铁电栅堆叠 8 nm Hf0.5Zr0.5O2（HZO）/3 nm Al2O3/8 nm HZO（8/3/8）以及混合封帽层（3 nm HfO2 + 3 nm Al2O3），10% Ga 掺杂 InO（IGO）沟道和 4% W 掺杂 InO（IWO）沟道 FeFET 在最高 650 °C 的退火温度下分别持续最长 30 min 和 10 min 后仍保持功能；进一步退火会导致不可逆的导电性丧失和器件失效。详细电学分析表明，存储窗口（memory window, MW）的增强源于擦除态阈值电压的优先正向偏移，而编程态阈值电压保持相对稳定。掠入射 X 射线衍射测量进一步表明，随着退火温度升高，IWO 和 IGO 氧化物沟道发生结构演化，这支持了所观察到的电学趋势。",
       "overview_cn": "Focus: 晶体管、铁电材料.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Thermal Processing Limits in Oxide-Channel Ferroelectric Field Effect Transistors.",
       "reading_notes": "Focus: 晶体管、铁电材料.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Thermal Processing Limits in Oxide-Channel Ferroelectric Field Effect Transistors."
     },
@@ -100,8 +67,8 @@
         "MOSFET",
         "wafer"
       ],
-      "abstract_cn": "本研究展示了 2 英寸 Si 掺杂 β-Ga2O3 (100) 外延晶圆的晶圆级生长，以及均匀高压横向 β-Ga2O3 MOSFET 阵列的实现。通过 MOCVD 生长的 2 英寸同质外延 β-Ga2O3 (100) 薄膜表现出优异的晶体均匀性，摇摆曲线平均半峰全宽（FWHM）约为 27.0 arcsec，表面粗糙度低于 1 nm，同时具有均匀的净掺杂浓度，数值为 4.60×1E17 cm^-3。所制备的 MOSFET 实现了 -31.75 V 的阈值电压、超过 1E9 的漏极电流开关比、126.52 mΩ·cm2 的比导通电阻以及超过 3 kV 的击穿电压。整个晶圆范围内的统计分析显示出良好的器件均匀性，阈值电压范围为 -28 V 至 -36 V，输出电流密度为 60–75 mA/mm，击穿电压超过 3 kV。这些结果证明，利用 2 英寸 β-Ga2O3 外延晶圆可实现具有晶圆级性能均匀性的高压 β-Ga2O3 MOSFET，用于下一代功率器件应用。",
-      "abstract_zh": "本研究展示了 2 英寸 Si 掺杂 β-Ga2O3 (100) 外延晶圆的晶圆级生长，以及均匀高压横向 β-Ga2O3 MOSFET 阵列的实现。通过 MOCVD 生长的 2 英寸同质外延 β-Ga2O3 (100) 薄膜表现出优异的晶体均匀性，摇摆曲线平均半峰全宽（FWHM）约为 27.0 arcsec，表面粗糙度低于 1 nm，同时具有均匀的净掺杂浓度，数值为 4.60×1E17 cm^-3。所制备的 MOSFET 实现了 -31.75 V 的阈值电压、超过 1E9 的漏极电流开关比、126.52 mΩ·cm2 的比导通电阻以及超过 3 kV 的击穿电压。整个晶圆范围内的统计分析显示出良好的器件均匀性，阈值电压范围为 -28 V 至 -36 V，输出电流密度为 60–75 mA/mm，击穿电压超过 3 kV。这些结果证明，利用 2 英寸 β-Ga2O3 外延晶圆可实现具有晶圆级性能均匀性的高压 β-Ga2O3 MOSFET，用于下一代功率器件应用。",
+      "abstract_cn": "本研究展示了 2 英寸 Si 掺杂 β-Ga2O3 (100) 外延晶圆的晶圆级生长，以及均匀高压横向 β-Ga2O3 MOSFET 阵列的实现。通过 MOCVD 生长的 2 英寸同质外延 β-Ga2O3 (100) 薄膜表现出优异的晶体均匀性，摇摆曲线平均半峰全宽（FWHM）约为 27.0 arcsec，表面粗糙度低于 1 nm，同时具有均匀的净掺杂浓度，数值为 4.60 × 10^17 cm^-3。所制备的 MOSFET 实现了 -31.75 V 的阈值电压、超过 10^9 的漏极电流开关比、126.52 mΩ·cm2 的比导通电阻以及超过 3 kV 的击穿电压。整个晶圆范围内的统计分析显示出良好的器件均匀性，阈值电压范围为 -28 V 至 -36 V，输出电流密度为 60–75 mA/mm，击穿电压超过 3 kV。这些结果证明，利用 2 英寸 β-Ga2O3 外延晶圆可实现具有晶圆级性能均匀性的高压 β-Ga2O3 MOSFET，用于下一代功率器件应用。",
+      "abstract_zh": "本研究展示了 2 英寸 Si 掺杂 β-Ga2O3 (100) 外延晶圆的晶圆级生长，以及均匀高压横向 β-Ga2O3 MOSFET 阵列的实现。通过 MOCVD 生长的 2 英寸同质外延 β-Ga2O3 (100) 薄膜表现出优异的晶体均匀性，摇摆曲线平均半峰全宽（FWHM）约为 27.0 arcsec，表面粗糙度低于 1 nm，同时具有均匀的净掺杂浓度，数值为 4.60 × 10^17 cm^-3。所制备的 MOSFET 实现了 -31.75 V 的阈值电压、超过 10^9 的漏极电流开关比、126.52 mΩ·cm2 的比导通电阻以及超过 3 kV 的击穿电压。整个晶圆范围内的统计分析显示出良好的器件均匀性，阈值电压范围为 -28 V 至 -36 V，输出电流密度为 60–75 mA/mm，击穿电压超过 3 kV。这些结果证明，利用 2 英寸 β-Ga2O3 外延晶圆可实现具有晶圆级性能均匀性的高压 β-Ga2O3 MOSFET，用于下一代功率器件应用。",
       "overview_cn": "Focus: MOSFET、wafer.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Wafer-scale Demonstration of High-voltage beta-Ga2O3 MOSFETs with Excellent Uniformity and over….",
       "reading_notes": "Focus: MOSFET、wafer.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Wafer-scale Demonstration of High-voltage beta-Ga2O3 MOSFETs with Excellent Uniformity and over…."
     },
@@ -169,36 +136,30 @@
       "highlights": [
         "transistor"
       ],
-      "abstract_cn": "《Nature Materials》，在线发表：2026年6月8日；doi:10.1038/s41563-026-02613-7。由于电荷注入效率较低，有机发光晶体管需要较高的工作电压，并表现出较窄的复合区。通过在发光聚合物中引入离子传输增强剂，实现了工作电压低于 3.5 V、最大复合区宽度约为 267 µm 的有机发光晶体管。",
-      "abstract_zh": "《Nature Materials》，在线发表：2026年6月8日；doi:10.1038/s41563-026-02613-7。由于电荷注入效率较低，有机发光晶体管需要较高的工作电压，并表现出较窄的复合区。通过在发光聚合物中引入离子传输增强剂，实现了工作电压低于 3.5 V、最大复合区宽度约为 267 µm 的有机发光晶体管。",
+      "abstract_cn": "《Nature Materials》，在线发表：2026 年 6 月 8 日；doi:10.1038/s41563-026-02613-7。由于电荷注入效率较低，有机发光晶体管需要较高的工作电压，并表现出较窄的复合区。通过在发光聚合物中引入离子传输增强剂，实现了工作电压低于 3.5 V、最大复合区宽度约为 267 µm 的有机发光晶体管。",
+      "abstract_zh": "《Nature Materials》，在线发表：2026 年 6 月 8 日；doi:10.1038/s41563-026-02613-7。由于电荷注入效率较低，有机发光晶体管需要较高的工作电压，并表现出较窄的复合区。通过在发光聚合物中引入离子传输增强剂，实现了工作电压低于 3.5 V、最大复合区宽度约为 267 µm 的有机发光晶体管。",
       "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、效率/耦合表现.\nContext: Ultralow-voltage electrochemical organic light-emitting transistors with pinned and wide latera….",
       "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、效率/耦合表现.\nContext: Ultralow-voltage electrochemical organic light-emitting transistors with pinned and wide latera…."
     },
     {
       "source": "arXiv",
-      "uid": "arxiv:2606.04842v1",
-      "title": "Barrier-channel intermixing and 2-dimensional electron gas degradation in Al-rich Al(Ga)N/AlGaN high electron mobility transistor heterostructures",
-      "url": "https://arxiv.org/abs/2606.04842v1",
-      "published": "2026-06-03",
+      "uid": "arxiv:2606.10470v1",
+      "title": "Electrical Spectroscopy of Intervalley Relaxation in WSe$_2$ Transistors",
+      "url": "https://arxiv.org/abs/2606.10470v1",
+      "published": "2026-06-09",
       "authors": [
-        "Pietro Pampili",
-        "Vitaly Z. Zubialevich",
-        "Badal Mondal",
-        "Jayjit Mukherjee",
-        "Stefan Schulz",
-        "David A. J. Moran",
-        "Peter J. Parbrook"
+        "Katsunori Wakabayashi"
       ],
-      "summary": "In this work, we report on recent results in understanding and addressing the issue of interface smearing in high-aluminium content AlGaN/AlGaN heterostructures. On the one hand, the growth of high-crystal quality AlGaN by metal-organic vapour phase epitaxy (MOVPE) requires the use of high temperatures, but on the other hand this may lead to alloy intermixing between barrier and channel layers, which smoothens out the polarization contrast and severely degrades or even completely destroys the 2-dimensional electron gas (2DEG). We show that X-Ray Diffraction (XRD) analysis can be used as a non-destructive way to assess the sharpness of the interface, and that improved growth schemes can be successfully used to achieve high-quality 2DEG, as confirmed by contactless resistivity measurements. In particular, sheet resistivities around 2,500 $Ω/\\Box$ were demonstrated for AlN/Al$_{0.75}$Ga$_{0.25}$N, consistent with the best-reported values in the literature.",
-      "score": 7,
+      "summary": "We show that the transconductance of multilayer WSe$_2$ field-effect transistors serves as a direct electrical spectrometer of the intervalley relaxation time $τ_{\\rm iv}$, previously accessible only by ultrafast optical techniques. Extending an equilibrium valley-thermodynamics framework with a single relaxation equation for the $Γ$-valley carrier fraction $f_Γ(t)$, we predict three signatures: (i)~a Lorentzian transconductance $g_m(ω)=g_{m,0}+g_{m,v}^0/(1+iωτ_{\\rm iv})$, whose imaginary part peaks at $ω_c=τ_{\\rm iv}^{-1}$ with opposite signs for bilayer and trilayer; (ii)~a two-stage current transient after a gate step, exhibiting bilayer overshoot or trilayer undershoot; and (iii)~sweep-rate-proportional hysteresis whose gate-voltage profile and layer-number sign reversal distinguish valley from trap-induced dynamics. All three signatures provide quantitative electrical access to $τ_{\\rm iv}$ with standard rf and dc instrumentation.",
+      "score": 5,
       "priority": 1,
       "highlights": [
         "transistor"
       ],
-      "abstract_cn": "在本工作中，我们报道了近期在理解和解决高铝含量 AlGaN/AlGaN 异质结构中界面模糊问题方面的结果。一方面，通过金属有机气相外延（metal-organic vapour phase epitaxy, MOVPE）生长高晶体质量 AlGaN 需要使用高温；但另一方面，这可能导致势垒层和沟道层之间发生合金互混，从而削弱极化对比，并严重劣化甚至完全破坏二维电子气（2-dimensional electron gas, 2DEG）。我们表明，X 射线衍射（X-Ray Diffraction, XRD）分析可作为一种无损方法来评估界面锐利程度，并且改进的生长方案可成功用于获得高质量 2DEG，这一点由非接触式电阻率测量得到证实。特别是，对于 AlN/Al0.75Ga0.25N，已展示约 2,500 Ω/□ 的薄层电阻率，与文献中报道的最佳数值一致。",
-      "abstract_zh": "在本工作中，我们报道了近期在理解和解决高铝含量 AlGaN/AlGaN 异质结构中界面模糊问题方面的结果。一方面，通过金属有机气相外延（metal-organic vapour phase epitaxy, MOVPE）生长高晶体质量 AlGaN 需要使用高温；但另一方面，这可能导致势垒层和沟道层之间发生合金互混，从而削弱极化对比，并严重劣化甚至完全破坏二维电子气（2-dimensional electron gas, 2DEG）。我们表明，X 射线衍射（X-Ray Diffraction, XRD）分析可作为一种无损方法来评估界面锐利程度，并且改进的生长方案可成功用于获得高质量 2DEG，这一点由非接触式电阻率测量得到证实。特别是，对于 AlN/Al0.75Ga0.25N，已展示约 2,500 Ω/□ 的薄层电阻率，与文献中报道的最佳数值一致。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升.\nContext: Barrier-channel intermixing and 2-dimensional electron gas degradation in Al-rich Al(Ga)N/AlGaN….",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升.\nContext: Barrier-channel intermixing and 2-dimensional electron gas degradation in Al-rich Al(Ga)N/AlGaN…."
+      "abstract_cn": "我们表明，多层 WSe2 场效应晶体管的跨导可作为谷间弛豫时间 τiv 的直接电学谱仪，而此前 τiv 只能通过超快光学技术获得。我们在平衡谷热力学框架中引入针对 Γ 谷载流子分数 fΓ(t) 的单一弛豫方程，并预测了三个特征：（i）洛伦兹型跨导 gm(ω)=gm,0+gm,v^0/(1+iωτiv)，其虚部在 ωc=τiv^-1 处达到峰值，并且在双层和三层中符号相反；（ii）栅压阶跃后的两阶段电流瞬态，表现为双层过冲或三层欠冲；以及（iii）与扫描速率成正比的滞回，其栅电压轮廓和层数相关的符号反转可将谷动力学与陷阱诱导动力学区分开来。这三个特征均可通过标准射频和直流仪器对 τiv 进行定量电学访问。",
+      "abstract_zh": "我们表明，多层 WSe2 场效应晶体管的跨导可作为谷间弛豫时间 τiv 的直接电学谱仪，而此前 τiv 只能通过超快光学技术获得。我们在平衡谷热力学框架中引入针对 Γ 谷载流子分数 fΓ(t) 的单一弛豫方程，并预测了三个特征：（i）洛伦兹型跨导 gm(ω)=gm,0+gm,v^0/(1+iωτiv)，其虚部在 ωc=τiv^-1 处达到峰值，并且在双层和三层中符号相反；（ii）栅压阶跃后的两阶段电流瞬态，表现为双层过冲或三层欠冲；以及（iii）与扫描速率成正比的滞回，其栅电压轮廓和层数相关的符号反转可将谷动力学与陷阱诱导动力学区分开来。这三个特征均可通过标准射频和直流仪器对 τiv 进行定量电学访问。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Electrical Spectroscopy of Intervalley Relaxation in WSe$_2$ Transistors.",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Electrical Spectroscopy of Intervalley Relaxation in WSe$_2$ Transistors."
     },
     {
       "source": "arXiv",
@@ -220,11 +181,46 @@
       "abstract_zh": "V 掺杂 [Ca2Nb3-xVxO10]^-（x = 0、0.15、0.3、0.6、0.75）纳米片通过固相反应制备，随后经质子化并由四丁基铵离子剥离得到。二维纳米片由于厚度较小可减少电子—空穴复合、较大的表面积可增加光催化位点，并且加入 V 会降低带隙，因此具有改善的光催化活性。V 掺杂使未掺杂纳米片 3.54 eV 的宽带隙降低至 2.60–2.88 eV 范围。在析氢反应中使用 10 vol% 甲醇作为空穴清除剂，并在纳米片上沉积 3 wt% Pt 作为助催化剂。在全光谱 Xe 光照下，[Ca2Nb2.7V0.3O10]^- 产生的 H2 产率为未掺杂纳米片的 4.7 倍，产率达到 11.3 mmol/g/h；负载 Pt 助催化剂的 [Ca2Nb2.7V0.3O10]^- 产生的 H2 产率为未掺杂 Pt 负载纳米片的 2.9 倍。",
       "overview_cn": "Focus: nanosheets.\nWhat to check: 性能提升、先进尺度下的可扩展性.\nContext: V-Doped Niobate Nanosheets for Enhanced Photocatalytic Activity.",
       "reading_notes": "Focus: nanosheets.\nWhat to check: 性能提升、先进尺度下的可扩展性.\nContext: V-Doped Niobate Nanosheets for Enhanced Photocatalytic Activity."
+    },
+    {
+      "source": "Science Advances",
+      "uid": "doi:10.1126/sciadv.aed5744",
+      "title": "Oil-impregnated densified wood veneer with high electrical insulation enabled by nanosized oil channels",
+      "url": "https://doi.org/10.1126/sciadv.aed5744",
+      "published": "2026-06-12",
+      "authors": [
+        "Meiling Wu",
+        "Yue Xu",
+        "Qian Zhang",
+        "Alexandra Brozena",
+        "Yimin Mao",
+        "Yu Liu",
+        "Lin Xu",
+        "Soori Tejaswi",
+        "Yugang Zhang",
+        "Xinpeng Zhao",
+        "Kent Congxi Zhang",
+        "Kishore Ramakrishnan",
+        "Oliver Wang",
+        "J. Nelson",
+        "Vaibhav Bahadur",
+        "J. Y. Zhu",
+        "Robert E. Hebner",
+        "Liangbing Hu"
+      ],
+      "summary": "Growing energy demands and renewable integration are stressing the aging power grid infrastructure. Lignocellulosic oil-impregnated paper is widely used in power transformers but suffers from critical limitations, such as low dielectric strength, mechanical strength, and thermal conductivity, causing premature transformer failures. Here, we demonstrate a superior electrically insulating oil-impregnated paper design using the naturally anisotropic structure of densified wood veneer to achieve nanosized channels of oil that efficiently disrupt electrical breakdown pathways. The developed oil-impregnated densified wood (ODW) creates aligned cellulose fibers with 166 ± 87–nanometer oil nanochannels, achieving record dielectric strength of 105 kilovolts per millimeter. The structure also delivers a mechanical strength of up to 384 megapascals and a thermal conductivity of 0.33 watts per meter per kelvin, enabling enhanced longevity upon thermal aging tests. The ODW could replace conventional transformer insulation to enhance power transformer performance and improve lifetime. Moreover, its anisotropic oil-filled nanochannel design offers a general strategy for hybrid dielectrics in medium- and high-voltage applications.",
+      "score": 6,
+      "priority": 0,
+      "highlights": [],
+      "abstract_cn": "不断增长的能源需求和可再生能源并网正在给老化的电网基础设施带来压力。木质纤维素油浸纸广泛用于电力变压器，但存在介电强度、机械强度和热导率较低等关键局限，导致变压器过早失效。本文展示了一种性能更优的电绝缘油浸纸设计，利用致密化木单板天然各向异性的结构形成纳米尺度油通道，从而有效阻断电击穿路径。所开发的油浸致密化木材（oil-impregnated densified wood, ODW）形成了取向排列的纤维素纤维，并具有 166 ± 87 nm 的油纳米通道，实现了 105 kV/mm 的创纪录介电强度。该结构还提供高达 384 MPa 的机械强度和 0.33 W/m·K 的热导率，在热老化测试中表现出增强的寿命。ODW 有望替代传统变压器绝缘材料，以提升电力变压器性能并延长使用寿命。此外，其各向异性充油纳米通道设计为中高压应用中的混合介电材料提供了一种通用策略。",
+      "abstract_zh": "不断增长的能源需求和可再生能源并网正在给老化的电网基础设施带来压力。木质纤维素油浸纸广泛用于电力变压器，但存在介电强度、机械强度和热导率较低等关键局限，导致变压器过早失效。本文展示了一种性能更优的电绝缘油浸纸设计，利用致密化木单板天然各向异性的结构形成纳米尺度油通道，从而有效阻断电击穿路径。所开发的油浸致密化木材（oil-impregnated densified wood, ODW）形成了取向排列的纤维素纤维，并具有 166 ± 87 nm 的油纳米通道，实现了 105 kV/mm 的创纪录介电强度。该结构还提供高达 384 MPa 的机械强度和 0.33 W/m·K 的热导率，在热老化测试中表现出增强的寿命。ODW 有望替代传统变压器绝缘材料，以提升电力变压器性能并延长使用寿命。此外，其各向异性充油纳米通道设计为中高压应用中的混合介电材料提供了一种通用策略。",
+      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、功耗或能效表现、与既有工艺平台的集成价值.\nContext: Oil-impregnated densified wood veneer with high electrical insulation enabled by nanosized oil ….",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、功耗或能效表现、与既有工艺平台的集成价值.\nContext: Oil-impregnated densified wood veneer with high electrical insulation enabled by nanosized oil …."
     }
   ],
   "errors": [],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-06-10T00:30:00+00:00"
+  "generated_at": "2026-06-11T00:30:00+00:00"
 }
