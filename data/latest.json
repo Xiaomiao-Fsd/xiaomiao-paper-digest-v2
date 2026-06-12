@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 5,
+  "new_count": 2,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-11）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 5 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Electrical Spectroscopy of Intervalley Relaxation in WSe$_2$ Transistors\n   关键词：transistor\n   日期：2026-06-09\n   Authors: Katsunori Wakabayashi\n   https://arxiv.org/abs/2606.10470v1\n2. [Science Advances] Oil-impregnated densified wood veneer with high electrical insulation enabled by nanosized …\n   日期：2026-06-12\n   Authors: Meiling Wu, Yue Xu, Qian Zhang 等\n   https://doi.org/10.1126/sciadv.aed5744\n3. [arXiv] Optical-like interference control polar-phonons dispersions in 2D materials\n   关键词：2D materials\n   日期：2026-06-09\n   Authors: Benoit Van Troeye, Geoffrey Pourtois\n   https://arxiv.org/abs/2606.10549v1\n4. [arXiv] Robust AI-Driven Discovery of Electronic Metal Phosphide Semiconductors\n   关键词：semiconductor\n   日期：2026-06-09\n   Authors: Benhao Zhu, Muhammad Faizan, Zewei Li 等\n   https://arxiv.org/abs/2606.10251v1\n5. [arXiv] Synthesis and Characterization of Atomically-Sharp Superconductor-Dielectric Interface\n   关键词：dielectric\n   日期：2026-06-09\n   Authors: Nathan Sitaraman, Zhaslan Baraissov, Alexis Grassl 等\n   https://arxiv.org/abs/2606.10144v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-12）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 2 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Boron Co-Alloying in AlScN Wurtzite Ferroelectrics: Insights from an 850-Sample Combinatori…\n   日期：2026-06-10\n   Authors: Federica Messi, Nathan Rodkey, Manuel Kober-Czerny 等\n   https://arxiv.org/abs/2606.11954v1\n2. [arXiv] Robust Spin Logic Enabled by Generalized $\\mathrm{SU}(2)$ Symmetry in $p$-Wave Magnets\n   日期：2026-06-10\n   Authors: Hao-Kun Ke, Gong Zhao, Siqing Li 等\n   https://arxiv.org/abs/2606.11912v1",
   "papers": [
     {
       "source": "arXiv",
@@ -37,8 +37,8 @@
         "transistor",
         "ferroelectric"
       ],
-      "abstract_cn": "在本工作中，我们系统研究了高温封帽后热退火对氧化物半导体沟道铁电场效应晶体管（oxide-semiconductor channel ferroelectric field-effect transistors, OS-FeFETs）存储特性的影响。采用相同的工程化铁电栅堆叠 8 nm Hf0.5Zr0.5O2（HZO）/3 nm Al2O3/8 nm HZO（8/3/8）以及混合封帽层（3 nm HfO2 + 3 nm Al2O3），10% Ga 掺杂 InO（IGO）沟道和 4% W 掺杂 InO（IWO）沟道 FeFET 在最高 650 °C 的退火温度下分别持续最长 30 min 和 10 min 后仍保持功能；进一步退火会导致不可逆的导电性丧失和器件失效。详细电学分析表明，存储窗口（memory window, MW）的增强源于擦除态阈值电压的优先正向偏移，而编程态阈值电压保持相对稳定。掠入射 X 射线衍射测量进一步表明，随着退火温度升高，IWO 和 IGO 氧化物沟道发生结构演化，这支持了所观察到的电学趋势。",
-      "abstract_zh": "在本工作中，我们系统研究了高温封帽后热退火对氧化物半导体沟道铁电场效应晶体管（oxide-semiconductor channel ferroelectric field-effect transistors, OS-FeFETs）存储特性的影响。采用相同的工程化铁电栅堆叠 8 nm Hf0.5Zr0.5O2（HZO）/3 nm Al2O3/8 nm HZO（8/3/8）以及混合封帽层（3 nm HfO2 + 3 nm Al2O3），10% Ga 掺杂 InO（IGO）沟道和 4% W 掺杂 InO（IWO）沟道 FeFET 在最高 650 °C 的退火温度下分别持续最长 30 min 和 10 min 后仍保持功能；进一步退火会导致不可逆的导电性丧失和器件失效。详细电学分析表明，存储窗口（memory window, MW）的增强源于擦除态阈值电压的优先正向偏移，而编程态阈值电压保持相对稳定。掠入射 X 射线衍射测量进一步表明，随着退火温度升高，IWO 和 IGO 氧化物沟道发生结构演化，这支持了所观察到的电学趋势。",
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、铁电材料方向，围绕“Thermal Processing Limits in Oxide-Channel Ferroelectric Field Effect Transisto…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、铁电材料方向，围绕“Thermal Processing Limits in Oxide-Channel Ferroelectric Field Effect Transisto…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: 晶体管、铁电材料.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Thermal Processing Limits in Oxide-Channel Ferroelectric Field Effect Transistors.",
       "reading_notes": "Focus: 晶体管、铁电材料.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Thermal Processing Limits in Oxide-Channel Ferroelectric Field Effect Transistors."
     },
@@ -67,8 +67,8 @@
         "MOSFET",
         "wafer"
       ],
-      "abstract_cn": "本研究展示了 2 英寸 Si 掺杂 β-Ga2O3 (100) 外延晶圆的晶圆级生长，以及均匀高压横向 β-Ga2O3 MOSFET 阵列的实现。通过 MOCVD 生长的 2 英寸同质外延 β-Ga2O3 (100) 薄膜表现出优异的晶体均匀性，摇摆曲线平均半峰全宽（FWHM）约为 27.0 arcsec，表面粗糙度低于 1 nm，同时具有均匀的净掺杂浓度，数值为 4.60 × 10^17 cm^-3。所制备的 MOSFET 实现了 -31.75 V 的阈值电压、超过 10^9 的漏极电流开关比、126.52 mΩ·cm2 的比导通电阻以及超过 3 kV 的击穿电压。整个晶圆范围内的统计分析显示出良好的器件均匀性，阈值电压范围为 -28 V 至 -36 V，输出电流密度为 60–75 mA/mm，击穿电压超过 3 kV。这些结果证明，利用 2 英寸 β-Ga2O3 外延晶圆可实现具有晶圆级性能均匀性的高压 β-Ga2O3 MOSFET，用于下一代功率器件应用。",
-      "abstract_zh": "本研究展示了 2 英寸 Si 掺杂 β-Ga2O3 (100) 外延晶圆的晶圆级生长，以及均匀高压横向 β-Ga2O3 MOSFET 阵列的实现。通过 MOCVD 生长的 2 英寸同质外延 β-Ga2O3 (100) 薄膜表现出优异的晶体均匀性，摇摆曲线平均半峰全宽（FWHM）约为 27.0 arcsec，表面粗糙度低于 1 nm，同时具有均匀的净掺杂浓度，数值为 4.60 × 10^17 cm^-3。所制备的 MOSFET 实现了 -31.75 V 的阈值电压、超过 10^9 的漏极电流开关比、126.52 mΩ·cm2 的比导通电阻以及超过 3 kV 的击穿电压。整个晶圆范围内的统计分析显示出良好的器件均匀性，阈值电压范围为 -28 V 至 -36 V，输出电流密度为 60–75 mA/mm，击穿电压超过 3 kV。这些结果证明，利用 2 英寸 β-Ga2O3 外延晶圆可实现具有晶圆级性能均匀性的高压 β-Ga2O3 MOSFET，用于下一代功率器件应用。",
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、wafer方向，围绕“Wafer-scale Demonstration of High-voltage beta-Ga2O3 MOSFETs with Excellent Uni…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、wafer方向，围绕“Wafer-scale Demonstration of High-voltage beta-Ga2O3 MOSFETs with Excellent Uni…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: MOSFET、wafer.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Wafer-scale Demonstration of High-voltage beta-Ga2O3 MOSFETs with Excellent Uniformity and over….",
       "reading_notes": "Focus: MOSFET、wafer.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Wafer-scale Demonstration of High-voltage beta-Ga2O3 MOSFETs with Excellent Uniformity and over…."
     },
@@ -95,8 +95,8 @@
       "highlights": [
         "Intel"
       ],
-      "abstract_cn": "实现自旋量子比特的高保真量子门，需要精确控制限域在量子点中电子之间的交换相互作用，但脉冲畸变可能限制这种控制精度。尽管线性动力学畸变可以通过对控制信号进行适当卷积来补偿，但确定所需卷积需要对畸变的传递函数有详细了解，因此需要校准大量参数。另一种方法是将控制脉冲设计为具有净零时间积分，从而抵消线性动力学脉冲畸变。我们将净零脉冲设计推广到准零脉冲，使其允许净正但降低的时间积分。利用这些脉冲设计，我们系统地开发了仅交换量子比特的完整门集，并在仿真和实验中研究了由此产生的脉冲持续时间、保真度和所需可调参数数量之间的权衡。我们在 Intel 的 Tunnel Falls 六量子点器件上对优化后的门脉冲进行了基准测试，并表明它们在相同脉冲持续时间和更少调谐参数下，实现了与完整滤波方法相近的保真度。这种复杂度降低为快速且易于自动化的校准方案打开了道路，并可兼容大规模商用量子器件。",
-      "abstract_zh": "实现自旋量子比特的高保真量子门，需要精确控制限域在量子点中电子之间的交换相互作用，但脉冲畸变可能限制这种控制精度。尽管线性动力学畸变可以通过对控制信号进行适当卷积来补偿，但确定所需卷积需要对畸变的传递函数有详细了解，因此需要校准大量参数。另一种方法是将控制脉冲设计为具有净零时间积分，从而抵消线性动力学脉冲畸变。我们将净零脉冲设计推广到准零脉冲，使其允许净正但降低的时间积分。利用这些脉冲设计，我们系统地开发了仅交换量子比特的完整门集，并在仿真和实验中研究了由此产生的脉冲持续时间、保真度和所需可调参数数量之间的权衡。我们在 Intel 的 Tunnel Falls 六量子点器件上对优化后的门脉冲进行了基准测试，并表明它们在相同脉冲持续时间和更少调谐参数下，实现了与完整滤波方法相近的保真度。这种复杂度降低为快速且易于自动化的校准方案打开了道路，并可兼容大规模商用量子器件。",
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Driving Exchange Interaction in Spin Qubits with Quasi-Zero Pulses”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Driving Exchange Interaction in Spin Qubits with Quasi-Zero Pulses”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Driving Exchange Interaction in Spin Qubits with Quasi-Zero Pulses.",
       "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Driving Exchange Interaction in Spin Qubits with Quasi-Zero Pulses."
     },
@@ -118,8 +118,8 @@
         "transistor",
         "GAA"
       ],
-      "abstract_cn": "在双层 WSe2 中，层间耦合将 K–Γ 谷劈裂降低至室温下的 ΔKΓ ≈ kBT，使两个有效质量显著不同的空穴输运通道处于近热平衡状态。我们将包含自旋—轨道耦合的密度泛函理论（density functional theory, DFT）与解析双谷器件模型相结合，量化这种近简并性如何支配环栅（gate-all-around, GAA）场效应晶体管中的空穴输运。得到三个主要结果：（i）由于量子电容屏蔽，亚阈值摆幅被保护在接近 60 mV dec^-1，且与层数无关；（ii）有效迁移率由 K 谷到 Γ 谷的占据比决定，并随层数增加单调降低；（iii）在双层中，压缩双轴应变可同时增强导通电流、抑制关断电流，并将开关比从约 69 提高到约 156，同时亚阈值摆幅仍接近热离子极限。这种导通态性能与开关斜率之间的解耦无法通过传统迁移率工程实现，并确立了一条具体设计原则：当 ΔKΓ ≈ kBT 时，谷工程敏感性最大；这一条件在室温和零应变下最自然地由双层 WSe2 满足，使其成为谷工程 GAA 晶体管的最佳沟道。",
-      "abstract_zh": "在双层 WSe2 中，层间耦合将 K–Γ 谷劈裂降低至室温下的 ΔKΓ ≈ kBT，使两个有效质量显著不同的空穴输运通道处于近热平衡状态。我们将包含自旋—轨道耦合的密度泛函理论（density functional theory, DFT）与解析双谷器件模型相结合，量化这种近简并性如何支配环栅（gate-all-around, GAA）场效应晶体管中的空穴输运。得到三个主要结果：（i）由于量子电容屏蔽，亚阈值摆幅被保护在接近 60 mV dec^-1，且与层数无关；（ii）有效迁移率由 K 谷到 Γ 谷的占据比决定，并随层数增加单调降低；（iii）在双层中，压缩双轴应变可同时增强导通电流、抑制关断电流，并将开关比从约 69 提高到约 156，同时亚阈值摆幅仍接近热离子极限。这种导通态性能与开关斜率之间的解耦无法通过传统迁移率工程实现，并确立了一条具体设计原则：当 ΔKΓ ≈ kBT 时，谷工程敏感性最大；这一条件在室温和零应变下最自然地由双层 WSe2 满足，使其成为谷工程 GAA 晶体管的最佳沟道。",
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、GAA / 全环栅方向，围绕“Valley Engineering in Bilayer WSe$_2$ Gate-All-Around Transistors”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看性能提升、效率/耦合表现、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、GAA / 全环栅方向，围绕“Valley Engineering in Bilayer WSe$_2$ Gate-All-Around Transistors”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看性能提升、效率/耦合表现、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: 晶体管、GAA / 全环栅.\nWhat to check: 性能提升、效率/耦合表现、先进尺度下的可扩展性.\nContext: Valley Engineering in Bilayer WSe$_2$ Gate-All-Around Transistors.",
       "reading_notes": "Focus: 晶体管、GAA / 全环栅.\nWhat to check: 性能提升、效率/耦合表现、先进尺度下的可扩展性.\nContext: Valley Engineering in Bilayer WSe$_2$ Gate-All-Around Transistors."
     },
@@ -136,8 +136,8 @@
       "highlights": [
         "transistor"
       ],
-      "abstract_cn": "《Nature Materials》，在线发表：2026 年 6 月 8 日；doi:10.1038/s41563-026-02613-7。由于电荷注入效率较低，有机发光晶体管需要较高的工作电压，并表现出较窄的复合区。通过在发光聚合物中引入离子传输增强剂，实现了工作电压低于 3.5 V、最大复合区宽度约为 267 µm 的有机发光晶体管。",
-      "abstract_zh": "《Nature Materials》，在线发表：2026 年 6 月 8 日；doi:10.1038/s41563-026-02613-7。由于电荷注入效率较低，有机发光晶体管需要较高的工作电压，并表现出较窄的复合区。通过在发光聚合物中引入离子传输增强剂，实现了工作电压低于 3.5 V、最大复合区宽度约为 267 µm 的有机发光晶体管。",
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Ultralow-voltage electrochemical organic light-emitting transistors with pinned…”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看性能提升、效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Ultralow-voltage electrochemical organic light-emitting transistors with pinned…”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看性能提升、效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、效率/耦合表现.\nContext: Ultralow-voltage electrochemical organic light-emitting transistors with pinned and wide latera….",
       "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、效率/耦合表现.\nContext: Ultralow-voltage electrochemical organic light-emitting transistors with pinned and wide latera…."
     },
@@ -156,8 +156,8 @@
       "highlights": [
         "transistor"
       ],
-      "abstract_cn": "我们表明，多层 WSe2 场效应晶体管的跨导可作为谷间弛豫时间 τiv 的直接电学谱仪，而此前 τiv 只能通过超快光学技术获得。我们在平衡谷热力学框架中引入针对 Γ 谷载流子分数 fΓ(t) 的单一弛豫方程，并预测了三个特征：（i）洛伦兹型跨导 gm(ω)=gm,0+gm,v^0/(1+iωτiv)，其虚部在 ωc=τiv^-1 处达到峰值，并且在双层和三层中符号相反；（ii）栅压阶跃后的两阶段电流瞬态，表现为双层过冲或三层欠冲；以及（iii）与扫描速率成正比的滞回，其栅电压轮廓和层数相关的符号反转可将谷动力学与陷阱诱导动力学区分开来。这三个特征均可通过标准射频和直流仪器对 τiv 进行定量电学访问。",
-      "abstract_zh": "我们表明，多层 WSe2 场效应晶体管的跨导可作为谷间弛豫时间 τiv 的直接电学谱仪，而此前 τiv 只能通过超快光学技术获得。我们在平衡谷热力学框架中引入针对 Γ 谷载流子分数 fΓ(t) 的单一弛豫方程，并预测了三个特征：（i）洛伦兹型跨导 gm(ω)=gm,0+gm,v^0/(1+iωτiv)，其虚部在 ωc=τiv^-1 处达到峰值，并且在双层和三层中符号相反；（ii）栅压阶跃后的两阶段电流瞬态，表现为双层过冲或三层欠冲；以及（iii）与扫描速率成正比的滞回，其栅电压轮廓和层数相关的符号反转可将谷动力学与陷阱诱导动力学区分开来。这三个特征均可通过标准射频和直流仪器对 τiv 进行定量电学访问。",
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Electrical Spectroscopy of Intervalley Relaxation in WSe$_2$ Transistors”展开。摘要显示，文章重点涉及电学/光学表征与测试结果，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Electrical Spectroscopy of Intervalley Relaxation in WSe$_2$ Transistors”展开。摘要显示，文章重点涉及电学/光学表征与测试结果，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Electrical Spectroscopy of Intervalley Relaxation in WSe$_2$ Transistors.",
       "reading_notes": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Electrical Spectroscopy of Intervalley Relaxation in WSe$_2$ Transistors."
     },
@@ -177,8 +177,8 @@
       "highlights": [
         "nanosheets"
       ],
-      "abstract_cn": "V 掺杂 [Ca2Nb3-xVxO10]^-（x = 0、0.15、0.3、0.6、0.75）纳米片通过固相反应制备，随后经质子化并由四丁基铵离子剥离得到。二维纳米片由于厚度较小可减少电子—空穴复合、较大的表面积可增加光催化位点，并且加入 V 会降低带隙，因此具有改善的光催化活性。V 掺杂使未掺杂纳米片 3.54 eV 的宽带隙降低至 2.60–2.88 eV 范围。在析氢反应中使用 10 vol% 甲醇作为空穴清除剂，并在纳米片上沉积 3 wt% Pt 作为助催化剂。在全光谱 Xe 光照下，[Ca2Nb2.7V0.3O10]^- 产生的 H2 产率为未掺杂纳米片的 4.7 倍，产率达到 11.3 mmol/g/h；负载 Pt 助催化剂的 [Ca2Nb2.7V0.3O10]^- 产生的 H2 产率为未掺杂 Pt 负载纳米片的 2.9 倍。",
-      "abstract_zh": "V 掺杂 [Ca2Nb3-xVxO10]^-（x = 0、0.15、0.3、0.6、0.75）纳米片通过固相反应制备，随后经质子化并由四丁基铵离子剥离得到。二维纳米片由于厚度较小可减少电子—空穴复合、较大的表面积可增加光催化位点，并且加入 V 会降低带隙，因此具有改善的光催化活性。V 掺杂使未掺杂纳米片 3.54 eV 的宽带隙降低至 2.60–2.88 eV 范围。在析氢反应中使用 10 vol% 甲醇作为空穴清除剂，并在纳米片上沉积 3 wt% Pt 作为助催化剂。在全光谱 Xe 光照下，[Ca2Nb2.7V0.3O10]^- 产生的 H2 产率为未掺杂纳米片的 4.7 倍，产率达到 11.3 mmol/g/h；负载 Pt 助催化剂的 [Ca2Nb2.7V0.3O10]^- 产生的 H2 产率为未掺杂 Pt 负载纳米片的 2.9 倍。",
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注nanosheets方向，围绕“V-Doped Niobate Nanosheets for Enhanced Photocatalytic Activity”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看性能提升、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注nanosheets方向，围绕“V-Doped Niobate Nanosheets for Enhanced Photocatalytic Activity”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看性能提升、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: nanosheets.\nWhat to check: 性能提升、先进尺度下的可扩展性.\nContext: V-Doped Niobate Nanosheets for Enhanced Photocatalytic Activity.",
       "reading_notes": "Focus: nanosheets.\nWhat to check: 性能提升、先进尺度下的可扩展性.\nContext: V-Doped Niobate Nanosheets for Enhanced Photocatalytic Activity."
     },
@@ -212,8 +212,8 @@
       "score": 6,
       "priority": 0,
       "highlights": [],
-      "abstract_cn": "不断增长的能源需求和可再生能源并网正在给老化的电网基础设施带来压力。木质纤维素油浸纸广泛用于电力变压器，但存在介电强度、机械强度和热导率较低等关键局限，导致变压器过早失效。本文展示了一种性能更优的电绝缘油浸纸设计，利用致密化木单板天然各向异性的结构形成纳米尺度油通道，从而有效阻断电击穿路径。所开发的油浸致密化木材（oil-impregnated densified wood, ODW）形成了取向排列的纤维素纤维，并具有 166 ± 87 nm 的油纳米通道，实现了 105 kV/mm 的创纪录介电强度。该结构还提供高达 384 MPa 的机械强度和 0.33 W/m·K 的热导率，在热老化测试中表现出增强的寿命。ODW 有望替代传统变压器绝缘材料，以提升电力变压器性能并延长使用寿命。此外，其各向异性充油纳米通道设计为中高压应用中的混合介电材料提供了一种通用策略。",
-      "abstract_zh": "不断增长的能源需求和可再生能源并网正在给老化的电网基础设施带来压力。木质纤维素油浸纸广泛用于电力变压器，但存在介电强度、机械强度和热导率较低等关键局限，导致变压器过早失效。本文展示了一种性能更优的电绝缘油浸纸设计，利用致密化木单板天然各向异性的结构形成纳米尺度油通道，从而有效阻断电击穿路径。所开发的油浸致密化木材（oil-impregnated densified wood, ODW）形成了取向排列的纤维素纤维，并具有 166 ± 87 nm 的油纳米通道，实现了 105 kV/mm 的创纪录介电强度。该结构还提供高达 384 MPa 的机械强度和 0.33 W/m·K 的热导率，在热老化测试中表现出增强的寿命。ODW 有望替代传统变压器绝缘材料，以提升电力变压器性能并延长使用寿命。此外，其各向异性充油纳米通道设计为中高压应用中的混合介电材料提供了一种通用策略。",
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Oil-impregnated densified wood veneer with high electrical insulation enabled b…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看性能提升、功耗或能效表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Oil-impregnated densified wood veneer with high electrical insulation enabled b…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看性能提升、功耗或能效表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、功耗或能效表现、与既有工艺平台的集成价值.\nContext: Oil-impregnated densified wood veneer with high electrical insulation enabled by nanosized oil ….",
       "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、功耗或能效表现、与既有工艺平台的集成价值.\nContext: Oil-impregnated densified wood veneer with high electrical insulation enabled by nanosized oil …."
     }
@@ -222,5 +222,5 @@
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-06-11T00:30:00+00:00"
+  "generated_at": "2026-06-12T00:30:00+00:00"
 }
