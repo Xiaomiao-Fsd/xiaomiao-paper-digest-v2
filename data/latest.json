@@ -2,7 +2,7 @@
   "ok": true,
   "new_count": 0,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-14）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Valley Engineering in Bilayer WSe$_2$ Gate-All-Around Transistors\n   关键词：transistor, GAA\n   日期：2026-06-08\n   Authors: Katsunori Wakabayashi, Souren Adhikary, Kazuhito Tsukagoshi\n   https://arxiv.org/abs/2606.08955v1\n2. [Nature Materials] Ultralow-voltage electrochemical organic light-emitting transistors with pinned and wide la…\n   关键词：transistor\n   日期：2026-06-08\n   https://www.nature.com/articles/s41563-026-02613-7\n3. [arXiv] Electrical Spectroscopy of Intervalley Relaxation in WSe$_2$ Transistors\n   关键词：transistor\n   日期：2026-06-09\n   Authors: Katsunori Wakabayashi\n   https://arxiv.org/abs/2606.10470v1\n4. [arXiv] V-Doped Niobate Nanosheets for Enhanced Photocatalytic Activity\n   关键词：nanosheets\n   日期：2026-06-07\n   Authors: M. Tuğrul Avcu, Uğur Ünal\n   https://arxiv.org/abs/2606.08567v1\n5. [arXiv] Compositional gradient engineering for enhanced ferroelectricity in ultrathin AlScN\n   日期：2026-06-11\n   Authors: Zekun Hu, Haiwen Zhang, Rajeev Kumar Rai 等\n   https://arxiv.org/abs/2606.12568v1\n6. [arXiv] Boron Co-Alloying in AlScN Wurtzite Ferroelectrics: Insights from an 850-Sample Combinatori…\n   日期：2026-06-10\n   Authors: Federica Messi, Nathan Rodkey, Manuel Kober-Czerny 等\n   https://arxiv.org/abs/2606.11954v1\n7. [Nature Electronics] Precise and efficient computing via signal folding\n   日期：2026-06-09\n   https://www.nature.com/articles/s41928-026-01646-9\n8. [arXiv] Stable, bidirectional electro-optic transduction in thin film lithium tantalate\n   日期：2026-06-11\n   Authors: Christopher J. Axline, Stephan Gamper, Phoebe M. Tengdin 等\n   https://arxiv.org/abs/2606.12726v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-15）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Valley Engineering in Bilayer WSe$_2$ Gate-All-Around Transistors\n   关键词：transistor, GAA\n   日期：2026-06-08\n   Authors: Katsunori Wakabayashi, Souren Adhikary, Kazuhito Tsukagoshi\n   https://arxiv.org/abs/2606.08955v1\n2. [arXiv] Electrical Spectroscopy of Intervalley Relaxation in WSe$_2$ Transistors\n   关键词：transistor\n   日期：2026-06-09\n   Authors: Katsunori Wakabayashi\n   https://arxiv.org/abs/2606.10470v1\n3. [arXiv] Compositional gradient engineering for enhanced ferroelectricity in ultrathin AlScN\n   日期：2026-06-11\n   Authors: Zekun Hu, Haiwen Zhang, Rajeev Kumar Rai 等\n   https://arxiv.org/abs/2606.12568v1\n4. [arXiv] Boron Co-Alloying in AlScN Wurtzite Ferroelectrics: Insights from an 850-Sample Combinatori…\n   日期：2026-06-10\n   Authors: Federica Messi, Nathan Rodkey, Manuel Kober-Czerny 等\n   https://arxiv.org/abs/2606.11954v1\n5. [Nature Electronics] Precise and efficient computing via signal folding\n   日期：2026-06-09\n   https://www.nature.com/articles/s41928-026-01646-9\n6. [arXiv] Stable, bidirectional electro-optic transduction in thin film lithium tantalate\n   日期：2026-06-11\n   Authors: Christopher J. Axline, Stephan Gamper, Phoebe M. Tengdin 等\n   https://arxiv.org/abs/2606.12726v1\n7. [arXiv] Robust Spin Logic Enabled by Generalized $\\mathrm{SU}(2)$ Symmetry in $p$-Wave Magnets\n   日期：2026-06-10\n   Authors: Hao-Kun Ke, Gong Zhao, Siqing Li 等\n   https://arxiv.org/abs/2606.11912v2\n8. [arXiv] Optical-like interference control polar-phonons dispersions in 2D materials\n   关键词：2D materials\n   日期：2026-06-09\n   Authors: Benoit Van Troeye, Geoffrey Pourtois\n   https://arxiv.org/abs/2606.10549v1",
   "papers": [
     {
       "source": "arXiv",
@@ -22,28 +22,10 @@
         "transistor",
         "GAA"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、GAA / 全环栅方向，围绕“Valley Engineering in Bilayer WSe$_2$ Gate-All-Around Transistors”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看性能提升、效率/耦合表现、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、GAA / 全环栅方向，围绕“Valley Engineering in Bilayer WSe$_2$ Gate-All-Around Transistors”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看性能提升、效率/耦合表现、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_cn": "在双层 WSe2 中，层间耦合将 K–Γ 谷劈裂降低至室温下的 ΔKΓ ≈ kBT，使两个有效质量显著不同的空穴输运通道处于近热平衡状态。我们将包含自旋—轨道耦合的密度泛函理论（density functional theory, DFT）与解析双谷器件模型相结合，量化这种近简并性如何支配环栅（gate-all-around, GAA）场效应晶体管中的空穴输运。得到三个主要结果：（i）由于量子电容屏蔽，亚阈值摆幅被保护在接近 60 mV dec−1，且与层数无关；（ii）有效迁移率由 K 谷到 Γ 谷的占据比决定，并随层数增加单调降低；（iii）在双层中，压缩双轴应变可同时增强导通电流、抑制关断电流，并将开关比从约 69 提高到约 156，同时亚阈值摆幅仍接近热离子极限。这种导通态性能与开关斜率之间的解耦无法通过传统迁移率工程实现，并确立了一条具体设计原则：当 ΔKΓ ≈ kBT 时，谷工程敏感性最大；这一条件在室温和零应变下最自然地由双层 WSe2 满足，使其成为谷工程 GAA 晶体管的最佳沟道。",
+      "abstract_zh": "在双层 WSe2 中，层间耦合将 K–Γ 谷劈裂降低至室温下的 ΔKΓ ≈ kBT，使两个有效质量显著不同的空穴输运通道处于近热平衡状态。我们将包含自旋—轨道耦合的密度泛函理论（density functional theory, DFT）与解析双谷器件模型相结合，量化这种近简并性如何支配环栅（gate-all-around, GAA）场效应晶体管中的空穴输运。得到三个主要结果：（i）由于量子电容屏蔽，亚阈值摆幅被保护在接近 60 mV dec−1，且与层数无关；（ii）有效迁移率由 K 谷到 Γ 谷的占据比决定，并随层数增加单调降低；（iii）在双层中，压缩双轴应变可同时增强导通电流、抑制关断电流，并将开关比从约 69 提高到约 156，同时亚阈值摆幅仍接近热离子极限。这种导通态性能与开关斜率之间的解耦无法通过传统迁移率工程实现，并确立了一条具体设计原则：当 ΔKΓ ≈ kBT 时，谷工程敏感性最大；这一条件在室温和零应变下最自然地由双层 WSe2 满足，使其成为谷工程 GAA 晶体管的最佳沟道。",
       "overview_cn": "Focus: 晶体管、GAA / 全环栅.\nWhat to check: 性能提升、效率/耦合表现、先进尺度下的可扩展性.\nContext: Valley Engineering in Bilayer WSe$_2$ Gate-All-Around Transistors.",
       "reading_notes": "Focus: 晶体管、GAA / 全环栅.\nWhat to check: 性能提升、效率/耦合表现、先进尺度下的可扩展性.\nContext: Valley Engineering in Bilayer WSe$_2$ Gate-All-Around Transistors."
-    },
-    {
-      "source": "Nature Materials",
-      "uid": "Nature Materials:10.1038/s41563-026-02613-7",
-      "title": "Ultralow-voltage electrochemical organic light-emitting transistors with pinned and wide lateral recombination",
-      "url": "https://www.nature.com/articles/s41563-026-02613-7",
-      "published": "2026-06-08",
-      "authors": [],
-      "summary": "Nature Materials, Published online: 08 June 2026; doi:10.1038/s41563-026-02613-7 Organic light-emitting transistors require a large operating voltage and exhibit a narrow recombination zone, owing to inefficient charge injection. By incorporating an ion transport enhancer into light-emitting polymers, organic light-emitting transistors achieving <3.5-V voltage operation and a maximum recombination zone width of ~267 µm are realized.",
-      "score": 7,
-      "priority": 1,
-      "highlights": [
-        "transistor"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Ultralow-voltage electrochemical organic light-emitting transistors with pinned…”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看性能提升、效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Ultralow-voltage electrochemical organic light-emitting transistors with pinned…”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看性能提升、效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、效率/耦合表现.\nContext: Ultralow-voltage electrochemical organic light-emitting transistors with pinned and wide latera….",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、效率/耦合表现.\nContext: Ultralow-voltage electrochemical organic light-emitting transistors with pinned and wide latera…."
     },
     {
       "source": "arXiv",
@@ -60,31 +42,10 @@
       "highlights": [
         "transistor"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Electrical Spectroscopy of Intervalley Relaxation in WSe$_2$ Transistors”展开。摘要显示，文章重点涉及电学/光学表征与测试结果，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Electrical Spectroscopy of Intervalley Relaxation in WSe$_2$ Transistors”展开。摘要显示，文章重点涉及电学/光学表征与测试结果，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_cn": "我们表明，多层 WSe2 场效应晶体管的跨导可作为谷间弛豫时间 τiv 的直接电学谱仪，而此前 τiv 只能通过超快光学技术获得。我们在平衡谷热力学框架中引入针对 Γ 谷载流子分数 fΓ(t) 的单一弛豫方程，并预测了三个特征：（i）洛伦兹型跨导 gm(ω)=gm,0+gm,v^0/(1+iωτiv)，其虚部在 ωc=τiv−1 处达到峰值，并且在双层和三层中符号相反；（ii）栅压阶跃后的两阶段电流瞬态，表现为双层过冲或三层欠冲；以及（iii）与扫描速率成正比的滞回，其栅电压轮廓和层数相关的符号反转可将谷动力学与陷阱诱导动力学区分开来。这三个特征均可通过标准射频和直流仪器对 τiv 进行定量电学访问。",
+      "abstract_zh": "我们表明，多层 WSe2 场效应晶体管的跨导可作为谷间弛豫时间 τiv 的直接电学谱仪，而此前 τiv 只能通过超快光学技术获得。我们在平衡谷热力学框架中引入针对 Γ 谷载流子分数 fΓ(t) 的单一弛豫方程，并预测了三个特征：（i）洛伦兹型跨导 gm(ω)=gm,0+gm,v^0/(1+iωτiv)，其虚部在 ωc=τiv−1 处达到峰值，并且在双层和三层中符号相反；（ii）栅压阶跃后的两阶段电流瞬态，表现为双层过冲或三层欠冲；以及（iii）与扫描速率成正比的滞回，其栅电压轮廓和层数相关的符号反转可将谷动力学与陷阱诱导动力学区分开来。这三个特征均可通过标准射频和直流仪器对 τiv 进行定量电学访问。",
       "overview_cn": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Electrical Spectroscopy of Intervalley Relaxation in WSe$_2$ Transistors.",
       "reading_notes": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Electrical Spectroscopy of Intervalley Relaxation in WSe$_2$ Transistors."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2606.08567v1",
-      "title": "V-Doped Niobate Nanosheets for Enhanced Photocatalytic Activity",
-      "url": "https://arxiv.org/abs/2606.08567v1",
-      "published": "2026-06-07",
-      "authors": [
-        "M. Tuğrul Avcu",
-        "Uğur Ünal"
-      ],
-      "summary": "V-doped [Ca$_{2}$Nb$_{3-x}$V$_{x}$O$_{10}$]$^{-}$ (x = 0, 0.15, 0.3, 0.6, 0.75) nanosheets were produced by solid state reaction followed by protonation and exfoliation by tetrabutylammonium ions. 2D nanosheets have improved photocatalytic activity due to their small thickness that reduces electron-hole recombination, larger surface area that increases photocatalytic sites, and decreased band gap from added V. V-doping has caused the wide band gap of 3.54 eV of undoped nanosheets to decrease to 2.60-2.88 eV range. 10 vol% methanol was used as a hole scavenger in the hydrogen evolution reactions, and 3 wt% Pt was deposited on nanosheets as a co-catalyst. Under a full-spectrum Xe light, [Ca$_{2}$Nb$_{2.7}$V$_{0.3}$O$_{10}$]$^{-}$ has produced 4.7 times the H$_{2}$ yield as undoped nanosheets with a 11.3 mmol/g/h production rate, [Ca$_{2}$Nb$_{2.7}$V$_{0.3}$O$_{10}$]$^{-}$ with Pt co-catalyst has produced 2.9 times the H$_{2}$ yield as undoped Pt-loaded nanosheets.",
-      "score": 5,
-      "priority": 1,
-      "highlights": [
-        "nanosheets"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注nanosheets方向，围绕“V-Doped Niobate Nanosheets for Enhanced Photocatalytic Activity”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看性能提升、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注nanosheets方向，围绕“V-Doped Niobate Nanosheets for Enhanced Photocatalytic Activity”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看性能提升、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: nanosheets.\nWhat to check: 性能提升、先进尺度下的可扩展性.\nContext: V-Doped Niobate Nanosheets for Enhanced Photocatalytic Activity.",
-      "reading_notes": "Focus: nanosheets.\nWhat to check: 性能提升、先进尺度下的可扩展性.\nContext: V-Doped Niobate Nanosheets for Enhanced Photocatalytic Activity."
     },
     {
       "source": "arXiv",
@@ -113,8 +74,8 @@
       "score": 6,
       "priority": 0,
       "highlights": [],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Compositional gradient engineering for enhanced ferroelectricity in ultrathin A…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Compositional gradient engineering for enhanced ferroelectricity in ultrathin A…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_cn": "铁电 AlScN 有望用于 CMOS 兼容的非易失性存储器，但其厚度缩放受到漏电、过早击穿以及缺陷介导失效的限制。本文表明，在连续纤锌矿 AlN-AlScN 晶格中引入组分梯度，可通过在薄膜厚度方向上分散结构和极化不连续性来缓解这些限制，从而减少缺陷形成和局域电场集中。在 20 nm 梯度异质结构中，单调 Sc 引入和富 AlN 边界相对于均匀 AlScN 产生了可逆铁电翻转、生长态金属极性状态、提高 21% 的击穿场、增强 10% 的剩余极化以及提高 40 倍的电阻率。时域 PUND 测量显示翻转后漏电受到强烈抑制，这与缺陷辅助传导和极化耦合传导的降低一致。这种改善的介电稳健性使仅含 2 nm Al0.64Sc0.36N 区域的 5 nm 梯度堆叠也具备铁电功能，并在约 1 V 附近实现可测量的翻转。这些结果确立了组分梯度作为一种缺陷和电场管理策略，可用于可缩放超薄纤锌矿铁电体。",
+      "abstract_zh": "铁电 AlScN 有望用于 CMOS 兼容的非易失性存储器，但其厚度缩放受到漏电、过早击穿以及缺陷介导失效的限制。本文表明，在连续纤锌矿 AlN-AlScN 晶格中引入组分梯度，可通过在薄膜厚度方向上分散结构和极化不连续性来缓解这些限制，从而减少缺陷形成和局域电场集中。在 20 nm 梯度异质结构中，单调 Sc 引入和富 AlN 边界相对于均匀 AlScN 产生了可逆铁电翻转、生长态金属极性状态、提高 21% 的击穿场、增强 10% 的剩余极化以及提高 40 倍的电阻率。时域 PUND 测量显示翻转后漏电受到强烈抑制，这与缺陷辅助传导和极化耦合传导的降低一致。这种改善的介电稳健性使仅含 2 nm Al0.64Sc0.36N 区域的 5 nm 梯度堆叠也具备铁电功能，并在约 1 V 附近实现可测量的翻转。这些结果确立了组分梯度作为一种缺陷和电场管理策略，可用于可缩放超薄纤锌矿铁电体。",
       "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: Compositional gradient engineering for enhanced ferroelectricity in ultrathin AlScN.",
       "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: Compositional gradient engineering for enhanced ferroelectricity in ultrathin AlScN."
     },
@@ -134,8 +95,8 @@
       "score": 6,
       "priority": 0,
       "highlights": [],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Boron Co-Alloying in AlScN Wurtzite Ferroelectrics: Insights from an 850-Sample…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、功耗或能效表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Boron Co-Alloying in AlScN Wurtzite Ferroelectrics: Insights from an 850-Sample…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、功耗或能效表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_cn": "AlScN 纤锌矿铁电体是能效型非易失性存储器的有前景候选材料。然而，AlScN 存在矫顽场高和循环耐久性降低的问题，并且其性质可调范围有限，制约了进一步优化。用硼对 AlScN 进行共掺杂有望独立调控化学和结构性质，使 AlScBN 成为一种有吸引力的四元体系。该材料此前已在少数选定组分上得到探索，但尚不存在对完整 AlScBN 组分空间的系统研究。我们采用一种组合方法，包括在 250°C 低温下通过高功率脉冲磁控溅射（HiPIMS）进行梯度沉积以及对薄膜性质进行自动分析，从而能够在 AlScBN 相空间内分析总计 850 个独特样品。除对材料化学和结构性质进行全面筛选外，我们还制备并表征了组合器件库。XPS 电荷转移分析从实验上证实，在 AlScN 和 AlScBN 体系中，键离子性与矫顽场降低相关；而对于 AlBN，则观察到相反趋势。在薄膜保持 130–150 μC/cm2 高剩余极化的同时，Sc 和 B 共掺杂将矫顽场从 7 MV/cm 降低到 3 MV/cm。值得注意的是，B 共合金化降低了为降低矫顽场所需的 Sc 含量，从而减少了对这种稀缺元素的依赖。此外，我们发现与 B 共合金化显著改善了循环耐久性，这与缺陷密度降低有关。这些结果确立了 AlScBN 作为一种可扩展、CMOS 兼容铁电体的地位，使其成为 AlScN 的一个有吸引力替代方案。",
+      "abstract_zh": "AlScN 纤锌矿铁电体是能效型非易失性存储器的有前景候选材料。然而，AlScN 存在矫顽场高和循环耐久性降低的问题，并且其性质可调范围有限，制约了进一步优化。用硼对 AlScN 进行共掺杂有望独立调控化学和结构性质，使 AlScBN 成为一种有吸引力的四元体系。该材料此前已在少数选定组分上得到探索，但尚不存在对完整 AlScBN 组分空间的系统研究。我们采用一种组合方法，包括在 250°C 低温下通过高功率脉冲磁控溅射（HiPIMS）进行梯度沉积以及对薄膜性质进行自动分析，从而能够在 AlScBN 相空间内分析总计 850 个独特样品。除对材料化学和结构性质进行全面筛选外，我们还制备并表征了组合器件库。XPS 电荷转移分析从实验上证实，在 AlScN 和 AlScBN 体系中，键离子性与矫顽场降低相关；而对于 AlBN，则观察到相反趋势。在薄膜保持 130–150 μC/cm2 高剩余极化的同时，Sc 和 B 共掺杂将矫顽场从 7 MV/cm 降低到 3 MV/cm。值得注意的是，B 共合金化降低了为降低矫顽场所需的 Sc 含量，从而减少了对这种稀缺元素的依赖。此外，我们发现与 B 共合金化显著改善了循环耐久性，这与缺陷密度降低有关。这些结果确立了 AlScBN 作为一种可扩展、CMOS 兼容铁电体的地位，使其成为 AlScN 的一个有吸引力替代方案。",
       "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、功耗或能效表现、与既有工艺平台的集成价值.\nContext: Boron Co-Alloying in AlScN Wurtzite Ferroelectrics: Insights from an 850-Sample Combinatorial S….",
       "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、功耗或能效表现、与既有工艺平台的集成价值.\nContext: Boron Co-Alloying in AlScN Wurtzite Ferroelectrics: Insights from an 850-Sample Combinatorial S…."
     },
@@ -150,8 +111,8 @@
       "score": 6,
       "priority": 0,
       "highlights": [],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Precise and efficient computing via signal folding”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看效率/耦合表现、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Precise and efficient computing via signal folding”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看效率/耦合表现、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_cn": "《Nature Electronics》，在线发表：2026 年 6 月 9 日；doi:10.1038/s41928-026-01646-9。一种硬件内信号折叠方案可应用于一晶体管—一电阻二硫化钼阵列，并可同时实现高权重精度和能量效率。",
+      "abstract_zh": "《Nature Electronics》，在线发表：2026 年 6 月 9 日；doi:10.1038/s41928-026-01646-9。一种硬件内信号折叠方案可应用于一晶体管—一电阻二硫化钼阵列，并可同时实现高权重精度和能量效率。",
       "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Precise and efficient computing via signal folding.",
       "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Precise and efficient computing via signal folding."
     },
@@ -176,15 +137,58 @@
       "score": 5,
       "priority": 0,
       "highlights": [],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Stable, bidirectional electro-optic transduction in thin film lithium tantalate”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Stable, bidirectional electro-optic transduction in thin film lithium tantalate”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_cn": "高效且稳定的微波—光学转换是分布式超导量子计算和异构量子网络的一项关键使能技术。基于薄膜铌酸锂（thin-film lithium niobate, TFLN）的电光换能器已显示出很强前景，但迄今的演示仍受到低频偏置漂移、效率较低、制造复杂性和可扩展性等多种因素限制。本文展示了首个在薄膜钽酸锂（thin-film lithium tantalate, TFLT）中实现的集成电光微波—光学换能器；这一材料平台具有与 TFLN 相当的 Pockels 非线性，同时具备更好的偏置稳定性和高功率承受能力。我们利用晶圆级深紫外光刻制备了与可调光子分子光学谐振器耦合的超导微波谐振器，可实现每片晶圆数百个器件的高通量生产。在六个器件中，我们观察到 C 波段光学光子与 4.9–5.5 GHz 微波光子之间的相干双向转换；测得的片上效率以及推断的单光子耦合率 g0/2π ~ 1 kHz 与理论一致。通过使用静态偏置场并结合最小反馈，实现了持续多天的连续工作，展示出一项重要的运行优势。我们进一步表征了光学损耗统计、微波谐振器性能，以及脉冲泵浦下光诱导的附加噪声，发现在最高测得效率下，100 微秒脉冲对应的附加光子数小于 1。这些结果确立了 TFLT 作为一种可扩展且稳健的电光平台，可用于未来量子互连和模块化量子处理器。",
+      "abstract_zh": "高效且稳定的微波—光学转换是分布式超导量子计算和异构量子网络的一项关键使能技术。基于薄膜铌酸锂（thin-film lithium niobate, TFLN）的电光换能器已显示出很强前景，但迄今的演示仍受到低频偏置漂移、效率较低、制造复杂性和可扩展性等多种因素限制。本文展示了首个在薄膜钽酸锂（thin-film lithium tantalate, TFLT）中实现的集成电光微波—光学换能器；这一材料平台具有与 TFLN 相当的 Pockels 非线性，同时具备更好的偏置稳定性和高功率承受能力。我们利用晶圆级深紫外光刻制备了与可调光子分子光学谐振器耦合的超导微波谐振器，可实现每片晶圆数百个器件的高通量生产。在六个器件中，我们观察到 C 波段光学光子与 4.9–5.5 GHz 微波光子之间的相干双向转换；测得的片上效率以及推断的单光子耦合率 g0/2π ~ 1 kHz 与理论一致。通过使用静态偏置场并结合最小反馈，实现了持续多天的连续工作，展示出一项重要的运行优势。我们进一步表征了光学损耗统计、微波谐振器性能，以及脉冲泵浦下光诱导的附加噪声，发现在最高测得效率下，100 微秒脉冲对应的附加光子数小于 1。这些结果确立了 TFLT 作为一种可扩展且稳健的电光平台，可用于未来量子互连和模块化量子处理器。",
       "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: Stable, bidirectional electro-optic transduction in thin film lithium tantalate.",
       "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: Stable, bidirectional electro-optic transduction in thin film lithium tantalate."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2606.11912v2",
+      "title": "Robust Spin Logic Enabled by Generalized $\\mathrm{SU}(2)$ Symmetry in $p$-Wave Magnets",
+      "url": "https://arxiv.org/abs/2606.11912v2",
+      "published": "2026-06-10",
+      "authors": [
+        "Hao-Kun Ke",
+        "Gong Zhao",
+        "Siqing Li",
+        "Ruixiang Chen",
+        "Chui-Zhen Chen"
+      ],
+      "summary": "Unconventional magnets combine the vanishing stray fields of antiferromagnets with the strong spin-splitting of ferromagnets, offering a unique material platform for spintronics. However, a critical challenge in realizing functional spin-logic devices lies in preserving long-range spin coherence against momentum-degrading scattering and gate-induced dephasing. Here, we demonstrate that the intrinsic momentum-dependent exchange field of a three-dimensional $p$-wave magnet can be precisely tuned against gate-induced Rashba spin-orbit coupling to establish a \\textit{generalized} $\\mathrm{SU}(2)$ spin-rotation symmetry. This emergent conservation law generates a symmetry-protected Persistent Spin Helix (PSH), effectively integrating the high energy scales of 3D bulk magnetic exchange with the macroscopic coherence of symmetry protection. By modeling a synergistic $p$-wave magnetic spin field-effect transistor (spin-FET), we reveal high-visibility Datta-Das conductance oscillations controlled purely by electrical gating. Crucially, our quantum transport simulations confirm that this symmetry-engineered transport regime exhibits exceptional resilience against strong non-magnetic Anderson disorder and geometric variations. These results establish a synergistic paradigm for non-magnetized spintronics, demonstrating how the active integration of spin-orbit coupling and unconventional magnetism can yield disorder-resilient spintronic logic.",
+      "score": 5,
+      "priority": 0,
+      "highlights": [],
+      "abstract_cn": "非常规磁体结合了反铁磁体的零杂散场和铁磁体的强自旋劈裂，为自旋电子学提供了一个独特的材料平台。然而，实现功能性自旋逻辑器件的一项关键挑战在于，如何在动量退相干散射和栅诱导退相干下保持长程自旋相干。本文证明，三维 p 波磁体的本征动量依赖交换场可以与栅诱导 Rashba 自旋—轨道耦合进行精确调谐，从而建立一种广义 SU(2) 自旋旋转对称性。这一涌现的守恒律产生了受对称性保护的持久自旋螺旋（Persistent Spin Helix, PSH），有效地将三维体磁交换的高能量尺度与对称性保护带来的宏观相干性集成在一起。通过建模一种协同型 p 波磁性自旋场效应晶体管（spin-FET），我们揭示了完全由电栅控制的高可见度 Datta-Das 电导振荡。关键的是，我们的量子输运仿真证实，这种经对称性工程设计的输运区域对强非磁性 Anderson 无序和几何变化表现出优异的抗扰性。这些结果确立了一种面向无净磁化自旋电子学的协同范式，展示了主动集成自旋—轨道耦合与非常规磁性如何产生抗无序的自旋电子逻辑。",
+      "abstract_zh": "非常规磁体结合了反铁磁体的零杂散场和铁磁体的强自旋劈裂，为自旋电子学提供了一个独特的材料平台。然而，实现功能性自旋逻辑器件的一项关键挑战在于，如何在动量退相干散射和栅诱导退相干下保持长程自旋相干。本文证明，三维 p 波磁体的本征动量依赖交换场可以与栅诱导 Rashba 自旋—轨道耦合进行精确调谐，从而建立一种广义 SU(2) 自旋旋转对称性。这一涌现的守恒律产生了受对称性保护的持久自旋螺旋（Persistent Spin Helix, PSH），有效地将三维体磁交换的高能量尺度与对称性保护带来的宏观相干性集成在一起。通过建模一种协同型 p 波磁性自旋场效应晶体管（spin-FET），我们揭示了完全由电栅控制的高可见度 Datta-Das 电导振荡。关键的是，我们的量子输运仿真证实，这种经对称性工程设计的输运区域对强非磁性 Anderson 无序和几何变化表现出优异的抗扰性。这些结果确立了一种面向无净磁化自旋电子学的协同范式，展示了主动集成自旋—轨道耦合与非常规磁性如何产生抗无序的自旋电子逻辑。",
+      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 效率/耦合表现、可靠性与稳定性、功耗或能效表现.\nContext: Robust Spin Logic Enabled by Generalized $\\mathrm{SU}(2)$ Symmetry in $p$-Wave Magnets.",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 效率/耦合表现、可靠性与稳定性、功耗或能效表现.\nContext: Robust Spin Logic Enabled by Generalized $\\mathrm{SU}(2)$ Symmetry in $p$-Wave Magnets."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2606.10549v1",
+      "title": "Optical-like interference control polar-phonons dispersions in 2D materials",
+      "url": "https://arxiv.org/abs/2606.10549v1",
+      "published": "2026-06-09",
+      "authors": [
+        "Benoit Van Troeye",
+        "Geoffrey Pourtois"
+      ],
+      "summary": "It has been argued that the polar phonon modes of two-dimensional (2D) materials should show a linear dependence close to the Brillouin zone center due to the reduced problem dimensionality compared to a three-dimensional crystal, leading to a vanishing LO-TO splitting. Revisiting this question using a mirror-charge framework derived from classical electrostatics, we show that it is not always true: with perfectly-reflective dielectric interfaces, it is possible to recover a LO-TO splitting, or an equivalent phenomenon for the out-of-plane modes. Effectively, the dispersion of polar phonon modes is governed by optical-like constructive and destructive interferences of the source potential with its reflection at the dielectric interfaces. This work highlights the critical role of dielectric boundary conditions to understand phonon-related properties in 2D materials.",
+      "score": 5,
+      "priority": 0,
+      "highlights": [
+        "2D materials"
+      ],
+      "abstract_cn": "已有观点认为，由于相较于三维晶体问题维度降低，二维（2D）材料的极性声子模式在布里渊区中心附近应表现出线性依赖，从而导致 LO-TO 劈裂消失。本文利用源自经典静电学的镜像电荷框架重新审视这一问题，并表明这种说法并不总是成立：在完全反射的介电界面条件下，可以恢复 LO-TO 劈裂，或者对面外模式产生等效现象。实际上，极性声子模式的色散由源势与其在介电界面处反射之间类似光学的相长和相消干涉所支配。本工作强调了介电边界条件在理解二维材料中声子相关性质时的关键作用。",
+      "abstract_zh": "已有观点认为，由于相较于三维晶体问题维度降低，二维（2D）材料的极性声子模式在布里渊区中心附近应表现出线性依赖，从而导致 LO-TO 劈裂消失。本文利用源自经典静电学的镜像电荷框架重新审视这一问题，并表明这种说法并不总是成立：在完全反射的介电界面条件下，可以恢复 LO-TO 劈裂，或者对面外模式产生等效现象。实际上，极性声子模式的色散由源势与其在介电界面处反射之间类似光学的相长和相消干涉所支配。本工作强调了介电边界条件在理解二维材料中声子相关性质时的关键作用。",
+      "overview_cn": "Focus: 二维材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Optical-like interference control polar-phonons dispersions in 2D materials.",
+      "reading_notes": "Focus: 二维材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Optical-like interference control polar-phonons dispersions in 2D materials."
     }
   ],
   "errors": [],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-06-14T00:30:00+00:00"
+  "generated_at": "2026-06-15T00:30:00+00:00"
 }
