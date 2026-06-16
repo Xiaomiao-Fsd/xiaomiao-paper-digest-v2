@@ -1,31 +1,30 @@
 {
   "ok": true,
-  "new_count": 0,
+  "new_count": 4,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-15）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Valley Engineering in Bilayer WSe$_2$ Gate-All-Around Transistors\n   关键词：transistor, GAA\n   日期：2026-06-08\n   Authors: Katsunori Wakabayashi, Souren Adhikary, Kazuhito Tsukagoshi\n   https://arxiv.org/abs/2606.08955v1\n2. [arXiv] Electrical Spectroscopy of Intervalley Relaxation in WSe$_2$ Transistors\n   关键词：transistor\n   日期：2026-06-09\n   Authors: Katsunori Wakabayashi\n   https://arxiv.org/abs/2606.10470v1\n3. [arXiv] Compositional gradient engineering for enhanced ferroelectricity in ultrathin AlScN\n   日期：2026-06-11\n   Authors: Zekun Hu, Haiwen Zhang, Rajeev Kumar Rai 等\n   https://arxiv.org/abs/2606.12568v1\n4. [arXiv] Boron Co-Alloying in AlScN Wurtzite Ferroelectrics: Insights from an 850-Sample Combinatori…\n   日期：2026-06-10\n   Authors: Federica Messi, Nathan Rodkey, Manuel Kober-Czerny 等\n   https://arxiv.org/abs/2606.11954v1\n5. [Nature Electronics] Precise and efficient computing via signal folding\n   日期：2026-06-09\n   https://www.nature.com/articles/s41928-026-01646-9\n6. [arXiv] Stable, bidirectional electro-optic transduction in thin film lithium tantalate\n   日期：2026-06-11\n   Authors: Christopher J. Axline, Stephan Gamper, Phoebe M. Tengdin 等\n   https://arxiv.org/abs/2606.12726v1\n7. [arXiv] Robust Spin Logic Enabled by Generalized $\\mathrm{SU}(2)$ Symmetry in $p$-Wave Magnets\n   日期：2026-06-10\n   Authors: Hao-Kun Ke, Gong Zhao, Siqing Li 等\n   https://arxiv.org/abs/2606.11912v2\n8. [arXiv] Optical-like interference control polar-phonons dispersions in 2D materials\n   关键词：2D materials\n   日期：2026-06-09\n   Authors: Benoit Van Troeye, Geoffrey Pourtois\n   https://arxiv.org/abs/2606.10549v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-16）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 4 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Electrostatic Charge Model for Dual-Layer Oxide Thin-Film Transistors\n   关键词：transistor\n   日期：2026-06-12\n   Authors: Måns J. Mattsson, John F. Wager, Matt W. Graham\n   https://arxiv.org/abs/2606.13765v1\n2. [arXiv] Modifying Electrochemical Doping in Light-Emitting Electrochemical Cells with Gold Nanopart…\n   日期：2026-06-12\n   Authors: Ajay K. Poonia, Anton Kirch, Joan Ràfols-Ribé 等\n   https://arxiv.org/abs/2606.14402v1\n3. [arXiv] Vapor-to-glass preparation of biaxially aligned organic semiconductors\n   关键词：semiconductor\n   日期：2026-06-12\n   Authors: Jianzhu Ju, Debaditya Chatterjee, Paul M. Voyles 等\n   https://arxiv.org/abs/2606.14213v1\n4. [arXiv] Molecular Beam Epitaxy of Mn2In2Se5 van der Waals Layers Using Mn Intercalation\n   关键词：epitaxy\n   日期：2026-06-12\n   Authors: Qihua Zhang, Ke Wang, Wesley Auker 等\n   https://arxiv.org/abs/2606.13906v1",
   "papers": [
     {
       "source": "arXiv",
-      "uid": "arxiv:2606.08955v1",
-      "title": "Valley Engineering in Bilayer WSe$_2$ Gate-All-Around Transistors",
-      "url": "https://arxiv.org/abs/2606.08955v1",
-      "published": "2026-06-08",
+      "uid": "arxiv:2606.13765v1",
+      "title": "Electrostatic Charge Model for Dual-Layer Oxide Thin-Film Transistors",
+      "url": "https://arxiv.org/abs/2606.13765v1",
+      "published": "2026-06-12",
       "authors": [
-        "Katsunori Wakabayashi",
-        "Souren Adhikary",
-        "Kazuhito Tsukagoshi"
+        "Måns J. Mattsson",
+        "John F. Wager",
+        "Matt W. Graham"
       ],
-      "summary": "In bilayer WSe$_2$, interlayer coupling reduces the K--$Γ$ valley splitting to $Δ_{KΓ} \\approx k_BT$ at room temperature, placing two hole-transport channels of markedly different effective mass in near-thermal equilibrium. We combine density functional theory (DFT) with spin--orbit coupling and an analytical two-valley device model to quantify how this near-degeneracy governs hole transport in gate-all-around (GAA) field-effect transistors. Three main results are obtained: (i)~the subthreshold swing is protected near $60$~mV~dec$^{-1}$ by quantum-capacitance screening independently of layer number; (ii)~the effective mobility is set by the K-to-$Γ$ valley occupation ratio and decreases monotonically with layer number; and (iii)~in the bilayer, compressive biaxial strain \\emph{simultaneously} enhances the on-current, suppresses the off-current, and improves the on/off ratio from ${\\approx}69$ to ${\\approx}156$, while the subthreshold swing remains near the thermionic limit. This decoupling of on-state performance from switching slope is inaccessible through conventional mobility engineering and establishes a concrete design principle: \\emph{valley-engineering sensitivity is maximized when $Δ_{KΓ} \\approx k_BT$}, the condition most naturally satisfied by bilayer WSe$_2$ at room temperature and zero strain, making it the optimal channel for valley-engineered GAA transistors.",
+      "summary": "A simple electrostatic two-equation model for dual-layer thin-film transistor (TFT) operation is developed. The model distributes electrostatic charge between the top and bottom semiconductor layers, and the resulting transfer and mobility curves accurately simulate experimental dual-layer a-IGZO/a-IZO TFT operation. The model further provides an analytic expression that maps charge confinement in the high-mobility a-IZO bottom semiconductor layer with the a-IGZO top-layer thickness and the conduction-band offset. By considering both a-IGZO/a-IZO layer charge partition and competing thickness-dependent oxygen vacancy trap density effects, the model suggests an optimal a-IGZO layer thickness of 9 to 12 nm. Importantly, this general electrostatic model extends to most dual-layer TFT systems and calculates how the top semiconductor layer TFT turn-on voltage changes sharply with the conduction band offset and layer thickness.",
       "score": 12,
       "priority": 1,
       "highlights": [
-        "transistor",
-        "GAA"
+        "transistor"
       ],
-      "abstract_cn": "在双层 WSe2 中，层间耦合将 K–Γ 谷劈裂降低至室温下的 ΔKΓ ≈ kBT，使两个有效质量显著不同的空穴输运通道处于近热平衡状态。我们将包含自旋—轨道耦合的密度泛函理论（density functional theory, DFT）与解析双谷器件模型相结合，量化这种近简并性如何支配环栅（gate-all-around, GAA）场效应晶体管中的空穴输运。得到三个主要结果：（i）由于量子电容屏蔽，亚阈值摆幅被保护在接近 60 mV dec−1，且与层数无关；（ii）有效迁移率由 K 谷到 Γ 谷的占据比决定，并随层数增加单调降低；（iii）在双层中，压缩双轴应变可同时增强导通电流、抑制关断电流，并将开关比从约 69 提高到约 156，同时亚阈值摆幅仍接近热离子极限。这种导通态性能与开关斜率之间的解耦无法通过传统迁移率工程实现，并确立了一条具体设计原则：当 ΔKΓ ≈ kBT 时，谷工程敏感性最大；这一条件在室温和零应变下最自然地由双层 WSe2 满足，使其成为谷工程 GAA 晶体管的最佳沟道。",
-      "abstract_zh": "在双层 WSe2 中，层间耦合将 K–Γ 谷劈裂降低至室温下的 ΔKΓ ≈ kBT，使两个有效质量显著不同的空穴输运通道处于近热平衡状态。我们将包含自旋—轨道耦合的密度泛函理论（density functional theory, DFT）与解析双谷器件模型相结合，量化这种近简并性如何支配环栅（gate-all-around, GAA）场效应晶体管中的空穴输运。得到三个主要结果：（i）由于量子电容屏蔽，亚阈值摆幅被保护在接近 60 mV dec−1，且与层数无关；（ii）有效迁移率由 K 谷到 Γ 谷的占据比决定，并随层数增加单调降低；（iii）在双层中，压缩双轴应变可同时增强导通电流、抑制关断电流，并将开关比从约 69 提高到约 156，同时亚阈值摆幅仍接近热离子极限。这种导通态性能与开关斜率之间的解耦无法通过传统迁移率工程实现，并确立了一条具体设计原则：当 ΔKΓ ≈ kBT 时，谷工程敏感性最大；这一条件在室温和零应变下最自然地由双层 WSe2 满足，使其成为谷工程 GAA 晶体管的最佳沟道。",
-      "overview_cn": "Focus: 晶体管、GAA / 全环栅.\nWhat to check: 性能提升、效率/耦合表现、先进尺度下的可扩展性.\nContext: Valley Engineering in Bilayer WSe$_2$ Gate-All-Around Transistors.",
-      "reading_notes": "Focus: 晶体管、GAA / 全环栅.\nWhat to check: 性能提升、效率/耦合表现、先进尺度下的可扩展性.\nContext: Valley Engineering in Bilayer WSe$_2$ Gate-All-Around Transistors."
+      "abstract_cn": "本文建立了一种用于双层薄膜晶体管（thin-film transistor, TFT）工作的简单静电双方程模型。该模型将静电电荷分配在顶部和底部半导体层之间，所得转移曲线和迁移率曲线能够准确模拟实验中的双层 a-IGZO/a-IZO TFT 工作特性。该模型进一步给出了一个解析表达式，用于描述高迁移率 a-IZO 底部半导体层中的电荷限域如何随 a-IGZO 顶层厚度和导带偏移而变化。通过同时考虑 a-IGZO/a-IZO 层间电荷分配以及相互竞争的厚度依赖氧空位陷阱密度效应，该模型表明最优 a-IGZO 层厚度为 9 至 12 nm。重要的是，这一通用静电模型可扩展到大多数双层 TFT 体系，并可计算顶部半导体层 TFT 开启电压如何随导带偏移和层厚发生急剧变化。",
+      "abstract_zh": "本文建立了一种用于双层薄膜晶体管（thin-film transistor, TFT）工作的简单静电双方程模型。该模型将静电电荷分配在顶部和底部半导体层之间，所得转移曲线和迁移率曲线能够准确模拟实验中的双层 a-IGZO/a-IZO TFT 工作特性。该模型进一步给出了一个解析表达式，用于描述高迁移率 a-IZO 底部半导体层中的电荷限域如何随 a-IGZO 顶层厚度和导带偏移而变化。通过同时考虑 a-IGZO/a-IZO 层间电荷分配以及相互竞争的厚度依赖氧空位陷阱密度效应，该模型表明最优 a-IGZO 层厚度为 9 至 12 nm。重要的是，这一通用静电模型可扩展到大多数双层 TFT 体系，并可计算顶部半导体层 TFT 开启电压如何随导带偏移和层厚发生急剧变化。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Electrostatic Charge Model for Dual-Layer Oxide Thin-Film Transistors.",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Electrostatic Charge Model for Dual-Layer Oxide Thin-Film Transistors."
     },
     {
       "source": "arXiv",
@@ -42,8 +41,8 @@
       "highlights": [
         "transistor"
       ],
-      "abstract_cn": "我们表明，多层 WSe2 场效应晶体管的跨导可作为谷间弛豫时间 τiv 的直接电学谱仪，而此前 τiv 只能通过超快光学技术获得。我们在平衡谷热力学框架中引入针对 Γ 谷载流子分数 fΓ(t) 的单一弛豫方程，并预测了三个特征：（i）洛伦兹型跨导 gm(ω)=gm,0+gm,v^0/(1+iωτiv)，其虚部在 ωc=τiv−1 处达到峰值，并且在双层和三层中符号相反；（ii）栅压阶跃后的两阶段电流瞬态，表现为双层过冲或三层欠冲；以及（iii）与扫描速率成正比的滞回，其栅电压轮廓和层数相关的符号反转可将谷动力学与陷阱诱导动力学区分开来。这三个特征均可通过标准射频和直流仪器对 τiv 进行定量电学访问。",
-      "abstract_zh": "我们表明，多层 WSe2 场效应晶体管的跨导可作为谷间弛豫时间 τiv 的直接电学谱仪，而此前 τiv 只能通过超快光学技术获得。我们在平衡谷热力学框架中引入针对 Γ 谷载流子分数 fΓ(t) 的单一弛豫方程，并预测了三个特征：（i）洛伦兹型跨导 gm(ω)=gm,0+gm,v^0/(1+iωτiv)，其虚部在 ωc=τiv−1 处达到峰值，并且在双层和三层中符号相反；（ii）栅压阶跃后的两阶段电流瞬态，表现为双层过冲或三层欠冲；以及（iii）与扫描速率成正比的滞回，其栅电压轮廓和层数相关的符号反转可将谷动力学与陷阱诱导动力学区分开来。这三个特征均可通过标准射频和直流仪器对 τiv 进行定量电学访问。",
+      "abstract_cn": "我们表明，多层 WSe2 场效应晶体管的跨导可作为谷间弛豫时间 τiv 的直接电学谱仪，而此前 τiv 只能通过超快光学技术获得。我们在平衡谷热力学框架中引入针对 Γ 谷载流子分数 fΓ(t) 的单一弛豫方程，并预测了三个特征：（i）洛伦兹型跨导 gm(ω)=gm,0+gm,v^0/(1+iωτiv)，其虚部在 ωc=τiv^-1 处达到峰值，并且在双层和三层中符号相反；（ii）栅压阶跃后的两阶段电流瞬态，表现为双层过冲或三层欠冲；以及（iii）与扫描速率成正比的滞回，其栅电压轮廓和层数相关的符号反转可将谷动力学与陷阱诱导动力学区分开来。这三个特征均可通过标准射频和直流仪器对 τiv 进行定量电学访问。",
+      "abstract_zh": "我们表明，多层 WSe2 场效应晶体管的跨导可作为谷间弛豫时间 τiv 的直接电学谱仪，而此前 τiv 只能通过超快光学技术获得。我们在平衡谷热力学框架中引入针对 Γ 谷载流子分数 fΓ(t) 的单一弛豫方程，并预测了三个特征：（i）洛伦兹型跨导 gm(ω)=gm,0+gm,v^0/(1+iωτiv)，其虚部在 ωc=τiv^-1 处达到峰值，并且在双层和三层中符号相反；（ii）栅压阶跃后的两阶段电流瞬态，表现为双层过冲或三层欠冲；以及（iii）与扫描速率成正比的滞回，其栅电压轮廓和层数相关的符号反转可将谷动力学与陷阱诱导动力学区分开来。这三个特征均可通过标准射频和直流仪器对 τiv 进行定量电学访问。",
       "overview_cn": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Electrical Spectroscopy of Intervalley Relaxation in WSe$_2$ Transistors.",
       "reading_notes": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Electrical Spectroscopy of Intervalley Relaxation in WSe$_2$ Transistors."
     },
@@ -101,20 +100,32 @@
       "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、功耗或能效表现、与既有工艺平台的集成价值.\nContext: Boron Co-Alloying in AlScN Wurtzite Ferroelectrics: Insights from an 850-Sample Combinatorial S…."
     },
     {
-      "source": "Nature Electronics",
-      "uid": "Nature Electronics:10.1038/s41928-026-01646-9",
-      "title": "Precise and efficient computing via signal folding",
-      "url": "https://www.nature.com/articles/s41928-026-01646-9",
-      "published": "2026-06-09",
-      "authors": [],
-      "summary": "Nature Electronics, Published online: 09 June 2026; doi:10.1038/s41928-026-01646-9 An in-hardware signal-folding scheme, which can be applied to one-transistor–one-resistor molybdenum disulfide arrays, can simultaneously achieve high weight precision and energy efficiency.",
-      "score": 6,
+      "source": "arXiv",
+      "uid": "arxiv:2606.14402v1",
+      "title": "Modifying Electrochemical Doping in Light-Emitting Electrochemical Cells with Gold Nanoparticles",
+      "url": "https://arxiv.org/abs/2606.14402v1",
+      "published": "2026-06-12",
+      "authors": [
+        "Ajay K. Poonia",
+        "Anton Kirch",
+        "Joan Ràfols-Ribé",
+        "Lucrezia Catanzaro",
+        "Anish Rao",
+        "Karol Kołątaj",
+        "Vittorio Scardaci",
+        "Giuseppe Compagnini",
+        "Guillermo P. Acuna",
+        "Ludvig Edman",
+        "Nicolò Maccaferri"
+      ],
+      "summary": "Electrochemical doping offers dynamic control of the electronic properties of organic semiconductors, and it is the enabling feature of a range of technologies, including electrochemical transistors, energy-storage devices, light-emitting electrochemical cells (LECs), and bioelectronics. Electrochemical doping is commonly controlled by the selection of the constituents in the active material of the device or the applied voltage bias, but herein we report that the incorporation of Au nanoparticles (Au-NPs) at an electrode interface can constitute an alternative control parameter. The LEC features balanced p- and n-type electrochemical doping that forms a p-n junction doping structure in its active material, and we find that it is possible to reshape this doping profile by incorporating Au-NPs at an electrode interface. Specifically, we establish that the inclusion of neat non-capped Au-NPs at the anodic interface shifts the p-n junction (i.e., the emission zone) away from the anode. In contrast, the inclusion of Au-NPs capped with sodium citrate is found to reverse this behavior, so that the emission zone is instead moved towards the anode. We utilize this control parameter to shift the emission zone towards a position of constructive (destructive) interference, as manifested in a strong increase (decrease) of the LEC emission efficiency. Our findings establish an interfacial strategy for modulating the spatial profile of electrochemical doping and tuning device performance without altering the chemistry of the active material, relying instead on the surface modification of one electrode. This approach is important because it provides a versatile and minimally invasive route to optimize electrochemical devices while preserving the intrinsic properties and formulation of the active material.",
+      "score": 5,
       "priority": 0,
       "highlights": [],
-      "abstract_cn": "《Nature Electronics》，在线发表：2026 年 6 月 9 日；doi:10.1038/s41928-026-01646-9。一种硬件内信号折叠方案可应用于一晶体管—一电阻二硫化钼阵列，并可同时实现高权重精度和能量效率。",
-      "abstract_zh": "《Nature Electronics》，在线发表：2026 年 6 月 9 日；doi:10.1038/s41928-026-01646-9。一种硬件内信号折叠方案可应用于一晶体管—一电阻二硫化钼阵列，并可同时实现高权重精度和能量效率。",
-      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Precise and efficient computing via signal folding.",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Precise and efficient computing via signal folding."
+      "abstract_cn": "电化学掺杂能够动态控制有机半导体的电子性质，并且是包括电化学晶体管、储能器件、发光电化学池（light-emitting electrochemical cells, LECs）和生物电子学在内一系列技术的使能特征。电化学掺杂通常通过选择器件有源材料中的组成成分或施加电压偏置来控制，但本文报道，在电极界面引入 Au 纳米颗粒（Au-NPs）可以构成另一种控制参数。LEC 具有平衡的 p 型和 n 型电化学掺杂，并在其有源材料中形成 p-n 结掺杂结构；我们发现，通过在电极界面引入 Au-NPs，可以重塑这一掺杂轮廓。具体而言，我们确定，在阳极界面引入纯净的未封端 Au-NPs 会使 p-n 结（即发光区）远离阳极。相反，引入由柠檬酸钠封端的 Au-NPs 则会反转这种行为，使发光区转而向阳极移动。我们利用这一控制参数将发光区移动到发生相长（相消）干涉的位置，其表现为 LEC 发光效率显著提高（降低）。我们的发现建立了一种界面策略，可在不改变有源材料化学组成的情况下调控电化学掺杂的空间轮廓并调节器件性能，而是依赖于一个电极的表面改性。这种方法很重要，因为它提供了一条通用且微创的路径来优化电化学器件，同时保持有源材料的内禀性质和配方。",
+      "abstract_zh": "电化学掺杂能够动态控制有机半导体的电子性质，并且是包括电化学晶体管、储能器件、发光电化学池（light-emitting electrochemical cells, LECs）和生物电子学在内一系列技术的使能特征。电化学掺杂通常通过选择器件有源材料中的组成成分或施加电压偏置来控制，但本文报道，在电极界面引入 Au 纳米颗粒（Au-NPs）可以构成另一种控制参数。LEC 具有平衡的 p 型和 n 型电化学掺杂，并在其有源材料中形成 p-n 结掺杂结构；我们发现，通过在电极界面引入 Au-NPs，可以重塑这一掺杂轮廓。具体而言，我们确定，在阳极界面引入纯净的未封端 Au-NPs 会使 p-n 结（即发光区）远离阳极。相反，引入由柠檬酸钠封端的 Au-NPs 则会反转这种行为，使发光区转而向阳极移动。我们利用这一控制参数将发光区移动到发生相长（相消）干涉的位置，其表现为 LEC 发光效率显著提高（降低）。我们的发现建立了一种界面策略，可在不改变有源材料化学组成的情况下调控电化学掺杂的空间轮廓并调节器件性能，而是依赖于一个电极的表面改性。这种方法很重要，因为它提供了一条通用且微创的路径来优化电化学器件，同时保持有源材料的内禀性质和配方。",
+      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、效率/耦合表现、功耗或能效表现.\nContext: Modifying Electrochemical Doping in Light-Emitting Electrochemical Cells with Gold Nanoparticles.",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、效率/耦合表现、功耗或能效表现.\nContext: Modifying Electrochemical Doping in Light-Emitting Electrochemical Cells with Gold Nanoparticles."
     },
     {
       "source": "arXiv",
@@ -190,5 +201,5 @@
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-06-15T00:30:00+00:00"
+  "generated_at": "2026-06-16T00:30:00+00:00"
 }
