@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 4,
+  "new_count": 5,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-16）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 4 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Electrostatic Charge Model for Dual-Layer Oxide Thin-Film Transistors\n   关键词：transistor\n   日期：2026-06-12\n   Authors: Måns J. Mattsson, John F. Wager, Matt W. Graham\n   https://arxiv.org/abs/2606.13765v1\n2. [arXiv] Modifying Electrochemical Doping in Light-Emitting Electrochemical Cells with Gold Nanopart…\n   日期：2026-06-12\n   Authors: Ajay K. Poonia, Anton Kirch, Joan Ràfols-Ribé 等\n   https://arxiv.org/abs/2606.14402v1\n3. [arXiv] Vapor-to-glass preparation of biaxially aligned organic semiconductors\n   关键词：semiconductor\n   日期：2026-06-12\n   Authors: Jianzhu Ju, Debaditya Chatterjee, Paul M. Voyles 等\n   https://arxiv.org/abs/2606.14213v1\n4. [arXiv] Molecular Beam Epitaxy of Mn2In2Se5 van der Waals Layers Using Mn Intercalation\n   关键词：epitaxy\n   日期：2026-06-12\n   Authors: Qihua Zhang, Ke Wang, Wesley Auker 等\n   https://arxiv.org/abs/2606.13906v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-17）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 5 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Contacts to Low-Dimensional Semiconductors: Physical Theory and Analytical Model\n   关键词：semiconductor\n   日期：2026-06-15\n   Authors: Jimmy Qin, H. -S. Philip Wong\n   https://arxiv.org/abs/2606.16030v1\n2. [arXiv] Coupled Flexural Optomechanical Cavities with Engineered Nanomechanical Interconnects\n   关键词：interconnect\n   日期：2026-06-15\n   Authors: David Alonso-Tomás, Guillermo Arregui, Bingrui Lu 等\n   https://arxiv.org/abs/2606.16887v1\n3. [arXiv] Atom Probe Tomography as an Emerging Tool for Understanding Defect-driven Mechanisms in HfO…\n   日期：2026-06-15\n   Authors: Kasper A. Hunnestad, Catherine Dubourdieu, Alexei Gruverman 等\n   https://arxiv.org/abs/2606.16512v1\n4. [arXiv] Unveiling AlSb as a Promising Zincblende Semiconductor for Visible-Light Shift-Current Gene…\n   关键词：semiconductor\n   日期：2026-06-14\n   Authors: César Castillo-Quevedo, Edgar Paredes-Sotelo, Peter L. Rodríguez-Kessler 等\n   https://arxiv.org/abs/2606.15613v1\n5. [arXiv] Designing Strong and Broadband Nonreciprocal Thermal Radiation in Magnetic Topological Mate…\n   日期：2026-06-13\n   Authors: Yiyang Jiang, Yufei Zhao, Linxiao Zhu 等\n   https://arxiv.org/abs/2606.14861v1",
   "papers": [
     {
       "source": "arXiv",
@@ -21,30 +21,31 @@
       "highlights": [
         "transistor"
       ],
-      "abstract_cn": "本文建立了一种用于双层薄膜晶体管（thin-film transistor, TFT）工作的简单静电双方程模型。该模型将静电电荷分配在顶部和底部半导体层之间，所得转移曲线和迁移率曲线能够准确模拟实验中的双层 a-IGZO/a-IZO TFT 工作特性。该模型进一步给出了一个解析表达式，用于描述高迁移率 a-IZO 底部半导体层中的电荷限域如何随 a-IGZO 顶层厚度和导带偏移而变化。通过同时考虑 a-IGZO/a-IZO 层间电荷分配以及相互竞争的厚度依赖氧空位陷阱密度效应，该模型表明最优 a-IGZO 层厚度为 9 至 12 nm。重要的是，这一通用静电模型可扩展到大多数双层 TFT 体系，并可计算顶部半导体层 TFT 开启电压如何随导带偏移和层厚发生急剧变化。",
-      "abstract_zh": "本文建立了一种用于双层薄膜晶体管（thin-film transistor, TFT）工作的简单静电双方程模型。该模型将静电电荷分配在顶部和底部半导体层之间，所得转移曲线和迁移率曲线能够准确模拟实验中的双层 a-IGZO/a-IZO TFT 工作特性。该模型进一步给出了一个解析表达式，用于描述高迁移率 a-IZO 底部半导体层中的电荷限域如何随 a-IGZO 顶层厚度和导带偏移而变化。通过同时考虑 a-IGZO/a-IZO 层间电荷分配以及相互竞争的厚度依赖氧空位陷阱密度效应，该模型表明最优 a-IGZO 层厚度为 9 至 12 nm。重要的是，这一通用静电模型可扩展到大多数双层 TFT 体系，并可计算顶部半导体层 TFT 开启电压如何随导带偏移和层厚发生急剧变化。",
+      "abstract_cn": "本文建立了一种用于双层薄膜晶体管（thin-film transistor, TFT）工作的简单静电双方程模型。该模型将静电电荷分配在顶部和底部半导体层之间，由此得到的转移曲线和迁移率曲线能够准确模拟实验中的双层 a-IGZO/a-IZO TFT 工作特性。该模型进一步给出了一个解析表达式，用于描述高迁移率 a-IZO 底部半导体层中的电荷限域如何随 a-IGZO 顶层厚度和导带偏移而变化。通过同时考虑 a-IGZO/a-IZO 层间电荷分配以及相互竞争的厚度依赖氧空位陷阱密度效应，该模型表明最优 a-IGZO 层厚度为 9 至 12 nm。重要的是，这一通用静电模型可扩展到大多数双层 TFT 体系，并可计算顶部半导体层 TFT 开启电压如何随导带偏移和层厚发生急剧变化。",
+      "abstract_zh": "本文建立了一种用于双层薄膜晶体管（thin-film transistor, TFT）工作的简单静电双方程模型。该模型将静电电荷分配在顶部和底部半导体层之间，由此得到的转移曲线和迁移率曲线能够准确模拟实验中的双层 a-IGZO/a-IZO TFT 工作特性。该模型进一步给出了一个解析表达式，用于描述高迁移率 a-IZO 底部半导体层中的电荷限域如何随 a-IGZO 顶层厚度和导带偏移而变化。通过同时考虑 a-IGZO/a-IZO 层间电荷分配以及相互竞争的厚度依赖氧空位陷阱密度效应，该模型表明最优 a-IGZO 层厚度为 9 至 12 nm。重要的是，这一通用静电模型可扩展到大多数双层 TFT 体系，并可计算顶部半导体层 TFT 开启电压如何随导带偏移和层厚发生急剧变化。",
       "overview_cn": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Electrostatic Charge Model for Dual-Layer Oxide Thin-Film Transistors.",
       "reading_notes": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Electrostatic Charge Model for Dual-Layer Oxide Thin-Film Transistors."
     },
     {
       "source": "arXiv",
-      "uid": "arxiv:2606.10470v1",
-      "title": "Electrical Spectroscopy of Intervalley Relaxation in WSe$_2$ Transistors",
-      "url": "https://arxiv.org/abs/2606.10470v1",
-      "published": "2026-06-09",
+      "uid": "arxiv:2606.16030v1",
+      "title": "Contacts to Low-Dimensional Semiconductors: Physical Theory and Analytical Model",
+      "url": "https://arxiv.org/abs/2606.16030v1",
+      "published": "2026-06-15",
       "authors": [
-        "Katsunori Wakabayashi"
+        "Jimmy Qin",
+        "H. -S. Philip Wong"
       ],
-      "summary": "We show that the transconductance of multilayer WSe$_2$ field-effect transistors serves as a direct electrical spectrometer of the intervalley relaxation time $τ_{\\rm iv}$, previously accessible only by ultrafast optical techniques. Extending an equilibrium valley-thermodynamics framework with a single relaxation equation for the $Γ$-valley carrier fraction $f_Γ(t)$, we predict three signatures: (i)~a Lorentzian transconductance $g_m(ω)=g_{m,0}+g_{m,v}^0/(1+iωτ_{\\rm iv})$, whose imaginary part peaks at $ω_c=τ_{\\rm iv}^{-1}$ with opposite signs for bilayer and trilayer; (ii)~a two-stage current transient after a gate step, exhibiting bilayer overshoot or trilayer undershoot; and (iii)~sweep-rate-proportional hysteresis whose gate-voltage profile and layer-number sign reversal distinguish valley from trap-induced dynamics. All three signatures provide quantitative electrical access to $τ_{\\rm iv}$ with standard rf and dc instrumentation.",
-      "score": 5,
-      "priority": 1,
+      "summary": "Metal contacts to low-dimensional semiconductors are critical for nanoelectronics, yet a general physical description has remained elusive. We present an analytical model for metal-induced gap states (MIGS), revealing a universal scaling law governed by semiconductor dimensionality. Linking MIGS to transport observables, we provide a unified formulation of Schottky barrier height, transfer length, and contact resistance. Our model explains recent experiments on carbon nanotubes and 2D materials, clarifying the fundamental criteria for achieving scalable, low-resistance contacts.",
+      "score": 8,
+      "priority": 0,
       "highlights": [
-        "transistor"
+        "semiconductor"
       ],
-      "abstract_cn": "我们表明，多层 WSe2 场效应晶体管的跨导可作为谷间弛豫时间 τiv 的直接电学谱仪，而此前 τiv 只能通过超快光学技术获得。我们在平衡谷热力学框架中引入针对 Γ 谷载流子分数 fΓ(t) 的单一弛豫方程，并预测了三个特征：（i）洛伦兹型跨导 gm(ω)=gm,0+gm,v^0/(1+iωτiv)，其虚部在 ωc=τiv^-1 处达到峰值，并且在双层和三层中符号相反；（ii）栅压阶跃后的两阶段电流瞬态，表现为双层过冲或三层欠冲；以及（iii）与扫描速率成正比的滞回，其栅电压轮廓和层数相关的符号反转可将谷动力学与陷阱诱导动力学区分开来。这三个特征均可通过标准射频和直流仪器对 τiv 进行定量电学访问。",
-      "abstract_zh": "我们表明，多层 WSe2 场效应晶体管的跨导可作为谷间弛豫时间 τiv 的直接电学谱仪，而此前 τiv 只能通过超快光学技术获得。我们在平衡谷热力学框架中引入针对 Γ 谷载流子分数 fΓ(t) 的单一弛豫方程，并预测了三个特征：（i）洛伦兹型跨导 gm(ω)=gm,0+gm,v^0/(1+iωτiv)，其虚部在 ωc=τiv^-1 处达到峰值，并且在双层和三层中符号相反；（ii）栅压阶跃后的两阶段电流瞬态，表现为双层过冲或三层欠冲；以及（iii）与扫描速率成正比的滞回，其栅电压轮廓和层数相关的符号反转可将谷动力学与陷阱诱导动力学区分开来。这三个特征均可通过标准射频和直流仪器对 τiv 进行定量电学访问。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Electrical Spectroscopy of Intervalley Relaxation in WSe$_2$ Transistors.",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Electrical Spectroscopy of Intervalley Relaxation in WSe$_2$ Transistors."
+      "abstract_cn": "低维半导体的金属接触对于纳米电子学至关重要，但其通用物理描述一直难以建立。我们提出了一种针对金属诱导带隙态（metal-induced gap states, MIGS）的解析模型，揭示了由半导体维度支配的普适标度律。通过将 MIGS 与输运可观测量联系起来，我们给出了肖特基势垒高度、转移长度和接触电阻的统一表述。我们的模型解释了近期关于碳纳米管和二维材料的实验，阐明了实现可缩放、低电阻接触的基本判据。",
+      "abstract_zh": "低维半导体的金属接触对于纳米电子学至关重要，但其通用物理描述一直难以建立。我们提出了一种针对金属诱导带隙态（metal-induced gap states, MIGS）的解析模型，揭示了由半导体维度支配的普适标度律。通过将 MIGS 与输运可观测量联系起来，我们给出了肖特基势垒高度、转移长度和接触电阻的统一表述。我们的模型解释了近期关于碳纳米管和二维材料的实验，阐明了实现可缩放、低电阻接触的基本判据。",
+      "overview_cn": "Focus: 半导体.\nWhat to check: 先进尺度下的可扩展性、接触/互连相关指标.\nContext: Contacts to Low-Dimensional Semiconductors: Physical Theory and Analytical Model.",
+      "reading_notes": "Focus: 半导体.\nWhat to check: 先进尺度下的可扩展性、接触/互连相关指标.\nContext: Contacts to Low-Dimensional Semiconductors: Physical Theory and Analytical Model."
     },
     {
       "source": "arXiv",
@@ -101,6 +102,76 @@
     },
     {
       "source": "arXiv",
+      "uid": "arxiv:2606.16887v1",
+      "title": "Coupled Flexural Optomechanical Cavities with Engineered Nanomechanical Interconnects",
+      "url": "https://arxiv.org/abs/2606.16887v1",
+      "published": "2026-06-15",
+      "authors": [
+        "David Alonso-Tomás",
+        "Guillermo Arregui",
+        "Bingrui Lu",
+        "Sergei Lepeshov",
+        "Søren Stobbe",
+        "Daniel Navarro-Urrios"
+      ],
+      "summary": "Integrated nanomechanical circuits require compact and predictable ways to read out, confine, and connect mechanical motion across multiple nanoscale elements. This challenge is particularly acute for megahertz flexural modes, whose large mechanical response and nonlinear dynamics are attractive for optomechanics, sensing, and signal processing, but whose extended nature makes local confinement and coupling difficult within dense devices. Here we demonstrate an optomechanical nanobeam platform in which optical transduction and mechanical connectivity are both engineered lithographically. Transverse geometric asymmetry in the photonic-crystal cavity breaks the cancellation that suppresses dispersive coupling to in-plane flexural motion, making these modes optically bright without ancillary structures. In parallel, serpentine mechanical links engineered through their complex band structure act as compact mirrors and evanescent couplers for MHz flexural waves. In coupled-cavity devices, the normal-mode splitting decays exponentially with the number of serpentine cells, yielding an experimental attenuation constant in quantitative agreement with full-system simulations. Geometry-dependent measurements further show that the coupling can be tuned by the interconnect design and identify regimes where finite-link modes hybridize with the cavity modes, beyond a simple two-resonator picture. These results establish complex-band-engineered mechanical links as calibrated interconnects for scalable optomechanical nanocircuits based on optically addressable MHz flexural resonators.",
+      "score": 5,
+      "priority": 0,
+      "highlights": [
+        "interconnect"
+      ],
+      "abstract_cn": "集成纳米机械电路需要紧凑且可预测的方法，以在多个纳米尺度元件之间读出、限域并连接机械运动。对于兆赫兹弯曲模式而言，这一挑战尤其突出；这类模式较大的机械响应和非线性动力学对光机械学、传感和信号处理很有吸引力，但其延展特性使得在高密度器件中实现局域限域和耦合较为困难。本文展示了一种光机械纳米梁平台，其中光学换能和机械连接性均通过光刻工程化实现。光子晶体腔中的横向几何不对称性打破了抑制其与面内弯曲运动发生色散耦合的抵消效应，使这些模式无需辅助结构即可在光学上变亮。与此同时，通过复杂能带结构工程化设计的蛇形机械连接臂可作为 MHz 弯曲波的紧凑反射镜和倏逝耦合器。在耦合腔器件中，正常模式劈裂随蛇形单元数量呈指数衰减，得到的实验衰减常数与全系统仿真定量一致。几何依赖测量进一步表明，耦合可通过互连设计进行调节，并识别出有限连接臂模式与腔模式发生杂化的工作区域，这超出了简单双谐振器图像。这些结果确立了经复杂能带工程化的机械连接臂可作为经过校准的互连，用于基于光学可寻址 MHz 弯曲谐振器的可扩展光机械纳米电路。",
+      "abstract_zh": "集成纳米机械电路需要紧凑且可预测的方法，以在多个纳米尺度元件之间读出、限域并连接机械运动。对于兆赫兹弯曲模式而言，这一挑战尤其突出；这类模式较大的机械响应和非线性动力学对光机械学、传感和信号处理很有吸引力，但其延展特性使得在高密度器件中实现局域限域和耦合较为困难。本文展示了一种光机械纳米梁平台，其中光学换能和机械连接性均通过光刻工程化实现。光子晶体腔中的横向几何不对称性打破了抑制其与面内弯曲运动发生色散耦合的抵消效应，使这些模式无需辅助结构即可在光学上变亮。与此同时，通过复杂能带结构工程化设计的蛇形机械连接臂可作为 MHz 弯曲波的紧凑反射镜和倏逝耦合器。在耦合腔器件中，正常模式劈裂随蛇形单元数量呈指数衰减，得到的实验衰减常数与全系统仿真定量一致。几何依赖测量进一步表明，耦合可通过互连设计进行调节，并识别出有限连接臂模式与腔模式发生杂化的工作区域，这超出了简单双谐振器图像。这些结果确立了经复杂能带工程化的机械连接臂可作为经过校准的互连，用于基于光学可寻址 MHz 弯曲谐振器的可扩展光机械纳米电路。",
+      "overview_cn": "Focus: 互连.\nWhat to check: 效率/耦合表现、接触/互连相关指标.\nContext: Coupled Flexural Optomechanical Cavities with Engineered Nanomechanical Interconnects.",
+      "reading_notes": "Focus: 互连.\nWhat to check: 效率/耦合表现、接触/互连相关指标.\nContext: Coupled Flexural Optomechanical Cavities with Engineered Nanomechanical Interconnects."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2606.16512v1",
+      "title": "Atom Probe Tomography as an Emerging Tool for Understanding Defect-driven Mechanisms in HfO$_{2}$-based Ferroelectrics",
+      "url": "https://arxiv.org/abs/2606.16512v1",
+      "published": "2026-06-15",
+      "authors": [
+        "Kasper A. Hunnestad",
+        "Catherine Dubourdieu",
+        "Alexei Gruverman",
+        "Dennis Meier"
+      ],
+      "summary": "HfO$_{2}$-based ferroelectrics are essential for the next generation of CMOS-compatible memory and logic devices, yet their performance is governed by a complex interplay between oxygen vacancies, dopants, and structural defects that remains an active area of investigation. These defects shape the function-critical dynamic phenomena, such as polar phase stabilization, wake-up, fatigue, and imprint. In this Perspective, we review the limitations of established high-resolution structural characterization techniques and propose atom probe tomography (APT) as a powerful tool for the three-dimensional (3D), atomic-scale mapping of all constituent species in hafnia-based ferroelectric systems. By resolving individual dopants, vacancy clustering, and interfacial segregation, APT can facilitate a quantitative understanding of defect-property relations in hafnia-based ferroelectrics. We discuss current experimental challenges for APT application to ferroelectric oxides, demonstrate a proof-of-concept of atomic-scale reconstruction in a hafnia-based device stack, and highlight the potential of APT to guide the development of ferroelectric structures with enhanced reliability and performance.",
+      "score": 5,
+      "priority": 0,
+      "highlights": [],
+      "abstract_cn": "HfO2 基铁电体对于下一代 CMOS 兼容存储和逻辑器件至关重要，但其性能受氧空位、掺杂剂和结构缺陷之间复杂相互作用的支配，而这仍是一个活跃研究领域。这些缺陷塑造了对功能至关重要的动态现象，例如极性相稳定、唤醒、疲劳和印记。在本文这一观点文章中，我们回顾了既有高分辨结构表征技术的局限，并提出原子探针层析（atom probe tomography, APT）可作为一种强有力工具，用于在铪氧基铁电体系中对所有组成物种进行三维（3D）、原子尺度映射。通过分辨单个掺杂剂、空位团簇和界面偏聚，APT 可促进对铪氧基铁电体中缺陷—性质关系的定量理解。我们讨论了 APT 应用于铁电氧化物时当前面临的实验挑战，展示了在铪氧基器件堆叠中进行原子尺度重构的概念验证，并强调了 APT 在指导开发可靠性和性能增强的铁电结构方面的潜力。",
+      "abstract_zh": "HfO2 基铁电体对于下一代 CMOS 兼容存储和逻辑器件至关重要，但其性能受氧空位、掺杂剂和结构缺陷之间复杂相互作用的支配，而这仍是一个活跃研究领域。这些缺陷塑造了对功能至关重要的动态现象，例如极性相稳定、唤醒、疲劳和印记。在本文这一观点文章中，我们回顾了既有高分辨结构表征技术的局限，并提出原子探针层析（atom probe tomography, APT）可作为一种强有力工具，用于在铪氧基铁电体系中对所有组成物种进行三维（3D）、原子尺度映射。通过分辨单个掺杂剂、空位团簇和界面偏聚，APT 可促进对铪氧基铁电体中缺陷—性质关系的定量理解。我们讨论了 APT 应用于铁电氧化物时当前面临的实验挑战，展示了在铪氧基器件堆叠中进行原子尺度重构的概念验证，并强调了 APT 在指导开发可靠性和性能增强的铁电结构方面的潜力。",
+      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Atom Probe Tomography as an Emerging Tool for Understanding Defect-driven Mechanisms in HfO$_{2….",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Atom Probe Tomography as an Emerging Tool for Understanding Defect-driven Mechanisms in HfO$_{2…."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2606.15613v1",
+      "title": "Unveiling AlSb as a Promising Zincblende Semiconductor for Visible-Light Shift-Current Generation",
+      "url": "https://arxiv.org/abs/2606.15613v1",
+      "published": "2026-06-14",
+      "authors": [
+        "César Castillo-Quevedo",
+        "Edgar Paredes-Sotelo",
+        "Peter L. Rodríguez-Kessler",
+        "Gerardo Martínez-Guajardo",
+        "Jose Luis Cabellos"
+      ],
+      "summary": "We use density functional theory to investigate the shift-current response in zincblende III--V (AlP, AlAs, AlSb, GaP, GaAs, InP, InAs, and InSb) and II--VI (ZnS, ZnSe, ZnTe, CdS, CdSe, and CdTe) semiconductors. Our main goal is to identify which material generates the largest shift-current under illumination and to examine the factors influencing this response. We find that aluminum-containing semiconductors, particularly AlSb, exhibit the highest shift-current responses, while CdSe shows the lowest. We analyze the contributions of specific band-to-band transitions to the shift-current in AlSb by selectively summing valence and conduction bands. Additionally, we calculate delocalization indices to investigate the electron delocalization, which correlates with the shift current. Hydrostatic pressure does not enhance the shift current in these materials. These findings have potential applications in optoelectronics and identify the most promising zincblende semiconductors for efficient shift-current generation under visible-light illumination",
+      "score": 5,
+      "priority": 0,
+      "highlights": [
+        "semiconductor"
+      ],
+      "abstract_cn": "我们利用密度泛函理论研究了闪锌矿 III-V 族（AlP、AlAs、AlSb、GaP、GaAs、InP、InAs 和 InSb）以及 II-VI 族（ZnS、ZnSe、ZnTe、CdS、CdSe 和 CdTe）半导体中的位移电流响应。我们的主要目标是识别哪种材料在光照下产生最大的位移电流，并考察影响该响应的因素。我们发现，含铝半导体，尤其是 AlSb，表现出最高的位移电流响应，而 CdSe 则最低。我们通过选择性求和价带和导带，分析了 AlSb 中特定带间跃迁对位移电流的贡献。此外，我们计算了离域指数以研究电子离域性，而电子离域性与位移电流相关。静水压力不会增强这些材料中的位移电流。这些发现具有潜在的光电子学应用价值，并确定了在可见光照射下用于高效位移电流产生的最有前景闪锌矿半导体。",
+      "abstract_zh": "我们利用密度泛函理论研究了闪锌矿 III-V 族（AlP、AlAs、AlSb、GaP、GaAs、InP、InAs 和 InSb）以及 II-VI 族（ZnS、ZnSe、ZnTe、CdS、CdSe 和 CdTe）半导体中的位移电流响应。我们的主要目标是识别哪种材料在光照下产生最大的位移电流，并考察影响该响应的因素。我们发现，含铝半导体，尤其是 AlSb，表现出最高的位移电流响应，而 CdSe 则最低。我们通过选择性求和价带和导带，分析了 AlSb 中特定带间跃迁对位移电流的贡献。此外，我们计算了离域指数以研究电子离域性，而电子离域性与位移电流相关。静水压力不会增强这些材料中的位移电流。这些发现具有潜在的光电子学应用价值，并确定了在可见光照射下用于高效位移电流产生的最有前景闪锌矿半导体。",
+      "overview_cn": "Focus: 半导体.\nWhat to check: 性能提升.\nContext: Unveiling AlSb as a Promising Zincblende Semiconductor for Visible-Light Shift-Current Generati….",
+      "reading_notes": "Focus: 半导体.\nWhat to check: 性能提升.\nContext: Unveiling AlSb as a Promising Zincblende Semiconductor for Visible-Light Shift-Current Generati…."
+    },
+    {
+      "source": "arXiv",
       "uid": "arxiv:2606.14402v1",
       "title": "Modifying Electrochemical Doping in Light-Emitting Electrochemical Cells with Gold Nanoparticles",
       "url": "https://arxiv.org/abs/2606.14402v1",
@@ -126,80 +197,11 @@
       "abstract_zh": "电化学掺杂能够动态控制有机半导体的电子性质，并且是包括电化学晶体管、储能器件、发光电化学池（light-emitting electrochemical cells, LECs）和生物电子学在内一系列技术的使能特征。电化学掺杂通常通过选择器件有源材料中的组成成分或施加电压偏置来控制，但本文报道，在电极界面引入 Au 纳米颗粒（Au-NPs）可以构成另一种控制参数。LEC 具有平衡的 p 型和 n 型电化学掺杂，并在其有源材料中形成 p-n 结掺杂结构；我们发现，通过在电极界面引入 Au-NPs，可以重塑这一掺杂轮廓。具体而言，我们确定，在阳极界面引入纯净的未封端 Au-NPs 会使 p-n 结（即发光区）远离阳极。相反，引入由柠檬酸钠封端的 Au-NPs 则会反转这种行为，使发光区转而向阳极移动。我们利用这一控制参数将发光区移动到发生相长（相消）干涉的位置，其表现为 LEC 发光效率显著提高（降低）。我们的发现建立了一种界面策略，可在不改变有源材料化学组成的情况下调控电化学掺杂的空间轮廓并调节器件性能，而是依赖于一个电极的表面改性。这种方法很重要，因为它提供了一条通用且微创的路径来优化电化学器件，同时保持有源材料的内禀性质和配方。",
       "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、效率/耦合表现、功耗或能效表现.\nContext: Modifying Electrochemical Doping in Light-Emitting Electrochemical Cells with Gold Nanoparticles.",
       "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、效率/耦合表现、功耗或能效表现.\nContext: Modifying Electrochemical Doping in Light-Emitting Electrochemical Cells with Gold Nanoparticles."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2606.12726v1",
-      "title": "Stable, bidirectional electro-optic transduction in thin film lithium tantalate",
-      "url": "https://arxiv.org/abs/2606.12726v1",
-      "published": "2026-06-11",
-      "authors": [
-        "Christopher J. Axline",
-        "Stephan Gamper",
-        "Phoebe M. Tengdin",
-        "Moritz Businger",
-        "Guilhem Alma",
-        "Marina A. Roquet",
-        "Nicola Brusadin",
-        "Robin Giroud",
-        "Luis G. Villanueva"
-      ],
-      "summary": "Efficient and stable microwave-optical transduction is a key enabling technology for distributed superconducting quantum computing and heterogeneous quantum networks. Electro-optic transducers based on thin-film lithium niobate (TFLN) have shown strong promise, but demonstrations to date have been limited by various factors such as low frequency bias drift, low efficiency, fabrication complexity, and scalability. Here we demonstrate the first integrated electro-optic microwave-optical transducers realized in thin-film lithium tantalate (TFLT), a material platform offering Pockels nonlinearity comparable to TFLN together with improved bias stability and high-power handling. We fabricate superconducting microwave resonators coupled to tunable photonic-molecule optical resonators using wafer-scale deep ultraviolet lithography, offering high-throughput production of hundreds of devices per wafer. Across six devices we observe coherent bidirectional conversion between C-band optical photons and 4.9-5.5 GHz microwave photons, with measured on-chip efficiencies and inferred single-photon coupling rates g_0/2π ~ 1 kHz consistent with theory. Continuous operation over multiple days is achieved using a static bias field with minimal feedback, demonstrating a major operational advantage. We further characterize optical loss statistics, microwave resonator performance, and optically induced added noise under pulsed pumping, finding less than one added photon for 100 microsecond pulses at the highest measured efficiencies. These results establish TFLT as a scalable and robust electro-optic platform for future quantum interconnects and modular quantum processors.",
-      "score": 5,
-      "priority": 0,
-      "highlights": [],
-      "abstract_cn": "高效且稳定的微波—光学转换是分布式超导量子计算和异构量子网络的一项关键使能技术。基于薄膜铌酸锂（thin-film lithium niobate, TFLN）的电光换能器已显示出很强前景，但迄今的演示仍受到低频偏置漂移、效率较低、制造复杂性和可扩展性等多种因素限制。本文展示了首个在薄膜钽酸锂（thin-film lithium tantalate, TFLT）中实现的集成电光微波—光学换能器；这一材料平台具有与 TFLN 相当的 Pockels 非线性，同时具备更好的偏置稳定性和高功率承受能力。我们利用晶圆级深紫外光刻制备了与可调光子分子光学谐振器耦合的超导微波谐振器，可实现每片晶圆数百个器件的高通量生产。在六个器件中，我们观察到 C 波段光学光子与 4.9–5.5 GHz 微波光子之间的相干双向转换；测得的片上效率以及推断的单光子耦合率 g0/2π ~ 1 kHz 与理论一致。通过使用静态偏置场并结合最小反馈，实现了持续多天的连续工作，展示出一项重要的运行优势。我们进一步表征了光学损耗统计、微波谐振器性能，以及脉冲泵浦下光诱导的附加噪声，发现在最高测得效率下，100 微秒脉冲对应的附加光子数小于 1。这些结果确立了 TFLT 作为一种可扩展且稳健的电光平台，可用于未来量子互连和模块化量子处理器。",
-      "abstract_zh": "高效且稳定的微波—光学转换是分布式超导量子计算和异构量子网络的一项关键使能技术。基于薄膜铌酸锂（thin-film lithium niobate, TFLN）的电光换能器已显示出很强前景，但迄今的演示仍受到低频偏置漂移、效率较低、制造复杂性和可扩展性等多种因素限制。本文展示了首个在薄膜钽酸锂（thin-film lithium tantalate, TFLT）中实现的集成电光微波—光学换能器；这一材料平台具有与 TFLN 相当的 Pockels 非线性，同时具备更好的偏置稳定性和高功率承受能力。我们利用晶圆级深紫外光刻制备了与可调光子分子光学谐振器耦合的超导微波谐振器，可实现每片晶圆数百个器件的高通量生产。在六个器件中，我们观察到 C 波段光学光子与 4.9–5.5 GHz 微波光子之间的相干双向转换；测得的片上效率以及推断的单光子耦合率 g0/2π ~ 1 kHz 与理论一致。通过使用静态偏置场并结合最小反馈，实现了持续多天的连续工作，展示出一项重要的运行优势。我们进一步表征了光学损耗统计、微波谐振器性能，以及脉冲泵浦下光诱导的附加噪声，发现在最高测得效率下，100 微秒脉冲对应的附加光子数小于 1。这些结果确立了 TFLT 作为一种可扩展且稳健的电光平台，可用于未来量子互连和模块化量子处理器。",
-      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: Stable, bidirectional electro-optic transduction in thin film lithium tantalate.",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: Stable, bidirectional electro-optic transduction in thin film lithium tantalate."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2606.11912v2",
-      "title": "Robust Spin Logic Enabled by Generalized $\\mathrm{SU}(2)$ Symmetry in $p$-Wave Magnets",
-      "url": "https://arxiv.org/abs/2606.11912v2",
-      "published": "2026-06-10",
-      "authors": [
-        "Hao-Kun Ke",
-        "Gong Zhao",
-        "Siqing Li",
-        "Ruixiang Chen",
-        "Chui-Zhen Chen"
-      ],
-      "summary": "Unconventional magnets combine the vanishing stray fields of antiferromagnets with the strong spin-splitting of ferromagnets, offering a unique material platform for spintronics. However, a critical challenge in realizing functional spin-logic devices lies in preserving long-range spin coherence against momentum-degrading scattering and gate-induced dephasing. Here, we demonstrate that the intrinsic momentum-dependent exchange field of a three-dimensional $p$-wave magnet can be precisely tuned against gate-induced Rashba spin-orbit coupling to establish a \\textit{generalized} $\\mathrm{SU}(2)$ spin-rotation symmetry. This emergent conservation law generates a symmetry-protected Persistent Spin Helix (PSH), effectively integrating the high energy scales of 3D bulk magnetic exchange with the macroscopic coherence of symmetry protection. By modeling a synergistic $p$-wave magnetic spin field-effect transistor (spin-FET), we reveal high-visibility Datta-Das conductance oscillations controlled purely by electrical gating. Crucially, our quantum transport simulations confirm that this symmetry-engineered transport regime exhibits exceptional resilience against strong non-magnetic Anderson disorder and geometric variations. These results establish a synergistic paradigm for non-magnetized spintronics, demonstrating how the active integration of spin-orbit coupling and unconventional magnetism can yield disorder-resilient spintronic logic.",
-      "score": 5,
-      "priority": 0,
-      "highlights": [],
-      "abstract_cn": "非常规磁体结合了反铁磁体的零杂散场和铁磁体的强自旋劈裂，为自旋电子学提供了一个独特的材料平台。然而，实现功能性自旋逻辑器件的一项关键挑战在于，如何在动量退相干散射和栅诱导退相干下保持长程自旋相干。本文证明，三维 p 波磁体的本征动量依赖交换场可以与栅诱导 Rashba 自旋—轨道耦合进行精确调谐，从而建立一种广义 SU(2) 自旋旋转对称性。这一涌现的守恒律产生了受对称性保护的持久自旋螺旋（Persistent Spin Helix, PSH），有效地将三维体磁交换的高能量尺度与对称性保护带来的宏观相干性集成在一起。通过建模一种协同型 p 波磁性自旋场效应晶体管（spin-FET），我们揭示了完全由电栅控制的高可见度 Datta-Das 电导振荡。关键的是，我们的量子输运仿真证实，这种经对称性工程设计的输运区域对强非磁性 Anderson 无序和几何变化表现出优异的抗扰性。这些结果确立了一种面向无净磁化自旋电子学的协同范式，展示了主动集成自旋—轨道耦合与非常规磁性如何产生抗无序的自旋电子逻辑。",
-      "abstract_zh": "非常规磁体结合了反铁磁体的零杂散场和铁磁体的强自旋劈裂，为自旋电子学提供了一个独特的材料平台。然而，实现功能性自旋逻辑器件的一项关键挑战在于，如何在动量退相干散射和栅诱导退相干下保持长程自旋相干。本文证明，三维 p 波磁体的本征动量依赖交换场可以与栅诱导 Rashba 自旋—轨道耦合进行精确调谐，从而建立一种广义 SU(2) 自旋旋转对称性。这一涌现的守恒律产生了受对称性保护的持久自旋螺旋（Persistent Spin Helix, PSH），有效地将三维体磁交换的高能量尺度与对称性保护带来的宏观相干性集成在一起。通过建模一种协同型 p 波磁性自旋场效应晶体管（spin-FET），我们揭示了完全由电栅控制的高可见度 Datta-Das 电导振荡。关键的是，我们的量子输运仿真证实，这种经对称性工程设计的输运区域对强非磁性 Anderson 无序和几何变化表现出优异的抗扰性。这些结果确立了一种面向无净磁化自旋电子学的协同范式，展示了主动集成自旋—轨道耦合与非常规磁性如何产生抗无序的自旋电子逻辑。",
-      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 效率/耦合表现、可靠性与稳定性、功耗或能效表现.\nContext: Robust Spin Logic Enabled by Generalized $\\mathrm{SU}(2)$ Symmetry in $p$-Wave Magnets.",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 效率/耦合表现、可靠性与稳定性、功耗或能效表现.\nContext: Robust Spin Logic Enabled by Generalized $\\mathrm{SU}(2)$ Symmetry in $p$-Wave Magnets."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2606.10549v1",
-      "title": "Optical-like interference control polar-phonons dispersions in 2D materials",
-      "url": "https://arxiv.org/abs/2606.10549v1",
-      "published": "2026-06-09",
-      "authors": [
-        "Benoit Van Troeye",
-        "Geoffrey Pourtois"
-      ],
-      "summary": "It has been argued that the polar phonon modes of two-dimensional (2D) materials should show a linear dependence close to the Brillouin zone center due to the reduced problem dimensionality compared to a three-dimensional crystal, leading to a vanishing LO-TO splitting. Revisiting this question using a mirror-charge framework derived from classical electrostatics, we show that it is not always true: with perfectly-reflective dielectric interfaces, it is possible to recover a LO-TO splitting, or an equivalent phenomenon for the out-of-plane modes. Effectively, the dispersion of polar phonon modes is governed by optical-like constructive and destructive interferences of the source potential with its reflection at the dielectric interfaces. This work highlights the critical role of dielectric boundary conditions to understand phonon-related properties in 2D materials.",
-      "score": 5,
-      "priority": 0,
-      "highlights": [
-        "2D materials"
-      ],
-      "abstract_cn": "已有观点认为，由于相较于三维晶体问题维度降低，二维（2D）材料的极性声子模式在布里渊区中心附近应表现出线性依赖，从而导致 LO-TO 劈裂消失。本文利用源自经典静电学的镜像电荷框架重新审视这一问题，并表明这种说法并不总是成立：在完全反射的介电界面条件下，可以恢复 LO-TO 劈裂，或者对面外模式产生等效现象。实际上，极性声子模式的色散由源势与其在介电界面处反射之间类似光学的相长和相消干涉所支配。本工作强调了介电边界条件在理解二维材料中声子相关性质时的关键作用。",
-      "abstract_zh": "已有观点认为，由于相较于三维晶体问题维度降低，二维（2D）材料的极性声子模式在布里渊区中心附近应表现出线性依赖，从而导致 LO-TO 劈裂消失。本文利用源自经典静电学的镜像电荷框架重新审视这一问题，并表明这种说法并不总是成立：在完全反射的介电界面条件下，可以恢复 LO-TO 劈裂，或者对面外模式产生等效现象。实际上，极性声子模式的色散由源势与其在介电界面处反射之间类似光学的相长和相消干涉所支配。本工作强调了介电边界条件在理解二维材料中声子相关性质时的关键作用。",
-      "overview_cn": "Focus: 二维材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Optical-like interference control polar-phonons dispersions in 2D materials.",
-      "reading_notes": "Focus: 二维材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Optical-like interference control polar-phonons dispersions in 2D materials."
     }
   ],
   "errors": [],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-06-16T00:30:00+00:00"
+  "generated_at": "2026-06-17T00:30:00+00:00"
 }
