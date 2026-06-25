@@ -2,153 +2,165 @@
   "ok": true,
   "new_count": 15,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-19）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Chemical Vapor Deposition of Ni-doped Iron Germanium Telluride Nanosheets\n   关键词：nanosheets, deposition\n   日期：2026-06-17\n   Authors: Matthew Metcalf, Jesse Martinez, Armella Mushfique 等\n   https://arxiv.org/abs/2606.18546v1\n2. [arXiv] Beyond the interface: Persistent Hopping Transport and Frequency Dispersion in Strong-inver…\n   关键词：MOSFET\n   日期：2026-06-16\n   Authors: Keito Yoshinaga, Wataru Miyagi, Ryo Toyoshima 等\n   https://arxiv.org/abs/2606.17547v1\n3. [Physical Review Letters] Space-charge-limited van der Waals spin transistor\n   关键词：transistor\n   日期：2026-06-18\n   Authors: Anonymous\n   https://doi.org/10.1103/61lp-6slp\n4. [Science Advances] Scalable multiplexed machine learning gas sensor chips for food classification\n   日期：2026-06-19\n   Authors: Carla Bassil, Kichul Lee, Xun Liao 等\n   https://doi.org/10.1126/sciadv.aec7965\n5. [Science Advances] Electric field–induced ferromagnetic domain change by ferroelectric topological domain swit…\n   关键词：ferroelectric\n   日期：2026-06-19\n   Authors: Koomok Lee, Peter Meisenheimer, Paul Stevenson 等\n   https://doi.org/10.1126/sciadv.aec2861\n6. [arXiv] Breaking symmetry to create a parallel-plate varactor dielectric with unparalleled microwav…\n   关键词：dielectric\n   日期：2026-06-18\n   Authors: Florian Bergmann, Matthew R. Barone, Zishen Tian 等\n   https://arxiv.org/abs/2606.20371v1\n7. [arXiv] Effective masses, Burstein-Moss shift, and bandgap renormalization in degenerate Al-doped Z…\n   日期：2026-06-18\n   Authors: S. Mishra, L. A. Enrique, D. Cespedes 等\n   https://arxiv.org/abs/2606.20349v1\n8. [arXiv] Anisotropic Short-Range Order Modulates Ferroelectric Switching in Wurtzite ScAlN Alloys\n   关键词：ferroelectric\n   日期：2026-06-17\n   Authors: Shunda Chen, Xianchao Dong, Xiaochen Jin 等\n   https://arxiv.org/abs/2606.18213v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-25）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [Nature Electronics] Industrial reliability testing of transistor gate dielectrics\n   关键词：transistor, dielectric\n   日期：2026-06-24\n   https://www.nature.com/articles/s41928-026-01644-x\n2. [Nature Electronics] One way to stack silicon transistors\n   关键词：transistor\n   日期：2026-06-23\n   https://www.nature.com/articles/s41928-026-01666-5\n3. [arXiv] Silicon Nanostructures for Biosensing: From Field-Effect Transistors to Photonic Resonators…\n   关键词：transistor\n   日期：2026-06-19\n   Authors: Ang Liu, Jun Cao, Zhihao Sun 等\n   https://arxiv.org/abs/2606.20902v1\n4. [arXiv] Rapid FinFET Modelling Using an Autoencoder\n   关键词：FinFET\n   日期：2026-06-23\n   Authors: Amit Sarkar Suman Sau, Swagata Mandal\n   https://arxiv.org/abs/2606.24046v1\n5. [Nature Electronics] Solution-processable two-dimensional hexagonal copper indium selenide semiconductors\n   关键词：semiconductor\n   日期：2026-06-24\n   https://www.nature.com/articles/s41928-026-01661-w\n6. [arXiv] Solid-state transcapacitor, a new gain element for logic, memory and interconnects\n   关键词：interconnect\n   日期：2026-06-20\n   Authors: Amrita Mathuriya, Roza Kotlyar, Neal Reynolds 等\n   https://arxiv.org/abs/2606.21772v1\n7. [arXiv] Superconducting cavity probes sliding ferroelectricity in small-angle twisted WSe$_2$\n   日期：2026-06-21\n   Authors: Krishnendu Maji, Supriya Mandal, Sriram H. 等\n   https://arxiv.org/abs/2606.22140v1\n8. [arXiv] Thermal stability of vapor-deposited stable glasses of an organic semiconductor\n   关键词：semiconductor\n   日期：2026-06-23\n   Authors: Diane M. Walters, Ranko Richert, M. D. Ediger\n   https://arxiv.org/abs/2606.24674v1",
   "papers": [
     {
-      "source": "arXiv",
-      "uid": "arxiv:2606.18546v1",
-      "title": "Chemical Vapor Deposition of Ni-doped Iron Germanium Telluride Nanosheets",
-      "url": "https://arxiv.org/abs/2606.18546v1",
-      "published": "2026-06-17",
-      "authors": [
-        "Matthew Metcalf",
-        "Jesse Martinez",
-        "Armella Mushfique",
-        "Alexander Riou",
-        "Lutfun Nahar",
-        "Bamidele Onipede",
-        "Hui Cai"
-      ],
-      "summary": "Iron germanium telluride (FGT; FemGenTe2) compounds have attracted significant interest due to their layered van der Waals structure, relatively high Curie temperature, and tunable magnetic properties. Chemical vapor deposition (CVD) is a particularly promising synthesis route owing to its simplicity, low cost, potential for scalability, and widespread adoption in the semiconductor industry, yet it has not been used previously to synthesize FGT with dopants. Here, we report CVD synthesis of both undoped and Ni-doped FGT nanosheets on SiO2/Si substrates. By adjusting precursor molar ratios, we synthesized Ni-doped FGT with multiple Fe concentrations and a 4% Ni-to-Fe ratio. X-ray photoelectron spectroscopy depth profiling further demonstrates that Ni is present in the bulk of the crystals. This straightforward, low-cost, and CMOS-compatible approach demonstrates a route to Ni-doped FGT nanosheets, establishing a foundation for future characterization of Ni-doped FGT and its potential integration into spintronic devices.",
-      "score": 12,
+      "source": "Nature Electronics",
+      "uid": "Nature Electronics:10.1038/s41928-026-01644-x",
+      "title": "Industrial reliability testing of transistor gate dielectrics",
+      "url": "https://www.nature.com/articles/s41928-026-01644-x",
+      "published": "2026-06-24",
+      "authors": [],
+      "summary": "Nature Electronics, Published online: 24 June 2026; doi:10.1038/s41928-026-01644-x This Perspective examines how industry benchmarks the performance of gate dielectrics in silicon transistors, how to collect and analyse gate dielectric reliability data to extract meaningful and industry-relevant conclusions, and how to apply this to two-dimensional transistors.",
+      "score": 16,
       "priority": 2,
       "highlights": [
-        "nanosheets",
-        "deposition"
+        "transistor",
+        "dielectric"
       ],
-      "abstract_cn": "铁锗碲化物（FGT；FemGenTe2）化合物因其层状范德华结构、相对较高的居里温度和可调磁性而受到广泛关注。化学气相沉积（chemical vapor deposition, CVD）由于工艺简单、成本低、具有可扩展潜力且在半导体工业中被广泛采用，是一种特别有前景的合成路线，但此前尚未用于合成掺杂 FGT。本文报道了在 SiO2/Si 衬底上通过 CVD 合成未掺杂和 Ni 掺杂 FGT 纳米片。通过调节前驱体摩尔比，我们合成了具有多种 Fe 浓度且 Ni/Fe 比为 4% 的 Ni 掺杂 FGT。X 射线光电子能谱深度剖析进一步证明 Ni 存在于晶体体相中。这种直接、低成本且 CMOS 兼容的方法展示了一条制备 Ni 掺杂 FGT 纳米片的路径，为未来 Ni 掺杂 FGT 的表征及其潜在集成到自旋电子器件中奠定了基础。",
-      "abstract_zh": "铁锗碲化物（FGT；FemGenTe2）化合物因其层状范德华结构、相对较高的居里温度和可调磁性而受到广泛关注。化学气相沉积（chemical vapor deposition, CVD）由于工艺简单、成本低、具有可扩展潜力且在半导体工业中被广泛采用，是一种特别有前景的合成路线，但此前尚未用于合成掺杂 FGT。本文报道了在 SiO2/Si 衬底上通过 CVD 合成未掺杂和 Ni 掺杂 FGT 纳米片。通过调节前驱体摩尔比，我们合成了具有多种 Fe 浓度且 Ni/Fe 比为 4% 的 Ni 掺杂 FGT。X 射线光电子能谱深度剖析进一步证明 Ni 存在于晶体体相中。这种直接、低成本且 CMOS 兼容的方法展示了一条制备 Ni 掺杂 FGT 纳米片的路径，为未来 Ni 掺杂 FGT 的表征及其潜在集成到自旋电子器件中奠定了基础。",
-      "overview_cn": "Focus: nanosheets、deposition.\nWhat to check: 先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Chemical Vapor Deposition of Ni-doped Iron Germanium Telluride Nanosheets.",
-      "reading_notes": "Focus: nanosheets、deposition.\nWhat to check: 先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Chemical Vapor Deposition of Ni-doped Iron Germanium Telluride Nanosheets."
+      "abstract_cn": "《Nature Electronics》，在线发表：2026 年 6 月 24 日；doi:10.1038/s41928-026-01644-x。本文这一观点文章考察了工业界如何评估硅晶体管中栅介质的性能，如何收集和分析栅介质可靠性数据以提取有意义且与工业相关的结论，以及如何将这些方法应用于二维晶体管。",
+      "abstract_zh": "《Nature Electronics》，在线发表：2026 年 6 月 24 日；doi:10.1038/s41928-026-01644-x。本文这一观点文章考察了工业界如何评估硅晶体管中栅介质的性能，如何收集和分析栅介质可靠性数据以提取有意义且与工业相关的结论，以及如何将这些方法应用于二维晶体管。",
+      "overview_cn": "Focus: 晶体管、介电材料.\nWhat to check: 性能提升、可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Industrial reliability testing of transistor gate dielectrics.",
+      "reading_notes": "Focus: 晶体管、介电材料.\nWhat to check: 性能提升、可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Industrial reliability testing of transistor gate dielectrics."
     },
     {
-      "source": "arXiv",
-      "uid": "arxiv:2606.17547v1",
-      "title": "Beyond the interface: Persistent Hopping Transport and Frequency Dispersion in Strong-inversion Cryogenic MOSFETs",
-      "url": "https://arxiv.org/abs/2606.17547v1",
-      "published": "2026-06-16",
-      "authors": [
-        "Keito Yoshinaga",
-        "Wataru Miyagi",
-        "Ryo Toyoshima",
-        "Munehiro Tada",
-        "Ken Uchida"
-      ],
-      "summary": "Cryogenic complementary metal-oxide-semiconductor (cryo-CMOS) technology is essential for quantum computing interfaces, which require precise modeling of dynamic device behavior. The output impedance of MOS field-effect transistors (MOSFETs) is frequency dependent, which has been conventionally attributed to extrinsic parasitics. Here, we report an intrinsic frequency dispersion in the channel impedance of cryogenic MOSFETs that persists deep into the strong-inversion region. Through a Cole-Cole analysis, we characterize this dispersion as a depressed semicircle in the impedance plane and attribute its behavior to variable-range hopping through band-tail localized states. Unlike conventional models where band-tail states are confined to the oxide interface, we demonstrate that in MOSFETs with high channel doping the band-tail states are induced by ionized impurities and distributed throughout the depletion region. Our paradigm accounts for frequency dispersion under strong inversion. This work demonstrates that ionized-impurities-induced hopping governs the dynamic response of cryo-MOSFETs channel impedance even when drift conduction dominates, offering critical insights for accurate small-signal modeling and high-frequency cryo-CMOS circuit design.",
-      "score": 12,
-      "priority": 1,
-      "highlights": [
-        "MOSFET"
-      ],
-      "abstract_cn": "低温互补金属—氧化物—半导体（cryo-CMOS）技术对于量子计算接口至关重要，而这些接口需要对器件动态行为进行精确建模。MOS 场效应晶体管（MOSFET）的输出阻抗具有频率依赖性，传统上这被归因于外在寄生效应。本文报道了低温 MOSFET 沟道阻抗中的一种内禀频率色散，该色散在深强反型区域中仍持续存在。通过 Cole-Cole 分析，我们将这种色散表征为阻抗平面中的压低半圆，并将其行为归因于通过带尾局域态发生的变程跳跃。不同于传统模型中带尾态被限制在氧化物界面处，我们证明，在具有高沟道掺杂的 MOSFET 中，带尾态由电离杂质诱导，并分布在整个耗尽区中。我们的范式解释了强反型下的频率色散。本工作表明，即使在漂移传导占主导时，电离杂质诱导的跳跃仍支配 cryo-MOSFET 沟道阻抗的动态响应，为准确的小信号建模和高频 cryo-CMOS 电路设计提供了关键认识。",
-      "abstract_zh": "低温互补金属—氧化物—半导体（cryo-CMOS）技术对于量子计算接口至关重要，而这些接口需要对器件动态行为进行精确建模。MOS 场效应晶体管（MOSFET）的输出阻抗具有频率依赖性，传统上这被归因于外在寄生效应。本文报道了低温 MOSFET 沟道阻抗中的一种内禀频率色散，该色散在深强反型区域中仍持续存在。通过 Cole-Cole 分析，我们将这种色散表征为阻抗平面中的压低半圆，并将其行为归因于通过带尾局域态发生的变程跳跃。不同于传统模型中带尾态被限制在氧化物界面处，我们证明，在具有高沟道掺杂的 MOSFET 中，带尾态由电离杂质诱导，并分布在整个耗尽区中。我们的范式解释了强反型下的频率色散。本工作表明，即使在漂移传导占主导时，电离杂质诱导的跳跃仍支配 cryo-MOSFET 沟道阻抗的动态响应，为准确的小信号建模和高频 cryo-CMOS 电路设计提供了关键认识。",
-      "overview_cn": "Focus: MOSFET.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Beyond the interface: Persistent Hopping Transport and Frequency Dispersion in Strong-inversion….",
-      "reading_notes": "Focus: MOSFET.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Beyond the interface: Persistent Hopping Transport and Frequency Dispersion in Strong-inversion…."
-    },
-    {
-      "source": "Physical Review Letters",
-      "uid": "doi:10.1103/61lp-6slp",
-      "title": "Space-charge-limited van der Waals spin transistor",
-      "url": "https://doi.org/10.1103/61lp-6slp",
-      "published": "2026-06-18",
-      "authors": [
-        "Anonymous"
-      ],
-      "summary": "",
-      "score": 6,
+      "source": "Nature Electronics",
+      "uid": "Nature Electronics:10.1038/s41928-026-01666-5",
+      "title": "One way to stack silicon transistors",
+      "url": "https://www.nature.com/articles/s41928-026-01666-5",
+      "published": "2026-06-23",
+      "authors": [],
+      "summary": "Nature Electronics, Published online: 23 June 2026; doi:10.1038/s41928-026-01666-5 One way to stack silicon transistors",
+      "score": 8,
       "priority": 1,
       "highlights": [
         "transistor"
       ],
-      "abstract_cn": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
-      "abstract_zh": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
-      "overview_cn": "Focus: 晶体管.\nNote: no abstract available; infer from title only.",
-      "reading_notes": "Focus: 晶体管.\nNote: no abstract available; infer from title only."
-    },
-    {
-      "source": "Science Advances",
-      "uid": "doi:10.1126/sciadv.aec7965",
-      "title": "Scalable multiplexed machine learning gas sensor chips for food classification",
-      "url": "https://doi.org/10.1126/sciadv.aec7965",
-      "published": "2026-06-19",
-      "authors": [
-        "Carla Bassil",
-        "Kichul Lee",
-        "Xun Liao",
-        "Divya Krishnan",
-        "Yifei Zhan",
-        "Theodorus Jonathan Wijaya",
-        "Edward Hester",
-        "Minhyun Kim",
-        "Il-Doo Kim",
-        "Inkyu Park",
-        "Ali Javey"
-      ],
-      "summary": "Multiplexed gas sensor arrays combined with machine learning have unlocked previously inaccessible applications for scent-based sensing. Current platforms are limited by overlapping sensing materials with similar compositions, leading to highly correlated responses, or multistep deposition processes that hinder scalability. In this work, we developed a 16-element monolithic chip with fully distinct sensing layers, enabling a truly heterogeneous array. The system consists of highly sensitive carbon nanotube field effect transistors that are functionalized through a single-step microdispensing method compatible with automated pipetting systems. The resulting chip produces characteristic signal patterns in response to object-specific scent profiles and, when combined with machine learning algorithms, can perform automated object identification. We demonstrate the classification of 16 different objects, including food spoilage and nut allergens, with a 92.6% overall prediction accuracy.",
-      "score": 8,
-      "priority": 0,
-      "highlights": [],
-      "abstract_cn": "多路复用气体传感器阵列与机器学习结合，已经解锁了此前难以实现的基于气味的传感应用。当前平台受限于成分相似、响应高度相关的重叠传感材料，或受阻于妨碍可扩展性的多步骤沉积工艺。在本工作中，我们开发了一种具有 16 个元件的单片芯片，其传感层完全不同，从而实现了真正异质的阵列。该系统由高灵敏碳纳米管场效应晶体管组成，并通过一种与自动移液系统兼容的单步微量分配方法进行功能化。所得芯片能够针对物体特异性气味特征产生特征信号图案，并在与机器学习算法结合后执行自动物体识别。我们展示了对 16 种不同对象的分类，包括食品腐败和坚果过敏原，总体预测准确率达到 92.6%。",
-      "abstract_zh": "多路复用气体传感器阵列与机器学习结合，已经解锁了此前难以实现的基于气味的传感应用。当前平台受限于成分相似、响应高度相关的重叠传感材料，或受阻于妨碍可扩展性的多步骤沉积工艺。在本工作中，我们开发了一种具有 16 个元件的单片芯片，其传感层完全不同，从而实现了真正异质的阵列。该系统由高灵敏碳纳米管场效应晶体管组成，并通过一种与自动移液系统兼容的单步微量分配方法进行功能化。所得芯片能够针对物体特异性气味特征产生特征信号图案，并在与机器学习算法结合后执行自动物体识别。我们展示了对 16 种不同对象的分类，包括食品腐败和坚果过敏原，总体预测准确率达到 92.6%。",
-      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Scalable multiplexed machine learning gas sensor chips for food classification.",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Scalable multiplexed machine learning gas sensor chips for food classification."
+      "abstract_cn": "《Nature Electronics》，在线发表：2026 年 6 月 23 日；doi:10.1038/s41928-026-01666-5。一种堆叠硅晶体管的方法。",
+      "abstract_zh": "《Nature Electronics》，在线发表：2026 年 6 月 23 日；doi:10.1038/s41928-026-01666-5。一种堆叠硅晶体管的方法。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 与既有工艺平台的集成价值.\nContext: One way to stack silicon transistors.",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 与既有工艺平台的集成价值.\nContext: One way to stack silicon transistors."
     },
     {
       "source": "arXiv",
-      "uid": "arxiv:2606.16030v1",
-      "title": "Contacts to Low-Dimensional Semiconductors: Physical Theory and Analytical Model",
-      "url": "https://arxiv.org/abs/2606.16030v1",
-      "published": "2026-06-15",
+      "uid": "arxiv:2606.20902v1",
+      "title": "Silicon Nanostructures for Biosensing: From Field-Effect Transistors to Photonic Resonators, and the Long Road to the Clinic",
+      "url": "https://arxiv.org/abs/2606.20902v1",
+      "published": "2026-06-19",
       "authors": [
-        "Jimmy Qin",
-        "H. -S. Philip Wong"
+        "Ang Liu",
+        "Jun Cao",
+        "Zhihao Sun",
+        "Jingsong Shang"
       ],
-      "summary": "Metal contacts to low-dimensional semiconductors are critical for nanoelectronics, yet a general physical description has remained elusive. We present an analytical model for metal-induced gap states (MIGS), revealing a universal scaling law governed by semiconductor dimensionality. Linking MIGS to transport observables, we provide a unified formulation of Schottky barrier height, transfer length, and contact resistance. Our model explains recent experiments on carbon nanotubes and 2D materials, clarifying the fundamental criteria for achieving scalable, low-resistance contacts.",
+      "summary": "Silicon has a unique combination of properties that makes it one of the best material choices for biosensor platforms: it is inexpensive, its native oxide is atomically smooth, its fabrication processes are CMOS-compatible and have been refined for more than three decades, and it can support many transduction mechanisms in biosensor design. Over the past thirty years, researchers and engineers have used silicon nanostructures to produce ion-sensitive transistors, ultrasensitive nanowire field-effect biosensors, refractive-index-based porous silicon films, microring photonic resonators, suspended cantilevers, luminescent quantum dots, and solid-state nanopores. These device families have demonstrated successful sensing capabilities at the single-molecule, single-virus, or sub-femtomolar level under laboratory conditions; however, they have rarely been widely deployed in clinical assays. This gap is mainly caused by several well-characterized bottlenecks: for nanowire BioFETs, device variability and Debye screening; for porous silicon, fouling, pore wetting, and surface stability; for silicon photonics, thermal drift, spectral readout, and packaging; and across all platforms, calibration, reproducibility, and validation in real biofluids. In this review, we trace the development of silicon biosensors from their early stages to their current state, search and organize the literature focusing on the three most mature platforms and a set of emerging directions, summarize and compare the performance and bottlenecks of different platforms, and argue that progress over the next decade will come primarily from integrated readout, interface engineering, and systematic benchmarking rather than from the discovery of new silicon nanostructures.",
       "score": 8,
+      "priority": 1,
+      "highlights": [
+        "transistor"
+      ],
+      "abstract_cn": "硅具有一组独特的性质，使其成为生物传感器平台的最佳材料选择之一：它价格低廉，其天然氧化层具有原子级平滑表面，其制造工艺与 CMOS 兼容并已历经三十多年优化，而且它能够支持生物传感器设计中的多种换能机制。在过去三十年中，研究人员和工程师利用硅纳米结构制备了离子敏感晶体管、超灵敏纳米线场效应生物传感器、基于折射率的多孔硅薄膜、微环光子谐振器、悬臂梁、发光量子点以及固态纳米孔。这些器件家族已经在实验室条件下展示了单分子、单病毒或亚飞摩尔水平的成功传感能力；然而，它们很少被广泛部署到临床检测中。这一差距主要由若干已被充分表征的瓶颈造成：对于纳米线 BioFET，是器件变异性和 Debye 屏蔽；对于多孔硅，是污染、孔润湿和表面稳定性；对于硅光子学，是热漂移、光谱读出和封装；而对所有平台而言，则是校准、可重复性以及在真实生物流体中的验证。在本文综述中，我们追溯了硅生物传感器从早期阶段到当前状态的发展，检索并组织了聚焦于三种最成熟平台和一组新兴方向的文献，总结并比较了不同平台的性能和瓶颈，并认为未来十年的进展主要将来自集成读出、界面工程和系统性基准测试，而不是新型硅纳米结构的发现。",
+      "abstract_zh": "硅具有一组独特的性质，使其成为生物传感器平台的最佳材料选择之一：它价格低廉，其天然氧化层具有原子级平滑表面，其制造工艺与 CMOS 兼容并已历经三十多年优化，而且它能够支持生物传感器设计中的多种换能机制。在过去三十年中，研究人员和工程师利用硅纳米结构制备了离子敏感晶体管、超灵敏纳米线场效应生物传感器、基于折射率的多孔硅薄膜、微环光子谐振器、悬臂梁、发光量子点以及固态纳米孔。这些器件家族已经在实验室条件下展示了单分子、单病毒或亚飞摩尔水平的成功传感能力；然而，它们很少被广泛部署到临床检测中。这一差距主要由若干已被充分表征的瓶颈造成：对于纳米线 BioFET，是器件变异性和 Debye 屏蔽；对于多孔硅，是污染、孔润湿和表面稳定性；对于硅光子学，是热漂移、光谱读出和封装；而对所有平台而言，则是校准、可重复性以及在真实生物流体中的验证。在本文综述中，我们追溯了硅生物传感器从早期阶段到当前状态的发展，检索并组织了聚焦于三种最成熟平台和一组新兴方向的文献，总结并比较了不同平台的性能和瓶颈，并认为未来十年的进展主要将来自集成读出、界面工程和系统性基准测试，而不是新型硅纳米结构的发现。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: Silicon Nanostructures for Biosensing: From Field-Effect Transistors to Photonic Resonators, an….",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: Silicon Nanostructures for Biosensing: From Field-Effect Transistors to Photonic Resonators, an…."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2606.24046v1",
+      "title": "Rapid FinFET Modelling Using an Autoencoder",
+      "url": "https://arxiv.org/abs/2606.24046v1",
+      "published": "2026-06-23",
+      "authors": [
+        "Amit Sarkar Suman Sau",
+        "Swagata Mandal"
+      ],
+      "summary": "This work presents a machine learning framework that leverages an autoencoder (AE) for the efficient modeling of FinFET. We first calibrated a BSIM-CMG model to generate a dataset of current-voltage (ID-VG) characteristics. This data was used to train an autoencoder that compresses full I-V curves into a low-dimensional latent space, which intrinsically encodes key device physics. A key innovation is the explicit incorporation of parameter such as drain to source voltage (VDS) as an input feature, enhancing the model ability to capture bias dependent variation. The trained model successfully reconstructs full I-V curves and directly extracts critical device metrics including threshold voltage (VTH), subthreshold slope (SS), and peak transconductance (gm). This approach demonstrates that data driven compact models, built from actual characterization data, can achieve high accuracy with minimal training data, providing a powerful tool for rapid device characterization, modelling and circuit level simulation.",
+      "score": 5,
+      "priority": 1,
+      "highlights": [
+        "FinFET"
+      ],
+      "abstract_cn": "本工作提出了一种利用自编码器（autoencoder, AE）对 FinFET 进行高效建模的机器学习框架。我们首先校准了一个 BSIM-CMG 模型，以生成电流—电压（ID-VG）特性数据集。该数据用于训练一个自编码器，将完整 I-V 曲线压缩到低维潜在空间中，而该空间内在地编码了关键器件物理。一个关键创新是显式地将漏源电压（VDS）等参数作为输入特征，从而增强模型捕捉偏置依赖变化的能力。训练后的模型能够成功重构完整 I-V 曲线，并直接提取包括阈值电压（VTH）、亚阈值摆幅（SS）和峰值跨导（gm）在内的关键器件指标。该方法表明，基于实际表征数据构建的数据驱动紧凑模型能够以最少训练数据实现高精度，为快速器件表征、建模和电路级仿真提供了强有力工具。",
+      "abstract_zh": "本工作提出了一种利用自编码器（autoencoder, AE）对 FinFET 进行高效建模的机器学习框架。我们首先校准了一个 BSIM-CMG 模型，以生成电流—电压（ID-VG）特性数据集。该数据用于训练一个自编码器，将完整 I-V 曲线压缩到低维潜在空间中，而该空间内在地编码了关键器件物理。一个关键创新是显式地将漏源电压（VDS）等参数作为输入特征，从而增强模型捕捉偏置依赖变化的能力。训练后的模型能够成功重构完整 I-V 曲线，并直接提取包括阈值电压（VTH）、亚阈值摆幅（SS）和峰值跨导（gm）在内的关键器件指标。该方法表明，基于实际表征数据构建的数据驱动紧凑模型能够以最少训练数据实现高精度，为快速器件表征、建模和电路级仿真提供了强有力工具。",
+      "overview_cn": "Focus: FinFET.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Rapid FinFET Modelling Using an Autoencoder.",
+      "reading_notes": "Focus: FinFET.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Rapid FinFET Modelling Using an Autoencoder."
+    },
+    {
+      "source": "Nature Electronics",
+      "uid": "Nature Electronics:10.1038/s41928-026-01661-w",
+      "title": "Solution-processable two-dimensional hexagonal copper indium selenide semiconductors",
+      "url": "https://www.nature.com/articles/s41928-026-01661-w",
+      "published": "2026-06-24",
+      "authors": [],
+      "summary": "Nature Electronics, Published online: 24 June 2026; doi:10.1038/s41928-026-01661-w Wafer-scale and air-stable semiconducting films of two-dimensional copper indium selenide can be made from monolayer ink deposition and annealing, creating transistors with an average mobility of 155 cm2 V−1 s−1 and a microprocessor containing over 100 devices.",
+      "score": 12,
       "priority": 0,
       "highlights": [
         "semiconductor"
       ],
-      "abstract_cn": "低维半导体的金属接触对于纳米电子学至关重要，但其通用物理描述一直难以建立。我们提出了一种针对金属诱导带隙态（metal-induced gap states, MIGS）的解析模型，揭示了由半导体维度支配的普适标度律。通过将 MIGS 与输运可观测量联系起来，我们给出了肖特基势垒高度、转移长度和接触电阻的统一表述。我们的模型解释了近期关于碳纳米管和二维材料的实验，阐明了实现可缩放、低电阻接触的基本判据。",
-      "abstract_zh": "低维半导体的金属接触对于纳米电子学至关重要，但其通用物理描述一直难以建立。我们提出了一种针对金属诱导带隙态（metal-induced gap states, MIGS）的解析模型，揭示了由半导体维度支配的普适标度律。通过将 MIGS 与输运可观测量联系起来，我们给出了肖特基势垒高度、转移长度和接触电阻的统一表述。我们的模型解释了近期关于碳纳米管和二维材料的实验，阐明了实现可缩放、低电阻接触的基本判据。",
-      "overview_cn": "Focus: 半导体.\nWhat to check: 先进尺度下的可扩展性、接触/互连相关指标.\nContext: Contacts to Low-Dimensional Semiconductors: Physical Theory and Analytical Model.",
-      "reading_notes": "Focus: 半导体.\nWhat to check: 先进尺度下的可扩展性、接触/互连相关指标.\nContext: Contacts to Low-Dimensional Semiconductors: Physical Theory and Analytical Model."
+      "abstract_cn": "《Nature Electronics》，在线发表：2026 年 6 月 24 日；doi:10.1038/s41928-026-01661-w。可通过单层墨水沉积和退火制备晶圆级且空气稳定的二维铜铟硒化物半导体薄膜，并由此制备平均迁移率为 155 cm2 V−1 s−1 的晶体管以及包含超过 100 个器件的微处理器。",
+      "abstract_zh": "《Nature Electronics》，在线发表：2026 年 6 月 24 日；doi:10.1038/s41928-026-01661-w。可通过单层墨水沉积和退火制备晶圆级且空气稳定的二维铜铟硒化物半导体薄膜，并由此制备平均迁移率为 155 cm2 V−1 s−1 的晶体管以及包含超过 100 个器件的微处理器。",
+      "overview_cn": "Focus: 半导体.\nWhat to check: 可靠性与稳定性.\nContext: Solution-processable two-dimensional hexagonal copper indium selenide semiconductors.",
+      "reading_notes": "Focus: 半导体.\nWhat to check: 可靠性与稳定性.\nContext: Solution-processable two-dimensional hexagonal copper indium selenide semiconductors."
     },
     {
-      "source": "Science Advances",
-      "uid": "doi:10.1126/sciadv.aec2861",
-      "title": "Electric field–induced ferromagnetic domain change by ferroelectric topological domain switching in Co-substituted BiFeO <sub>3</sub> nanodots",
-      "url": "https://doi.org/10.1126/sciadv.aec2861",
-      "published": "2026-06-19",
+      "source": "arXiv",
+      "uid": "arxiv:2606.21772v1",
+      "title": "Solid-state transcapacitor, a new gain element for logic, memory and interconnects",
+      "url": "https://arxiv.org/abs/2606.21772v1",
+      "published": "2026-06-20",
       "authors": [
-        "Koomok Lee",
-        "Peter Meisenheimer",
-        "Paul Stevenson",
-        "Yasuhito Nagase",
-        "Kei Shigematsu",
+        "Amrita Mathuriya",
+        "Roza Kotlyar",
+        "Neal Reynolds",
+        "Rafael Rios",
+        "Alan Kalitsov",
+        "Peter B. Meisenheimer",
+        "James Clarkson",
+        "Noriyuki Sato",
+        "Tanay Gosavi",
         "Ramamoorthy Ramesh",
-        "Masaki Azuma"
+        "Dmitri E. Nikonov",
+        "Sasikanth Manipatruni"
       ],
-      "summary": "Electric field–induced magnetization reversal accompanying polarization switching is promising for low–power consumption, nonvolatile, voltage-write, magnetic-read memory applications. Perovskite BiFe 0.9 Co 0.1 O 3 is a room-temperature multiferroic material in which both ferroelectric and weakly ferromagnetic orders coexist, with spontaneous magnetization coupled to the ferroelectric polarization. Here, we report electric field–induced ferroelectric and ferromagnetic domain changes in BiFe 0.9 Co 0.1 O 3 nanodots using a combination of piezoresponse microscopy and scanning nitrogen-vacancy center magnetometry assisted by image analysis techniques to directly observe both ferroic orders on the nanometer scale. The complex ferroelectric domains present in a 190-nanometer structure which can be switched from a net-down to a net-up polarization by scanning with a biased cantilever, accompanied by reversal of both in-plane and out-of-plane components of the magnetization. This directly demonstrates electric field–induced magnetization reversal accompanying 180° polarization switching in a complex structure of a scale relevant to the semiconductor industry, creating a potential path for next generation memory devices.",
-      "score": 7,
+      "summary": "Today's transistors dictate the voltage and charge scales for both logic and memory. While AI systems are recognized to be limited by memory energy, the dominant share of the energy is expended in the intrachip interconnects whose voltage and charge scales are set by transistors. The energy scaling challenges of transistors can be attributed to simultaneously meeting high current density, high current/impedance modulation, and the inability to lower voltages. Hence, a new logic element that lowers the voltage and charge needs is a priority, not only for lowering logic power but also memory access power. Here, we propose a novel 3-terminal logic element for low energy computing, a solid-state transcapacitor (TCAP). A TCAP is a solid state displacement current modulator realized by a gate which controls the charge-voltage relationship of the channel. Unlike transistors, TCAPs eliminate the dissipative transport current, are not bound by the Boltzmann current modulation limit, and operate with displacement currents limited only by the polarization response and contact resistance. Hence, TCAP circuits may simultaneously overcome the voltage, current density, and current modulation limits of CMOS. We describe a solid state TCAP using a piezoelectric transcapacitor in which a gate-controlled stressor modulates the capacitance of a polar channel via electromechanical coupling. This device achieves inversion and gain, essential for logic, and is functionally equivalent to a 1T-1C memory cell, enabling dense memory. Using voltage scaling, capacitive energy recovery, and high polarization densities of polar materials, the logic based on TCAP offers a pathway to 100 fold lower energy consumption with a delay comparable to ultimately scaled CMOS devices. This approach provides a new potential pathway for low-energy computing beyond the limits of transistors using electro-mechanics and multiferroics.",
+      "score": 10,
       "priority": 0,
       "highlights": [
-        "ferroelectric"
+        "interconnect"
       ],
-      "abstract_cn": "伴随极化翻转的电场诱导磁化反转，有望用于低功耗、非易失、电压写入、磁性读取的存储应用。钙钛矿 BiFe0.9Co0.1O3 是一种室温多铁材料，其中铁电有序和弱铁磁有序共存，自发磁化与铁电极化相耦合。本文结合压电响应显微镜和扫描氮—空位中心磁强计，并辅以图像分析技术，报道了 BiFe0.9Co0.1O3 纳米点中的电场诱导铁电和铁磁畴变化，从而在纳米尺度上直接观察两种铁性有序。存在于 190 nm 结构中的复杂铁电畴可以通过带偏压悬臂扫描从净向下极化切换为净向上极化，并伴随面内和面外磁化分量的反转。这直接证明了在与半导体工业相关尺度的复杂结构中，伴随 180° 极化翻转的电场诱导磁化反转，为下一代存储器件开辟了潜在路径。",
-      "abstract_zh": "伴随极化翻转的电场诱导磁化反转，有望用于低功耗、非易失、电压写入、磁性读取的存储应用。钙钛矿 BiFe0.9Co0.1O3 是一种室温多铁材料，其中铁电有序和弱铁磁有序共存，自发磁化与铁电极化相耦合。本文结合压电响应显微镜和扫描氮—空位中心磁强计，并辅以图像分析技术，报道了 BiFe0.9Co0.1O3 纳米点中的电场诱导铁电和铁磁畴变化，从而在纳米尺度上直接观察两种铁性有序。存在于 190 nm 结构中的复杂铁电畴可以通过带偏压悬臂扫描从净向下极化切换为净向上极化，并伴随面内和面外磁化分量的反转。这直接证明了在与半导体工业相关尺度的复杂结构中，伴随 180° 极化翻转的电场诱导磁化反转，为下一代存储器件开辟了潜在路径。",
-      "overview_cn": "Focus: 铁电材料.\nWhat to check: 功耗或能效表现.\nContext: Electric field–induced ferromagnetic domain change by ferroelectric topological domain switchin….",
-      "reading_notes": "Focus: 铁电材料.\nWhat to check: 功耗或能效表现.\nContext: Electric field–induced ferromagnetic domain change by ferroelectric topological domain switchin…."
+      "abstract_cn": "当今晶体管决定了逻辑和存储的电压与电荷尺度。尽管人们认识到 AI 系统受限于存储能耗，但能耗的主要部分消耗在片内互连中，而其电压和电荷尺度由晶体管设定。晶体管的能量缩放挑战可归因于需要同时满足高电流密度、高电流/阻抗调制以及无法降低电压。因此，能够降低电压和电荷需求的新型逻辑元件是优先事项，这不仅有助于降低逻辑功耗，也有助于降低存储访问功耗。本文提出了一种用于低能耗计算的新型三端逻辑元件，即固态跨电容器（solid-state transcapacitor, TCAP）。TCAP 是一种固态位移电流调制器，由栅极控制沟道的电荷—电压关系来实现。不同于晶体管，TCAP 消除了耗散性输运电流，不受 Boltzmann 电流调制极限约束，并以仅受极化响应和接触电阻限制的位移电流工作。因此，TCAP 电路可能同时克服 CMOS 的电压、电流密度和电流调制极限。我们描述了一种使用压电跨电容器的固态 TCAP，其中栅控应力源通过机电耦合调制极性沟道的电容。该器件实现了反相和增益，这是逻辑所必需的，并且在功能上等效于 1T-1C 存储单元，从而能够实现高密度存储。利用电压缩放、电容能量回收以及极性材料的高极化密度，基于 TCAP 的逻辑提供了一条可将能耗降低 100 倍、同时延迟可与极限缩放 CMOS 器件相当的路径。这种方法利用机电效应和多铁性，为超越晶体管极限的低能耗计算提供了一条新的潜在路径。",
+      "abstract_zh": "当今晶体管决定了逻辑和存储的电压与电荷尺度。尽管人们认识到 AI 系统受限于存储能耗，但能耗的主要部分消耗在片内互连中，而其电压和电荷尺度由晶体管设定。晶体管的能量缩放挑战可归因于需要同时满足高电流密度、高电流/阻抗调制以及无法降低电压。因此，能够降低电压和电荷需求的新型逻辑元件是优先事项，这不仅有助于降低逻辑功耗，也有助于降低存储访问功耗。本文提出了一种用于低能耗计算的新型三端逻辑元件，即固态跨电容器（solid-state transcapacitor, TCAP）。TCAP 是一种固态位移电流调制器，由栅极控制沟道的电荷—电压关系来实现。不同于晶体管，TCAP 消除了耗散性输运电流，不受 Boltzmann 电流调制极限约束，并以仅受极化响应和接触电阻限制的位移电流工作。因此，TCAP 电路可能同时克服 CMOS 的电压、电流密度和电流调制极限。我们描述了一种使用压电跨电容器的固态 TCAP，其中栅控应力源通过机电耦合调制极性沟道的电容。该器件实现了反相和增益，这是逻辑所必需的，并且在功能上等效于 1T-1C 存储单元，从而能够实现高密度存储。利用电压缩放、电容能量回收以及极性材料的高极化密度，基于 TCAP 的逻辑提供了一条可将能耗降低 100 倍、同时延迟可与极限缩放 CMOS 器件相当的路径。这种方法利用机电效应和多铁性，为超越晶体管极限的低能耗计算提供了一条新的潜在路径。",
+      "overview_cn": "Focus: 互连.\nWhat to check: 效率/耦合表现、先进尺度下的可扩展性、功耗或能效表现.\nContext: Solid-state transcapacitor, a new gain element for logic, memory and interconnects.",
+      "reading_notes": "Focus: 互连.\nWhat to check: 效率/耦合表现、先进尺度下的可扩展性、功耗或能效表现.\nContext: Solid-state transcapacitor, a new gain element for logic, memory and interconnects."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2606.22140v1",
+      "title": "Superconducting cavity probes sliding ferroelectricity in small-angle twisted WSe$_2$",
+      "url": "https://arxiv.org/abs/2606.22140v1",
+      "published": "2026-06-21",
+      "authors": [
+        "Krishnendu Maji",
+        "Supriya Mandal",
+        "Sriram H.",
+        "Rishiraj Rajkhowa",
+        "Malhar Date",
+        "Sayani Pal",
+        "Meghan P. Patankar",
+        "Kenji Watanabe",
+        "Takashi Taniguchi",
+        "Vibhor Singh",
+        "Mandar M. Deshmukh"
+      ],
+      "summary": "Ferroelectricity is a property of materials that exhibit spontaneous charge polarization. Ferroelectricity in 2D materials is interesting because of their applications in memory devices and field-effect transistors. Recently, a new type of ferroelectricity, known as sliding ferroelectricity, has been discovered, in which parallel-stacked bilayers of hexagonal boron nitride (hBN) or transition metal dichalcogenides (TMDCs) develop an out-of-plane electric polarization. In this work, we probe the polarization of small-angle parallel stacked WSe$_2$ by measuring its high-frequency AC response, achieved by embedding it into a half-wave superconducting coplanar waveguide cavity. We observe a hysteretic response in the capacitance of the stack and quality factor of the cavity, confirming ferroelectric switching in the system. Our results further reveal relaxation effects associated with ferroelectric domain-wall motion. This cavity-based technique has potential applications in probing domain-wall dynamics in a ferroelectric system at high frequencies.",
+      "score": 6,
+      "priority": 0,
+      "highlights": [],
+      "abstract_cn": "铁电性是材料表现出自发电荷极化的性质。二维材料中的铁电性因其在存储器件和场效应晶体管中的应用而受到关注。最近，一种称为滑移铁电性的新型铁电性被发现，其中六方氮化硼（hBN）或过渡金属二硫族化合物（TMDCs）的平行堆叠双层会产生面外电极化。在本工作中，我们通过测量小角度平行堆叠 WSe2 的高频交流响应来探测其极化，该测量通过将其嵌入半波超导共面波导腔中实现。我们在该堆叠的电容和腔的品质因数中观察到滞回响应，证实了该体系中的铁电翻转。我们的结果进一步揭示了与铁电畴壁运动相关的弛豫效应。这种基于腔的技术在高频探测铁电体系中的畴壁动力学方面具有潜在应用。",
+      "abstract_zh": "铁电性是材料表现出自发电荷极化的性质。二维材料中的铁电性因其在存储器件和场效应晶体管中的应用而受到关注。最近，一种称为滑移铁电性的新型铁电性被发现，其中六方氮化硼（hBN）或过渡金属二硫族化合物（TMDCs）的平行堆叠双层会产生面外电极化。在本工作中，我们通过测量小角度平行堆叠 WSe2 的高频交流响应来探测其极化，该测量通过将其嵌入半波超导共面波导腔中实现。我们在该堆叠的电容和腔的品质因数中观察到滞回响应，证实了该体系中的铁电翻转。我们的结果进一步揭示了与铁电畴壁运动相关的弛豫效应。这种基于腔的技术在高频探测铁电体系中的畴壁动力学方面具有潜在应用。",
+      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Superconducting cavity probes sliding ferroelectricity in small-angle twisted WSe$_2$.",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Superconducting cavity probes sliding ferroelectricity in small-angle twisted WSe$_2$."
     },
     {
       "source": "arXiv",
@@ -195,38 +207,11 @@
       "abstract_zh": "电压可调电容器（变容器）是微波电路的关键。可调介质变容器在几乎所有相关指标上都优于竞争技术，但通常存在较高介质损耗。相比之下，Ruddlesden-Popper（RP）介质薄膜具有极低的微波损耗。不幸的是，其晶体学对称性直到最近仍决定了只能采用面内器件结构，从而无法实现有利的面外平行板变容器设计，而这种设计可最小化尺寸并最大化可调介质中的电场。在理论指导下，我们报道了类似于被广泛研究的可调微波介质 BaxSr1-xTiO3 的 RP 材料。通过将这些相同原子组装成首个具有面外对称性破缺的 RP 相，我们实现了一种低损耗、面外可调介质薄膜。性能最佳的薄膜为 (ATiO3)nAO，其中 A = Ba0.45Sr0.55 且 n = 8，它使 10 GHz 下用于面外可调介质的品质因数提高了十倍，为新一代可调单片微波集成电路铺平了道路。",
       "overview_cn": "Focus: 介电材料.\nWhat to check: 性能提升.\nContext: Breaking symmetry to create a parallel-plate varactor dielectric with unparalleled microwave pe….",
       "reading_notes": "Focus: 介电材料.\nWhat to check: 性能提升.\nContext: Breaking symmetry to create a parallel-plate varactor dielectric with unparalleled microwave pe…."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2606.20349v1",
-      "title": "Effective masses, Burstein-Moss shift, and bandgap renormalization in degenerate Al-doped ZnO from broadband ellipsometry and Hall measurements",
-      "url": "https://arxiv.org/abs/2606.20349v1",
-      "published": "2026-06-18",
-      "authors": [
-        "S. Mishra",
-        "L. A. Enrique",
-        "D. Cespedes",
-        "E. Perez",
-        "E. Serquen",
-        "F. Bravo",
-        "P. Llontop",
-        "F. Ruske",
-        "L. Korte",
-        "J. A. Guerra"
-      ],
-      "summary": "A comprehensive methodology is developed to extract electron and hole effective masses in degenerate semiconductors through a simultaneous global fit of carrier concentration dependence of bandgap and plasma energy, explicitly incorporating band nonparabolicity. Broadband spectroscopic ellipsometry combined with Hall effect analyses enables accurate determination of the bandgap, plasma energy and carrier concentrations. The dielectric function of sputtered Al-doped ZnO thin films are modeled in the fundamental absorption region using an Elliott based model with overlapping excitonic transitions and Urbach tails, while free carrier absorption is described by a modified sernelius formula. Wide carrier concentrations are achieved via controlled deposition and post-annealing, revealing changes in electron effective masses and deviations from parabolic dispersion. Two nonparabolic models are compared, Pisarkiewicz, assuming spherically symmetric band with a step-function approximation of the Fermi-Dirac distribution and Nilsson, incorporating thermal and impurity effects. The latter is shown to capture accurately band nonparabolicity, yielding effective masses and nonparabolicity parameter consistent with bandgap evolution. This approach quantitatively separates Burstein-Moss shift and bandgap renormalization, reproducing carrier dependent bandgap shifts across a wide concentration range. Neglecting valence band contributions introduces systematic bias. Bandgap renormalization is further evaluated using plasmon pole and random phase approximations, underscoring the importance of many-body screening. This framework also enables determination of the Mott critical concentration and the fundamental absorption edge onset. Collectively, these results establish a reliable methodology for extracting band-structure parameters and bandgap shifts, extendable to other transparent conducting oxides.",
-      "score": 5,
-      "priority": 0,
-      "highlights": [],
-      "abstract_cn": "本文建立了一套综合方法，通过同时全局拟合带隙和等离子体能量随载流子浓度的依赖关系，并显式纳入能带非抛物性，从而提取简并半导体中的电子和空穴有效质量。宽带光谱椭偏结合霍尔效应分析，使带隙、等离子体能量和载流子浓度能够被准确确定。溅射 Al 掺杂 ZnO 薄膜的介电函数在本征吸收区域采用基于 Elliott 的模型进行描述，该模型包含重叠的激子跃迁和 Urbach 尾；而自由载流子吸收则由修正的 Sernelius 公式描述。通过受控沉积和后退火实现了宽范围载流子浓度，揭示了电子有效质量的变化以及对抛物型色散的偏离。本文比较了两种非抛物性模型：Pisarkiewicz 模型假设球对称能带，并采用费米—狄拉克分布的阶跃函数近似；Nilsson 模型则纳入热效应和杂质效应。结果表明，后者能够准确捕捉能带非抛物性，得到的有效质量和非抛物性参数与带隙演化一致。该方法能够定量分离 Burstein-Moss 位移和带隙重整化，并再现宽浓度范围内载流子依赖的带隙位移。忽略价带贡献会引入系统性偏差。本文还使用等离子体极点近似和随机相位近似进一步评估带隙重整化，凸显了多体屏蔽的重要性。该框架还能够确定 Mott 临界浓度和本征吸收边起始位置。总体而言，这些结果建立了一种可靠的方法，用于提取能带结构参数和带隙位移，并可扩展到其他透明导电氧化物。",
-      "abstract_zh": "本文建立了一套综合方法，通过同时全局拟合带隙和等离子体能量随载流子浓度的依赖关系，并显式纳入能带非抛物性，从而提取简并半导体中的电子和空穴有效质量。宽带光谱椭偏结合霍尔效应分析，使带隙、等离子体能量和载流子浓度能够被准确确定。溅射 Al 掺杂 ZnO 薄膜的介电函数在本征吸收区域采用基于 Elliott 的模型进行描述，该模型包含重叠的激子跃迁和 Urbach 尾；而自由载流子吸收则由修正的 Sernelius 公式描述。通过受控沉积和后退火实现了宽范围载流子浓度，揭示了电子有效质量的变化以及对抛物型色散的偏离。本文比较了两种非抛物性模型：Pisarkiewicz 模型假设球对称能带，并采用费米—狄拉克分布的阶跃函数近似；Nilsson 模型则纳入热效应和杂质效应。结果表明，后者能够准确捕捉能带非抛物性，得到的有效质量和非抛物性参数与带隙演化一致。该方法能够定量分离 Burstein-Moss 位移和带隙重整化，并再现宽浓度范围内载流子依赖的带隙位移。忽略价带贡献会引入系统性偏差。本文还使用等离子体极点近似和随机相位近似进一步评估带隙重整化，凸显了多体屏蔽的重要性。该框架还能够确定 Mott 临界浓度和本征吸收边起始位置。总体而言，这些结果建立了一种可靠的方法，用于提取能带结构参数和带隙位移，并可扩展到其他透明导电氧化物。",
-      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 功耗或能效表现.\nContext: Effective masses, Burstein-Moss shift, and bandgap renormalization in degenerate Al-doped ZnO f….",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 功耗或能效表现.\nContext: Effective masses, Burstein-Moss shift, and bandgap renormalization in degenerate Al-doped ZnO f…."
     }
   ],
   "errors": [],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-06-19T00:30:00+00:00"
+  "generated_at": "2026-06-25T00:30:00+00:00"
 }
