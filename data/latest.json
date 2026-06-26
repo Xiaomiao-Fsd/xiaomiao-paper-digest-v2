@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 15,
+  "new_count": 5,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-25）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [Nature Electronics] Industrial reliability testing of transistor gate dielectrics\n   关键词：transistor, dielectric\n   日期：2026-06-24\n   https://www.nature.com/articles/s41928-026-01644-x\n2. [Nature Electronics] One way to stack silicon transistors\n   关键词：transistor\n   日期：2026-06-23\n   https://www.nature.com/articles/s41928-026-01666-5\n3. [arXiv] Silicon Nanostructures for Biosensing: From Field-Effect Transistors to Photonic Resonators…\n   关键词：transistor\n   日期：2026-06-19\n   Authors: Ang Liu, Jun Cao, Zhihao Sun 等\n   https://arxiv.org/abs/2606.20902v1\n4. [arXiv] Rapid FinFET Modelling Using an Autoencoder\n   关键词：FinFET\n   日期：2026-06-23\n   Authors: Amit Sarkar Suman Sau, Swagata Mandal\n   https://arxiv.org/abs/2606.24046v1\n5. [Nature Electronics] Solution-processable two-dimensional hexagonal copper indium selenide semiconductors\n   关键词：semiconductor\n   日期：2026-06-24\n   https://www.nature.com/articles/s41928-026-01661-w\n6. [arXiv] Solid-state transcapacitor, a new gain element for logic, memory and interconnects\n   关键词：interconnect\n   日期：2026-06-20\n   Authors: Amrita Mathuriya, Roza Kotlyar, Neal Reynolds 等\n   https://arxiv.org/abs/2606.21772v1\n7. [arXiv] Superconducting cavity probes sliding ferroelectricity in small-angle twisted WSe$_2$\n   日期：2026-06-21\n   Authors: Krishnendu Maji, Supriya Mandal, Sriram H. 等\n   https://arxiv.org/abs/2606.22140v1\n8. [arXiv] Thermal stability of vapor-deposited stable glasses of an organic semiconductor\n   关键词：semiconductor\n   日期：2026-06-23\n   Authors: Diane M. Walters, Ranko Richert, M. D. Ediger\n   https://arxiv.org/abs/2606.24674v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-26）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 5 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Organic Semiconductor Alignment via Confinement in Vapor-Guided Droplets\n   关键词：semiconductor\n   日期：2026-06-26\n   Authors: Robert Malinowski, Alessandro Rossi, Lewis M. Cowen 等\n   https://arxiv.org/abs/2606.27207v1\n2. [arXiv] The interplay of interfaces, supramolecular assembly, and electronics in organic semiconduc…\n   关键词：semiconductor\n   日期：2026-06-24\n   Authors: Belinda J. Boehm, Huong T. L. Nguyen, David M. Huang\n   https://arxiv.org/abs/2606.25891v1\n3. [arXiv] Odd-parity electronic order near the semiconductor limit\n   关键词：semiconductor\n   日期：2026-06-25\n   Authors: Jack Tregidga, Dibyata Rout, Johannes Hielscher 等\n   https://arxiv.org/abs/2606.26338v1\n4. [arXiv] Thermoelectric response of a ferroelectric insulator\n   关键词：ferroelectric\n   日期：2026-06-24\n   Authors: Ryo Iguchi, Takashi Teranishi, Sakyo Hirose 等\n   https://arxiv.org/abs/2606.25767v2\n5. [arXiv] High-Performance Nanophononic Resonators in Self-Suspended WSe$_2$ Domes and Drums\n   日期：2026-06-24\n   Authors: Jens-Christian Drawer, Bo Han, Edson Rafael Cardozo de Oliveira 等\n   https://arxiv.org/abs/2606.25946v1",
   "papers": [
     {
       "source": "Nature Electronics",
@@ -40,29 +40,6 @@
       "abstract_zh": "《Nature Electronics》，在线发表：2026 年 6 月 23 日；doi:10.1038/s41928-026-01666-5。一种堆叠硅晶体管的方法。",
       "overview_cn": "Focus: 晶体管.\nWhat to check: 与既有工艺平台的集成价值.\nContext: One way to stack silicon transistors.",
       "reading_notes": "Focus: 晶体管.\nWhat to check: 与既有工艺平台的集成价值.\nContext: One way to stack silicon transistors."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2606.20902v1",
-      "title": "Silicon Nanostructures for Biosensing: From Field-Effect Transistors to Photonic Resonators, and the Long Road to the Clinic",
-      "url": "https://arxiv.org/abs/2606.20902v1",
-      "published": "2026-06-19",
-      "authors": [
-        "Ang Liu",
-        "Jun Cao",
-        "Zhihao Sun",
-        "Jingsong Shang"
-      ],
-      "summary": "Silicon has a unique combination of properties that makes it one of the best material choices for biosensor platforms: it is inexpensive, its native oxide is atomically smooth, its fabrication processes are CMOS-compatible and have been refined for more than three decades, and it can support many transduction mechanisms in biosensor design. Over the past thirty years, researchers and engineers have used silicon nanostructures to produce ion-sensitive transistors, ultrasensitive nanowire field-effect biosensors, refractive-index-based porous silicon films, microring photonic resonators, suspended cantilevers, luminescent quantum dots, and solid-state nanopores. These device families have demonstrated successful sensing capabilities at the single-molecule, single-virus, or sub-femtomolar level under laboratory conditions; however, they have rarely been widely deployed in clinical assays. This gap is mainly caused by several well-characterized bottlenecks: for nanowire BioFETs, device variability and Debye screening; for porous silicon, fouling, pore wetting, and surface stability; for silicon photonics, thermal drift, spectral readout, and packaging; and across all platforms, calibration, reproducibility, and validation in real biofluids. In this review, we trace the development of silicon biosensors from their early stages to their current state, search and organize the literature focusing on the three most mature platforms and a set of emerging directions, summarize and compare the performance and bottlenecks of different platforms, and argue that progress over the next decade will come primarily from integrated readout, interface engineering, and systematic benchmarking rather than from the discovery of new silicon nanostructures.",
-      "score": 8,
-      "priority": 1,
-      "highlights": [
-        "transistor"
-      ],
-      "abstract_cn": "硅具有一组独特的性质，使其成为生物传感器平台的最佳材料选择之一：它价格低廉，其天然氧化层具有原子级平滑表面，其制造工艺与 CMOS 兼容并已历经三十多年优化，而且它能够支持生物传感器设计中的多种换能机制。在过去三十年中，研究人员和工程师利用硅纳米结构制备了离子敏感晶体管、超灵敏纳米线场效应生物传感器、基于折射率的多孔硅薄膜、微环光子谐振器、悬臂梁、发光量子点以及固态纳米孔。这些器件家族已经在实验室条件下展示了单分子、单病毒或亚飞摩尔水平的成功传感能力；然而，它们很少被广泛部署到临床检测中。这一差距主要由若干已被充分表征的瓶颈造成：对于纳米线 BioFET，是器件变异性和 Debye 屏蔽；对于多孔硅，是污染、孔润湿和表面稳定性；对于硅光子学，是热漂移、光谱读出和封装；而对所有平台而言，则是校准、可重复性以及在真实生物流体中的验证。在本文综述中，我们追溯了硅生物传感器从早期阶段到当前状态的发展，检索并组织了聚焦于三种最成熟平台和一组新兴方向的文献，总结并比较了不同平台的性能和瓶颈，并认为未来十年的进展主要将来自集成读出、界面工程和系统性基准测试，而不是新型硅纳米结构的发现。",
-      "abstract_zh": "硅具有一组独特的性质，使其成为生物传感器平台的最佳材料选择之一：它价格低廉，其天然氧化层具有原子级平滑表面，其制造工艺与 CMOS 兼容并已历经三十多年优化，而且它能够支持生物传感器设计中的多种换能机制。在过去三十年中，研究人员和工程师利用硅纳米结构制备了离子敏感晶体管、超灵敏纳米线场效应生物传感器、基于折射率的多孔硅薄膜、微环光子谐振器、悬臂梁、发光量子点以及固态纳米孔。这些器件家族已经在实验室条件下展示了单分子、单病毒或亚飞摩尔水平的成功传感能力；然而，它们很少被广泛部署到临床检测中。这一差距主要由若干已被充分表征的瓶颈造成：对于纳米线 BioFET，是器件变异性和 Debye 屏蔽；对于多孔硅，是污染、孔润湿和表面稳定性；对于硅光子学，是热漂移、光谱读出和封装；而对所有平台而言，则是校准、可重复性以及在真实生物流体中的验证。在本文综述中，我们追溯了硅生物传感器从早期阶段到当前状态的发展，检索并组织了聚焦于三种最成熟平台和一组新兴方向的文献，总结并比较了不同平台的性能和瓶颈，并认为未来十年的进展主要将来自集成读出、界面工程和系统性基准测试，而不是新型硅纳米结构的发现。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: Silicon Nanostructures for Biosensing: From Field-Effect Transistors to Photonic Resonators, an….",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: Silicon Nanostructures for Biosensing: From Field-Effect Transistors to Photonic Resonators, an…."
     },
     {
       "source": "arXiv",
@@ -136,6 +113,58 @@
     },
     {
       "source": "arXiv",
+      "uid": "arxiv:2606.27207v1",
+      "title": "Organic Semiconductor Alignment via Confinement in Vapor-Guided Droplets",
+      "url": "https://arxiv.org/abs/2606.27207v1",
+      "published": "2026-06-26",
+      "authors": [
+        "Robert Malinowski",
+        "Alessandro Rossi",
+        "Lewis M. Cowen",
+        "Peter A. Gilhooly-Finn",
+        "Michael A. Parkes",
+        "Ming-Hao Chang",
+        "Yu-Cheng Chiu",
+        "Ioannis Papakonstantinou",
+        "Matthew O. Blunt",
+        "Bob C. Schroeder",
+        "Giorgio Volpe"
+      ],
+      "summary": "Organic semiconductors are lightweight, solution-processable materials with strong potential for printed and flexible electronics, from deformable displays to wearable sensors. Despite significant advances in materials synthesis and manufacturing, controlling molecular and mesoscale alignment during deposition remains a central challenge, as film morphology critically governs charge transport and device performance. Here, we demonstrate that flows developing within the intrinsically confined volume of microliter vapor-guided droplets can be harnessed to produce highly aligned organic semiconductor films. As droplets move in response to an external vapor source, internal flows align organic semiconducting nanowires within the droplet prior to deposition, yielding films with pronounced directional order. Organic field-effect transistors fabricated with this approach exhibit approximately 40% enhancement in saturation current relative to spin-coated controls. Beyond improved device performance, the contactless and compact nature of our method enables the deposition and alignment of organic semiconductors on curved and flexible surfaces. More broadly, vapor-guided droplets offer a scalable framework for the confinement-induced alignment of functional soft materials, with potential for integration into existing additive manufacturing platforms for flexible electronics and beyond.",
+      "score": 9,
+      "priority": 0,
+      "highlights": [
+        "semiconductor"
+      ],
+      "abstract_cn": "有机半导体是轻质、可溶液加工的材料，在从可变形显示器到可穿戴传感器的印刷和柔性电子学中具有很大潜力。尽管材料合成和制造方面已取得显著进展，但在沉积过程中控制分子和介观尺度取向仍是一项核心挑战，因为薄膜形貌会关键性地支配电荷输运和器件性能。本文证明，可利用微升量级蒸气引导液滴内在限域体积中形成的流动，制备高度取向的有机半导体薄膜。当液滴响应外部蒸气源而移动时，内部流动会在沉积前使液滴中的有机半导体纳米线取向排列，从而得到具有显著方向有序性的薄膜。采用该方法制备的有机场效应晶体管相对于旋涂对照器件表现出约 40% 的饱和电流提升。除器件性能改善外，我们的方法具有非接触且紧凑的特点，可在曲面和柔性表面上沉积并取向排列有机半导体。更广泛而言，蒸气引导液滴为功能软材料的限域诱导取向提供了一种可扩展框架，有望集成到现有增材制造平台中，用于柔性电子学及更广泛领域。",
+      "abstract_zh": "有机半导体是轻质、可溶液加工的材料，在从可变形显示器到可穿戴传感器的印刷和柔性电子学中具有很大潜力。尽管材料合成和制造方面已取得显著进展，但在沉积过程中控制分子和介观尺度取向仍是一项核心挑战，因为薄膜形貌会关键性地支配电荷输运和器件性能。本文证明，可利用微升量级蒸气引导液滴内在限域体积中形成的流动，制备高度取向的有机半导体薄膜。当液滴响应外部蒸气源而移动时，内部流动会在沉积前使液滴中的有机半导体纳米线取向排列，从而得到具有显著方向有序性的薄膜。采用该方法制备的有机场效应晶体管相对于旋涂对照器件表现出约 40% 的饱和电流提升。除器件性能改善外，我们的方法具有非接触且紧凑的特点，可在曲面和柔性表面上沉积并取向排列有机半导体。更广泛而言，蒸气引导液滴为功能软材料的限域诱导取向提供了一种可扩展框架，有望集成到现有增材制造平台中，用于柔性电子学及更广泛领域。",
+      "overview_cn": "Focus: 半导体.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: Organic Semiconductor Alignment via Confinement in Vapor-Guided Droplets.",
+      "reading_notes": "Focus: 半导体.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: Organic Semiconductor Alignment via Confinement in Vapor-Guided Droplets."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2606.25891v1",
+      "title": "The interplay of interfaces, supramolecular assembly, and electronics in organic semiconductors",
+      "url": "https://arxiv.org/abs/2606.25891v1",
+      "published": "2026-06-24",
+      "authors": [
+        "Belinda J. Boehm",
+        "Huong T. L. Nguyen",
+        "David M. Huang"
+      ],
+      "summary": "Organic semiconductors, which include a diverse range of carbon-based small molecules and polymers with interesting optoelectronic properties, offer many advantages over conventional inorganic semiconductors such as silicon and are growing in importance in electronic applications. Although these materials are now the basis of a lucrative industry in electronic displays, many promising applications such as photovoltaics remain largely untapped. One major impediment to more rapid development and widespread adoption of organic semiconductor technologies is that device performance is not easily predicted from the chemical structure of the constituent molecules. Fundamentally, this is because organic semiconductor molecules, unlike inorganic materials, interact by weak non-covalent forces, resulting in significant structural disorder that can strongly impact electronic properties. Nevertheless, directional forces between generally anisotropic organic-semiconductor molecules, combined with translational symmetry breaking at interfaces, can be exploited to control supramolecular order and consequent electronic properties in these materials. This review surveys recent advances in understanding of supramolecular assembly at organic-semiconductor interfaces and its impact on device properties in a number of applications, including transistors, light-emitting diodes, and photovoltaics. Recent progress and challenges in computer simulations of supramolecular assembly and orientational anisotropy at these interfaces is also addressed.",
+      "score": 8,
+      "priority": 0,
+      "highlights": [
+        "semiconductor"
+      ],
+      "abstract_cn": "有机半导体包括一系列具有有趣光电子性质的碳基小分子和聚合物，相比硅等传统无机半导体具有许多优势，并且在电子应用中的重要性日益增长。尽管这些材料如今已成为电子显示这一高收益产业的基础，但许多有前景的应用，如光伏，仍在很大程度上尚未充分开发。有机半导体技术更快速发展和广泛采用的一项主要障碍是，器件性能难以仅从组成分子的化学结构进行预测。从根本上说，这是因为不同于无机材料，有机半导体分子通过弱非共价力相互作用，从而产生显著结构无序，并可能强烈影响电子性质。尽管如此，通常具有各向异性的有机半导体分子之间的方向性作用力，结合界面处平移对称性的破缺，可以被用来控制这些材料中的超分子有序以及由此产生的电子性质。本文综述了近期关于有机半导体界面处超分子组装及其对晶体管、发光二极管和光伏等多种应用中器件性质影响的理解进展。本文还讨论了这些界面处超分子组装和取向各向异性的计算机模拟方面的最新进展与挑战。",
+      "abstract_zh": "有机半导体包括一系列具有有趣光电子性质的碳基小分子和聚合物，相比硅等传统无机半导体具有许多优势，并且在电子应用中的重要性日益增长。尽管这些材料如今已成为电子显示这一高收益产业的基础，但许多有前景的应用，如光伏，仍在很大程度上尚未充分开发。有机半导体技术更快速发展和广泛采用的一项主要障碍是，器件性能难以仅从组成分子的化学结构进行预测。从根本上说，这是因为不同于无机材料，有机半导体分子通过弱非共价力相互作用，从而产生显著结构无序，并可能强烈影响电子性质。尽管如此，通常具有各向异性的有机半导体分子之间的方向性作用力，结合界面处平移对称性的破缺，可以被用来控制这些材料中的超分子有序以及由此产生的电子性质。本文综述了近期关于有机半导体界面处超分子组装及其对晶体管、发光二极管和光伏等多种应用中器件性质影响的理解进展。本文还讨论了这些界面处超分子组装和取向各向异性的计算机模拟方面的最新进展与挑战。",
+      "overview_cn": "Focus: 半导体.\nWhat to check: 性能提升、效率/耦合表现、与既有工艺平台的集成价值.\nContext: The interplay of interfaces, supramolecular assembly, and electronics in organic semiconductors.",
+      "reading_notes": "Focus: 半导体.\nWhat to check: 性能提升、效率/耦合表现、与既有工艺平台的集成价值.\nContext: The interplay of interfaces, supramolecular assembly, and electronics in organic semiconductors."
+    },
+    {
+      "source": "arXiv",
       "uid": "arxiv:2606.22140v1",
       "title": "Superconducting cavity probes sliding ferroelectricity in small-angle twisted WSe$_2$",
       "url": "https://arxiv.org/abs/2606.22140v1",
@@ -161,57 +190,11 @@
       "abstract_zh": "铁电性是材料表现出自发电荷极化的性质。二维材料中的铁电性因其在存储器件和场效应晶体管中的应用而受到关注。最近，一种称为滑移铁电性的新型铁电性被发现，其中六方氮化硼（hBN）或过渡金属二硫族化合物（TMDCs）的平行堆叠双层会产生面外电极化。在本工作中，我们通过测量小角度平行堆叠 WSe2 的高频交流响应来探测其极化，该测量通过将其嵌入半波超导共面波导腔中实现。我们在该堆叠的电容和腔的品质因数中观察到滞回响应，证实了该体系中的铁电翻转。我们的结果进一步揭示了与铁电畴壁运动相关的弛豫效应。这种基于腔的技术在高频探测铁电体系中的畴壁动力学方面具有潜在应用。",
       "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Superconducting cavity probes sliding ferroelectricity in small-angle twisted WSe$_2$.",
       "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Superconducting cavity probes sliding ferroelectricity in small-angle twisted WSe$_2$."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2606.20371v1",
-      "title": "Breaking symmetry to create a parallel-plate varactor dielectric with unparalleled microwave performance",
-      "url": "https://arxiv.org/abs/2606.20371v1",
-      "published": "2026-06-18",
-      "authors": [
-        "Florian Bergmann",
-        "Matthew R. Barone",
-        "Zishen Tian",
-        "Aiden Ross",
-        "Gerhard H. Olsen",
-        "Meagan C. Papac",
-        "Samuel Freed",
-        "Bryan T. Bosworth",
-        "Nicholas R. Jungwirth",
-        "Eric J. Marksz",
-        "Tomasz Karpisz",
-        "Noah Schnitzer",
-        "Lopa Bhatt",
-        "David A. Muller",
-        "Dylan Sotir",
-        "Akash Surampalli",
-        "Veronica Goian",
-        "Christelle Kadlec",
-        "Stanislav Kamba",
-        "Asher Hansen",
-        "Nathan Rongitsch",
-        "Dmitri A. Tenne",
-        "Ichiro Takeuchi",
-        "Long-Qing Chen",
-        "Lane W. Martin",
-        "Nathan D. Orloff",
-        "Darrell G. Schlom"
-      ],
-      "summary": "Voltage-tunable capacitors (varactors) are key to microwave circuits. Tunable dielectric varactors outperform competing technologies in almost every relevant metric but usually suffer from high dielectric loss. In contrast, Ruddlesden-Popper (RPs) dielectric thin films have remarkably low microwave loss. Unfortunately, their crystallographic symmetry has until recently dictated an in-plane device structure, precluding the favorable out-of-plane parallel-plate varactor design for minimized size and maximized electric field in the tunable dielectric. Guided by theory, we report RPs akin to the widely studied tunable microwave dielectric BaxSr1-xTiO3. Assembling these same atoms into the first RP phase with broken out-of-plane symmetry, we achieve a low-loss, out-of-plane tunable dielectric thin film. The highest performing film, (ATiO3)nAO film with A = Ba0.45Sr0.55 and n = 8, unlocks a tenfold improvement in the figure of merit for out-of-plane tunable dielectrics at 10 GHz, paving the way for a new generation of tunable monolithic microwave integrated circuits.",
-      "score": 6,
-      "priority": 0,
-      "highlights": [
-        "dielectric"
-      ],
-      "abstract_cn": "电压可调电容器（变容器）是微波电路的关键。可调介质变容器在几乎所有相关指标上都优于竞争技术，但通常存在较高介质损耗。相比之下，Ruddlesden-Popper（RP）介质薄膜具有极低的微波损耗。不幸的是，其晶体学对称性直到最近仍决定了只能采用面内器件结构，从而无法实现有利的面外平行板变容器设计，而这种设计可最小化尺寸并最大化可调介质中的电场。在理论指导下，我们报道了类似于被广泛研究的可调微波介质 BaxSr1-xTiO3 的 RP 材料。通过将这些相同原子组装成首个具有面外对称性破缺的 RP 相，我们实现了一种低损耗、面外可调介质薄膜。性能最佳的薄膜为 (ATiO3)nAO，其中 A = Ba0.45Sr0.55 且 n = 8，它使 10 GHz 下用于面外可调介质的品质因数提高了十倍，为新一代可调单片微波集成电路铺平了道路。",
-      "abstract_zh": "电压可调电容器（变容器）是微波电路的关键。可调介质变容器在几乎所有相关指标上都优于竞争技术，但通常存在较高介质损耗。相比之下，Ruddlesden-Popper（RP）介质薄膜具有极低的微波损耗。不幸的是，其晶体学对称性直到最近仍决定了只能采用面内器件结构，从而无法实现有利的面外平行板变容器设计，而这种设计可最小化尺寸并最大化可调介质中的电场。在理论指导下，我们报道了类似于被广泛研究的可调微波介质 BaxSr1-xTiO3 的 RP 材料。通过将这些相同原子组装成首个具有面外对称性破缺的 RP 相，我们实现了一种低损耗、面外可调介质薄膜。性能最佳的薄膜为 (ATiO3)nAO，其中 A = Ba0.45Sr0.55 且 n = 8，它使 10 GHz 下用于面外可调介质的品质因数提高了十倍，为新一代可调单片微波集成电路铺平了道路。",
-      "overview_cn": "Focus: 介电材料.\nWhat to check: 性能提升.\nContext: Breaking symmetry to create a parallel-plate varactor dielectric with unparalleled microwave pe….",
-      "reading_notes": "Focus: 介电材料.\nWhat to check: 性能提升.\nContext: Breaking symmetry to create a parallel-plate varactor dielectric with unparalleled microwave pe…."
     }
   ],
   "errors": [],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-06-25T00:30:00+00:00"
+  "generated_at": "2026-06-26T00:30:00+00:00"
 }
