@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 5,
+  "new_count": 0,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-26）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 5 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Organic Semiconductor Alignment via Confinement in Vapor-Guided Droplets\n   关键词：semiconductor\n   日期：2026-06-26\n   Authors: Robert Malinowski, Alessandro Rossi, Lewis M. Cowen 等\n   https://arxiv.org/abs/2606.27207v1\n2. [arXiv] The interplay of interfaces, supramolecular assembly, and electronics in organic semiconduc…\n   关键词：semiconductor\n   日期：2026-06-24\n   Authors: Belinda J. Boehm, Huong T. L. Nguyen, David M. Huang\n   https://arxiv.org/abs/2606.25891v1\n3. [arXiv] Odd-parity electronic order near the semiconductor limit\n   关键词：semiconductor\n   日期：2026-06-25\n   Authors: Jack Tregidga, Dibyata Rout, Johannes Hielscher 等\n   https://arxiv.org/abs/2606.26338v1\n4. [arXiv] Thermoelectric response of a ferroelectric insulator\n   关键词：ferroelectric\n   日期：2026-06-24\n   Authors: Ryo Iguchi, Takashi Teranishi, Sakyo Hirose 等\n   https://arxiv.org/abs/2606.25767v2\n5. [arXiv] High-Performance Nanophononic Resonators in Self-Suspended WSe$_2$ Domes and Drums\n   日期：2026-06-24\n   Authors: Jens-Christian Drawer, Bo Han, Edson Rafael Cardozo de Oliveira 等\n   https://arxiv.org/abs/2606.25946v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-27）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [Nature Electronics] Industrial reliability testing of transistor gate dielectrics\n   关键词：transistor, dielectric\n   日期：2026-06-24\n   https://www.nature.com/articles/s41928-026-01644-x\n2. [Nature Electronics] One way to stack silicon transistors\n   关键词：transistor\n   日期：2026-06-23\n   https://www.nature.com/articles/s41928-026-01666-5\n3. [arXiv] Rapid FinFET Modelling Using an Autoencoder\n   关键词：FinFET\n   日期：2026-06-23\n   Authors: Amit Sarkar Suman Sau, Swagata Mandal\n   https://arxiv.org/abs/2606.24046v1\n4. [Nature Electronics] Solution-processable two-dimensional hexagonal copper indium selenide semiconductors\n   关键词：semiconductor\n   日期：2026-06-24\n   https://www.nature.com/articles/s41928-026-01661-w\n5. [arXiv] Organic Semiconductor Alignment via Confinement in Vapor-Guided Droplets\n   关键词：semiconductor\n   日期：2026-06-26\n   Authors: Robert Malinowski, Alessandro Rossi, Lewis M. Cowen 等\n   https://arxiv.org/abs/2606.27207v1\n6. [arXiv] The interplay of interfaces, supramolecular assembly, and electronics in organic semiconduc…\n   关键词：semiconductor\n   日期：2026-06-24\n   Authors: Belinda J. Boehm, Huong T. L. Nguyen, David M. Huang\n   https://arxiv.org/abs/2606.25891v1\n7. [arXiv] Superconducting cavity probes sliding ferroelectricity in small-angle twisted WSe$_2$\n   日期：2026-06-21\n   Authors: Krishnendu Maji, Supriya Mandal, Sriram H. 等\n   https://arxiv.org/abs/2606.22140v1\n8. [arXiv] Odd-parity electronic order near the semiconductor limit\n   关键词：semiconductor\n   日期：2026-06-25\n   Authors: Jack Tregidga, Dibyata Rout, Johannes Hielscher 等\n   https://arxiv.org/abs/2606.26338v1",
   "papers": [
     {
       "source": "Nature Electronics",
@@ -79,37 +79,6 @@
       "abstract_zh": "《Nature Electronics》，在线发表：2026 年 6 月 24 日；doi:10.1038/s41928-026-01661-w。可通过单层墨水沉积和退火制备晶圆级且空气稳定的二维铜铟硒化物半导体薄膜，并由此制备平均迁移率为 155 cm2 V−1 s−1 的晶体管以及包含超过 100 个器件的微处理器。",
       "overview_cn": "Focus: 半导体.\nWhat to check: 可靠性与稳定性.\nContext: Solution-processable two-dimensional hexagonal copper indium selenide semiconductors.",
       "reading_notes": "Focus: 半导体.\nWhat to check: 可靠性与稳定性.\nContext: Solution-processable two-dimensional hexagonal copper indium selenide semiconductors."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2606.21772v1",
-      "title": "Solid-state transcapacitor, a new gain element for logic, memory and interconnects",
-      "url": "https://arxiv.org/abs/2606.21772v1",
-      "published": "2026-06-20",
-      "authors": [
-        "Amrita Mathuriya",
-        "Roza Kotlyar",
-        "Neal Reynolds",
-        "Rafael Rios",
-        "Alan Kalitsov",
-        "Peter B. Meisenheimer",
-        "James Clarkson",
-        "Noriyuki Sato",
-        "Tanay Gosavi",
-        "Ramamoorthy Ramesh",
-        "Dmitri E. Nikonov",
-        "Sasikanth Manipatruni"
-      ],
-      "summary": "Today's transistors dictate the voltage and charge scales for both logic and memory. While AI systems are recognized to be limited by memory energy, the dominant share of the energy is expended in the intrachip interconnects whose voltage and charge scales are set by transistors. The energy scaling challenges of transistors can be attributed to simultaneously meeting high current density, high current/impedance modulation, and the inability to lower voltages. Hence, a new logic element that lowers the voltage and charge needs is a priority, not only for lowering logic power but also memory access power. Here, we propose a novel 3-terminal logic element for low energy computing, a solid-state transcapacitor (TCAP). A TCAP is a solid state displacement current modulator realized by a gate which controls the charge-voltage relationship of the channel. Unlike transistors, TCAPs eliminate the dissipative transport current, are not bound by the Boltzmann current modulation limit, and operate with displacement currents limited only by the polarization response and contact resistance. Hence, TCAP circuits may simultaneously overcome the voltage, current density, and current modulation limits of CMOS. We describe a solid state TCAP using a piezoelectric transcapacitor in which a gate-controlled stressor modulates the capacitance of a polar channel via electromechanical coupling. This device achieves inversion and gain, essential for logic, and is functionally equivalent to a 1T-1C memory cell, enabling dense memory. Using voltage scaling, capacitive energy recovery, and high polarization densities of polar materials, the logic based on TCAP offers a pathway to 100 fold lower energy consumption with a delay comparable to ultimately scaled CMOS devices. This approach provides a new potential pathway for low-energy computing beyond the limits of transistors using electro-mechanics and multiferroics.",
-      "score": 10,
-      "priority": 0,
-      "highlights": [
-        "interconnect"
-      ],
-      "abstract_cn": "当今晶体管决定了逻辑和存储的电压与电荷尺度。尽管人们认识到 AI 系统受限于存储能耗，但能耗的主要部分消耗在片内互连中，而其电压和电荷尺度由晶体管设定。晶体管的能量缩放挑战可归因于需要同时满足高电流密度、高电流/阻抗调制以及无法降低电压。因此，能够降低电压和电荷需求的新型逻辑元件是优先事项，这不仅有助于降低逻辑功耗，也有助于降低存储访问功耗。本文提出了一种用于低能耗计算的新型三端逻辑元件，即固态跨电容器（solid-state transcapacitor, TCAP）。TCAP 是一种固态位移电流调制器，由栅极控制沟道的电荷—电压关系来实现。不同于晶体管，TCAP 消除了耗散性输运电流，不受 Boltzmann 电流调制极限约束，并以仅受极化响应和接触电阻限制的位移电流工作。因此，TCAP 电路可能同时克服 CMOS 的电压、电流密度和电流调制极限。我们描述了一种使用压电跨电容器的固态 TCAP，其中栅控应力源通过机电耦合调制极性沟道的电容。该器件实现了反相和增益，这是逻辑所必需的，并且在功能上等效于 1T-1C 存储单元，从而能够实现高密度存储。利用电压缩放、电容能量回收以及极性材料的高极化密度，基于 TCAP 的逻辑提供了一条可将能耗降低 100 倍、同时延迟可与极限缩放 CMOS 器件相当的路径。这种方法利用机电效应和多铁性，为超越晶体管极限的低能耗计算提供了一条新的潜在路径。",
-      "abstract_zh": "当今晶体管决定了逻辑和存储的电压与电荷尺度。尽管人们认识到 AI 系统受限于存储能耗，但能耗的主要部分消耗在片内互连中，而其电压和电荷尺度由晶体管设定。晶体管的能量缩放挑战可归因于需要同时满足高电流密度、高电流/阻抗调制以及无法降低电压。因此，能够降低电压和电荷需求的新型逻辑元件是优先事项，这不仅有助于降低逻辑功耗，也有助于降低存储访问功耗。本文提出了一种用于低能耗计算的新型三端逻辑元件，即固态跨电容器（solid-state transcapacitor, TCAP）。TCAP 是一种固态位移电流调制器，由栅极控制沟道的电荷—电压关系来实现。不同于晶体管，TCAP 消除了耗散性输运电流，不受 Boltzmann 电流调制极限约束，并以仅受极化响应和接触电阻限制的位移电流工作。因此，TCAP 电路可能同时克服 CMOS 的电压、电流密度和电流调制极限。我们描述了一种使用压电跨电容器的固态 TCAP，其中栅控应力源通过机电耦合调制极性沟道的电容。该器件实现了反相和增益，这是逻辑所必需的，并且在功能上等效于 1T-1C 存储单元，从而能够实现高密度存储。利用电压缩放、电容能量回收以及极性材料的高极化密度，基于 TCAP 的逻辑提供了一条可将能耗降低 100 倍、同时延迟可与极限缩放 CMOS 器件相当的路径。这种方法利用机电效应和多铁性，为超越晶体管极限的低能耗计算提供了一条新的潜在路径。",
-      "overview_cn": "Focus: 互连.\nWhat to check: 效率/耦合表现、先进尺度下的可扩展性、功耗或能效表现.\nContext: Solid-state transcapacitor, a new gain element for logic, memory and interconnects.",
-      "reading_notes": "Focus: 互连.\nWhat to check: 效率/耦合表现、先进尺度下的可扩展性、功耗或能效表现.\nContext: Solid-state transcapacitor, a new gain element for logic, memory and interconnects."
     },
     {
       "source": "arXiv",
@@ -190,11 +159,36 @@
       "abstract_zh": "铁电性是材料表现出自发电荷极化的性质。二维材料中的铁电性因其在存储器件和场效应晶体管中的应用而受到关注。最近，一种称为滑移铁电性的新型铁电性被发现，其中六方氮化硼（hBN）或过渡金属二硫族化合物（TMDCs）的平行堆叠双层会产生面外电极化。在本工作中，我们通过测量小角度平行堆叠 WSe2 的高频交流响应来探测其极化，该测量通过将其嵌入半波超导共面波导腔中实现。我们在该堆叠的电容和腔的品质因数中观察到滞回响应，证实了该体系中的铁电翻转。我们的结果进一步揭示了与铁电畴壁运动相关的弛豫效应。这种基于腔的技术在高频探测铁电体系中的畴壁动力学方面具有潜在应用。",
       "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Superconducting cavity probes sliding ferroelectricity in small-angle twisted WSe$_2$.",
       "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Superconducting cavity probes sliding ferroelectricity in small-angle twisted WSe$_2$."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2606.26338v1",
+      "title": "Odd-parity electronic order near the semiconductor limit",
+      "url": "https://arxiv.org/abs/2606.26338v1",
+      "published": "2026-06-25",
+      "authors": [
+        "Jack Tregidga",
+        "Dibyata Rout",
+        "Johannes Hielscher",
+        "Josiah Turner",
+        "Stephen D. Wilson",
+        "John W. Harter"
+      ],
+      "summary": "Identifying materials platforms in which dilute carriers experience strong Coulomb interactions is a central challenge in the search for interaction-driven quantum phases. In such systems, weak carrier screening can promote a variety of collective instabilities beyond the conventional Fermi liquid paradigm, including superconductivity, Wigner crystallization, and odd-parity electronic order. Experimental realizations of such dilute, strongly interacting electronic systems remain rare in crystalline materials. Here we report a spontaneous odd-parity phase transition in the phosphide semiconductor family $\\textit{Ln}$Cd$_3$P$_3$ ($\\textit{Ln}$ = La, Ce, Pr, Nd). Using optical second harmonic generation, we observe the onset of bulk inversion and rotational symmetry breaking accompanied by the emergence of an in-plane polar axis. Second harmonic microscopy reveals three domain variants related by 120$^\\circ$ rotations, while ultrafast transient reflectivity measurements uncover a pronounced electronic reconstruction across the transition. Remarkably, the ordered phase appears only in lightly self-hole-doped compounds and is absent in insulating SmCd$_3$P$_3$, indicating an essential role for itinerant carriers despite their extremely low concentration. Guided by density functional theory, we develop a four-band model of the valence states and show that modest interactions can stabilize odd-parity electronic order. The resulting phase combines a spontaneous Fermi surface distortion with a momentum-dependent bilayer polarization that breaks inversion symmetry. Our results establish a route to interaction-driven parity breaking in dilute-carrier semiconductors and identify honeycomb bilayer systems as a promising platform for odd-parity electronic phases.",
+      "score": 5,
+      "priority": 0,
+      "highlights": [
+        "semiconductor"
+      ],
+      "abstract_cn": "寻找稀薄载流子经历强库仑相互作用的材料平台，是探索相互作用驱动量子相的一项核心挑战。在这类体系中，较弱的载流子屏蔽可以促进多种超越传统费米液体范式的集体不稳定性，包括超导、Wigner 晶化和奇宇称电子有序。然而，在晶体材料中实现这种稀薄、强相互作用电子体系的实验案例仍然少见。本文报道了磷化物半导体家族 LnCd3P3（Ln = La、Ce、Pr、Nd）中的自发奇宇称相变。利用光学二次谐波产生，我们观察到体相反演对称性和旋转对称性的破缺开始出现，并伴随面内极性轴的出现。二次谐波显微成像揭示了由 120° 旋转相互关联的三种畴变体，而超快瞬态反射率测量则显示该相变过程中发生了显著的电子结构重构。值得注意的是，有序相只出现在轻微自空穴掺杂的化合物中，而在绝缘性的 SmCd3P3 中不存在，这表明尽管巡游载流子的浓度极低，它们仍起着关键作用。在密度泛函理论的指导下，我们建立了价带态的四能带模型，并表明适度相互作用可以稳定奇宇称电子有序。所得相结合了自发费米面畸变和动量依赖的双层极化，从而打破反演对称性。我们的结果确立了一条在稀薄载流子半导体中实现相互作用驱动宇称破缺的路径，并表明蜂窝双层体系是实现奇宇称电子相的有前景平台。",
+      "abstract_zh": "寻找稀薄载流子经历强库仑相互作用的材料平台，是探索相互作用驱动量子相的一项核心挑战。在这类体系中，较弱的载流子屏蔽可以促进多种超越传统费米液体范式的集体不稳定性，包括超导、Wigner 晶化和奇宇称电子有序。然而，在晶体材料中实现这种稀薄、强相互作用电子体系的实验案例仍然少见。本文报道了磷化物半导体家族 LnCd3P3（Ln = La、Ce、Pr、Nd）中的自发奇宇称相变。利用光学二次谐波产生，我们观察到体相反演对称性和旋转对称性的破缺开始出现，并伴随面内极性轴的出现。二次谐波显微成像揭示了由 120° 旋转相互关联的三种畴变体，而超快瞬态反射率测量则显示该相变过程中发生了显著的电子结构重构。值得注意的是，有序相只出现在轻微自空穴掺杂的化合物中，而在绝缘性的 SmCd3P3 中不存在，这表明尽管巡游载流子的浓度极低，它们仍起着关键作用。在密度泛函理论的指导下，我们建立了价带态的四能带模型，并表明适度相互作用可以稳定奇宇称电子有序。所得相结合了自发费米面畸变和动量依赖的双层极化，从而打破反演对称性。我们的结果确立了一条在稀薄载流子半导体中实现相互作用驱动宇称破缺的路径，并表明蜂窝双层体系是实现奇宇称电子相的有前景平台。",
+      "overview_cn": "Focus: 半导体.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Odd-parity electronic order near the semiconductor limit.",
+      "reading_notes": "Focus: 半导体.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Odd-parity electronic order near the semiconductor limit."
     }
   ],
   "errors": [],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-06-26T00:30:00+00:00"
+  "generated_at": "2026-06-27T00:30:00+00:00"
 }
