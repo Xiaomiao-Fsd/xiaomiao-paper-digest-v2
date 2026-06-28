@@ -2,7 +2,7 @@
   "ok": true,
   "new_count": 0,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-27）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [Nature Electronics] Industrial reliability testing of transistor gate dielectrics\n   关键词：transistor, dielectric\n   日期：2026-06-24\n   https://www.nature.com/articles/s41928-026-01644-x\n2. [Nature Electronics] One way to stack silicon transistors\n   关键词：transistor\n   日期：2026-06-23\n   https://www.nature.com/articles/s41928-026-01666-5\n3. [arXiv] Rapid FinFET Modelling Using an Autoencoder\n   关键词：FinFET\n   日期：2026-06-23\n   Authors: Amit Sarkar Suman Sau, Swagata Mandal\n   https://arxiv.org/abs/2606.24046v1\n4. [Nature Electronics] Solution-processable two-dimensional hexagonal copper indium selenide semiconductors\n   关键词：semiconductor\n   日期：2026-06-24\n   https://www.nature.com/articles/s41928-026-01661-w\n5. [arXiv] Organic Semiconductor Alignment via Confinement in Vapor-Guided Droplets\n   关键词：semiconductor\n   日期：2026-06-26\n   Authors: Robert Malinowski, Alessandro Rossi, Lewis M. Cowen 等\n   https://arxiv.org/abs/2606.27207v1\n6. [arXiv] The interplay of interfaces, supramolecular assembly, and electronics in organic semiconduc…\n   关键词：semiconductor\n   日期：2026-06-24\n   Authors: Belinda J. Boehm, Huong T. L. Nguyen, David M. Huang\n   https://arxiv.org/abs/2606.25891v1\n7. [arXiv] Superconducting cavity probes sliding ferroelectricity in small-angle twisted WSe$_2$\n   日期：2026-06-21\n   Authors: Krishnendu Maji, Supriya Mandal, Sriram H. 等\n   https://arxiv.org/abs/2606.22140v1\n8. [arXiv] Odd-parity electronic order near the semiconductor limit\n   关键词：semiconductor\n   日期：2026-06-25\n   Authors: Jack Tregidga, Dibyata Rout, Johannes Hielscher 等\n   https://arxiv.org/abs/2606.26338v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-28）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [Nature Electronics] Industrial reliability testing of transistor gate dielectrics\n   关键词：transistor, dielectric\n   日期：2026-06-24\n   https://www.nature.com/articles/s41928-026-01644-x\n2. [Nature Electronics] One way to stack silicon transistors\n   关键词：transistor\n   日期：2026-06-23\n   https://www.nature.com/articles/s41928-026-01666-5\n3. [arXiv] Rapid FinFET Modelling Using an Autoencoder\n   关键词：FinFET\n   日期：2026-06-23\n   Authors: Amit Sarkar Suman Sau, Swagata Mandal\n   https://arxiv.org/abs/2606.24046v1\n4. [Nature Electronics] Solution-processable two-dimensional hexagonal copper indium selenide semiconductors\n   关键词：semiconductor\n   日期：2026-06-24\n   https://www.nature.com/articles/s41928-026-01661-w\n5. [arXiv] Organic Semiconductor Alignment via Confinement in Vapor-Guided Droplets\n   关键词：semiconductor\n   日期：2026-06-26\n   Authors: Robert Malinowski, Alessandro Rossi, Lewis M. Cowen 等\n   https://arxiv.org/abs/2606.27207v1\n6. [arXiv] The interplay of interfaces, supramolecular assembly, and electronics in organic semiconduc…\n   关键词：semiconductor\n   日期：2026-06-24\n   Authors: Belinda J. Boehm, Huong T. L. Nguyen, David M. Huang\n   https://arxiv.org/abs/2606.25891v1\n7. [arXiv] Odd-parity electronic order near the semiconductor limit\n   关键词：semiconductor\n   日期：2026-06-25\n   Authors: Jack Tregidga, Dibyata Rout, Johannes Hielscher 等\n   https://arxiv.org/abs/2606.26338v1\n8. [arXiv] Thermoelectric response of a ferroelectric insulator\n   关键词：ferroelectric\n   日期：2026-06-24\n   Authors: Ryo Iguchi, Takashi Teranishi, Sakyo Hirose 等\n   https://arxiv.org/abs/2606.25767v2",
   "papers": [
     {
       "source": "Nature Electronics",
@@ -75,8 +75,8 @@
       "highlights": [
         "semiconductor"
       ],
-      "abstract_cn": "《Nature Electronics》，在线发表：2026 年 6 月 24 日；doi:10.1038/s41928-026-01661-w。可通过单层墨水沉积和退火制备晶圆级且空气稳定的二维铜铟硒化物半导体薄膜，并由此制备平均迁移率为 155 cm2 V−1 s−1 的晶体管以及包含超过 100 个器件的微处理器。",
-      "abstract_zh": "《Nature Electronics》，在线发表：2026 年 6 月 24 日；doi:10.1038/s41928-026-01661-w。可通过单层墨水沉积和退火制备晶圆级且空气稳定的二维铜铟硒化物半导体薄膜，并由此制备平均迁移率为 155 cm2 V−1 s−1 的晶体管以及包含超过 100 个器件的微处理器。",
+      "abstract_cn": "《Nature Electronics》，在线发表：2026 年 6 月 24 日；doi:10.1038/s41928-026-01661-w。可通过单层墨水沉积和退火制备晶圆级且空气稳定的二维铜铟硒化物半导体薄膜，并由此制备平均迁移率为 155 cm² V⁻¹ s⁻¹ 的晶体管以及包含超过 100 个器件的微处理器。",
+      "abstract_zh": "《Nature Electronics》，在线发表：2026 年 6 月 24 日；doi:10.1038/s41928-026-01661-w。可通过单层墨水沉积和退火制备晶圆级且空气稳定的二维铜铟硒化物半导体薄膜，并由此制备平均迁移率为 155 cm² V⁻¹ s⁻¹ 的晶体管以及包含超过 100 个器件的微处理器。",
       "overview_cn": "Focus: 半导体.\nWhat to check: 可靠性与稳定性.\nContext: Solution-processable two-dimensional hexagonal copper indium selenide semiconductors.",
       "reading_notes": "Focus: 半导体.\nWhat to check: 可靠性与稳定性.\nContext: Solution-processable two-dimensional hexagonal copper indium selenide semiconductors."
     },
@@ -134,34 +134,6 @@
     },
     {
       "source": "arXiv",
-      "uid": "arxiv:2606.22140v1",
-      "title": "Superconducting cavity probes sliding ferroelectricity in small-angle twisted WSe$_2$",
-      "url": "https://arxiv.org/abs/2606.22140v1",
-      "published": "2026-06-21",
-      "authors": [
-        "Krishnendu Maji",
-        "Supriya Mandal",
-        "Sriram H.",
-        "Rishiraj Rajkhowa",
-        "Malhar Date",
-        "Sayani Pal",
-        "Meghan P. Patankar",
-        "Kenji Watanabe",
-        "Takashi Taniguchi",
-        "Vibhor Singh",
-        "Mandar M. Deshmukh"
-      ],
-      "summary": "Ferroelectricity is a property of materials that exhibit spontaneous charge polarization. Ferroelectricity in 2D materials is interesting because of their applications in memory devices and field-effect transistors. Recently, a new type of ferroelectricity, known as sliding ferroelectricity, has been discovered, in which parallel-stacked bilayers of hexagonal boron nitride (hBN) or transition metal dichalcogenides (TMDCs) develop an out-of-plane electric polarization. In this work, we probe the polarization of small-angle parallel stacked WSe$_2$ by measuring its high-frequency AC response, achieved by embedding it into a half-wave superconducting coplanar waveguide cavity. We observe a hysteretic response in the capacitance of the stack and quality factor of the cavity, confirming ferroelectric switching in the system. Our results further reveal relaxation effects associated with ferroelectric domain-wall motion. This cavity-based technique has potential applications in probing domain-wall dynamics in a ferroelectric system at high frequencies.",
-      "score": 6,
-      "priority": 0,
-      "highlights": [],
-      "abstract_cn": "铁电性是材料表现出自发电荷极化的性质。二维材料中的铁电性因其在存储器件和场效应晶体管中的应用而受到关注。最近，一种称为滑移铁电性的新型铁电性被发现，其中六方氮化硼（hBN）或过渡金属二硫族化合物（TMDCs）的平行堆叠双层会产生面外电极化。在本工作中，我们通过测量小角度平行堆叠 WSe2 的高频交流响应来探测其极化，该测量通过将其嵌入半波超导共面波导腔中实现。我们在该堆叠的电容和腔的品质因数中观察到滞回响应，证实了该体系中的铁电翻转。我们的结果进一步揭示了与铁电畴壁运动相关的弛豫效应。这种基于腔的技术在高频探测铁电体系中的畴壁动力学方面具有潜在应用。",
-      "abstract_zh": "铁电性是材料表现出自发电荷极化的性质。二维材料中的铁电性因其在存储器件和场效应晶体管中的应用而受到关注。最近，一种称为滑移铁电性的新型铁电性被发现，其中六方氮化硼（hBN）或过渡金属二硫族化合物（TMDCs）的平行堆叠双层会产生面外电极化。在本工作中，我们通过测量小角度平行堆叠 WSe2 的高频交流响应来探测其极化，该测量通过将其嵌入半波超导共面波导腔中实现。我们在该堆叠的电容和腔的品质因数中观察到滞回响应，证实了该体系中的铁电翻转。我们的结果进一步揭示了与铁电畴壁运动相关的弛豫效应。这种基于腔的技术在高频探测铁电体系中的畴壁动力学方面具有潜在应用。",
-      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Superconducting cavity probes sliding ferroelectricity in small-angle twisted WSe$_2$.",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Superconducting cavity probes sliding ferroelectricity in small-angle twisted WSe$_2$."
-    },
-    {
-      "source": "arXiv",
       "uid": "arxiv:2606.26338v1",
       "title": "Odd-parity electronic order near the semiconductor limit",
       "url": "https://arxiv.org/abs/2606.26338v1",
@@ -180,15 +152,41 @@
       "highlights": [
         "semiconductor"
       ],
-      "abstract_cn": "寻找稀薄载流子经历强库仑相互作用的材料平台，是探索相互作用驱动量子相的一项核心挑战。在这类体系中，较弱的载流子屏蔽可以促进多种超越传统费米液体范式的集体不稳定性，包括超导、Wigner 晶化和奇宇称电子有序。然而，在晶体材料中实现这种稀薄、强相互作用电子体系的实验案例仍然少见。本文报道了磷化物半导体家族 LnCd3P3（Ln = La、Ce、Pr、Nd）中的自发奇宇称相变。利用光学二次谐波产生，我们观察到体相反演对称性和旋转对称性的破缺开始出现，并伴随面内极性轴的出现。二次谐波显微成像揭示了由 120° 旋转相互关联的三种畴变体，而超快瞬态反射率测量则显示该相变过程中发生了显著的电子结构重构。值得注意的是，有序相只出现在轻微自空穴掺杂的化合物中，而在绝缘性的 SmCd3P3 中不存在，这表明尽管巡游载流子的浓度极低，它们仍起着关键作用。在密度泛函理论的指导下，我们建立了价带态的四能带模型，并表明适度相互作用可以稳定奇宇称电子有序。所得相结合了自发费米面畸变和动量依赖的双层极化，从而打破反演对称性。我们的结果确立了一条在稀薄载流子半导体中实现相互作用驱动宇称破缺的路径，并表明蜂窝双层体系是实现奇宇称电子相的有前景平台。",
-      "abstract_zh": "寻找稀薄载流子经历强库仑相互作用的材料平台，是探索相互作用驱动量子相的一项核心挑战。在这类体系中，较弱的载流子屏蔽可以促进多种超越传统费米液体范式的集体不稳定性，包括超导、Wigner 晶化和奇宇称电子有序。然而，在晶体材料中实现这种稀薄、强相互作用电子体系的实验案例仍然少见。本文报道了磷化物半导体家族 LnCd3P3（Ln = La、Ce、Pr、Nd）中的自发奇宇称相变。利用光学二次谐波产生，我们观察到体相反演对称性和旋转对称性的破缺开始出现，并伴随面内极性轴的出现。二次谐波显微成像揭示了由 120° 旋转相互关联的三种畴变体，而超快瞬态反射率测量则显示该相变过程中发生了显著的电子结构重构。值得注意的是，有序相只出现在轻微自空穴掺杂的化合物中，而在绝缘性的 SmCd3P3 中不存在，这表明尽管巡游载流子的浓度极低，它们仍起着关键作用。在密度泛函理论的指导下，我们建立了价带态的四能带模型，并表明适度相互作用可以稳定奇宇称电子有序。所得相结合了自发费米面畸变和动量依赖的双层极化，从而打破反演对称性。我们的结果确立了一条在稀薄载流子半导体中实现相互作用驱动宇称破缺的路径，并表明蜂窝双层体系是实现奇宇称电子相的有前景平台。",
+      "abstract_cn": "寻找稀薄载流子经历强库仑相互作用的材料平台，是探索相互作用驱动量子相的一项核心挑战。在这类体系中，较弱的载流子屏蔽可以促进多种超越传统费米液体范式的集体不稳定性，包括超导、Wigner 晶化和奇宇称电子有序。然而，在晶体材料中实现这种稀薄、强相互作用电子体系的实验案例仍然少见。本文报道了磷化物半导体家族 $\\textit{Ln}$Cd$_3$P$_3$（$\\textit{Ln}$ = La、Ce、Pr、Nd）中的自发奇宇称相变。利用光学二次谐波产生，我们观察到体相反演对称性和旋转对称性的破缺开始出现，并伴随面内极性轴的出现。二次谐波显微成像揭示了由 120° 旋转相互关联的三种畴变体，而超快瞬态反射率测量则显示该相变过程中发生了显著的电子结构重构。值得注意的是，有序相只出现在轻微自空穴掺杂的化合物中，而在绝缘性的 SmCd$_3$P$_3$ 中不存在，这表明尽管巡游载流子的浓度极低，它们仍起着关键作用。在密度泛函理论的指导下，我们建立了价带态的四能带模型，并表明适度相互作用可以稳定奇宇称电子有序。所得相结合了自发费米面畸变和动量依赖的双层极化，从而打破反演对称性。我们的结果确立了一条在稀薄载流子半导体中实现相互作用驱动宇称破缺的路径，并表明蜂窝双层体系是实现奇宇称电子相的有前景平台。",
+      "abstract_zh": "寻找稀薄载流子经历强库仑相互作用的材料平台，是探索相互作用驱动量子相的一项核心挑战。在这类体系中，较弱的载流子屏蔽可以促进多种超越传统费米液体范式的集体不稳定性，包括超导、Wigner 晶化和奇宇称电子有序。然而，在晶体材料中实现这种稀薄、强相互作用电子体系的实验案例仍然少见。本文报道了磷化物半导体家族 $\\textit{Ln}$Cd$_3$P$_3$（$\\textit{Ln}$ = La、Ce、Pr、Nd）中的自发奇宇称相变。利用光学二次谐波产生，我们观察到体相反演对称性和旋转对称性的破缺开始出现，并伴随面内极性轴的出现。二次谐波显微成像揭示了由 120° 旋转相互关联的三种畴变体，而超快瞬态反射率测量则显示该相变过程中发生了显著的电子结构重构。值得注意的是，有序相只出现在轻微自空穴掺杂的化合物中，而在绝缘性的 SmCd$_3$P$_3$ 中不存在，这表明尽管巡游载流子的浓度极低，它们仍起着关键作用。在密度泛函理论的指导下，我们建立了价带态的四能带模型，并表明适度相互作用可以稳定奇宇称电子有序。所得相结合了自发费米面畸变和动量依赖的双层极化，从而打破反演对称性。我们的结果确立了一条在稀薄载流子半导体中实现相互作用驱动宇称破缺的路径，并表明蜂窝双层体系是实现奇宇称电子相的有前景平台。",
       "overview_cn": "Focus: 半导体.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Odd-parity electronic order near the semiconductor limit.",
       "reading_notes": "Focus: 半导体.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Odd-parity electronic order near the semiconductor limit."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2606.25767v2",
+      "title": "Thermoelectric response of a ferroelectric insulator",
+      "url": "https://arxiv.org/abs/2606.25767v2",
+      "published": "2026-06-24",
+      "authors": [
+        "Ryo Iguchi",
+        "Takashi Teranishi",
+        "Sakyo Hirose",
+        "Ping Tang",
+        "Jun Kano",
+        "Gerrit E. W. Bauer",
+        "Ken-ichi Uchida"
+      ],
+      "summary": "Thermoelectric effects enable the conversion between heat and electricity without moving parts. While conventionally associated with mobile charges, we report thermoelectricity caused by bound charges in the form of temperature changes measured by multi-harmonic lock-in thermography of a ferroelectric under an ac electric field. The observed temperature gradient depends on the field-induced displacement current, a Peltier effect in a dielectric material. Its coefficient exceeds 100 V around the ferroelectric-paraelectric phase transition, which is several orders of magnitude greater than reported values in conductors. Our findings uncover previously hidden functionalities of ferroelectric materials for thermal management by directional heat transport in ferroelectrics.",
+      "score": 5,
+      "priority": 0,
+      "highlights": [
+        "ferroelectric"
+      ],
+      "abstract_cn": "热电效应能够在没有运动部件的情况下实现热与电之间的转换。尽管热电效应传统上与可移动电荷相关，但我们报道了一种由束缚电荷引起的热电性，其表现为在交流电场下通过多谐波锁相热成像测得的铁电体温度变化。所观察到的温度梯度取决于场诱导位移电流，这是介电材料中的一种 Peltier 效应。在铁电—顺电相变附近，其系数超过 100 V，比导体中已报道的数值高出数个数量级。我们的发现揭示了铁电材料此前隐藏的功能，即可通过铁电体中的定向热输运实现热管理。",
+      "abstract_zh": "热电效应能够在没有运动部件的情况下实现热与电之间的转换。尽管热电效应传统上与可移动电荷相关，但我们报道了一种由束缚电荷引起的热电性，其表现为在交流电场下通过多谐波锁相热成像测得的铁电体温度变化。所观察到的温度梯度取决于场诱导位移电流，这是介电材料中的一种 Peltier 效应。在铁电—顺电相变附近，其系数超过 100 V，比导体中已报道的数值高出数个数量级。我们的发现揭示了铁电材料此前隐藏的功能，即可通过铁电体中的定向热输运实现热管理。",
+      "overview_cn": "Focus: 铁电材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Thermoelectric response of a ferroelectric insulator.",
+      "reading_notes": "Focus: 铁电材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Thermoelectric response of a ferroelectric insulator."
     }
   ],
   "errors": [],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-06-27T00:30:00+00:00"
+  "generated_at": "2026-06-28T00:30:00+00:00"
 }
