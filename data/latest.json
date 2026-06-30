@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 0,
+  "new_count": 3,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-29）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [Nature Electronics] Industrial reliability testing of transistor gate dielectrics\n   关键词：transistor, dielectric\n   日期：2026-06-24\n   https://www.nature.com/articles/s41928-026-01644-x\n2. [Nature Electronics] One way to stack silicon transistors\n   关键词：transistor\n   日期：2026-06-23\n   https://www.nature.com/articles/s41928-026-01666-5\n3. [arXiv] Rapid FinFET Modelling Using an Autoencoder\n   关键词：FinFET\n   日期：2026-06-23\n   Authors: Amit Sarkar Suman Sau, Swagata Mandal\n   https://arxiv.org/abs/2606.24046v1\n4. [Nature Electronics] Solution-processable two-dimensional hexagonal copper indium selenide semiconductors\n   关键词：semiconductor\n   日期：2026-06-24\n   https://www.nature.com/articles/s41928-026-01661-w\n5. [arXiv] Organic Semiconductor Alignment via Confinement in Vapor-Guided Droplets\n   关键词：semiconductor\n   日期：2026-06-26\n   Authors: Robert Malinowski, Alessandro Rossi, Lewis M. Cowen 等\n   https://arxiv.org/abs/2606.27207v1\n6. [arXiv] The interplay of interfaces, supramolecular assembly, and electronics in organic semiconduc…\n   关键词：semiconductor\n   日期：2026-06-24\n   Authors: Belinda J. Boehm, Huong T. L. Nguyen, David M. Huang\n   https://arxiv.org/abs/2606.25891v1\n7. [arXiv] Odd-parity electronic order near the semiconductor limit\n   关键词：semiconductor\n   日期：2026-06-25\n   Authors: Jack Tregidga, Dibyata Rout, Johannes Hielscher 等\n   https://arxiv.org/abs/2606.26338v1\n8. [arXiv] Thermoelectric response of a ferroelectric insulator\n   关键词：ferroelectric\n   日期：2026-06-24\n   Authors: Ryo Iguchi, Takashi Teranishi, Sakyo Hirose 等\n   https://arxiv.org/abs/2606.25767v2",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-30）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 3 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Emergence of millimeter-wave resonances in self-assembled ferroelectric metamaterials\n   关键词：ferroelectric\n   日期：2026-06-26\n   Authors: Florian Bergmann, Peter Meisenheimer, Aiden Ross 等\n   https://arxiv.org/abs/2606.27616v1\n2. [arXiv] Unlocking Cryogenic Energy Storage by Constructing Dipole Glass with Unit-cell-level Polar …\n   日期：2026-06-26\n   Authors: Yangyang Si, Denan Li, Yijie Li 等\n   https://arxiv.org/abs/2606.27887v1\n3. [arXiv] Entropy engineering of BF-BT-based high-entropy ceramics for ultra-high energy storage perf…\n   日期：2026-06-26\n   Authors: Yitao Jiao, Zhenhao Fan, Dawei Wang 等\n   https://arxiv.org/abs/2606.27621v1",
   "papers": [
     {
       "source": "Nature Electronics",
@@ -22,24 +22,6 @@
       "abstract_zh": "《Nature Electronics》，在线发表：2026 年 6 月 24 日；doi:10.1038/s41928-026-01644-x。本文这一观点文章考察了工业界如何评估硅晶体管中栅介质的性能，如何收集和分析栅介质可靠性数据以提取有意义且与工业相关的结论，以及如何将这些方法应用于二维晶体管。",
       "overview_cn": "Focus: 晶体管、介电材料.\nWhat to check: 性能提升、可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Industrial reliability testing of transistor gate dielectrics.",
       "reading_notes": "Focus: 晶体管、介电材料.\nWhat to check: 性能提升、可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Industrial reliability testing of transistor gate dielectrics."
-    },
-    {
-      "source": "Nature Electronics",
-      "uid": "Nature Electronics:10.1038/s41928-026-01666-5",
-      "title": "One way to stack silicon transistors",
-      "url": "https://www.nature.com/articles/s41928-026-01666-5",
-      "published": "2026-06-23",
-      "authors": [],
-      "summary": "Nature Electronics, Published online: 23 June 2026; doi:10.1038/s41928-026-01666-5 One way to stack silicon transistors",
-      "score": 8,
-      "priority": 1,
-      "highlights": [
-        "transistor"
-      ],
-      "abstract_cn": "《Nature Electronics》，在线发表：2026 年 6 月 23 日；doi:10.1038/s41928-026-01666-5。一种堆叠硅晶体管的方法。",
-      "abstract_zh": "《Nature Electronics》，在线发表：2026 年 6 月 23 日；doi:10.1038/s41928-026-01666-5。一种堆叠硅晶体管的方法。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 与既有工艺平台的集成价值.\nContext: One way to stack silicon transistors.",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 与既有工艺平台的集成价值.\nContext: One way to stack silicon transistors."
     },
     {
       "source": "arXiv",
@@ -134,6 +116,54 @@
     },
     {
       "source": "arXiv",
+      "uid": "arxiv:2606.27616v1",
+      "title": "Emergence of millimeter-wave resonances in self-assembled ferroelectric metamaterials",
+      "url": "https://arxiv.org/abs/2606.27616v1",
+      "published": "2026-06-26",
+      "authors": [
+        "Florian Bergmann",
+        "Peter Meisenheimer",
+        "Aiden Ross",
+        "Marvin Schewe",
+        "Fernando Gómez-Ortiz",
+        "Kaiwen Yang",
+        "Xinyan Li",
+        "Thomas J. Lee",
+        "Pushpendra Gupta",
+        "Liam G. Connolloy",
+        "Tzu-Hsuan Hsu",
+        "Jack Kramer",
+        "Bryan T. Bosworth",
+        "Nicholas R. Jungwirth",
+        "Eric J. Marksz",
+        "Aaron Hagerstrom",
+        "Tomasz Karpisz",
+        "Arundhati Ghosal",
+        "Lane W. Martin",
+        "Yimo Han",
+        "Angela C. Stelson",
+        "Christian J. Long",
+        "Ruochen Lu",
+        "Lucas Caretta",
+        "Javier Junquera",
+        "Jason J. Gorman",
+        "Long-Qing Chen",
+        "Ramamoorthy Ramesh",
+        "Nathan D. Orloff"
+      ],
+      "summary": "Resonators are a key component in modern communications and computing. As demand and technological advances push component requirements into the terahertz regime, there is significant research devoted to the search for resonances at these frequencies. While uniform solid-state materials usually do not intrinsically feature resonances in this frequency range, self-assembled periodic arrays of ferroelectric nanodomains may provide an engineering route to design millimeter-wave properties. Here, we utilize prototypical dielectric-ferroelectric SrTiO3/PbTiO3 superlattices to robustly design periodic ferroelectric nano-scale domains. Phase field simulations predict an emergent domain breathing mode in complex polar textures and state-of-the-art millimeter-wave characterization shows evidence for such emergent resonances up to hundreds of GHz. Complex polar textures in these superlattices lead to emergent piezoelectric properties that also result in millimeter-wave resonances, which are predicted by second principles methods and confirmed by direct measurement. The principles investigated in this work suggest a new modality for ferroelectrics in the design of millimeter-wave electronics.",
+      "score": 5,
+      "priority": 0,
+      "highlights": [
+        "ferroelectric"
+      ],
+      "abstract_cn": "谐振器是现代通信和计算中的关键组件。随着需求和技术进步将器件要求推向太赫兹区域，寻找这些频率下的谐振现象已成为重要研究方向。尽管均匀固态材料通常并不在这一频率范围内固有地表现出谐振，但铁电纳米畴的自组装周期阵列可能提供一种设计毫米波性质的工程路径。本文利用典型介电—铁电 SrTiO3/PbTiO3 超晶格，稳健地设计周期性铁电纳米尺度畴。相场模拟预测复杂极性织构中会出现涌现的畴呼吸模式，而最先进的毫米波表征显示了此类涌现谐振可高达数百 GHz 的证据。这些超晶格中的复杂极性织构会产生涌现压电性质，并进一步导致毫米波谐振；这些谐振由第二性原理方法预测，并通过直接测量得到证实。本工作研究的原则表明，铁电体在毫米波电子学设计中可提供一种新的实现模式。",
+      "abstract_zh": "谐振器是现代通信和计算中的关键组件。随着需求和技术进步将器件要求推向太赫兹区域，寻找这些频率下的谐振现象已成为重要研究方向。尽管均匀固态材料通常并不在这一频率范围内固有地表现出谐振，但铁电纳米畴的自组装周期阵列可能提供一种设计毫米波性质的工程路径。本文利用典型介电—铁电 SrTiO3/PbTiO3 超晶格，稳健地设计周期性铁电纳米尺度畴。相场模拟预测复杂极性织构中会出现涌现的畴呼吸模式，而最先进的毫米波表征显示了此类涌现谐振可高达数百 GHz 的证据。这些超晶格中的复杂极性织构会产生涌现压电性质，并进一步导致毫米波谐振；这些谐振由第二性原理方法预测，并通过直接测量得到证实。本工作研究的原则表明，铁电体在毫米波电子学设计中可提供一种新的实现模式。",
+      "overview_cn": "Focus: 铁电材料.\nWhat to check: 可靠性与稳定性.\nContext: Emergence of millimeter-wave resonances in self-assembled ferroelectric metamaterials.",
+      "reading_notes": "Focus: 铁电材料.\nWhat to check: 可靠性与稳定性.\nContext: Emergence of millimeter-wave resonances in self-assembled ferroelectric metamaterials."
+    },
+    {
+      "source": "arXiv",
       "uid": "arxiv:2606.26338v1",
       "title": "Odd-parity electronic order near the semiconductor limit",
       "url": "https://arxiv.org/abs/2606.26338v1",
@@ -188,5 +218,5 @@
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-06-29T00:30:00+00:00"
+  "generated_at": "2026-06-30T00:30:00+00:00"
 }
