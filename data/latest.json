@@ -1,222 +1,246 @@
 {
   "ok": true,
-  "new_count": 3,
+  "new_count": 29,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-06-30）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 3 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Emergence of millimeter-wave resonances in self-assembled ferroelectric metamaterials\n   关键词：ferroelectric\n   日期：2026-06-26\n   Authors: Florian Bergmann, Peter Meisenheimer, Aiden Ross 等\n   https://arxiv.org/abs/2606.27616v1\n2. [arXiv] Unlocking Cryogenic Energy Storage by Constructing Dipole Glass with Unit-cell-level Polar …\n   日期：2026-06-26\n   Authors: Yangyang Si, Denan Li, Yijie Li 等\n   https://arxiv.org/abs/2606.27887v1\n3. [arXiv] Entropy engineering of BF-BT-based high-entropy ceramics for ultra-high energy storage perf…\n   日期：2026-06-26\n   Authors: Yitao Jiao, Zhenhao Fan, Dawei Wang 等\n   https://arxiv.org/abs/2606.27621v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-07-01）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 1 篇\n1. ⭐ [IEEE Electron Device Letters] Synaptic Behaviors in a Commercial Bulk Silicon MOSFET at Cryogenic Temperature\n   关键词：TSMC, MOSFET\n   日期：2026-07-01\n   Authors: Hengxu Guo, Yuanke Zhang, Yuefeng Chen 等\n   https://doi.org/10.1109/led.2026.3692206\n2. [IEEE Electron Device Letters] Dual-Gate InSnZnO Thin-Film Transistors With Heterogeneous High-k Gate Dielectric Layers\n   关键词：transistor, dielectric, high-k\n   日期：2026-07-01\n   Authors: Lin Xu, Xiaocheng Wang, Peizheng Yang 等\n   https://doi.org/10.1109/led.2026.3689496\n3. [IEEE Electron Device Letters] 1.6-kV Vertical GaN Power MOSFETs With Hybrid Edge Termination\n   关键词：MOSFET, GaN\n   日期：2026-07-01\n   Authors: Changfa Sun, Yuchuan Ma, Xiangze Kong 等\n   https://doi.org/10.1109/led.2026.3690618\n4. [IEEE Electron Device Letters] Enhanced Thermal Management in GaN Superlattice Castellated Field Effect Transistors\n   关键词：transistor, GaN\n   日期：2026-07-01\n   Authors: Pharyanshu Kachhawa, Seungwon Park, Jagori Raychaudhuri 等\n   https://doi.org/10.1109/led.2026.3696134\n5. [IEEE Electron Device Letters] Single-Layer Ferroelectric-Photosensitive Optoelectronic Transistor Enabling In-Sensor UV F…\n   关键词：transistor, ferroelectric\n   日期：2026-07-01\n   Authors: Guocheng Zhang, Xin Yi, Zhida Li 等\n   https://doi.org/10.1109/led.2026.3697029\n6. [IEEE Electron Device Letters] Ultra-Steep-Slope and High-On/Off-Ratio P-Channel SnO Thin-Film Transistors via Monolithic …\n   关键词：transistor\n   日期：2026-07-01\n   Authors: Zening Gao, Jingzhou Shi, Peng Dai 等\n   https://doi.org/10.1109/led.2026.3691786\n7. [IEEE Electron Device Letters] Experimental Demonstration of S-Band Gallium Nitride Heterojunction Bipolar Transistors Wit…\n   关键词：transistor\n   日期：2026-07-01\n   Authors: Lian Zhang, Yun Zhang, Jiaheng He 等\n   https://doi.org/10.1109/led.2026.3688320\n8. [IEEE Electron Device Letters] A Compact Model of Moiré Synaptic Transistor\n   关键词：transistor\n   日期：2026-07-01\n   Authors: Guoting Cheng, Xiaodong Yan, Jing Guo\n   https://doi.org/10.1109/led.2026.3688434",
   "papers": [
     {
-      "source": "Nature Electronics",
-      "uid": "Nature Electronics:10.1038/s41928-026-01644-x",
-      "title": "Industrial reliability testing of transistor gate dielectrics",
-      "url": "https://www.nature.com/articles/s41928-026-01644-x",
-      "published": "2026-06-24",
-      "authors": [],
-      "summary": "Nature Electronics, Published online: 24 June 2026; doi:10.1038/s41928-026-01644-x This Perspective examines how industry benchmarks the performance of gate dielectrics in silicon transistors, how to collect and analyse gate dielectric reliability data to extract meaningful and industry-relevant conclusions, and how to apply this to two-dimensional transistors.",
-      "score": 16,
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3692206",
+      "title": "Synaptic Behaviors in a Commercial Bulk Silicon MOSFET at Cryogenic Temperature",
+      "url": "https://doi.org/10.1109/led.2026.3692206",
+      "published": "2026-07-01",
+      "authors": [
+        "Hengxu Guo",
+        "Yuanke Zhang",
+        "Yuefeng Chen",
+        "Haoyu Sheng",
+        "Chi Fang",
+        "Jun Xu",
+        "Chao Luo",
+        "Guoping Guo"
+      ],
+      "summary": "To enable the rapid realization of large-scale integrated neuromorphic computing hardware, we experimentally characterize standard TSMC 65-nm bulk-silicon n-type MOSFETs, focusing on their synaptic behavior when operated under a floating-substrate condition down to 4 K. At 4 K, the device exhibits nearly symmetric potentiation and depression characteristics, achieved using 49 and 53 programming pulses of 100 ns width, respectively, with extracted nonlinearity factors of 0.35 and 0.49. Four well-defined current states are obtained using 500 ns programming pulses with different amplitudes. The device exhibits short-term plasticity; thereafter, the programmed states settle into stable current levels that remain clearly distinguishable for over ${10}^{{3}}{\\,}\\text {s}$ without refresh. In addition, the device shows small cycle-to-cycle variation over ${10}^{{3}}$ consecutive switching cycles. These results indicate a promising short-term solution for future cryogenic neuromorphic computing systems.",
+      "score": 19,
+      "priority": 3,
+      "highlights": [
+        "TSMC",
+        "MOSFET"
+      ],
+      "abstract_cn": "为促进大规模集成神经形态计算硬件的快速实现，我们对标准 TSMC 65 nm 体硅 n 型 MOSFET 进行了实验表征，重点研究其在浮置衬底条件下工作至 4 K 时的突触行为。在 4 K 下，该器件表现出近似对称的增强和抑制特性，分别通过 49 个和 53 个脉宽为 100 ns 的编程脉冲实现，提取的非线性因子分别为 0.35 和 0.49。使用不同幅值的 500 ns 编程脉冲可获得四个定义良好的电流态。该器件表现出短时可塑性；随后，编程态稳定到清晰可区分的电流水平，并且在无需刷新的情况下可保持超过 10^3 s。此外，该器件在连续 10^3 次开关循环中表现出较小的循环间变化。这些结果表明，该器件有望成为未来低温神经形态计算系统的一种短期可行方案。",
+      "abstract_zh": "为促进大规模集成神经形态计算硬件的快速实现，我们对标准 TSMC 65 nm 体硅 n 型 MOSFET 进行了实验表征，重点研究其在浮置衬底条件下工作至 4 K 时的突触行为。在 4 K 下，该器件表现出近似对称的增强和抑制特性，分别通过 49 个和 53 个脉宽为 100 ns 的编程脉冲实现，提取的非线性因子分别为 0.35 和 0.49。使用不同幅值的 500 ns 编程脉冲可获得四个定义良好的电流态。该器件表现出短时可塑性；随后，编程态稳定到清晰可区分的电流水平，并且在无需刷新的情况下可保持超过 10^3 s。此外，该器件在连续 10^3 次开关循环中表现出较小的循环间变化。这些结果表明，该器件有望成为未来低温神经形态计算系统的一种短期可行方案。",
+      "overview_cn": "Focus: MOSFET.\nWhat to check: 可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Synaptic Behaviors in a Commercial Bulk Silicon MOSFET at Cryogenic Temperature.",
+      "reading_notes": "Focus: MOSFET.\nWhat to check: 可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Synaptic Behaviors in a Commercial Bulk Silicon MOSFET at Cryogenic Temperature."
+    },
+    {
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3689496",
+      "title": "Dual-Gate InSnZnO Thin-Film Transistors With Heterogeneous High-k Gate Dielectric Layers",
+      "url": "https://doi.org/10.1109/led.2026.3689496",
+      "published": "2026-07-01",
+      "authors": [
+        "Lin Xu",
+        "Xiaocheng Wang",
+        "Peizheng Yang",
+        "Wei Huang",
+        "Peixuan Hua",
+        "Rongsheng Chen"
+      ],
+      "summary": "The dual-gate structure is an effective strategy for improving the electrical performance of amorphous oxide semiconductor (AOS) thin-film transistors (TFTs). However, the atomic layer deposition (ALD) process can degrade the performance of InSnZnO (ITZO) TFTs, thereby limiting the enhancement of the gate dielectric layers in ITZO TFTs. In this work, ITZO TFTs are passivated via one-step thermal oxidation of yttrium (Y), during which high-k Yttrium Oxide (Y 2 O ${}_{{3}}\\text {)}$ is formed as the first top-gate dielectric layer. Subsequently, dual-gate ITZO TFTs with heterogeneous high-k gate dielectric layers are fabricated by depositing aluminum oxide (Al 2 O ${}_{{3}}\\text {)}$ via ALD. The dual-gate TFTs exhibit a subthreshold swing ( SS ) of 65 mV dec ${}^{-{1}}$ in dual-gate enhanced gate control applications. The device designed with a high areal capacitance ratio ( ${C}_{\\text {i}}\\text {)}$ in the dual-gate structure achieves a coupling ratio ( $\\gamma \\text {)}$ of −6.78. The device exhibits excellent performance across various operating modes and shows great promise for applications in displays, sensing, and other fields.",
+      "score": 17,
       "priority": 2,
       "highlights": [
         "transistor",
-        "dielectric"
+        "dielectric",
+        "high-k"
       ],
-      "abstract_cn": "《Nature Electronics》，在线发表：2026 年 6 月 24 日；doi:10.1038/s41928-026-01644-x。本文这一观点文章考察了工业界如何评估硅晶体管中栅介质的性能，如何收集和分析栅介质可靠性数据以提取有意义且与工业相关的结论，以及如何将这些方法应用于二维晶体管。",
-      "abstract_zh": "《Nature Electronics》，在线发表：2026 年 6 月 24 日；doi:10.1038/s41928-026-01644-x。本文这一观点文章考察了工业界如何评估硅晶体管中栅介质的性能，如何收集和分析栅介质可靠性数据以提取有意义且与工业相关的结论，以及如何将这些方法应用于二维晶体管。",
-      "overview_cn": "Focus: 晶体管、介电材料.\nWhat to check: 性能提升、可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Industrial reliability testing of transistor gate dielectrics.",
-      "reading_notes": "Focus: 晶体管、介电材料.\nWhat to check: 性能提升、可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Industrial reliability testing of transistor gate dielectrics."
+      "abstract_cn": "双栅结构是提升非晶氧化物半导体（amorphous oxide semiconductor, AOS）薄膜晶体管（thin-film transistors, TFTs）电学性能的一种有效策略。然而，原子层沉积（atomic layer deposition, ALD）工艺可能会劣化 InSnZnO（ITZO）TFT 的性能，从而限制 ITZO TFT 中栅介质层增强的效果。在本工作中，通过钇（Y）的一步热氧化对 ITZO TFT 进行钝化，在此过程中形成高 k 氧化钇（Y2O3）作为第一层顶栅介质。随后，通过 ALD 沉积氧化铝（Al2O3），制备了具有异质高 k 栅介质层的双栅 ITZO TFT。该双栅 TFT 在双栅增强栅控应用中表现出 65 mV dec^-1 的亚阈值摆幅（SS）。在双栅结构中设计为具有高面电容比（Ci）的器件实现了 -6.78 的耦合比（γ）。该器件在多种工作模式下均表现出优异性能，并在显示、传感及其他领域展现出很大应用前景。",
+      "abstract_zh": "双栅结构是提升非晶氧化物半导体（amorphous oxide semiconductor, AOS）薄膜晶体管（thin-film transistors, TFTs）电学性能的一种有效策略。然而，原子层沉积（atomic layer deposition, ALD）工艺可能会劣化 InSnZnO（ITZO）TFT 的性能，从而限制 ITZO TFT 中栅介质层增强的效果。在本工作中，通过钇（Y）的一步热氧化对 ITZO TFT 进行钝化，在此过程中形成高 k 氧化钇（Y2O3）作为第一层顶栅介质。随后，通过 ALD 沉积氧化铝（Al2O3），制备了具有异质高 k 栅介质层的双栅 ITZO TFT。该双栅 TFT 在双栅增强栅控应用中表现出 65 mV dec^-1 的亚阈值摆幅（SS）。在双栅结构中设计为具有高面电容比（Ci）的器件实现了 -6.78 的耦合比（γ）。该器件在多种工作模式下均表现出优异性能，并在显示、传感及其他领域展现出很大应用前景。",
+      "overview_cn": "Focus: 晶体管、介电材料、high-k 介质.\nWhat to check: 性能提升、效率/耦合表现.\nContext: Dual-Gate InSnZnO Thin-Film Transistors With Heterogeneous High-k Gate Dielectric Layers.",
+      "reading_notes": "Focus: 晶体管、介电材料、high-k 介质.\nWhat to check: 性能提升、效率/耦合表现.\nContext: Dual-Gate InSnZnO Thin-Film Transistors With Heterogeneous High-k Gate Dielectric Layers."
     },
     {
-      "source": "arXiv",
-      "uid": "arxiv:2606.24046v1",
-      "title": "Rapid FinFET Modelling Using an Autoencoder",
-      "url": "https://arxiv.org/abs/2606.24046v1",
-      "published": "2026-06-23",
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3690618",
+      "title": "1.6-kV Vertical GaN Power MOSFETs With Hybrid Edge Termination",
+      "url": "https://doi.org/10.1109/led.2026.3690618",
+      "published": "2026-07-01",
       "authors": [
-        "Amit Sarkar Suman Sau",
-        "Swagata Mandal"
+        "Changfa Sun",
+        "Yuchuan Ma",
+        "Xiangze Kong",
+        "Yuanyuan Xie",
+        "Kai Cheng",
+        "Wei Mao",
+        "Chao Liu"
       ],
-      "summary": "This work presents a machine learning framework that leverages an autoencoder (AE) for the efficient modeling of FinFET. We first calibrated a BSIM-CMG model to generate a dataset of current-voltage (ID-VG) characteristics. This data was used to train an autoencoder that compresses full I-V curves into a low-dimensional latent space, which intrinsically encodes key device physics. A key innovation is the explicit incorporation of parameter such as drain to source voltage (VDS) as an input feature, enhancing the model ability to capture bias dependent variation. The trained model successfully reconstructs full I-V curves and directly extracts critical device metrics including threshold voltage (VTH), subthreshold slope (SS), and peak transconductance (gm). This approach demonstrates that data driven compact models, built from actual characterization data, can achieve high accuracy with minimal training data, providing a powerful tool for rapid device characterization, modelling and circuit level simulation.",
-      "score": 5,
+      "summary": "We demonstrate 1600 V vertical GaN-on-GaN trench MOSFETs employing hybrid edge termination (HET-MOSFET) that integrates nitrogen ion implantation (NIT) with mesa etching termination (MET). The NIT structure introduces a resistive region to alleviate electric field crowding at the device edges, while the MET structure suppresses potential leakage paths associated with the standalone NIT scheme. As a result, the breakdown voltage is enhanced from 400 V in the MET-MOSFET to 1628 V in the HET-MOSFET. Moreover, thanks to the tailored p-GaN channel layer design, the HET-MOSFET exhibits a low specific on-resistance (R ${}_{\\mathbf {\\text {ON},\\text {sp}}}$ ) of 0.75 m $\\Omega $ $\\cdot $ cm 2 and a channel mobility ( $\\mu _{\\mathbf {\\text {CH}}}$ ) of 151 cm 2 /V $\\cdot $ s. These results highlight the feasibility of vertical GaN trench MOSFETs for high-voltage and high-power electronics.",
+      "score": 14,
+      "priority": 2,
+      "highlights": [
+        "MOSFET",
+        "GaN"
+      ],
+      "abstract_cn": "我们展示了采用混合边缘终端（hybrid edge termination, HET）的 1600 V 垂直 GaN-on-GaN 沟槽 MOSFET（HET-MOSFET），该结构集成了氮离子注入（nitrogen ion implantation, NIT）和台面刻蚀终端（mesa etching termination, MET）。NIT 结构引入电阻区域以缓解器件边缘的电场拥挤，而 MET 结构则抑制与单独 NIT 方案相关的潜在漏电路径。因此，击穿电压从 MET-MOSFET 中的 400 V 提高到 HET-MOSFET 中的 1628 V。此外，得益于定制的 p-GaN 沟道层设计，HET-MOSFET 表现出较低的比导通电阻（RON,sp）0.75 mΩ·cm2，以及 151 cm2/V·s 的沟道迁移率（μCH）。这些结果凸显了垂直 GaN 沟槽 MOSFET 用于高压和高功率电子器件的可行性。",
+      "abstract_zh": "我们展示了采用混合边缘终端（hybrid edge termination, HET）的 1600 V 垂直 GaN-on-GaN 沟槽 MOSFET（HET-MOSFET），该结构集成了氮离子注入（nitrogen ion implantation, NIT）和台面刻蚀终端（mesa etching termination, MET）。NIT 结构引入电阻区域以缓解器件边缘的电场拥挤，而 MET 结构则抑制与单独 NIT 方案相关的潜在漏电路径。因此，击穿电压从 MET-MOSFET 中的 400 V 提高到 HET-MOSFET 中的 1628 V。此外，得益于定制的 p-GaN 沟道层设计，HET-MOSFET 表现出较低的比导通电阻（RON,sp）0.75 mΩ·cm2，以及 151 cm2/V·s 的沟道迁移率（μCH）。这些结果凸显了垂直 GaN 沟槽 MOSFET 用于高压和高功率电子器件的可行性。",
+      "overview_cn": "Focus: MOSFET、GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: 1.6-kV Vertical GaN Power MOSFETs With Hybrid Edge Termination.",
+      "reading_notes": "Focus: MOSFET、GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: 1.6-kV Vertical GaN Power MOSFETs With Hybrid Edge Termination."
+    },
+    {
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3696134",
+      "title": "Enhanced Thermal Management in GaN Superlattice Castellated Field Effect Transistors",
+      "url": "https://doi.org/10.1109/led.2026.3696134",
+      "published": "2026-07-01",
+      "authors": [
+        "Pharyanshu Kachhawa",
+        "Seungwon Park",
+        "Jagori Raychaudhuri",
+        "Jonathen Malen",
+        "Tariq Jamil",
+        "Tazbiul Hasan",
+        "Asif Khan",
+        "Jeong-Kyu Kim",
+        "Mohamadali Malakoutian",
+        "Srabanti Chowdhury",
+        "James W. Pomeroy",
+        "Brian Novak",
+        "R. S. Howell",
+        "Shamima Afroz",
+        "Martin Kuball"
+      ],
+      "summary": "AlGaN/GaN multi-channel Super Lattice Castellated Field Effect Transistors (SLCFETs) have shown great potential for next generation RF applications. We demonstrate a $2.44\\times $ reduction in thermal resistance reduction in AlGaN/GaN multi-channel SLCFETs by replacing the standard AlGaN buffer with a high thermal conductivity AlN buffer layer and adding a poly-crystalline diamond overcoat layer. The thermal conductivity of each material in the device stack was measured using time-domain and frequency-domain thermoreflectance techniques, including ${223^{+21}_{-18}}$ W/m $\\cdot $ K for $2.2~\\mu $ m-thick AlN buffer versus ${38^{+5.5}_{- 5}}$ W/m $\\cdot $ K for the reference $1.8~\\mu $ m AlGaN buffer. Device thermal resistance was reduced from 29 mm°C/W to 11.9 mm°C/W by combining the AlN buffer and poly-crystalline diamond overcoat layer, determined using Raman thermography together with 3-D thermal simulation. The corresponding $2.44\\times $ increase RF power density capability enabled by improved thermal management can unlock the next-generation ultra-high-power RF devices.",
+      "score": 11,
+      "priority": 2,
+      "highlights": [
+        "transistor",
+        "GaN"
+      ],
+      "abstract_cn": "AlGaN/GaN 多沟道超晶格城堡式场效应晶体管（Super Lattice Castellated Field Effect Transistors, SLCFETs）已展现出面向下一代射频应用的巨大潜力。我们通过用高热导率 AlN 缓冲层替代标准 AlGaN 缓冲层，并添加多晶金刚石覆盖层，在 AlGaN/GaN 多沟道 SLCFET 中实现了热阻降低 2.44 倍。器件堆叠中每种材料的热导率均采用时域和频域热反射技术测量，其中 2.2 μm 厚 AlN 缓冲层的热导率为 223^{+21}_{-18} W/m·K，而参考 1.8 μm AlGaN 缓冲层的热导率为 38^{+5.5}_{-5} W/m·K。结合 AlN 缓冲层和多晶金刚石覆盖层后，利用 Raman 热成像和三维热仿真确定器件热阻从 29 mm°C/W 降至 11.9 mm°C/W。由改进热管理带来的相应 2.44 倍射频功率密度能力提升，有望释放下一代超高功率射频器件的潜力。",
+      "abstract_zh": "AlGaN/GaN 多沟道超晶格城堡式场效应晶体管（Super Lattice Castellated Field Effect Transistors, SLCFETs）已展现出面向下一代射频应用的巨大潜力。我们通过用高热导率 AlN 缓冲层替代标准 AlGaN 缓冲层，并添加多晶金刚石覆盖层，在 AlGaN/GaN 多沟道 SLCFET 中实现了热阻降低 2.44 倍。器件堆叠中每种材料的热导率均采用时域和频域热反射技术测量，其中 2.2 μm 厚 AlN 缓冲层的热导率为 223^{+21}_{-18} W/m·K，而参考 1.8 μm AlGaN 缓冲层的热导率为 38^{+5.5}_{-5} W/m·K。结合 AlN 缓冲层和多晶金刚石覆盖层后，利用 Raman 热成像和三维热仿真确定器件热阻从 29 mm°C/W 降至 11.9 mm°C/W。由改进热管理带来的相应 2.44 倍射频功率密度能力提升，有望释放下一代超高功率射频器件的潜力。",
+      "overview_cn": "Focus: 晶体管、GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Enhanced Thermal Management in GaN Superlattice Castellated Field Effect Transistors.",
+      "reading_notes": "Focus: 晶体管、GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Enhanced Thermal Management in GaN Superlattice Castellated Field Effect Transistors."
+    },
+    {
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3697029",
+      "title": "Single-Layer Ferroelectric-Photosensitive Optoelectronic Transistor Enabling In-Sensor UV Fingerprint Recognition",
+      "url": "https://doi.org/10.1109/led.2026.3697029",
+      "published": "2026-07-01",
+      "authors": [
+        "Guocheng Zhang",
+        "Xin Yi",
+        "Zhida Li",
+        "Jianchuan Tang",
+        "Zili Zeng",
+        "Changqiang Su",
+        "Li Zhuo",
+        "Xuanye Huang",
+        "Enlong Li",
+        "Changsong Gao",
+        "Huipeng Chen"
+      ],
+      "summary": "Conventional ferroelectric optoelectronic devices suffer from low photocurrent and poor retention due to the physical separation between the ferroelectric and photoelectric conversion process. By incorporating PVN into the ferroelectric P(VDF-TrFE) layer, the composite not only provides a polarization field but also directly participates in light absorption and photoexcitation, significantly suppressing carrier recombination, fundamentally resolving the limitations of conventional ferroelectric photonic synapses. As a result, the fabricated transistor exhibits a large memory window of ~58 V and non-volatile retention exceeding $10^{{4}}$ s. Benefiting from the nonlinear and history-dependent dynamics originating from the ferroelectric photocarrier interaction, an in-sensor reservoir computing system is implemented for UV-excited fingerprint recognition, achieving high training and testing accuracies of 99.5% and 98.5%, respectively. This work unveils a ferroelectric-photosensitive synergy mechanism, offering a viable pathway toward energy-efficient neuromorphic visual hardware.",
+      "score": 11,
+      "priority": 2,
+      "highlights": [
+        "transistor",
+        "ferroelectric"
+      ],
+      "abstract_cn": "传统铁电光电子器件由于铁电过程与光电转换过程在物理上分离，存在光电流低和保持性差的问题。通过将 PVN 引入铁电 P(VDF-TrFE) 层，该复合材料不仅提供极化场，还直接参与光吸收和光激发，从而显著抑制载流子复合，并从根本上解决传统铁电光突触的局限。因此，所制备晶体管表现出约 58 V 的大存储窗口，以及超过 10^4 s 的非易失保持特性。得益于源自铁电—光生载流子相互作用的非线性和历史依赖动力学，本文实现了一种传感器内储备池计算系统，用于紫外激发指纹识别，训练和测试准确率分别达到 99.5% 和 98.5%。本工作揭示了一种铁电—光敏协同机制，为面向能效型神经形态视觉硬件提供了一条可行路径。",
+      "abstract_zh": "传统铁电光电子器件由于铁电过程与光电转换过程在物理上分离，存在光电流低和保持性差的问题。通过将 PVN 引入铁电 P(VDF-TrFE) 层，该复合材料不仅提供极化场，还直接参与光吸收和光激发，从而显著抑制载流子复合，并从根本上解决传统铁电光突触的局限。因此，所制备晶体管表现出约 58 V 的大存储窗口，以及超过 10^4 s 的非易失保持特性。得益于源自铁电—光生载流子相互作用的非线性和历史依赖动力学，本文实现了一种传感器内储备池计算系统，用于紫外激发指纹识别，训练和测试准确率分别达到 99.5% 和 98.5%。本工作揭示了一种铁电—光敏协同机制，为面向能效型神经形态视觉硬件提供了一条可行路径。",
+      "overview_cn": "Focus: 晶体管、铁电材料.\nWhat to check: 功耗或能效表现.\nContext: Single-Layer Ferroelectric-Photosensitive Optoelectronic Transistor Enabling In-Sensor UV Finge….",
+      "reading_notes": "Focus: 晶体管、铁电材料.\nWhat to check: 功耗或能效表现.\nContext: Single-Layer Ferroelectric-Photosensitive Optoelectronic Transistor Enabling In-Sensor UV Finge…."
+    },
+    {
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3691786",
+      "title": "Ultra-Steep-Slope and High-On/Off-Ratio P-Channel SnO Thin-Film Transistors via Monolithic Threshold-Switching Integration",
+      "url": "https://doi.org/10.1109/led.2026.3691786",
+      "published": "2026-07-01",
+      "authors": [
+        "Zening Gao",
+        "Jingzhou Shi",
+        "Peng Dai",
+        "Yiwen Yao",
+        "Jialong Song",
+        "Yiming Wang",
+        "Jiawei Zhang",
+        "Yuxiang Li",
+        "Qian Xin",
+        "Aimin Song"
+      ],
+      "summary": "As CMOS scaling approaches the angstrom regime, the 60 mV/dec subthreshold swing ( S S) limit of traditional field-effect transistors (FETs) severely impedes voltage scaling. Although threshold-switching FETs provide a viable pathway to steep-slope operation, their implementation in p-type oxide electronics remains largely unexplored. Here, we demonstrate an ultra-steep-slope p-channel tin monoxide (SnO) threshold-switching thin-film transistor (TS-TFT) enabled by the monolithic integration of a volatile Ag/Al 2 O 3 /HfO 2 /Pt threshold switch in series with the SnO channel. The Al 2 O 3 /HfO 2 bilayer is deliberately engineered to serve a dual function as both the threshold-switching medium and a robust back-channel passivation layer, enabling a compact process flow while suppressing the intrinsic leakage of SnO. As a result, the TS-TFT achieves an ultra-low minimum S S of 8 mV/dec, a high on/off ratio of ${1}.{78}\\times {10}^{\\mathbf {{8}}}$ , and an off-state leakage approaching the measurement noise floor (~100 fA). These results highlight threshold-switching integration as a viable strategy for ultra-low-power, all-oxide transparent electronics.",
+      "score": 16,
       "priority": 1,
       "highlights": [
-        "FinFET"
+        "transistor"
       ],
-      "abstract_cn": "本工作提出了一种利用自编码器（autoencoder, AE）对 FinFET 进行高效建模的机器学习框架。我们首先校准了一个 BSIM-CMG 模型，以生成电流—电压（ID-VG）特性数据集。该数据用于训练一个自编码器，将完整 I-V 曲线压缩到低维潜在空间中，而该空间内在地编码了关键器件物理。一个关键创新是显式地将漏源电压（VDS）等参数作为输入特征，从而增强模型捕捉偏置依赖变化的能力。训练后的模型能够成功重构完整 I-V 曲线，并直接提取包括阈值电压（VTH）、亚阈值摆幅（SS）和峰值跨导（gm）在内的关键器件指标。该方法表明，基于实际表征数据构建的数据驱动紧凑模型能够以最少训练数据实现高精度，为快速器件表征、建模和电路级仿真提供了强有力工具。",
-      "abstract_zh": "本工作提出了一种利用自编码器（autoencoder, AE）对 FinFET 进行高效建模的机器学习框架。我们首先校准了一个 BSIM-CMG 模型，以生成电流—电压（ID-VG）特性数据集。该数据用于训练一个自编码器，将完整 I-V 曲线压缩到低维潜在空间中，而该空间内在地编码了关键器件物理。一个关键创新是显式地将漏源电压（VDS）等参数作为输入特征，从而增强模型捕捉偏置依赖变化的能力。训练后的模型能够成功重构完整 I-V 曲线，并直接提取包括阈值电压（VTH）、亚阈值摆幅（SS）和峰值跨导（gm）在内的关键器件指标。该方法表明，基于实际表征数据构建的数据驱动紧凑模型能够以最少训练数据实现高精度，为快速器件表征、建模和电路级仿真提供了强有力工具。",
-      "overview_cn": "Focus: FinFET.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Rapid FinFET Modelling Using an Autoencoder.",
-      "reading_notes": "Focus: FinFET.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Rapid FinFET Modelling Using an Autoencoder."
+      "abstract_cn": "随着 CMOS 缩放接近埃米尺度，传统场效应晶体管（FET）60 mV/dec 的亚阈值摆幅（SS）极限严重阻碍了电压缩放。尽管阈值开关 FET 为实现陡峭斜率工作提供了一条可行路径，但其在 p 型氧化物电子学中的实现仍基本未被探索。本文展示了一种超陡斜率 p 沟道一氧化锡（SnO）阈值开关薄膜晶体管（threshold-switching thin-film transistor, TS-TFT），该器件通过将易失性 Ag/Al2O3/HfO2/Pt 阈值开关与 SnO 沟道单片串联集成而实现。Al2O3/HfO2 双层被有意工程化设计为同时充当阈值开关介质和稳健的背沟道钝化层，从而在抑制 SnO 本征漏电的同时实现紧凑工艺流程。因此，该 TS-TFT 实现了 8 mV/dec 的超低最小 SS、1.78×10^8 的高开关比，以及接近测量噪声底（约 100 fA）的关态漏电。这些结果凸显了阈值开关集成作为超低功耗全氧化物透明电子学的一种可行策略。",
+      "abstract_zh": "随着 CMOS 缩放接近埃米尺度，传统场效应晶体管（FET）60 mV/dec 的亚阈值摆幅（SS）极限严重阻碍了电压缩放。尽管阈值开关 FET 为实现陡峭斜率工作提供了一条可行路径，但其在 p 型氧化物电子学中的实现仍基本未被探索。本文展示了一种超陡斜率 p 沟道一氧化锡（SnO）阈值开关薄膜晶体管（threshold-switching thin-film transistor, TS-TFT），该器件通过将易失性 Ag/Al2O3/HfO2/Pt 阈值开关与 SnO 沟道单片串联集成而实现。Al2O3/HfO2 双层被有意工程化设计为同时充当阈值开关介质和稳健的背沟道钝化层，从而在抑制 SnO 本征漏电的同时实现紧凑工艺流程。因此，该 TS-TFT 实现了 8 mV/dec 的超低最小 SS、1.78×10^8 的高开关比，以及接近测量噪声底（约 100 fA）的关态漏电。这些结果凸显了阈值开关集成作为超低功耗全氧化物透明电子学的一种可行策略。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 可靠性与稳定性、先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Ultra-Steep-Slope and High-On/Off-Ratio P-Channel SnO Thin-Film Transistors via Monolithic Thre….",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 可靠性与稳定性、先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Ultra-Steep-Slope and High-On/Off-Ratio P-Channel SnO Thin-Film Transistors via Monolithic Thre…."
     },
     {
-      "source": "Nature Electronics",
-      "uid": "Nature Electronics:10.1038/s41928-026-01661-w",
-      "title": "Solution-processable two-dimensional hexagonal copper indium selenide semiconductors",
-      "url": "https://www.nature.com/articles/s41928-026-01661-w",
-      "published": "2026-06-24",
-      "authors": [],
-      "summary": "Nature Electronics, Published online: 24 June 2026; doi:10.1038/s41928-026-01661-w Wafer-scale and air-stable semiconducting films of two-dimensional copper indium selenide can be made from monolayer ink deposition and annealing, creating transistors with an average mobility of 155 cm2 V−1 s−1 and a microprocessor containing over 100 devices.",
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3688320",
+      "title": "Experimental Demonstration of S-Band Gallium Nitride Heterojunction Bipolar Transistors With <i> P <sub>out</sub> </i> = 16.5 kW/cm <sup>2</sup>",
+      "url": "https://doi.org/10.1109/led.2026.3688320",
+      "published": "2026-07-01",
+      "authors": [
+        "Lian Zhang",
+        "Yun Zhang",
+        "Jiaheng He",
+        "Gaoqiang Deng",
+        "Yinglong Huang",
+        "Yujin Liu",
+        "Zhicong Li",
+        "Yuanyuan Shi",
+        "Jie Wei",
+        "Yuxi Wei",
+        "Yuehang Xu",
+        "Hongzhe Wang",
+        "Wenying Ma",
+        "Song Ye",
+        "Xiaorong Luo"
+      ],
+      "summary": "In this letter, we report the experimental demonstration of S-band AlGaN/GaN heterojunction bipolar transistors (HBTs) with an RF output power density of 16.5 kW/cm 2 and a power-added efficiency (PAE) of 6.7% at 2.4 GHz. This milestone achievement is enabled by: 1) a low base ohmic contact resistance ( $\\textit {R}_{{B}-{M}}$ ) of ${2}.{17}\\times {10} ^{-{3}} \\Omega \\cdot $ cm 2 enabled on the etch-damage-free selective-area-grown (SAG) emitter platform; 2) a high-aspect-ratio emitter ( $3\\times 80~\\mu $ m 2 ) that reduces the emitter contact resistance ( $\\textit {R}_{{E}-{M}}$ ), thereby minimizing the on-resistance and enhancing power output capability; and 3) reduction of the extrinsic base resistance ( $\\textit {R}_{\\textit {Bx}}$ ) by down scaling. Benefiting from the reduction of these parasitic resistances, $\\textit {f}_{T}/\\textit {f}_{\\textit {max}}$ values of 30.5/4.19 GHz and 18.2/7.01 GHz were achieved for devices with base contact-emitter space $\\textit {W}_{\\textit {BE}} =2$ and $1~\\mu $ m, respectively. Notably, the $\\textit {f}_{T} =30.5$ GHz and $\\textit {f}_{\\textit {max}} =7.01$ GHz are, to the best of knowledge, the highest reported to date for GaN HBTs. Further scaling is expected to improve $\\textit {f}_{\\textit {max}}$ and significantly enhance PAE, bringing high-power, high-efficiency S-band power amplifiers based on GaN HBTs within imminent reach.",
       "score": 12,
-      "priority": 0,
+      "priority": 1,
       "highlights": [
-        "semiconductor"
+        "transistor"
       ],
-      "abstract_cn": "《Nature Electronics》，在线发表：2026 年 6 月 24 日；doi:10.1038/s41928-026-01661-w。可通过单层墨水沉积和退火制备晶圆级且空气稳定的二维铜铟硒化物半导体薄膜，并由此制备平均迁移率为 155 cm2 V−1 s−1 的晶体管以及包含超过 100 个器件的微处理器。",
-      "abstract_zh": "《Nature Electronics》，在线发表：2026 年 6 月 24 日；doi:10.1038/s41928-026-01661-w。可通过单层墨水沉积和退火制备晶圆级且空气稳定的二维铜铟硒化物半导体薄膜，并由此制备平均迁移率为 155 cm2 V−1 s−1 的晶体管以及包含超过 100 个器件的微处理器。",
-      "overview_cn": "Focus: 半导体.\nWhat to check: 可靠性与稳定性.\nContext: Solution-processable two-dimensional hexagonal copper indium selenide semiconductors.",
-      "reading_notes": "Focus: 半导体.\nWhat to check: 可靠性与稳定性.\nContext: Solution-processable two-dimensional hexagonal copper indium selenide semiconductors."
+      "abstract_cn": "在本文中，我们报道了 S 波段 AlGaN/GaN 异质结双极晶体管（heterojunction bipolar transistors, HBTs）的实验展示，其在 2.4 GHz 下实现了 16.5 kW/cm2 的射频输出功率密度和 6.7% 的功率附加效率（power-added efficiency, PAE）。这一里程碑式成果得益于：1）在无刻蚀损伤的选择区域生长（selective-area-grown, SAG）发射极平台上实现了 2.17×10^-3 Ω·cm2 的低基极欧姆接触电阻（RB-M）；2）采用高深宽比发射极（3×80 μm2）以降低发射极接触电阻（RE-M），从而最小化导通电阻并提升功率输出能力；以及 3）通过尺寸缩小降低外延基区电阻（RBx）。受益于这些寄生电阻的降低，对于基极接触—发射极间距 WBE 分别为 2 μm 和 1 μm 的器件，实现了 30.5/4.19 GHz 和 18.2/7.01 GHz 的 fT/fmax。值得注意的是，据我们所知，fT = 30.5 GHz 和 fmax = 7.01 GHz 是目前 GaN HBT 报道中的最高值。进一步缩放预计将提升 fmax 并显著提高 PAE，使基于 GaN HBT 的高功率、高效率 S 波段功率放大器即将成为现实。",
+      "abstract_zh": "在本文中，我们报道了 S 波段 AlGaN/GaN 异质结双极晶体管（heterojunction bipolar transistors, HBTs）的实验展示，其在 2.4 GHz 下实现了 16.5 kW/cm2 的射频输出功率密度和 6.7% 的功率附加效率（power-added efficiency, PAE）。这一里程碑式成果得益于：1）在无刻蚀损伤的选择区域生长（selective-area-grown, SAG）发射极平台上实现了 2.17×10^-3 Ω·cm2 的低基极欧姆接触电阻（RB-M）；2）采用高深宽比发射极（3×80 μm2）以降低发射极接触电阻（RE-M），从而最小化导通电阻并提升功率输出能力；以及 3）通过尺寸缩小降低外延基区电阻（RBx）。受益于这些寄生电阻的降低，对于基极接触—发射极间距 WBE 分别为 2 μm 和 1 μm 的器件，实现了 30.5/4.19 GHz 和 18.2/7.01 GHz 的 fT/fmax。值得注意的是，据我们所知，fT = 30.5 GHz 和 fmax = 7.01 GHz 是目前 GaN HBT 报道中的最高值。进一步缩放预计将提升 fmax 并显著提高 PAE，使基于 GaN HBT 的高功率、高效率 S 波段功率放大器即将成为现实。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、效率/耦合表现、先进尺度下的可扩展性.\nContext: Experimental Demonstration of S-Band Gallium Nitride Heterojunction Bipolar Transistors With <i….",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、效率/耦合表现、先进尺度下的可扩展性.\nContext: Experimental Demonstration of S-Band Gallium Nitride Heterojunction Bipolar Transistors With <i…."
     },
     {
-      "source": "arXiv",
-      "uid": "arxiv:2606.27207v1",
-      "title": "Organic Semiconductor Alignment via Confinement in Vapor-Guided Droplets",
-      "url": "https://arxiv.org/abs/2606.27207v1",
-      "published": "2026-06-26",
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3688434",
+      "title": "A Compact Model of Moiré Synaptic Transistor",
+      "url": "https://doi.org/10.1109/led.2026.3688434",
+      "published": "2026-07-01",
       "authors": [
-        "Robert Malinowski",
-        "Alessandro Rossi",
-        "Lewis M. Cowen",
-        "Peter A. Gilhooly-Finn",
-        "Michael A. Parkes",
-        "Ming-Hao Chang",
-        "Yu-Cheng Chiu",
-        "Ioannis Papakonstantinou",
-        "Matthew O. Blunt",
-        "Bob C. Schroeder",
-        "Giorgio Volpe"
+        "Guoting Cheng",
+        "Xiaodong Yan",
+        "Jing Guo"
       ],
-      "summary": "Organic semiconductors are lightweight, solution-processable materials with strong potential for printed and flexible electronics, from deformable displays to wearable sensors. Despite significant advances in materials synthesis and manufacturing, controlling molecular and mesoscale alignment during deposition remains a central challenge, as film morphology critically governs charge transport and device performance. Here, we demonstrate that flows developing within the intrinsically confined volume of microliter vapor-guided droplets can be harnessed to produce highly aligned organic semiconductor films. As droplets move in response to an external vapor source, internal flows align organic semiconducting nanowires within the droplet prior to deposition, yielding films with pronounced directional order. Organic field-effect transistors fabricated with this approach exhibit approximately 40% enhancement in saturation current relative to spin-coated controls. Beyond improved device performance, the contactless and compact nature of our method enables the deposition and alignment of organic semiconductors on curved and flexible surfaces. More broadly, vapor-guided droplets offer a scalable framework for the confinement-induced alignment of functional soft materials, with potential for integration into existing additive manufacturing platforms for flexible electronics and beyond.",
-      "score": 9,
-      "priority": 0,
+      "summary": "Moiré Synaptic Transistors (MSTs) based on asymmetric two-dimensional heterostructures have recently been experimentally demonstrated as an emerging device platform for ultra-low-power, non-volatile, and biorealistic neuromorphic computing. In this Letter, we develop a compact model for the MST based on its device physics. The model combines a gate electrostatics framework that self-consistently accounts for both localized moiré electrons at the heterointerface and free carriers in the channel with an ambipolar transport model for the graphene channel of the transistor. The model reproduces key experimentally observed neuromorphic device characteristics, including ratchet-like DC hysteretic current-voltage relation and static synaptic threshold sliding enabled by dual-gate operation. The asymmetric moiré heterostructure under dual-gate control supports robust electronic ratchet states, giving rise to hysteretic, non-volatile I–V characteristics when one gate is swept, with the features tunable by the other gate. By explicitly capturing the electrostatic screening and charge dynamics associated with the localized moiré electron system, the model provides physical insight into the operating mechanisms of MSTs.",
+      "score": 11,
+      "priority": 1,
       "highlights": [
-        "semiconductor"
+        "transistor"
       ],
-      "abstract_cn": "有机半导体是轻质、可溶液加工的材料，在从可变形显示器到可穿戴传感器的印刷和柔性电子学中具有很大潜力。尽管材料合成和制造方面已取得显著进展，但在沉积过程中控制分子和介观尺度取向仍是一项核心挑战，因为薄膜形貌会关键性地支配电荷输运和器件性能。本文证明，可利用微升量级蒸气引导液滴内在限域体积中形成的流动，制备高度取向的有机半导体薄膜。当液滴响应外部蒸气源而移动时，内部流动会在沉积前使液滴中的有机半导体纳米线取向排列，从而得到具有显著方向有序性的薄膜。采用该方法制备的有机场效应晶体管相对于旋涂对照器件表现出约 40% 的饱和电流提升。除器件性能改善外，我们的方法具有非接触且紧凑的特点，可在曲面和柔性表面上沉积并取向排列有机半导体。更广泛而言，蒸气引导液滴为功能软材料的限域诱导取向提供了一种可扩展框架，有望集成到现有增材制造平台中，用于柔性电子学及更广泛领域。",
-      "abstract_zh": "有机半导体是轻质、可溶液加工的材料，在从可变形显示器到可穿戴传感器的印刷和柔性电子学中具有很大潜力。尽管材料合成和制造方面已取得显著进展，但在沉积过程中控制分子和介观尺度取向仍是一项核心挑战，因为薄膜形貌会关键性地支配电荷输运和器件性能。本文证明，可利用微升量级蒸气引导液滴内在限域体积中形成的流动，制备高度取向的有机半导体薄膜。当液滴响应外部蒸气源而移动时，内部流动会在沉积前使液滴中的有机半导体纳米线取向排列，从而得到具有显著方向有序性的薄膜。采用该方法制备的有机场效应晶体管相对于旋涂对照器件表现出约 40% 的饱和电流提升。除器件性能改善外，我们的方法具有非接触且紧凑的特点，可在曲面和柔性表面上沉积并取向排列有机半导体。更广泛而言，蒸气引导液滴为功能软材料的限域诱导取向提供了一种可扩展框架，有望集成到现有增材制造平台中，用于柔性电子学及更广泛领域。",
-      "overview_cn": "Focus: 半导体.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: Organic Semiconductor Alignment via Confinement in Vapor-Guided Droplets.",
-      "reading_notes": "Focus: 半导体.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: Organic Semiconductor Alignment via Confinement in Vapor-Guided Droplets."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2606.25891v1",
-      "title": "The interplay of interfaces, supramolecular assembly, and electronics in organic semiconductors",
-      "url": "https://arxiv.org/abs/2606.25891v1",
-      "published": "2026-06-24",
-      "authors": [
-        "Belinda J. Boehm",
-        "Huong T. L. Nguyen",
-        "David M. Huang"
-      ],
-      "summary": "Organic semiconductors, which include a diverse range of carbon-based small molecules and polymers with interesting optoelectronic properties, offer many advantages over conventional inorganic semiconductors such as silicon and are growing in importance in electronic applications. Although these materials are now the basis of a lucrative industry in electronic displays, many promising applications such as photovoltaics remain largely untapped. One major impediment to more rapid development and widespread adoption of organic semiconductor technologies is that device performance is not easily predicted from the chemical structure of the constituent molecules. Fundamentally, this is because organic semiconductor molecules, unlike inorganic materials, interact by weak non-covalent forces, resulting in significant structural disorder that can strongly impact electronic properties. Nevertheless, directional forces between generally anisotropic organic-semiconductor molecules, combined with translational symmetry breaking at interfaces, can be exploited to control supramolecular order and consequent electronic properties in these materials. This review surveys recent advances in understanding of supramolecular assembly at organic-semiconductor interfaces and its impact on device properties in a number of applications, including transistors, light-emitting diodes, and photovoltaics. Recent progress and challenges in computer simulations of supramolecular assembly and orientational anisotropy at these interfaces is also addressed.",
-      "score": 8,
-      "priority": 0,
-      "highlights": [
-        "semiconductor"
-      ],
-      "abstract_cn": "有机半导体包括一系列具有有趣光电子性质的碳基小分子和聚合物，相比硅等传统无机半导体具有许多优势，并且在电子应用中的重要性日益增长。尽管这些材料如今已成为电子显示这一高收益产业的基础，但许多有前景的应用，如光伏，仍在很大程度上尚未充分开发。有机半导体技术更快速发展和广泛采用的一项主要障碍是，器件性能难以仅从组成分子的化学结构进行预测。从根本上说，这是因为不同于无机材料，有机半导体分子通过弱非共价力相互作用，从而产生显著结构无序，并可能强烈影响电子性质。尽管如此，通常具有各向异性的有机半导体分子之间的方向性作用力，结合界面处平移对称性的破缺，可以被用来控制这些材料中的超分子有序以及由此产生的电子性质。本文综述了近期关于有机半导体界面处超分子组装及其对晶体管、发光二极管和光伏等多种应用中器件性质影响的理解进展。本文还讨论了这些界面处超分子组装和取向各向异性的计算机模拟方面的最新进展与挑战。",
-      "abstract_zh": "有机半导体包括一系列具有有趣光电子性质的碳基小分子和聚合物，相比硅等传统无机半导体具有许多优势，并且在电子应用中的重要性日益增长。尽管这些材料如今已成为电子显示这一高收益产业的基础，但许多有前景的应用，如光伏，仍在很大程度上尚未充分开发。有机半导体技术更快速发展和广泛采用的一项主要障碍是，器件性能难以仅从组成分子的化学结构进行预测。从根本上说，这是因为不同于无机材料，有机半导体分子通过弱非共价力相互作用，从而产生显著结构无序，并可能强烈影响电子性质。尽管如此，通常具有各向异性的有机半导体分子之间的方向性作用力，结合界面处平移对称性的破缺，可以被用来控制这些材料中的超分子有序以及由此产生的电子性质。本文综述了近期关于有机半导体界面处超分子组装及其对晶体管、发光二极管和光伏等多种应用中器件性质影响的理解进展。本文还讨论了这些界面处超分子组装和取向各向异性的计算机模拟方面的最新进展与挑战。",
-      "overview_cn": "Focus: 半导体.\nWhat to check: 性能提升、效率/耦合表现、与既有工艺平台的集成价值.\nContext: The interplay of interfaces, supramolecular assembly, and electronics in organic semiconductors.",
-      "reading_notes": "Focus: 半导体.\nWhat to check: 性能提升、效率/耦合表现、与既有工艺平台的集成价值.\nContext: The interplay of interfaces, supramolecular assembly, and electronics in organic semiconductors."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2606.27616v1",
-      "title": "Emergence of millimeter-wave resonances in self-assembled ferroelectric metamaterials",
-      "url": "https://arxiv.org/abs/2606.27616v1",
-      "published": "2026-06-26",
-      "authors": [
-        "Florian Bergmann",
-        "Peter Meisenheimer",
-        "Aiden Ross",
-        "Marvin Schewe",
-        "Fernando Gómez-Ortiz",
-        "Kaiwen Yang",
-        "Xinyan Li",
-        "Thomas J. Lee",
-        "Pushpendra Gupta",
-        "Liam G. Connolloy",
-        "Tzu-Hsuan Hsu",
-        "Jack Kramer",
-        "Bryan T. Bosworth",
-        "Nicholas R. Jungwirth",
-        "Eric J. Marksz",
-        "Aaron Hagerstrom",
-        "Tomasz Karpisz",
-        "Arundhati Ghosal",
-        "Lane W. Martin",
-        "Yimo Han",
-        "Angela C. Stelson",
-        "Christian J. Long",
-        "Ruochen Lu",
-        "Lucas Caretta",
-        "Javier Junquera",
-        "Jason J. Gorman",
-        "Long-Qing Chen",
-        "Ramamoorthy Ramesh",
-        "Nathan D. Orloff"
-      ],
-      "summary": "Resonators are a key component in modern communications and computing. As demand and technological advances push component requirements into the terahertz regime, there is significant research devoted to the search for resonances at these frequencies. While uniform solid-state materials usually do not intrinsically feature resonances in this frequency range, self-assembled periodic arrays of ferroelectric nanodomains may provide an engineering route to design millimeter-wave properties. Here, we utilize prototypical dielectric-ferroelectric SrTiO3/PbTiO3 superlattices to robustly design periodic ferroelectric nano-scale domains. Phase field simulations predict an emergent domain breathing mode in complex polar textures and state-of-the-art millimeter-wave characterization shows evidence for such emergent resonances up to hundreds of GHz. Complex polar textures in these superlattices lead to emergent piezoelectric properties that also result in millimeter-wave resonances, which are predicted by second principles methods and confirmed by direct measurement. The principles investigated in this work suggest a new modality for ferroelectrics in the design of millimeter-wave electronics.",
-      "score": 5,
-      "priority": 0,
-      "highlights": [
-        "ferroelectric"
-      ],
-      "abstract_cn": "谐振器是现代通信和计算中的关键组件。随着需求和技术进步将器件要求推向太赫兹区域，寻找这些频率下的谐振现象已成为重要研究方向。尽管均匀固态材料通常并不在这一频率范围内固有地表现出谐振，但铁电纳米畴的自组装周期阵列可能提供一种设计毫米波性质的工程路径。本文利用典型介电—铁电 SrTiO3/PbTiO3 超晶格，稳健地设计周期性铁电纳米尺度畴。相场模拟预测复杂极性织构中会出现涌现的畴呼吸模式，而最先进的毫米波表征显示了此类涌现谐振可高达数百 GHz 的证据。这些超晶格中的复杂极性织构会产生涌现压电性质，并进一步导致毫米波谐振；这些谐振由第二性原理方法预测，并通过直接测量得到证实。本工作研究的原则表明，铁电体在毫米波电子学设计中可提供一种新的实现模式。",
-      "abstract_zh": "谐振器是现代通信和计算中的关键组件。随着需求和技术进步将器件要求推向太赫兹区域，寻找这些频率下的谐振现象已成为重要研究方向。尽管均匀固态材料通常并不在这一频率范围内固有地表现出谐振，但铁电纳米畴的自组装周期阵列可能提供一种设计毫米波性质的工程路径。本文利用典型介电—铁电 SrTiO3/PbTiO3 超晶格，稳健地设计周期性铁电纳米尺度畴。相场模拟预测复杂极性织构中会出现涌现的畴呼吸模式，而最先进的毫米波表征显示了此类涌现谐振可高达数百 GHz 的证据。这些超晶格中的复杂极性织构会产生涌现压电性质，并进一步导致毫米波谐振；这些谐振由第二性原理方法预测，并通过直接测量得到证实。本工作研究的原则表明，铁电体在毫米波电子学设计中可提供一种新的实现模式。",
-      "overview_cn": "Focus: 铁电材料.\nWhat to check: 可靠性与稳定性.\nContext: Emergence of millimeter-wave resonances in self-assembled ferroelectric metamaterials.",
-      "reading_notes": "Focus: 铁电材料.\nWhat to check: 可靠性与稳定性.\nContext: Emergence of millimeter-wave resonances in self-assembled ferroelectric metamaterials."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2606.26338v1",
-      "title": "Odd-parity electronic order near the semiconductor limit",
-      "url": "https://arxiv.org/abs/2606.26338v1",
-      "published": "2026-06-25",
-      "authors": [
-        "Jack Tregidga",
-        "Dibyata Rout",
-        "Johannes Hielscher",
-        "Josiah Turner",
-        "Stephen D. Wilson",
-        "John W. Harter"
-      ],
-      "summary": "Identifying materials platforms in which dilute carriers experience strong Coulomb interactions is a central challenge in the search for interaction-driven quantum phases. In such systems, weak carrier screening can promote a variety of collective instabilities beyond the conventional Fermi liquid paradigm, including superconductivity, Wigner crystallization, and odd-parity electronic order. Experimental realizations of such dilute, strongly interacting electronic systems remain rare in crystalline materials. Here we report a spontaneous odd-parity phase transition in the phosphide semiconductor family $\\textit{Ln}$Cd$_3$P$_3$ ($\\textit{Ln}$ = La, Ce, Pr, Nd). Using optical second harmonic generation, we observe the onset of bulk inversion and rotational symmetry breaking accompanied by the emergence of an in-plane polar axis. Second harmonic microscopy reveals three domain variants related by 120$^\\circ$ rotations, while ultrafast transient reflectivity measurements uncover a pronounced electronic reconstruction across the transition. Remarkably, the ordered phase appears only in lightly self-hole-doped compounds and is absent in insulating SmCd$_3$P$_3$, indicating an essential role for itinerant carriers despite their extremely low concentration. Guided by density functional theory, we develop a four-band model of the valence states and show that modest interactions can stabilize odd-parity electronic order. The resulting phase combines a spontaneous Fermi surface distortion with a momentum-dependent bilayer polarization that breaks inversion symmetry. Our results establish a route to interaction-driven parity breaking in dilute-carrier semiconductors and identify honeycomb bilayer systems as a promising platform for odd-parity electronic phases.",
-      "score": 5,
-      "priority": 0,
-      "highlights": [
-        "semiconductor"
-      ],
-      "abstract_cn": "寻找稀薄载流子经历强库仑相互作用的材料平台，是探索相互作用驱动量子相的一项核心挑战。在这类体系中，较弱的载流子屏蔽可以促进多种超越传统费米液体范式的集体不稳定性，包括超导、Wigner 晶化和奇宇称电子有序。然而，在晶体材料中实现这种稀薄、强相互作用电子体系的实验案例仍然少见。本文报道了磷化物半导体家族 LnCd3P3（Ln = La、Ce、Pr、Nd）中的自发奇宇称相变。利用光学二次谐波产生，我们观察到体相反演对称性和旋转对称性的破缺开始出现，并伴随面内极性轴的出现。二次谐波显微成像揭示了由 120° 旋转相互关联的三种畴变体，而超快瞬态反射率测量则显示该相变过程中发生了显著的电子结构重构。值得注意的是，有序相只出现在轻微自空穴掺杂的化合物中，而在绝缘性的 SmCd3P3 中不存在，这表明尽管巡游载流子的浓度极低，它们仍起着关键作用。在密度泛函理论的指导下，我们建立了价带态的四能带模型，并表明适度相互作用可以稳定奇宇称电子有序。所得相结合了自发费米面畸变和动量依赖的双层极化，从而打破反演对称性。我们的结果确立了一条在稀薄载流子半导体中实现相互作用驱动宇称破缺的路径，并表明蜂窝双层体系是实现奇宇称电子相的有前景平台。",
-      "abstract_zh": "寻找稀薄载流子经历强库仑相互作用的材料平台，是探索相互作用驱动量子相的一项核心挑战。在这类体系中，较弱的载流子屏蔽可以促进多种超越传统费米液体范式的集体不稳定性，包括超导、Wigner 晶化和奇宇称电子有序。然而，在晶体材料中实现这种稀薄、强相互作用电子体系的实验案例仍然少见。本文报道了磷化物半导体家族 LnCd3P3（Ln = La、Ce、Pr、Nd）中的自发奇宇称相变。利用光学二次谐波产生，我们观察到体相反演对称性和旋转对称性的破缺开始出现，并伴随面内极性轴的出现。二次谐波显微成像揭示了由 120° 旋转相互关联的三种畴变体，而超快瞬态反射率测量则显示该相变过程中发生了显著的电子结构重构。值得注意的是，有序相只出现在轻微自空穴掺杂的化合物中，而在绝缘性的 SmCd3P3 中不存在，这表明尽管巡游载流子的浓度极低，它们仍起着关键作用。在密度泛函理论的指导下，我们建立了价带态的四能带模型，并表明适度相互作用可以稳定奇宇称电子有序。所得相结合了自发费米面畸变和动量依赖的双层极化，从而打破反演对称性。我们的结果确立了一条在稀薄载流子半导体中实现相互作用驱动宇称破缺的路径，并表明蜂窝双层体系是实现奇宇称电子相的有前景平台。",
-      "overview_cn": "Focus: 半导体.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Odd-parity electronic order near the semiconductor limit.",
-      "reading_notes": "Focus: 半导体.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Odd-parity electronic order near the semiconductor limit."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2606.25767v2",
-      "title": "Thermoelectric response of a ferroelectric insulator",
-      "url": "https://arxiv.org/abs/2606.25767v2",
-      "published": "2026-06-24",
-      "authors": [
-        "Ryo Iguchi",
-        "Takashi Teranishi",
-        "Sakyo Hirose",
-        "Ping Tang",
-        "Jun Kano",
-        "Gerrit E. W. Bauer",
-        "Ken-ichi Uchida"
-      ],
-      "summary": "Thermoelectric effects enable the conversion between heat and electricity without moving parts. While conventionally associated with mobile charges, we report thermoelectricity caused by bound charges in the form of temperature changes measured by multi-harmonic lock-in thermography of a ferroelectric under an ac electric field. The observed temperature gradient depends on the field-induced displacement current, a Peltier effect in a dielectric material. Its coefficient exceeds 100 V around the ferroelectric-paraelectric phase transition, which is several orders of magnitude greater than reported values in conductors. Our findings uncover previously hidden functionalities of ferroelectric materials for thermal management by directional heat transport in ferroelectrics.",
-      "score": 5,
-      "priority": 0,
-      "highlights": [
-        "ferroelectric"
-      ],
-      "abstract_cn": "热电效应能够在没有运动部件的情况下实现热与电之间的转换。尽管热电效应传统上与可移动电荷相关，但我们报道了一种由束缚电荷引起的热电性，其表现为在交流电场下通过多谐波锁相热成像测得的铁电体温度变化。所观察到的温度梯度取决于场诱导位移电流，这是介电材料中的一种 Peltier 效应。在铁电—顺电相变附近，其系数超过 100 V，比导体中已报道的数值高出数个数量级。我们的发现揭示了铁电材料此前隐藏的功能，即可通过铁电体中的定向热输运实现热管理。",
-      "abstract_zh": "热电效应能够在没有运动部件的情况下实现热与电之间的转换。尽管热电效应传统上与可移动电荷相关，但我们报道了一种由束缚电荷引起的热电性，其表现为在交流电场下通过多谐波锁相热成像测得的铁电体温度变化。所观察到的温度梯度取决于场诱导位移电流，这是介电材料中的一种 Peltier 效应。在铁电—顺电相变附近，其系数超过 100 V，比导体中已报道的数值高出数个数量级。我们的发现揭示了铁电材料此前隐藏的功能，即可通过铁电体中的定向热输运实现热管理。",
-      "overview_cn": "Focus: 铁电材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Thermoelectric response of a ferroelectric insulator.",
-      "reading_notes": "Focus: 铁电材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Thermoelectric response of a ferroelectric insulator."
+      "abstract_cn": "基于非对称二维异质结构的莫尔突触晶体管（Moiré Synaptic Transistors, MSTs）近期已在实验上被证明是一种新兴器件平台，可用于超低功耗、非易失且生物真实感的神经形态计算。在本文中，我们基于 MST 的器件物理建立了一个紧凑模型。该模型结合了一个栅极静电框架和一个用于晶体管石墨烯沟道的双极性输运模型；前者自洽地考虑了异质界面处的局域莫尔电子以及沟道中的自由载流子。该模型再现了实验观察到的关键神经形态器件特性，包括类似棘轮的直流滞回血流—电压关系，以及由双栅操作实现的静态突触阈值滑移。在双栅控制下，非对称莫尔异质结构支持稳健的电子棘轮态，当扫描一个栅极时会产生滞回、非易失 I–V 特性，而这些特征可由另一个栅极调节。通过显式捕捉与局域莫尔电子体系相关的静电屏蔽和电荷动力学，该模型为 MST 的工作机制提供了物理认识。",
+      "abstract_zh": "基于非对称二维异质结构的莫尔突触晶体管（Moiré Synaptic Transistors, MSTs）近期已在实验上被证明是一种新兴器件平台，可用于超低功耗、非易失且生物真实感的神经形态计算。在本文中，我们基于 MST 的器件物理建立了一个紧凑模型。该模型结合了一个栅极静电框架和一个用于晶体管石墨烯沟道的双极性输运模型；前者自洽地考虑了异质界面处的局域莫尔电子以及沟道中的自由载流子。该模型再现了实验观察到的关键神经形态器件特性，包括类似棘轮的直流滞回血流—电压关系，以及由双栅操作实现的静态突触阈值滑移。在双栅控制下，非对称莫尔异质结构支持稳健的电子棘轮态，当扫描一个栅极时会产生滞回、非易失 I–V 特性，而这些特征可由另一个栅极调节。通过显式捕捉与局域莫尔电子体系相关的静电屏蔽和电荷动力学，该模型为 MST 的工作机制提供了物理认识。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 可靠性与稳定性.\nContext: A Compact Model of Moiré Synaptic Transistor.",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 可靠性与稳定性.\nContext: A Compact Model of Moiré Synaptic Transistor."
     }
   ],
   "errors": [],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-06-30T00:30:00+00:00"
+  "generated_at": "2026-07-01T00:30:00+00:00"
 }
