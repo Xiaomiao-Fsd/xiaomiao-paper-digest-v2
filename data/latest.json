@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 29,
+  "new_count": 5,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-07-01）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 1 篇\n1. ⭐ [IEEE Electron Device Letters] Synaptic Behaviors in a Commercial Bulk Silicon MOSFET at Cryogenic Temperature\n   关键词：TSMC, MOSFET\n   日期：2026-07-01\n   Authors: Hengxu Guo, Yuanke Zhang, Yuefeng Chen 等\n   https://doi.org/10.1109/led.2026.3692206\n2. [IEEE Electron Device Letters] Dual-Gate InSnZnO Thin-Film Transistors With Heterogeneous High-k Gate Dielectric Layers\n   关键词：transistor, dielectric, high-k\n   日期：2026-07-01\n   Authors: Lin Xu, Xiaocheng Wang, Peizheng Yang 等\n   https://doi.org/10.1109/led.2026.3689496\n3. [IEEE Electron Device Letters] 1.6-kV Vertical GaN Power MOSFETs With Hybrid Edge Termination\n   关键词：MOSFET, GaN\n   日期：2026-07-01\n   Authors: Changfa Sun, Yuchuan Ma, Xiangze Kong 等\n   https://doi.org/10.1109/led.2026.3690618\n4. [IEEE Electron Device Letters] Enhanced Thermal Management in GaN Superlattice Castellated Field Effect Transistors\n   关键词：transistor, GaN\n   日期：2026-07-01\n   Authors: Pharyanshu Kachhawa, Seungwon Park, Jagori Raychaudhuri 等\n   https://doi.org/10.1109/led.2026.3696134\n5. [IEEE Electron Device Letters] Single-Layer Ferroelectric-Photosensitive Optoelectronic Transistor Enabling In-Sensor UV F…\n   关键词：transistor, ferroelectric\n   日期：2026-07-01\n   Authors: Guocheng Zhang, Xin Yi, Zhida Li 等\n   https://doi.org/10.1109/led.2026.3697029\n6. [IEEE Electron Device Letters] Ultra-Steep-Slope and High-On/Off-Ratio P-Channel SnO Thin-Film Transistors via Monolithic …\n   关键词：transistor\n   日期：2026-07-01\n   Authors: Zening Gao, Jingzhou Shi, Peng Dai 等\n   https://doi.org/10.1109/led.2026.3691786\n7. [IEEE Electron Device Letters] Experimental Demonstration of S-Band Gallium Nitride Heterojunction Bipolar Transistors Wit…\n   关键词：transistor\n   日期：2026-07-01\n   Authors: Lian Zhang, Yun Zhang, Jiaheng He 等\n   https://doi.org/10.1109/led.2026.3688320\n8. [IEEE Electron Device Letters] A Compact Model of Moiré Synaptic Transistor\n   关键词：transistor\n   日期：2026-07-01\n   Authors: Guoting Cheng, Xiaodong Yan, Jing Guo\n   https://doi.org/10.1109/led.2026.3688434",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-07-02）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 5 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] High-Mobility and High-Reliability Top-Gate Oxide Semiconductor Transistors by Oxygen Engin…\n   关键词：transistor, semiconductor, oxide semiconductor\n   日期：2026-06-30\n   Authors: Kai Jiang, Zhiyu Lin, Ziheng Wang 等\n   https://arxiv.org/abs/2606.31217v1\n2. [IEEE Electron Device Letters] Mechanism of a-InGaZnO Thin Film Transistors Degradation Under Negative Gate-Pulse Stress\n   关键词：transistor\n   日期：2026-07-01\n   Authors: Huaisheng Wang, Longtao Shang, Mingxiang Wang 等\n   https://doi.org/10.1109/led.2026.3697137\n3. [Science Advances] Large-area, photo-programmable 2D semiconductors with chromic molecular functionalization\n   关键词：semiconductor\n   日期：2026-07-03\n   Authors: Jaehoon Ji, Yin Liang, Jinpeng Tian 等\n   https://doi.org/10.1126/sciadv.aee1510\n4. [arXiv] Growth optimization of shallow Ge quantum wells grown by molecular beam epitaxy\n   关键词：epitaxy\n   日期：2026-06-30\n   Authors: J. T. Dong, J. P. Thompson, R. Card 等\n   https://arxiv.org/abs/2606.31540v1\n5. [arXiv] Role of polarity in the growth of cubic GaN within silicon inverted pyramids\n   关键词：GaN\n   日期：2026-06-30\n   Authors: David Lister, Melissa Radford, Sara Fortin 等\n   https://arxiv.org/abs/2606.30924v1",
   "papers": [
     {
       "source": "IEEE Electron Device Letters",
@@ -27,8 +27,8 @@
         "TSMC",
         "MOSFET"
       ],
-      "abstract_cn": "为促进大规模集成神经形态计算硬件的快速实现，我们对标准 TSMC 65 nm 体硅 n 型 MOSFET 进行了实验表征，重点研究其在浮置衬底条件下工作至 4 K 时的突触行为。在 4 K 下，该器件表现出近似对称的增强和抑制特性，分别通过 49 个和 53 个脉宽为 100 ns 的编程脉冲实现，提取的非线性因子分别为 0.35 和 0.49。使用不同幅值的 500 ns 编程脉冲可获得四个定义良好的电流态。该器件表现出短时可塑性；随后，编程态稳定到清晰可区分的电流水平，并且在无需刷新的情况下可保持超过 10^3 s。此外，该器件在连续 10^3 次开关循环中表现出较小的循环间变化。这些结果表明，该器件有望成为未来低温神经形态计算系统的一种短期可行方案。",
-      "abstract_zh": "为促进大规模集成神经形态计算硬件的快速实现，我们对标准 TSMC 65 nm 体硅 n 型 MOSFET 进行了实验表征，重点研究其在浮置衬底条件下工作至 4 K 时的突触行为。在 4 K 下，该器件表现出近似对称的增强和抑制特性，分别通过 49 个和 53 个脉宽为 100 ns 的编程脉冲实现，提取的非线性因子分别为 0.35 和 0.49。使用不同幅值的 500 ns 编程脉冲可获得四个定义良好的电流态。该器件表现出短时可塑性；随后，编程态稳定到清晰可区分的电流水平，并且在无需刷新的情况下可保持超过 10^3 s。此外，该器件在连续 10^3 次开关循环中表现出较小的循环间变化。这些结果表明，该器件有望成为未来低温神经形态计算系统的一种短期可行方案。",
+      "abstract_cn": "为促进大规模集成神经形态计算硬件的快速实现，我们对标准 TSMC 65 nm 体硅 n 型 MOSFET 进行了实验表征，重点研究其在浮置衬底条件下工作至 4 K 时的突触行为。在 4 K 下，该器件表现出近似对称的增强和抑制特性，分别通过 49 个和 53 个脉宽为 100 ns 的编程脉冲实现，提取的非线性因子分别为 0.35 和 0.49。使用不同幅值的 500 ns 编程脉冲可获得四个定义明确的电流态。该器件表现出短时可塑性；随后，编程态稳定到清晰可区分的电流水平，并且在无需刷新的情况下可保持超过 10^3 s。此外，该器件在连续 10^3 次开关循环中表现出较小的循环间变化。这些结果表明，该器件有望成为未来低温神经形态计算系统的一种短期可行方案。",
+      "abstract_zh": "为促进大规模集成神经形态计算硬件的快速实现，我们对标准 TSMC 65 nm 体硅 n 型 MOSFET 进行了实验表征，重点研究其在浮置衬底条件下工作至 4 K 时的突触行为。在 4 K 下，该器件表现出近似对称的增强和抑制特性，分别通过 49 个和 53 个脉宽为 100 ns 的编程脉冲实现，提取的非线性因子分别为 0.35 和 0.49。使用不同幅值的 500 ns 编程脉冲可获得四个定义明确的电流态。该器件表现出短时可塑性；随后，编程态稳定到清晰可区分的电流水平，并且在无需刷新的情况下可保持超过 10^3 s。此外，该器件在连续 10^3 次开关循环中表现出较小的循环间变化。这些结果表明，该器件有望成为未来低温神经形态计算系统的一种短期可行方案。",
       "overview_cn": "Focus: MOSFET.\nWhat to check: 可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Synaptic Behaviors in a Commercial Bulk Silicon MOSFET at Cryogenic Temperature.",
       "reading_notes": "Focus: MOSFET.\nWhat to check: 可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Synaptic Behaviors in a Commercial Bulk Silicon MOSFET at Cryogenic Temperature."
     },
@@ -81,8 +81,8 @@
         "MOSFET",
         "GaN"
       ],
-      "abstract_cn": "我们展示了采用混合边缘终端（hybrid edge termination, HET）的 1600 V 垂直 GaN-on-GaN 沟槽 MOSFET（HET-MOSFET），该结构集成了氮离子注入（nitrogen ion implantation, NIT）和台面刻蚀终端（mesa etching termination, MET）。NIT 结构引入电阻区域以缓解器件边缘的电场拥挤，而 MET 结构则抑制与单独 NIT 方案相关的潜在漏电路径。因此，击穿电压从 MET-MOSFET 中的 400 V 提高到 HET-MOSFET 中的 1628 V。此外，得益于定制的 p-GaN 沟道层设计，HET-MOSFET 表现出较低的比导通电阻（RON,sp）0.75 mΩ·cm2，以及 151 cm2/V·s 的沟道迁移率（μCH）。这些结果凸显了垂直 GaN 沟槽 MOSFET 用于高压和高功率电子器件的可行性。",
-      "abstract_zh": "我们展示了采用混合边缘终端（hybrid edge termination, HET）的 1600 V 垂直 GaN-on-GaN 沟槽 MOSFET（HET-MOSFET），该结构集成了氮离子注入（nitrogen ion implantation, NIT）和台面刻蚀终端（mesa etching termination, MET）。NIT 结构引入电阻区域以缓解器件边缘的电场拥挤，而 MET 结构则抑制与单独 NIT 方案相关的潜在漏电路径。因此，击穿电压从 MET-MOSFET 中的 400 V 提高到 HET-MOSFET 中的 1628 V。此外，得益于定制的 p-GaN 沟道层设计，HET-MOSFET 表现出较低的比导通电阻（RON,sp）0.75 mΩ·cm2，以及 151 cm2/V·s 的沟道迁移率（μCH）。这些结果凸显了垂直 GaN 沟槽 MOSFET 用于高压和高功率电子器件的可行性。",
+      "abstract_cn": "我们展示了采用混合边缘终端（hybrid edge termination, HET）的 1600 V 垂直 GaN-on-GaN 沟槽 MOSFET（HET-MOSFET），该结构集成了氮离子注入（nitrogen ion implantation, NIT）和台面刻蚀终端（mesa etching termination, MET）。NIT 结构引入电阻性区域以缓解器件边缘的电场拥挤，而 MET 结构则抑制与单独 NIT 方案相关的潜在漏电路径。因此，击穿电压从 MET-MOSFET 中的 400 V 提高到 HET-MOSFET 中的 1628 V。此外，得益于定制的 p-GaN 沟道层设计，HET-MOSFET 表现出较低的比导通电阻（RON,sp）0.75 mΩ·cm2，以及 151 cm2/V·s 的沟道迁移率（μCH）。这些结果凸显了垂直 GaN 沟槽 MOSFET 用于高压和高功率电子器件的可行性。",
+      "abstract_zh": "我们展示了采用混合边缘终端（hybrid edge termination, HET）的 1600 V 垂直 GaN-on-GaN 沟槽 MOSFET（HET-MOSFET），该结构集成了氮离子注入（nitrogen ion implantation, NIT）和台面刻蚀终端（mesa etching termination, MET）。NIT 结构引入电阻性区域以缓解器件边缘的电场拥挤，而 MET 结构则抑制与单独 NIT 方案相关的潜在漏电路径。因此，击穿电压从 MET-MOSFET 中的 400 V 提高到 HET-MOSFET 中的 1628 V。此外，得益于定制的 p-GaN 沟道层设计，HET-MOSFET 表现出较低的比导通电阻（RON,sp）0.75 mΩ·cm2，以及 151 cm2/V·s 的沟道迁移率（μCH）。这些结果凸显了垂直 GaN 沟槽 MOSFET 用于高压和高功率电子器件的可行性。",
       "overview_cn": "Focus: MOSFET、GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: 1.6-kV Vertical GaN Power MOSFETs With Hybrid Edge Termination.",
       "reading_notes": "Focus: MOSFET、GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: 1.6-kV Vertical GaN Power MOSFETs With Hybrid Edge Termination."
     },
@@ -116,8 +116,8 @@
         "transistor",
         "GaN"
       ],
-      "abstract_cn": "AlGaN/GaN 多沟道超晶格城堡式场效应晶体管（Super Lattice Castellated Field Effect Transistors, SLCFETs）已展现出面向下一代射频应用的巨大潜力。我们通过用高热导率 AlN 缓冲层替代标准 AlGaN 缓冲层，并添加多晶金刚石覆盖层，在 AlGaN/GaN 多沟道 SLCFET 中实现了热阻降低 2.44 倍。器件堆叠中每种材料的热导率均采用时域和频域热反射技术测量，其中 2.2 μm 厚 AlN 缓冲层的热导率为 223^{+21}_{-18} W/m·K，而参考 1.8 μm AlGaN 缓冲层的热导率为 38^{+5.5}_{-5} W/m·K。结合 AlN 缓冲层和多晶金刚石覆盖层后，利用 Raman 热成像和三维热仿真确定器件热阻从 29 mm°C/W 降至 11.9 mm°C/W。由改进热管理带来的相应 2.44 倍射频功率密度能力提升，有望释放下一代超高功率射频器件的潜力。",
-      "abstract_zh": "AlGaN/GaN 多沟道超晶格城堡式场效应晶体管（Super Lattice Castellated Field Effect Transistors, SLCFETs）已展现出面向下一代射频应用的巨大潜力。我们通过用高热导率 AlN 缓冲层替代标准 AlGaN 缓冲层，并添加多晶金刚石覆盖层，在 AlGaN/GaN 多沟道 SLCFET 中实现了热阻降低 2.44 倍。器件堆叠中每种材料的热导率均采用时域和频域热反射技术测量，其中 2.2 μm 厚 AlN 缓冲层的热导率为 223^{+21}_{-18} W/m·K，而参考 1.8 μm AlGaN 缓冲层的热导率为 38^{+5.5}_{-5} W/m·K。结合 AlN 缓冲层和多晶金刚石覆盖层后，利用 Raman 热成像和三维热仿真确定器件热阻从 29 mm°C/W 降至 11.9 mm°C/W。由改进热管理带来的相应 2.44 倍射频功率密度能力提升，有望释放下一代超高功率射频器件的潜力。",
+      "abstract_cn": "AlGaN/GaN 多沟道超晶格城堡式场效应晶体管（Super Lattice Castellated Field Effect Transistors, SLCFETs）已展现出面向下一代射频应用的巨大潜力。我们通过用高热导率 AlN 缓冲层替代标准 AlGaN 缓冲层，并添加多晶金刚石覆盖层，在 AlGaN/GaN 多沟道 SLCFET 中实现了热阻降低 2.44 倍。器件堆叠中每种材料的热导率均采用时域和频域热反射技术测量，其中 2.2 μm 厚 AlN 缓冲层的热导率为 223(+21/-18) W/m·K，而参考 1.8 μm AlGaN 缓冲层的热导率为 38(+5.5/-5) W/m·K。结合 AlN 缓冲层和多晶金刚石覆盖层后，利用 Raman 热成像和三维热仿真确定器件热阻从 29 mm°C/W 降至 11.9 mm°C/W。由改进热管理带来的相应 2.44 倍射频功率密度能力提升，有望释放下一代超高功率射频器件的潜力。",
+      "abstract_zh": "AlGaN/GaN 多沟道超晶格城堡式场效应晶体管（Super Lattice Castellated Field Effect Transistors, SLCFETs）已展现出面向下一代射频应用的巨大潜力。我们通过用高热导率 AlN 缓冲层替代标准 AlGaN 缓冲层，并添加多晶金刚石覆盖层，在 AlGaN/GaN 多沟道 SLCFET 中实现了热阻降低 2.44 倍。器件堆叠中每种材料的热导率均采用时域和频域热反射技术测量，其中 2.2 μm 厚 AlN 缓冲层的热导率为 223(+21/-18) W/m·K，而参考 1.8 μm AlGaN 缓冲层的热导率为 38(+5.5/-5) W/m·K。结合 AlN 缓冲层和多晶金刚石覆盖层后，利用 Raman 热成像和三维热仿真确定器件热阻从 29 mm°C/W 降至 11.9 mm°C/W。由改进热管理带来的相应 2.44 倍射频功率密度能力提升，有望释放下一代超高功率射频器件的潜力。",
       "overview_cn": "Focus: 晶体管、GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Enhanced Thermal Management in GaN Superlattice Castellated Field Effect Transistors.",
       "reading_notes": "Focus: 晶体管、GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Enhanced Thermal Management in GaN Superlattice Castellated Field Effect Transistors."
     },
@@ -151,6 +151,32 @@
       "abstract_zh": "传统铁电光电子器件由于铁电过程与光电转换过程在物理上分离，存在光电流低和保持性差的问题。通过将 PVN 引入铁电 P(VDF-TrFE) 层，该复合材料不仅提供极化场，还直接参与光吸收和光激发，从而显著抑制载流子复合，并从根本上解决传统铁电光突触的局限。因此，所制备晶体管表现出约 58 V 的大存储窗口，以及超过 10^4 s 的非易失保持特性。得益于源自铁电—光生载流子相互作用的非线性和历史依赖动力学，本文实现了一种传感器内储备池计算系统，用于紫外激发指纹识别，训练和测试准确率分别达到 99.5% 和 98.5%。本工作揭示了一种铁电—光敏协同机制，为面向能效型神经形态视觉硬件提供了一条可行路径。",
       "overview_cn": "Focus: 晶体管、铁电材料.\nWhat to check: 功耗或能效表现.\nContext: Single-Layer Ferroelectric-Photosensitive Optoelectronic Transistor Enabling In-Sensor UV Finge….",
       "reading_notes": "Focus: 晶体管、铁电材料.\nWhat to check: 功耗或能效表现.\nContext: Single-Layer Ferroelectric-Photosensitive Optoelectronic Transistor Enabling In-Sensor UV Finge…."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2606.31217v1",
+      "title": "High-Mobility and High-Reliability Top-Gate Oxide Semiconductor Transistors by Oxygen Engineering",
+      "url": "https://arxiv.org/abs/2606.31217v1",
+      "published": "2026-06-30",
+      "authors": [
+        "Kai Jiang",
+        "Zhiyu Lin",
+        "Ziheng Wang",
+        "Chen Wang",
+        "Mengwei Si"
+      ],
+      "summary": "In this work, we investigate the role of oxygen (O) on the performance of top-gate (TG) atomic-layer-deposited (ALD) oxide semiconductor transistors. The results reveal distinct defect characteristics and positive bias temperature instability (PBTI) degradation mechanisms between oxygen-rich (O-rich) and oxygen-deficient (O-poor) devices. It is found that an O-rich device fabrication process followed by O-free annealing can effectively achieve TG indium-rich (In-rich) oxide semiconductor transistors with high mobility, high reliability and high stability in hydrogen environment because O-rich process can suppress oxygen vacancies and their interaction with hydrogen, while O-free annealing plays a critical role in minimizing the formation of O-rich defects such as oxygen dimers (O-O bonds). Consequently, TG In-rich transistors with high mobility, steep subthreshold slope, and high PBTI reliability at high temperature are demonstrated. The understanding of O-rich defects provides a new insight to overcome the mobility-stability trade-off.",
+      "score": 10,
+      "priority": 2,
+      "highlights": [
+        "transistor",
+        "semiconductor",
+        "oxide semiconductor"
+      ],
+      "abstract_cn": "在本工作中，我们研究了氧（O）对顶栅（top-gate, TG）原子层沉积（ALD）氧化物半导体晶体管性能的作用。结果揭示了富氧（O-rich）器件和缺氧（O-poor）器件之间不同的缺陷特征以及正偏压温度不稳定性（positive bias temperature instability, PBTI）退化机制。研究发现，采用富氧器件制造工艺并随后进行无氧退火，可以有效实现具有高迁移率、高可靠性以及在氢环境中高稳定性的 TG 富铟（In-rich）氧化物半导体晶体管，因为富氧工艺可以抑制氧空位及其与氢的相互作用，而无氧退火在最大限度减少富氧缺陷（如氧二聚体，O-O 键）形成方面起关键作用。因此，本文展示了具有高迁移率、陡峭亚阈值斜率和高温下高 PBTI 可靠性的 TG 富铟晶体管。对富氧缺陷的理解为克服迁移率—稳定性权衡提供了新的认识。",
+      "abstract_zh": "在本工作中，我们研究了氧（O）对顶栅（top-gate, TG）原子层沉积（ALD）氧化物半导体晶体管性能的作用。结果揭示了富氧（O-rich）器件和缺氧（O-poor）器件之间不同的缺陷特征以及正偏压温度不稳定性（positive bias temperature instability, PBTI）退化机制。研究发现，采用富氧器件制造工艺并随后进行无氧退火，可以有效实现具有高迁移率、高可靠性以及在氢环境中高稳定性的 TG 富铟（In-rich）氧化物半导体晶体管，因为富氧工艺可以抑制氧空位及其与氢的相互作用，而无氧退火在最大限度减少富氧缺陷（如氧二聚体，O-O 键）形成方面起关键作用。因此，本文展示了具有高迁移率、陡峭亚阈值斜率和高温下高 PBTI 可靠性的 TG 富铟晶体管。对富氧缺陷的理解为克服迁移率—稳定性权衡提供了新的认识。",
+      "overview_cn": "Focus: 晶体管、半导体、oxide semiconductor.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: High-Mobility and High-Reliability Top-Gate Oxide Semiconductor Transistors by Oxygen Engineeri….",
+      "reading_notes": "Focus: 晶体管、半导体、oxide semiconductor.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: High-Mobility and High-Reliability Top-Gate Oxide Semiconductor Transistors by Oxygen Engineeri…."
     },
     {
       "source": "IEEE Electron Device Letters",
@@ -214,33 +240,11 @@
       "abstract_zh": "在本文中，我们报道了 S 波段 AlGaN/GaN 异质结双极晶体管（heterojunction bipolar transistors, HBTs）的实验展示，其在 2.4 GHz 下实现了 16.5 kW/cm2 的射频输出功率密度和 6.7% 的功率附加效率（power-added efficiency, PAE）。这一里程碑式成果得益于：1）在无刻蚀损伤的选择区域生长（selective-area-grown, SAG）发射极平台上实现了 2.17×10^-3 Ω·cm2 的低基极欧姆接触电阻（RB-M）；2）采用高深宽比发射极（3×80 μm2）以降低发射极接触电阻（RE-M），从而最小化导通电阻并提升功率输出能力；以及 3）通过尺寸缩小降低外延基区电阻（RBx）。受益于这些寄生电阻的降低，对于基极接触—发射极间距 WBE 分别为 2 μm 和 1 μm 的器件，实现了 30.5/4.19 GHz 和 18.2/7.01 GHz 的 fT/fmax。值得注意的是，据我们所知，fT = 30.5 GHz 和 fmax = 7.01 GHz 是目前 GaN HBT 报道中的最高值。进一步缩放预计将提升 fmax 并显著提高 PAE，使基于 GaN HBT 的高功率、高效率 S 波段功率放大器即将成为现实。",
       "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、效率/耦合表现、先进尺度下的可扩展性.\nContext: Experimental Demonstration of S-Band Gallium Nitride Heterojunction Bipolar Transistors With <i….",
       "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、效率/耦合表现、先进尺度下的可扩展性.\nContext: Experimental Demonstration of S-Band Gallium Nitride Heterojunction Bipolar Transistors With <i…."
-    },
-    {
-      "source": "IEEE Electron Device Letters",
-      "uid": "doi:10.1109/led.2026.3688434",
-      "title": "A Compact Model of Moiré Synaptic Transistor",
-      "url": "https://doi.org/10.1109/led.2026.3688434",
-      "published": "2026-07-01",
-      "authors": [
-        "Guoting Cheng",
-        "Xiaodong Yan",
-        "Jing Guo"
-      ],
-      "summary": "Moiré Synaptic Transistors (MSTs) based on asymmetric two-dimensional heterostructures have recently been experimentally demonstrated as an emerging device platform for ultra-low-power, non-volatile, and biorealistic neuromorphic computing. In this Letter, we develop a compact model for the MST based on its device physics. The model combines a gate electrostatics framework that self-consistently accounts for both localized moiré electrons at the heterointerface and free carriers in the channel with an ambipolar transport model for the graphene channel of the transistor. The model reproduces key experimentally observed neuromorphic device characteristics, including ratchet-like DC hysteretic current-voltage relation and static synaptic threshold sliding enabled by dual-gate operation. The asymmetric moiré heterostructure under dual-gate control supports robust electronic ratchet states, giving rise to hysteretic, non-volatile I–V characteristics when one gate is swept, with the features tunable by the other gate. By explicitly capturing the electrostatic screening and charge dynamics associated with the localized moiré electron system, the model provides physical insight into the operating mechanisms of MSTs.",
-      "score": 11,
-      "priority": 1,
-      "highlights": [
-        "transistor"
-      ],
-      "abstract_cn": "基于非对称二维异质结构的莫尔突触晶体管（Moiré Synaptic Transistors, MSTs）近期已在实验上被证明是一种新兴器件平台，可用于超低功耗、非易失且生物真实感的神经形态计算。在本文中，我们基于 MST 的器件物理建立了一个紧凑模型。该模型结合了一个栅极静电框架和一个用于晶体管石墨烯沟道的双极性输运模型；前者自洽地考虑了异质界面处的局域莫尔电子以及沟道中的自由载流子。该模型再现了实验观察到的关键神经形态器件特性，包括类似棘轮的直流滞回血流—电压关系，以及由双栅操作实现的静态突触阈值滑移。在双栅控制下，非对称莫尔异质结构支持稳健的电子棘轮态，当扫描一个栅极时会产生滞回、非易失 I–V 特性，而这些特征可由另一个栅极调节。通过显式捕捉与局域莫尔电子体系相关的静电屏蔽和电荷动力学，该模型为 MST 的工作机制提供了物理认识。",
-      "abstract_zh": "基于非对称二维异质结构的莫尔突触晶体管（Moiré Synaptic Transistors, MSTs）近期已在实验上被证明是一种新兴器件平台，可用于超低功耗、非易失且生物真实感的神经形态计算。在本文中，我们基于 MST 的器件物理建立了一个紧凑模型。该模型结合了一个栅极静电框架和一个用于晶体管石墨烯沟道的双极性输运模型；前者自洽地考虑了异质界面处的局域莫尔电子以及沟道中的自由载流子。该模型再现了实验观察到的关键神经形态器件特性，包括类似棘轮的直流滞回血流—电压关系，以及由双栅操作实现的静态突触阈值滑移。在双栅控制下，非对称莫尔异质结构支持稳健的电子棘轮态，当扫描一个栅极时会产生滞回、非易失 I–V 特性，而这些特征可由另一个栅极调节。通过显式捕捉与局域莫尔电子体系相关的静电屏蔽和电荷动力学，该模型为 MST 的工作机制提供了物理认识。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 可靠性与稳定性.\nContext: A Compact Model of Moiré Synaptic Transistor.",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 可靠性与稳定性.\nContext: A Compact Model of Moiré Synaptic Transistor."
     }
   ],
   "errors": [],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-07-01T00:30:00+00:00"
+  "generated_at": "2026-07-02T00:30:00+00:00"
 }
