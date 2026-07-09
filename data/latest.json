@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 3,
+  "new_count": 5,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-07-08）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 3 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Classical Reversible Computation by Quantum Coherence\n   日期：2026-07-07\n   Authors: Daniel Loss\n   https://arxiv.org/abs/2607.06219v1\n2. [arXiv] Anomalous Piezoelectricity from Polarization-Dependent Electrostriction in Wurtzites\n   日期：2026-07-07\n   Authors: Guo-Dong Zhao, Aiden Ross, Yueze Tan 等\n   https://arxiv.org/abs/2607.05854v1\n3. [arXiv] Engineering Disordered Many-particle Plasmonic Nanoclusters for Wafer-scale Uniform and Gia…\n   关键词：wafer\n   日期：2026-07-07\n   Authors: Minjun Kim, Vasanthan Devaraj, Hyeon-Seok Seo 等\n   https://arxiv.org/abs/2607.06003v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-07-09）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 5 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Monolithic GaN Systems Combining Non-Volatile Memory and Analog Computing via Area-Ratio-En…\n   关键词：ferroelectric, GaN\n   日期：2026-07-09\n   Authors: Hyeong Jun Joo, Jong Min Park, Kieran Barrett-Snyder 等\n   https://arxiv.org/abs/2607.07577v1\n2. [Nature Materials] Wafer-scale growth of highly stable p-type semiconducting monolayer MoSi<sub>2</sub>N<sub>4…\n   关键词：wafer\n   日期：2026-07-08\n   https://www.nature.com/articles/s41563-026-02669-5\n3. [arXiv] Growth of (111)-textured SrTiO3 thin films on Pt(111)/Al2O3(1-102) substrates by rf magnetr…\n   关键词：deposition\n   日期：2026-07-08\n   Authors: Ekaterina Taylor, Ethan R. Cronk, Kalani Perera 等\n   https://arxiv.org/abs/2607.07428v1\n4. [arXiv] Optimizing high-temperature electron mobility in single-crystal Bi$_2$O$_2$Se based on its …\n   日期：2026-07-08\n   Authors: Antonín Sojka, Petr Knotek, Jan Zich 等\n   https://arxiv.org/abs/2607.07384v1\n5. [arXiv] A modified Moss rule highlights underexplored classes of high refractive index materials\n   日期：2026-07-08\n   Authors: Eugène Bertin, Finja Tadge, Andrea Crovetto\n   https://arxiv.org/abs/2607.07086v1",
   "papers": [
     {
       "source": "arXiv",
@@ -135,32 +135,29 @@
       "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: High-temperature operation of III-nitride high-electron-mobility transistors."
     },
     {
-      "source": "Science Advances",
-      "uid": "doi:10.1126/sciadv.aee1510",
-      "title": "Large-area, photo-programmable 2D semiconductors with chromic molecular functionalization",
-      "url": "https://doi.org/10.1126/sciadv.aee1510",
-      "published": "2026-07-03",
+      "source": "arXiv",
+      "uid": "arxiv:2607.07577v1",
+      "title": "Monolithic GaN Systems Combining Non-Volatile Memory and Analog Computing via Area-Ratio-Engineered Ferroelectric AlScN Gate Stacks",
+      "url": "https://arxiv.org/abs/2607.07577v1",
+      "published": "2026-07-09",
       "authors": [
-        "Jaehoon Ji",
-        "Yin Liang",
-        "Jinpeng Tian",
-        "Jingtao Tan",
-        "Jaerin Kim",
-        "Satya Butler",
-        "Haining Mao",
-        "Gloria Liu",
-        "Saien Xie"
+        "Hyeong Jun Joo",
+        "Jong Min Park",
+        "Kieran Barrett-Snyder",
+        "Brendan Hanrahan",
+        "Geonwook Yoo"
       ],
-      "summary": "Reconfigurable electronics expands device functionality and promises previously unknown computing paradigms, as the channel layer characteristics can be dynamically controlled. Two-dimensional semiconductors coupled with photo-responsive chromic molecules offer a compelling route as atomically thin channels are highly sensitive to molecular conformation changes. However, most demonstrations have been limited to microscale single-flake devices, limiting scalability and technological relevance. Here, we report an optically reconfigurable platform integrating centimeter-scale monolayer WS 2 and WSe 2 with an azobenzene (Azo) overlayer. Wavelength-selective trans-cis Azo photoisomerization generates a reversible interfacial dipole that serves as an optical gate, enabling precise and uniform modulation of both electron and hole densities (~2.5 × 10 12 cm −2 ) over large areas. This optical actuation further supports spatially programmable patterning of optoelectronic properties and delivers repeatable modulation across large transistor arrays. Together, these results establish a scalable smart materials platform for reconfigurable optoelectronics that is light-programmable.",
-      "score": 8,
+      "summary": "Gallium nitride (GaN) transistors have become the platform of choice for power electronics and radio-frequency power amplifiers. To unlock capabilities beyond those of conventional GaN, integrating ferroelectric heterostructure has been considered toward memory, logic and reconfigurable systems. Here, we demonstrate ferroelectric GaN transistors employing an AlScN-based gate stack in which systematic engineering of the area-ratio (SMIS/SMFM) provides unified control over both memory and analog functionality. Precise modulation of the intermediate electrode length yields a record memory window of 27 V and a forward subthreshold swing of 27 mV/dec, driven by ferroelectric polarization reversal of a robust downward-polarization state pre-induced by two-dimensional electron gas. Low area-ratio devices (SMIS/SMFM = 1, 2) achieve 4-bit multi-level cell operation and excellent spatial uniformity across a fabricated 4 x 4 array, benchmarking favorably against established silicon and oxide ferroelectric architectures. High area-ratio devices (SMIS/SMFM = 4, 8) harness continuously tunable conductance states to demonstrate multi-state inverters and the first GaN-based ferroelectric frequency-to-voltage converter, delivering a linear frequency-voltage response across 0.5 - 500 Hz range with a conversion gain of 1.1 mV/Hz. This work establishes routes towards monolithically integrated GaN systems that combine non-volatile memory and analog signal processing on a platform inherently suited to high-power and radio-frequency applications.",
+      "score": 9,
       "priority": 0,
       "highlights": [
-        "semiconductor"
+        "ferroelectric",
+        "GaN"
       ],
-      "abstract_cn": "可重构电子学扩展了器件功能，并有望实现此前未知的计算范式，因为沟道层特性可以被动态控制。二维半导体与光响应变色分子耦合提供了一条很有吸引力的路径，因为原子级薄沟道对分子构象变化高度敏感。然而，大多数演示仍局限于微米尺度的单片剥离器件，限制了可扩展性和技术相关性。本文报道了一种光学可重构平台，将厘米尺度单层 WS2 和 WSe2 与偶氮苯（azobenzene, Azo）覆盖层集成在一起。波长选择性的 Azo 反式—顺式光异构化产生可逆界面偶极，该偶极充当光学栅极，使电子和空穴密度都能够在大面积范围内被精确且均匀地调制（约 2.5 × 10^12 cm^-2）。这种光学驱动进一步支持光电子性质的空间可编程图案化，并在大规模晶体管阵列中实现可重复调制。综上，这些结果确立了一种可扩展的智能材料平台，用于可由光编程的可重构光电子学。",
-      "abstract_zh": "可重构电子学扩展了器件功能，并有望实现此前未知的计算范式，因为沟道层特性可以被动态控制。二维半导体与光响应变色分子耦合提供了一条很有吸引力的路径，因为原子级薄沟道对分子构象变化高度敏感。然而，大多数演示仍局限于微米尺度的单片剥离器件，限制了可扩展性和技术相关性。本文报道了一种光学可重构平台，将厘米尺度单层 WS2 和 WSe2 与偶氮苯（azobenzene, Azo）覆盖层集成在一起。波长选择性的 Azo 反式—顺式光异构化产生可逆界面偶极，该偶极充当光学栅极，使电子和空穴密度都能够在大面积范围内被精确且均匀地调制（约 2.5 × 10^12 cm^-2）。这种光学驱动进一步支持光电子性质的空间可编程图案化，并在大规模晶体管阵列中实现可重复调制。综上，这些结果确立了一种可扩展的智能材料平台，用于可由光编程的可重构光电子学。",
-      "overview_cn": "Focus: 半导体.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Large-area, photo-programmable 2D semiconductors with chromic molecular functionalization.",
-      "reading_notes": "Focus: 半导体.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Large-area, photo-programmable 2D semiconductors with chromic molecular functionalization."
+      "abstract_cn": "氮化镓（GaN）晶体管已成为功率电子和射频功率放大器的首选平台。为释放超越传统 GaN 的能力，人们一直考虑集成铁电异质结构，以面向存储、逻辑和可重构系统。本文展示了采用 AlScN 基栅堆叠的铁电 GaN 晶体管，其中通过对面积比（SMIS/SMFM）进行系统工程化设计，可对存储和模拟功能实现统一控制。通过精确调制中间电极长度，获得了创纪录的 27 V 存储窗口和 27 mV/dec 的正向亚阈值摆幅，这由二维电子气预先诱导的稳健向下极化态发生铁电极化反转所驱动。低面积比器件（SMIS/SMFM = 1, 2）实现了 4-bit 多级单元工作，并在制备的 4 × 4 阵列中表现出优异的空间均匀性，相较于成熟的硅和氧化物铁电架构具有有利的基准表现。高面积比器件（SMIS/SMFM = 4, 8）利用连续可调电导态展示了多态反相器以及首个基于 GaN 的铁电频率—电压转换器，在 0.5–500 Hz 范围内实现线性频率—电压响应，转换增益为 1.1 mV/Hz。本工作确立了单片集成 GaN 系统的发展路径，可在一个本征适用于高功率和射频应用的平台上结合非易失存储与模拟信号处理。",
+      "abstract_zh": "氮化镓（GaN）晶体管已成为功率电子和射频功率放大器的首选平台。为释放超越传统 GaN 的能力，人们一直考虑集成铁电异质结构，以面向存储、逻辑和可重构系统。本文展示了采用 AlScN 基栅堆叠的铁电 GaN 晶体管，其中通过对面积比（SMIS/SMFM）进行系统工程化设计，可对存储和模拟功能实现统一控制。通过精确调制中间电极长度，获得了创纪录的 27 V 存储窗口和 27 mV/dec 的正向亚阈值摆幅，这由二维电子气预先诱导的稳健向下极化态发生铁电极化反转所驱动。低面积比器件（SMIS/SMFM = 1, 2）实现了 4-bit 多级单元工作，并在制备的 4 × 4 阵列中表现出优异的空间均匀性，相较于成熟的硅和氧化物铁电架构具有有利的基准表现。高面积比器件（SMIS/SMFM = 4, 8）利用连续可调电导态展示了多态反相器以及首个基于 GaN 的铁电频率—电压转换器，在 0.5–500 Hz 范围内实现线性频率—电压响应，转换增益为 1.1 mV/Hz。本工作确立了单片集成 GaN 系统的发展路径，可在一个本征适用于高功率和射频应用的平台上结合非易失存储与模拟信号处理。",
+      "overview_cn": "Focus: 铁电材料、GaN.\nWhat to check: 可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Monolithic GaN Systems Combining Non-Volatile Memory and Analog Computing via Area-Ratio-Engine….",
+      "reading_notes": "Focus: 铁电材料、GaN.\nWhat to check: 可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Monolithic GaN Systems Combining Non-Volatile Memory and Analog Computing via Area-Ratio-Engine…."
     },
     {
       "source": "arXiv",
@@ -201,5 +198,5 @@
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-07-08T00:30:00+00:00"
+  "generated_at": "2026-07-09T00:30:00+00:00"
 }
