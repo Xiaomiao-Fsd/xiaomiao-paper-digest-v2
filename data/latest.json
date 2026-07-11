@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 7,
+  "new_count": 0,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-07-10）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 7 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Monolithic GaN Systems Combining Non-Volatile Memory and Analog Computing via Area-Ratio-En…\n   关键词：ferroelectric, GaN\n   日期：2026-07-09\n   Authors: Hyeong Jun Joo, Jong Min Park, Kieran Barrett-Snyder 等\n   https://arxiv.org/abs/2607.07577v2\n2. [arXiv] Classical Reversible Computation by Quantum Coherence\n   日期：2026-07-07\n   Authors: Daniel Loss\n   https://arxiv.org/abs/2607.06219v2\n3. [arXiv] Physical aging of glasses of an organic semiconductor\n   关键词：semiconductor\n   日期：2026-07-10\n   Authors: Shinian Cheng, Kritika Jha, Zijian Wang 等\n   https://arxiv.org/abs/2607.08653v1\n4. [arXiv] Polycrystalline ferroelectric croconic acid for multisource environmental energy harvesting\n   关键词：ferroelectric\n   日期：2026-07-09\n   Authors: Gloria P. Moreno-Martínez, Hari K. Mishra, Xabier García-Casas 等\n   https://arxiv.org/abs/2607.08361v1\n5. [arXiv] Large-scale first-principle simulations of amorphous indium oxide\n   日期：2026-07-09\n   Authors: Matthew Bousquet, Francois Gygi, Giulia Galli\n   https://arxiv.org/abs/2607.08617v1\n6. [arXiv] Microwave Studies of Single Crystal TeO2 at Cryogenic Temperatures\n   日期：2026-07-10\n   Authors: Timothy Holt, Maxim Goryachev, William Campbell 等\n   https://arxiv.org/abs/2607.08668v1\n7. [arXiv] Best Practices for First-Principles Modeling of Amorphous Oxide Semiconductors: A Statistic…\n   关键词：semiconductor\n   日期：2026-07-10\n   Authors: Michiel J. van Setten, Tonglin L. Newsom, Christopher Pashartis 等\n   https://arxiv.org/abs/2607.08667v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-07-11）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] A Unified Electrostatic-to-Spin Framework for Asymmetric Multi-Gate CMOS Quantum Devices\n   关键词：CMOS\n   日期：2026-07-06\n   Authors: Zeheng Wang, Yan Liu, Yue Hao 等\n   https://arxiv.org/abs/2607.04876v1\n2. [arXiv] High-temperature operation of III-nitride high-electron-mobility transistors\n   关键词：transistor\n   日期：2026-07-07\n   Authors: Yi-Chen Liu, Jacklyn Zhu, John Niroula 等\n   https://arxiv.org/abs/2607.05314v1\n3. [arXiv] Monolithic GaN Systems Combining Non-Volatile Memory and Analog Computing via Area-Ratio-En…\n   关键词：ferroelectric, GaN\n   日期：2026-07-09\n   Authors: Hyeong Jun Joo, Jong Min Park, Kieran Barrett-Snyder 等\n   https://arxiv.org/abs/2607.07577v2\n4. [arXiv] Classical Reversible Computation by Quantum Coherence\n   日期：2026-07-07\n   Authors: Daniel Loss\n   https://arxiv.org/abs/2607.06219v2\n5. [Nature Electronics] Out-of-plane Ruddlesden–Popper ferroelectrics catch a break\n   日期：2026-07-06\n   https://www.nature.com/articles/s41928-026-01665-6\n6. [arXiv] Physical aging of glasses of an organic semiconductor\n   关键词：semiconductor\n   日期：2026-07-10\n   Authors: Shinian Cheng, Kritika Jha, Zijian Wang 等\n   https://arxiv.org/abs/2607.08653v1\n7. [arXiv] Polycrystalline ferroelectric croconic acid for multisource environmental energy harvesting\n   关键词：ferroelectric\n   日期：2026-07-09\n   Authors: Gloria P. Moreno-Martínez, Hari K. Mishra, Xabier García-Casas 等\n   https://arxiv.org/abs/2607.08361v1\n8. [Nature Materials] Wafer-scale growth of highly stable p-type semiconducting monolayer MoSi<sub>2</sub>N<sub>4…\n   关键词：wafer\n   日期：2026-07-08\n   https://www.nature.com/articles/s41563-026-02669-5",
   "papers": [
     {
       "source": "arXiv",
@@ -26,42 +26,6 @@
       "abstract_zh": "在先进互补金属—氧化物—半导体（complementary metal-oxide-semiconductor, CMOS）量子芯片中，紧凑的栅堆叠使得难以在一个清晰的模型中将光刻几何结构、电静态限域和多电子自旋填充联系起来。这种联系是设计—技术协同优化（design-technology co-optimization, DTCO）的核心。本文为非对称多栅硅量子点器件建立了一种降阶解析框架。其电静态核心——泊松核耦合界面格林函数（Poisson-kernel coupled-interface Green-function, PK-GF）模型——对于相匹配的二维问题，无需对独立有限体积解进行拟合，即可在毫伏量级上与该解一致。随后，我们将由栅极产生的限域，而不是谐波势或拟合势，输入到一个豆形量子点的自旋—谷多体计算中，其中电子数 N = 2–17，磁场 B = 5 T。非限制性 Hartree-Fock（unrestricted Hartree-Fock, UHF）解支持占据依赖的、类似 Wigner 分子的电荷局域化，但可能高估自旋极化。完全活性空间组态相互作用（complete active-space configuration interaction, CASCI）在所测试的活性空间内支持低自旋分支，这与实验结果一致。因此，该工作流将 CMOS 版图、器件电静态和由势决定的量子可观测量联系起来，为基于 CMOS 的量子比特设计和 DTCO 提供了一层可审计的建模框架。",
       "overview_cn": "Focus: CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: A Unified Electrostatic-to-Spin Framework for Asymmetric Multi-Gate CMOS Quantum Devices.",
       "reading_notes": "Focus: CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: A Unified Electrostatic-to-Spin Framework for Asymmetric Multi-Gate CMOS Quantum Devices."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2607.03491v1",
-      "title": "Graphene Electric Double-Layer Transistors for Enhanced-Sensitivity Label-Free Detection of Human Serum Albumin",
-      "url": "https://arxiv.org/abs/2607.03491v1",
-      "published": "2026-07-04",
-      "authors": [
-        "Arslan Liaquat",
-        "Ghassem Baridi",
-        "Federico Rapuzzi",
-        "Daniele Goldoni",
-        "Vito Clerico",
-        "El Hadj Abidi",
-        "Yahya Moubarak Meziani",
-        "Mario Amado",
-        "Enrique Diez",
-        "Naveen Kumar",
-        "Camilia Coletti",
-        "Beatrice Cipriani",
-        "Hender Lopez",
-        "Giorgia Brancolini",
-        "Leonardo Martini",
-        "Luigi Rovati",
-        "Francesco Rossella"
-      ],
-      "summary": "Accurate detection of human serum albumin (HSA) is essential for the early diagnosis and monitoring of renal and hepatic disorders. We present a graphene-based electrolyte-gated field-effect transistor (EGFET) for label-free, real-time quantification of HSA under non-Faradaic operation. Devices exploit the high interfacial capacitance of the electric double layer (EDL) to transduce electrostatic perturbations induced by albumin adsorption into measurable conductance modulation. Negatively charged HSA molecules induce systematic modulation of the graphene channel, producing a concentration-dependent displacement of the Dirac voltage consistent with p-type doping. To establish a molecular-level interpretation of the sensing response, Brownian Dynamics simulations show that HSA adsorbs onto graphene through multiple adsorption orientations associated with heterogeneous interfacial charge distributions and variable dipole alignments relative to the surface. Adsorption is energetically stabilized by van der Waals interactions. Analysis of transfer characteristics across concentrations ranging from 0.01 to 30mgmL-1 reveals a correlation between surface charge density and carrier transport modulation within the electric double layer. Optimized devices exhibit a limit of detection of 0.0087 mg mL-1 and a linear dynamic range extending to 10 mg mL-1. The response remains non-Faradaic under sub-volt operation with reversible and reproducible behavior. The use of an inverse-mobility analytical metric highlights the role of disorder-enhanced carrier scattering in signal amplification, enabling sensitive electrostatic detection while preserving reversible device operation. These results establish liquid-gated graphene EGFETs as a promising platform for quantitative protein sensing and provide insight into disorder-mediated transport mechanisms in graphene bioelectronic devices.",
-      "score": 8,
-      "priority": 1,
-      "highlights": [
-        "transistor"
-      ],
-      "abstract_cn": "人血清白蛋白（human serum albumin, HSA）的准确检测对于肾脏和肝脏疾病的早期诊断与监测至关重要。我们提出了一种基于石墨烯的电解质栅控场效应晶体管（electrolyte-gated field-effect transistor, EGFET），用于在非法拉第工作条件下对 HSA 进行无标记、实时定量检测。该器件利用电双层（electric double layer, EDL）的高界面电容，将白蛋白吸附诱导的静电扰动转换为可测量的电导调制。带负电的 HSA 分子会对石墨烯沟道产生系统性调制，引起 Dirac 电压随浓度变化的位移，这与 p 型掺杂一致。为建立传感响应的分子尺度解释，布朗动力学仿真表明，HSA 通过多种吸附取向吸附在石墨烯上，这些取向与异质界面电荷分布以及相对于表面的可变偶极取向相关。吸附在能量上由范德华相互作用稳定。对 0.01 至 30 mg mL^-1 浓度范围内转移特性的分析揭示了电双层内表面电荷密度与载流子输运调制之间的相关性。优化器件表现出 0.0087 mg mL^-1 的检测限，并具有延伸至 10 mg mL^-1 的线性动态范围。在亚伏工作条件下，该响应保持非法拉第特性，并具有可逆且可重复的行为。使用反迁移率解析指标突出了无序增强载流子散射在信号放大中的作用，使器件在保持可逆工作的同时实现灵敏的静电检测。这些结果确立了液体栅控石墨烯 EGFET 作为定量蛋白质传感的有前景平台，并为石墨烯生物电子器件中的无序介导输运机制提供了认识。",
-      "abstract_zh": "人血清白蛋白（human serum albumin, HSA）的准确检测对于肾脏和肝脏疾病的早期诊断与监测至关重要。我们提出了一种基于石墨烯的电解质栅控场效应晶体管（electrolyte-gated field-effect transistor, EGFET），用于在非法拉第工作条件下对 HSA 进行无标记、实时定量检测。该器件利用电双层（electric double layer, EDL）的高界面电容，将白蛋白吸附诱导的静电扰动转换为可测量的电导调制。带负电的 HSA 分子会对石墨烯沟道产生系统性调制，引起 Dirac 电压随浓度变化的位移，这与 p 型掺杂一致。为建立传感响应的分子尺度解释，布朗动力学仿真表明，HSA 通过多种吸附取向吸附在石墨烯上，这些取向与异质界面电荷分布以及相对于表面的可变偶极取向相关。吸附在能量上由范德华相互作用稳定。对 0.01 至 30 mg mL^-1 浓度范围内转移特性的分析揭示了电双层内表面电荷密度与载流子输运调制之间的相关性。优化器件表现出 0.0087 mg mL^-1 的检测限，并具有延伸至 10 mg mL^-1 的线性动态范围。在亚伏工作条件下，该响应保持非法拉第特性，并具有可逆且可重复的行为。使用反迁移率解析指标突出了无序增强载流子散射在信号放大中的作用，使器件在保持可逆工作的同时实现灵敏的静电检测。这些结果确立了液体栅控石墨烯 EGFET 作为定量蛋白质传感的有前景平台，并为石墨烯生物电子器件中的无序介导输运机制提供了认识。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、先进尺度下的可扩展性.\nContext: Graphene Electric Double-Layer Transistors for Enhanced-Sensitivity Label-Free Detection of Hum….",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、先进尺度下的可扩展性.\nContext: Graphene Electric Double-Layer Transistors for Enhanced-Sensitivity Label-Free Detection of Hum…."
     },
     {
       "source": "arXiv",
@@ -108,8 +72,8 @@
         "ferroelectric",
         "GaN"
       ],
-      "abstract_cn": "氮化镓（GaN）晶体管已成为功率电子和射频功率放大器的首选平台。为实现超越传统 GaN 器件的功能，人们一直在考虑集成铁电异质结构，以用于存储、逻辑和可重构系统。本文展示了采用 AlScN 基栅堆叠的铁电 GaN 晶体管，其中通过对面积比（SMIS/SMFM）进行系统工程化设计，可对存储和模拟功能实现统一控制。通过精确调制中间电极长度，获得了创纪录的 27 V 存储窗口和 27 mV/dec 的正向亚阈值摆幅，这由二维电子气预先诱导的稳健向下极化态发生铁电极化反转所驱动。低面积比器件（SMIS/SMFM = 1、2）实现了 4-bit 多级单元工作，并在制备的 4 × 4 阵列中表现出优异的空间均匀性，相较于成熟的硅和氧化物铁电架构具有良好的基准性能。高面积比器件（SMIS/SMFM = 4、8）利用连续可调的电导态，展示了多态反相器以及首个基于 GaN 的铁电频率—电压转换器，在 0.5–500 Hz 范围内实现线性频率—电压响应，转换增益为 1.1 mV/Hz。本工作确立了单片集成 GaN 系统的发展路径，可在一个本征适用于高功率和射频应用的平台上结合非易失存储与模拟信号处理。",
-      "abstract_zh": "氮化镓（GaN）晶体管已成为功率电子和射频功率放大器的首选平台。为实现超越传统 GaN 器件的功能，人们一直在考虑集成铁电异质结构，以用于存储、逻辑和可重构系统。本文展示了采用 AlScN 基栅堆叠的铁电 GaN 晶体管，其中通过对面积比（SMIS/SMFM）进行系统工程化设计，可对存储和模拟功能实现统一控制。通过精确调制中间电极长度，获得了创纪录的 27 V 存储窗口和 27 mV/dec 的正向亚阈值摆幅，这由二维电子气预先诱导的稳健向下极化态发生铁电极化反转所驱动。低面积比器件（SMIS/SMFM = 1、2）实现了 4-bit 多级单元工作，并在制备的 4 × 4 阵列中表现出优异的空间均匀性，相较于成熟的硅和氧化物铁电架构具有良好的基准性能。高面积比器件（SMIS/SMFM = 4、8）利用连续可调的电导态，展示了多态反相器以及首个基于 GaN 的铁电频率—电压转换器，在 0.5–500 Hz 范围内实现线性频率—电压响应，转换增益为 1.1 mV/Hz。本工作确立了单片集成 GaN 系统的发展路径，可在一个本征适用于高功率和射频应用的平台上结合非易失存储与模拟信号处理。",
+      "abstract_cn": "氮化镓（GaN）晶体管已成为功率电子和射频功率放大器的首选平台。为实现超越传统 GaN 器件的功能，人们一直在考虑集成铁电异质结构，以用于存储、逻辑和可重构系统。本文展示了采用 AlScN 基栅堆叠的铁电 GaN 晶体管，其中通过对面积比（SMIS/SMFM）进行系统工程化设计，可对存储和模拟功能实现统一控制。通过精确调制中间电极长度，获得了创纪录的 27 V 存储窗口和 27 mV/dec 的正向亚阈值摆幅，这由二维电子气预先诱导的稳健向下极化态发生铁电极化反转所驱动。低面积比器件（SMIS/SMFM = 1, 2）实现了 4-bit 多级单元工作，并在制备的 4 × 4 阵列中表现出优异的空间均匀性，相较于成熟的硅和氧化物铁电架构具有良好的基准性能。高面积比器件（SMIS/SMFM = 4, 8）利用连续可调的电导态，展示了多态反相器以及首个基于 GaN 的铁电频率—电压转换器，在 0.5–500 Hz 范围内实现线性频率—电压响应，转换增益为 1.1 mV/Hz。本工作确立了单片集成 GaN 系统的发展路径，可在一个本征适用于高功率和射频应用的平台上结合非易失存储与模拟信号处理。",
+      "abstract_zh": "氮化镓（GaN）晶体管已成为功率电子和射频功率放大器的首选平台。为实现超越传统 GaN 器件的功能，人们一直在考虑集成铁电异质结构，以用于存储、逻辑和可重构系统。本文展示了采用 AlScN 基栅堆叠的铁电 GaN 晶体管，其中通过对面积比（SMIS/SMFM）进行系统工程化设计，可对存储和模拟功能实现统一控制。通过精确调制中间电极长度，获得了创纪录的 27 V 存储窗口和 27 mV/dec 的正向亚阈值摆幅，这由二维电子气预先诱导的稳健向下极化态发生铁电极化反转所驱动。低面积比器件（SMIS/SMFM = 1, 2）实现了 4-bit 多级单元工作，并在制备的 4 × 4 阵列中表现出优异的空间均匀性，相较于成熟的硅和氧化物铁电架构具有良好的基准性能。高面积比器件（SMIS/SMFM = 4, 8）利用连续可调的电导态，展示了多态反相器以及首个基于 GaN 的铁电频率—电压转换器，在 0.5–500 Hz 范围内实现线性频率—电压响应，转换增益为 1.1 mV/Hz。本工作确立了单片集成 GaN 系统的发展路径，可在一个本征适用于高功率和射频应用的平台上结合非易失存储与模拟信号处理。",
       "overview_cn": "Focus: 铁电材料、GaN.\nWhat to check: 可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Monolithic GaN Systems Combining Non-Volatile Memory and Analog Computing via Area-Ratio-Engine….",
       "reading_notes": "Focus: 铁电材料、GaN.\nWhat to check: 可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Monolithic GaN Systems Combining Non-Volatile Memory and Analog Computing via Area-Ratio-Engine…."
     },
@@ -196,15 +160,33 @@
       "highlights": [
         "ferroelectric"
       ],
-      "abstract_cn": "通过可扩展且简化的制造路线开发有机铁电材料，仍是下一代能量采集技术面临的一项重大挑战。本文通过真空升华在经 Ar 等离子体处理的柔性衬底上制备多晶克罗酮酸（croconic acid, CA）薄膜，并利用基于金刚烷的远程等离子体聚合物进行原位封装以实现稳定化。这种无溶剂策略能够有效抑制环境条件下的表面退化，从而提供长期稳定性。压电响应力显微镜证实了稳健的铁电性，表现为倾斜的极化取向、定义明确的畴以及较低的纳米尺度矫顽场。该薄膜被集成到多层压电和热释电器件中。压电性能强烈依赖于薄膜厚度，而将 CA 层嵌入介电聚合物薄膜之间可显著改善宏观响应；对于约 2 μm 厚的 CA 薄膜，功率密度最高达到 37 μW m^-2。尽管通常认为维持铁电性、压电性和热释电性需要较高结晶度，但这些多晶 CA 薄膜表现出显著的室温热释电性，而这一性质此前尚未在基于 CA 的器件中得到展示。约 10 μC m^-2 K^-1 的热释电系数表明，其功能响应可与成熟的有机和无机热释电材料相媲美，证明了 CA 薄膜用于热能采集的潜力。除功能性能外，所提出的低温制造路线将沉积和封装结合在单一原位工艺中，从而简化了器件制造。该方法与可扩展真空技术、柔性衬底和进一步工艺优化兼容，因此非常有望用于开发低成本、无铅、多源能量采集系统。",
-      "abstract_zh": "通过可扩展且简化的制造路线开发有机铁电材料，仍是下一代能量采集技术面临的一项重大挑战。本文通过真空升华在经 Ar 等离子体处理的柔性衬底上制备多晶克罗酮酸（croconic acid, CA）薄膜，并利用基于金刚烷的远程等离子体聚合物进行原位封装以实现稳定化。这种无溶剂策略能够有效抑制环境条件下的表面退化，从而提供长期稳定性。压电响应力显微镜证实了稳健的铁电性，表现为倾斜的极化取向、定义明确的畴以及较低的纳米尺度矫顽场。该薄膜被集成到多层压电和热释电器件中。压电性能强烈依赖于薄膜厚度，而将 CA 层嵌入介电聚合物薄膜之间可显著改善宏观响应；对于约 2 μm 厚的 CA 薄膜，功率密度最高达到 37 μW m^-2。尽管通常认为维持铁电性、压电性和热释电性需要较高结晶度，但这些多晶 CA 薄膜表现出显著的室温热释电性，而这一性质此前尚未在基于 CA 的器件中得到展示。约 10 μC m^-2 K^-1 的热释电系数表明，其功能响应可与成熟的有机和无机热释电材料相媲美，证明了 CA 薄膜用于热能采集的潜力。除功能性能外，所提出的低温制造路线将沉积和封装结合在单一原位工艺中，从而简化了器件制造。该方法与可扩展真空技术、柔性衬底和进一步工艺优化兼容，因此非常有望用于开发低成本、无铅、多源能量采集系统。",
+      "abstract_cn": "通过可扩展且简化的制造路线开发有机铁电材料，仍是下一代能量采集技术面临的一项重大挑战。本文通过真空升华在经 Ar 等离子体处理的柔性衬底上制备多晶克罗康酸（croconic acid, CA）薄膜，并利用基于金刚烷的远程等离子体聚合物进行原位封装以实现稳定化。这种无溶剂策略能够有效抑制环境条件下的表面退化，从而提供长期稳定性。压电响应力显微镜证实了稳健的铁电性，表现为倾斜的极化取向、定义明确的畴以及较低的纳米尺度矫顽场。该薄膜被集成到多层压电和热释电器件中。压电性能强烈依赖于薄膜厚度，而将 CA 层嵌入介电聚合物薄膜之间可显著改善宏观响应；对于约 2 μm 厚的 CA 薄膜，功率密度最高达到 37 μW m^-2。尽管通常认为维持铁电性、压电性和热释电性需要较高结晶度，但这些多晶 CA 薄膜表现出显著的室温热释电性，而这一性质此前尚未在基于 CA 的器件中得到展示。约 10 μC m^-2 K^-1 的热释电系数表明，其功能响应可与成熟的有机和无机热释电材料相媲美，证明了 CA 薄膜用于热能采集的潜力。除功能性能外，所提出的低温制造路线将沉积和封装结合在单一原位工艺中，从而简化了器件制造。该方法与可扩展真空技术、柔性衬底和进一步工艺优化兼容，因此非常有望用于开发低成本、无铅、多源能量采集系统。",
+      "abstract_zh": "通过可扩展且简化的制造路线开发有机铁电材料，仍是下一代能量采集技术面临的一项重大挑战。本文通过真空升华在经 Ar 等离子体处理的柔性衬底上制备多晶克罗康酸（croconic acid, CA）薄膜，并利用基于金刚烷的远程等离子体聚合物进行原位封装以实现稳定化。这种无溶剂策略能够有效抑制环境条件下的表面退化，从而提供长期稳定性。压电响应力显微镜证实了稳健的铁电性，表现为倾斜的极化取向、定义明确的畴以及较低的纳米尺度矫顽场。该薄膜被集成到多层压电和热释电器件中。压电性能强烈依赖于薄膜厚度，而将 CA 层嵌入介电聚合物薄膜之间可显著改善宏观响应；对于约 2 μm 厚的 CA 薄膜，功率密度最高达到 37 μW m^-2。尽管通常认为维持铁电性、压电性和热释电性需要较高结晶度，但这些多晶 CA 薄膜表现出显著的室温热释电性，而这一性质此前尚未在基于 CA 的器件中得到展示。约 10 μC m^-2 K^-1 的热释电系数表明，其功能响应可与成熟的有机和无机热释电材料相媲美，证明了 CA 薄膜用于热能采集的潜力。除功能性能外，所提出的低温制造路线将沉积和封装结合在单一原位工艺中，从而简化了器件制造。该方法与可扩展真空技术、柔性衬底和进一步工艺优化兼容，因此非常有望用于开发低成本、无铅、多源能量采集系统。",
       "overview_cn": "Focus: 铁电材料.\nWhat to check: 性能提升、可靠性与稳定性、功耗或能效表现.\nContext: Polycrystalline ferroelectric croconic acid for multisource environmental energy harvesting.",
       "reading_notes": "Focus: 铁电材料.\nWhat to check: 性能提升、可靠性与稳定性、功耗或能效表现.\nContext: Polycrystalline ferroelectric croconic acid for multisource environmental energy harvesting."
+    },
+    {
+      "source": "Nature Materials",
+      "uid": "Nature Materials:10.1038/s41563-026-02669-5",
+      "title": "Wafer-scale growth of highly stable p-type semiconducting monolayer MoSi<sub>2</sub>N<sub>4</sub> single crystals",
+      "url": "https://www.nature.com/articles/s41563-026-02669-5",
+      "published": "2026-07-08",
+      "authors": [],
+      "summary": "Nature Materials, Published online: 08 July 2026; doi:10.1038/s41563-026-02669-5 Wafer-scale monolayer single crystals of p-type semiconducting MoSi2N4 are grown via chemical vapour deposition, and exhibit high mobility and stability.",
+      "score": 6,
+      "priority": 0,
+      "highlights": [
+        "wafer"
+      ],
+      "abstract_cn": "《Nature Materials》，在线发表：2026 年 7 月 8 日；doi:10.1038/s41563-026-02669-5。通过化学气相沉积生长出晶圆级 p 型半导体 MoSi2N4 单层单晶，并表现出高迁移率和高稳定性。",
+      "abstract_zh": "《Nature Materials》，在线发表：2026 年 7 月 8 日；doi:10.1038/s41563-026-02669-5。通过化学气相沉积生长出晶圆级 p 型半导体 MoSi2N4 单层单晶，并表现出高迁移率和高稳定性。",
+      "overview_cn": "Focus: wafer.\nWhat to check: 可靠性与稳定性.\nContext: Wafer-scale growth of highly stable p-type semiconducting monolayer MoSi<sub>2</sub>N<sub>4</su….",
+      "reading_notes": "Focus: wafer.\nWhat to check: 可靠性与稳定性.\nContext: Wafer-scale growth of highly stable p-type semiconducting monolayer MoSi<sub>2</sub>N<sub>4</su…."
     }
   ],
   "errors": [],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-07-10T00:30:00+00:00"
+  "generated_at": "2026-07-11T00:30:00+00:00"
 }
