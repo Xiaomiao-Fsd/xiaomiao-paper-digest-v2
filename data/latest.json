@@ -2,7 +2,7 @@
   "ok": true,
   "new_count": 0,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-07-12）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] A Unified Electrostatic-to-Spin Framework for Asymmetric Multi-Gate CMOS Quantum Devices\n   关键词：CMOS\n   日期：2026-07-06\n   Authors: Zeheng Wang, Yan Liu, Yue Hao 等\n   https://arxiv.org/abs/2607.04876v1\n2. [arXiv] High-temperature operation of III-nitride high-electron-mobility transistors\n   关键词：transistor\n   日期：2026-07-07\n   Authors: Yi-Chen Liu, Jacklyn Zhu, John Niroula 等\n   https://arxiv.org/abs/2607.05314v1\n3. [arXiv] Monolithic GaN Systems Combining Non-Volatile Memory and Analog Computing via Area-Ratio-En…\n   关键词：ferroelectric, GaN\n   日期：2026-07-09\n   Authors: Hyeong Jun Joo, Jong Min Park, Kieran Barrett-Snyder 等\n   https://arxiv.org/abs/2607.07577v2\n4. [arXiv] Classical Reversible Computation by Quantum Coherence\n   日期：2026-07-07\n   Authors: Daniel Loss\n   https://arxiv.org/abs/2607.06219v2\n5. [Nature Electronics] Out-of-plane Ruddlesden–Popper ferroelectrics catch a break\n   日期：2026-07-06\n   https://www.nature.com/articles/s41928-026-01665-6\n6. [arXiv] Physical aging of glasses of an organic semiconductor\n   关键词：semiconductor\n   日期：2026-07-10\n   Authors: Shinian Cheng, Kritika Jha, Zijian Wang 等\n   https://arxiv.org/abs/2607.08653v1\n7. [arXiv] Polycrystalline ferroelectric croconic acid for multisource environmental energy harvesting\n   关键词：ferroelectric\n   日期：2026-07-09\n   Authors: Gloria P. Moreno-Martínez, Hari K. Mishra, Xabier García-Casas 等\n   https://arxiv.org/abs/2607.08361v1\n8. [Nature Materials] Wafer-scale growth of highly stable p-type semiconducting monolayer MoSi<sub>2</sub>N<sub>4…\n   关键词：wafer\n   日期：2026-07-08\n   https://www.nature.com/articles/s41563-026-02669-5",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-07-13）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] A Unified Electrostatic-to-Spin Framework for Asymmetric Multi-Gate CMOS Quantum Devices\n   关键词：CMOS\n   日期：2026-07-06\n   Authors: Zeheng Wang, Yan Liu, Yue Hao 等\n   https://arxiv.org/abs/2607.04876v1\n2. [arXiv] High-temperature operation of III-nitride high-electron-mobility transistors\n   关键词：transistor\n   日期：2026-07-07\n   Authors: Yi-Chen Liu, Jacklyn Zhu, John Niroula 等\n   https://arxiv.org/abs/2607.05314v1\n3. [arXiv] Monolithic GaN Systems Combining Non-Volatile Memory and Analog Computing via Area-Ratio-En…\n   关键词：ferroelectric, GaN\n   日期：2026-07-09\n   Authors: Hyeong Jun Joo, Jong Min Park, Kieran Barrett-Snyder 等\n   https://arxiv.org/abs/2607.07577v2\n4. [arXiv] Classical Reversible Computation by Quantum Coherence\n   日期：2026-07-07\n   Authors: Daniel Loss\n   https://arxiv.org/abs/2607.06219v2\n5. [arXiv] Physical aging of glasses of an organic semiconductor\n   关键词：semiconductor\n   日期：2026-07-10\n   Authors: Shinian Cheng, Kritika Jha, Zijian Wang 等\n   https://arxiv.org/abs/2607.08653v1\n6. [arXiv] Polycrystalline ferroelectric croconic acid for multisource environmental energy harvesting\n   关键词：ferroelectric\n   日期：2026-07-09\n   Authors: Gloria P. Moreno-Martínez, Hari K. Mishra, Xabier García-Casas 等\n   https://arxiv.org/abs/2607.08361v1\n7. [Nature Materials] Wafer-scale growth of highly stable p-type semiconducting monolayer MoSi<sub>2</sub>N<sub>4…\n   关键词：wafer\n   日期：2026-07-08\n   https://www.nature.com/articles/s41563-026-02669-5\n8. [arXiv] Large-scale first-principle simulations of amorphous indium oxide\n   日期：2026-07-09\n   Authors: Matthew Bousquet, Francois Gygi, Giulia Galli\n   https://arxiv.org/abs/2607.08617v1",
   "papers": [
     {
       "source": "arXiv",
@@ -22,8 +22,8 @@
       "highlights": [
         "CMOS"
       ],
-      "abstract_cn": "在先进互补金属—氧化物—半导体（complementary metal-oxide-semiconductor, CMOS）量子芯片中，紧凑的栅堆叠使得难以在一个清晰模型中将光刻几何结构、电静态限域和多电子自旋填充联系起来。这种联系是设计—技术协同优化（design-technology co-optimization, DTCO）的核心。本文为非对称多栅硅量子点器件建立了一种降阶解析框架。其电静态核心，即泊松核耦合界面格林函数（Poisson-kernel coupled-interface Green-function, PK-GF）模型，对于相匹配的二维问题，无需对独立有限体积解进行拟合，即可在毫伏量级上与该解一致。随后，我们将由栅极产生的限域，而不是谐波势或拟合势，输入到一个 jellybean 形量子点的自旋—谷多体计算中，其中电子数 N = 2–17，磁场 B = 5 T。非限制性 Hartree-Fock（unrestricted Hartree-Fock, UHF）解支持占据依赖的、类似 Wigner 分子的电荷局域化，但可能高估自旋极化。完全活性空间组态相互作用（complete active-space configuration interaction, CASCI）在所测试的活性空间内支持低自旋分支，这与实验结果一致。因此，该工作流将 CMOS 版图、器件电静态和由势决定的量子可观测量联系起来，为基于 CMOS 的量子比特设计和 DTCO 提供了一层可审计的建模框架。",
-      "abstract_zh": "在先进互补金属—氧化物—半导体（complementary metal-oxide-semiconductor, CMOS）量子芯片中，紧凑的栅堆叠使得难以在一个清晰模型中将光刻几何结构、电静态限域和多电子自旋填充联系起来。这种联系是设计—技术协同优化（design-technology co-optimization, DTCO）的核心。本文为非对称多栅硅量子点器件建立了一种降阶解析框架。其电静态核心，即泊松核耦合界面格林函数（Poisson-kernel coupled-interface Green-function, PK-GF）模型，对于相匹配的二维问题，无需对独立有限体积解进行拟合，即可在毫伏量级上与该解一致。随后，我们将由栅极产生的限域，而不是谐波势或拟合势，输入到一个 jellybean 形量子点的自旋—谷多体计算中，其中电子数 N = 2–17，磁场 B = 5 T。非限制性 Hartree-Fock（unrestricted Hartree-Fock, UHF）解支持占据依赖的、类似 Wigner 分子的电荷局域化，但可能高估自旋极化。完全活性空间组态相互作用（complete active-space configuration interaction, CASCI）在所测试的活性空间内支持低自旋分支，这与实验结果一致。因此，该工作流将 CMOS 版图、器件电静态和由势决定的量子可观测量联系起来，为基于 CMOS 的量子比特设计和 DTCO 提供了一层可审计的建模框架。",
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS方向，围绕“A Unified Electrostatic-to-Spin Framework for Asymmetric Multi-Gate CMOS Quantu…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS方向，围绕“A Unified Electrostatic-to-Spin Framework for Asymmetric Multi-Gate CMOS Quantu…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: A Unified Electrostatic-to-Spin Framework for Asymmetric Multi-Gate CMOS Quantum Devices.",
       "reading_notes": "Focus: CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: A Unified Electrostatic-to-Spin Framework for Asymmetric Multi-Gate CMOS Quantum Devices."
     },
@@ -47,8 +47,8 @@
       "highlights": [
         "transistor"
       ],
-      "abstract_cn": "采用 III 族氮化物材料制成的高电子迁移率晶体管（high-electron-mobility transistors, HEMTs）在高温电子应用中具有潜在用途，包括功率电子、通信、航空航天和空间探索。然而，这类应用的需求使得理解 III 族氮化物 HEMT 的热极限和性能演化变得至关重要。本文分析了 III 族氮化物 HEMT 的高温工作，考察高温对材料性质、器件结构和电路级行为的影响。我们探讨了关键器件层——包括势垒和沟道工程、衬底选择以及钝化策略——在缓解高温诱导效应中的作用，并评估了 III 族氮化物 HEMT 在逻辑、射频和功率电子应用中的热稳定性。我们还强调了面向高温应用的 III 族氮化物器件设计与优化中仍然存在的关键挑战。",
-      "abstract_zh": "采用 III 族氮化物材料制成的高电子迁移率晶体管（high-electron-mobility transistors, HEMTs）在高温电子应用中具有潜在用途，包括功率电子、通信、航空航天和空间探索。然而，这类应用的需求使得理解 III 族氮化物 HEMT 的热极限和性能演化变得至关重要。本文分析了 III 族氮化物 HEMT 的高温工作，考察高温对材料性质、器件结构和电路级行为的影响。我们探讨了关键器件层——包括势垒和沟道工程、衬底选择以及钝化策略——在缓解高温诱导效应中的作用，并评估了 III 族氮化物 HEMT 在逻辑、射频和功率电子应用中的热稳定性。我们还强调了面向高温应用的 III 族氮化物器件设计与优化中仍然存在的关键挑战。",
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“High-temperature operation of III-nitride high-electron-mobility transistors”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“High-temperature operation of III-nitride high-electron-mobility transistors”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: High-temperature operation of III-nitride high-electron-mobility transistors.",
       "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: High-temperature operation of III-nitride high-electron-mobility transistors."
     },
@@ -72,8 +72,8 @@
         "ferroelectric",
         "GaN"
       ],
-      "abstract_cn": "氮化镓（GaN）晶体管已成为功率电子和射频功率放大器的首选平台。为实现超越传统 GaN 器件的功能，人们一直在考虑集成铁电异质结构，以用于存储、逻辑和可重构系统。本文展示了采用 AlScN 基栅堆叠的铁电 GaN 晶体管，其中通过对面积比（SMIS/SMFM）进行系统工程化设计，可对存储和模拟功能实现统一控制。通过精确调制中间电极长度，获得了创纪录的 27 V 存储窗口和 27 mV/dec 的正向亚阈值摆幅，这由二维电子气预先诱导的稳健向下极化态发生铁电极化反转所驱动。低面积比器件（SMIS/SMFM = 1, 2）实现了 4-bit 多级单元工作，并在制备的 4 x 4 阵列中表现出优异的空间均匀性，相较于成熟的硅和氧化物铁电架构具有良好的基准性能。高面积比器件（SMIS/SMFM = 4, 8）利用连续可调的电导态，展示了多态反相器以及首个基于 GaN 的铁电频率—电压转换器，在 0.5–500 Hz 范围内实现线性频率—电压响应，转换增益为 1.1 mV/Hz。本工作确立了单片集成 GaN 系统的发展路径，可在一个本征适用于高功率和射频应用的平台上结合非易失存储与模拟信号处理。",
-      "abstract_zh": "氮化镓（GaN）晶体管已成为功率电子和射频功率放大器的首选平台。为实现超越传统 GaN 器件的功能，人们一直在考虑集成铁电异质结构，以用于存储、逻辑和可重构系统。本文展示了采用 AlScN 基栅堆叠的铁电 GaN 晶体管，其中通过对面积比（SMIS/SMFM）进行系统工程化设计，可对存储和模拟功能实现统一控制。通过精确调制中间电极长度，获得了创纪录的 27 V 存储窗口和 27 mV/dec 的正向亚阈值摆幅，这由二维电子气预先诱导的稳健向下极化态发生铁电极化反转所驱动。低面积比器件（SMIS/SMFM = 1, 2）实现了 4-bit 多级单元工作，并在制备的 4 x 4 阵列中表现出优异的空间均匀性，相较于成熟的硅和氧化物铁电架构具有良好的基准性能。高面积比器件（SMIS/SMFM = 4, 8）利用连续可调的电导态，展示了多态反相器以及首个基于 GaN 的铁电频率—电压转换器，在 0.5–500 Hz 范围内实现线性频率—电压响应，转换增益为 1.1 mV/Hz。本工作确立了单片集成 GaN 系统的发展路径，可在一个本征适用于高功率和射频应用的平台上结合非易失存储与模拟信号处理。",
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注铁电材料、GaN方向，围绕“Monolithic GaN Systems Combining Non-Volatile Memory and Analog Computing via A…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看可靠性与稳定性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注铁电材料、GaN方向，围绕“Monolithic GaN Systems Combining Non-Volatile Memory and Analog Computing via A…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看可靠性与稳定性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: 铁电材料、GaN.\nWhat to check: 可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Monolithic GaN Systems Combining Non-Volatile Memory and Analog Computing via Area-Ratio-Engine….",
       "reading_notes": "Focus: 铁电材料、GaN.\nWhat to check: 可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Monolithic GaN Systems Combining Non-Volatile Memory and Analog Computing via Area-Ratio-Engine…."
     },
@@ -90,26 +90,10 @@
       "score": 7,
       "priority": 0,
       "highlights": [],
-      "abstract_cn": "数据中心和 AI 应用不断增长的能耗需求重新激发了人们对可逆计算的兴趣；在可逆计算中，如果信息被反计算，则逻辑并不需要在每一步都耗散热量。迄今为止的实现都是经典的：绝热 CMOS 通过减缓电荷运动来降低耗散，但仍受晶体管阈值物理限制。本文提出一种由自旋量子点阵列中的相干自旋动力学实现的经典可逆逻辑，其输入和输出均为经典基态，并且在算法层面不使用叠加。同一个自旋负责存储、传输和计算，以幺正旋转替代不可逆开关。通用构建模块是由直流电压脉冲和 Ge/Si 空穴自旋中的各向异性交换驱动的 iToffoli 门。采用实验参数的仿真再现了 Toffoli 真值表，并给出了可测试的误差图景。由于穿梭传输在不进行测量的情况下传输比特，逻辑和数据移动在读出之前都保持可逆。施加在飞法拉级栅极上的毫伏脉冲使门能量低于 4 K Landauer 尺度，约比室温 CMOS Toffoli 门在计入 4 K 冷却开销时低五个数量级，在不计入该开销时低八个数量级。因此，同一套半导体硬件具有双重用途：当使用叠加时支持量子算法，否则支持经典可逆逻辑。",
-      "abstract_zh": "数据中心和 AI 应用不断增长的能耗需求重新激发了人们对可逆计算的兴趣；在可逆计算中，如果信息被反计算，则逻辑并不需要在每一步都耗散热量。迄今为止的实现都是经典的：绝热 CMOS 通过减缓电荷运动来降低耗散，但仍受晶体管阈值物理限制。本文提出一种由自旋量子点阵列中的相干自旋动力学实现的经典可逆逻辑，其输入和输出均为经典基态，并且在算法层面不使用叠加。同一个自旋负责存储、传输和计算，以幺正旋转替代不可逆开关。通用构建模块是由直流电压脉冲和 Ge/Si 空穴自旋中的各向异性交换驱动的 iToffoli 门。采用实验参数的仿真再现了 Toffoli 真值表，并给出了可测试的误差图景。由于穿梭传输在不进行测量的情况下传输比特，逻辑和数据移动在读出之前都保持可逆。施加在飞法拉级栅极上的毫伏脉冲使门能量低于 4 K Landauer 尺度，约比室温 CMOS Toffoli 门在计入 4 K 冷却开销时低五个数量级，在不计入该开销时低八个数量级。因此，同一套半导体硬件具有双重用途：当使用叠加时支持量子算法，否则支持经典可逆逻辑。",
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Classical Reversible Computation by Quantum Coherence”展开。摘要显示，文章重点涉及电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、功耗或能效表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Classical Reversible Computation by Quantum Coherence”展开。摘要显示，文章重点涉及电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、功耗或能效表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 可靠性与稳定性、功耗或能效表现、与既有工艺平台的集成价值.\nContext: Classical Reversible Computation by Quantum Coherence.",
       "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 可靠性与稳定性、功耗或能效表现、与既有工艺平台的集成价值.\nContext: Classical Reversible Computation by Quantum Coherence."
-    },
-    {
-      "source": "Nature Electronics",
-      "uid": "Nature Electronics:10.1038/s41928-026-01665-6",
-      "title": "Out-of-plane Ruddlesden–Popper ferroelectrics catch a break",
-      "url": "https://www.nature.com/articles/s41928-026-01665-6",
-      "published": "2026-07-06",
-      "authors": [],
-      "summary": "Nature Electronics, Published online: 06 July 2026; doi:10.1038/s41928-026-01665-6 By breaking the symmetry of a Ruddlesden–Popper ferroelectric material, an out-of-plane dielectric material with high tunability and low loss can be fabricated.",
-      "score": 7,
-      "priority": 0,
-      "highlights": [],
-      "abstract_cn": "《Nature Electronics》，在线发表：2026 年 7 月 6 日；doi:10.1038/s41928-026-01665-6。通过打破 Ruddlesden–Popper 铁电材料的对称性，可以制备具有高可调性和低损耗的面外介电材料。",
-      "abstract_zh": "《Nature Electronics》，在线发表：2026 年 7 月 6 日；doi:10.1038/s41928-026-01665-6。通过打破 Ruddlesden–Popper 铁电材料的对称性，可以制备具有高可调性和低损耗的面外介电材料。",
-      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Out-of-plane Ruddlesden–Popper ferroelectrics catch a break.",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Out-of-plane Ruddlesden–Popper ferroelectrics catch a break."
     },
     {
       "source": "arXiv",
@@ -133,8 +117,8 @@
       "highlights": [
         "semiconductor"
       ],
-      "abstract_cn": "所有玻璃态材料，包括有机半导体玻璃，都是非平衡材料，其性质会随时间发生变化。对于有机半导体而言，这种物理老化过程尚未得到充分理解，从而阻碍了高耐久器件的合理设计。在本研究中，我们考察了 N,N'-双(3-甲基苯基)-N,N'-二苯基联苯胺（TPD）薄膜和块体玻璃中的体积恢复与焓恢复过程。结果表明，对于厚度介于 400 nm 和 100 nm 之间、由液体冷却制备的 TPD 薄膜，其体积恢复动力学对膜厚的依赖可以忽略。此外，TPD 薄膜中的体积恢复过程与块体 TPD 玻璃在玻璃化转变温度附近退火时观察到的焓恢复强烈耦合。值得注意的是，在室温下通过物理气相沉积制备的 TPD 薄膜表现出优异的抗物理老化能力，其老化速率比由液体冷却制备的对应薄膜低约一个数量级。这些结果不仅增进了我们对非晶体系中非平衡动力学的理解，也为设计稳定性和耐久性显著提高的下一代有机器件提供了宝贵认识。",
-      "abstract_zh": "所有玻璃态材料，包括有机半导体玻璃，都是非平衡材料，其性质会随时间发生变化。对于有机半导体而言，这种物理老化过程尚未得到充分理解，从而阻碍了高耐久器件的合理设计。在本研究中，我们考察了 N,N'-双(3-甲基苯基)-N,N'-二苯基联苯胺（TPD）薄膜和块体玻璃中的体积恢复与焓恢复过程。结果表明，对于厚度介于 400 nm 和 100 nm 之间、由液体冷却制备的 TPD 薄膜，其体积恢复动力学对膜厚的依赖可以忽略。此外，TPD 薄膜中的体积恢复过程与块体 TPD 玻璃在玻璃化转变温度附近退火时观察到的焓恢复强烈耦合。值得注意的是，在室温下通过物理气相沉积制备的 TPD 薄膜表现出优异的抗物理老化能力，其老化速率比由液体冷却制备的对应薄膜低约一个数量级。这些结果不仅增进了我们对非晶体系中非平衡动力学的理解，也为设计稳定性和耐久性显著提高的下一代有机器件提供了宝贵认识。",
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体方向，围绕“Physical aging of glasses of an organic semiconductor”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、可靠性与稳定性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体方向，围绕“Physical aging of glasses of an organic semiconductor”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、可靠性与稳定性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: 半导体.\nWhat to check: 性能提升、可靠性与稳定性、接触/互连相关指标.\nContext: Physical aging of glasses of an organic semiconductor.",
       "reading_notes": "Focus: 半导体.\nWhat to check: 性能提升、可靠性与稳定性、接触/互连相关指标.\nContext: Physical aging of glasses of an organic semiconductor."
     },
@@ -160,8 +144,8 @@
       "highlights": [
         "ferroelectric"
       ],
-      "abstract_cn": "通过可扩展且简化的制造路线开发有机铁电材料，仍是下一代能量采集技术面临的一项重大挑战。本文通过真空升华在经 Ar 等离子体处理的柔性衬底上制备多晶克罗康酸（croconic acid, CA）薄膜，并利用基于金刚烷的远程等离子体聚合物进行原位封装以实现稳定化。这种无溶剂策略能够有效抑制环境条件下的表面退化，从而提供长期稳定性。压电响应力显微镜证实了稳健的铁电性，表现为倾斜的极化取向、定义明确的畴以及较低的纳米尺度矫顽场。该薄膜被集成到多层压电和热释电器件中。压电性能强烈依赖于薄膜厚度，而将 CA 层嵌入介电聚合物薄膜之间可显著改善宏观响应；对于约 2 μm 厚的 CA 薄膜，功率密度最高达到 37 μW m^-2。尽管通常认为维持铁电性、压电性和热释电性需要较高结晶度，但这些多晶 CA 薄膜表现出显著的室温热释电性，而这一性质此前尚未在基于 CA 的器件中得到展示。约 10 μC m^-2 K^-1 的热释电系数表明，其功能响应可与成熟的有机和无机热释电材料相媲美，证明了 CA 薄膜用于热能采集的潜力。除功能性能外，所提出的低温制造路线将沉积和封装结合在单一原位工艺中，从而简化了器件制造。该方法与可扩展真空技术、柔性衬底和进一步工艺优化兼容，因此非常有望用于开发低成本、无铅、多源能量采集系统。",
-      "abstract_zh": "通过可扩展且简化的制造路线开发有机铁电材料，仍是下一代能量采集技术面临的一项重大挑战。本文通过真空升华在经 Ar 等离子体处理的柔性衬底上制备多晶克罗康酸（croconic acid, CA）薄膜，并利用基于金刚烷的远程等离子体聚合物进行原位封装以实现稳定化。这种无溶剂策略能够有效抑制环境条件下的表面退化，从而提供长期稳定性。压电响应力显微镜证实了稳健的铁电性，表现为倾斜的极化取向、定义明确的畴以及较低的纳米尺度矫顽场。该薄膜被集成到多层压电和热释电器件中。压电性能强烈依赖于薄膜厚度，而将 CA 层嵌入介电聚合物薄膜之间可显著改善宏观响应；对于约 2 μm 厚的 CA 薄膜，功率密度最高达到 37 μW m^-2。尽管通常认为维持铁电性、压电性和热释电性需要较高结晶度，但这些多晶 CA 薄膜表现出显著的室温热释电性，而这一性质此前尚未在基于 CA 的器件中得到展示。约 10 μC m^-2 K^-1 的热释电系数表明，其功能响应可与成熟的有机和无机热释电材料相媲美，证明了 CA 薄膜用于热能采集的潜力。除功能性能外，所提出的低温制造路线将沉积和封装结合在单一原位工艺中，从而简化了器件制造。该方法与可扩展真空技术、柔性衬底和进一步工艺优化兼容，因此非常有望用于开发低成本、无铅、多源能量采集系统。",
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注铁电材料方向，围绕“Polycrystalline ferroelectric croconic acid for multisource environmental energ…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注铁电材料方向，围绕“Polycrystalline ferroelectric croconic acid for multisource environmental energ…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: 铁电材料.\nWhat to check: 性能提升、可靠性与稳定性、功耗或能效表现.\nContext: Polycrystalline ferroelectric croconic acid for multisource environmental energy harvesting.",
       "reading_notes": "Focus: 铁电材料.\nWhat to check: 性能提升、可靠性与稳定性、功耗或能效表现.\nContext: Polycrystalline ferroelectric croconic acid for multisource environmental energy harvesting."
     },
@@ -178,15 +162,35 @@
       "highlights": [
         "wafer"
       ],
-      "abstract_cn": "《Nature Materials》，在线发表：2026 年 7 月 8 日；doi:10.1038/s41563-026-02669-5。通过化学气相沉积生长出晶圆级 p 型半导体 MoSi2N4 单层单晶，并表现出高迁移率和高稳定性。",
-      "abstract_zh": "《Nature Materials》，在线发表：2026 年 7 月 8 日；doi:10.1038/s41563-026-02669-5。通过化学气相沉积生长出晶圆级 p 型半导体 MoSi2N4 单层单晶，并表现出高迁移率和高稳定性。",
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注wafer方向，围绕“Wafer-scale growth of highly stable p-type semiconducting monolayer MoSi<sub>2<…”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注wafer方向，围绕“Wafer-scale growth of highly stable p-type semiconducting monolayer MoSi<sub>2<…”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: wafer.\nWhat to check: 可靠性与稳定性.\nContext: Wafer-scale growth of highly stable p-type semiconducting monolayer MoSi<sub>2</sub>N<sub>4</su….",
       "reading_notes": "Focus: wafer.\nWhat to check: 可靠性与稳定性.\nContext: Wafer-scale growth of highly stable p-type semiconducting monolayer MoSi<sub>2</sub>N<sub>4</su…."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2607.08617v1",
+      "title": "Large-scale first-principle simulations of amorphous indium oxide",
+      "url": "https://arxiv.org/abs/2607.08617v1",
+      "published": "2026-07-09",
+      "authors": [
+        "Matthew Bousquet",
+        "Francois Gygi",
+        "Giulia Galli"
+      ],
+      "summary": "Amorphous indium oxide (a-In$_2$O$_3$) is a high-electron-mobility semiconductor of central importance in thin-film transistors and a promising photoanode for solar-driven water oxidation. Despite sustained experimental and computational investigations, the structural motifs underlying its unusual transport properties and the existence of O-O peroxide-like bonds within its network have remained unresolved. Here we develop a MACE-based machine-learned interatomic potential trained on first-principles molecular dynamics trajectories and use it to generate and analyze amorphous structures containing up to 5120 atoms, two orders of magnitude larger than those adopted in typical ab initio studies. We find X-ray structure factors in excellent quantitative agreement with experiment and we confirm that In$_2$O$_3$ is a poor glass former, with the likely presence of quasi-crystalline regions in amorphous samples. Our large-scale structural analysis reveals extended chains of edge-sharing InO$_k$ polyhedra providing a concrete structural basis for the high electron mobility of a-In$_2$O$_3$. Our results strongly support the formation of O-O peroxide-like bonds in the amorphous network, with a mean length of 1.5 Å. We show that these bonds introduce localized in-gap states near the conduction band minimum, acting as a source of intrinsic n-type self-doping and enhancing sub-gap optical absorption. These effects are detectable via a distinct Raman feature near 850 cm$^{-1}$ that is absent in the IR spectrum. Overall, our results establish a comprehensive structure-property picture of a-In$_2$O$_3$, provide directly testable experimental predictions, and suggest that controlled amorphization is a viable strategy for improving the photoelectrochemical activity of a-In$_2$O$_3$.",
+      "score": 5,
+      "priority": 0,
+      "highlights": [],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Large-scale first-principle simulations of amorphous indium oxide”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Large-scale first-principle simulations of amorphous indium oxide”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 可靠性与稳定性、先进尺度下的可扩展性.\nContext: Large-scale first-principle simulations of amorphous indium oxide.",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 可靠性与稳定性、先进尺度下的可扩展性.\nContext: Large-scale first-principle simulations of amorphous indium oxide."
     }
   ],
   "errors": [],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-07-12T00:30:00+00:00"
+  "generated_at": "2026-07-13T00:30:00+00:00"
 }
