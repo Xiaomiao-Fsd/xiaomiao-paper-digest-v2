@@ -1,208 +1,207 @@
 {
   "ok": true,
-  "new_count": 6,
+  "new_count": 4,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-07-15）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 6 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] High density two-component glasses of organic semiconductors prepared by physical vapor dep…\n   关键词：semiconductor, deposition\n   日期：2026-07-10\n   Authors: Yejung Lee, Shinian Cheng, M. D. Ediger\n   https://arxiv.org/abs/2607.08881v1\n2. [arXiv] Tiling decomposition multiplicity predicts stability of GaN(0001) surface reconstructions\n   关键词：GaN\n   日期：2026-07-13\n   Authors: Tetsuji Kuboyama, Akira Kusaba, Karol Kawka 等\n   https://arxiv.org/abs/2607.11105v1\n3. [arXiv] Generic behavior of ultrastability and anisotropic molecular packing in co-deposited organi…\n   关键词：semiconductor\n   日期：2026-07-10\n   Authors: Shinian Cheng, Yejung Lee, Junguang Yu 等\n   https://arxiv.org/abs/2607.08889v1\n4. [arXiv] Ferroelectric--Superconducting Interaction in Epitaxial YBa2Cu3O7-δ/BaTiO3 Films\n   关键词：ferroelectric\n   日期：2026-07-13\n   Authors: Louis Oppong-Antwi, David L. Cortie, Qi Zhang 等\n   https://arxiv.org/abs/2607.11003v1\n5. [arXiv] Improved Heat Dissipation in CsPbBr${_3}$-hBN Heterostructures\n   日期：2026-07-11\n   Authors: Liudmila Starodubtceva, Ahmed Kadid, Naho Kurahashi 等\n   https://arxiv.org/abs/2607.09914v1\n6. [arXiv] Electronic manipulation of polar order in electron crystal\n   日期：2026-07-10\n   Authors: Takashi Kikkawa, Ziyan Chen, Yuto Fujimoto 等\n   https://arxiv.org/abs/2607.09425v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-07-23）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 4 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Direct Spatiotemporal Imaging of Charge Carrier Dynamics in Operative Semiconductor Devices\n   关键词：semiconductor\n   日期：2026-07-21\n   Authors: Adriano Cola, Antonio Valletta, Isabella Farella 等\n   https://arxiv.org/abs/2607.19157v1\n2. [arXiv] Multiscale ensemble Monte Carlo of transport and gas sensing in monolayer MoS$_2$\n   日期：2026-07-21\n   Authors: Lado Filipovic\n   https://arxiv.org/abs/2607.18895v1\n3. [arXiv] Self-consistent GW theory for superconductivity in SrTiO3 models\n   日期：2026-07-21\n   Authors: Zhi-Hao Cui, John Sous, Andrew J. Millis 等\n   https://arxiv.org/abs/2607.18757v1\n4. [arXiv] Electron escape probability in high-efficiency photocathodes measured by reverse-injection …\n   日期：2026-07-21\n   Authors: S. A. Rozhkov, V. V. Bakin, D. A. Kustov 等\n   https://arxiv.org/abs/2607.18420v1",
   "papers": [
     {
       "source": "arXiv",
-      "uid": "arxiv:2607.07577v2",
-      "title": "Monolithic GaN Systems Combining Non-Volatile Memory and Analog Computing via Area-Ratio-Engineered Ferroelectric AlScN Gate Stacks",
-      "url": "https://arxiv.org/abs/2607.07577v2",
-      "published": "2026-07-09",
+      "uid": "arxiv:2607.15675v1",
+      "title": "Strong intervalley mixing between copropagating quantum Hall edge channels in a silicon MOSFET",
+      "url": "https://arxiv.org/abs/2607.15675v1",
+      "published": "2026-07-17",
       "authors": [
-        "Hyeong Jun Joo",
-        "Jong Min Park",
-        "Kieran Barrett-Snyder",
-        "Brendan Hanrahan",
-        "Geonwook Yoo"
+        "Gento Yamahata",
+        "Takase Shimizu"
       ],
-      "summary": "Gallium nitride (GaN) transistors have become the platform of choice for power electronics and radio-frequency power amplifiers. To unlock capabilities beyond those of conventional GaN, integrating ferroelectric heterostructure has been considered toward memory, logic and reconfigurable systems. Here, we demonstrate ferroelectric GaN transistors employing an AlScN-based gate stack in which systematic engineering of the area-ratio (SMIS/SMFM) provides unified control over both memory and analog functionality. Precise modulation of the intermediate electrode length yields a record memory window of 27 V and a forward subthreshold swing of 27 mV/dec, driven by ferroelectric polarization reversal of a robust downward-polarization state pre-induced by two-dimensional electron gas. Low area-ratio devices (SMIS/SMFM = 1, 2) achieve 4-bit multi-level cell operation and excellent spatial uniformity across a fabricated 4 x 4 array, benchmarking favorably against established silicon and oxide ferroelectric architectures. High area-ratio devices (SMIS/SMFM = 4, 8) harness continuously tunable conductance states to demonstrate multi-state inverters and the first GaN-based ferroelectric frequency-to-voltage converter, delivering a linear frequency-voltage response across 0.5 - 500 Hz range with a conversion gain of 1.1 mV/Hz. This work establishes routes towards monolithically integrated GaN systems that combine non-volatile memory and analog signal processing on a platform inherently suited to high-power and radio-frequency applications.",
-      "score": 9,
+      "summary": "Copropagating quantum Hall edge channels provide a promising platform for compact electron interferometry and flying quantum states. In silicon, the valley degree of freedom offers a natural alternative to spin-resolved edge channels because spin-flip scattering is strongly suppressed by the weak spin-orbit interaction. Here, we investigate interchannel transitions between copropagating valley edge channels in a double-layer-gated silicon metal-oxide-semiconductor field-effect transistor. With the bulk filling factor set to $ν=2$, two spin-polarized valley edge channels are brought into close proximity near a depleted side gate. We observe strong intervalley mixing, with a transition probability close to 1/2, indicating nearly complete equilibration between the two valley edge channels. In contrast, interchannel transport between edge channels with different spin orientations shows negligible transition probability, consistent with suppressed spin-flip scattering in silicon. These results demonstrate that intervalley coupling at a Si/SiO$_2$ interface can provide a beam-splitter-like operation for copropagating valley edge channels, establishing a key building block toward compact silicon quantum Hall interferometers.",
+      "score": 10,
+      "priority": 1,
+      "highlights": [
+        "MOSFET"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET方向，围绕“Strong intervalley mixing between copropagating quantum Hall edge channels in a…”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看效率/耦合表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET方向，围绕“Strong intervalley mixing between copropagating quantum Hall edge channels in a…”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看效率/耦合表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: MOSFET.\nWhat to check: 效率/耦合表现、与既有工艺平台的集成价值.\nContext: Strong intervalley mixing between copropagating quantum Hall edge channels in a silicon MOSFET.",
+      "reading_notes": "Focus: MOSFET.\nWhat to check: 效率/耦合表现、与既有工艺平台的集成价值.\nContext: Strong intervalley mixing between copropagating quantum Hall edge channels in a silicon MOSFET."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2607.15578v1",
+      "title": "Hot-Carrier Distribution Spectroscopy by Transconductance in Two-Dimensional Field-Effect Transistors",
+      "url": "https://arxiv.org/abs/2607.15578v1",
+      "published": "2026-07-17",
+      "authors": [
+        "Katsunori Wakabayashi"
+      ],
+      "summary": "The transconductance $g_m = dI_D/dV_G$ of a field-effect transistor (FET) is conventionally read as a proxy for carrier density. We show that it is instead a spectroscopic probe of the carrier distribution: because $g_m$ weights the spectral current $j(E)$ by the gate-voltage derivative $\\partial f(E)/\\partial V_G$ and integrates over energy, it is sensitive to the \\emph{shape} of $f(E)$, not merely its integrated weight $n$. We develop an energy-resolved transport framework for two-dimensional (2D) FETs and, within a gate-independent spectral-kernel approximation, derive the decomposition $g_m = g_m^{(n)} + g_m^{(α)}$ into the conventional density-modulation term $g_m^{(n)}$ and a distribution-shape-driven term $g_m^{(α)}$. The latter, obtained as the residual after subtracting the smooth density-modulation background from the measured $g_m$, exhibits a characteristic anomalous peak at a gate voltage $V_G^{\\rm pk}$. This peak has no counterpart in equilibrium transport and \\emph{cannot be explained by carrier density modulation alone}. With the spectral kernel calibrated, the peak position and height -- extracted from standard DC/lock-in $g_m$ sweeps -- constrain the hot-carrier energy $E_0$, spectral width $σ$, and generation threshold $n_c$, realizing a steady-state, all-electrical spectroscopy of the carrier distribution. An optional time-resolved extension further recovers the carrier relaxation time $τ$ from the transient response following a pump excitation, establishing the 2D FET as a distribution-function spectrometer that requires no optical readout.",
+      "score": 10,
+      "priority": 1,
+      "highlights": [
+        "transistor"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Hot-Carrier Distribution Spectroscopy by Transconductance in Two-Dimensional Fi…”展开。摘要显示，文章重点涉及电学/光学表征与测试结果，建议阅读时优先查看功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Hot-Carrier Distribution Spectroscopy by Transconductance in Two-Dimensional Fi…”展开。摘要显示，文章重点涉及电学/光学表征与测试结果，建议阅读时优先查看功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 功耗或能效表现.\nContext: Hot-Carrier Distribution Spectroscopy by Transconductance in Two-Dimensional Field-Effect Trans….",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 功耗或能效表现.\nContext: Hot-Carrier Distribution Spectroscopy by Transconductance in Two-Dimensional Field-Effect Trans…."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2607.18059v1",
+      "title": "Foundry CMOS platform for multimodal quantum materials characterization",
+      "url": "https://arxiv.org/abs/2607.18059v1",
+      "published": "2026-07-20",
+      "authors": [
+        "Sharad Kumar Yadav",
+        "Luca Nessi",
+        "Ondrej Dyck",
+        "Jinchen Wang",
+        "Bogdan Dryzhakov",
+        "Alex Melendez",
+        "Huan Zhao",
+        "Qian Song",
+        "Doha Amer",
+        "Cole Brabec",
+        "Saleh Alqazlan",
+        "Ruonan Han",
+        "Riccardo Comin",
+        "Stephen Jesse",
+        "Dirk Englund",
+        "Jawaher Almutlaq"
+      ],
+      "summary": "Quantum materials experiments increasingly rely on microwave, electrical, thermal, optical, and structural probes, but these capabilities are typically assembled from custom hardware that limits reproducibility and scalability. Here we show that a commercial 65-nm CMOS process can be repurposed as a passive, foundry-manufacturable characterization platform by functionally partitioning its metal stack into microwave, thermal, and electrical subsystems within a 1 mm2 footprint. The integrated RF architecture enables cryogenic magnetic susceptibility measurements of Fe3GeTe2 heterostructures at 1.75 K without sample-specific fabrication. We further demonstrate NV-center optically detected magnetic resonance (ODMR) with >20% contrast at 4-9 dBm microwave power, reducing power requirements by 20-25 dB relative to conventional antenna-based approaches while maintaining sensitivities of 2-3 uT/sqrt(Hz). We additionally confirm compatibility with in-situ electron-beam imaging, showing no measurable degradation in image quality upon device operation. These results establish a scalable, foundry-manufacturable platform for multimodal quantum sensing and materials characterization.",
+      "score": 5,
+      "priority": 1,
+      "highlights": [
+        "CMOS"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS方向，围绕“Foundry CMOS platform for multimodal quantum materials characterization”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS方向，围绕“Foundry CMOS platform for multimodal quantum materials characterization”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Foundry CMOS platform for multimodal quantum materials characterization.",
+      "reading_notes": "Focus: CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Foundry CMOS platform for multimodal quantum materials characterization."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2607.15748v1",
+      "title": "Two-step growth of (In,Ga)N pseudo-substrates on GaN templates by plasma-assisted molecular beam epitaxy",
+      "url": "https://arxiv.org/abs/2607.15748v1",
+      "published": "2026-07-17",
+      "authors": [
+        "Huaide Zhang",
+        "Jingxuan Kang",
+        "Aidan F. Campbell",
+        "Jonas Lähnemann",
+        "Oliver Brandt",
+        "Lutz Geelhaar"
+      ],
+      "summary": "(In,Ga)N layers are grown by plasma-assisted molecular beam epitaxy on GaN templates. We introduce a two-step protocol that involves switching the growth conditions from initially N-stable to metal-stable. Reflection high-energy electron diffraction as well as scanning electron and atomic force microscopy reveal that the first step results in a rough intermediate surface with open pits, whereas the final surface is smooth. The narrow linewidth of the photoluminescence band indicates an excellent compositional homogeneity of the upper layer. Its in-plane lattice constant is determined to be $\\approx$3.26 Åfrom X-ray diffraction measurements. This combination of favorable properties makes these layers attractive as pseudo-substrates for the growth of red-emitting (In,Ga)N light-emitting diodes. In particular, the approach presented here does not require any complex external processing and is, thus, scalable and economical.",
+      "score": 6,
       "priority": 0,
       "highlights": [
-        "ferroelectric",
+        "epitaxy",
         "GaN"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注铁电材料、GaN方向，围绕“Monolithic GaN Systems Combining Non-Volatile Memory and Analog Computing via A…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看可靠性与稳定性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注铁电材料、GaN方向，围绕“Monolithic GaN Systems Combining Non-Volatile Memory and Analog Computing via A…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看可靠性与稳定性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 铁电材料、GaN.\nWhat to check: 可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Monolithic GaN Systems Combining Non-Volatile Memory and Analog Computing via Area-Ratio-Engine….",
-      "reading_notes": "Focus: 铁电材料、GaN.\nWhat to check: 可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Monolithic GaN Systems Combining Non-Volatile Memory and Analog Computing via Area-Ratio-Engine…."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注epitaxy、GaN方向，围绕“Two-step growth of (In,Ga)N pseudo-substrates on GaN templates by plasma-assist…”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看效率/耦合表现、可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注epitaxy、GaN方向，围绕“Two-step growth of (In,Ga)N pseudo-substrates on GaN templates by plasma-assist…”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看效率/耦合表现、可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: epitaxy、GaN.\nWhat to check: 效率/耦合表现、可靠性与稳定性、功耗或能效表现.\nContext: Two-step growth of (In,Ga)N pseudo-substrates on GaN templates by plasma-assisted molecular bea….",
+      "reading_notes": "Focus: epitaxy、GaN.\nWhat to check: 效率/耦合表现、可靠性与稳定性、功耗或能效表现.\nContext: Two-step growth of (In,Ga)N pseudo-substrates on GaN templates by plasma-assisted molecular bea…."
     },
     {
       "source": "arXiv",
-      "uid": "arxiv:2607.08881v1",
-      "title": "High density two-component glasses of organic semiconductors prepared by physical vapor deposition",
-      "url": "https://arxiv.org/abs/2607.08881v1",
-      "published": "2026-07-10",
+      "uid": "arxiv:2607.14559v1",
+      "title": "Dispersive Readout of a SiMOS Quantum Dot Using a Flip-Chip Integrated Microwave Resonator",
+      "url": "https://arxiv.org/abs/2607.14559v1",
+      "published": "2026-07-16",
       "authors": [
-        "Yejung Lee",
-        "Shinian Cheng",
-        "M. D. Ediger"
+        "Vo Kim Hieu Van",
+        "Santiago Serrano",
+        "Cédric Bohémier",
+        "Ajit Dash",
+        "Fay E. Hudson",
+        "Tuomo Tanttu",
+        "Chih Hwan Yang",
+        "MengKe Feng",
+        "Ensar Vahapoglu",
+        "Florian K. Unseld",
+        "Wee Han Lim",
+        "Andrea Morello",
+        "Andrew S. Dzurak",
+        "Kok Wai Chan"
       ],
-      "summary": "Physical Vapor Deposition (PVD) is widely utilized for the production of organic semiconductor devices due to its ability to form thin layers with exceptional properties. Although the layers in the device usually consist of two or more components, there is limited understanding about the fundamental characteristics of such multi-component vapor-deposited glasses. Here, spectroscopic ellipsometry was employed to characterize the densities, thermal stabilities and optical properties of co-vapor deposited NPD and TPD glasses across the entire range of composition. We find that co-deposited NPD and TPD form high density glasses with enhanced thermal stability. The dependences of density and stability upon substrate temperature are correlated, and the birefringence of the co-deposited glasses is determined by the reduced substrate temperature of mixtures. Additionally, we observe that the transformation of a highly stable and dense two component glass into its supercooled liquid initiates from the free surface and propagates into the bulk at constant velocity, like single component PVD glasses. All these features are consistent with the surface equilibration mechanism.",
-      "score": 7,
-      "priority": 0,
-      "highlights": [
-        "semiconductor",
-        "deposition"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体、deposition方向，围绕“High density two-component glasses of organic semiconductors prepared by physic…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体、deposition方向，围绕“High density two-component glasses of organic semiconductors prepared by physic…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 半导体、deposition.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: High density two-component glasses of organic semiconductors prepared by physical vapor deposit….",
-      "reading_notes": "Focus: 半导体、deposition.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: High density two-component glasses of organic semiconductors prepared by physical vapor deposit…."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2607.08653v1",
-      "title": "Physical aging of glasses of an organic semiconductor",
-      "url": "https://arxiv.org/abs/2607.08653v1",
-      "published": "2026-07-10",
-      "authors": [
-        "Shinian Cheng",
-        "Kritika Jha",
-        "Zijian Wang",
-        "Juliana B. Lugo",
-        "Hayley Kositzke",
-        "John H. Perepezko",
-        "Zahra Fakhraai",
-        "Mark D. Ediger"
-      ],
-      "summary": "All glasses, including organic semiconductor glasses, are non-equilibrium materials whose properties will change with time. This physical aging process is poorly understood for organic semiconductors, hindering the rational design of highly durable devices. In this study, we investigated the volume and enthalpy recovery processes in both thin films and bulk glasses of N,N'-Bis(3-methylphenyl)-N,N'-diphenylbenzidine (TPD). Our results revealed that volume recovery kinetics exhibit negligible dependence on film thickness for liquid-cooled TPD films between 400 nm and 100 nm. Additionally, the volume recovery process in TPD films was strongly coupled to the enthalpy recovery observed in bulk TPD glasses during annealing near the glass transition temperature. Remarkably, TPD films prepared by physical vapor deposition at room temperature demonstrated exceptional resistance to physical aging, with an aging rate approximately one order of magnitude lower than that of their liquid-cooled counterparts. These results not only enhance our understanding of the non-equilibrium dynamics in amorphous systems but also offer valuable insights for the design of next-generation organic devices with significantly improved stability and durability.",
+      "summary": "Heterogeneous integration provides a promising route to combine semiconductor quantum dot devices and superconducting microwave circuits, while allowing each component to be fabricated using an optimized process flow. Here, we demonstrate a flip-chip integrated platform for dispersive readout of silicon metal-oxide semiconductor (SiMOS) quantum dot devices. A SiMOS double quantum dot chip is bonded to a superconducting aluminum resonator chip using indium bump interconnects to enable microwave coupling to the quantum dot gate. We show that the developed flip-chip process is compatible with cryogenic operation of both the SiMOS device and the superconducting resonator, and demonstrate resonator-based detection of charge transitions in the quantum dot system. The readout signal-to-noise ratio follows a dependence of $\\sqrt{t}$ with the integration time, reaching SNR = 1 at an integration time of approximately 0.3 ms. These results establish flip-chip bonding as a viable integration approach for SiMOS quantum dot devices operating at both dc and microwave frequencies, with potential applications for resonator-based techniques such as spin-photon coupling.",
       "score": 6,
+      "priority": 0,
+      "highlights": [],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Dispersive Readout of a SiMOS Quantum Dot Using a Flip-Chip Integrated Microwav…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看效率/耦合表现、接触/互连相关指标、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Dispersive Readout of a SiMOS Quantum Dot Using a Flip-Chip Integrated Microwav…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看效率/耦合表现、接触/互连相关指标、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 效率/耦合表现、接触/互连相关指标、与既有工艺平台的集成价值.\nContext: Dispersive Readout of a SiMOS Quantum Dot Using a Flip-Chip Integrated Microwave Resonator.",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 效率/耦合表现、接触/互连相关指标、与既有工艺平台的集成价值.\nContext: Dispersive Readout of a SiMOS Quantum Dot Using a Flip-Chip Integrated Microwave Resonator."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2607.19157v1",
+      "title": "Direct Spatiotemporal Imaging of Charge Carrier Dynamics in Operative Semiconductor Devices",
+      "url": "https://arxiv.org/abs/2607.19157v1",
+      "published": "2026-07-21",
+      "authors": [
+        "Adriano Cola",
+        "Antonio Valletta",
+        "Isabella Farella",
+        "Vaclav Dědič",
+        "Lorenzo Dominici"
+      ],
+      "summary": "Understanding charge carrier dynamics within electronic devices is crucial, as it governs both the internal evolution of signals and the externally measurable current. Yet, direct imaging of these dynamics remains elusive: existing approaches are often indirect or inherently perturbative. Here, we introduce Carrier Dynamics by Pockels Imaging (CDPI), a sensitive, quantitative, and non-invasive method that enables direct access to internal charge dynamics. By probing the local electric field, CDPI visualizes photogenerated electron clouds in real space while simultaneously correlating their evolution with both conduction and displacement currents, thereby establishing a unified picture of carrier transport. The technique provides direct insight into fundamental mechanisms \\textemdash including drift, diffusion, carrier-carrier interactions, trapping and detrapping \\textemdash as well as the spatiotemporal evolution of carrier cloud morphology. Demonstrated in CdTe radiation detectors with micrometre-scale spatial resolution and nanosecond temporal resolution, CDPI is broadly applicable to systems exhibiting appreciable electro-optic responses. Beyond conventional semiconductors, the approach extends to organic, perovskite, and two-dimensional optoelectronic materials, offering a new paradigm for directly linking internal carrier dynamics to device-level functionality.",
+      "score": 5,
       "priority": 0,
       "highlights": [
         "semiconductor"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体方向，围绕“Physical aging of glasses of an organic semiconductor”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、可靠性与稳定性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体方向，围绕“Physical aging of glasses of an organic semiconductor”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、可靠性与稳定性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 半导体.\nWhat to check: 性能提升、可靠性与稳定性、接触/互连相关指标.\nContext: Physical aging of glasses of an organic semiconductor.",
-      "reading_notes": "Focus: 半导体.\nWhat to check: 性能提升、可靠性与稳定性、接触/互连相关指标.\nContext: Physical aging of glasses of an organic semiconductor."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体方向，围绕“Direct Spatiotemporal Imaging of Charge Carrier Dynamics in Operative Semicondu…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体方向，围绕“Direct Spatiotemporal Imaging of Charge Carrier Dynamics in Operative Semicondu…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 半导体.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Direct Spatiotemporal Imaging of Charge Carrier Dynamics in Operative Semiconductor Devices.",
+      "reading_notes": "Focus: 半导体.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Direct Spatiotemporal Imaging of Charge Carrier Dynamics in Operative Semiconductor Devices."
     },
     {
       "source": "arXiv",
-      "uid": "arxiv:2607.08361v1",
-      "title": "Polycrystalline ferroelectric croconic acid for multisource environmental energy harvesting",
-      "url": "https://arxiv.org/abs/2607.08361v1",
-      "published": "2026-07-09",
+      "uid": "arxiv:2607.18895v1",
+      "title": "Multiscale ensemble Monte Carlo of transport and gas sensing in monolayer MoS$_2$",
+      "url": "https://arxiv.org/abs/2607.18895v1",
+      "published": "2026-07-21",
       "authors": [
-        "Gloria P. Moreno-Martínez",
-        "Hari K. Mishra",
-        "Xabier García-Casas",
-        "María Alcaire",
-        "Vanda Godinho",
-        "Juan R. Sanchez-Valencia",
-        "Ana Borras",
-        "Angel Barranco"
+        "Lado Filipovic"
       ],
-      "summary": "The development of organic ferroelectric materials through scalable and simplified fabrication routes remains a major challenge for next-generation energy-harvesting technologies. Here, polycrystalline croconic acid (CA) thin films are fabricated by vacuum sublimation onto Ar plasma-treated flexible substrates and stabilized by in situ encapsulation with an adamantane-based remote plasma polymer. This solvent-free strategy effectively suppresses surface degradation under ambient conditions, providing long-term stability. Piezoresponse force microscopy confirms robust ferroelectricity with an oblique polarization orientation, well-defined domains, and low nanoscale coercive fields. The films were integrated into multilayer piezoelectric and pyroelectric devices. The piezoelectric performance strongly depends on film thickness, while embedding the CA layer between dielectric polymeric films significantly improves the macroscopic response, reaching power densities of up to 37 microW m-2 for ca. 2 micrometer CA films. Despite the common assumption that high crystallinity is required to sustain ferro-, piezo-, and pyroelectricity, these polycrystalline CA films exhibit remarkable RT pyroelectricity, a property not previously demonstrated in CA-based devices. A pyroelectric coefficient of ca. 10 microC m-2 K-1 highlights a functional response comparable to that of well-established organic and inorganic pyroelectric materials, demonstrating the potential of CA thin films for thermal energy harvesting. Beyond their functional performance, the proposed low-T fabrication route combines deposition and encapsulation in a single in situ process, simplifying device fabrication. Its compatibility with scalable vacuum technologies, flexible substrates, and further process optimization makes this approach highly promising for developing low-cost, lead-free, multisource energy-harvesting systems.",
-      "score": 6,
-      "priority": 0,
-      "highlights": [
-        "ferroelectric"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注铁电材料方向，围绕“Polycrystalline ferroelectric croconic acid for multisource environmental energ…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注铁电材料方向，围绕“Polycrystalline ferroelectric croconic acid for multisource environmental energ…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 铁电材料.\nWhat to check: 性能提升、可靠性与稳定性、功耗或能效表现.\nContext: Polycrystalline ferroelectric croconic acid for multisource environmental energy harvesting.",
-      "reading_notes": "Focus: 铁电材料.\nWhat to check: 性能提升、可靠性与稳定性、功耗或能效表现.\nContext: Polycrystalline ferroelectric croconic acid for multisource environmental energy harvesting."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2607.11105v1",
-      "title": "Tiling decomposition multiplicity predicts stability of GaN(0001) surface reconstructions",
-      "url": "https://arxiv.org/abs/2607.11105v1",
-      "published": "2026-07-13",
-      "authors": [
-        "Tetsuji Kuboyama",
-        "Akira Kusaba",
-        "Karol Kawka",
-        "Pawel Kempisty"
-      ],
-      "summary": "The stable adatom configurations of a semiconductor surface have traditionally been sought by sampling: density functional theory (DFT) energies steer a heuristic or Bayesian search through a configuration space far too large to cover. Here we show that, for the GaN(0001)-$(6\\times6)$ surface under the electron counting (EC) rule, the search can instead be posed as a discrete tiling problem and solved exhaustively. Enumerating all rhombus tilings of the surface lattice, together with all EC-compatible adatom arrangements built on them, yields the complete catalog of 416,683 configurations at fixed stoichiometry (3 Ga adatoms and 18 H atoms), organized by symmetry into 14 Ga placement classes. The number of tilings compatible with a given configuration, its tiling decomposition multiplicity $n_\\mathrm{til}$, predicts stability. Within each class, the configuration maximizing $n_\\mathrm{til}$ is the most stable. The rule holds strictly in 13 of the 14 classes; in the remaining class the minimum is itself among the highest-multiplicity configurations, with the $n_\\mathrm{til}$-max configuration only 8.5 meV above it; this ordering is reproduced by independent DFT calculations, and the difference is negligible at growth temperature. Stability screening uses a machine-learning interatomic potential validated against 710 DFT-computed structures. The rule reduces the candidate set for first-principles evaluation from 416,683 to 24 configurations, all of which have been evaluated with DFT. Analysis of the rule identifies the local mechanism, the avoidance of adjacent bare surface sites, while the existence of a compatible tiling remains a separate requirement with an energy cost of its own. Enumeration thus provides what sampling cannot: a coverage guarantee, and a route to stable-structure prediction in which first-principles input enters only at the final ranking step.",
-      "score": 5,
-      "priority": 0,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Tiling decomposition multiplicity predicts stability of GaN(0001) surface recon…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、功耗或能效表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Tiling decomposition multiplicity predicts stability of GaN(0001) surface recon…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、功耗或能效表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 可靠性与稳定性、功耗或能效表现、与既有工艺平台的集成价值.\nContext: Tiling decomposition multiplicity predicts stability of GaN(0001) surface reconstructions.",
-      "reading_notes": "Focus: GaN.\nWhat to check: 可靠性与稳定性、功耗或能效表现、与既有工艺平台的集成价值.\nContext: Tiling decomposition multiplicity predicts stability of GaN(0001) surface reconstructions."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2607.08889v1",
-      "title": "Generic behavior of ultrastability and anisotropic molecular packing in co-deposited organic semiconductor glass mixtures",
-      "url": "https://arxiv.org/abs/2607.08889v1",
-      "published": "2026-07-10",
-      "authors": [
-        "Shinian Cheng",
-        "Yejung Lee",
-        "Junguang Yu",
-        "Lian Yu",
-        "Mark D. Ediger"
-      ],
-      "summary": "Vapor-deposited glass mixtures of organic semiconductors commonly serve as active layers in organic electronic devices, whose lifetime and performance are strongly influenced by the stability and structure of these mixed glasses. Here, we study the stability and anisotropic molecular packing of six co-deposited organic semiconductor glass mixtures with 50:50 weight ratio, by differential scanning calorimetry and spectroscopic ellipsometry. We find that all six binary systems exhibit high kinetic stability and significantly reduced enthalpy relative to the corresponding liquid-cooled glassy mixtures (ultrastable behavior), even for systems where the glass transition temperatures of the components differ by more than 90 K. Furthermore, we demonstrate that the birefringence of a co-deposited glass mixture, a measure of its anisotropic packing, can be predicted from the birefringence of glasses of the two pure components. These results for stability and structure are expected to be applicable to other co-deposited organic semiconductor glass mixtures, so long as the two components mix well in the glass and individually can form ultrastable glasses. Therefore, our findings are significant for designing novel electronic devices with enhanced device lifetime and increased operational efficiency.",
-      "score": 5,
-      "priority": 0,
-      "highlights": [
-        "semiconductor"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体方向，围绕“Generic behavior of ultrastability and anisotropic molecular packing in co-depo…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体方向，围绕“Generic behavior of ultrastability and anisotropic molecular packing in co-depo…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 半导体.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: Generic behavior of ultrastability and anisotropic molecular packing in co-deposited organic se….",
-      "reading_notes": "Focus: 半导体.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: Generic behavior of ultrastability and anisotropic molecular packing in co-deposited organic se…."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2607.08617v1",
-      "title": "Large-scale first-principle simulations of amorphous indium oxide",
-      "url": "https://arxiv.org/abs/2607.08617v1",
-      "published": "2026-07-09",
-      "authors": [
-        "Matthew Bousquet",
-        "Francois Gygi",
-        "Giulia Galli"
-      ],
-      "summary": "Amorphous indium oxide (a-In$_2$O$_3$) is a high-electron-mobility semiconductor of central importance in thin-film transistors and a promising photoanode for solar-driven water oxidation. Despite sustained experimental and computational investigations, the structural motifs underlying its unusual transport properties and the existence of O-O peroxide-like bonds within its network have remained unresolved. Here we develop a MACE-based machine-learned interatomic potential trained on first-principles molecular dynamics trajectories and use it to generate and analyze amorphous structures containing up to 5120 atoms, two orders of magnitude larger than those adopted in typical ab initio studies. We find X-ray structure factors in excellent quantitative agreement with experiment and we confirm that In$_2$O$_3$ is a poor glass former, with the likely presence of quasi-crystalline regions in amorphous samples. Our large-scale structural analysis reveals extended chains of edge-sharing InO$_k$ polyhedra providing a concrete structural basis for the high electron mobility of a-In$_2$O$_3$. Our results strongly support the formation of O-O peroxide-like bonds in the amorphous network, with a mean length of 1.5 Å. We show that these bonds introduce localized in-gap states near the conduction band minimum, acting as a source of intrinsic n-type self-doping and enhancing sub-gap optical absorption. These effects are detectable via a distinct Raman feature near 850 cm$^{-1}$ that is absent in the IR spectrum. Overall, our results establish a comprehensive structure-property picture of a-In$_2$O$_3$, provide directly testable experimental predictions, and suggest that controlled amorphization is a viable strategy for improving the photoelectrochemical activity of a-In$_2$O$_3$.",
+      "summary": "Two-dimensional semiconductors, such as monolayer MoS$_2$, combine a technologically useful band gap with an all-surface geometry, making them attractive both as field-effect-transistor channels and as chemically sensitive devices. Predictive device design requires a transport model that is (i) physically grounded rather than empirical, (ii) validated against experiments, and (iii) able to span the scales from electron-phonon coupling to terminal current and sensor response. We present a self-consistent ensemble Monte Carlo (EMC) framework for monolayer MoS$_2$ built on the ViennaEMC solver, comprising a Boltzmann-transport kernel with a full intrinsic and extrinsic scattering stack (deformation-potential acoustic and intervalley phonons, polar-optical Fröhlich and piezoelectric coupling, remote substrate phonons, screened charged-impurity and surface-roughness scattering), degenerate free-carrier statistics, and a self-consistent Poisson coupling. The intrinsic transport parameters are verified against first-principles density-functional perturbation theory (DFPT), and seven quantities (lattice constant, conduction-band effective mass, band gap, Born effective charges, the longitudinal-optical phonon energy, and both in-plane sound velocities) agree with the reference parametrization. In a multiscale coupling, the EMC velocity-field characteristic feeds a one-dimensional velocity-saturation channel model, which captures the velocity-saturated field dependence and reproduces the measured transfer characteristics of a CVD monolayer device in air and vacuum. Finally, an ambient/adsorbate extension reproduces the measured conductivity response to oxygen partial pressure and the concentration dependence of NO$_2$ and NH$_3$ sensing measured in several independent devices.",
       "score": 5,
       "priority": 0,
       "highlights": [],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Large-scale first-principle simulations of amorphous indium oxide”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Large-scale first-principle simulations of amorphous indium oxide”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 可靠性与稳定性、先进尺度下的可扩展性.\nContext: Large-scale first-principle simulations of amorphous indium oxide.",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 可靠性与稳定性、先进尺度下的可扩展性.\nContext: Large-scale first-principle simulations of amorphous indium oxide."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Multiscale ensemble Monte Carlo of transport and gas sensing in monolayer MoS$_…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看效率/耦合表现、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Multiscale ensemble Monte Carlo of transport and gas sensing in monolayer MoS$_…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看效率/耦合表现、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Multiscale ensemble Monte Carlo of transport and gas sensing in monolayer MoS$_2$.",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Multiscale ensemble Monte Carlo of transport and gas sensing in monolayer MoS$_2$."
     },
     {
       "source": "arXiv",
-      "uid": "arxiv:2607.11003v1",
-      "title": "Ferroelectric--Superconducting Interaction in Epitaxial YBa2Cu3O7-δ/BaTiO3 Films",
-      "url": "https://arxiv.org/abs/2607.11003v1",
-      "published": "2026-07-13",
+      "uid": "arxiv:2607.17992v1",
+      "title": "A Voltage-Controlled Josephson Frequency Comb",
+      "url": "https://arxiv.org/abs/2607.17992v1",
+      "published": "2026-07-20",
       "authors": [
-        "Louis Oppong-Antwi",
-        "David L. Cortie",
-        "Qi Zhang",
-        "Avi Bendavid",
-        "Nagarajan Valanoor",
-        "Wendy Purches",
-        "Golrokh Akhgar"
+        "Giorgio De Simoni",
+        "Francesco Giazotto"
       ],
-      "summary": "Microscopic theories predict that the critical temperature of a superconducting layer can be strongly modified in proximity to a ferroelectric; however, experimental evidence is lacking. We report on BaTiO3 (BTO)/YBa2Cu3O7-δ (YBCO) heterostructures grown on SrTiO3 (001) substrates using pulsed laser deposition (PLD), with precise control of growth conditions and oxygen stoichiometry. Piezoresponse force microscopy confirms ferroelectric switching within both single-layer and heterostructured films. Neutron reflectometry measurements show low roughness parameters for the buried interfaces, which is critical for mediating the interfacial coupling between superconductivity and ferroelectric polarization. The superconducting transition temperature ($T_{\\mathrm{C}}^{R}$) measured from the $R(T)$ curve of the single-layer YBCO was approximately 86 K, and a transition temperature ($T_{\\mathrm{C}}^{M}$) of approximately 80-85 K was observed from the $M(T)$ curve. For the heterostructure film (YBCO/BTO/YBCO) grown under the same conditions, both resistivity and magnetization measurements indicate lower transition temperatures of approximately 75 K and approximately 55 K, respectively, as well as a lower overall susceptibility. These findings highlight the need to combine multiple techniques to characterize BTO/YBCO heterostructures and identify subtle features of the ferroelectric--superconducting coupling. This establishes BTO/YBCO heterostructures as promising systems for tunable oxide electronics and reconfigurable superconducting devices.",
-      "score": 4,
+      "summary": "Microwave frequency combs constitute promising resources for quantum technologies, cryogenic electronics, and multiplexed sensing architectures. In this work, we propose a frequency-comb generator based on a Josephson field-effect transistor operated in a relaxation-oscillation regime. The device comprises a gate-tunable ballistic superconductor-semiconductor-superconductor junction embedded in a resistively shunted circuit, in which electrostatic control of the carrier density enables in situ tuning of both the critical current and the Josephson inductance. Time-domain circuit simulations indicate that the resulting oscillator produces coherent voltage pulses whose Fourier spectrum forms a microwave frequency comb. In contrast to conventional Josephson-based comb architectures, the proposed platform provides direct electrical control of the comb spacing, emission frequencies, and modal power distribution via a gate electrode. For a representative Al/InAs implementation, we demonstrate continuous frequency coverage in the technologically relevant 1-10 GHz range. Furthermore, the concept is shown to be compatible with higher-$T_c$ superconductors, underscoring its potential as a compact and scalable microwave source for cryogenic quantum information and sensing applications.",
+      "score": 5,
       "priority": 0,
-      "highlights": [
-        "ferroelectric"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注铁电材料方向，围绕“Ferroelectric--Superconducting Interaction in Epitaxial YBa2Cu3O7-δ/BaTiO3 Films”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注铁电材料方向，围绕“Ferroelectric--Superconducting Interaction in Epitaxial YBa2Cu3O7-δ/BaTiO3 Films”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 铁电材料.\nWhat to check: 效率/耦合表现.\nContext: Ferroelectric--Superconducting Interaction in Epitaxial YBa2Cu3O7-δ/BaTiO3 Films.",
-      "reading_notes": "Focus: 铁电材料.\nWhat to check: 效率/耦合表现.\nContext: Ferroelectric--Superconducting Interaction in Epitaxial YBa2Cu3O7-δ/BaTiO3 Films."
+      "highlights": [],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“A Voltage-Controlled Josephson Frequency Comb”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看效率/耦合表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“A Voltage-Controlled Josephson Frequency Comb”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看效率/耦合表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 效率/耦合表现、与既有工艺平台的集成价值.\nContext: A Voltage-Controlled Josephson Frequency Comb.",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 效率/耦合表现、与既有工艺平台的集成价值.\nContext: A Voltage-Controlled Josephson Frequency Comb."
     }
   ],
   "errors": [],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-07-15T00:30:00+00:00"
+  "generated_at": "2026-07-23T00:30:00+00:00"
 }
