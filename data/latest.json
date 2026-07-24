@@ -2,7 +2,7 @@
   "ok": true,
   "new_count": 4,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-07-23）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 4 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Direct Spatiotemporal Imaging of Charge Carrier Dynamics in Operative Semiconductor Devices\n   关键词：semiconductor\n   日期：2026-07-21\n   Authors: Adriano Cola, Antonio Valletta, Isabella Farella 等\n   https://arxiv.org/abs/2607.19157v1\n2. [arXiv] Multiscale ensemble Monte Carlo of transport and gas sensing in monolayer MoS$_2$\n   日期：2026-07-21\n   Authors: Lado Filipovic\n   https://arxiv.org/abs/2607.18895v1\n3. [arXiv] Self-consistent GW theory for superconductivity in SrTiO3 models\n   日期：2026-07-21\n   Authors: Zhi-Hao Cui, John Sous, Andrew J. Millis 等\n   https://arxiv.org/abs/2607.18757v1\n4. [arXiv] Electron escape probability in high-efficiency photocathodes measured by reverse-injection …\n   日期：2026-07-21\n   Authors: S. A. Rozhkov, V. V. Bakin, D. A. Kustov 等\n   https://arxiv.org/abs/2607.18420v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-07-24）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 4 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] THz-Driven Floquet Spin Valve-Modulator\n   日期：2026-07-22\n   Authors: R. G. Nazmitdinov\n   https://arxiv.org/abs/2607.19897v1\n2. [arXiv] Quantum Simulation of Semiconductor Excitons in Ultracold Dipolar Fermi Gases\n   关键词：semiconductor\n   日期：2026-07-22\n   Authors: Florian Hirsch, Oriana K. Diessel, Rafał Ołdziejewski 等\n   https://arxiv.org/abs/2607.19467v1\n3. [arXiv] Analytical Retrieval of Material Parameters in Monolayer Transition-Metal Dichalcogenides B…\n   日期：2026-07-22\n   Authors: Duy-Nhat Ly, Thanh-Son Nguyen, Ngoc-Tram D. Hoang 等\n   https://arxiv.org/abs/2607.19698v1\n4. [arXiv] Coupled-channel approach to scattering of hybrid excitons\n   日期：2026-07-22\n   Authors: Yasufumi Nakano, Meera M. Parish, Jesper Levinsen\n   https://arxiv.org/abs/2607.19634v1",
   "papers": [
     {
       "source": "arXiv",
@@ -20,8 +20,8 @@
       "highlights": [
         "MOSFET"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET方向，围绕“Strong intervalley mixing between copropagating quantum Hall edge channels in a…”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看效率/耦合表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET方向，围绕“Strong intervalley mixing between copropagating quantum Hall edge channels in a…”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看效率/耦合表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_cn": "共传播量子霍尔边缘通道为紧凑型电子干涉测量和飞行量子态提供了一个有前景的平台。在硅中，谷自由度为自旋分辨边缘通道提供了一种天然替代方案，这是因为弱自旋–轨道相互作用会强烈抑制自旋翻转散射。在本研究中，我们利用双层栅控硅金属–氧化物–半导体场效应晶体管，研究共传播谷边缘通道之间的通道间跃迁。当体填充因子设定为 ν=2 时，两条自旋极化的谷边缘通道在一个耗尽型侧栅附近彼此靠近。我们观察到很强的谷间混合，跃迁概率接近 1/2，表明两条谷边缘通道之间几乎实现了完全平衡。相比之下，具有不同自旋取向的边缘通道之间的通道间输运表现出可忽略的跃迁概率，这与硅中受抑制的自旋翻转散射相一致。这些结果表明，Si/SiO₂ 界面处的谷间耦合能够为共传播谷边缘通道提供类似分束器的操作，从而为构建紧凑型硅量子霍尔干涉仪奠定了关键基础。",
+      "abstract_zh": "共传播量子霍尔边缘通道为紧凑型电子干涉测量和飞行量子态提供了一个有前景的平台。在硅中，谷自由度为自旋分辨边缘通道提供了一种天然替代方案，这是因为弱自旋–轨道相互作用会强烈抑制自旋翻转散射。在本研究中，我们利用双层栅控硅金属–氧化物–半导体场效应晶体管，研究共传播谷边缘通道之间的通道间跃迁。当体填充因子设定为 ν=2 时，两条自旋极化的谷边缘通道在一个耗尽型侧栅附近彼此靠近。我们观察到很强的谷间混合，跃迁概率接近 1/2，表明两条谷边缘通道之间几乎实现了完全平衡。相比之下，具有不同自旋取向的边缘通道之间的通道间输运表现出可忽略的跃迁概率，这与硅中受抑制的自旋翻转散射相一致。这些结果表明，Si/SiO₂ 界面处的谷间耦合能够为共传播谷边缘通道提供类似分束器的操作，从而为构建紧凑型硅量子霍尔干涉仪奠定了关键基础。",
       "overview_cn": "Focus: MOSFET.\nWhat to check: 效率/耦合表现、与既有工艺平台的集成价值.\nContext: Strong intervalley mixing between copropagating quantum Hall edge channels in a silicon MOSFET.",
       "reading_notes": "Focus: MOSFET.\nWhat to check: 效率/耦合表现、与既有工艺平台的集成价值.\nContext: Strong intervalley mixing between copropagating quantum Hall edge channels in a silicon MOSFET."
     },
@@ -40,10 +40,37 @@
       "highlights": [
         "transistor"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Hot-Carrier Distribution Spectroscopy by Transconductance in Two-Dimensional Fi…”展开。摘要显示，文章重点涉及电学/光学表征与测试结果，建议阅读时优先查看功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Hot-Carrier Distribution Spectroscopy by Transconductance in Two-Dimensional Fi…”展开。摘要显示，文章重点涉及电学/光学表征与测试结果，建议阅读时优先查看功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_cn": "场效应晶体管（FET）的跨导 g_m = dI_D/dV_G 通常被视为载流子密度的表征量。我们表明，跨导实际上是载流子分布的一种光谱探针：由于 g_m 对谱电流 j(E) 施加权重 ∂f(E)/∂V_G 并在能量上进行积分，因此它对 f(E) 的形状敏感，而不仅仅取决于其积分权重 n。我们建立了一个适用于二维（2D）FET 的能量分辨输运框架，并在栅压无关的光谱核近似下，推导出 g_m = g_m^(n) + g_m^(α) 的分解，其中 g_m^(n) 是传统的密度调制项，g_m^(α) 则是由分布形状驱动的项。后者通过从实测 g_m 中扣除平滑的密度调制背景而得到，并在某一栅极电压 V_G^pk 处呈现出特征性的异常峰。该峰在平衡输运中没有对应现象，且不能仅由载流子密度调制来解释。在完成光谱核标定后，从标准直流/锁相放大器 g_m 扫描中提取的峰位和峰高能够约束热载流子的能量 E_0、光谱宽度 σ 以及产生阈值 n_c，从而实现对载流子分布的稳态、全电学光谱测量。进一步地，通过可选的时间分辨扩展，还可以根据泵浦激发后的瞬态响应恢复载流子弛豫时间 τ，由此确立二维 FET 作为一种无需光学读出的分布函数光谱仪。",
+      "abstract_zh": "场效应晶体管（FET）的跨导 g_m = dI_D/dV_G 通常被视为载流子密度的表征量。我们表明，跨导实际上是载流子分布的一种光谱探针：由于 g_m 对谱电流 j(E) 施加权重 ∂f(E)/∂V_G 并在能量上进行积分，因此它对 f(E) 的形状敏感，而不仅仅取决于其积分权重 n。我们建立了一个适用于二维（2D）FET 的能量分辨输运框架，并在栅压无关的光谱核近似下，推导出 g_m = g_m^(n) + g_m^(α) 的分解，其中 g_m^(n) 是传统的密度调制项，g_m^(α) 则是由分布形状驱动的项。后者通过从实测 g_m 中扣除平滑的密度调制背景而得到，并在某一栅极电压 V_G^pk 处呈现出特征性的异常峰。该峰在平衡输运中没有对应现象，且不能仅由载流子密度调制来解释。在完成光谱核标定后，从标准直流/锁相放大器 g_m 扫描中提取的峰位和峰高能够约束热载流子的能量 E_0、光谱宽度 σ 以及产生阈值 n_c，从而实现对载流子分布的稳态、全电学光谱测量。进一步地，通过可选的时间分辨扩展，还可以根据泵浦激发后的瞬态响应恢复载流子弛豫时间 τ，由此确立二维 FET 作为一种无需光学读出的分布函数光谱仪。",
       "overview_cn": "Focus: 晶体管.\nWhat to check: 功耗或能效表现.\nContext: Hot-Carrier Distribution Spectroscopy by Transconductance in Two-Dimensional Field-Effect Trans….",
       "reading_notes": "Focus: 晶体管.\nWhat to check: 功耗或能效表现.\nContext: Hot-Carrier Distribution Spectroscopy by Transconductance in Two-Dimensional Field-Effect Trans…."
+    },
+    {
+      "source": "Physical Review Letters",
+      "uid": "doi:10.1103/61lp-6slp",
+      "title": "Space-Charge-Limited van der Waals Spin Transistor",
+      "url": "https://doi.org/10.1103/61lp-6slp",
+      "published": "2026-07-22",
+      "authors": [
+        "Thomas K. M. Graham",
+        "Yu-Xuan Wang",
+        "Niranjana Renjith Nair",
+        "Kseniia Mosina",
+        "Kenji Watanabe",
+        "Takashi Taniguchi",
+        "Zdeněk Sofer",
+        "Brian B. Zhou"
+      ],
+      "summary": "",
+      "score": 6,
+      "priority": 1,
+      "highlights": [
+        "transistor"
+      ],
+      "abstract_cn": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
+      "abstract_zh": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
+      "overview_cn": "Focus: 晶体管.\nNote: no abstract available; infer from title only.",
+      "reading_notes": "Focus: 晶体管.\nNote: no abstract available; infer from title only."
     },
     {
       "source": "arXiv",
@@ -75,10 +102,28 @@
       "highlights": [
         "CMOS"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS方向，围绕“Foundry CMOS platform for multimodal quantum materials characterization”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS方向，围绕“Foundry CMOS platform for multimodal quantum materials characterization”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_cn": "量子材料实验日益依赖微波、电学、热学、光学和结构表征手段，但这些功能通常由定制硬件组装而成，从而限制了实验的可重复性和可扩展性。在本研究中，我们表明，商用 65 nm CMOS 工艺可以被重新利用为一种无源、可由晶圆代工制造的表征平台：在 1 mm² 的占地面积内，将其金属层堆栈按功能划分为微波、热学和电学子系统。集成式射频架构能够在无需针对样品进行专门加工的情况下，于 1.75 K 对 Fe₃GeTe₂ 异质结构进行低温磁化率测量。我们进一步展示了 NV 中心光学探测磁共振（ODMR），在 4–9 dBm 的微波功率下实现了超过 20% 的对比度；与传统基于天线的方法相比，所需功率降低了 20–25 dB，同时保持了 2–3 μT/√Hz 的灵敏度。此外，我们还确认了该平台与原位电子束成像的兼容性，表明器件运行不会导致可测量的成像质量下降。这些结果确立了一种可扩展、可由晶圆代工制造的多模态量子传感与材料表征平台。",
+      "abstract_zh": "量子材料实验日益依赖微波、电学、热学、光学和结构表征手段，但这些功能通常由定制硬件组装而成，从而限制了实验的可重复性和可扩展性。在本研究中，我们表明，商用 65 nm CMOS 工艺可以被重新利用为一种无源、可由晶圆代工制造的表征平台：在 1 mm² 的占地面积内，将其金属层堆栈按功能划分为微波、热学和电学子系统。集成式射频架构能够在无需针对样品进行专门加工的情况下，于 1.75 K 对 Fe₃GeTe₂ 异质结构进行低温磁化率测量。我们进一步展示了 NV 中心光学探测磁共振（ODMR），在 4–9 dBm 的微波功率下实现了超过 20% 的对比度；与传统基于天线的方法相比，所需功率降低了 20–25 dB，同时保持了 2–3 μT/√Hz 的灵敏度。此外，我们还确认了该平台与原位电子束成像的兼容性，表明器件运行不会导致可测量的成像质量下降。这些结果确立了一种可扩展、可由晶圆代工制造的多模态量子传感与材料表征平台。",
       "overview_cn": "Focus: CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Foundry CMOS platform for multimodal quantum materials characterization.",
       "reading_notes": "Focus: CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Foundry CMOS platform for multimodal quantum materials characterization."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2607.19897v1",
+      "title": "THz-Driven Floquet Spin Valve-Modulator",
+      "url": "https://arxiv.org/abs/2607.19897v1",
+      "published": "2026-07-22",
+      "authors": [
+        "R. G. Nazmitdinov"
+      ],
+      "summary": "Within the scattering matrix ($S$-matrix) framework adapted to the high-frequency Floquet--Magnus formalism based on the length gauge, we investigate spin-dependent quantum transport in a 1D quantum ring with an asymmetric ($π/2$) configuration of quantum point contacts. We demonstrate the realization of a contactless electromagnetic analog of the Datta--Das spin field-effect transistor with ferromagnetic leads operating at zero static magnetic field. It is shown that an off-resonance terahertz (THz) field enables high-precision switching between spin channels without altering the static parameters of the nanostructure. Driven by an electronic Vernier effect, the quantum interference in the asymmetric geometry yields a selective spin phase rotator alongside an ultra-high-contrast current-suppression regime (``optical shutter''). The proposed architecture is fundamentally robust against multiphoton leakage sidebands, offering a thermally immune, high-speed alternative to conventional semiconductor static spin transistors.",
+      "score": 7,
+      "priority": 0,
+      "highlights": [],
+      "abstract_cn": "在适用于基于长度规范的高频 Floquet–Magnus 形式的散射矩阵（S 矩阵）框架下，我们研究了具有非对称（π/2）量子点接触构型的一维量子环中的自旋依赖量子输运。我们证明，在零静态磁场下，利用铁磁性引线可以实现一种无接触式电磁类 Datta–Das 自旋场效应晶体管。研究表明，失谐太赫兹（THz）场能够在不改变纳米结构静态参数的情况下，实现自旋通道之间的高精度切换。在电子游标效应的驱动下，非对称几何结构中的量子干涉产生了选择性的自旋相位旋转器，同时还形成了超高对比度的电流抑制状态（“光学快门”）。所提出的架构从根本上能够抵抗多光子泄漏边带，为传统半导体静态自旋晶体管提供了一种热免疫、高速的替代方案。",
+      "abstract_zh": "在适用于基于长度规范的高频 Floquet–Magnus 形式的散射矩阵（S 矩阵）框架下，我们研究了具有非对称（π/2）量子点接触构型的一维量子环中的自旋依赖量子输运。我们证明，在零静态磁场下，利用铁磁性引线可以实现一种无接触式电磁类 Datta–Das 自旋场效应晶体管。研究表明，失谐太赫兹（THz）场能够在不改变纳米结构静态参数的情况下，实现自旋通道之间的高精度切换。在电子游标效应的驱动下，非对称几何结构中的量子干涉产生了选择性的自旋相位旋转器，同时还形成了超高对比度的电流抑制状态（“光学快门”）。所提出的架构从根本上能够抵抗多光子泄漏边带，为传统半导体静态自旋晶体管提供了一种热免疫、高速的替代方案。",
+      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 可靠性与稳定性.\nContext: THz-Driven Floquet Spin Valve-Modulator.",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 可靠性与稳定性.\nContext: THz-Driven Floquet Spin Valve-Modulator."
     },
     {
       "source": "arXiv",
@@ -101,41 +146,33 @@
         "epitaxy",
         "GaN"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注epitaxy、GaN方向，围绕“Two-step growth of (In,Ga)N pseudo-substrates on GaN templates by plasma-assist…”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看效率/耦合表现、可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注epitaxy、GaN方向，围绕“Two-step growth of (In,Ga)N pseudo-substrates on GaN templates by plasma-assist…”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看效率/耦合表现、可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_cn": "采用等离子体辅助分子束外延，在 GaN 模板上生长了（In,Ga）N 层。我们提出了一种两步生长方案，其中生长条件由初始的氮稳定状态切换至金属稳定状态。反射高能电子衍射以及扫描电子显微镜和原子力显微镜表征显示，第一步生长形成了具有开放凹坑的粗糙中间表面，而最终表面则较为平整。光致发光谱带的窄线宽表明，顶层具有优异的组分均匀性。通过 X 射线衍射测量确定，其面内晶格常数约为 3.26 Å。这些有利性质的结合使得该类薄层适合作为生长红光发射（In,Ga）N 发光二极管的伪衬底。特别是，本文提出的方法不需要任何复杂的外部处理，因此具有可扩展性和经济性。",
+      "abstract_zh": "采用等离子体辅助分子束外延，在 GaN 模板上生长了（In,Ga）N 层。我们提出了一种两步生长方案，其中生长条件由初始的氮稳定状态切换至金属稳定状态。反射高能电子衍射以及扫描电子显微镜和原子力显微镜表征显示，第一步生长形成了具有开放凹坑的粗糙中间表面，而最终表面则较为平整。光致发光谱带的窄线宽表明，顶层具有优异的组分均匀性。通过 X 射线衍射测量确定，其面内晶格常数约为 3.26 Å。这些有利性质的结合使得该类薄层适合作为生长红光发射（In,Ga）N 发光二极管的伪衬底。特别是，本文提出的方法不需要任何复杂的外部处理，因此具有可扩展性和经济性。",
       "overview_cn": "Focus: epitaxy、GaN.\nWhat to check: 效率/耦合表现、可靠性与稳定性、功耗或能效表现.\nContext: Two-step growth of (In,Ga)N pseudo-substrates on GaN templates by plasma-assisted molecular bea….",
       "reading_notes": "Focus: epitaxy、GaN.\nWhat to check: 效率/耦合表现、可靠性与稳定性、功耗或能效表现.\nContext: Two-step growth of (In,Ga)N pseudo-substrates on GaN templates by plasma-assisted molecular bea…."
     },
     {
       "source": "arXiv",
-      "uid": "arxiv:2607.14559v1",
-      "title": "Dispersive Readout of a SiMOS Quantum Dot Using a Flip-Chip Integrated Microwave Resonator",
-      "url": "https://arxiv.org/abs/2607.14559v1",
-      "published": "2026-07-16",
+      "uid": "arxiv:2607.19467v1",
+      "title": "Quantum Simulation of Semiconductor Excitons in Ultracold Dipolar Fermi Gases",
+      "url": "https://arxiv.org/abs/2607.19467v1",
+      "published": "2026-07-22",
       "authors": [
-        "Vo Kim Hieu Van",
-        "Santiago Serrano",
-        "Cédric Bohémier",
-        "Ajit Dash",
-        "Fay E. Hudson",
-        "Tuomo Tanttu",
-        "Chih Hwan Yang",
-        "MengKe Feng",
-        "Ensar Vahapoglu",
-        "Florian K. Unseld",
-        "Wee Han Lim",
-        "Andrea Morello",
-        "Andrew S. Dzurak",
-        "Kok Wai Chan"
+        "Florian Hirsch",
+        "Oriana K. Diessel",
+        "Rafał Ołdziejewski",
+        "Richard Schmidt"
       ],
-      "summary": "Heterogeneous integration provides a promising route to combine semiconductor quantum dot devices and superconducting microwave circuits, while allowing each component to be fabricated using an optimized process flow. Here, we demonstrate a flip-chip integrated platform for dispersive readout of silicon metal-oxide semiconductor (SiMOS) quantum dot devices. A SiMOS double quantum dot chip is bonded to a superconducting aluminum resonator chip using indium bump interconnects to enable microwave coupling to the quantum dot gate. We show that the developed flip-chip process is compatible with cryogenic operation of both the SiMOS device and the superconducting resonator, and demonstrate resonator-based detection of charge transitions in the quantum dot system. The readout signal-to-noise ratio follows a dependence of $\\sqrt{t}$ with the integration time, reaching SNR = 1 at an integration time of approximately 0.3 ms. These results establish flip-chip bonding as a viable integration approach for SiMOS quantum dot devices operating at both dc and microwave frequencies, with potential applications for resonator-based techniques such as spin-photon coupling.",
-      "score": 6,
+      "summary": "Inspired by the progress on the study of exciton physics in atomically thin transition metal dichalcogenide (TMD) semiconductors, we investigate the formation of analogs of excitons in cold atomic systems. To this end, we consider single-component fermions comprised of ultracold ground-state molecules or dipolar atoms in a hexagonal optical lattice. An energy offset between triangular sublattices opens up a band gap with degeneracies at the K/K' points as in TMDs. We predict the existence of cold atomic excitons and show that cold atoms allow us to study excitons from the weak-coupling regime, where effective mass models apply, to the strong-interaction regime, described by flat-band models. We demonstrate how these excitons can be observed using lattice modulation spectroscopy, and how their wave functions can be mapped out using quantum gas microscopy. Firmly establishing the idea of quantum simulation of semiconductor physics, this work lays the foundation for simulating complex electronic states such as trions, polarons and excitonic insulators.",
+      "score": 5,
       "priority": 0,
-      "highlights": [],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Dispersive Readout of a SiMOS Quantum Dot Using a Flip-Chip Integrated Microwav…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看效率/耦合表现、接触/互连相关指标、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Dispersive Readout of a SiMOS Quantum Dot Using a Flip-Chip Integrated Microwav…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看效率/耦合表现、接触/互连相关指标、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 效率/耦合表现、接触/互连相关指标、与既有工艺平台的集成价值.\nContext: Dispersive Readout of a SiMOS Quantum Dot Using a Flip-Chip Integrated Microwave Resonator.",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 效率/耦合表现、接触/互连相关指标、与既有工艺平台的集成价值.\nContext: Dispersive Readout of a SiMOS Quantum Dot Using a Flip-Chip Integrated Microwave Resonator."
+      "highlights": [
+        "semiconductor"
+      ],
+      "abstract_cn": "受原子级薄层过渡金属二硫族化物（TMD）半导体中激子物理研究进展的启发，我们研究了在冷原子体系中形成激子类似物的可能性。为此，我们考虑了由超冷基态分子或偶极原子组成的单组分费米子体系，并将其置于六角形光学晶格中。三角形子晶格之间的能量偏移会打开一个带隙，并在 K/K' 点产生与 TMD 中相同的简并结构。我们预测了冷原子激子的存在，并表明冷原子能够使我们研究从弱耦合区间到强相互作用区间的激子物理：在弱耦合区间，有效质量模型适用；在强相互作用区间，则由平带模型描述。我们展示了如何利用晶格调制光谱学观测这些激子，以及如何通过量子气体显微镜描绘出它们的波函数。该工作确立了对半导体物理进行量子模拟的基本思想，并为模拟三重激子、极化子和激子绝缘体等复杂电子态奠定了基础。",
+      "abstract_zh": "受原子级薄层过渡金属二硫族化物（TMD）半导体中激子物理研究进展的启发，我们研究了在冷原子体系中形成激子类似物的可能性。为此，我们考虑了由超冷基态分子或偶极原子组成的单组分费米子体系，并将其置于六角形光学晶格中。三角形子晶格之间的能量偏移会打开一个带隙，并在 K/K' 点产生与 TMD 中相同的简并结构。我们预测了冷原子激子的存在，并表明冷原子能够使我们研究从弱耦合区间到强相互作用区间的激子物理：在弱耦合区间，有效质量模型适用；在强相互作用区间，则由平带模型描述。我们展示了如何利用晶格调制光谱学观测这些激子，以及如何通过量子气体显微镜描绘出它们的波函数。该工作确立了对半导体物理进行量子模拟的基本思想，并为模拟三重激子、极化子和激子绝缘体等复杂电子态奠定了基础。",
+      "overview_cn": "Focus: 半导体.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Quantum Simulation of Semiconductor Excitons in Ultracold Dipolar Fermi Gases.",
+      "reading_notes": "Focus: 半导体.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Quantum Simulation of Semiconductor Excitons in Ultracold Dipolar Fermi Gases."
     },
     {
       "source": "arXiv",
@@ -156,52 +193,15 @@
       "highlights": [
         "semiconductor"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体方向，围绕“Direct Spatiotemporal Imaging of Charge Carrier Dynamics in Operative Semicondu…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体方向，围绕“Direct Spatiotemporal Imaging of Charge Carrier Dynamics in Operative Semicondu…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_cn": "理解电子器件内部的载流子动力学至关重要，因为它同时决定了信号的内部演化过程和外部可测量的电流。然而，对这些动力学过程进行直接成像仍然难以实现：现有方法往往是间接的，或本质上具有扰动性。在本研究中，我们提出了基于 Pockels 成像的载流子动力学表征方法（Carrier Dynamics by Pockels Imaging，CDPI）。这是一种高灵敏度、定量且非侵入式的方法，能够直接获取器件内部的电荷动力学信息。通过探测局部电场，CDPI 可以在实空间中对光生电子云进行可视化，同时将其演化过程与传导电流和位移电流关联起来，从而建立统一的载流子输运图像。该技术能够直接揭示漂移、扩散、载流子–载流子相互作用、俘获与脱俘获等基本机制，以及载流子云形貌的时空演化。我们在碲化镉（CdTe）辐射探测器中验证了该方法，实现了微米尺度的空间分辨率和纳秒级的时间分辨率。CDPI 广泛适用于具有显著电光响应的体系。除传统半导体之外，该方法还可扩展至有机、钙钛矿和二维光电材料，为直接建立内部载流子动力学与器件级功能之间的联系提供了一种全新的范式。",
+      "abstract_zh": "理解电子器件内部的载流子动力学至关重要，因为它同时决定了信号的内部演化过程和外部可测量的电流。然而，对这些动力学过程进行直接成像仍然难以实现：现有方法往往是间接的，或本质上具有扰动性。在本研究中，我们提出了基于 Pockels 成像的载流子动力学表征方法（Carrier Dynamics by Pockels Imaging，CDPI）。这是一种高灵敏度、定量且非侵入式的方法，能够直接获取器件内部的电荷动力学信息。通过探测局部电场，CDPI 可以在实空间中对光生电子云进行可视化，同时将其演化过程与传导电流和位移电流关联起来，从而建立统一的载流子输运图像。该技术能够直接揭示漂移、扩散、载流子–载流子相互作用、俘获与脱俘获等基本机制，以及载流子云形貌的时空演化。我们在碲化镉（CdTe）辐射探测器中验证了该方法，实现了微米尺度的空间分辨率和纳秒级的时间分辨率。CDPI 广泛适用于具有显著电光响应的体系。除传统半导体之外，该方法还可扩展至有机、钙钛矿和二维光电材料，为直接建立内部载流子动力学与器件级功能之间的联系提供了一种全新的范式。",
       "overview_cn": "Focus: 半导体.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Direct Spatiotemporal Imaging of Charge Carrier Dynamics in Operative Semiconductor Devices.",
       "reading_notes": "Focus: 半导体.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Direct Spatiotemporal Imaging of Charge Carrier Dynamics in Operative Semiconductor Devices."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2607.18895v1",
-      "title": "Multiscale ensemble Monte Carlo of transport and gas sensing in monolayer MoS$_2$",
-      "url": "https://arxiv.org/abs/2607.18895v1",
-      "published": "2026-07-21",
-      "authors": [
-        "Lado Filipovic"
-      ],
-      "summary": "Two-dimensional semiconductors, such as monolayer MoS$_2$, combine a technologically useful band gap with an all-surface geometry, making them attractive both as field-effect-transistor channels and as chemically sensitive devices. Predictive device design requires a transport model that is (i) physically grounded rather than empirical, (ii) validated against experiments, and (iii) able to span the scales from electron-phonon coupling to terminal current and sensor response. We present a self-consistent ensemble Monte Carlo (EMC) framework for monolayer MoS$_2$ built on the ViennaEMC solver, comprising a Boltzmann-transport kernel with a full intrinsic and extrinsic scattering stack (deformation-potential acoustic and intervalley phonons, polar-optical Fröhlich and piezoelectric coupling, remote substrate phonons, screened charged-impurity and surface-roughness scattering), degenerate free-carrier statistics, and a self-consistent Poisson coupling. The intrinsic transport parameters are verified against first-principles density-functional perturbation theory (DFPT), and seven quantities (lattice constant, conduction-band effective mass, band gap, Born effective charges, the longitudinal-optical phonon energy, and both in-plane sound velocities) agree with the reference parametrization. In a multiscale coupling, the EMC velocity-field characteristic feeds a one-dimensional velocity-saturation channel model, which captures the velocity-saturated field dependence and reproduces the measured transfer characteristics of a CVD monolayer device in air and vacuum. Finally, an ambient/adsorbate extension reproduces the measured conductivity response to oxygen partial pressure and the concentration dependence of NO$_2$ and NH$_3$ sensing measured in several independent devices.",
-      "score": 5,
-      "priority": 0,
-      "highlights": [],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Multiscale ensemble Monte Carlo of transport and gas sensing in monolayer MoS$_…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看效率/耦合表现、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Multiscale ensemble Monte Carlo of transport and gas sensing in monolayer MoS$_…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看效率/耦合表现、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Multiscale ensemble Monte Carlo of transport and gas sensing in monolayer MoS$_2$.",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Multiscale ensemble Monte Carlo of transport and gas sensing in monolayer MoS$_2$."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2607.17992v1",
-      "title": "A Voltage-Controlled Josephson Frequency Comb",
-      "url": "https://arxiv.org/abs/2607.17992v1",
-      "published": "2026-07-20",
-      "authors": [
-        "Giorgio De Simoni",
-        "Francesco Giazotto"
-      ],
-      "summary": "Microwave frequency combs constitute promising resources for quantum technologies, cryogenic electronics, and multiplexed sensing architectures. In this work, we propose a frequency-comb generator based on a Josephson field-effect transistor operated in a relaxation-oscillation regime. The device comprises a gate-tunable ballistic superconductor-semiconductor-superconductor junction embedded in a resistively shunted circuit, in which electrostatic control of the carrier density enables in situ tuning of both the critical current and the Josephson inductance. Time-domain circuit simulations indicate that the resulting oscillator produces coherent voltage pulses whose Fourier spectrum forms a microwave frequency comb. In contrast to conventional Josephson-based comb architectures, the proposed platform provides direct electrical control of the comb spacing, emission frequencies, and modal power distribution via a gate electrode. For a representative Al/InAs implementation, we demonstrate continuous frequency coverage in the technologically relevant 1-10 GHz range. Furthermore, the concept is shown to be compatible with higher-$T_c$ superconductors, underscoring its potential as a compact and scalable microwave source for cryogenic quantum information and sensing applications.",
-      "score": 5,
-      "priority": 0,
-      "highlights": [],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“A Voltage-Controlled Josephson Frequency Comb”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看效率/耦合表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“A Voltage-Controlled Josephson Frequency Comb”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看效率/耦合表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 效率/耦合表现、与既有工艺平台的集成价值.\nContext: A Voltage-Controlled Josephson Frequency Comb.",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 效率/耦合表现、与既有工艺平台的集成价值.\nContext: A Voltage-Controlled Josephson Frequency Comb."
     }
   ],
   "errors": [],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-07-23T00:30:00+00:00"
+  "generated_at": "2026-07-24T00:30:00+00:00"
 }
