@@ -1,14 +1,195 @@
 {
   "ok": true,
-  "new_count": 0,
-  "selected_count": 0,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-07-27）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n今天暂时没刷到新的高相关论文。\n抓取异常：arXiv",
-  "papers": [],
-  "errors": [
-    "arXiv"
+  "new_count": 2,
+  "selected_count": 8,
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-07-28）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 2 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] From Amorphous to Amorphous-Crystalline Mixed-Phase Boron Nitride: Evolution of the Thermal…\n   日期：2026-07-24\n   Authors: Jiaqi Yang, Thomas Souvignet, Onurcan Kaya 等\n   https://arxiv.org/abs/2607.22185v1\n2. [arXiv] Symmetry-Adapted Physical and Vibrational Properties of Ferroelectric Perovskite Oxides: Ap…\n   关键词：ferroelectric\n   日期：2026-07-23\n   Authors: Sumit Ranjan Maity, Brajesh Tiwari\n   https://arxiv.org/abs/2607.21682v1",
+  "papers": [
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2607.20810v1",
+      "title": "Photo-induced currents and short-term memory for reservoir computing in a ferroelectric semiconductor",
+      "url": "https://arxiv.org/abs/2607.20810v1",
+      "published": "2026-07-23",
+      "authors": [
+        "Yan Meng Chong",
+        "Atreya Majumdar",
+        "Manuel Zahn",
+        "Ingvild Hansen",
+        "Karin Everschor-Sitte",
+        "Dennis Meier"
+      ],
+      "summary": "Physical reservoir computing represents an energy efficient approach for processing temporal signals by exploiting the intrinsic nonlinear dynamics and fading memory of a physical system. Recently, ferroelectric semiconductors moved into focus as reservoir materials motivated by their versatile electronic responses to external stimuli. Here, we explore the fundamental possibility to recognize time-varying light pulses via photo-induced currents, using the small-band-gap p-type semiconductor ErMnO$_3$ as a model system. Under white light illumination, ErMnO$_3$ exhibits non-linearly evolving photo-induced currents and controllable relaxation dynamics that naturally realize the high-dimensional projection and fading memory capabilities required for reservoir computing. The reservoir capability of ErMnO$_3$ is reflected by the improved recognition accuracy of \"Past\" input pulses, which increases from ~33% to ~93% after applying reservoir transformation to the input signal. The results present ferroelectric hexagonal manganites as a promising platform for photo-induced current-based reservoir computing and highlight the potential of light-driven oxide semiconductors for temporal information processing.",
+      "score": 8,
+      "priority": 0,
+      "highlights": [
+        "semiconductor",
+        "ferroelectric"
+      ],
+      "abstract_cn": "物理储备池计算通过利用物理系统固有的非线性动力学和衰减记忆，为处理时间信号提供了一种能量高效的方法。近年来，铁电半导体因其对外部刺激具有多样化的电子响应而成为储备池材料研究的焦点。在这里，我们以小带隙 p 型半导体 ErMnO$_3$ 作为模型体系，探索通过光诱导电流识别随时间变化的光脉冲这一基本可能性。在白光照射下，ErMnO$_3$ 表现出非线性演化的光诱导电流以及可控的弛豫动力学，从而自然实现储备池计算所需的高维投影和衰减记忆能力。ErMnO$_3$ 的储备池能力体现在对“Past”输入脉冲识别准确率的提升上：在对输入信号施加储备池变换后，识别准确率由约 33% 提高到约 93%。这些结果表明，铁电六方锰氧化物是基于光诱导电流的储备池计算的有前景平台，并突出了光驱动氧化物半导体在时间信息处理中的潜力。",
+      "abstract_zh": "物理储备池计算通过利用物理系统固有的非线性动力学和衰减记忆，为处理时间信号提供了一种能量高效的方法。近年来，铁电半导体因其对外部刺激具有多样化的电子响应而成为储备池材料研究的焦点。在这里，我们以小带隙 p 型半导体 ErMnO$_3$ 作为模型体系，探索通过光诱导电流识别随时间变化的光脉冲这一基本可能性。在白光照射下，ErMnO$_3$ 表现出非线性演化的光诱导电流以及可控的弛豫动力学，从而自然实现储备池计算所需的高维投影和衰减记忆能力。ErMnO$_3$ 的储备池能力体现在对“Past”输入脉冲识别准确率的提升上：在对输入信号施加储备池变换后，识别准确率由约 33% 提高到约 93%。这些结果表明，铁电六方锰氧化物是基于光诱导电流的储备池计算的有前景平台，并突出了光驱动氧化物半导体在时间信息处理中的潜力。",
+      "overview_cn": "Focus: 半导体、铁电材料.\nWhat to check: 性能提升、功耗或能效表现.\nContext: Photo-induced currents and short-term memory for reservoir computing in a ferroelectric semicon….",
+      "reading_notes": "Focus: 半导体、铁电材料.\nWhat to check: 性能提升、功耗或能效表现.\nContext: Photo-induced currents and short-term memory for reservoir computing in a ferroelectric semicon…."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2607.19897v1",
+      "title": "THz-Driven Floquet Spin Valve-Modulator",
+      "url": "https://arxiv.org/abs/2607.19897v1",
+      "published": "2026-07-22",
+      "authors": [
+        "R. G. Nazmitdinov"
+      ],
+      "summary": "Within the scattering matrix ($S$-matrix) framework adapted to the high-frequency Floquet--Magnus formalism based on the length gauge, we investigate spin-dependent quantum transport in a 1D quantum ring with an asymmetric ($π/2$) configuration of quantum point contacts. We demonstrate the realization of a contactless electromagnetic analog of the Datta--Das spin field-effect transistor with ferromagnetic leads operating at zero static magnetic field. It is shown that an off-resonance terahertz (THz) field enables high-precision switching between spin channels without altering the static parameters of the nanostructure. Driven by an electronic Vernier effect, the quantum interference in the asymmetric geometry yields a selective spin phase rotator alongside an ultra-high-contrast current-suppression regime (``optical shutter''). The proposed architecture is fundamentally robust against multiphoton leakage sidebands, offering a thermally immune, high-speed alternative to conventional semiconductor static spin transistors.",
+      "score": 7,
+      "priority": 0,
+      "highlights": [],
+      "abstract_cn": "在适配于基于长度规范的高频 Floquet--Magnus 形式体系的散射矩阵（$S$ 矩阵）框架内，我们研究了具有非对称（$π/2$）量子点接触构型的一维量子环中的自旋相关量子输运。我们展示了在零静态磁场下工作的、带有铁磁电极的 Datta--Das 自旋场效应晶体管的无接触电磁类比实现。研究表明，非共振太赫兹（THz）场能够在不改变纳米结构静态参数的情况下，实现自旋通道之间的高精度切换。在电子 Vernier 效应驱动下，非对称几何中的量子干涉产生选择性的自旋相位旋转器，同时形成超高对比度的电流抑制工作区间（“光学快门”）。所提出的架构在本质上对多光子泄漏边带具有鲁棒性，为传统半导体静态自旋晶体管提供了一种热免疫、高速的替代方案。",
+      "abstract_zh": "在适配于基于长度规范的高频 Floquet--Magnus 形式体系的散射矩阵（$S$ 矩阵）框架内，我们研究了具有非对称（$π/2$）量子点接触构型的一维量子环中的自旋相关量子输运。我们展示了在零静态磁场下工作的、带有铁磁电极的 Datta--Das 自旋场效应晶体管的无接触电磁类比实现。研究表明，非共振太赫兹（THz）场能够在不改变纳米结构静态参数的情况下，实现自旋通道之间的高精度切换。在电子 Vernier 效应驱动下，非对称几何中的量子干涉产生选择性的自旋相位旋转器，同时形成超高对比度的电流抑制工作区间（“光学快门”）。所提出的架构在本质上对多光子泄漏边带具有鲁棒性，为传统半导体静态自旋晶体管提供了一种热免疫、高速的替代方案。",
+      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 可靠性与稳定性.\nContext: THz-Driven Floquet Spin Valve-Modulator.",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 可靠性与稳定性.\nContext: THz-Driven Floquet Spin Valve-Modulator."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2607.22185v1",
+      "title": "From Amorphous to Amorphous-Crystalline Mixed-Phase Boron Nitride: Evolution of the Thermal and Elastic Properties",
+      "url": "https://arxiv.org/abs/2607.22185v1",
+      "published": "2026-07-24",
+      "authors": [
+        "Jiaqi Yang",
+        "Thomas Souvignet",
+        "Onurcan Kaya",
+        "Peng Xiao",
+        "Emigdio Chavez-Angel",
+        "Daniel Capolat Palomar",
+        "Zuzanna Ewa Kaczmarska",
+        "Bartlomiej Graczykowski",
+        "Javier Rodriguez Viejo",
+        "Clivia M. Sotomayor Torres",
+        "Catherine Marichy",
+        "Catherine Journet",
+        "Stephan Roche",
+        "Marianna Sledzinska"
+      ],
+      "summary": "Amorphous boron nitride (aBN) is a promising dielectric and protective coating, yet its nanoscale heat dissipation and elastic response remain poorly quantified. Here we synthesize a variety of BN thin films by borazine-based chemical vapor deposition (800-1000 C) and study the temperature-driven structural transition from fully amorphous networks to mixed amorphous-crystalline films with embedded BN nanocrystallites.Frequency-domain thermoreflectance data show an ultralow, thickness-dependent cross-plane thermal conductivity for aBN (kout < 0.5 W m-1 K-1 for 10-40 nm), which increases systematically with crystalline order up to 1.5 W m-1 K-1. Micro-Brillouin light scattering and finite-element modelling reveal a concomitant stiffening, with Young's modulus rising from 7.5 +/- 0.7 GPa (800 C) to 53 +/- 5 GPa (1000 C). Green-Kubo molecular dynamics simulations rationalize these trends via bonding topology and vibrational transport, and highlight how oxygen, hydrogen and carbon impurities and composition provide practical knobs to further tune the thermal and mechanical responses in BN films for improving nano-electronics, interconnects and coating applications.",
+      "score": 5,
+      "priority": 0,
+      "highlights": [],
+      "abstract_cn": "非晶氮化硼（aBN）是一种有前景的介电材料和保护涂层，但其纳米尺度散热能力和弹性响应仍缺乏充分定量。在这里，我们通过基于硼嗪的化学气相沉积（800–1000 C）合成了多种 BN 薄膜，并研究了由温度驱动的结构转变，即从完全非晶网络转变为嵌入 BN 纳米晶的非晶-晶态混合相薄膜。频域热反射数据表明，aBN 具有超低且依赖厚度的面外热导率（对于 10–40 nm，kout < 0.5 W m-1 K-1），并且该热导率随晶体有序程度提高而系统增加，最高达到 1.5 W m-1 K-1。微布里渊光散射和有限元建模揭示了伴随发生的刚化现象，杨氏模量从 7.5 +/- 0.7 GPa（800 C）升高到 53 +/- 5 GPa（1000 C）。Green-Kubo 分子动力学模拟从键合拓扑和振动输运角度解释了这些趋势，并强调氧、氢和碳杂质以及组成可作为实用调控手段，进一步调节 BN 薄膜的热响应和力学响应，从而改进其在纳米电子、互连和涂层应用中的性能。",
+      "abstract_zh": "非晶氮化硼（aBN）是一种有前景的介电材料和保护涂层，但其纳米尺度散热能力和弹性响应仍缺乏充分定量。在这里，我们通过基于硼嗪的化学气相沉积（800–1000 C）合成了多种 BN 薄膜，并研究了由温度驱动的结构转变，即从完全非晶网络转变为嵌入 BN 纳米晶的非晶-晶态混合相薄膜。频域热反射数据表明，aBN 具有超低且依赖厚度的面外热导率（对于 10–40 nm，kout < 0.5 W m-1 K-1），并且该热导率随晶体有序程度提高而系统增加，最高达到 1.5 W m-1 K-1。微布里渊光散射和有限元建模揭示了伴随发生的刚化现象，杨氏模量从 7.5 +/- 0.7 GPa（800 C）升高到 53 +/- 5 GPa（1000 C）。Green-Kubo 分子动力学模拟从键合拓扑和振动输运角度解释了这些趋势，并强调氧、氢和碳杂质以及组成可作为实用调控手段，进一步调节 BN 薄膜的热响应和力学响应，从而改进其在纳米电子、互连和涂层应用中的性能。",
+      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 接触/互连相关指标.\nContext: From Amorphous to Amorphous-Crystalline Mixed-Phase Boron Nitride: Evolution of the Thermal and….",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 接触/互连相关指标.\nContext: From Amorphous to Amorphous-Crystalline Mixed-Phase Boron Nitride: Evolution of the Thermal and…."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2607.21682v1",
+      "title": "Symmetry-Adapted Physical and Vibrational Properties of Ferroelectric Perovskite Oxides: Application to PbZrxTi1-xO3",
+      "url": "https://arxiv.org/abs/2607.21682v1",
+      "published": "2026-07-23",
+      "authors": [
+        "Sumit Ranjan Maity",
+        "Brajesh Tiwari"
+      ],
+      "summary": "Crystal symmetry governs macroscopic physical properties and lattice dynamics in functional materials. We present a systematic application of tensor analysis and group theory to determine allowed physical-property tensors, vibrational-mode symmetries, and Raman selection rules directly from crystallographic point-group symmetry. The approach is applied to the prototypical ferroelectric PbZrxTi1-xO3 (PZT). Symmetry lowering across the PZT phase diagram increases the number of independent pyroelectric, dielectric, and piezoelectric tensor components and modifies the symmetry classification of Raman-active vibrations. These mode classifications enable symmetry-based decomposition of reported room-temperature powder Raman spectra as a function of composition (x) across the morphotropic phase boundary, revealing the tetragonal-to-rhombohedral transition as a continuous redistribution of spectral intensity rather than emergence of new Raman modes. Persistent subpeak structure in selected modes indicates local symmetry breaking due to cation disorder and lattice anharmonicity, underscoring the importance of crystallographic symmetry analysis for interpreting functional and vibrational properties of ferroelectric perovskite oxides.",
+      "score": 5,
+      "priority": 0,
+      "highlights": [
+        "ferroelectric"
+      ],
+      "abstract_cn": "晶体对称性支配功能材料中的宏观物理性质和晶格动力学。我们提出了张量分析与群论的系统应用方法，可直接从晶体学点群对称性确定允许的物性张量、振动模对称性以及拉曼选择定则。该方法应用于典型铁电体 PbZr_xTi_{1-x}O_3（PZT）。在 PZT 相图中，对称性降低会增加热释电、介电和压电张量分量的独立数目，并改变拉曼活性振动的对称性分类。这些模分类使得能够基于对称性，对已报道的室温粉末拉曼光谱随组成（x）跨越准同型相界的变化进行分解，揭示四方相到菱方相转变表现为光谱强度的连续重新分布，而不是新的拉曼模出现。选定模中持续存在的子峰结构表明，由阳离子无序和晶格非谐性导致了局域对称性破缺，这突出了晶体学对称性分析对于解释铁电钙钛矿氧化物功能性质和振动性质的重要性。",
+      "abstract_zh": "晶体对称性支配功能材料中的宏观物理性质和晶格动力学。我们提出了张量分析与群论的系统应用方法，可直接从晶体学点群对称性确定允许的物性张量、振动模对称性以及拉曼选择定则。该方法应用于典型铁电体 PbZr_xTi_{1-x}O_3（PZT）。在 PZT 相图中，对称性降低会增加热释电、介电和压电张量分量的独立数目，并改变拉曼活性振动的对称性分类。这些模分类使得能够基于对称性，对已报道的室温粉末拉曼光谱随组成（x）跨越准同型相界的变化进行分解，揭示四方相到菱方相转变表现为光谱强度的连续重新分布，而不是新的拉曼模出现。选定模中持续存在的子峰结构表明，由阳离子无序和晶格非谐性导致了局域对称性破缺，这突出了晶体学对称性分析对于解释铁电钙钛矿氧化物功能性质和振动性质的重要性。",
+      "overview_cn": "Focus: 铁电材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Symmetry-Adapted Physical and Vibrational Properties of Ferroelectric Perovskite Oxides: Applic….",
+      "reading_notes": "Focus: 铁电材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Symmetry-Adapted Physical and Vibrational Properties of Ferroelectric Perovskite Oxides: Applic…."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2607.19467v1",
+      "title": "Quantum Simulation of Semiconductor Excitons in Ultracold Dipolar Fermi Gases",
+      "url": "https://arxiv.org/abs/2607.19467v1",
+      "published": "2026-07-22",
+      "authors": [
+        "Florian Hirsch",
+        "Oriana K. Diessel",
+        "Rafał Ołdziejewski",
+        "Richard Schmidt"
+      ],
+      "summary": "Inspired by the progress on the study of exciton physics in atomically thin transition metal dichalcogenide (TMD) semiconductors, we investigate the formation of analogs of excitons in cold atomic systems. To this end, we consider single-component fermions comprised of ultracold ground-state molecules or dipolar atoms in a hexagonal optical lattice. An energy offset between triangular sublattices opens up a band gap with degeneracies at the K/K' points as in TMDs. We predict the existence of cold atomic excitons and show that cold atoms allow us to study excitons from the weak-coupling regime, where effective mass models apply, to the strong-interaction regime, described by flat-band models. We demonstrate how these excitons can be observed using lattice modulation spectroscopy, and how their wave functions can be mapped out using quantum gas microscopy. Firmly establishing the idea of quantum simulation of semiconductor physics, this work lays the foundation for simulating complex electronic states such as trions, polarons and excitonic insulators.",
+      "score": 5,
+      "priority": 0,
+      "highlights": [
+        "semiconductor"
+      ],
+      "abstract_cn": "受原子级薄过渡金属二硫族化物（TMD）半导体中激子物理研究进展的启发，我们研究了冷原子体系中激子类似物的形成。为此，我们考虑由超冷基态分子或偶极原子组成的单组分费米子，它们位于六角光晶格中。三角子晶格之间的能量偏移打开了一个带隙，并在 K/K' 点产生与 TMD 类似的简并。我们预言了冷原子激子的存在，并表明冷原子使我们能够研究从适用有效质量模型的弱耦合区间，到由平带模型描述的强相互作用区间的激子。我们展示了如何利用晶格调制谱观测这些激子，以及如何利用量子气体显微镜描绘其波函数。通过牢固确立半导体物理量子模拟的思想，本工作为模拟三离子、极化子和激子绝缘体等复杂电子态奠定了基础。",
+      "abstract_zh": "受原子级薄过渡金属二硫族化物（TMD）半导体中激子物理研究进展的启发，我们研究了冷原子体系中激子类似物的形成。为此，我们考虑由超冷基态分子或偶极原子组成的单组分费米子，它们位于六角光晶格中。三角子晶格之间的能量偏移打开了一个带隙，并在 K/K' 点产生与 TMD 类似的简并。我们预言了冷原子激子的存在，并表明冷原子使我们能够研究从适用有效质量模型的弱耦合区间，到由平带模型描述的强相互作用区间的激子。我们展示了如何利用晶格调制谱观测这些激子，以及如何利用量子气体显微镜描绘其波函数。通过牢固确立半导体物理量子模拟的思想，本工作为模拟三离子、极化子和激子绝缘体等复杂电子态奠定了基础。",
+      "overview_cn": "Focus: 半导体.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Quantum Simulation of Semiconductor Excitons in Ultracold Dipolar Fermi Gases.",
+      "reading_notes": "Focus: 半导体.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Quantum Simulation of Semiconductor Excitons in Ultracold Dipolar Fermi Gases."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2607.19157v1",
+      "title": "Direct Spatiotemporal Imaging of Charge Carrier Dynamics in Operative Semiconductor Devices",
+      "url": "https://arxiv.org/abs/2607.19157v1",
+      "published": "2026-07-21",
+      "authors": [
+        "Adriano Cola",
+        "Antonio Valletta",
+        "Isabella Farella",
+        "Vaclav Dědič",
+        "Lorenzo Dominici"
+      ],
+      "summary": "Understanding charge carrier dynamics within electronic devices is crucial, as it governs both the internal evolution of signals and the externally measurable current. Yet, direct imaging of these dynamics remains elusive: existing approaches are often indirect or inherently perturbative. Here, we introduce Carrier Dynamics by Pockels Imaging (CDPI), a sensitive, quantitative, and non-invasive method that enables direct access to internal charge dynamics. By probing the local electric field, CDPI visualizes photogenerated electron clouds in real space while simultaneously correlating their evolution with both conduction and displacement currents, thereby establishing a unified picture of carrier transport. The technique provides direct insight into fundamental mechanisms \\textemdash including drift, diffusion, carrier-carrier interactions, trapping and detrapping \\textemdash as well as the spatiotemporal evolution of carrier cloud morphology. Demonstrated in CdTe radiation detectors with micrometre-scale spatial resolution and nanosecond temporal resolution, CDPI is broadly applicable to systems exhibiting appreciable electro-optic responses. Beyond conventional semiconductors, the approach extends to organic, perovskite, and two-dimensional optoelectronic materials, offering a new paradigm for directly linking internal carrier dynamics to device-level functionality.",
+      "score": 5,
+      "priority": 0,
+      "highlights": [
+        "semiconductor"
+      ],
+      "abstract_cn": "理解电子器件内部的电荷载流子动力学至关重要，因为它同时支配信号的内部演化和外部可测电流。然而，对这些动力学过程的直接成像仍难以实现：现有方法往往是间接的，或本质上具有扰动性。在这里，我们提出了通过 Pockels 成像研究载流子动力学（Carrier Dynamics by Pockels Imaging，CDPI）的方法，这是一种灵敏、定量且非侵入式的技术，能够直接获取器件内部电荷动力学信息。通过探测局域电场，CDPI 在实空间中可视化光生电子云，同时将其演化与传导电流和位移电流相关联，从而建立载流子输运的统一图像。该技术可直接洞察基本机制——包括漂移、扩散、载流子-载流子相互作用、俘获与去俘获——以及载流子云形貌的时空演化。该方法在 CdTe 辐射探测器中实现了微米级空间分辨率和纳秒级时间分辨率，并可广泛应用于具有显著电光响应的体系。除传统半导体外，该方法还可扩展到有机、钙钛矿和二维光电子材料，为直接关联器件内部载流子动力学与器件级功能提供了一种新范式。",
+      "abstract_zh": "理解电子器件内部的电荷载流子动力学至关重要，因为它同时支配信号的内部演化和外部可测电流。然而，对这些动力学过程的直接成像仍难以实现：现有方法往往是间接的，或本质上具有扰动性。在这里，我们提出了通过 Pockels 成像研究载流子动力学（Carrier Dynamics by Pockels Imaging，CDPI）的方法，这是一种灵敏、定量且非侵入式的技术，能够直接获取器件内部电荷动力学信息。通过探测局域电场，CDPI 在实空间中可视化光生电子云，同时将其演化与传导电流和位移电流相关联，从而建立载流子输运的统一图像。该技术可直接洞察基本机制——包括漂移、扩散、载流子-载流子相互作用、俘获与去俘获——以及载流子云形貌的时空演化。该方法在 CdTe 辐射探测器中实现了微米级空间分辨率和纳秒级时间分辨率，并可广泛应用于具有显著电光响应的体系。除传统半导体外，该方法还可扩展到有机、钙钛矿和二维光电子材料，为直接关联器件内部载流子动力学与器件级功能提供了一种新范式。",
+      "overview_cn": "Focus: 半导体.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Direct Spatiotemporal Imaging of Charge Carrier Dynamics in Operative Semiconductor Devices.",
+      "reading_notes": "Focus: 半导体.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Direct Spatiotemporal Imaging of Charge Carrier Dynamics in Operative Semiconductor Devices."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2607.18895v1",
+      "title": "Multiscale ensemble Monte Carlo of transport and gas sensing in monolayer MoS$_2$",
+      "url": "https://arxiv.org/abs/2607.18895v1",
+      "published": "2026-07-21",
+      "authors": [
+        "Lado Filipovic"
+      ],
+      "summary": "Two-dimensional semiconductors, such as monolayer MoS$_2$, combine a technologically useful band gap with an all-surface geometry, making them attractive both as field-effect-transistor channels and as chemically sensitive devices. Predictive device design requires a transport model that is (i) physically grounded rather than empirical, (ii) validated against experiments, and (iii) able to span the scales from electron-phonon coupling to terminal current and sensor response. We present a self-consistent ensemble Monte Carlo (EMC) framework for monolayer MoS$_2$ built on the ViennaEMC solver, comprising a Boltzmann-transport kernel with a full intrinsic and extrinsic scattering stack (deformation-potential acoustic and intervalley phonons, polar-optical Fröhlich and piezoelectric coupling, remote substrate phonons, screened charged-impurity and surface-roughness scattering), degenerate free-carrier statistics, and a self-consistent Poisson coupling. The intrinsic transport parameters are verified against first-principles density-functional perturbation theory (DFPT), and seven quantities (lattice constant, conduction-band effective mass, band gap, Born effective charges, the longitudinal-optical phonon energy, and both in-plane sound velocities) agree with the reference parametrization. In a multiscale coupling, the EMC velocity-field characteristic feeds a one-dimensional velocity-saturation channel model, which captures the velocity-saturated field dependence and reproduces the measured transfer characteristics of a CVD monolayer device in air and vacuum. Finally, an ambient/adsorbate extension reproduces the measured conductivity response to oxygen partial pressure and the concentration dependence of NO$_2$ and NH$_3$ sensing measured in several independent devices.",
+      "score": 5,
+      "priority": 0,
+      "highlights": [],
+      "abstract_cn": "二维半导体，例如单层 MoS$_2$，兼具技术上有用的带隙和全表面几何结构，因此既适合作为场效应晶体管沟道，也适合作为化学敏感器件。预测性器件设计需要一种输运模型，该模型应当（i）具有物理基础而非经验性，（ii）经过实验验证，并且（iii）能够跨越从电子-声子耦合到端电流和传感器响应的多个尺度。我们提出了一个基于 ViennaEMC 求解器构建的单层 MoS$_2$ 自洽系综蒙特卡罗（EMC）框架，该框架包括玻尔兹曼输运内核，并包含完整的本征与非本征散射体系（形变势声学声子和谷间声子、极性光学 Fröhlich 耦合和压电耦合、远程衬底声子、屏蔽带电杂质散射和表面粗糙度散射）、简并自由载流子统计以及自洽 Poisson 耦合。本征输运参数通过第一性原理密度泛函微扰理论（DFPT）进行验证，七个物理量（晶格常数、导带有效质量、带隙、Born 有效电荷、纵向光学声子能量以及两个面内声速）均与参考参数化结果一致。在多尺度耦合中，EMC 速度-电场特性被输入到一维速度饱和沟道模型中，该模型能够捕捉速度饱和下的电场依赖关系，并复现实验测得的 CVD 单层器件在空气和真空中的转移特性。最后，引入环境/吸附物扩展后，该模型再现实验测得的对氧分压的电导响应，以及在多个独立器件中测得的 NO$_2$ 和 NH$_3$ 传感浓度依赖性。",
+      "abstract_zh": "二维半导体，例如单层 MoS$_2$，兼具技术上有用的带隙和全表面几何结构，因此既适合作为场效应晶体管沟道，也适合作为化学敏感器件。预测性器件设计需要一种输运模型，该模型应当（i）具有物理基础而非经验性，（ii）经过实验验证，并且（iii）能够跨越从电子-声子耦合到端电流和传感器响应的多个尺度。我们提出了一个基于 ViennaEMC 求解器构建的单层 MoS$_2$ 自洽系综蒙特卡罗（EMC）框架，该框架包括玻尔兹曼输运内核，并包含完整的本征与非本征散射体系（形变势声学声子和谷间声子、极性光学 Fröhlich 耦合和压电耦合、远程衬底声子、屏蔽带电杂质散射和表面粗糙度散射）、简并自由载流子统计以及自洽 Poisson 耦合。本征输运参数通过第一性原理密度泛函微扰理论（DFPT）进行验证，七个物理量（晶格常数、导带有效质量、带隙、Born 有效电荷、纵向光学声子能量以及两个面内声速）均与参考参数化结果一致。在多尺度耦合中，EMC 速度-电场特性被输入到一维速度饱和沟道模型中，该模型能够捕捉速度饱和下的电场依赖关系，并复现实验测得的 CVD 单层器件在空气和真空中的转移特性。最后，引入环境/吸附物扩展后，该模型再现实验测得的对氧分压的电导响应，以及在多个独立器件中测得的 NO$_2$ 和 NH$_3$ 传感浓度依赖性。",
+      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Multiscale ensemble Monte Carlo of transport and gas sensing in monolayer MoS$_2$.",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Multiscale ensemble Monte Carlo of transport and gas sensing in monolayer MoS$_2$."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2607.19698v1",
+      "title": "Analytical Retrieval of Material Parameters in Monolayer Transition-Metal Dichalcogenides Based on a Solvable Exciton Model",
+      "url": "https://arxiv.org/abs/2607.19698v1",
+      "published": "2026-07-22",
+      "authors": [
+        "Duy-Nhat Ly",
+        "Thanh-Son Nguyen",
+        "Ngoc-Tram D. Hoang",
+        "Van-Hoang Le"
+      ],
+      "summary": "We develop an analytical procedure to retrieve fundamental material parameters of monolayer transition-metal dichalcogenides from optical and magneto-optical exciton spectra, based on the solvable modified Kratzer model. The proposed retrieval procedure naturally consists of two complementary stages. In the first stage, explicit inversion formulas determine the quasiparticle bandgap, effective screening parameter, and energy scaling factor directly from the experimentally measured energies of the three lowest excitonic states, from which the screening length is subsequently obtained. In the second stage, an analytical expression for the magnetic-field dependence of the exciton energies independently yields the reduced exciton mass, from which the surrounding dielectric constant is then calculated. Once the complete set of material parameters has been retrieved, the framework analytically predicts the diamagnetic coefficients, exciton radii, and complete magnetoexciton spectra without introducing additional fitting parameters or matrix diagonalization. The method is applied to a broad range of experimental samples for WSe$_2$, WS$_2$, MoS$_2$, MoSe$_2$, and MoTe$_2$ monolayers embedded in different dielectric environments. The retrieved material parameters are in good agreement with independent experimental measurements and previous Rytova--Keldysh (RK) calculations, while the predicted excitonic properties accurately reproduce available magneto-optical observations. The proposed analytical theory provides an efficient, physically transparent alternative to conventional numerical fitting procedures and offers an effective tool for the rapid characterization of two-dimensional semiconductors via excitonic spectroscopy.",
+      "score": 4,
+      "priority": 0,
+      "highlights": [],
+      "abstract_cn": "我们提出了一种基于可解的修正 Kratzer 模型，从光学和磁光激子谱中反演单层过渡金属二硫族化物基本材料参数的解析流程。所提出的反演流程自然包含两个互补阶段。在第一阶段，显式反演公式根据实验测得的三个最低激子态能量，直接确定准粒子带隙、有效屏蔽参数和能量标度因子，随后由此获得屏蔽长度。在第二阶段，激子能量对磁场依赖关系的解析表达式可独立给出约化激子质量，并由此计算周围介电常数。一旦完整的材料参数集合被反演得到，该框架即可在不引入额外拟合参数或矩阵对角化的情况下，解析预测抗磁系数、激子半径和完整的磁激子谱。该方法被应用于嵌入不同介电环境中的 WSe$_2$、WS$_2$、MoS$_2$、MoSe$_2$ 和 MoTe$_2$ 单层的广泛实验样品。反演得到的材料参数与独立实验测量和此前的 Rytova--Keldysh（RK）计算结果高度一致，而预测的激子性质也准确再现了已有磁光观测结果。所提出的解析理论为传统数值拟合流程提供了一种高效且物理图像清晰的替代方案，并为通过激子光谱快速表征二维半导体提供了有效工具。",
+      "abstract_zh": "我们提出了一种基于可解的修正 Kratzer 模型，从光学和磁光激子谱中反演单层过渡金属二硫族化物基本材料参数的解析流程。所提出的反演流程自然包含两个互补阶段。在第一阶段，显式反演公式根据实验测得的三个最低激子态能量，直接确定准粒子带隙、有效屏蔽参数和能量标度因子，随后由此获得屏蔽长度。在第二阶段，激子能量对磁场依赖关系的解析表达式可独立给出约化激子质量，并由此计算周围介电常数。一旦完整的材料参数集合被反演得到，该框架即可在不引入额外拟合参数或矩阵对角化的情况下，解析预测抗磁系数、激子半径和完整的磁激子谱。该方法被应用于嵌入不同介电环境中的 WSe$_2$、WS$_2$、MoS$_2$、MoSe$_2$ 和 MoTe$_2$ 单层的广泛实验样品。反演得到的材料参数与独立实验测量和此前的 Rytova--Keldysh（RK）计算结果高度一致，而预测的激子性质也准确再现了已有磁光观测结果。所提出的解析理论为传统数值拟合流程提供了一种高效且物理图像清晰的替代方案，并为通过激子光谱快速表征二维半导体提供了有效工具。",
+      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 先进尺度下的可扩展性、功耗或能效表现.\nContext: Analytical Retrieval of Material Parameters in Monolayer Transition-Metal Dichalcogenides Based….",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 先进尺度下的可扩展性、功耗或能效表现.\nContext: Analytical Retrieval of Material Parameters in Monolayer Transition-Metal Dichalcogenides Based…."
+    }
   ],
+  "errors": [],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-07-27T00:30:00+00:00"
+  "generated_at": "2026-07-28T00:30:00+00:00"
 }
