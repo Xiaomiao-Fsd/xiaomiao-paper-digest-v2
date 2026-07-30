@@ -1,195 +1,228 @@
 {
   "ok": true,
-  "new_count": 2,
+  "new_count": 7,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-07-28）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 2 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] From Amorphous to Amorphous-Crystalline Mixed-Phase Boron Nitride: Evolution of the Thermal…\n   日期：2026-07-24\n   Authors: Jiaqi Yang, Thomas Souvignet, Onurcan Kaya 等\n   https://arxiv.org/abs/2607.22185v1\n2. [arXiv] Symmetry-Adapted Physical and Vibrational Properties of Ferroelectric Perovskite Oxides: Ap…\n   关键词：ferroelectric\n   日期：2026-07-23\n   Authors: Sumit Ranjan Maity, Brajesh Tiwari\n   https://arxiv.org/abs/2607.21682v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-07-30）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 7 篇；Intel/TSMC 重点 0 篇\n1. [Science Advances] Ion-electron coupling–enabled mechanical ion transistor with ultralow subthreshold swing\n   关键词：transistor\n   日期：2026-07-31\n   Authors: Guoyuan Zhang, Linxin Zhai, Xin Peng 等\n   https://doi.org/10.1126/sciadv.aed9096\n2. [Science Advances] Turing-type high-entropy oxide nanosheets for efficient seawater electrolysis\n   关键词：nanosheets\n   日期：2026-07-31\n   Authors: Yifan Liu, Libin Hao, Yingqiang Li 等\n   https://doi.org/10.1126/sciadv.aeb2204\n3. [arXiv] A flexible kinetic Monte Carlo framework for GaN molecular beam epitaxy with adaptive on-th…\n   关键词：epitaxy, GaN\n   日期：2026-07-27\n   Authors: Sajid Ali, Norbert Krause, Carla Verdi\n   https://arxiv.org/abs/2607.24871v1\n4. [arXiv] Stretch-free, shape-induced 3D Island-Bridge Networks for flexible TFTs on Silicon Planar T…\n   日期：2026-07-28\n   Authors: Daniel Joch, Robert Kammel, Fabian Magerl 等\n   https://arxiv.org/abs/2607.25477v1\n5. [arXiv] First-Principles Origins of Charge Transport in Molecular Semiconductors\n   关键词：semiconductor\n   日期：2026-07-28\n   Authors: Tong Jiang, Joonho Lee\n   https://arxiv.org/abs/2607.25089v1\n6. [arXiv] Soft-mode nonlinearities away from ferroelectric phase transition\n   关键词：ferroelectric\n   日期：2026-07-29\n   Authors: Payel Shee, Ipek Efe, Jingwen Li 等\n   https://arxiv.org/abs/2607.26030v1\n7. [arXiv] Identifying Contact Barrier Types in Few-Layer MoS2 Devices Using Correlative IV, LBIC, and…\n   日期：2026-07-28\n   Authors: Ariane Ufer, Zeinab Eftekhari, Benjamin Mayer 等\n   https://arxiv.org/abs/2607.25102v1",
   "papers": [
     {
-      "source": "arXiv",
-      "uid": "arxiv:2607.20810v1",
-      "title": "Photo-induced currents and short-term memory for reservoir computing in a ferroelectric semiconductor",
-      "url": "https://arxiv.org/abs/2607.20810v1",
-      "published": "2026-07-23",
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3699506",
+      "title": "Thermal Processing Limits in Oxide-Channel Ferroelectric Field Effect Transistors",
+      "url": "https://doi.org/10.1109/led.2026.3699506",
+      "published": "2026-08-01",
       "authors": [
-        "Yan Meng Chong",
-        "Atreya Majumdar",
-        "Manuel Zahn",
-        "Ingvild Hansen",
-        "Karin Everschor-Sitte",
-        "Dennis Meier"
+        "Lance Fernandes",
+        "Yu-Hsin Kuo",
+        "Chengyang Zhang",
+        "Priyankka Ravikumar",
+        "Ranie Jeyakumar",
+        "Dyutimoy Chakraborty",
+        "Jiayi Chen",
+        "Taeyoung Song",
+        "Kai Ni",
+        "Woohyun Hwang",
+        "Kwangyou Seo",
+        "Suhwan Lim",
+        "Wanki Kim",
+        "Daewon Ha",
+        "Julia Medvedeva",
+        "Suman Datta",
+        "Shimeng Yu",
+        "Asif Khan"
       ],
-      "summary": "Physical reservoir computing represents an energy efficient approach for processing temporal signals by exploiting the intrinsic nonlinear dynamics and fading memory of a physical system. Recently, ferroelectric semiconductors moved into focus as reservoir materials motivated by their versatile electronic responses to external stimuli. Here, we explore the fundamental possibility to recognize time-varying light pulses via photo-induced currents, using the small-band-gap p-type semiconductor ErMnO$_3$ as a model system. Under white light illumination, ErMnO$_3$ exhibits non-linearly evolving photo-induced currents and controllable relaxation dynamics that naturally realize the high-dimensional projection and fading memory capabilities required for reservoir computing. The reservoir capability of ErMnO$_3$ is reflected by the improved recognition accuracy of \"Past\" input pulses, which increases from ~33% to ~93% after applying reservoir transformation to the input signal. The results present ferroelectric hexagonal manganites as a promising platform for photo-induced current-based reservoir computing and highlight the potential of light-driven oxide semiconductors for temporal information processing.",
-      "score": 8,
-      "priority": 0,
+      "summary": "In this work, we report a systematic study of the impact of high-temperature post-capping thermal annealing on the memory characteristics of Oxide-semiconductor channel ferroelectric field-effect transistors (OS-FeFETs). Using an identical engineered ferroelectric gate stack—8 nm Hf ${}_{{0}.{5}}$ Zr ${}_{{0}.{5}}$ O 2 (HZO) / 3 nm Al 2 O 3 / 8 nm HZO (8/3/8)—and a hybrid capping layer (3 nm HfO ${}_{{2}} +3$ nm Al 2 O 3 ), 10% Ga-doped In 2 O 3 (IGO)–channel and 4% W-doped In 2 O 3 (IWO)–channel FeFETs remain functional after annealing at temperatures up to $650~^{\\circ } $ C for durations of up to 30 min and 10 min, respectively; further annealing results in irreversible loss of conduction and device failure. Detailed electrical analysis reveals that the MW enhancement originates from a preferential positive shift in the erased-state threshold voltage, while the programmed-state threshold voltage remains comparatively stable. Grazing-incidence X-ray diffraction measurements further indicate structural evolution in the IWO and IGO oxide channels with increasing annealing temperature, supporting the observed electrical trends.",
+      "score": 13,
+      "priority": 2,
       "highlights": [
-        "semiconductor",
+        "transistor",
         "ferroelectric"
       ],
-      "abstract_cn": "物理储备池计算通过利用物理系统固有的非线性动力学和衰减记忆，为处理时间信号提供了一种能量高效的方法。近年来，铁电半导体因其对外部刺激具有多样化的电子响应而成为储备池材料研究的焦点。在这里，我们以小带隙 p 型半导体 ErMnO$_3$ 作为模型体系，探索通过光诱导电流识别随时间变化的光脉冲这一基本可能性。在白光照射下，ErMnO$_3$ 表现出非线性演化的光诱导电流以及可控的弛豫动力学，从而自然实现储备池计算所需的高维投影和衰减记忆能力。ErMnO$_3$ 的储备池能力体现在对“Past”输入脉冲识别准确率的提升上：在对输入信号施加储备池变换后，识别准确率由约 33% 提高到约 93%。这些结果表明，铁电六方锰氧化物是基于光诱导电流的储备池计算的有前景平台，并突出了光驱动氧化物半导体在时间信息处理中的潜力。",
-      "abstract_zh": "物理储备池计算通过利用物理系统固有的非线性动力学和衰减记忆，为处理时间信号提供了一种能量高效的方法。近年来，铁电半导体因其对外部刺激具有多样化的电子响应而成为储备池材料研究的焦点。在这里，我们以小带隙 p 型半导体 ErMnO$_3$ 作为模型体系，探索通过光诱导电流识别随时间变化的光脉冲这一基本可能性。在白光照射下，ErMnO$_3$ 表现出非线性演化的光诱导电流以及可控的弛豫动力学，从而自然实现储备池计算所需的高维投影和衰减记忆能力。ErMnO$_3$ 的储备池能力体现在对“Past”输入脉冲识别准确率的提升上：在对输入信号施加储备池变换后，识别准确率由约 33% 提高到约 93%。这些结果表明，铁电六方锰氧化物是基于光诱导电流的储备池计算的有前景平台，并突出了光驱动氧化物半导体在时间信息处理中的潜力。",
-      "overview_cn": "Focus: 半导体、铁电材料.\nWhat to check: 性能提升、功耗或能效表现.\nContext: Photo-induced currents and short-term memory for reservoir computing in a ferroelectric semicon….",
-      "reading_notes": "Focus: 半导体、铁电材料.\nWhat to check: 性能提升、功耗或能效表现.\nContext: Photo-induced currents and short-term memory for reservoir computing in a ferroelectric semicon…."
+      "abstract_cn": "本工作系统研究了高温加帽后热退火对氧化物半导体沟道铁电场效应晶体管（OS-FeFET）存储特性的影响。采用相同的工程化铁电栅堆叠——8 nm Hf₀.₅Zr₀.₅O₂（HZO）/3 nm Al₂O₃/8 nm HZO（8/3/8）——以及复合加帽层（3 nm HfO₂+3 nm Al₂O₃）时，采用10% Ga掺杂In₂O₃（IGO）沟道和4% W掺杂In₂O₃（IWO）沟道的FeFET，在最高650 ℃的温度下分别退火最长30 min和10 min后仍能正常工作；进一步退火则会导致导电能力不可逆丧失和器件失效。详细的电学分析表明，存储窗口（MW）的增大源于擦除态阈值电压优先向正方向偏移，而编程态阈值电压则保持相对稳定。掠入射X射线衍射测量进一步表明，随着退火温度升高，IWO和IGO氧化物沟道发生了结构演变，这与所观察到的电学变化趋势相符。",
+      "abstract_zh": "本工作系统研究了高温加帽后热退火对氧化物半导体沟道铁电场效应晶体管（OS-FeFET）存储特性的影响。采用相同的工程化铁电栅堆叠——8 nm Hf₀.₅Zr₀.₅O₂（HZO）/3 nm Al₂O₃/8 nm HZO（8/3/8）——以及复合加帽层（3 nm HfO₂+3 nm Al₂O₃）时，采用10% Ga掺杂In₂O₃（IGO）沟道和4% W掺杂In₂O₃（IWO）沟道的FeFET，在最高650 ℃的温度下分别退火最长30 min和10 min后仍能正常工作；进一步退火则会导致导电能力不可逆丧失和器件失效。详细的电学分析表明，存储窗口（MW）的增大源于擦除态阈值电压优先向正方向偏移，而编程态阈值电压则保持相对稳定。掠入射X射线衍射测量进一步表明，随着退火温度升高，IWO和IGO氧化物沟道发生了结构演变，这与所观察到的电学变化趋势相符。",
+      "overview_cn": "Focus: 晶体管、铁电材料.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Thermal Processing Limits in Oxide-Channel Ferroelectric Field Effect Transistors.",
+      "reading_notes": "Focus: 晶体管、铁电材料.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Thermal Processing Limits in Oxide-Channel Ferroelectric Field Effect Transistors."
     },
     {
-      "source": "arXiv",
-      "uid": "arxiv:2607.19897v1",
-      "title": "THz-Driven Floquet Spin Valve-Modulator",
-      "url": "https://arxiv.org/abs/2607.19897v1",
-      "published": "2026-07-22",
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3704883",
+      "title": "Rectangular Four-Level Stacked SiGe Nanosheet GAA Transistors Based on Si/SiGe Stacks Enabled by a Novel SGI-TMAH Channel Release Process",
+      "url": "https://doi.org/10.1109/led.2026.3704883",
+      "published": "2026-08-01",
       "authors": [
-        "R. G. Nazmitdinov"
+        "Fei Zhao",
+        "Xiaofeng Jia",
+        "Xingrong Xiao",
+        "Jiahe Xu",
+        "Pengzhe Ma",
+        "Huaizhi Luo",
+        "Haoyan Liu",
+        "Yongkui Zhang",
+        "Yongliang Li"
       ],
-      "summary": "Within the scattering matrix ($S$-matrix) framework adapted to the high-frequency Floquet--Magnus formalism based on the length gauge, we investigate spin-dependent quantum transport in a 1D quantum ring with an asymmetric ($π/2$) configuration of quantum point contacts. We demonstrate the realization of a contactless electromagnetic analog of the Datta--Das spin field-effect transistor with ferromagnetic leads operating at zero static magnetic field. It is shown that an off-resonance terahertz (THz) field enables high-precision switching between spin channels without altering the static parameters of the nanostructure. Driven by an electronic Vernier effect, the quantum interference in the asymmetric geometry yields a selective spin phase rotator alongside an ultra-high-contrast current-suppression regime (``optical shutter''). The proposed architecture is fundamentally robust against multiphoton leakage sidebands, offering a thermally immune, high-speed alternative to conventional semiconductor static spin transistors.",
-      "score": 7,
-      "priority": 0,
-      "highlights": [],
-      "abstract_cn": "在适配于基于长度规范的高频 Floquet--Magnus 形式体系的散射矩阵（$S$ 矩阵）框架内，我们研究了具有非对称（$π/2$）量子点接触构型的一维量子环中的自旋相关量子输运。我们展示了在零静态磁场下工作的、带有铁磁电极的 Datta--Das 自旋场效应晶体管的无接触电磁类比实现。研究表明，非共振太赫兹（THz）场能够在不改变纳米结构静态参数的情况下，实现自旋通道之间的高精度切换。在电子 Vernier 效应驱动下，非对称几何中的量子干涉产生选择性的自旋相位旋转器，同时形成超高对比度的电流抑制工作区间（“光学快门”）。所提出的架构在本质上对多光子泄漏边带具有鲁棒性，为传统半导体静态自旋晶体管提供了一种热免疫、高速的替代方案。",
-      "abstract_zh": "在适配于基于长度规范的高频 Floquet--Magnus 形式体系的散射矩阵（$S$ 矩阵）框架内，我们研究了具有非对称（$π/2$）量子点接触构型的一维量子环中的自旋相关量子输运。我们展示了在零静态磁场下工作的、带有铁磁电极的 Datta--Das 自旋场效应晶体管的无接触电磁类比实现。研究表明，非共振太赫兹（THz）场能够在不改变纳米结构静态参数的情况下，实现自旋通道之间的高精度切换。在电子 Vernier 效应驱动下，非对称几何中的量子干涉产生选择性的自旋相位旋转器，同时形成超高对比度的电流抑制工作区间（“光学快门”）。所提出的架构在本质上对多光子泄漏边带具有鲁棒性，为传统半导体静态自旋晶体管提供了一种热免疫、高速的替代方案。",
-      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 可靠性与稳定性.\nContext: THz-Driven Floquet Spin Valve-Modulator.",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 可靠性与稳定性.\nContext: THz-Driven Floquet Spin Valve-Modulator."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2607.22185v1",
-      "title": "From Amorphous to Amorphous-Crystalline Mixed-Phase Boron Nitride: Evolution of the Thermal and Elastic Properties",
-      "url": "https://arxiv.org/abs/2607.22185v1",
-      "published": "2026-07-24",
-      "authors": [
-        "Jiaqi Yang",
-        "Thomas Souvignet",
-        "Onurcan Kaya",
-        "Peng Xiao",
-        "Emigdio Chavez-Angel",
-        "Daniel Capolat Palomar",
-        "Zuzanna Ewa Kaczmarska",
-        "Bartlomiej Graczykowski",
-        "Javier Rodriguez Viejo",
-        "Clivia M. Sotomayor Torres",
-        "Catherine Marichy",
-        "Catherine Journet",
-        "Stephan Roche",
-        "Marianna Sledzinska"
-      ],
-      "summary": "Amorphous boron nitride (aBN) is a promising dielectric and protective coating, yet its nanoscale heat dissipation and elastic response remain poorly quantified. Here we synthesize a variety of BN thin films by borazine-based chemical vapor deposition (800-1000 C) and study the temperature-driven structural transition from fully amorphous networks to mixed amorphous-crystalline films with embedded BN nanocrystallites.Frequency-domain thermoreflectance data show an ultralow, thickness-dependent cross-plane thermal conductivity for aBN (kout < 0.5 W m-1 K-1 for 10-40 nm), which increases systematically with crystalline order up to 1.5 W m-1 K-1. Micro-Brillouin light scattering and finite-element modelling reveal a concomitant stiffening, with Young's modulus rising from 7.5 +/- 0.7 GPa (800 C) to 53 +/- 5 GPa (1000 C). Green-Kubo molecular dynamics simulations rationalize these trends via bonding topology and vibrational transport, and highlight how oxygen, hydrogen and carbon impurities and composition provide practical knobs to further tune the thermal and mechanical responses in BN films for improving nano-electronics, interconnects and coating applications.",
-      "score": 5,
-      "priority": 0,
-      "highlights": [],
-      "abstract_cn": "非晶氮化硼（aBN）是一种有前景的介电材料和保护涂层，但其纳米尺度散热能力和弹性响应仍缺乏充分定量。在这里，我们通过基于硼嗪的化学气相沉积（800–1000 C）合成了多种 BN 薄膜，并研究了由温度驱动的结构转变，即从完全非晶网络转变为嵌入 BN 纳米晶的非晶-晶态混合相薄膜。频域热反射数据表明，aBN 具有超低且依赖厚度的面外热导率（对于 10–40 nm，kout < 0.5 W m-1 K-1），并且该热导率随晶体有序程度提高而系统增加，最高达到 1.5 W m-1 K-1。微布里渊光散射和有限元建模揭示了伴随发生的刚化现象，杨氏模量从 7.5 +/- 0.7 GPa（800 C）升高到 53 +/- 5 GPa（1000 C）。Green-Kubo 分子动力学模拟从键合拓扑和振动输运角度解释了这些趋势，并强调氧、氢和碳杂质以及组成可作为实用调控手段，进一步调节 BN 薄膜的热响应和力学响应，从而改进其在纳米电子、互连和涂层应用中的性能。",
-      "abstract_zh": "非晶氮化硼（aBN）是一种有前景的介电材料和保护涂层，但其纳米尺度散热能力和弹性响应仍缺乏充分定量。在这里，我们通过基于硼嗪的化学气相沉积（800–1000 C）合成了多种 BN 薄膜，并研究了由温度驱动的结构转变，即从完全非晶网络转变为嵌入 BN 纳米晶的非晶-晶态混合相薄膜。频域热反射数据表明，aBN 具有超低且依赖厚度的面外热导率（对于 10–40 nm，kout < 0.5 W m-1 K-1），并且该热导率随晶体有序程度提高而系统增加，最高达到 1.5 W m-1 K-1。微布里渊光散射和有限元建模揭示了伴随发生的刚化现象，杨氏模量从 7.5 +/- 0.7 GPa（800 C）升高到 53 +/- 5 GPa（1000 C）。Green-Kubo 分子动力学模拟从键合拓扑和振动输运角度解释了这些趋势，并强调氧、氢和碳杂质以及组成可作为实用调控手段，进一步调节 BN 薄膜的热响应和力学响应，从而改进其在纳米电子、互连和涂层应用中的性能。",
-      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 接触/互连相关指标.\nContext: From Amorphous to Amorphous-Crystalline Mixed-Phase Boron Nitride: Evolution of the Thermal and….",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 接触/互连相关指标.\nContext: From Amorphous to Amorphous-Crystalline Mixed-Phase Boron Nitride: Evolution of the Thermal and…."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2607.21682v1",
-      "title": "Symmetry-Adapted Physical and Vibrational Properties of Ferroelectric Perovskite Oxides: Application to PbZrxTi1-xO3",
-      "url": "https://arxiv.org/abs/2607.21682v1",
-      "published": "2026-07-23",
-      "authors": [
-        "Sumit Ranjan Maity",
-        "Brajesh Tiwari"
-      ],
-      "summary": "Crystal symmetry governs macroscopic physical properties and lattice dynamics in functional materials. We present a systematic application of tensor analysis and group theory to determine allowed physical-property tensors, vibrational-mode symmetries, and Raman selection rules directly from crystallographic point-group symmetry. The approach is applied to the prototypical ferroelectric PbZrxTi1-xO3 (PZT). Symmetry lowering across the PZT phase diagram increases the number of independent pyroelectric, dielectric, and piezoelectric tensor components and modifies the symmetry classification of Raman-active vibrations. These mode classifications enable symmetry-based decomposition of reported room-temperature powder Raman spectra as a function of composition (x) across the morphotropic phase boundary, revealing the tetragonal-to-rhombohedral transition as a continuous redistribution of spectral intensity rather than emergence of new Raman modes. Persistent subpeak structure in selected modes indicates local symmetry breaking due to cation disorder and lattice anharmonicity, underscoring the importance of crystallographic symmetry analysis for interpreting functional and vibrational properties of ferroelectric perovskite oxides.",
-      "score": 5,
-      "priority": 0,
+      "summary": "To overcome SiGe channel loss and morphology degradation during channel release, a novel SiGe inhibitor-added TMAH (SGI-TMAH) solution is developed for SiGe nanosheet GAA transistors. Compared with the previously reported S-TMAH solution, SGI-TMAH improves the Si to SiGe selectivity from 23.5:1 to 80.6:1, enabling four-level stacked rectangular SiGe nanosheets from conventional Si/SiGe stacks. As a result, the footprint-normalized I ON increases by 41.1% while maintaining an I ON /I OFF ratio above $10^{{6}}$ . Although some degradation in SS, DIBL, and I OFF is observed due to weakened electrostatic control, further nanosheet scaling toward ~5 nm should improve electrostatic characteristics. This work validates a feasible channel release scheme applicable to SiGe channel GAA technologies.",
+      "score": 20,
+      "priority": 1,
       "highlights": [
-        "ferroelectric"
+        "transistor",
+        "nanosheet",
+        "GAA"
       ],
-      "abstract_cn": "晶体对称性支配功能材料中的宏观物理性质和晶格动力学。我们提出了张量分析与群论的系统应用方法，可直接从晶体学点群对称性确定允许的物性张量、振动模对称性以及拉曼选择定则。该方法应用于典型铁电体 PbZr_xTi_{1-x}O_3（PZT）。在 PZT 相图中，对称性降低会增加热释电、介电和压电张量分量的独立数目，并改变拉曼活性振动的对称性分类。这些模分类使得能够基于对称性，对已报道的室温粉末拉曼光谱随组成（x）跨越准同型相界的变化进行分解，揭示四方相到菱方相转变表现为光谱强度的连续重新分布，而不是新的拉曼模出现。选定模中持续存在的子峰结构表明，由阳离子无序和晶格非谐性导致了局域对称性破缺，这突出了晶体学对称性分析对于解释铁电钙钛矿氧化物功能性质和振动性质的重要性。",
-      "abstract_zh": "晶体对称性支配功能材料中的宏观物理性质和晶格动力学。我们提出了张量分析与群论的系统应用方法，可直接从晶体学点群对称性确定允许的物性张量、振动模对称性以及拉曼选择定则。该方法应用于典型铁电体 PbZr_xTi_{1-x}O_3（PZT）。在 PZT 相图中，对称性降低会增加热释电、介电和压电张量分量的独立数目，并改变拉曼活性振动的对称性分类。这些模分类使得能够基于对称性，对已报道的室温粉末拉曼光谱随组成（x）跨越准同型相界的变化进行分解，揭示四方相到菱方相转变表现为光谱强度的连续重新分布，而不是新的拉曼模出现。选定模中持续存在的子峰结构表明，由阳离子无序和晶格非谐性导致了局域对称性破缺，这突出了晶体学对称性分析对于解释铁电钙钛矿氧化物功能性质和振动性质的重要性。",
-      "overview_cn": "Focus: 铁电材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Symmetry-Adapted Physical and Vibrational Properties of Ferroelectric Perovskite Oxides: Applic….",
-      "reading_notes": "Focus: 铁电材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Symmetry-Adapted Physical and Vibrational Properties of Ferroelectric Perovskite Oxides: Applic…."
+      "abstract_cn": "为解决沟道释放过程中SiGe沟道损失和形貌劣化的问题，本文针对SiGe纳米片全环绕栅（GAA）晶体管开发了一种新型添加SiGe抑制剂的TMAH（SGI-TMAH）溶液。与此前报道的S-TMAH溶液相比，SGI-TMAH将Si相对于SiGe的刻蚀选择比从23.5:1提高至80.6:1，从而能够基于常规Si/SiGe堆叠形成四层堆叠的矩形SiGe纳米片。因此，在保持I_ON/I_OFF比大于10⁶的同时，按占用面积归一化的I_ON提高了41.1%。尽管由于静电控制能力减弱，亚阈值摆幅（SS）、漏致势垒降低（DIBL）和I_OFF出现了一定程度的劣化，但进一步将纳米片缩小至约5 nm应能改善其静电特性。本工作验证了一种可应用于SiGe沟道GAA技术的可行沟道释放方案。",
+      "abstract_zh": "为解决沟道释放过程中SiGe沟道损失和形貌劣化的问题，本文针对SiGe纳米片全环绕栅（GAA）晶体管开发了一种新型添加SiGe抑制剂的TMAH（SGI-TMAH）溶液。与此前报道的S-TMAH溶液相比，SGI-TMAH将Si相对于SiGe的刻蚀选择比从23.5:1提高至80.6:1，从而能够基于常规Si/SiGe堆叠形成四层堆叠的矩形SiGe纳米片。因此，在保持I_ON/I_OFF比大于10⁶的同时，按占用面积归一化的I_ON提高了41.1%。尽管由于静电控制能力减弱，亚阈值摆幅（SS）、漏致势垒降低（DIBL）和I_OFF出现了一定程度的劣化，但进一步将纳米片缩小至约5 nm应能改善其静电特性。本工作验证了一种可应用于SiGe沟道GAA技术的可行沟道释放方案。",
+      "overview_cn": "Focus: 晶体管、nanosheet、GAA / 全环栅.\nWhat to check: 性能提升、先进尺度下的可扩展性.\nContext: Rectangular Four-Level Stacked SiGe Nanosheet GAA Transistors Based on Si/SiGe Stacks Enabled b….",
+      "reading_notes": "Focus: 晶体管、nanosheet、GAA / 全环栅.\nWhat to check: 性能提升、先进尺度下的可扩展性.\nContext: Rectangular Four-Level Stacked SiGe Nanosheet GAA Transistors Based on Si/SiGe Stacks Enabled b…."
     },
     {
-      "source": "arXiv",
-      "uid": "arxiv:2607.19467v1",
-      "title": "Quantum Simulation of Semiconductor Excitons in Ultracold Dipolar Fermi Gases",
-      "url": "https://arxiv.org/abs/2607.19467v1",
-      "published": "2026-07-22",
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3701514",
+      "title": "600 V/1 A Enhancement-Mode <i>β</i> -Ga <sub>2</sub> O <sub>3</sub> MOSFETs With Graded Doping Engineering",
+      "url": "https://doi.org/10.1109/led.2026.3701514",
+      "published": "2026-08-01",
       "authors": [
-        "Florian Hirsch",
-        "Oriana K. Diessel",
-        "Rafał Ołdziejewski",
-        "Richard Schmidt"
+        "Hongqing Yue",
+        "Chenlu Wang",
+        "Hong Zhou",
+        "Jianghan Zhao",
+        "Yue Hao",
+        "Jincheng Zhang"
       ],
-      "summary": "Inspired by the progress on the study of exciton physics in atomically thin transition metal dichalcogenide (TMD) semiconductors, we investigate the formation of analogs of excitons in cold atomic systems. To this end, we consider single-component fermions comprised of ultracold ground-state molecules or dipolar atoms in a hexagonal optical lattice. An energy offset between triangular sublattices opens up a band gap with degeneracies at the K/K' points as in TMDs. We predict the existence of cold atomic excitons and show that cold atoms allow us to study excitons from the weak-coupling regime, where effective mass models apply, to the strong-interaction regime, described by flat-band models. We demonstrate how these excitons can be observed using lattice modulation spectroscopy, and how their wave functions can be mapped out using quantum gas microscopy. Firmly establishing the idea of quantum simulation of semiconductor physics, this work lays the foundation for simulating complex electronic states such as trions, polarons and excitonic insulators.",
-      "score": 5,
-      "priority": 0,
+      "summary": "In this letter, we have demonstrated high performance enhancement-mode (E-mode) $\\beta $ -Ga 2 O 3 recessed-gate metal-oxide-semiconductor field-effect- transistors (RG-MOSFETs) with ampere-level drain current ( ${I}_{\\text {D}}\\text {)}$ and > 600 V breakdown voltage (BV) via graded channel doping engineering. With the n + - and n-Ga 2 O 3 layers beneath the gate etched and the unintentional doped- (UID-)Ga 2 O 3 preserved, the threshold voltage ( ${V}_{\\text {TH}}\\text {)}$ with high uniformity of 9 V, a recorded top-gate E-mode ${I}_{\\text {D}}$ of 130 mA/mm and low specific on-resistance ( ${R}_{\\text {on, {sp}}}\\text {)}$ of 19 m $\\Omega \\cdot $ cm 2 are all achieved for small periphery FETs. Combined with source and gate field plates (FP), the small periphery RG-MOSFET with gate-to-drain spacing ( ${L}_{\\text {GD}}\\text {)}$ of $10~\\mu $ m demonstrates a high BV of $2.46~{k}$ V, yielding a state-of-the-art power figure of merit (P-FOM) of 318 MW/cm 2 . By scaling the gate width ( ${W}_{\\text {ch}}\\text {)}$ to 20 mm, Ampere-level ${I}_{\\text {D}}$ with BV > 600 V was also achieved with ${V}_{\\text {TH}}$ maintained to be ~9 V, showing a high process variation immunity. Given the significant potential of $\\beta $ -Ga 2 O 3 MOSFETs in power devices, such E-mode high-current and high-voltage results verify their great promises for next-generation electronics.",
+      "score": 15,
+      "priority": 1,
       "highlights": [
-        "semiconductor"
+        "MOSFET"
       ],
-      "abstract_cn": "受原子级薄过渡金属二硫族化物（TMD）半导体中激子物理研究进展的启发，我们研究了冷原子体系中激子类似物的形成。为此，我们考虑由超冷基态分子或偶极原子组成的单组分费米子，它们位于六角光晶格中。三角子晶格之间的能量偏移打开了一个带隙，并在 K/K' 点产生与 TMD 类似的简并。我们预言了冷原子激子的存在，并表明冷原子使我们能够研究从适用有效质量模型的弱耦合区间，到由平带模型描述的强相互作用区间的激子。我们展示了如何利用晶格调制谱观测这些激子，以及如何利用量子气体显微镜描绘其波函数。通过牢固确立半导体物理量子模拟的思想，本工作为模拟三离子、极化子和激子绝缘体等复杂电子态奠定了基础。",
-      "abstract_zh": "受原子级薄过渡金属二硫族化物（TMD）半导体中激子物理研究进展的启发，我们研究了冷原子体系中激子类似物的形成。为此，我们考虑由超冷基态分子或偶极原子组成的单组分费米子，它们位于六角光晶格中。三角子晶格之间的能量偏移打开了一个带隙，并在 K/K' 点产生与 TMD 类似的简并。我们预言了冷原子激子的存在，并表明冷原子使我们能够研究从适用有效质量模型的弱耦合区间，到由平带模型描述的强相互作用区间的激子。我们展示了如何利用晶格调制谱观测这些激子，以及如何利用量子气体显微镜描绘其波函数。通过牢固确立半导体物理量子模拟的思想，本工作为模拟三离子、极化子和激子绝缘体等复杂电子态奠定了基础。",
-      "overview_cn": "Focus: 半导体.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Quantum Simulation of Semiconductor Excitons in Ultracold Dipolar Fermi Gases.",
-      "reading_notes": "Focus: 半导体.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Quantum Simulation of Semiconductor Excitons in Ultracold Dipolar Fermi Gases."
+      "abstract_cn": "本文通过梯度沟道掺杂工程，实现了具有安培级漏极电流（I_D）和超过600 V击穿电压（BV）的高性能增强型（E-mode）β-Ga₂O₃凹栅金属-氧化物-半导体场效应晶体管（RG-MOSFET）。通过刻蚀栅极下方的n⁺-Ga₂O₃层和n-Ga₂O₃层，同时保留非故意掺杂（UID）Ga₂O₃层，小周长FET实现了均匀性良好的9 V阈值电压（V_TH）、创纪录的130 mA/mm顶栅增强型漏极电流I_D，以及19 mΩ·cm²的低比导通电阻（R_on,sp）。结合源极场板和栅极场板（FP），栅漏间距（L_GD）为10 μm的小周长RG-MOSFET表现出2.46 kV的高击穿电压，由此获得318 MW/cm²的先进功率品质因数（P-FOM）。将栅极宽度（W_ch）扩展至20 mm后，在阈值电压V_TH仍保持约9 V的情况下，同样实现了安培级I_D和超过600 V的击穿电压，显示出对工艺波动的高度耐受性。鉴于β-Ga₂O₃ MOSFET在功率器件领域的巨大潜力，这些增强型大电流、高电压结果证实了其在下一代电子技术中的广阔应用前景。",
+      "abstract_zh": "本文通过梯度沟道掺杂工程，实现了具有安培级漏极电流（I_D）和超过600 V击穿电压（BV）的高性能增强型（E-mode）β-Ga₂O₃凹栅金属-氧化物-半导体场效应晶体管（RG-MOSFET）。通过刻蚀栅极下方的n⁺-Ga₂O₃层和n-Ga₂O₃层，同时保留非故意掺杂（UID）Ga₂O₃层，小周长FET实现了均匀性良好的9 V阈值电压（V_TH）、创纪录的130 mA/mm顶栅增强型漏极电流I_D，以及19 mΩ·cm²的低比导通电阻（R_on,sp）。结合源极场板和栅极场板（FP），栅漏间距（L_GD）为10 μm的小周长RG-MOSFET表现出2.46 kV的高击穿电压，由此获得318 MW/cm²的先进功率品质因数（P-FOM）。将栅极宽度（W_ch）扩展至20 mm后，在阈值电压V_TH仍保持约9 V的情况下，同样实现了安培级I_D和超过600 V的击穿电压，显示出对工艺波动的高度耐受性。鉴于β-Ga₂O₃ MOSFET在功率器件领域的巨大潜力，这些增强型大电流、高电压结果证实了其在下一代电子技术中的广阔应用前景。",
+      "overview_cn": "Focus: MOSFET.\nWhat to check: 性能提升、先进尺度下的可扩展性、接触/互连相关指标.\nContext: 600 V/1 A Enhancement-Mode <i>β</i> -Ga <sub>2</sub> O <sub>3</sub> MOSFETs With Graded Doping ….",
+      "reading_notes": "Focus: MOSFET.\nWhat to check: 性能提升、先进尺度下的可扩展性、接触/互连相关指标.\nContext: 600 V/1 A Enhancement-Mode <i>β</i> -Ga <sub>2</sub> O <sub>3</sub> MOSFETs With Graded Doping …."
     },
     {
-      "source": "arXiv",
-      "uid": "arxiv:2607.19157v1",
-      "title": "Direct Spatiotemporal Imaging of Charge Carrier Dynamics in Operative Semiconductor Devices",
-      "url": "https://arxiv.org/abs/2607.19157v1",
-      "published": "2026-07-21",
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3706796",
+      "title": "The Ballistic Injection in IGZO GAA VFET With Scaled Source/Drain Extension and Its Impact on On-Current Enhancement",
+      "url": "https://doi.org/10.1109/led.2026.3706796",
+      "published": "2026-08-01",
       "authors": [
-        "Adriano Cola",
-        "Antonio Valletta",
-        "Isabella Farella",
-        "Vaclav Dědič",
-        "Lorenzo Dominici"
+        "Liankai Zheng",
+        "Ziheng Wang",
+        "Zhiyu Lin",
+        "Mengwei Si"
       ],
-      "summary": "Understanding charge carrier dynamics within electronic devices is crucial, as it governs both the internal evolution of signals and the externally measurable current. Yet, direct imaging of these dynamics remains elusive: existing approaches are often indirect or inherently perturbative. Here, we introduce Carrier Dynamics by Pockels Imaging (CDPI), a sensitive, quantitative, and non-invasive method that enables direct access to internal charge dynamics. By probing the local electric field, CDPI visualizes photogenerated electron clouds in real space while simultaneously correlating their evolution with both conduction and displacement currents, thereby establishing a unified picture of carrier transport. The technique provides direct insight into fundamental mechanisms \\textemdash including drift, diffusion, carrier-carrier interactions, trapping and detrapping \\textemdash as well as the spatiotemporal evolution of carrier cloud morphology. Demonstrated in CdTe radiation detectors with micrometre-scale spatial resolution and nanosecond temporal resolution, CDPI is broadly applicable to systems exhibiting appreciable electro-optic responses. Beyond conventional semiconductors, the approach extends to organic, perovskite, and two-dimensional optoelectronic materials, offering a new paradigm for directly linking internal carrier dynamics to device-level functionality.",
-      "score": 5,
-      "priority": 0,
+      "summary": "In this work, the impact of source/drain (S/D) extension scaling on the performance of indium-gallium-zinc oxide (IGZO) gate-all-around (GAA) vertical field-effect transistors (VFETs) is systematically studied both theoretically and experimentally. The electron transport at the S/D extension is investigated by drift-diffusion (DD) simulation and ballistic injection simulation. It is observed that the I-V characteristics at high V DS of IGZO GAA VFET with scaled S/D extension deviate significantly from the velocity saturation model due to the electron velocity overshoot at the S/D extension region. A ballistic injection model is introduced that can well explain the experimental I-V characteristics. It is found that the S extension scaling, rather than the D extension scaling, is more effective for on-current (I ${}_{\\text {on}}\\text {)}$ enhancement. By S extension scaling (down to 5 nm), the I on enhancement is demonstrated experimentally, showing a high I on of $569~\\mu $ A/ $\\mu $ m (V ${}_{\\text {D}} =2.2$ V).",
+      "score": 13,
+      "priority": 1,
       "highlights": [
-        "semiconductor"
+        "GAA"
       ],
-      "abstract_cn": "理解电子器件内部的电荷载流子动力学至关重要，因为它同时支配信号的内部演化和外部可测电流。然而，对这些动力学过程的直接成像仍难以实现：现有方法往往是间接的，或本质上具有扰动性。在这里，我们提出了通过 Pockels 成像研究载流子动力学（Carrier Dynamics by Pockels Imaging，CDPI）的方法，这是一种灵敏、定量且非侵入式的技术，能够直接获取器件内部电荷动力学信息。通过探测局域电场，CDPI 在实空间中可视化光生电子云，同时将其演化与传导电流和位移电流相关联，从而建立载流子输运的统一图像。该技术可直接洞察基本机制——包括漂移、扩散、载流子-载流子相互作用、俘获与去俘获——以及载流子云形貌的时空演化。该方法在 CdTe 辐射探测器中实现了微米级空间分辨率和纳秒级时间分辨率，并可广泛应用于具有显著电光响应的体系。除传统半导体外，该方法还可扩展到有机、钙钛矿和二维光电子材料，为直接关联器件内部载流子动力学与器件级功能提供了一种新范式。",
-      "abstract_zh": "理解电子器件内部的电荷载流子动力学至关重要，因为它同时支配信号的内部演化和外部可测电流。然而，对这些动力学过程的直接成像仍难以实现：现有方法往往是间接的，或本质上具有扰动性。在这里，我们提出了通过 Pockels 成像研究载流子动力学（Carrier Dynamics by Pockels Imaging，CDPI）的方法，这是一种灵敏、定量且非侵入式的技术，能够直接获取器件内部电荷动力学信息。通过探测局域电场，CDPI 在实空间中可视化光生电子云，同时将其演化与传导电流和位移电流相关联，从而建立载流子输运的统一图像。该技术可直接洞察基本机制——包括漂移、扩散、载流子-载流子相互作用、俘获与去俘获——以及载流子云形貌的时空演化。该方法在 CdTe 辐射探测器中实现了微米级空间分辨率和纳秒级时间分辨率，并可广泛应用于具有显著电光响应的体系。除传统半导体外，该方法还可扩展到有机、钙钛矿和二维光电子材料，为直接关联器件内部载流子动力学与器件级功能提供了一种新范式。",
-      "overview_cn": "Focus: 半导体.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Direct Spatiotemporal Imaging of Charge Carrier Dynamics in Operative Semiconductor Devices.",
-      "reading_notes": "Focus: 半导体.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Direct Spatiotemporal Imaging of Charge Carrier Dynamics in Operative Semiconductor Devices."
+      "abstract_cn": "本工作从理论和实验两方面系统研究了源/漏（S/D）延伸区缩短对铟镓锌氧化物（IGZO）全环绕栅（GAA）垂直场效应晶体管（VFET）性能的影响。采用漂移-扩散（DD）模拟和弹道注入模拟研究了S/D延伸区中的电子输运。研究发现，在高V_DS下，具有缩短S/D延伸区的IGZO GAA VFET的I-V特性由于S/D延伸区中的电子速度过冲而显著偏离速度饱和模型。本文引入了一种能够很好解释实验I-V特性的弹道注入模型。研究发现，与漏极（D）延伸区缩短相比，源极（S）延伸区缩短对提高导通电流（I_on）更为有效。通过将S延伸区缩短至5 nm，实验上验证了I_on的提升，并获得了569 μA/μm（V_D=2.2 V）的高I_on。",
+      "abstract_zh": "本工作从理论和实验两方面系统研究了源/漏（S/D）延伸区缩短对铟镓锌氧化物（IGZO）全环绕栅（GAA）垂直场效应晶体管（VFET）性能的影响。采用漂移-扩散（DD）模拟和弹道注入模拟研究了S/D延伸区中的电子输运。研究发现，在高V_DS下，具有缩短S/D延伸区的IGZO GAA VFET的I-V特性由于S/D延伸区中的电子速度过冲而显著偏离速度饱和模型。本文引入了一种能够很好解释实验I-V特性的弹道注入模型。研究发现，与漏极（D）延伸区缩短相比，源极（S）延伸区缩短对提高导通电流（I_on）更为有效。通过将S延伸区缩短至5 nm，实验上验证了I_on的提升，并获得了569 μA/μm（V_D=2.2 V）的高I_on。",
+      "overview_cn": "Focus: GAA / 全环栅.\nWhat to check: 性能提升、先进尺度下的可扩展性.\nContext: The Ballistic Injection in IGZO GAA VFET With Scaled Source/Drain Extension and Its Impact on O….",
+      "reading_notes": "Focus: GAA / 全环栅.\nWhat to check: 性能提升、先进尺度下的可扩展性.\nContext: The Ballistic Injection in IGZO GAA VFET With Scaled Source/Drain Extension and Its Impact on O…."
     },
     {
-      "source": "arXiv",
-      "uid": "arxiv:2607.18895v1",
-      "title": "Multiscale ensemble Monte Carlo of transport and gas sensing in monolayer MoS$_2$",
-      "url": "https://arxiv.org/abs/2607.18895v1",
-      "published": "2026-07-21",
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3699537",
+      "title": "Tuning Linearity of IGZO Synaptic Transistor With Low-Power by Oxygen Vacancy Engineering for Spiking Neural Networks",
+      "url": "https://doi.org/10.1109/led.2026.3699537",
+      "published": "2026-08-01",
       "authors": [
-        "Lado Filipovic"
+        "Juyoung Yun",
+        "Taewon Seo",
+        "Yoonyoung Chung"
       ],
-      "summary": "Two-dimensional semiconductors, such as monolayer MoS$_2$, combine a technologically useful band gap with an all-surface geometry, making them attractive both as field-effect-transistor channels and as chemically sensitive devices. Predictive device design requires a transport model that is (i) physically grounded rather than empirical, (ii) validated against experiments, and (iii) able to span the scales from electron-phonon coupling to terminal current and sensor response. We present a self-consistent ensemble Monte Carlo (EMC) framework for monolayer MoS$_2$ built on the ViennaEMC solver, comprising a Boltzmann-transport kernel with a full intrinsic and extrinsic scattering stack (deformation-potential acoustic and intervalley phonons, polar-optical Fröhlich and piezoelectric coupling, remote substrate phonons, screened charged-impurity and surface-roughness scattering), degenerate free-carrier statistics, and a self-consistent Poisson coupling. The intrinsic transport parameters are verified against first-principles density-functional perturbation theory (DFPT), and seven quantities (lattice constant, conduction-band effective mass, band gap, Born effective charges, the longitudinal-optical phonon energy, and both in-plane sound velocities) agree with the reference parametrization. In a multiscale coupling, the EMC velocity-field characteristic feeds a one-dimensional velocity-saturation channel model, which captures the velocity-saturated field dependence and reproduces the measured transfer characteristics of a CVD monolayer device in air and vacuum. Finally, an ambient/adsorbate extension reproduces the measured conductivity response to oxygen partial pressure and the concentration dependence of NO$_2$ and NH$_3$ sensing measured in several independent devices.",
-      "score": 5,
-      "priority": 0,
-      "highlights": [],
-      "abstract_cn": "二维半导体，例如单层 MoS$_2$，兼具技术上有用的带隙和全表面几何结构，因此既适合作为场效应晶体管沟道，也适合作为化学敏感器件。预测性器件设计需要一种输运模型，该模型应当（i）具有物理基础而非经验性，（ii）经过实验验证，并且（iii）能够跨越从电子-声子耦合到端电流和传感器响应的多个尺度。我们提出了一个基于 ViennaEMC 求解器构建的单层 MoS$_2$ 自洽系综蒙特卡罗（EMC）框架，该框架包括玻尔兹曼输运内核，并包含完整的本征与非本征散射体系（形变势声学声子和谷间声子、极性光学 Fröhlich 耦合和压电耦合、远程衬底声子、屏蔽带电杂质散射和表面粗糙度散射）、简并自由载流子统计以及自洽 Poisson 耦合。本征输运参数通过第一性原理密度泛函微扰理论（DFPT）进行验证，七个物理量（晶格常数、导带有效质量、带隙、Born 有效电荷、纵向光学声子能量以及两个面内声速）均与参考参数化结果一致。在多尺度耦合中，EMC 速度-电场特性被输入到一维速度饱和沟道模型中，该模型能够捕捉速度饱和下的电场依赖关系，并复现实验测得的 CVD 单层器件在空气和真空中的转移特性。最后，引入环境/吸附物扩展后，该模型再现实验测得的对氧分压的电导响应，以及在多个独立器件中测得的 NO$_2$ 和 NH$_3$ 传感浓度依赖性。",
-      "abstract_zh": "二维半导体，例如单层 MoS$_2$，兼具技术上有用的带隙和全表面几何结构，因此既适合作为场效应晶体管沟道，也适合作为化学敏感器件。预测性器件设计需要一种输运模型，该模型应当（i）具有物理基础而非经验性，（ii）经过实验验证，并且（iii）能够跨越从电子-声子耦合到端电流和传感器响应的多个尺度。我们提出了一个基于 ViennaEMC 求解器构建的单层 MoS$_2$ 自洽系综蒙特卡罗（EMC）框架，该框架包括玻尔兹曼输运内核，并包含完整的本征与非本征散射体系（形变势声学声子和谷间声子、极性光学 Fröhlich 耦合和压电耦合、远程衬底声子、屏蔽带电杂质散射和表面粗糙度散射）、简并自由载流子统计以及自洽 Poisson 耦合。本征输运参数通过第一性原理密度泛函微扰理论（DFPT）进行验证，七个物理量（晶格常数、导带有效质量、带隙、Born 有效电荷、纵向光学声子能量以及两个面内声速）均与参考参数化结果一致。在多尺度耦合中，EMC 速度-电场特性被输入到一维速度饱和沟道模型中，该模型能够捕捉速度饱和下的电场依赖关系，并复现实验测得的 CVD 单层器件在空气和真空中的转移特性。最后，引入环境/吸附物扩展后，该模型再现实验测得的对氧分压的电导响应，以及在多个独立器件中测得的 NO$_2$ 和 NH$_3$ 传感浓度依赖性。",
-      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Multiscale ensemble Monte Carlo of transport and gas sensing in monolayer MoS$_2$.",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Multiscale ensemble Monte Carlo of transport and gas sensing in monolayer MoS$_2$."
+      "summary": "We propose an N 2 plasma treatment for controlling oxygen vacancies to enhance the linearity of indium-gallium-zinc oxide (IGZO) synaptic transistors. Oxygen vacancies are intentionally generated via Ar bombardment during IGZO sputtering and subsequently passivated by N 2 plasma. This process suppresses persistent photoconductivity, which is a primary limitation in photonic synapses for fast recovery. Our approach yields robust synaptic behaviors, including long-term potentiation and spike-time-dependent plasticity. Crucially, the weight update nonlinearity factor is reduced from 1.55 to 0.41, enabling accurate artificial neural network learning.",
+      "score": 11,
+      "priority": 1,
+      "highlights": [
+        "transistor"
+      ],
+      "abstract_cn": "我们提出了一种用于调控氧空位的N₂等离子体处理方法，以提高铟镓锌氧化物（IGZO）突触晶体管的线性度。在IGZO溅射过程中，首先通过Ar轰击有意产生氧空位，随后利用N₂等离子体对其进行钝化。该工艺抑制了持续光电导效应，而持续光电导是限制光子突触快速恢复的主要因素。采用该方法制备的器件表现出稳健的突触行为，包括长期增强和脉冲时序依赖可塑性。尤为重要的是，权重更新非线性因子从1.55降低至0.41，从而能够实现准确的人工神经网络学习。",
+      "abstract_zh": "我们提出了一种用于调控氧空位的N₂等离子体处理方法，以提高铟镓锌氧化物（IGZO）突触晶体管的线性度。在IGZO溅射过程中，首先通过Ar轰击有意产生氧空位，随后利用N₂等离子体对其进行钝化。该工艺抑制了持续光电导效应，而持续光电导是限制光子突触快速恢复的主要因素。采用该方法制备的器件表现出稳健的突触行为，包括长期增强和脉冲时序依赖可塑性。尤为重要的是，权重更新非线性因子从1.55降低至0.41，从而能够实现准确的人工神经网络学习。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Tuning Linearity of IGZO Synaptic Transistor With Low-Power by Oxygen Vacancy Engineering for S….",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Tuning Linearity of IGZO Synaptic Transistor With Low-Power by Oxygen Vacancy Engineering for S…."
     },
     {
-      "source": "arXiv",
-      "uid": "arxiv:2607.19698v1",
-      "title": "Analytical Retrieval of Material Parameters in Monolayer Transition-Metal Dichalcogenides Based on a Solvable Exciton Model",
-      "url": "https://arxiv.org/abs/2607.19698v1",
-      "published": "2026-07-22",
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3701783",
+      "title": "A Scaling Theory for the Nonlinear Subthreshold Behavior of Cryogenic Ultrathin Body MOSFETs",
+      "url": "https://doi.org/10.1109/led.2026.3701783",
+      "published": "2026-08-01",
       "authors": [
-        "Duy-Nhat Ly",
-        "Thanh-Son Nguyen",
-        "Ngoc-Tram D. Hoang",
-        "Van-Hoang Le"
+        "In Huh",
+        "Mir Md Fahimul Islam",
+        "Changwook Jeong",
+        "Muhammad A. Alam"
       ],
-      "summary": "We develop an analytical procedure to retrieve fundamental material parameters of monolayer transition-metal dichalcogenides from optical and magneto-optical exciton spectra, based on the solvable modified Kratzer model. The proposed retrieval procedure naturally consists of two complementary stages. In the first stage, explicit inversion formulas determine the quasiparticle bandgap, effective screening parameter, and energy scaling factor directly from the experimentally measured energies of the three lowest excitonic states, from which the screening length is subsequently obtained. In the second stage, an analytical expression for the magnetic-field dependence of the exciton energies independently yields the reduced exciton mass, from which the surrounding dielectric constant is then calculated. Once the complete set of material parameters has been retrieved, the framework analytically predicts the diamagnetic coefficients, exciton radii, and complete magnetoexciton spectra without introducing additional fitting parameters or matrix diagonalization. The method is applied to a broad range of experimental samples for WSe$_2$, WS$_2$, MoS$_2$, MoSe$_2$, and MoTe$_2$ monolayers embedded in different dielectric environments. The retrieved material parameters are in good agreement with independent experimental measurements and previous Rytova--Keldysh (RK) calculations, while the predicted excitonic properties accurately reproduce available magneto-optical observations. The proposed analytical theory provides an efficient, physically transparent alternative to conventional numerical fitting procedures and offers an effective tool for the rapid characterization of two-dimensional semiconductors via excitonic spectroscopy.",
-      "score": 4,
-      "priority": 0,
-      "highlights": [],
-      "abstract_cn": "我们提出了一种基于可解的修正 Kratzer 模型，从光学和磁光激子谱中反演单层过渡金属二硫族化物基本材料参数的解析流程。所提出的反演流程自然包含两个互补阶段。在第一阶段，显式反演公式根据实验测得的三个最低激子态能量，直接确定准粒子带隙、有效屏蔽参数和能量标度因子，随后由此获得屏蔽长度。在第二阶段，激子能量对磁场依赖关系的解析表达式可独立给出约化激子质量，并由此计算周围介电常数。一旦完整的材料参数集合被反演得到，该框架即可在不引入额外拟合参数或矩阵对角化的情况下，解析预测抗磁系数、激子半径和完整的磁激子谱。该方法被应用于嵌入不同介电环境中的 WSe$_2$、WS$_2$、MoS$_2$、MoSe$_2$ 和 MoTe$_2$ 单层的广泛实验样品。反演得到的材料参数与独立实验测量和此前的 Rytova--Keldysh（RK）计算结果高度一致，而预测的激子性质也准确再现了已有磁光观测结果。所提出的解析理论为传统数值拟合流程提供了一种高效且物理图像清晰的替代方案，并为通过激子光谱快速表征二维半导体提供了有效工具。",
-      "abstract_zh": "我们提出了一种基于可解的修正 Kratzer 模型，从光学和磁光激子谱中反演单层过渡金属二硫族化物基本材料参数的解析流程。所提出的反演流程自然包含两个互补阶段。在第一阶段，显式反演公式根据实验测得的三个最低激子态能量，直接确定准粒子带隙、有效屏蔽参数和能量标度因子，随后由此获得屏蔽长度。在第二阶段，激子能量对磁场依赖关系的解析表达式可独立给出约化激子质量，并由此计算周围介电常数。一旦完整的材料参数集合被反演得到，该框架即可在不引入额外拟合参数或矩阵对角化的情况下，解析预测抗磁系数、激子半径和完整的磁激子谱。该方法被应用于嵌入不同介电环境中的 WSe$_2$、WS$_2$、MoS$_2$、MoSe$_2$ 和 MoTe$_2$ 单层的广泛实验样品。反演得到的材料参数与独立实验测量和此前的 Rytova--Keldysh（RK）计算结果高度一致，而预测的激子性质也准确再现了已有磁光观测结果。所提出的解析理论为传统数值拟合流程提供了一种高效且物理图像清晰的替代方案，并为通过激子光谱快速表征二维半导体提供了有效工具。",
-      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 先进尺度下的可扩展性、功耗或能效表现.\nContext: Analytical Retrieval of Material Parameters in Monolayer Transition-Metal Dichalcogenides Based….",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 先进尺度下的可扩展性、功耗或能效表现.\nContext: Analytical Retrieval of Material Parameters in Monolayer Transition-Metal Dichalcogenides Based…."
+      "summary": "The subthreshold swing (SS) is expected to scale linearly with temperature, $\\text {SS}_{\\text {B}} = \\text {(}\\text {k}_{\\text {B}}\\text {T}/\\text {q}\\text {)}\\ln {10}$ , yet experimental data from cryogenic UTB (Si, MoS 2 , and In 2 O 3 ) MOSFETs exhibit anomalous temperature-dependent nonlinearities characterized by negative differential SS and multiple plateaus. Here we use the Landauer formulation to rigorously derive the scaling relationship $\\text {SS} = \\text {SS}_{\\text {B}}\\cdot [{1}+\\gamma \\text {(}\\text {T}_{\\text {R}}/\\text {T}\\text {)}^{\\text {T}/\\text {T}_{\\text {W}}}]$ for constant diffusivity to capture the universality and robustness of SS anomalies reported in the literature. The temperature scales ( $\\text {T}_{\\text {W}}, \\text {T}_{\\text {R}}$ ) are respectively related to the intrinsic properties of the band-tail states and reference current, and as such, can be used as a diagnostic quality monitor of as-fabricated and stress-degraded MOSFET.",
+      "score": 11,
+      "priority": 1,
+      "highlights": [
+        "MOSFET"
+      ],
+      "abstract_cn": "亚阈值摆幅（SS）理论上应随温度线性缩放，即SS_B=(k_BT/q)ln 10；然而，低温超薄体（UTB）Si、MoS₂和In₂O₃ MOSFET的实验数据表现出反常的温度依赖非线性，其特征包括负微分SS和多个平台区。本文采用Landauer形式体系，在扩散系数恒定的条件下严格推导出缩放关系SS=SS_B·[1+γ(T_R/T)^(T/T_W)]，以描述文献所报道SS异常现象的普适性和稳健性。温度尺度（T_W、T_R）分别与带尾态的本征性质和参考电流相关，因此可用作诊断性质量监测指标，以评估制造完成时以及应力退化后的MOSFET。",
+      "abstract_zh": "亚阈值摆幅（SS）理论上应随温度线性缩放，即SS_B=(k_BT/q)ln 10；然而，低温超薄体（UTB）Si、MoS₂和In₂O₃ MOSFET的实验数据表现出反常的温度依赖非线性，其特征包括负微分SS和多个平台区。本文采用Landauer形式体系，在扩散系数恒定的条件下严格推导出缩放关系SS=SS_B·[1+γ(T_R/T)^(T/T_W)]，以描述文献所报道SS异常现象的普适性和稳健性。温度尺度（T_W、T_R）分别与带尾态的本征性质和参考电流相关，因此可用作诊断性质量监测指标，以评估制造完成时以及应力退化后的MOSFET。",
+      "overview_cn": "Focus: MOSFET.\nWhat to check: 可靠性与稳定性、先进尺度下的可扩展性.\nContext: A Scaling Theory for the Nonlinear Subthreshold Behavior of Cryogenic Ultrathin Body MOSFETs.",
+      "reading_notes": "Focus: MOSFET.\nWhat to check: 可靠性与稳定性、先进尺度下的可扩展性.\nContext: A Scaling Theory for the Nonlinear Subthreshold Behavior of Cryogenic Ultrathin Body MOSFETs."
+    },
+    {
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3701402",
+      "title": "Vertical Integration of Noncarrier Injection Nano-LEDs and Transistors With Controllable Bandwidth for Selective Driving of Parallel Arrays: Modeling and Simulation",
+      "url": "https://doi.org/10.1109/led.2026.3701402",
+      "published": "2026-08-01",
+      "authors": [
+        "Shuqian Zhang",
+        "Wenhao Li",
+        "Shixiong Lin",
+        "Xiongtu Zhou",
+        "Yongai Zhang",
+        "Tailiang Guo",
+        "Chaoxing Wu"
+      ],
+      "summary": "The emerging noncarrier injection mode applied to nanopixel light-emitting display is expected to propel display technology toward a trend of highly interdisciplinary integration. However, achieving precise brightness modulation and driving remains a critical challenge. In this work, we propose a nano-scale light-emitting junction field-effect transistor (LE-JFET) with structure of vertical integration of noncarrier injection nano-LEDs and transistors. The electro-optic conversion performance of LE-JFET is studied by the finite element simulation. The dynamic variation of carrier concentration is studied to analyze the working mechanism. The LE-JFET exhibits unique frequency selective characteristics, demonstrating a gate-controlled optimal frequency point for light emission, which provides a potential approach for realizing the one line-to-multi LEDs driving method. The results of this work provide a new strategy for the realization of ultrahigh resolution displays and open a new perspective on future display technology applications.",
+      "score": 11,
+      "priority": 1,
+      "highlights": [
+        "transistor"
+      ],
+      "abstract_cn": "应用于纳米像素发光显示的新兴非载流子注入模式，有望推动显示技术向高度跨学科集成的方向发展。然而，实现精确的亮度调制与驱动仍是一项关键挑战。本工作提出了一种纳米尺度发光结型场效应晶体管（LE-JFET），其结构由非载流子注入型纳米LED与晶体管垂直集成而成。本文通过有限元模拟研究了LE-JFET的电光转换性能，并通过研究载流子浓度的动态变化分析其工作机制。LE-JFET表现出独特的频率选择特性，显示出由栅极控制的最佳发光频率点，为实现一条线路驱动多个LED的方法提供了一种潜在途径。本工作的结果为实现超高分辨率显示提供了新策略，并为未来显示技术的应用开辟了新的视角。",
+      "abstract_zh": "应用于纳米像素发光显示的新兴非载流子注入模式，有望推动显示技术向高度跨学科集成的方向发展。然而，实现精确的亮度调制与驱动仍是一项关键挑战。本工作提出了一种纳米尺度发光结型场效应晶体管（LE-JFET），其结构由非载流子注入型纳米LED与晶体管垂直集成而成。本文通过有限元模拟研究了LE-JFET的电光转换性能，并通过研究载流子浓度的动态变化分析其工作机制。LE-JFET表现出独特的频率选择特性，显示出由栅极控制的最佳发光频率点，为实现一条线路驱动多个LED的方法提供了一种潜在途径。本工作的结果为实现超高分辨率显示提供了新策略，并为未来显示技术的应用开辟了新的视角。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、效率/耦合表现、与既有工艺平台的集成价值.\nContext: Vertical Integration of Noncarrier Injection Nano-LEDs and Transistors With Controllable Bandwi….",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、效率/耦合表现、与既有工艺平台的集成价值.\nContext: Vertical Integration of Noncarrier Injection Nano-LEDs and Transistors With Controllable Bandwi…."
+    },
+    {
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3702162",
+      "title": "Ionic Field-Effect Transistor Achieving Large Memory Window and Enhanced Retention via Ultrathin Ozone-Oxidized Barrier Layer",
+      "url": "https://doi.org/10.1109/led.2026.3702162",
+      "published": "2026-08-01",
+      "authors": [
+        "Jongseon Seo",
+        "Geonhui Han",
+        "Laeyong Jung",
+        "Junghoon Park",
+        "Jongho Park",
+        "Suhwan Lim",
+        "Wanki Kim",
+        "Daewon Ha",
+        "Hyunsang Hwang"
+      ],
+      "summary": "We propose an ionic field-effect transistor (Ionic FET) based on a WO ${}_{\\text{3-}x}$ /HfOx ECRAM stack that stores information via ionic-charge-induced threshold voltage (V ${}_{\\text {th}}\\text {)}$ modulation, enabling scalable analog state control. To relax the trade-off between ion injection and retention, an ultrathin ion barrier layer formed by ozone oxidation suppresses ion back-diffusion while preserving sufficient injection. The device achieves a large memory window of ~7.6 V with linear Vth modulation, stable 3-bit multi-level operation ( $\\sigma $ / $\\mu \\lt 0.1$ ), and endurance over $10^{{5}}$ program/erase cycles. By raising the activation energy for ion back-diffusion, the ozone-treated barrier yields a projected room-temperature retention exceeding $10^{{6}}$ sec.",
+      "score": 10,
+      "priority": 1,
+      "highlights": [
+        "transistor"
+      ],
+      "abstract_cn": "我们提出了一种基于WO₃₋ₓ/HfOₓ ECRAM堆叠的离子场效应晶体管（Ionic FET），该器件通过离子电荷诱导的阈值电压（V_th）调制来存储信息，从而实现可扩展的模拟状态控制。为缓解离子注入与保持特性之间的权衡，通过臭氧氧化形成了一层超薄离子阻挡层，在保留足够离子注入能力的同时抑制离子反向扩散。该器件实现了约7.6 V的大存储窗口和线性的V_th调制，能够进行稳定的3 bit多级操作（σ/μ<0.1），并可承受超过10⁵次编程/擦除循环。通过提高离子反向扩散的活化能，经臭氧处理的阻挡层使器件在室温下的预计保持时间超过10⁶ s。",
+      "abstract_zh": "我们提出了一种基于WO₃₋ₓ/HfOₓ ECRAM堆叠的离子场效应晶体管（Ionic FET），该器件通过离子电荷诱导的阈值电压（V_th）调制来存储信息，从而实现可扩展的模拟状态控制。为缓解离子注入与保持特性之间的权衡，通过臭氧氧化形成了一层超薄离子阻挡层，在保留足够离子注入能力的同时抑制离子反向扩散。该器件实现了约7.6 V的大存储窗口和线性的V_th调制，能够进行稳定的3 bit多级操作（σ/μ<0.1），并可承受超过10⁵次编程/擦除循环。通过提高离子反向扩散的活化能，经臭氧处理的阻挡层使器件在室温下的预计保持时间超过10⁶ s。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性、功耗或能效表现.\nContext: Ionic Field-Effect Transistor Achieving Large Memory Window and Enhanced Retention via Ultrathi….",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性、功耗或能效表现.\nContext: Ionic Field-Effect Transistor Achieving Large Memory Window and Enhanced Retention via Ultrathi…."
     }
   ],
   "errors": [],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-07-28T00:30:00+00:00"
+  "generated_at": "2026-07-30T00:30:00+00:00"
 }
