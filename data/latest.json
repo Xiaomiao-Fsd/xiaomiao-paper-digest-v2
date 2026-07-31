@@ -1,9 +1,33 @@
 {
   "ok": true,
-  "new_count": 7,
+  "new_count": 10,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-07-30）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 7 篇；Intel/TSMC 重点 0 篇\n1. [Science Advances] Ion-electron coupling–enabled mechanical ion transistor with ultralow subthreshold swing\n   关键词：transistor\n   日期：2026-07-31\n   Authors: Guoyuan Zhang, Linxin Zhai, Xin Peng 等\n   https://doi.org/10.1126/sciadv.aed9096\n2. [Science Advances] Turing-type high-entropy oxide nanosheets for efficient seawater electrolysis\n   关键词：nanosheets\n   日期：2026-07-31\n   Authors: Yifan Liu, Libin Hao, Yingqiang Li 等\n   https://doi.org/10.1126/sciadv.aeb2204\n3. [arXiv] A flexible kinetic Monte Carlo framework for GaN molecular beam epitaxy with adaptive on-th…\n   关键词：epitaxy, GaN\n   日期：2026-07-27\n   Authors: Sajid Ali, Norbert Krause, Carla Verdi\n   https://arxiv.org/abs/2607.24871v1\n4. [arXiv] Stretch-free, shape-induced 3D Island-Bridge Networks for flexible TFTs on Silicon Planar T…\n   日期：2026-07-28\n   Authors: Daniel Joch, Robert Kammel, Fabian Magerl 等\n   https://arxiv.org/abs/2607.25477v1\n5. [arXiv] First-Principles Origins of Charge Transport in Molecular Semiconductors\n   关键词：semiconductor\n   日期：2026-07-28\n   Authors: Tong Jiang, Joonho Lee\n   https://arxiv.org/abs/2607.25089v1\n6. [arXiv] Soft-mode nonlinearities away from ferroelectric phase transition\n   关键词：ferroelectric\n   日期：2026-07-29\n   Authors: Payel Shee, Ipek Efe, Jingwen Li 等\n   https://arxiv.org/abs/2607.26030v1\n7. [arXiv] Identifying Contact Barrier Types in Few-Layer MoS2 Devices Using Correlative IV, LBIC, and…\n   日期：2026-07-28\n   Authors: Ariane Ufer, Zeinab Eftekhari, Benjamin Mayer 等\n   https://arxiv.org/abs/2607.25102v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-07-31）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 1 篇\n1. [arXiv] On the static dielectric constant of thin dielectrics in extremely scaled silicon nanosheet…\n   关键词：transistor, nanosheet, dielectric\n   日期：2026-07-29\n   Authors: Massimo V. Fischetti, Dallin O. Nielsen, Edward Chen\n   https://arxiv.org/abs/2607.26328v1\n2. [Nature Electronics] Author Correction: Industrial reliability testing of transistor gate dielectrics\n   关键词：transistor, dielectric\n   日期：2026-07-30\n   https://www.nature.com/articles/s41928-026-01690-5\n3. ⭐ [arXiv] Depth-Resolved Lattice Distortions in a Silicon-Germanium Qubit Host\n   关键词：Intel\n   日期：2026-07-29\n   Authors: Jonathan C. Marcks, E. S. Joseph, J. Reily 等\n   https://arxiv.org/abs/2607.26962v1\n4. [arXiv] Symmetry-Selective Strain Control of Anisotropic Magnetic Response in a Silicon FinFET Doub…\n   关键词：FinFET\n   日期：2026-07-29\n   Authors: Yuze Lu, Xiaoyan Liu, Fei Liu\n   https://arxiv.org/abs/2607.26938v1\n5. [arXiv] Investigating reservoir computing for branch predictionin pipelined processors using emergi…\n   关键词：CMOS\n   日期：2026-07-30\n   Authors: Harvey Samuel George Johnson, Sendy Phang\n   https://arxiv.org/abs/2607.27140v1\n6. [arXiv] Computational Study of Water Adsorption and Dissociative Mechanisms Impacting g-C3N4's Opti…\n   日期：2026-07-29\n   Authors: Amil Aligayev, Ulkar Jabbarli, F. Javier Domınguez-Gutierrez 等\n   https://arxiv.org/abs/2607.26667v1\n7. [arXiv] Transient Detour and Cooperative Oxygen Exchange in the Polarization Switching of Ferroelec…\n   关键词：ferroelectric\n   日期：2026-07-29\n   Authors: Ryotaro Sahashi, Po-Yen Chen, Teruyasu Mizoguchi\n   https://arxiv.org/abs/2607.26597v1\n8. [arXiv] Influence of BaTiO_3 nanoparticles on the anisotropy of the dielectric properties of nemati…\n   关键词：dielectric\n   日期：2026-07-29\n   Authors: Juliya M. Gudenko, Oleksandr S. Pylypchuk, Victor V. Vainberg 等\n   https://arxiv.org/abs/2607.26263v1",
   "papers": [
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2607.26328v1",
+      "title": "On the static dielectric constant of thin dielectrics in extremely scaled silicon nanosheet transistors",
+      "url": "https://arxiv.org/abs/2607.26328v1",
+      "published": "2026-07-29",
+      "authors": [
+        "Massimo V. Fischetti",
+        "Dallin O. Nielsen",
+        "Edward Chen"
+      ],
+      "summary": "We argue that the static dielectric constant of small (thin and/or narrow) semiconductor and insulator nanostructures depends strongly on the their environment. We do so by considering the electronic response simply reviewing, briefly but critically, the existing literature. Regarding the ionic response, in addition to reviewing the literature, we use a simple model to account for the confinement of optical phonons in thin films and show that the reduction of their density of states has a negligible effect on the dielectric constant, in contrast to some claims found in the literature. In general, we argue that in realistic structures, such as double-gated Si nanosheets, the use of the bulk dielectric constants for both the channel and the gate insulators, is justified.",
+      "score": 20,
+      "priority": 2,
+      "highlights": [
+        "transistor",
+        "nanosheet",
+        "dielectric"
+      ],
+      "abstract_cn": "我们认为，小尺寸（薄和/或窄）半导体及绝缘体纳米结构的静态介电常数强烈依赖于其所处环境。为论证这一观点，我们考察了电子响应，并仅对现有文献进行了简要但批判性的综述。对于离子响应，除综述文献外，我们还采用一个简单模型来描述薄膜中光学声子的限域，并表明其态密度降低对介电常数的影响可忽略不计，这与文献中的一些说法相反。总体而言，我们认为，在双栅 Si 纳米片等实际结构中，对沟道和栅极绝缘体均采用体材料介电常数是合理的。",
+      "abstract_zh": "我们认为，小尺寸（薄和/或窄）半导体及绝缘体纳米结构的静态介电常数强烈依赖于其所处环境。为论证这一观点，我们考察了电子响应，并仅对现有文献进行了简要但批判性的综述。对于离子响应，除综述文献外，我们还采用一个简单模型来描述薄膜中光学声子的限域，并表明其态密度降低对介电常数的影响可忽略不计，这与文献中的一些说法相反。总体而言，我们认为，在双栅 Si 纳米片等实际结构中，对沟道和栅极绝缘体均采用体材料介电常数是合理的。",
+      "overview_cn": "Focus: 晶体管、nanosheet、介电材料.\nWhat to check: 先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: On the static dielectric constant of thin dielectrics in extremely scaled silicon nanosheet tra….",
+      "reading_notes": "Focus: 晶体管、nanosheet、介电材料.\nWhat to check: 先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: On the static dielectric constant of thin dielectrics in extremely scaled silicon nanosheet tra…."
+    },
     {
       "source": "IEEE Electron Device Letters",
       "uid": "doi:10.1109/led.2026.3699506",
@@ -37,10 +61,57 @@
         "transistor",
         "ferroelectric"
       ],
-      "abstract_cn": "本工作系统研究了高温加帽后热退火对氧化物半导体沟道铁电场效应晶体管（OS-FeFET）存储特性的影响。采用相同的工程化铁电栅堆叠——8 nm Hf₀.₅Zr₀.₅O₂（HZO）/3 nm Al₂O₃/8 nm HZO（8/3/8）——以及复合加帽层（3 nm HfO₂+3 nm Al₂O₃）时，采用10% Ga掺杂In₂O₃（IGO）沟道和4% W掺杂In₂O₃（IWO）沟道的FeFET，在最高650 ℃的温度下分别退火最长30 min和10 min后仍能正常工作；进一步退火则会导致导电能力不可逆丧失和器件失效。详细的电学分析表明，存储窗口（MW）的增大源于擦除态阈值电压优先向正方向偏移，而编程态阈值电压则保持相对稳定。掠入射X射线衍射测量进一步表明，随着退火温度升高，IWO和IGO氧化物沟道发生了结构演变，这与所观察到的电学变化趋势相符。",
-      "abstract_zh": "本工作系统研究了高温加帽后热退火对氧化物半导体沟道铁电场效应晶体管（OS-FeFET）存储特性的影响。采用相同的工程化铁电栅堆叠——8 nm Hf₀.₅Zr₀.₅O₂（HZO）/3 nm Al₂O₃/8 nm HZO（8/3/8）——以及复合加帽层（3 nm HfO₂+3 nm Al₂O₃）时，采用10% Ga掺杂In₂O₃（IGO）沟道和4% W掺杂In₂O₃（IWO）沟道的FeFET，在最高650 ℃的温度下分别退火最长30 min和10 min后仍能正常工作；进一步退火则会导致导电能力不可逆丧失和器件失效。详细的电学分析表明，存储窗口（MW）的增大源于擦除态阈值电压优先向正方向偏移，而编程态阈值电压则保持相对稳定。掠入射X射线衍射测量进一步表明，随着退火温度升高，IWO和IGO氧化物沟道发生了结构演变，这与所观察到的电学变化趋势相符。",
+      "abstract_cn": "本工作系统研究了高温封帽后热退火对氧化物半导体沟道铁电场效应晶体管（OS-FeFET）存储特性的影响。采用相同的工程化铁电栅叠层——8 nm Hf₀.₅Zr₀.₅O₂（HZO）/ 3 nm Al₂O₃ / 8 nm HZO（8/3/8）——以及混合封帽层（3 nm HfO₂ + 3 nm Al₂O₃），10% Ga 掺杂 In₂O₃（IGO）沟道和 4% W 掺杂 In₂O₃（IWO）沟道 FeFET 分别在温度最高达 650 °C、持续时间最长为 30 min 和 10 min 的退火后仍保持功能；进一步退火会导致不可逆的导电性丧失和器件失效。详细的电学分析表明，存储窗口（MW）的增大源于擦除态阈值电压优先发生正向漂移，而编程态阈值电压则保持相对稳定。掠入射 X 射线衍射测量进一步表明，随着退火温度升高，IWO 和 IGO 氧化物沟道发生结构演化，这支持了所观察到的电学变化趋势。",
+      "abstract_zh": "本工作系统研究了高温封帽后热退火对氧化物半导体沟道铁电场效应晶体管（OS-FeFET）存储特性的影响。采用相同的工程化铁电栅叠层——8 nm Hf₀.₅Zr₀.₅O₂（HZO）/ 3 nm Al₂O₃ / 8 nm HZO（8/3/8）——以及混合封帽层（3 nm HfO₂ + 3 nm Al₂O₃），10% Ga 掺杂 In₂O₃（IGO）沟道和 4% W 掺杂 In₂O₃（IWO）沟道 FeFET 分别在温度最高达 650 °C、持续时间最长为 30 min 和 10 min 的退火后仍保持功能；进一步退火会导致不可逆的导电性丧失和器件失效。详细的电学分析表明，存储窗口（MW）的增大源于擦除态阈值电压优先发生正向漂移，而编程态阈值电压则保持相对稳定。掠入射 X 射线衍射测量进一步表明，随着退火温度升高，IWO 和 IGO 氧化物沟道发生结构演化，这支持了所观察到的电学变化趋势。",
       "overview_cn": "Focus: 晶体管、铁电材料.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Thermal Processing Limits in Oxide-Channel Ferroelectric Field Effect Transistors.",
       "reading_notes": "Focus: 晶体管、铁电材料.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Thermal Processing Limits in Oxide-Channel Ferroelectric Field Effect Transistors."
+    },
+    {
+      "source": "Nature Electronics",
+      "uid": "Nature Electronics:10.1038/s41928-026-01690-5",
+      "title": "Author Correction: Industrial reliability testing of transistor gate dielectrics",
+      "url": "https://www.nature.com/articles/s41928-026-01690-5",
+      "published": "2026-07-30",
+      "authors": [],
+      "summary": "Nature Electronics, Published online: 30 July 2026; doi:10.1038/s41928-026-01690-5 Author Correction: Industrial reliability testing of transistor gate dielectrics",
+      "score": 11,
+      "priority": 2,
+      "highlights": [
+        "transistor",
+        "dielectric"
+      ],
+      "abstract_cn": "《Nature Electronics》，2026 年 7 月 30 日在线发表；doi:10.1038/s41928-026-01690-5。作者更正：晶体管栅介质的工业可靠性测试。",
+      "abstract_zh": "《Nature Electronics》，2026 年 7 月 30 日在线发表；doi:10.1038/s41928-026-01690-5。作者更正：晶体管栅介质的工业可靠性测试。",
+      "overview_cn": "Focus: 晶体管、介电材料.\nWhat to check: 可靠性与稳定性.\nContext: Author Correction: Industrial reliability testing of transistor gate dielectrics.",
+      "reading_notes": "Focus: 晶体管、介电材料.\nWhat to check: 可靠性与稳定性.\nContext: Author Correction: Industrial reliability testing of transistor gate dielectrics."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2607.26962v1",
+      "title": "Depth-Resolved Lattice Distortions in a Silicon-Germanium Qubit Host",
+      "url": "https://arxiv.org/abs/2607.26962v1",
+      "published": "2026-07-29",
+      "authors": [
+        "Jonathan C. Marcks",
+        "E. S. Joseph",
+        "J. Reily",
+        "Talise Oh",
+        "Abigail Postlewaite",
+        "Tao Zhou",
+        "M. A. Eriksson",
+        "Mark Friesen",
+        "Martin V. Holt"
+      ],
+      "summary": "Semiconductor qubits, promising for quantum computation, inherit properties from their host lattice. Quantum dot spins, occupying the local lowest energy states in the conduction band, necessarily couple to structural disorder and interfaces. While silicon-based systems promise low noise alongside industrially compatible manufacturing, the growth of SiGe---a leading platform---unavoidably introduces lattice dislocations, inhomogeneous strain, and crosshatch patterns, expected to cause fluctuations between devices, qubit failure, and subsequently higher operational overhead. Through X-ray nano-structural mapping of an Intel Si/SiGe chip, we reveal, with 30$~$nm lateral and 200$~$nm functional depth resolution, how extended lattice defects introduced during growth propagate through the heterostructure, creating permanently distorted lattice planes and strain. We correlate these at the $\\approx1~μ$m scale of a quantum dot device and calculate the impact on qubit energy spectra. We observe crosshatch fine structure and find that substrate miscut and growth correlate with the final crosshatch pattern.",
+      "score": 11,
+      "priority": 2,
+      "highlights": [
+        "Intel"
+      ],
+      "abstract_cn": "适用于量子计算的半导体量子比特继承了其宿主晶格的性质。占据导带局部最低能态的量子点自旋不可避免地与结构无序和界面发生耦合。尽管基于硅的系统兼具低噪声前景和与工业兼容的制造工艺，作为领先平台的 SiGe 生长却不可避免地会引入晶格位错、非均匀应变和交叉网纹图样，预计会造成器件间波动、量子比特失效，并继而提高运行开销。通过对一枚 Intel Si/SiGe 芯片进行 X 射线纳米结构映射，我们以 30 nm 横向分辨率和 200 nm 有效深度分辨率揭示了生长过程中引入的延伸晶格缺陷如何在异质结构中传播，从而形成永久畸变的晶格面和应变。我们在量子点器件约 1 μm 的尺度上对这些特征进行了关联，并计算了其对量子比特能谱的影响。我们观测到交叉网纹细结构，并发现衬底偏切和生长过程与最终的交叉网纹图样存在相关性。",
+      "abstract_zh": "适用于量子计算的半导体量子比特继承了其宿主晶格的性质。占据导带局部最低能态的量子点自旋不可避免地与结构无序和界面发生耦合。尽管基于硅的系统兼具低噪声前景和与工业兼容的制造工艺，作为领先平台的 SiGe 生长却不可避免地会引入晶格位错、非均匀应变和交叉网纹图样，预计会造成器件间波动、量子比特失效，并继而提高运行开销。通过对一枚 Intel Si/SiGe 芯片进行 X 射线纳米结构映射，我们以 30 nm 横向分辨率和 200 nm 有效深度分辨率揭示了生长过程中引入的延伸晶格缺陷如何在异质结构中传播，从而形成永久畸变的晶格面和应变。我们在量子点器件约 1 μm 的尺度上对这些特征进行了关联，并计算了其对量子比特能谱的影响。我们观测到交叉网纹细结构，并发现衬底偏切和生长过程与最终的交叉网纹图样存在相关性。",
+      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 功耗或能效表现、与既有工艺平台的集成价值.\nContext: Depth-Resolved Lattice Distortions in a Silicon-Germanium Qubit Host.",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 功耗或能效表现、与既有工艺平台的集成价值.\nContext: Depth-Resolved Lattice Distortions in a Silicon-Germanium Qubit Host."
     },
     {
       "source": "IEEE Electron Device Letters",
@@ -67,8 +138,8 @@
         "nanosheet",
         "GAA"
       ],
-      "abstract_cn": "为解决沟道释放过程中SiGe沟道损失和形貌劣化的问题，本文针对SiGe纳米片全环绕栅（GAA）晶体管开发了一种新型添加SiGe抑制剂的TMAH（SGI-TMAH）溶液。与此前报道的S-TMAH溶液相比，SGI-TMAH将Si相对于SiGe的刻蚀选择比从23.5:1提高至80.6:1，从而能够基于常规Si/SiGe堆叠形成四层堆叠的矩形SiGe纳米片。因此，在保持I_ON/I_OFF比大于10⁶的同时，按占用面积归一化的I_ON提高了41.1%。尽管由于静电控制能力减弱，亚阈值摆幅（SS）、漏致势垒降低（DIBL）和I_OFF出现了一定程度的劣化，但进一步将纳米片缩小至约5 nm应能改善其静电特性。本工作验证了一种可应用于SiGe沟道GAA技术的可行沟道释放方案。",
-      "abstract_zh": "为解决沟道释放过程中SiGe沟道损失和形貌劣化的问题，本文针对SiGe纳米片全环绕栅（GAA）晶体管开发了一种新型添加SiGe抑制剂的TMAH（SGI-TMAH）溶液。与此前报道的S-TMAH溶液相比，SGI-TMAH将Si相对于SiGe的刻蚀选择比从23.5:1提高至80.6:1，从而能够基于常规Si/SiGe堆叠形成四层堆叠的矩形SiGe纳米片。因此，在保持I_ON/I_OFF比大于10⁶的同时，按占用面积归一化的I_ON提高了41.1%。尽管由于静电控制能力减弱，亚阈值摆幅（SS）、漏致势垒降低（DIBL）和I_OFF出现了一定程度的劣化，但进一步将纳米片缩小至约5 nm应能改善其静电特性。本工作验证了一种可应用于SiGe沟道GAA技术的可行沟道释放方案。",
+      "abstract_cn": "为克服沟道释放过程中 SiGe 沟道损失和形貌劣化的问题，针对 SiGe 纳米片全环绕栅（GAA）晶体管开发了一种新型添加 SiGe 抑制剂的 TMAH（SGI-TMAH）溶液。与先前报道的 S-TMAH 溶液相比，SGI-TMAH 将 Si 对 SiGe 的选择比从 23.5:1 提高至 80.6:1，从而可由常规 Si/SiGe 叠层制备四层堆叠的矩形 SiGe 纳米片。结果表明，在维持 I_ON/I_OFF 比值高于 10⁶ 的同时，按占地面积归一化的 I_ON 提高了 41.1%。尽管由于静电控制减弱而观察到亚阈值摆幅（SS）、漏致势垒降低（DIBL）和 I_OFF 的一定劣化，但进一步将纳米片尺寸缩小至约 5 nm 应可改善静电特性。本工作验证了一种适用于 SiGe 沟道 GAA 技术的可行沟道释放方案。",
+      "abstract_zh": "为克服沟道释放过程中 SiGe 沟道损失和形貌劣化的问题，针对 SiGe 纳米片全环绕栅（GAA）晶体管开发了一种新型添加 SiGe 抑制剂的 TMAH（SGI-TMAH）溶液。与先前报道的 S-TMAH 溶液相比，SGI-TMAH 将 Si 对 SiGe 的选择比从 23.5:1 提高至 80.6:1，从而可由常规 Si/SiGe 叠层制备四层堆叠的矩形 SiGe 纳米片。结果表明，在维持 I_ON/I_OFF 比值高于 10⁶ 的同时，按占地面积归一化的 I_ON 提高了 41.1%。尽管由于静电控制减弱而观察到亚阈值摆幅（SS）、漏致势垒降低（DIBL）和 I_OFF 的一定劣化，但进一步将纳米片尺寸缩小至约 5 nm 应可改善静电特性。本工作验证了一种适用于 SiGe 沟道 GAA 技术的可行沟道释放方案。",
       "overview_cn": "Focus: 晶体管、nanosheet、GAA / 全环栅.\nWhat to check: 性能提升、先进尺度下的可扩展性.\nContext: Rectangular Four-Level Stacked SiGe Nanosheet GAA Transistors Based on Si/SiGe Stacks Enabled b….",
       "reading_notes": "Focus: 晶体管、nanosheet、GAA / 全环栅.\nWhat to check: 性能提升、先进尺度下的可扩展性.\nContext: Rectangular Four-Level Stacked SiGe Nanosheet GAA Transistors Based on Si/SiGe Stacks Enabled b…."
     },
@@ -92,8 +163,8 @@
       "highlights": [
         "MOSFET"
       ],
-      "abstract_cn": "本文通过梯度沟道掺杂工程，实现了具有安培级漏极电流（I_D）和超过600 V击穿电压（BV）的高性能增强型（E-mode）β-Ga₂O₃凹栅金属-氧化物-半导体场效应晶体管（RG-MOSFET）。通过刻蚀栅极下方的n⁺-Ga₂O₃层和n-Ga₂O₃层，同时保留非故意掺杂（UID）Ga₂O₃层，小周长FET实现了均匀性良好的9 V阈值电压（V_TH）、创纪录的130 mA/mm顶栅增强型漏极电流I_D，以及19 mΩ·cm²的低比导通电阻（R_on,sp）。结合源极场板和栅极场板（FP），栅漏间距（L_GD）为10 μm的小周长RG-MOSFET表现出2.46 kV的高击穿电压，由此获得318 MW/cm²的先进功率品质因数（P-FOM）。将栅极宽度（W_ch）扩展至20 mm后，在阈值电压V_TH仍保持约9 V的情况下，同样实现了安培级I_D和超过600 V的击穿电压，显示出对工艺波动的高度耐受性。鉴于β-Ga₂O₃ MOSFET在功率器件领域的巨大潜力，这些增强型大电流、高电压结果证实了其在下一代电子技术中的广阔应用前景。",
-      "abstract_zh": "本文通过梯度沟道掺杂工程，实现了具有安培级漏极电流（I_D）和超过600 V击穿电压（BV）的高性能增强型（E-mode）β-Ga₂O₃凹栅金属-氧化物-半导体场效应晶体管（RG-MOSFET）。通过刻蚀栅极下方的n⁺-Ga₂O₃层和n-Ga₂O₃层，同时保留非故意掺杂（UID）Ga₂O₃层，小周长FET实现了均匀性良好的9 V阈值电压（V_TH）、创纪录的130 mA/mm顶栅增强型漏极电流I_D，以及19 mΩ·cm²的低比导通电阻（R_on,sp）。结合源极场板和栅极场板（FP），栅漏间距（L_GD）为10 μm的小周长RG-MOSFET表现出2.46 kV的高击穿电压，由此获得318 MW/cm²的先进功率品质因数（P-FOM）。将栅极宽度（W_ch）扩展至20 mm后，在阈值电压V_TH仍保持约9 V的情况下，同样实现了安培级I_D和超过600 V的击穿电压，显示出对工艺波动的高度耐受性。鉴于β-Ga₂O₃ MOSFET在功率器件领域的巨大潜力，这些增强型大电流、高电压结果证实了其在下一代电子技术中的广阔应用前景。",
+      "abstract_cn": "在本信中，我们通过梯度沟道掺杂工程，展示了具有安培级漏极电流（I_D）和超过 600 V 击穿电压（BV）的高性能增强型（E-mode）β-Ga₂O₃ 凹栅金属氧化物半导体场效应晶体管（RG-MOSFET）。在刻蚀栅极下方的 n⁺-Ga₂O₃ 和 n-Ga₂O₃ 层、并保留非故意掺杂（UID）Ga₂O₃ 的条件下，小周长 FET 实现了均匀性很高的 9 V 阈值电压（V_TH）、创纪录的 130 mA/mm 顶栅 E-mode I_D，以及低至 19 mΩ·cm² 的比导通电阻（R_on,sp）。结合源极和栅极场板（FP），栅漏间距（L_GD）为 10 μm 的小周长 RG-MOSFET 实现了 2.46 kV 的高 BV，获得了 318 MW/cm² 的先进功率品质因数（P-FOM）。通过将栅宽（W_ch）扩大至 20 mm，在维持 V_TH 约为 9 V 的同时，也实现了 BV > 600 V 的安培级 I_D，表明该器件具有较高的工艺波动耐受性。鉴于 β-Ga₂O₃ MOSFET 在功率器件中的巨大潜力，此类 E-mode 高电流和高电压结果验证了其在下一代电子器件中的广阔前景。",
+      "abstract_zh": "在本信中，我们通过梯度沟道掺杂工程，展示了具有安培级漏极电流（I_D）和超过 600 V 击穿电压（BV）的高性能增强型（E-mode）β-Ga₂O₃ 凹栅金属氧化物半导体场效应晶体管（RG-MOSFET）。在刻蚀栅极下方的 n⁺-Ga₂O₃ 和 n-Ga₂O₃ 层、并保留非故意掺杂（UID）Ga₂O₃ 的条件下，小周长 FET 实现了均匀性很高的 9 V 阈值电压（V_TH）、创纪录的 130 mA/mm 顶栅 E-mode I_D，以及低至 19 mΩ·cm² 的比导通电阻（R_on,sp）。结合源极和栅极场板（FP），栅漏间距（L_GD）为 10 μm 的小周长 RG-MOSFET 实现了 2.46 kV 的高 BV，获得了 318 MW/cm² 的先进功率品质因数（P-FOM）。通过将栅宽（W_ch）扩大至 20 mm，在维持 V_TH 约为 9 V 的同时，也实现了 BV > 600 V 的安培级 I_D，表明该器件具有较高的工艺波动耐受性。鉴于 β-Ga₂O₃ MOSFET 在功率器件中的巨大潜力，此类 E-mode 高电流和高电压结果验证了其在下一代电子器件中的广阔前景。",
       "overview_cn": "Focus: MOSFET.\nWhat to check: 性能提升、先进尺度下的可扩展性、接触/互连相关指标.\nContext: 600 V/1 A Enhancement-Mode <i>β</i> -Ga <sub>2</sub> O <sub>3</sub> MOSFETs With Graded Doping ….",
       "reading_notes": "Focus: MOSFET.\nWhat to check: 性能提升、先进尺度下的可扩展性、接触/互连相关指标.\nContext: 600 V/1 A Enhancement-Mode <i>β</i> -Ga <sub>2</sub> O <sub>3</sub> MOSFETs With Graded Doping …."
     },
@@ -115,8 +186,8 @@
       "highlights": [
         "GAA"
       ],
-      "abstract_cn": "本工作从理论和实验两方面系统研究了源/漏（S/D）延伸区缩短对铟镓锌氧化物（IGZO）全环绕栅（GAA）垂直场效应晶体管（VFET）性能的影响。采用漂移-扩散（DD）模拟和弹道注入模拟研究了S/D延伸区中的电子输运。研究发现，在高V_DS下，具有缩短S/D延伸区的IGZO GAA VFET的I-V特性由于S/D延伸区中的电子速度过冲而显著偏离速度饱和模型。本文引入了一种能够很好解释实验I-V特性的弹道注入模型。研究发现，与漏极（D）延伸区缩短相比，源极（S）延伸区缩短对提高导通电流（I_on）更为有效。通过将S延伸区缩短至5 nm，实验上验证了I_on的提升，并获得了569 μA/μm（V_D=2.2 V）的高I_on。",
-      "abstract_zh": "本工作从理论和实验两方面系统研究了源/漏（S/D）延伸区缩短对铟镓锌氧化物（IGZO）全环绕栅（GAA）垂直场效应晶体管（VFET）性能的影响。采用漂移-扩散（DD）模拟和弹道注入模拟研究了S/D延伸区中的电子输运。研究发现，在高V_DS下，具有缩短S/D延伸区的IGZO GAA VFET的I-V特性由于S/D延伸区中的电子速度过冲而显著偏离速度饱和模型。本文引入了一种能够很好解释实验I-V特性的弹道注入模型。研究发现，与漏极（D）延伸区缩短相比，源极（S）延伸区缩短对提高导通电流（I_on）更为有效。通过将S延伸区缩短至5 nm，实验上验证了I_on的提升，并获得了569 μA/μm（V_D=2.2 V）的高I_on。",
+      "abstract_cn": "本工作从理论和实验两方面系统研究了源/漏（S/D）延伸区缩放对铟镓锌氧化物（IGZO）全环绕栅（GAA）垂直场效应晶体管（VFET）性能的影响。通过漂移-扩散（DD）模拟和弹道注入模拟研究了 S/D 延伸区中的电子输运。研究发现，具有缩小 S/D 延伸区的 IGZO GAA VFET 在高 V_DS 下的 I-V 特性由于 S/D 延伸区中的电子速度过冲而显著偏离速度饱和模型。文中引入了能够良好解释实验 I-V 特性的弹道注入模型。研究表明，与 D 延伸区缩放相比，S 延伸区缩放对提升导通电流（I_on）更为有效。通过将 S 延伸区缩小至 5 nm，在实验上验证了 I_on 的增强，在 V_D = 2.2 V 时获得了高达 569 μA/μm 的 I_on。",
+      "abstract_zh": "本工作从理论和实验两方面系统研究了源/漏（S/D）延伸区缩放对铟镓锌氧化物（IGZO）全环绕栅（GAA）垂直场效应晶体管（VFET）性能的影响。通过漂移-扩散（DD）模拟和弹道注入模拟研究了 S/D 延伸区中的电子输运。研究发现，具有缩小 S/D 延伸区的 IGZO GAA VFET 在高 V_DS 下的 I-V 特性由于 S/D 延伸区中的电子速度过冲而显著偏离速度饱和模型。文中引入了能够良好解释实验 I-V 特性的弹道注入模型。研究表明，与 D 延伸区缩放相比，S 延伸区缩放对提升导通电流（I_on）更为有效。通过将 S 延伸区缩小至 5 nm，在实验上验证了 I_on 的增强，在 V_D = 2.2 V 时获得了高达 569 μA/μm 的 I_on。",
       "overview_cn": "Focus: GAA / 全环栅.\nWhat to check: 性能提升、先进尺度下的可扩展性.\nContext: The Ballistic Injection in IGZO GAA VFET With Scaled Source/Drain Extension and Its Impact on O….",
       "reading_notes": "Focus: GAA / 全环栅.\nWhat to check: 性能提升、先进尺度下的可扩展性.\nContext: The Ballistic Injection in IGZO GAA VFET With Scaled Source/Drain Extension and Its Impact on O…."
     },
@@ -137,92 +208,15 @@
       "highlights": [
         "transistor"
       ],
-      "abstract_cn": "我们提出了一种用于调控氧空位的N₂等离子体处理方法，以提高铟镓锌氧化物（IGZO）突触晶体管的线性度。在IGZO溅射过程中，首先通过Ar轰击有意产生氧空位，随后利用N₂等离子体对其进行钝化。该工艺抑制了持续光电导效应，而持续光电导是限制光子突触快速恢复的主要因素。采用该方法制备的器件表现出稳健的突触行为，包括长期增强和脉冲时序依赖可塑性。尤为重要的是，权重更新非线性因子从1.55降低至0.41，从而能够实现准确的人工神经网络学习。",
-      "abstract_zh": "我们提出了一种用于调控氧空位的N₂等离子体处理方法，以提高铟镓锌氧化物（IGZO）突触晶体管的线性度。在IGZO溅射过程中，首先通过Ar轰击有意产生氧空位，随后利用N₂等离子体对其进行钝化。该工艺抑制了持续光电导效应，而持续光电导是限制光子突触快速恢复的主要因素。采用该方法制备的器件表现出稳健的突触行为，包括长期增强和脉冲时序依赖可塑性。尤为重要的是，权重更新非线性因子从1.55降低至0.41，从而能够实现准确的人工神经网络学习。",
+      "abstract_cn": "我们提出了一种用于调控氧空位的 N₂ 等离子体处理方法，以提高铟镓锌氧化物（IGZO）突触晶体管的线性度。在 IGZO 溅射过程中，通过 Ar 轰击有意产生氧空位，随后利用 N₂ 等离子体进行钝化。该工艺抑制了持续光电导，而持续光电导是限制光突触快速恢复能力的主要因素。我们的方法实现了稳健的突触行为，包括长时程增强和尖峰时间依赖可塑性。关键的是，权重更新非线性因子从 1.55 降低至 0.41，从而实现准确的人工神经网络学习。",
+      "abstract_zh": "我们提出了一种用于调控氧空位的 N₂ 等离子体处理方法，以提高铟镓锌氧化物（IGZO）突触晶体管的线性度。在 IGZO 溅射过程中，通过 Ar 轰击有意产生氧空位，随后利用 N₂ 等离子体进行钝化。该工艺抑制了持续光电导，而持续光电导是限制光突触快速恢复能力的主要因素。我们的方法实现了稳健的突触行为，包括长时程增强和尖峰时间依赖可塑性。关键的是，权重更新非线性因子从 1.55 降低至 0.41，从而实现准确的人工神经网络学习。",
       "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Tuning Linearity of IGZO Synaptic Transistor With Low-Power by Oxygen Vacancy Engineering for S….",
       "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Tuning Linearity of IGZO Synaptic Transistor With Low-Power by Oxygen Vacancy Engineering for S…."
-    },
-    {
-      "source": "IEEE Electron Device Letters",
-      "uid": "doi:10.1109/led.2026.3701783",
-      "title": "A Scaling Theory for the Nonlinear Subthreshold Behavior of Cryogenic Ultrathin Body MOSFETs",
-      "url": "https://doi.org/10.1109/led.2026.3701783",
-      "published": "2026-08-01",
-      "authors": [
-        "In Huh",
-        "Mir Md Fahimul Islam",
-        "Changwook Jeong",
-        "Muhammad A. Alam"
-      ],
-      "summary": "The subthreshold swing (SS) is expected to scale linearly with temperature, $\\text {SS}_{\\text {B}} = \\text {(}\\text {k}_{\\text {B}}\\text {T}/\\text {q}\\text {)}\\ln {10}$ , yet experimental data from cryogenic UTB (Si, MoS 2 , and In 2 O 3 ) MOSFETs exhibit anomalous temperature-dependent nonlinearities characterized by negative differential SS and multiple plateaus. Here we use the Landauer formulation to rigorously derive the scaling relationship $\\text {SS} = \\text {SS}_{\\text {B}}\\cdot [{1}+\\gamma \\text {(}\\text {T}_{\\text {R}}/\\text {T}\\text {)}^{\\text {T}/\\text {T}_{\\text {W}}}]$ for constant diffusivity to capture the universality and robustness of SS anomalies reported in the literature. The temperature scales ( $\\text {T}_{\\text {W}}, \\text {T}_{\\text {R}}$ ) are respectively related to the intrinsic properties of the band-tail states and reference current, and as such, can be used as a diagnostic quality monitor of as-fabricated and stress-degraded MOSFET.",
-      "score": 11,
-      "priority": 1,
-      "highlights": [
-        "MOSFET"
-      ],
-      "abstract_cn": "亚阈值摆幅（SS）理论上应随温度线性缩放，即SS_B=(k_BT/q)ln 10；然而，低温超薄体（UTB）Si、MoS₂和In₂O₃ MOSFET的实验数据表现出反常的温度依赖非线性，其特征包括负微分SS和多个平台区。本文采用Landauer形式体系，在扩散系数恒定的条件下严格推导出缩放关系SS=SS_B·[1+γ(T_R/T)^(T/T_W)]，以描述文献所报道SS异常现象的普适性和稳健性。温度尺度（T_W、T_R）分别与带尾态的本征性质和参考电流相关，因此可用作诊断性质量监测指标，以评估制造完成时以及应力退化后的MOSFET。",
-      "abstract_zh": "亚阈值摆幅（SS）理论上应随温度线性缩放，即SS_B=(k_BT/q)ln 10；然而，低温超薄体（UTB）Si、MoS₂和In₂O₃ MOSFET的实验数据表现出反常的温度依赖非线性，其特征包括负微分SS和多个平台区。本文采用Landauer形式体系，在扩散系数恒定的条件下严格推导出缩放关系SS=SS_B·[1+γ(T_R/T)^(T/T_W)]，以描述文献所报道SS异常现象的普适性和稳健性。温度尺度（T_W、T_R）分别与带尾态的本征性质和参考电流相关，因此可用作诊断性质量监测指标，以评估制造完成时以及应力退化后的MOSFET。",
-      "overview_cn": "Focus: MOSFET.\nWhat to check: 可靠性与稳定性、先进尺度下的可扩展性.\nContext: A Scaling Theory for the Nonlinear Subthreshold Behavior of Cryogenic Ultrathin Body MOSFETs.",
-      "reading_notes": "Focus: MOSFET.\nWhat to check: 可靠性与稳定性、先进尺度下的可扩展性.\nContext: A Scaling Theory for the Nonlinear Subthreshold Behavior of Cryogenic Ultrathin Body MOSFETs."
-    },
-    {
-      "source": "IEEE Electron Device Letters",
-      "uid": "doi:10.1109/led.2026.3701402",
-      "title": "Vertical Integration of Noncarrier Injection Nano-LEDs and Transistors With Controllable Bandwidth for Selective Driving of Parallel Arrays: Modeling and Simulation",
-      "url": "https://doi.org/10.1109/led.2026.3701402",
-      "published": "2026-08-01",
-      "authors": [
-        "Shuqian Zhang",
-        "Wenhao Li",
-        "Shixiong Lin",
-        "Xiongtu Zhou",
-        "Yongai Zhang",
-        "Tailiang Guo",
-        "Chaoxing Wu"
-      ],
-      "summary": "The emerging noncarrier injection mode applied to nanopixel light-emitting display is expected to propel display technology toward a trend of highly interdisciplinary integration. However, achieving precise brightness modulation and driving remains a critical challenge. In this work, we propose a nano-scale light-emitting junction field-effect transistor (LE-JFET) with structure of vertical integration of noncarrier injection nano-LEDs and transistors. The electro-optic conversion performance of LE-JFET is studied by the finite element simulation. The dynamic variation of carrier concentration is studied to analyze the working mechanism. The LE-JFET exhibits unique frequency selective characteristics, demonstrating a gate-controlled optimal frequency point for light emission, which provides a potential approach for realizing the one line-to-multi LEDs driving method. The results of this work provide a new strategy for the realization of ultrahigh resolution displays and open a new perspective on future display technology applications.",
-      "score": 11,
-      "priority": 1,
-      "highlights": [
-        "transistor"
-      ],
-      "abstract_cn": "应用于纳米像素发光显示的新兴非载流子注入模式，有望推动显示技术向高度跨学科集成的方向发展。然而，实现精确的亮度调制与驱动仍是一项关键挑战。本工作提出了一种纳米尺度发光结型场效应晶体管（LE-JFET），其结构由非载流子注入型纳米LED与晶体管垂直集成而成。本文通过有限元模拟研究了LE-JFET的电光转换性能，并通过研究载流子浓度的动态变化分析其工作机制。LE-JFET表现出独特的频率选择特性，显示出由栅极控制的最佳发光频率点，为实现一条线路驱动多个LED的方法提供了一种潜在途径。本工作的结果为实现超高分辨率显示提供了新策略，并为未来显示技术的应用开辟了新的视角。",
-      "abstract_zh": "应用于纳米像素发光显示的新兴非载流子注入模式，有望推动显示技术向高度跨学科集成的方向发展。然而，实现精确的亮度调制与驱动仍是一项关键挑战。本工作提出了一种纳米尺度发光结型场效应晶体管（LE-JFET），其结构由非载流子注入型纳米LED与晶体管垂直集成而成。本文通过有限元模拟研究了LE-JFET的电光转换性能，并通过研究载流子浓度的动态变化分析其工作机制。LE-JFET表现出独特的频率选择特性，显示出由栅极控制的最佳发光频率点，为实现一条线路驱动多个LED的方法提供了一种潜在途径。本工作的结果为实现超高分辨率显示提供了新策略，并为未来显示技术的应用开辟了新的视角。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、效率/耦合表现、与既有工艺平台的集成价值.\nContext: Vertical Integration of Noncarrier Injection Nano-LEDs and Transistors With Controllable Bandwi….",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、效率/耦合表现、与既有工艺平台的集成价值.\nContext: Vertical Integration of Noncarrier Injection Nano-LEDs and Transistors With Controllable Bandwi…."
-    },
-    {
-      "source": "IEEE Electron Device Letters",
-      "uid": "doi:10.1109/led.2026.3702162",
-      "title": "Ionic Field-Effect Transistor Achieving Large Memory Window and Enhanced Retention via Ultrathin Ozone-Oxidized Barrier Layer",
-      "url": "https://doi.org/10.1109/led.2026.3702162",
-      "published": "2026-08-01",
-      "authors": [
-        "Jongseon Seo",
-        "Geonhui Han",
-        "Laeyong Jung",
-        "Junghoon Park",
-        "Jongho Park",
-        "Suhwan Lim",
-        "Wanki Kim",
-        "Daewon Ha",
-        "Hyunsang Hwang"
-      ],
-      "summary": "We propose an ionic field-effect transistor (Ionic FET) based on a WO ${}_{\\text{3-}x}$ /HfOx ECRAM stack that stores information via ionic-charge-induced threshold voltage (V ${}_{\\text {th}}\\text {)}$ modulation, enabling scalable analog state control. To relax the trade-off between ion injection and retention, an ultrathin ion barrier layer formed by ozone oxidation suppresses ion back-diffusion while preserving sufficient injection. The device achieves a large memory window of ~7.6 V with linear Vth modulation, stable 3-bit multi-level operation ( $\\sigma $ / $\\mu \\lt 0.1$ ), and endurance over $10^{{5}}$ program/erase cycles. By raising the activation energy for ion back-diffusion, the ozone-treated barrier yields a projected room-temperature retention exceeding $10^{{6}}$ sec.",
-      "score": 10,
-      "priority": 1,
-      "highlights": [
-        "transistor"
-      ],
-      "abstract_cn": "我们提出了一种基于WO₃₋ₓ/HfOₓ ECRAM堆叠的离子场效应晶体管（Ionic FET），该器件通过离子电荷诱导的阈值电压（V_th）调制来存储信息，从而实现可扩展的模拟状态控制。为缓解离子注入与保持特性之间的权衡，通过臭氧氧化形成了一层超薄离子阻挡层，在保留足够离子注入能力的同时抑制离子反向扩散。该器件实现了约7.6 V的大存储窗口和线性的V_th调制，能够进行稳定的3 bit多级操作（σ/μ<0.1），并可承受超过10⁵次编程/擦除循环。通过提高离子反向扩散的活化能，经臭氧处理的阻挡层使器件在室温下的预计保持时间超过10⁶ s。",
-      "abstract_zh": "我们提出了一种基于WO₃₋ₓ/HfOₓ ECRAM堆叠的离子场效应晶体管（Ionic FET），该器件通过离子电荷诱导的阈值电压（V_th）调制来存储信息，从而实现可扩展的模拟状态控制。为缓解离子注入与保持特性之间的权衡，通过臭氧氧化形成了一层超薄离子阻挡层，在保留足够离子注入能力的同时抑制离子反向扩散。该器件实现了约7.6 V的大存储窗口和线性的V_th调制，能够进行稳定的3 bit多级操作（σ/μ<0.1），并可承受超过10⁵次编程/擦除循环。通过提高离子反向扩散的活化能，经臭氧处理的阻挡层使器件在室温下的预计保持时间超过10⁶ s。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性、功耗或能效表现.\nContext: Ionic Field-Effect Transistor Achieving Large Memory Window and Enhanced Retention via Ultrathi….",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性、功耗或能效表现.\nContext: Ionic Field-Effect Transistor Achieving Large Memory Window and Enhanced Retention via Ultrathi…."
     }
   ],
   "errors": [],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-07-30T00:30:00+00:00"
+  "generated_at": "2026-07-31T00:30:00+00:00"
 }
