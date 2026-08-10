@@ -2,7 +2,7 @@
   "ok": true,
   "new_count": 0,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-08-09）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [Science Advances] Monolithically integrating polarization-doped InGaN p-FET and GaN n-FET for complementary l…\n   关键词：FET, GaN\n   日期：2026-08-07\n   Authors: Jingjing Yu, Teng Li, Yunhong Lao 等\n   https://doi.org/10.1126/sciadv.aec4563\n2. [arXiv] Active Passivation Tunes Hotspot Locations in GaN Transistors with In Situ Thermal Mechanic…\n   关键词：transistor, GaN\n   日期：2026-08-02\n   Authors: Yicheng Wei, Sihang Liu, Zimu Jiang 等\n   https://arxiv.org/abs/2608.01257v1\n3. [arXiv] Epitaxial SiGeSn alloys for CMOS-compatible thermoelectric devices\n   关键词：CMOS\n   日期：2026-08-04\n   Authors: Patrizio Graziosi, Damiano Marian, Andrea Tomadin 等\n   https://arxiv.org/abs/2608.03638v1\n4. [arXiv] Self-Focusing Control for Depth-Precise Wafer Slicing of 4H-SiC in Femtosecond Laser Proces…\n   关键词：wafer, SiC\n   日期：2026-08-04\n   Authors: Dong Hee Kang, Jaeseung Lim, Mishfaqur Rahman 等\n   https://arxiv.org/abs/2608.03814v1\n5. [arXiv] Direct Wafer Bonding of Crystal-Ion-Sliced GaP Thin Films for Photonic Applications\n   关键词：wafer\n   日期：2026-08-03\n   Authors: Hossein Esfandiar, Emanuel Glück, Fabian Ganss 等\n   https://arxiv.org/abs/2608.02251v1\n6. [Science Advances] Biomimetic hierarchical heterogeneity endows layered nanocomposite with excellent mechanica…\n   日期：2026-08-07\n   Authors: Guan-Hua Yu, Xiao-Feng Pan, Wen-Long Xu 等\n   https://doi.org/10.1126/sciadv.aec6963\n7. [arXiv] Tuning the Optoelectronics of Mixed-Semiconductors through the interplay of Quantum confine…\n   关键词：semiconductor\n   日期：2026-08-06\n   Authors: Kanha Ram Khator, Anupam Manna, Amlandeep Nayak 等\n   https://arxiv.org/abs/2608.05890v1\n8. [arXiv] Monolithic integration of optically anisotropic GeSe-based films on GaAs by templated solid…\n   关键词：epitaxy\n   日期：2026-08-05\n   Authors: Kira J. Martin, Autumn Y. Lee, Pranav Mahaadev 等\n   https://arxiv.org/abs/2608.04418v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-08-10）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [Science Advances] Monolithically integrating polarization-doped InGaN p-FET and GaN n-FET for complementary l…\n   关键词：FET, GaN\n   日期：2026-08-07\n   Authors: Jingjing Yu, Teng Li, Yunhong Lao 等\n   https://doi.org/10.1126/sciadv.aec4563\n2. [arXiv] Epitaxial SiGeSn alloys for CMOS-compatible thermoelectric devices\n   关键词：CMOS\n   日期：2026-08-04\n   Authors: Patrizio Graziosi, Damiano Marian, Andrea Tomadin 等\n   https://arxiv.org/abs/2608.03638v1\n3. [arXiv] Self-Focusing Control for Depth-Precise Wafer Slicing of 4H-SiC in Femtosecond Laser Proces…\n   关键词：wafer, SiC\n   日期：2026-08-04\n   Authors: Dong Hee Kang, Jaeseung Lim, Mishfaqur Rahman 等\n   https://arxiv.org/abs/2608.03814v1\n4. [arXiv] Direct Wafer Bonding of Crystal-Ion-Sliced GaP Thin Films for Photonic Applications\n   关键词：wafer\n   日期：2026-08-03\n   Authors: Hossein Esfandiar, Emanuel Glück, Fabian Ganss 等\n   https://arxiv.org/abs/2608.02251v1\n5. [Science Advances] Biomimetic hierarchical heterogeneity endows layered nanocomposite with excellent mechanica…\n   日期：2026-08-07\n   Authors: Guan-Hua Yu, Xiao-Feng Pan, Wen-Long Xu 等\n   https://doi.org/10.1126/sciadv.aec6963\n6. [arXiv] Tuning the Optoelectronics of Mixed-Semiconductors through the interplay of Quantum confine…\n   关键词：semiconductor\n   日期：2026-08-06\n   Authors: Kanha Ram Khator, Anupam Manna, Amlandeep Nayak 等\n   https://arxiv.org/abs/2608.05890v1\n7. [arXiv] Monolithic integration of optically anisotropic GeSe-based films on GaAs by templated solid…\n   关键词：epitaxy\n   日期：2026-08-05\n   Authors: Kira J. Martin, Autumn Y. Lee, Pranav Mahaadev 等\n   https://arxiv.org/abs/2608.04418v1\n8. [arXiv] Investigation of GeSn aspect ratio trapping growth up to 8% Sn\n   日期：2026-08-04\n   Authors: Hryhorii Stanchu, Quang Minh Thai, Fernando M. de Oliveira 等\n   https://arxiv.org/abs/2608.02710v1",
   "papers": [
     {
       "source": "Science Advances",
@@ -32,39 +32,10 @@
         "FET",
         "GaN"
       ],
-      "abstract_cn": "低效率的 p 型杂质掺杂长期阻碍了宽禁带半导体在集成电路（IC）中的实际应用。在宽禁带 III 族氮化物半导体中，固有的极化效应为电学性质工程提供了另一种途径。本文报道了将极化掺杂 InGaN p 沟道场效应晶体管与极化掺杂 GaN n 沟道场效应晶体管单片集成，用于构建互补逻辑（CL）电路。增强型（E-mode）InGaN p-FET 实现了超过 20 mA/mm 的高电流密度。我们构建了一系列 III 族氮化物 CL 基本电路单元，包括反相器、环形振荡器（RO）、NAND、NOR、RS 锁存器和 6T-SRAM。该反相器表现出 154.1 V/V 的高最大电压增益，RO 实现了每级 10.4 ns 的创纪录短传播延迟。此外，我们还展示了 CL 缓冲器与高压 GaN 功率晶体管的单片集成。这些结果表明，极化掺杂 III 族氮化物 CL 平台是实现高频电源管理 IC 和恶劣环境电子器件的一种很有前景的方案。",
-      "abstract_zh": "低效率的 p 型杂质掺杂长期阻碍了宽禁带半导体在集成电路（IC）中的实际应用。在宽禁带 III 族氮化物半导体中，固有的极化效应为电学性质工程提供了另一种途径。本文报道了将极化掺杂 InGaN p 沟道场效应晶体管与极化掺杂 GaN n 沟道场效应晶体管单片集成，用于构建互补逻辑（CL）电路。增强型（E-mode）InGaN p-FET 实现了超过 20 mA/mm 的高电流密度。我们构建了一系列 III 族氮化物 CL 基本电路单元，包括反相器、环形振荡器（RO）、NAND、NOR、RS 锁存器和 6T-SRAM。该反相器表现出 154.1 V/V 的高最大电压增益，RO 实现了每级 10.4 ns 的创纪录短传播延迟。此外，我们还展示了 CL 缓冲器与高压 GaN 功率晶体管的单片集成。这些结果表明，极化掺杂 III 族氮化物 CL 平台是实现高频电源管理 IC 和恶劣环境电子器件的一种很有前景的方案。",
+      "abstract_cn": "低效率的p型杂质掺杂长期以来阻碍了宽禁带半导体在集成电路（IC）中的实际应用。在宽禁带III族氮化物半导体中，固有的极化效应为电学性质工程提供了替代途径。本文报道了用于互补逻辑（CL）电路的极化掺杂InGaN p沟道FET与极化掺杂GaN n沟道FET的单片集成。增强型（E-mode）InGaN p-FET实现了超过20 mA/mm的高电流密度。我们构建了一系列III族氮化物CL基本单元，包括反相器、环形振荡器（RO）、NAND、NOR、RS锁存器和6T-SRAM。该反相器表现出154.1 V/V的高最大电压增益，RO则实现了每级10.4 ns的创纪录短传播延迟。此外，我们展示了CL缓冲器与高压GaN功率晶体管的单片集成。这些结果表明，极化掺杂III族氮化物CL平台有望成为高频电源管理IC和恶劣环境电子器件的解决方案。",
+      "abstract_zh": "低效率的p型杂质掺杂长期以来阻碍了宽禁带半导体在集成电路（IC）中的实际应用。在宽禁带III族氮化物半导体中，固有的极化效应为电学性质工程提供了替代途径。本文报道了用于互补逻辑（CL）电路的极化掺杂InGaN p沟道FET与极化掺杂GaN n沟道FET的单片集成。增强型（E-mode）InGaN p-FET实现了超过20 mA/mm的高电流密度。我们构建了一系列III族氮化物CL基本单元，包括反相器、环形振荡器（RO）、NAND、NOR、RS锁存器和6T-SRAM。该反相器表现出154.1 V/V的高最大电压增益，RO则实现了每级10.4 ns的创纪录短传播延迟。此外，我们展示了CL缓冲器与高压GaN功率晶体管的单片集成。这些结果表明，极化掺杂III族氮化物CL平台有望成为高频电源管理IC和恶劣环境电子器件的解决方案。",
       "overview_cn": "Focus: FET、GaN.\nWhat to check: 性能提升、效率/耦合表现、与既有工艺平台的集成价值.\nContext: Monolithically integrating polarization-doped InGaN p-FET and GaN n-FET for complementary logic….",
       "reading_notes": "Focus: FET、GaN.\nWhat to check: 性能提升、效率/耦合表现、与既有工艺平台的集成价值.\nContext: Monolithically integrating polarization-doped InGaN p-FET and GaN n-FET for complementary logic…."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2608.01257v1",
-      "title": "Active Passivation Tunes Hotspot Locations in GaN Transistors with In Situ Thermal Mechanical Visualization",
-      "url": "https://arxiv.org/abs/2608.01257v1",
-      "published": "2026-08-02",
-      "authors": [
-        "Yicheng Wei",
-        "Sihang Liu",
-        "Zimu Jiang",
-        "jinquan Zhang",
-        "Zifeng Huang",
-        "Han Yang",
-        "Yang He",
-        "Jin Wei",
-        "Zhe Cheng"
-      ],
-      "summary": "Efficient thermal dissipation has become critical in emerging electronic devices. However, most existing studies have primarily focused on engineering heat dissipation pathways, largely overlooking the intrinsic behavior of the heat source itself. We demonstrate an active passivation technology that proactively tunes hotspot locations in GaN transistors. By adjusting the active passivation layer length, the hotspot is shifted from the gate edge to the drain-side AP edge, establishing a clear one-to-one spatial correlation. In-situ thermal-mechanical visualization via micro-Raman thermography, combined with multi-physics electro-thermal-mechanical simulations, directly captures the spatial redistribution of both temperature and thermal stress profiles. Electrical analysis confirms that this hotspot migration is driven by the spatial shift of the peak electric field and localized Joule heating. This proactive heat-source tuning strategy provides critical design guidelines for power electronics.",
-      "score": 8,
-      "priority": 2,
-      "highlights": [
-        "transistor",
-        "GaN"
-      ],
-      "abstract_cn": "高效散热已成为新兴电子器件中的关键问题。然而，大多数现有研究主要关注散热路径的工程设计，在很大程度上忽视了热源本身的内在行为。我们展示了一种可主动调控 GaN 晶体管热点位置的有源钝化技术。通过调节有源钝化层长度，热点可从栅极边缘转移至漏极侧 AP 边缘，并建立清晰的一一空间对应关系。借助显微拉曼测温开展的原位热-机械可视化，结合多物理场电-热-机械仿真，直接捕捉了温度分布与热应力分布的空间重构。电学分析证实，该热点迁移由峰值电场的空间转移以及局部焦耳热所驱动。这一主动热源调控策略为功率电子器件提供了关键设计指导。",
-      "abstract_zh": "高效散热已成为新兴电子器件中的关键问题。然而，大多数现有研究主要关注散热路径的工程设计，在很大程度上忽视了热源本身的内在行为。我们展示了一种可主动调控 GaN 晶体管热点位置的有源钝化技术。通过调节有源钝化层长度，热点可从栅极边缘转移至漏极侧 AP 边缘，并建立清晰的一一空间对应关系。借助显微拉曼测温开展的原位热-机械可视化，结合多物理场电-热-机械仿真，直接捕捉了温度分布与热应力分布的空间重构。电学分析证实，该热点迁移由峰值电场的空间转移以及局部焦耳热所驱动。这一主动热源调控策略为功率电子器件提供了关键设计指导。",
-      "overview_cn": "Focus: 晶体管、GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Active Passivation Tunes Hotspot Locations in GaN Transistors with In Situ Thermal Mechanical V….",
-      "reading_notes": "Focus: 晶体管、GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Active Passivation Tunes Hotspot Locations in GaN Transistors with In Situ Thermal Mechanical V…."
     },
     {
       "source": "arXiv",
@@ -90,8 +61,8 @@
       "highlights": [
         "CMOS"
       ],
-      "abstract_cn": "将热电器件集成到主流微电子技术平台中，可能会成为所谓绿色 IT 领域多个方向的重大突破。本文评估了异质外延 SiGeSn 合金这一新型 CMOS 兼容材料体系的热电性能，以考察其在热电器件中的潜在应用。为此，基于通过 3-$ω$ 测量获得的 SiGeSn/Ge/Si 层约 $\\sim$1–2 W/m$\\cdot$K 的实验低晶格热导率，采用玻尔兹曼输运方程计算了优值系数，并考虑了该多能谷材料体系特有的相关谷间散射过程。在 300---400 K 的工作温度范围内，即典型的片上温度下，p 型和 n 型材料均获得了超过 $1$ 的热电优值 $ZT$。在该温度区间内，预测的功率因子也具有约 20 $\\rm{μW/cm\\cdot K^2}$ 的极具竞争力的数值。我们的发现表明，这类新型 Si 基材料具有极佳的实际应用前景，并可进一步推动该领域的科学研究。",
-      "abstract_zh": "将热电器件集成到主流微电子技术平台中，可能会成为所谓绿色 IT 领域多个方向的重大突破。本文评估了异质外延 SiGeSn 合金这一新型 CMOS 兼容材料体系的热电性能，以考察其在热电器件中的潜在应用。为此，基于通过 3-$ω$ 测量获得的 SiGeSn/Ge/Si 层约 $\\sim$1–2 W/m$\\cdot$K 的实验低晶格热导率，采用玻尔兹曼输运方程计算了优值系数，并考虑了该多能谷材料体系特有的相关谷间散射过程。在 300---400 K 的工作温度范围内，即典型的片上温度下，p 型和 n 型材料均获得了超过 $1$ 的热电优值 $ZT$。在该温度区间内，预测的功率因子也具有约 20 $\\rm{μW/cm\\cdot K^2}$ 的极具竞争力的数值。我们的发现表明，这类新型 Si 基材料具有极佳的实际应用前景，并可进一步推动该领域的科学研究。",
+      "abstract_cn": "将热电器件集成到主流微电子技术平台中，可能成为所谓绿色信息技术（Green-IT）领域多个方向的重要突破。本文评估了异质外延SiGeSn合金这一新型CMOS兼容材料体系的热电性能，以考察其在热电器件中的潜在应用。为此，以通过3-ω测量获得的SiGeSn/Ge/Si层约为1-2 W/m·K的实验低晶格热导率为基础，利用玻尔兹曼输运方程计算其品质因数，并考虑了这一多谷材料体系所特有的相关谷间散射过程。在300---400 K的工作温度范围内，即典型的片上温度范围内，p型和n型材料均获得了超过1的热电优值ZT。在该温度区间内，预测的功率因子也表现出约20 μW/cm·K^2的极具竞争力数值。我们的发现表明，这类新型Si基材料具有极为良好的实际应用前景，并可进一步推动该领域的科学研究。",
+      "abstract_zh": "将热电器件集成到主流微电子技术平台中，可能成为所谓绿色信息技术（Green-IT）领域多个方向的重要突破。本文评估了异质外延SiGeSn合金这一新型CMOS兼容材料体系的热电性能，以考察其在热电器件中的潜在应用。为此，以通过3-ω测量获得的SiGeSn/Ge/Si层约为1-2 W/m·K的实验低晶格热导率为基础，利用玻尔兹曼输运方程计算其品质因数，并考虑了这一多谷材料体系所特有的相关谷间散射过程。在300---400 K的工作温度范围内，即典型的片上温度范围内，p型和n型材料均获得了超过1的热电优值ZT。在该温度区间内，预测的功率因子也表现出约20 μW/cm·K^2的极具竞争力数值。我们的发现表明，这类新型Si基材料具有极为良好的实际应用前景，并可进一步推动该领域的科学研究。",
       "overview_cn": "Focus: CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Epitaxial SiGeSn alloys for CMOS-compatible thermoelectric devices.",
       "reading_notes": "Focus: CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Epitaxial SiGeSn alloys for CMOS-compatible thermoelectric devices."
     },
@@ -117,8 +88,8 @@
         "wafer",
         "SiC"
       ],
-      "abstract_cn": "4H-SiC 凭借优异的热导率和高击穿电场，能够在功率电子应用中实现高功率密度和更高的开关频率，因此已成为第三代芯片材料。随着芯片架构向三维及异构集成演进，机械与热设计空间日益收紧，同时良率风险不断增加。特别是，先进封装要求在工艺中途将晶圆减薄至 < 100 $μ$m，以缩短互连并控制热机械应力。利用飞秒激光对 4H-SiC 晶圆进行切片，是一种可制备低缺陷薄层的非接触式加工方法；然而，强烈的光学非线性使激光参数与最终切片质量之间的关系难以明确。本文通过结合实验、半经验解析模型和数值光线光学仿真，系统研究了飞秒激光 4H-SiC 切片中的克尔效应诱导自聚焦。我们表明，脉冲能量与加工深度之间的相互作用决定了自聚焦行为；该行为与分离后表面纹理参数及分离应力直接相关，从而将非线性光束传播与切片质量联系起来。基于这一关系，我们在归一化辐照度背景下，于脉冲能量—自聚焦深度空间中定义了可加工性图。解析上，该模型通过以归一化辐照度取代功率比，将 Marburger 公式扩展至聚焦光束。光线光学仿真捕捉了自聚焦点处的几何特征，并通过实验观察结果进行了验证。在物理定义的阈值范围内，该可加工性图将激光参数与分离应力及表面纹理指标直接关联，为超越试错法的深度控制提供了实用指导。",
-      "abstract_zh": "4H-SiC 凭借优异的热导率和高击穿电场，能够在功率电子应用中实现高功率密度和更高的开关频率，因此已成为第三代芯片材料。随着芯片架构向三维及异构集成演进，机械与热设计空间日益收紧，同时良率风险不断增加。特别是，先进封装要求在工艺中途将晶圆减薄至 < 100 $μ$m，以缩短互连并控制热机械应力。利用飞秒激光对 4H-SiC 晶圆进行切片，是一种可制备低缺陷薄层的非接触式加工方法；然而，强烈的光学非线性使激光参数与最终切片质量之间的关系难以明确。本文通过结合实验、半经验解析模型和数值光线光学仿真，系统研究了飞秒激光 4H-SiC 切片中的克尔效应诱导自聚焦。我们表明，脉冲能量与加工深度之间的相互作用决定了自聚焦行为；该行为与分离后表面纹理参数及分离应力直接相关，从而将非线性光束传播与切片质量联系起来。基于这一关系，我们在归一化辐照度背景下，于脉冲能量—自聚焦深度空间中定义了可加工性图。解析上，该模型通过以归一化辐照度取代功率比，将 Marburger 公式扩展至聚焦光束。光线光学仿真捕捉了自聚焦点处的几何特征，并通过实验观察结果进行了验证。在物理定义的阈值范围内，该可加工性图将激光参数与分离应力及表面纹理指标直接关联，为超越试错法的深度控制提供了实用指导。",
+      "abstract_cn": "4H-SiC凭借优异的热导率和高击穿电场，能够在功率电子应用中实现高功率密度和更高的开关频率，因而已成为第三代芯片材料。随着芯片架构向3D和异构集成演进，机械和热设计空间不断收紧，而良率风险持续增加。特别是，先进封装需要在制造过程中将晶圆减薄至< 100 μm，以缩短互连并控制热机械应力。采用飞秒激光对4H-SiC晶圆进行切片，是一种可制备低缺陷薄层的非接触式加工方法；然而，强烈的光学非线性效应掩盖了激光参数与最终切片质量之间的关系。本文通过结合实验、半经验解析模型和数值光线光学模拟，系统研究了飞秒激光在4H-SiC切片中的克尔效应诱导自聚焦。我们证明，脉冲能量与加工深度之间的相互作用决定了自聚焦行为，而该行为与分离后表面纹理参数及分离应力直接相关，从而建立了非线性光束传播与切片质量之间的联系。基于这一关系，我们在归一化辐照度背景下的脉冲能量-自聚焦深度空间中定义了工艺可加工性图。解析上，该模型通过以归一化辐照度替代功率比，将Marburger公式扩展至聚焦光束。光线光学模拟捕捉了自聚焦点处的几何特征，并通过实验观测结果进行了验证。在物理定义的阈值范围内，该工艺可加工性图将激光参数直接关联至分离应力和表面纹理指标，为超越试错法的深度控制提供了实用指导。",
+      "abstract_zh": "4H-SiC凭借优异的热导率和高击穿电场，能够在功率电子应用中实现高功率密度和更高的开关频率，因而已成为第三代芯片材料。随着芯片架构向3D和异构集成演进，机械和热设计空间不断收紧，而良率风险持续增加。特别是，先进封装需要在制造过程中将晶圆减薄至< 100 μm，以缩短互连并控制热机械应力。采用飞秒激光对4H-SiC晶圆进行切片，是一种可制备低缺陷薄层的非接触式加工方法；然而，强烈的光学非线性效应掩盖了激光参数与最终切片质量之间的关系。本文通过结合实验、半经验解析模型和数值光线光学模拟，系统研究了飞秒激光在4H-SiC切片中的克尔效应诱导自聚焦。我们证明，脉冲能量与加工深度之间的相互作用决定了自聚焦行为，而该行为与分离后表面纹理参数及分离应力直接相关，从而建立了非线性光束传播与切片质量之间的联系。基于这一关系，我们在归一化辐照度背景下的脉冲能量-自聚焦深度空间中定义了工艺可加工性图。解析上，该模型通过以归一化辐照度替代功率比，将Marburger公式扩展至聚焦光束。光线光学模拟捕捉了自聚焦点处的几何特征，并通过实验观测结果进行了验证。在物理定义的阈值范围内，该工艺可加工性图将激光参数直接关联至分离应力和表面纹理指标，为超越试错法的深度控制提供了实用指导。",
       "overview_cn": "Focus: wafer、SiC.\nWhat to check: 功耗或能效表现、接触/互连相关指标、与既有工艺平台的集成价值.\nContext: Self-Focusing Control for Depth-Precise Wafer Slicing of 4H-SiC in Femtosecond Laser Processing.",
       "reading_notes": "Focus: wafer、SiC.\nWhat to check: 功耗或能效表现、接触/互连相关指标、与既有工艺平台的集成价值.\nContext: Self-Focusing Control for Depth-Precise Wafer Slicing of 4H-SiC in Femtosecond Laser Processing."
     },
@@ -150,8 +121,8 @@
       "highlights": [
         "wafer"
       ],
-      "abstract_cn": "磷化镓（GaP）因具有高折射率、宽光学透明窗口和强二阶非线性响应，是一种很有前景的集成光子材料平台。本文展示了通过晶体离子切片和直接晶圆键合制备的绝缘体上 GaP 薄膜，并采用熔融石英以及 SiO$_2$/Si/Si 热氧化硅衬底作为代表性平台。不同于依赖异质外延生长或牺牲层释放的 GaP 薄膜平台，所提出的方法能够灵活集成晶体 GaP 薄膜，且不受供体衬底和目标衬底的限制。经转移后退火处理，薄膜表现出接近块体材料的晶体质量、较低的残余应变、适用于纳米光子制造的平滑表面以及均匀的键合界面。此外，退火可恢复线性色散特性（n 和 k），使其接近外延生长 GaP 的水平；在电信 C 波段的 1550 nm 处，估算平面波吸收损耗为 0.9 dB/cm。所展示的方法建立了一条可扩展的高质量 GaP 薄膜光子学实现路径，兼容多样化异构集成和 CMOS 后道工艺。",
-      "abstract_zh": "磷化镓（GaP）因具有高折射率、宽光学透明窗口和强二阶非线性响应，是一种很有前景的集成光子材料平台。本文展示了通过晶体离子切片和直接晶圆键合制备的绝缘体上 GaP 薄膜，并采用熔融石英以及 SiO$_2$/Si/Si 热氧化硅衬底作为代表性平台。不同于依赖异质外延生长或牺牲层释放的 GaP 薄膜平台，所提出的方法能够灵活集成晶体 GaP 薄膜，且不受供体衬底和目标衬底的限制。经转移后退火处理，薄膜表现出接近块体材料的晶体质量、较低的残余应变、适用于纳米光子制造的平滑表面以及均匀的键合界面。此外，退火可恢复线性色散特性（n 和 k），使其接近外延生长 GaP 的水平；在电信 C 波段的 1550 nm 处，估算平面波吸收损耗为 0.9 dB/cm。所展示的方法建立了一条可扩展的高质量 GaP 薄膜光子学实现路径，兼容多样化异构集成和 CMOS 后道工艺。",
+      "abstract_cn": "磷化镓（GaP）因具有高折射率、宽光学透明窗口和强二阶非线性响应，是一种很有前景的集成光子学材料平台。本文展示了通过晶体离子切片和直接晶圆键合制备的绝缘体上GaP薄膜，并以熔融石英以及SiO$_2$/Si/Si热氧化硅衬底作为代表性平台。不同于依赖异质外延生长或牺牲层释放的GaP薄膜平台，所提出的方法能够实现晶体GaP薄膜的灵活集成，且不受供体衬底和目标衬底的限制。经过转移后退火，薄膜表现出接近体材料的晶体质量、较低的残余应变、适用于纳米光子器件制造的平滑表面以及均匀的键合界面。此外，退火可恢复线性色散特性（n和k），使其接近外延生长GaP的水平；在电信C波段1550 nm处，估算的平面波吸收损耗为0.9 dB/cm。所展示的方法为构建高质量GaP薄膜光子器件提供了可扩展路径，并兼容灵活的异质集成及CMOS后道工艺。",
+      "abstract_zh": "磷化镓（GaP）因具有高折射率、宽光学透明窗口和强二阶非线性响应，是一种很有前景的集成光子学材料平台。本文展示了通过晶体离子切片和直接晶圆键合制备的绝缘体上GaP薄膜，并以熔融石英以及SiO$_2$/Si/Si热氧化硅衬底作为代表性平台。不同于依赖异质外延生长或牺牲层释放的GaP薄膜平台，所提出的方法能够实现晶体GaP薄膜的灵活集成，且不受供体衬底和目标衬底的限制。经过转移后退火，薄膜表现出接近体材料的晶体质量、较低的残余应变、适用于纳米光子器件制造的平滑表面以及均匀的键合界面。此外，退火可恢复线性色散特性（n和k），使其接近外延生长GaP的水平；在电信C波段1550 nm处，估算的平面波吸收损耗为0.9 dB/cm。所展示的方法为构建高质量GaP薄膜光子器件提供了可扩展路径，并兼容灵活的异质集成及CMOS后道工艺。",
       "overview_cn": "Focus: wafer.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Direct Wafer Bonding of Crystal-Ion-Sliced GaP Thin Films for Photonic Applications.",
       "reading_notes": "Focus: wafer.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Direct Wafer Bonding of Crystal-Ion-Sliced GaP Thin Films for Photonic Applications."
     },
@@ -173,8 +144,8 @@
       "score": 5,
       "priority": 0,
       "highlights": [],
-      "abstract_cn": "兼具高机械性能、高电绝缘性能和高温稳定性的芳纶基纳米纸对于电气安全具有迫切需求，但其构筑面临挑战。值得注意的是，生物材料能够采用不同的纳米尺度结构单元，并调控其空间分布以构建分级异质结构，从而实现整体性能优化。本文受生物分级非均匀性启发，整合二维累托石纳米片（RNS）和一维芳纶纳米纤维（ANF）两种结构单元，构建了具有 RNS 富集双侧子层及 ANF 富集内层的分级异质结构纳米纸。通过系统调控获得的厚度为 20 μm 的 5-10-5 异质结构纳米纸，展现出令人瞩目的综合性能：击穿强度为 171 kV/mm，耐电晕时间为 18.3 h，并具有优异的力学性能，超过了均质 RNS-ANF 纳米纸。其耐电晕性能的增强效率比已报道绝缘纸高出数个数量级。在实时高温条件下，最高至 150°C，击穿强度和耐电晕性仍可维持在较高水平。这些性能使我们的仿生分级异质结构纳米纸在应用中具有很强竞争力。",
-      "abstract_zh": "兼具高机械性能、高电绝缘性能和高温稳定性的芳纶基纳米纸对于电气安全具有迫切需求，但其构筑面临挑战。值得注意的是，生物材料能够采用不同的纳米尺度结构单元，并调控其空间分布以构建分级异质结构，从而实现整体性能优化。本文受生物分级非均匀性启发，整合二维累托石纳米片（RNS）和一维芳纶纳米纤维（ANF）两种结构单元，构建了具有 RNS 富集双侧子层及 ANF 富集内层的分级异质结构纳米纸。通过系统调控获得的厚度为 20 μm 的 5-10-5 异质结构纳米纸，展现出令人瞩目的综合性能：击穿强度为 171 kV/mm，耐电晕时间为 18.3 h，并具有优异的力学性能，超过了均质 RNS-ANF 纳米纸。其耐电晕性能的增强效率比已报道绝缘纸高出数个数量级。在实时高温条件下，最高至 150°C，击穿强度和耐电晕性仍可维持在较高水平。这些性能使我们的仿生分级异质结构纳米纸在应用中具有很强竞争力。",
+      "abstract_cn": "兼具高机械性能、高电绝缘性能和高温稳定性的芳纶基纳米纸对于电气安全应用具有迫切需求，但其构筑极具挑战性。值得注意的是，生物材料能够采用不同的纳米尺度结构单元，并调控其空间分布以构建分级异质结构，从而实现整体性能优化。本文受生物分级异质性启发，结合二维累托石纳米片（RNS）和一维芳纶纳米纤维（ANF）这两类结构单元，构建了具有RNS富集双侧子层和ANF富集内侧子层的分级异质结构纳米纸。通过系统调控获得的厚度为20 μm的5-10-5异质结构纳米纸，展现出令人瞩目的性能组合：击穿强度为171 kV/mm、耐电晕时间为18.3 h，并具有优异的机械性能，均优于均质结构RNS-ANF纳米纸。其耐电晕性能的提升效率比已报道绝缘纸高出数个数量级。在实时高温条件下（最高150°C），击穿强度和耐电晕性能仍可保持在较高水平。这些性能使得该仿生分级异质结构纳米纸在应用中具有很强的竞争力。",
+      "abstract_zh": "兼具高机械性能、高电绝缘性能和高温稳定性的芳纶基纳米纸对于电气安全应用具有迫切需求，但其构筑极具挑战性。值得注意的是，生物材料能够采用不同的纳米尺度结构单元，并调控其空间分布以构建分级异质结构，从而实现整体性能优化。本文受生物分级异质性启发，结合二维累托石纳米片（RNS）和一维芳纶纳米纤维（ANF）这两类结构单元，构建了具有RNS富集双侧子层和ANF富集内侧子层的分级异质结构纳米纸。通过系统调控获得的厚度为20 μm的5-10-5异质结构纳米纸，展现出令人瞩目的性能组合：击穿强度为171 kV/mm、耐电晕时间为18.3 h，并具有优异的机械性能，均优于均质结构RNS-ANF纳米纸。其耐电晕性能的提升效率比已报道绝缘纸高出数个数量级。在实时高温条件下（最高150°C），击穿强度和耐电晕性能仍可保持在较高水平。这些性能使得该仿生分级异质结构纳米纸在应用中具有很强的竞争力。",
       "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: Biomimetic hierarchical heterogeneity endows layered nanocomposite with excellent mechanical an….",
       "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: Biomimetic hierarchical heterogeneity endows layered nanocomposite with excellent mechanical an…."
     },
@@ -198,8 +169,8 @@
       "highlights": [
         "semiconductor"
       ],
-      "abstract_cn": "全无机溴化铅铯（CsPbBr3）纳米晶（NC）因兼具接近单位值的光致发光量子产率、窄线宽高色纯度发射和优异缺陷容忍度等独特性质，已成为下一代光电技术中的新兴半导体材料。尽管已有大量关于这些 NC 尺寸依赖光学特征的报道，混合离子-电子输运的复杂性仍在很大程度上未被探索。本研究通过精心设计的瞬态电流和空间电荷限制电流测量，将离子输运与电子输运动力学解耦，对尺寸依赖的电荷输运进行了全面分析。通过在薄膜中采用尺寸范围为 5.6 nm 至 11.3 nm 的不同 NC，我们全面阐释了量子限域效应及其相关合成化学。与量子限域导致带隙展宽这一普遍认识相反，我们的结果表明，最小尺寸的 NC 具有最高效的输运特性：其空穴输运活化能最低，空穴活化能 = 78 meV；同时，空位介导离子迁移的势垒最高，离子活化能 = 370 meV。本工作为基于钙钛矿的高效量子器件开辟了前进方向，表明在精确调控的化学计量比支持下，进入强量子限域区间可以实现更优异的电荷输运。",
-      "abstract_zh": "全无机溴化铅铯（CsPbBr3）纳米晶（NC）因兼具接近单位值的光致发光量子产率、窄线宽高色纯度发射和优异缺陷容忍度等独特性质，已成为下一代光电技术中的新兴半导体材料。尽管已有大量关于这些 NC 尺寸依赖光学特征的报道，混合离子-电子输运的复杂性仍在很大程度上未被探索。本研究通过精心设计的瞬态电流和空间电荷限制电流测量，将离子输运与电子输运动力学解耦，对尺寸依赖的电荷输运进行了全面分析。通过在薄膜中采用尺寸范围为 5.6 nm 至 11.3 nm 的不同 NC，我们全面阐释了量子限域效应及其相关合成化学。与量子限域导致带隙展宽这一普遍认识相反，我们的结果表明，最小尺寸的 NC 具有最高效的输运特性：其空穴输运活化能最低，空穴活化能 = 78 meV；同时，空位介导离子迁移的势垒最高，离子活化能 = 370 meV。本工作为基于钙钛矿的高效量子器件开辟了前进方向，表明在精确调控的化学计量比支持下，进入强量子限域区间可以实现更优异的电荷输运。",
+      "abstract_cn": "全无机溴化铅铯（CsPbBr3）纳米晶（NC）凭借近乎单位的光致发光量子产率、窄谱纯色发射和优异的缺陷容忍度等独特性能组合，已成为下一代光电技术中备受关注的新兴半导体。尽管这些NC的尺寸依赖型光学特征已有充分报道，但混合离子-电子输运的复杂性在很大程度上仍未得到探索。本研究通过精心设计的瞬态电流和空间电荷限制电流测量，解耦离子与电子输运动力学过程，从而对尺寸依赖的电荷输运进行了全面分析。通过在薄膜中采用尺寸介于5.6 nm至11.3 nm的不同NC，我们全面阐明了量子限域效应及相关合成化学。与关于量子限域和带隙展宽的普遍认知相反，我们的结果表明，最小尺寸的NC表现出最高效的输运特性，其证据是空穴输运具有最低活化能（空穴活化能=78 meV），且由空位介导的离子迁移具有最高势垒（离子活化能=370 meV）。本研究通过证明在精细调控的化学计量比支持下，进入强量子限域区间能够促进优异的电荷输运，为基于钙钛矿的高效量子器件开辟了新的方向。",
+      "abstract_zh": "全无机溴化铅铯（CsPbBr3）纳米晶（NC）凭借近乎单位的光致发光量子产率、窄谱纯色发射和优异的缺陷容忍度等独特性能组合，已成为下一代光电技术中备受关注的新兴半导体。尽管这些NC的尺寸依赖型光学特征已有充分报道，但混合离子-电子输运的复杂性在很大程度上仍未得到探索。本研究通过精心设计的瞬态电流和空间电荷限制电流测量，解耦离子与电子输运动力学过程，从而对尺寸依赖的电荷输运进行了全面分析。通过在薄膜中采用尺寸介于5.6 nm至11.3 nm的不同NC，我们全面阐明了量子限域效应及相关合成化学。与关于量子限域和带隙展宽的普遍认知相反，我们的结果表明，最小尺寸的NC表现出最高效的输运特性，其证据是空穴输运具有最低活化能（空穴活化能=78 meV），且由空位介导的离子迁移具有最高势垒（离子活化能=370 meV）。本研究通过证明在精细调控的化学计量比支持下，进入强量子限域区间能够促进优异的电荷输运，为基于钙钛矿的高效量子器件开辟了新的方向。",
       "overview_cn": "Focus: 半导体.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Tuning the Optoelectronics of Mixed-Semiconductors through the interplay of Quantum confinement….",
       "reading_notes": "Focus: 半导体.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Tuning the Optoelectronics of Mixed-Semiconductors through the interplay of Quantum confinement…."
     },
@@ -226,15 +197,45 @@
       "highlights": [
         "epitaxy"
       ],
-      "abstract_cn": "GeSe 等层状 IV-VI 族半导体具有很强的面内光学各向异性，因此是偏振敏感光子器件的有前景候选材料。然而，要在可扩展平台上实现这些特性，需要在 GaAs 等具有技术相关性的衬底上进行异质外延集成。GeSe 的直接生长面临挑战：低温下易形成玻璃态，而高温下又具有较高蒸气压。为克服这一问题，我们开发了一种非原位固相外延方法，采用 SnSe 缓冲层和偏切 GaAs 衬底，实现单取向晶体 GeSe 薄膜。通过偏振反射测量，我们发现，稳定单一面内取向可使扶手椅方向与锯齿方向之间的各向异性响应提高 2 倍。本研究提供了一条新的集成路径，可利用 GeSe 及其合金的各向异性光学性质来开发偏振敏感技术。",
-      "abstract_zh": "GeSe 等层状 IV-VI 族半导体具有很强的面内光学各向异性，因此是偏振敏感光子器件的有前景候选材料。然而，要在可扩展平台上实现这些特性，需要在 GaAs 等具有技术相关性的衬底上进行异质外延集成。GeSe 的直接生长面临挑战：低温下易形成玻璃态，而高温下又具有较高蒸气压。为克服这一问题，我们开发了一种非原位固相外延方法，采用 SnSe 缓冲层和偏切 GaAs 衬底，实现单取向晶体 GeSe 薄膜。通过偏振反射测量，我们发现，稳定单一面内取向可使扶手椅方向与锯齿方向之间的各向异性响应提高 2 倍。本研究提供了一条新的集成路径，可利用 GeSe 及其合金的各向异性光学性质来开发偏振敏感技术。",
+      "abstract_cn": "GeSe等层状IV-VI族半导体表现出强烈的面内光学各向异性，使其成为偏振敏感型光子器件的潜在候选材料。然而，要在可扩展平台中实现这些性质，需要在GaAs等具有技术相关性的衬底上进行异质外延集成。GeSe的直接生长面临挑战：其在低温下容易形成玻璃态，而在高温下又具有较高蒸气压。为克服这一问题，我们开发了一种非原位固相外延方法，采用SnSe缓冲层和偏切GaAs衬底，实现了具有单一取向的晶体GeSe薄膜。通过偏振反射测量，我们发现，稳定单一面内取向可使扶手椅方向和锯齿方向之间的各向异性响应提高2倍。本研究为利用GeSe及其合金的各向异性光学性质开发偏振敏感技术提供了一条新的集成路径。",
+      "abstract_zh": "GeSe等层状IV-VI族半导体表现出强烈的面内光学各向异性，使其成为偏振敏感型光子器件的潜在候选材料。然而，要在可扩展平台中实现这些性质，需要在GaAs等具有技术相关性的衬底上进行异质外延集成。GeSe的直接生长面临挑战：其在低温下容易形成玻璃态，而在高温下又具有较高蒸气压。为克服这一问题，我们开发了一种非原位固相外延方法，采用SnSe缓冲层和偏切GaAs衬底，实现了具有单一取向的晶体GeSe薄膜。通过偏振反射测量，我们发现，稳定单一面内取向可使扶手椅方向和锯齿方向之间的各向异性响应提高2倍。本研究为利用GeSe及其合金的各向异性光学性质开发偏振敏感技术提供了一条新的集成路径。",
       "overview_cn": "Focus: epitaxy.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Monolithic integration of optically anisotropic GeSe-based films on GaAs by templated solid-pha….",
       "reading_notes": "Focus: epitaxy.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Monolithic integration of optically anisotropic GeSe-based films on GaAs by templated solid-pha…."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2608.02710v1",
+      "title": "Investigation of GeSn aspect ratio trapping growth up to 8% Sn",
+      "url": "https://arxiv.org/abs/2608.02710v1",
+      "published": "2026-08-04",
+      "authors": [
+        "Hryhorii Stanchu",
+        "Quang Minh Thai",
+        "Fernando M. de Oliveira",
+        "Mourad Benamara",
+        "Stephen Margiotta",
+        "Matthew Cook",
+        "Xiaoxin Wang",
+        "Jifeng Liu",
+        "Perry C. Grant",
+        "Baohua Li",
+        "Wei Du",
+        "Gregory Salamo",
+        "Shui-Qing Yu"
+      ],
+      "summary": "Aspect ratio trapping (ART) growth of germanium-tin (GeSn) is a promising approach to target important objectives on the quest towards commercialization of complementary metal-oxide-semiconductor (CMOS)-compatible GeSn optoelectronics devices. Its local growth on patterned substrate allows for versatile device integration into photonics integrated circuit or for stand-alone structure like focal plane array imager. Additionally, high aspect ratio from nano-sized window can terminate early threading dislocation propagation on the oxide sidewalls, leaving subsequent growth defect-free and potentially improving the device performance. Knowledge remains missing regarding GeSn ART growth kinetics, morphology and how they evolve from thin film growth, with successful growth itself yet to be demonstrated. In this work, we report GeSn ART growth up to 8% Sn. Two configurations -- self-induced Ge core/GeSn shell for Sn content between 6% and 8%, and bulk GeSn ART for Sn content below 1% -- are observed. We present a comprehensive study on GeSn ART growth kinetics through different growth rounds and designs, showing a link between pyramid shape of ART island and successful Sn incorporation, as well as the role of growth selectivity and local heating.",
+      "score": 5,
+      "priority": 0,
+      "highlights": [],
+      "abstract_cn": "锗锡（GeSn）的纵横比陷阱（ART）生长，是实现CMOS兼容GeSn光电子器件商业化进程中若干重要目标的一种很有前景的方法。其在图案化衬底上的局域生长可实现向光子集成电路中的灵活器件集成，或用于焦平面阵列成像器等独立结构。此外，纳米尺寸窗口形成的高纵横比能够使早期穿透位错传播终止于氧化物侧壁，使后续生长无缺陷，并有可能改善器件性能。目前仍缺乏关于GeSn ART生长动力学、形貌及其相对于薄膜生长如何演变的认识，且成功生长本身尚未得到展示。本文报道了Sn含量最高达8%的GeSn ART生长。观察到两种构型：对于Sn含量在6%至8%之间的样品，为自诱导Ge核/GeSn壳结构；对于Sn含量低于1%的样品，为体GeSn ART结构。我们通过不同生长轮次和设计，对GeSn ART生长动力学进行了全面研究，揭示了ART岛金字塔形状与Sn成功掺入之间的联系，以及生长选择性和局部加热所发挥的作用。",
+      "abstract_zh": "锗锡（GeSn）的纵横比陷阱（ART）生长，是实现CMOS兼容GeSn光电子器件商业化进程中若干重要目标的一种很有前景的方法。其在图案化衬底上的局域生长可实现向光子集成电路中的灵活器件集成，或用于焦平面阵列成像器等独立结构。此外，纳米尺寸窗口形成的高纵横比能够使早期穿透位错传播终止于氧化物侧壁，使后续生长无缺陷，并有可能改善器件性能。目前仍缺乏关于GeSn ART生长动力学、形貌及其相对于薄膜生长如何演变的认识，且成功生长本身尚未得到展示。本文报道了Sn含量最高达8%的GeSn ART生长。观察到两种构型：对于Sn含量在6%至8%之间的样品，为自诱导Ge核/GeSn壳结构；对于Sn含量低于1%的样品，为体GeSn ART结构。我们通过不同生长轮次和设计，对GeSn ART生长动力学进行了全面研究，揭示了ART岛金字塔形状与Sn成功掺入之间的联系，以及生长选择性和局部加热所发挥的作用。",
+      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: Investigation of GeSn aspect ratio trapping growth up to 8% Sn.",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: Investigation of GeSn aspect ratio trapping growth up to 8% Sn."
     }
   ],
   "errors": [],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-08-09T00:30:00+00:00"
+  "generated_at": "2026-08-10T00:30:00+00:00"
 }
