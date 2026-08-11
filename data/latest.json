@@ -1,9 +1,35 @@
 {
   "ok": true,
-  "new_count": 0,
+  "new_count": 3,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-08-10）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [Science Advances] Monolithically integrating polarization-doped InGaN p-FET and GaN n-FET for complementary l…\n   关键词：FET, GaN\n   日期：2026-08-07\n   Authors: Jingjing Yu, Teng Li, Yunhong Lao 等\n   https://doi.org/10.1126/sciadv.aec4563\n2. [arXiv] Epitaxial SiGeSn alloys for CMOS-compatible thermoelectric devices\n   关键词：CMOS\n   日期：2026-08-04\n   Authors: Patrizio Graziosi, Damiano Marian, Andrea Tomadin 等\n   https://arxiv.org/abs/2608.03638v1\n3. [arXiv] Self-Focusing Control for Depth-Precise Wafer Slicing of 4H-SiC in Femtosecond Laser Proces…\n   关键词：wafer, SiC\n   日期：2026-08-04\n   Authors: Dong Hee Kang, Jaeseung Lim, Mishfaqur Rahman 等\n   https://arxiv.org/abs/2608.03814v1\n4. [arXiv] Direct Wafer Bonding of Crystal-Ion-Sliced GaP Thin Films for Photonic Applications\n   关键词：wafer\n   日期：2026-08-03\n   Authors: Hossein Esfandiar, Emanuel Glück, Fabian Ganss 等\n   https://arxiv.org/abs/2608.02251v1\n5. [Science Advances] Biomimetic hierarchical heterogeneity endows layered nanocomposite with excellent mechanica…\n   日期：2026-08-07\n   Authors: Guan-Hua Yu, Xiao-Feng Pan, Wen-Long Xu 等\n   https://doi.org/10.1126/sciadv.aec6963\n6. [arXiv] Tuning the Optoelectronics of Mixed-Semiconductors through the interplay of Quantum confine…\n   关键词：semiconductor\n   日期：2026-08-06\n   Authors: Kanha Ram Khator, Anupam Manna, Amlandeep Nayak 等\n   https://arxiv.org/abs/2608.05890v1\n7. [arXiv] Monolithic integration of optically anisotropic GeSe-based films on GaAs by templated solid…\n   关键词：epitaxy\n   日期：2026-08-05\n   Authors: Kira J. Martin, Autumn Y. Lee, Pranav Mahaadev 等\n   https://arxiv.org/abs/2608.04418v1\n8. [arXiv] Investigation of GeSn aspect ratio trapping growth up to 8% Sn\n   日期：2026-08-04\n   Authors: Hryhorii Stanchu, Quang Minh Thai, Fernando M. de Oliveira 等\n   https://arxiv.org/abs/2608.02710v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-08-11）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 3 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Ultralow p-type contact resistance for ultra-nanoscaled 2D-materials transistors\n   关键词：transistor, contact resistance\n   日期：2026-08-07\n   Authors: Ying Xiong, Tong Su, Qiang Li 等\n   https://arxiv.org/abs/2608.06793v1\n2. [Nature Materials] Controlling surface kinetics scales p-type two-dimensional semiconductors\n   关键词：semiconductor\n   日期：2026-08-10\n   https://www.nature.com/articles/s41563-026-02704-5\n3. [arXiv] Surface Equilibration Mechanism Controls the Stability of a Model Co-deposited Glass Mixtur…\n   关键词：semiconductor\n   日期：2026-08-07\n   Authors: Shinian Cheng, Yejung Lee, Junguang Yu 等\n   https://arxiv.org/abs/2608.07320v1",
   "papers": [
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2608.06793v1",
+      "title": "Ultralow p-type contact resistance for ultra-nanoscaled 2D-materials transistors",
+      "url": "https://arxiv.org/abs/2608.06793v1",
+      "published": "2026-08-07",
+      "authors": [
+        "Ying Xiong",
+        "Tong Su",
+        "Qiang Li",
+        "Yee Sin Ang",
+        "Lain-Jong Li",
+        "L. K. Ang"
+      ],
+      "summary": "High contact resistance is one of the main bottlenecks for practical two-dimensional (2D) materials transistors, especially for p-type transistors and future 2D ultra-nanoscaled (sub-10 nm) FETs (PMOS + CMOS). We develop self-consistent contact resistance models for metal-2D semiconductor-metal devices to capture the essential interface physics for both vertical and edge configurations. Our calculations have been verified with various recent experiments of p-type and n-type contacts. For a given set of materials, the model determines the scaling of contact resistance over a wide range of device parameters including channel length (100s nm down to sub-10 nm), doping and mobility of the 2D materials, contact length of the electrodes, and applied voltages. These results identify the key factors in order to reduce the contact resistance for p-type 2D semiconductor WSe$_2$ towards the sub-10 nm channel length scale that are readily to be realized by future experiments. It is found that the effect of source-limited current saturation is the key challenge for down scaling 2D FET to sub-10 nm channel length. Two topological semi-metals as potential electrodes are proposed for 2D p-type semiconducting WSe$_2$ with our predicted contact resistance $R_c<$ 100 $Ω\\; {\\rm μm}$ approaching the quantum limit. Our model is also verified with the computational expensive full quantum atomistic model that is currently limited to a few nm scale.",
+      "score": 15,
+      "priority": 2,
+      "highlights": [
+        "transistor",
+        "contact resistance"
+      ],
+      "abstract_cn": "高接触电阻是二维（2D）材料晶体管实现实际应用的主要瓶颈之一，尤其对于p型晶体管以及未来的二维超纳米尺度（亚10 nm）FET（PMOS + CMOS）而言更是如此。我们针对金属-二维半导体-金属器件建立了自洽的接触电阻模型，以描述垂直结构和边缘结构中的关键界面物理。我们的计算结果已通过近期多项p型和n型接触实验得到验证。对于给定的一组材料，该模型能够确定接触电阻随多种器件参数变化的规律，这些参数包括沟道长度（从数百纳米缩短至亚10 nm）、二维材料的掺杂浓度和迁移率、电极的接触长度以及外加电压。研究结果确定了降低p型二维半导体WSe$_2$接触电阻的关键因素，从而推动其向亚10 nm沟道长度尺度缩放；这一尺度有望通过未来实验较为容易地实现。研究发现，源极受限的电流饱和效应是将二维FET缩放至亚10 nm沟道长度所面临的关键挑战。我们为二维p型半导体WSe$_2$提出了两种可用作电极的拓扑半金属，并预测其接触电阻R_c<100 Ω·μm，接近量子极限。我们的模型还通过计算成本较高的全量子原子模型进行了验证，而后者目前仅适用于数纳米尺度。",
+      "abstract_zh": "高接触电阻是二维（2D）材料晶体管实现实际应用的主要瓶颈之一，尤其对于p型晶体管以及未来的二维超纳米尺度（亚10 nm）FET（PMOS + CMOS）而言更是如此。我们针对金属-二维半导体-金属器件建立了自洽的接触电阻模型，以描述垂直结构和边缘结构中的关键界面物理。我们的计算结果已通过近期多项p型和n型接触实验得到验证。对于给定的一组材料，该模型能够确定接触电阻随多种器件参数变化的规律，这些参数包括沟道长度（从数百纳米缩短至亚10 nm）、二维材料的掺杂浓度和迁移率、电极的接触长度以及外加电压。研究结果确定了降低p型二维半导体WSe$_2$接触电阻的关键因素，从而推动其向亚10 nm沟道长度尺度缩放；这一尺度有望通过未来实验较为容易地实现。研究发现，源极受限的电流饱和效应是将二维FET缩放至亚10 nm沟道长度所面临的关键挑战。我们为二维p型半导体WSe$_2$提出了两种可用作电极的拓扑半金属，并预测其接触电阻R_c<100 Ω·μm，接近量子极限。我们的模型还通过计算成本较高的全量子原子模型进行了验证，而后者目前仅适用于数纳米尺度。",
+      "overview_cn": "Focus: 晶体管、接触电阻.\nWhat to check: 先进尺度下的可扩展性、接触/互连相关指标、与既有工艺平台的集成价值.\nContext: Ultralow p-type contact resistance for ultra-nanoscaled 2D-materials transistors.",
+      "reading_notes": "Focus: 晶体管、接触电阻.\nWhat to check: 先进尺度下的可扩展性、接触/互连相关指标、与既有工艺平台的集成价值.\nContext: Ultralow p-type contact resistance for ultra-nanoscaled 2D-materials transistors."
+    },
     {
       "source": "Science Advances",
       "uid": "doi:10.1126/sciadv.aec4563",
@@ -32,8 +58,8 @@
         "FET",
         "GaN"
       ],
-      "abstract_cn": "低效率的p型杂质掺杂长期以来阻碍了宽禁带半导体在集成电路（IC）中的实际应用。在宽禁带III族氮化物半导体中，固有的极化效应为电学性质工程提供了替代途径。本文报道了用于互补逻辑（CL）电路的极化掺杂InGaN p沟道FET与极化掺杂GaN n沟道FET的单片集成。增强型（E-mode）InGaN p-FET实现了超过20 mA/mm的高电流密度。我们构建了一系列III族氮化物CL基本单元，包括反相器、环形振荡器（RO）、NAND、NOR、RS锁存器和6T-SRAM。该反相器表现出154.1 V/V的高最大电压增益，RO则实现了每级10.4 ns的创纪录短传播延迟。此外，我们展示了CL缓冲器与高压GaN功率晶体管的单片集成。这些结果表明，极化掺杂III族氮化物CL平台有望成为高频电源管理IC和恶劣环境电子器件的解决方案。",
-      "abstract_zh": "低效率的p型杂质掺杂长期以来阻碍了宽禁带半导体在集成电路（IC）中的实际应用。在宽禁带III族氮化物半导体中，固有的极化效应为电学性质工程提供了替代途径。本文报道了用于互补逻辑（CL）电路的极化掺杂InGaN p沟道FET与极化掺杂GaN n沟道FET的单片集成。增强型（E-mode）InGaN p-FET实现了超过20 mA/mm的高电流密度。我们构建了一系列III族氮化物CL基本单元，包括反相器、环形振荡器（RO）、NAND、NOR、RS锁存器和6T-SRAM。该反相器表现出154.1 V/V的高最大电压增益，RO则实现了每级10.4 ns的创纪录短传播延迟。此外，我们展示了CL缓冲器与高压GaN功率晶体管的单片集成。这些结果表明，极化掺杂III族氮化物CL平台有望成为高频电源管理IC和恶劣环境电子器件的解决方案。",
+      "abstract_cn": "低效率的p型杂质掺杂长期以来阻碍了宽禁带半导体在集成电路（IC）中的实际应用。在宽禁带III族氮化物半导体中，固有的极化效应为调控电学性质提供了一种替代途径。在此，我们报道了将极化掺杂InGaN p沟道FET与极化掺杂GaN n沟道FET单片集成，用于构建互补逻辑（CL）电路。增强型（E-mode）InGaN p-FET实现了超过20 mA/mm的高电流密度。我们构建了一系列III族氮化物CL功能模块，包括反相器、环形振荡器（RO）、NAND、NOR、RS锁存器和6T-SRAM。反相器表现出154.1 V/V的高最大电压增益，RO实现了每级10.4 ns的创纪录短传播延迟。此外，我们还展示了CL缓冲器与高压GaN功率晶体管的单片集成。这些结果表明，极化掺杂III族氮化物CL平台有望成为高频电源管理IC和恶劣环境电子器件的解决方案。",
+      "abstract_zh": "低效率的p型杂质掺杂长期以来阻碍了宽禁带半导体在集成电路（IC）中的实际应用。在宽禁带III族氮化物半导体中，固有的极化效应为调控电学性质提供了一种替代途径。在此，我们报道了将极化掺杂InGaN p沟道FET与极化掺杂GaN n沟道FET单片集成，用于构建互补逻辑（CL）电路。增强型（E-mode）InGaN p-FET实现了超过20 mA/mm的高电流密度。我们构建了一系列III族氮化物CL功能模块，包括反相器、环形振荡器（RO）、NAND、NOR、RS锁存器和6T-SRAM。反相器表现出154.1 V/V的高最大电压增益，RO实现了每级10.4 ns的创纪录短传播延迟。此外，我们还展示了CL缓冲器与高压GaN功率晶体管的单片集成。这些结果表明，极化掺杂III族氮化物CL平台有望成为高频电源管理IC和恶劣环境电子器件的解决方案。",
       "overview_cn": "Focus: FET、GaN.\nWhat to check: 性能提升、效率/耦合表现、与既有工艺平台的集成价值.\nContext: Monolithically integrating polarization-doped InGaN p-FET and GaN n-FET for complementary logic….",
       "reading_notes": "Focus: FET、GaN.\nWhat to check: 性能提升、效率/耦合表现、与既有工艺平台的集成价值.\nContext: Monolithically integrating polarization-doped InGaN p-FET and GaN n-FET for complementary logic…."
     },
@@ -61,8 +87,8 @@
       "highlights": [
         "CMOS"
       ],
-      "abstract_cn": "将热电器件集成到主流微电子技术平台中，可能成为所谓绿色信息技术（Green-IT）领域多个方向的重要突破。本文评估了异质外延SiGeSn合金这一新型CMOS兼容材料体系的热电性能，以考察其在热电器件中的潜在应用。为此，以通过3-ω测量获得的SiGeSn/Ge/Si层约为1-2 W/m·K的实验低晶格热导率为基础，利用玻尔兹曼输运方程计算其品质因数，并考虑了这一多谷材料体系所特有的相关谷间散射过程。在300---400 K的工作温度范围内，即典型的片上温度范围内，p型和n型材料均获得了超过1的热电优值ZT。在该温度区间内，预测的功率因子也表现出约20 μW/cm·K^2的极具竞争力数值。我们的发现表明，这类新型Si基材料具有极为良好的实际应用前景，并可进一步推动该领域的科学研究。",
-      "abstract_zh": "将热电器件集成到主流微电子技术平台中，可能成为所谓绿色信息技术（Green-IT）领域多个方向的重要突破。本文评估了异质外延SiGeSn合金这一新型CMOS兼容材料体系的热电性能，以考察其在热电器件中的潜在应用。为此，以通过3-ω测量获得的SiGeSn/Ge/Si层约为1-2 W/m·K的实验低晶格热导率为基础，利用玻尔兹曼输运方程计算其品质因数，并考虑了这一多谷材料体系所特有的相关谷间散射过程。在300---400 K的工作温度范围内，即典型的片上温度范围内，p型和n型材料均获得了超过1的热电优值ZT。在该温度区间内，预测的功率因子也表现出约20 μW/cm·K^2的极具竞争力数值。我们的发现表明，这类新型Si基材料具有极为良好的实际应用前景，并可进一步推动该领域的科学研究。",
+      "abstract_cn": "将热电器件集成到主流微电子技术平台中，可能成为所谓绿色信息技术（Green-IT）领域多个方向的重大突破。本文评估了异质外延SiGeSn合金的热电性质，以考察这一新型CMOS兼容材料体系在热电器件中的潜在应用。为此，首先基于通过3-ω测量确定的SiGeSn/Ge/Si层较低实验晶格热导率（约为1-2 W/m·K），利用玻尔兹曼输运方程计算热电优值，并考虑了这一多谷材料体系中特有的相关谷间散射过程。在300---400 K的工作温度范围内，即典型的片上温度范围内，p型和n型材料的热电优值ZT均获得了超过1的数值。在该温区内，预测的功率因子也表现出极具竞争力的数值，约为20 μW/cm·K^2。我们的研究结果表明，这类新型硅基材料具有极佳的实际应用前景，并可进一步推动该领域的科学研究。",
+      "abstract_zh": "将热电器件集成到主流微电子技术平台中，可能成为所谓绿色信息技术（Green-IT）领域多个方向的重大突破。本文评估了异质外延SiGeSn合金的热电性质，以考察这一新型CMOS兼容材料体系在热电器件中的潜在应用。为此，首先基于通过3-ω测量确定的SiGeSn/Ge/Si层较低实验晶格热导率（约为1-2 W/m·K），利用玻尔兹曼输运方程计算热电优值，并考虑了这一多谷材料体系中特有的相关谷间散射过程。在300---400 K的工作温度范围内，即典型的片上温度范围内，p型和n型材料的热电优值ZT均获得了超过1的数值。在该温区内，预测的功率因子也表现出极具竞争力的数值，约为20 μW/cm·K^2。我们的研究结果表明，这类新型硅基材料具有极佳的实际应用前景，并可进一步推动该领域的科学研究。",
       "overview_cn": "Focus: CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Epitaxial SiGeSn alloys for CMOS-compatible thermoelectric devices.",
       "reading_notes": "Focus: CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Epitaxial SiGeSn alloys for CMOS-compatible thermoelectric devices."
     },
@@ -88,43 +114,52 @@
         "wafer",
         "SiC"
       ],
-      "abstract_cn": "4H-SiC凭借优异的热导率和高击穿电场，能够在功率电子应用中实现高功率密度和更高的开关频率，因而已成为第三代芯片材料。随着芯片架构向3D和异构集成演进，机械和热设计空间不断收紧，而良率风险持续增加。特别是，先进封装需要在制造过程中将晶圆减薄至< 100 μm，以缩短互连并控制热机械应力。采用飞秒激光对4H-SiC晶圆进行切片，是一种可制备低缺陷薄层的非接触式加工方法；然而，强烈的光学非线性效应掩盖了激光参数与最终切片质量之间的关系。本文通过结合实验、半经验解析模型和数值光线光学模拟，系统研究了飞秒激光在4H-SiC切片中的克尔效应诱导自聚焦。我们证明，脉冲能量与加工深度之间的相互作用决定了自聚焦行为，而该行为与分离后表面纹理参数及分离应力直接相关，从而建立了非线性光束传播与切片质量之间的联系。基于这一关系，我们在归一化辐照度背景下的脉冲能量-自聚焦深度空间中定义了工艺可加工性图。解析上，该模型通过以归一化辐照度替代功率比，将Marburger公式扩展至聚焦光束。光线光学模拟捕捉了自聚焦点处的几何特征，并通过实验观测结果进行了验证。在物理定义的阈值范围内，该工艺可加工性图将激光参数直接关联至分离应力和表面纹理指标，为超越试错法的深度控制提供了实用指导。",
-      "abstract_zh": "4H-SiC凭借优异的热导率和高击穿电场，能够在功率电子应用中实现高功率密度和更高的开关频率，因而已成为第三代芯片材料。随着芯片架构向3D和异构集成演进，机械和热设计空间不断收紧，而良率风险持续增加。特别是，先进封装需要在制造过程中将晶圆减薄至< 100 μm，以缩短互连并控制热机械应力。采用飞秒激光对4H-SiC晶圆进行切片，是一种可制备低缺陷薄层的非接触式加工方法；然而，强烈的光学非线性效应掩盖了激光参数与最终切片质量之间的关系。本文通过结合实验、半经验解析模型和数值光线光学模拟，系统研究了飞秒激光在4H-SiC切片中的克尔效应诱导自聚焦。我们证明，脉冲能量与加工深度之间的相互作用决定了自聚焦行为，而该行为与分离后表面纹理参数及分离应力直接相关，从而建立了非线性光束传播与切片质量之间的联系。基于这一关系，我们在归一化辐照度背景下的脉冲能量-自聚焦深度空间中定义了工艺可加工性图。解析上，该模型通过以归一化辐照度替代功率比，将Marburger公式扩展至聚焦光束。光线光学模拟捕捉了自聚焦点处的几何特征，并通过实验观测结果进行了验证。在物理定义的阈值范围内，该工艺可加工性图将激光参数直接关联至分离应力和表面纹理指标，为超越试错法的深度控制提供了实用指导。",
+      "abstract_cn": "4H-SiC凭借优异的热导率和高击穿场，使器件能够在电力电子应用中实现高功率密度和更高开关频率，因此已成为第三代芯片材料。随着芯片架构向三维和异质集成发展，机械与热设计空间不断收紧，同时良率风险也随之增加。特别是，先进封装要求在中间工艺阶段将晶圆减薄至小于100 μm，以缩短互连长度并控制热机械应力。4H-SiC晶圆的飞秒激光切片提供了一种非接触式加工方法，能够以低缺陷制备薄层；然而，强光学非线性使激光参数与最终切片质量之间的关系难以明确。本文结合实验、半经验解析模型和数值光线光学仿真，系统研究了飞秒激光进行4H-SiC切片过程中的克尔效应诱导自聚焦。我们证明，脉冲能量与加工深度之间的相互作用决定了自聚焦行为，而自聚焦行为又与分离后的表面纹理参数和分离应力直接相关，从而建立了非线性光束传播与切片质量之间的联系。基于这一关系，我们在归一化辐照度背景下，以脉冲能量-自聚焦深度空间定义了可加工性图。通过将功率比替换为归一化辐照度，该解析模型将Marburger公式扩展到了聚焦光束情形。光线光学仿真捕捉到了自聚焦点处的几何特征，并通过实验观测结果进行了验证。在物理定义的阈值范围内，可加工性图能够直接将激光参数与分离应力和表面纹理指标关联起来，为超越试错法的深度控制提供实用指导。",
+      "abstract_zh": "4H-SiC凭借优异的热导率和高击穿场，使器件能够在电力电子应用中实现高功率密度和更高开关频率，因此已成为第三代芯片材料。随着芯片架构向三维和异质集成发展，机械与热设计空间不断收紧，同时良率风险也随之增加。特别是，先进封装要求在中间工艺阶段将晶圆减薄至小于100 μm，以缩短互连长度并控制热机械应力。4H-SiC晶圆的飞秒激光切片提供了一种非接触式加工方法，能够以低缺陷制备薄层；然而，强光学非线性使激光参数与最终切片质量之间的关系难以明确。本文结合实验、半经验解析模型和数值光线光学仿真，系统研究了飞秒激光进行4H-SiC切片过程中的克尔效应诱导自聚焦。我们证明，脉冲能量与加工深度之间的相互作用决定了自聚焦行为，而自聚焦行为又与分离后的表面纹理参数和分离应力直接相关，从而建立了非线性光束传播与切片质量之间的联系。基于这一关系，我们在归一化辐照度背景下，以脉冲能量-自聚焦深度空间定义了可加工性图。通过将功率比替换为归一化辐照度，该解析模型将Marburger公式扩展到了聚焦光束情形。光线光学仿真捕捉到了自聚焦点处的几何特征，并通过实验观测结果进行了验证。在物理定义的阈值范围内，可加工性图能够直接将激光参数与分离应力和表面纹理指标关联起来，为超越试错法的深度控制提供实用指导。",
       "overview_cn": "Focus: wafer、SiC.\nWhat to check: 功耗或能效表现、接触/互连相关指标、与既有工艺平台的集成价值.\nContext: Self-Focusing Control for Depth-Precise Wafer Slicing of 4H-SiC in Femtosecond Laser Processing.",
       "reading_notes": "Focus: wafer、SiC.\nWhat to check: 功耗或能效表现、接触/互连相关指标、与既有工艺平台的集成价值.\nContext: Self-Focusing Control for Depth-Precise Wafer Slicing of 4H-SiC in Femtosecond Laser Processing."
     },
     {
-      "source": "arXiv",
-      "uid": "arxiv:2608.02251v1",
-      "title": "Direct Wafer Bonding of Crystal-Ion-Sliced GaP Thin Films for Photonic Applications",
-      "url": "https://arxiv.org/abs/2608.02251v1",
-      "published": "2026-08-03",
-      "authors": [
-        "Hossein Esfandiar",
-        "Emanuel Glück",
-        "Fabian Ganss",
-        "Ulrich Kentsch",
-        "Dennis Arslan",
-        "Jana Paeschke",
-        "Sebastian Ritter",
-        "Andreas Ihring",
-        "Muyi Yang",
-        "Isabelle Staude",
-        "Stefan Facsko",
-        "Falk Eilenberger",
-        "Carolin Rothhardt",
-        "Sebastian W. Schmitt"
+      "source": "Nature Materials",
+      "uid": "Nature Materials:10.1038/s41563-026-02704-5",
+      "title": "Controlling surface kinetics scales p-type two-dimensional semiconductors",
+      "url": "https://www.nature.com/articles/s41563-026-02704-5",
+      "published": "2026-08-10",
+      "authors": [],
+      "summary": "Nature Materials, Published online: 10 August 2026; doi:10.1038/s41563-026-02704-5 The precise control of surface and near-surface atomic kinetics produces environmentally stable p-type two-dimensional (2D) semiconductors at wafer scale, providing a pathway for the manufacture of scalable 2D complementary electronics.",
+      "score": 7,
+      "priority": 0,
+      "highlights": [
+        "semiconductor"
       ],
-      "summary": "Gallium phosphide (GaP) is a promising material platform for integrated photonics because of its high refractive index, broad optical transparency, and strong second-order nonlinear response. Here, we demonstrate GaP-on-insulator thin films fabricated by crystal ion slicing and direct wafer bonding, using fused silica and SiO$_2$/Si/Si thermally oxidized silicon substrates as representative platforms. Unlike GaP thin-film platforms that rely on heteroepitaxial growth or sacrificial-layer release, the presented approach enables the flexible integration of crystalline GaP thin films, independent of both donor and target substrates. Following post-transfer annealing, the films exhibit near-bulk crystalline quality with low residual strain, smooth surfaces suitable for nanophotonic fabrication, and homogeneous bonding interfaces. Furthermore, annealing restores the linear optical dispersion (n and k) approaching that of epitaxially grown GaP with estimated plane wave absorption loss of 0.9 dB/cm at 1550 nm in the telecom C-band. The demonstrated approach establishes a scalable pathway toward high-quality GaP thin-film photonics compatible with versatile heterogeneous integration and back-end-of-line CMOS processing.",
+      "abstract_cn": "《Nature Materials》，在线发表日期：2026年8月10日；doi:10.1038/s41563-026-02704-5。对表面及近表面原子动力学进行精确控制，能够在晶圆尺度制备环境稳定的p型二维（2D）半导体，为可扩展二维互补电子学的制造提供了一条路径。",
+      "abstract_zh": "《Nature Materials》，在线发表日期：2026年8月10日；doi:10.1038/s41563-026-02704-5。对表面及近表面原子动力学进行精确控制，能够在晶圆尺度制备环境稳定的p型二维（2D）半导体，为可扩展二维互补电子学的制造提供了一条路径。",
+      "overview_cn": "Focus: 半导体.\nWhat to check: 可靠性与稳定性.\nContext: Controlling surface kinetics scales p-type two-dimensional semiconductors.",
+      "reading_notes": "Focus: 半导体.\nWhat to check: 可靠性与稳定性.\nContext: Controlling surface kinetics scales p-type two-dimensional semiconductors."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2608.07320v1",
+      "title": "Surface Equilibration Mechanism Controls the Stability of a Model Co-deposited Glass Mixture of Organic Semiconductors",
+      "url": "https://arxiv.org/abs/2608.07320v1",
+      "published": "2026-08-07",
+      "authors": [
+        "Shinian Cheng",
+        "Yejung Lee",
+        "Junguang Yu",
+        "Lian Yu",
+        "M. D. Ediger"
+      ],
+      "summary": "While previous work has identified the conditions for preparing ultrastable single-component organic glasses by physical vapor deposition (PVD), little is known about the stability of co-deposited mixtures. Here, we prepared binary PVD glasses of organic semiconductors, TPD (N,N-Bis(3-methylphenyl)-N,N-diphenylbenzidine) and m-MTDATA (4,4,4-Tris[phenyl(m-tolyl)amino]triphenylamine), with 50:50 mass concentration over a wide range of substrate temperatures (Tsub). The enthalpy and kinetic stability are evaluated with differential scanning calorimetry and spectroscopic ellipsometry. Binary organic semiconductor glasses with exceptional thermodynamic and kinetic stability comparable to the most stable single-component organic glasses are obtained when deposited at Tsub=0.78-0.90Tg (where Tg is the conventional glass transition temperature). When deposited at 0.94Tg, the enthalpy of m-MTDATA/TPD glass equals that expected for the equilibrium liquid at that temperature. Thus, the surface equilibration mechanism previously advanced for single-component PVD glasses is also applicable for these co-deposited glasses. These results provide an avenue for designing high-performance organic electronic devices.",
       "score": 6,
       "priority": 0,
       "highlights": [
-        "wafer"
+        "semiconductor"
       ],
-      "abstract_cn": "磷化镓（GaP）因具有高折射率、宽光学透明窗口和强二阶非线性响应，是一种很有前景的集成光子学材料平台。本文展示了通过晶体离子切片和直接晶圆键合制备的绝缘体上GaP薄膜，并以熔融石英以及SiO$_2$/Si/Si热氧化硅衬底作为代表性平台。不同于依赖异质外延生长或牺牲层释放的GaP薄膜平台，所提出的方法能够实现晶体GaP薄膜的灵活集成，且不受供体衬底和目标衬底的限制。经过转移后退火，薄膜表现出接近体材料的晶体质量、较低的残余应变、适用于纳米光子器件制造的平滑表面以及均匀的键合界面。此外，退火可恢复线性色散特性（n和k），使其接近外延生长GaP的水平；在电信C波段1550 nm处，估算的平面波吸收损耗为0.9 dB/cm。所展示的方法为构建高质量GaP薄膜光子器件提供了可扩展路径，并兼容灵活的异质集成及CMOS后道工艺。",
-      "abstract_zh": "磷化镓（GaP）因具有高折射率、宽光学透明窗口和强二阶非线性响应，是一种很有前景的集成光子学材料平台。本文展示了通过晶体离子切片和直接晶圆键合制备的绝缘体上GaP薄膜，并以熔融石英以及SiO$_2$/Si/Si热氧化硅衬底作为代表性平台。不同于依赖异质外延生长或牺牲层释放的GaP薄膜平台，所提出的方法能够实现晶体GaP薄膜的灵活集成，且不受供体衬底和目标衬底的限制。经过转移后退火，薄膜表现出接近体材料的晶体质量、较低的残余应变、适用于纳米光子器件制造的平滑表面以及均匀的键合界面。此外，退火可恢复线性色散特性（n和k），使其接近外延生长GaP的水平；在电信C波段1550 nm处，估算的平面波吸收损耗为0.9 dB/cm。所展示的方法为构建高质量GaP薄膜光子器件提供了可扩展路径，并兼容灵活的异质集成及CMOS后道工艺。",
-      "overview_cn": "Focus: wafer.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Direct Wafer Bonding of Crystal-Ion-Sliced GaP Thin Films for Photonic Applications.",
-      "reading_notes": "Focus: wafer.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Direct Wafer Bonding of Crystal-Ion-Sliced GaP Thin Films for Photonic Applications."
+      "abstract_cn": "尽管先前的研究已经确定了通过物理气相沉积（PVD）制备超稳定单组分有机玻璃的条件，但对于共沉积混合物的稳定性却知之甚少。在本研究中，我们制备了有机半导体TPD（N,N-双（3-甲基苯基）-N,N-二苯基联苯胺）和m-MTDATA（4,4,4-三[苯基（间甲苯基）氨基]三苯胺）的二元PVD玻璃，二者质量浓度比为50:50，并覆盖较宽范围的衬底温度（Tsub）。我们采用差示扫描量热法和光谱椭偏仪评估其焓和动力学稳定性。当沉积温度为Tsub=0.78-0.90Tg时（其中Tg为常规玻璃化转变温度），所得二元有机半导体玻璃具有出色的热力学稳定性和动力学稳定性，其稳定性水平可与最稳定的单组分有机玻璃相媲美。当沉积温度为0.94Tg时，m-MTDATA/TPD玻璃的焓等于该温度下平衡液体所对应的预期焓。因此，先前针对单组分PVD玻璃提出的表面平衡机制同样适用于这些共沉积玻璃。这些结果为设计高性能有机电子器件提供了一条途径。",
+      "abstract_zh": "尽管先前的研究已经确定了通过物理气相沉积（PVD）制备超稳定单组分有机玻璃的条件，但对于共沉积混合物的稳定性却知之甚少。在本研究中，我们制备了有机半导体TPD（N,N-双（3-甲基苯基）-N,N-二苯基联苯胺）和m-MTDATA（4,4,4-三[苯基（间甲苯基）氨基]三苯胺）的二元PVD玻璃，二者质量浓度比为50:50，并覆盖较宽范围的衬底温度（Tsub）。我们采用差示扫描量热法和光谱椭偏仪评估其焓和动力学稳定性。当沉积温度为Tsub=0.78-0.90Tg时（其中Tg为常规玻璃化转变温度），所得二元有机半导体玻璃具有出色的热力学稳定性和动力学稳定性，其稳定性水平可与最稳定的单组分有机玻璃相媲美。当沉积温度为0.94Tg时，m-MTDATA/TPD玻璃的焓等于该温度下平衡液体所对应的预期焓。因此，先前针对单组分PVD玻璃提出的表面平衡机制同样适用于这些共沉积玻璃。这些结果为设计高性能有机电子器件提供了一条途径。",
+      "overview_cn": "Focus: 半导体.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Surface Equilibration Mechanism Controls the Stability of a Model Co-deposited Glass Mixture of….",
+      "reading_notes": "Focus: 半导体.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Surface Equilibration Mechanism Controls the Stability of a Model Co-deposited Glass Mixture of…."
     },
     {
       "source": "Science Advances",
@@ -144,8 +179,8 @@
       "score": 5,
       "priority": 0,
       "highlights": [],
-      "abstract_cn": "兼具高机械性能、高电绝缘性能和高温稳定性的芳纶基纳米纸对于电气安全应用具有迫切需求，但其构筑极具挑战性。值得注意的是，生物材料能够采用不同的纳米尺度结构单元，并调控其空间分布以构建分级异质结构，从而实现整体性能优化。本文受生物分级异质性启发，结合二维累托石纳米片（RNS）和一维芳纶纳米纤维（ANF）这两类结构单元，构建了具有RNS富集双侧子层和ANF富集内侧子层的分级异质结构纳米纸。通过系统调控获得的厚度为20 μm的5-10-5异质结构纳米纸，展现出令人瞩目的性能组合：击穿强度为171 kV/mm、耐电晕时间为18.3 h，并具有优异的机械性能，均优于均质结构RNS-ANF纳米纸。其耐电晕性能的提升效率比已报道绝缘纸高出数个数量级。在实时高温条件下（最高150°C），击穿强度和耐电晕性能仍可保持在较高水平。这些性能使得该仿生分级异质结构纳米纸在应用中具有很强的竞争力。",
-      "abstract_zh": "兼具高机械性能、高电绝缘性能和高温稳定性的芳纶基纳米纸对于电气安全应用具有迫切需求，但其构筑极具挑战性。值得注意的是，生物材料能够采用不同的纳米尺度结构单元，并调控其空间分布以构建分级异质结构，从而实现整体性能优化。本文受生物分级异质性启发，结合二维累托石纳米片（RNS）和一维芳纶纳米纤维（ANF）这两类结构单元，构建了具有RNS富集双侧子层和ANF富集内侧子层的分级异质结构纳米纸。通过系统调控获得的厚度为20 μm的5-10-5异质结构纳米纸，展现出令人瞩目的性能组合：击穿强度为171 kV/mm、耐电晕时间为18.3 h，并具有优异的机械性能，均优于均质结构RNS-ANF纳米纸。其耐电晕性能的提升效率比已报道绝缘纸高出数个数量级。在实时高温条件下（最高150°C），击穿强度和耐电晕性能仍可保持在较高水平。这些性能使得该仿生分级异质结构纳米纸在应用中具有很强的竞争力。",
+      "abstract_cn": "人们迫切需要兼具优异机械性能和电绝缘性能以及高温稳定性的芳纶基纳米纸，以满足电气安全需求，但这类材料难以构筑。值得注意的是，生物材料能够采用不同的纳米尺度构筑单元，并调控其空间分布，从而构建分级异质结构，实现整体性能优化。在此，我们受到生物分级异质性的启发，将二维蛭石纳米片（RNS）和一维芳纶纳米纤维（ANF）两类构筑单元结合起来，构建了具有RNS富集双侧子层和ANF富集内层的分级异质结构纳米纸。通过系统调控获得的20 μm厚5-10-5异质结构纳米纸，在击穿强度（171 kV/mm）、耐电晕性能（18.3 h）和机械性能方面实现了令人瞩目的综合表现，超过了同质结构的RNS-ANF纳米纸。其耐电晕性能的提升效率比已报道的绝缘纸高出数个数量级。在实时温度最高达150°C的条件下，其击穿强度和耐电晕性能仍可保持较高水平。这些性质使我们的仿生分级异质结构纳米纸在相关应用中具有很强的竞争力。",
+      "abstract_zh": "人们迫切需要兼具优异机械性能和电绝缘性能以及高温稳定性的芳纶基纳米纸，以满足电气安全需求，但这类材料难以构筑。值得注意的是，生物材料能够采用不同的纳米尺度构筑单元，并调控其空间分布，从而构建分级异质结构，实现整体性能优化。在此，我们受到生物分级异质性的启发，将二维蛭石纳米片（RNS）和一维芳纶纳米纤维（ANF）两类构筑单元结合起来，构建了具有RNS富集双侧子层和ANF富集内层的分级异质结构纳米纸。通过系统调控获得的20 μm厚5-10-5异质结构纳米纸，在击穿强度（171 kV/mm）、耐电晕性能（18.3 h）和机械性能方面实现了令人瞩目的综合表现，超过了同质结构的RNS-ANF纳米纸。其耐电晕性能的提升效率比已报道的绝缘纸高出数个数量级。在实时温度最高达150°C的条件下，其击穿强度和耐电晕性能仍可保持较高水平。这些性质使我们的仿生分级异质结构纳米纸在相关应用中具有很强的竞争力。",
       "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: Biomimetic hierarchical heterogeneity endows layered nanocomposite with excellent mechanical an….",
       "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: Biomimetic hierarchical heterogeneity endows layered nanocomposite with excellent mechanical an…."
     },
@@ -169,73 +204,15 @@
       "highlights": [
         "semiconductor"
       ],
-      "abstract_cn": "全无机溴化铅铯（CsPbBr3）纳米晶（NC）凭借近乎单位的光致发光量子产率、窄谱纯色发射和优异的缺陷容忍度等独特性能组合，已成为下一代光电技术中备受关注的新兴半导体。尽管这些NC的尺寸依赖型光学特征已有充分报道，但混合离子-电子输运的复杂性在很大程度上仍未得到探索。本研究通过精心设计的瞬态电流和空间电荷限制电流测量，解耦离子与电子输运动力学过程，从而对尺寸依赖的电荷输运进行了全面分析。通过在薄膜中采用尺寸介于5.6 nm至11.3 nm的不同NC，我们全面阐明了量子限域效应及相关合成化学。与关于量子限域和带隙展宽的普遍认知相反，我们的结果表明，最小尺寸的NC表现出最高效的输运特性，其证据是空穴输运具有最低活化能（空穴活化能=78 meV），且由空位介导的离子迁移具有最高势垒（离子活化能=370 meV）。本研究通过证明在精细调控的化学计量比支持下，进入强量子限域区间能够促进优异的电荷输运，为基于钙钛矿的高效量子器件开辟了新的方向。",
-      "abstract_zh": "全无机溴化铅铯（CsPbBr3）纳米晶（NC）凭借近乎单位的光致发光量子产率、窄谱纯色发射和优异的缺陷容忍度等独特性能组合，已成为下一代光电技术中备受关注的新兴半导体。尽管这些NC的尺寸依赖型光学特征已有充分报道，但混合离子-电子输运的复杂性在很大程度上仍未得到探索。本研究通过精心设计的瞬态电流和空间电荷限制电流测量，解耦离子与电子输运动力学过程，从而对尺寸依赖的电荷输运进行了全面分析。通过在薄膜中采用尺寸介于5.6 nm至11.3 nm的不同NC，我们全面阐明了量子限域效应及相关合成化学。与关于量子限域和带隙展宽的普遍认知相反，我们的结果表明，最小尺寸的NC表现出最高效的输运特性，其证据是空穴输运具有最低活化能（空穴活化能=78 meV），且由空位介导的离子迁移具有最高势垒（离子活化能=370 meV）。本研究通过证明在精细调控的化学计量比支持下，进入强量子限域区间能够促进优异的电荷输运，为基于钙钛矿的高效量子器件开辟了新的方向。",
+      "abstract_cn": "全无机溴化铯铅（CsPbBr3）纳米晶体（NC）凭借其独特的性质组合，包括接近1的光致发光量子产率、窄谱且色纯度高的发射以及出色的缺陷容忍度，已成为下一代光电技术中新兴的半导体材料。尽管关于这类纳米晶体尺寸依赖的光学特征已有大量报道，但混合离子-电子输运的复杂性仍在很大程度上未被探索。在本研究中，我们通过精心设计的瞬态电流测量和空间电荷限制电流测量，将离子输运动力学与电子输运动力学解耦，从而对尺寸依赖的电荷输运进行了全面分析。通过在薄膜中采用尺寸为5.6 nm至11.3 nm的不同纳米晶体，我们全面阐明了量子限域效应及其相关合成化学。与关于量子限域和带隙展宽的普遍认知相反，我们的结果表明，尺寸最小的纳米晶体具有最高效的输运特性；其证据包括空穴输运最低的活化能（空穴活化能=78 meV）以及空位介导离子迁移最高的势垒（离子活化能=370 meV）。本研究表明，在精心调控化学计量比的支持下，进入强量子限域区域能够促进更优异的电荷输运，从而为基于钙钛矿的高效量子器件开辟道路。",
+      "abstract_zh": "全无机溴化铯铅（CsPbBr3）纳米晶体（NC）凭借其独特的性质组合，包括接近1的光致发光量子产率、窄谱且色纯度高的发射以及出色的缺陷容忍度，已成为下一代光电技术中新兴的半导体材料。尽管关于这类纳米晶体尺寸依赖的光学特征已有大量报道，但混合离子-电子输运的复杂性仍在很大程度上未被探索。在本研究中，我们通过精心设计的瞬态电流测量和空间电荷限制电流测量，将离子输运动力学与电子输运动力学解耦，从而对尺寸依赖的电荷输运进行了全面分析。通过在薄膜中采用尺寸为5.6 nm至11.3 nm的不同纳米晶体，我们全面阐明了量子限域效应及其相关合成化学。与关于量子限域和带隙展宽的普遍认知相反，我们的结果表明，尺寸最小的纳米晶体具有最高效的输运特性；其证据包括空穴输运最低的活化能（空穴活化能=78 meV）以及空位介导离子迁移最高的势垒（离子活化能=370 meV）。本研究表明，在精心调控化学计量比的支持下，进入强量子限域区域能够促进更优异的电荷输运，从而为基于钙钛矿的高效量子器件开辟道路。",
       "overview_cn": "Focus: 半导体.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Tuning the Optoelectronics of Mixed-Semiconductors through the interplay of Quantum confinement….",
       "reading_notes": "Focus: 半导体.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Tuning the Optoelectronics of Mixed-Semiconductors through the interplay of Quantum confinement…."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2608.04418v1",
-      "title": "Monolithic integration of optically anisotropic GeSe-based films on GaAs by templated solid-phase epitaxy",
-      "url": "https://arxiv.org/abs/2608.04418v1",
-      "published": "2026-08-05",
-      "authors": [
-        "Kira J. Martin",
-        "Autumn Y. Lee",
-        "Pranav Mahaadev",
-        "Pooja D. Reddy",
-        "Kelly Xiao",
-        "Tri Nguyen",
-        "Ashlee M. García",
-        "Aaron M. Lindenberg",
-        "Kunal Mukherjee"
-      ],
-      "summary": "Layered IV-VI semiconductors such as GeSe exhibit strong in-plane optical anisotropy, making them promising candidates for polarization-sensitive photonic devices. However, realizing these properties in scalable platforms requires heteroepitaxial integration on technologically relevant substrates like GaAs. Direct growth of GeSe is complicated by its glass formation at low temperatures and high vapor pressure at elevated temperatures. To overcome this, we develop a method for ex-situ solid-phase epitaxy utilizing a SnSe buffer and offcut GaAs substrate to enable single-orientation crystalline GeSe films. Using polarized reflection measurements, we find that stabilizing a single-in-plane-orientation results in a 2x increase in anisotropic response between the armchair and zigzag directions. This work provides a new integration route to harness the anisotropic optical properties of GeSe and its alloys for polarization-sensitive technologies.",
-      "score": 5,
-      "priority": 0,
-      "highlights": [
-        "epitaxy"
-      ],
-      "abstract_cn": "GeSe等层状IV-VI族半导体表现出强烈的面内光学各向异性，使其成为偏振敏感型光子器件的潜在候选材料。然而，要在可扩展平台中实现这些性质，需要在GaAs等具有技术相关性的衬底上进行异质外延集成。GeSe的直接生长面临挑战：其在低温下容易形成玻璃态，而在高温下又具有较高蒸气压。为克服这一问题，我们开发了一种非原位固相外延方法，采用SnSe缓冲层和偏切GaAs衬底，实现了具有单一取向的晶体GeSe薄膜。通过偏振反射测量，我们发现，稳定单一面内取向可使扶手椅方向和锯齿方向之间的各向异性响应提高2倍。本研究为利用GeSe及其合金的各向异性光学性质开发偏振敏感技术提供了一条新的集成路径。",
-      "abstract_zh": "GeSe等层状IV-VI族半导体表现出强烈的面内光学各向异性，使其成为偏振敏感型光子器件的潜在候选材料。然而，要在可扩展平台中实现这些性质，需要在GaAs等具有技术相关性的衬底上进行异质外延集成。GeSe的直接生长面临挑战：其在低温下容易形成玻璃态，而在高温下又具有较高蒸气压。为克服这一问题，我们开发了一种非原位固相外延方法，采用SnSe缓冲层和偏切GaAs衬底，实现了具有单一取向的晶体GeSe薄膜。通过偏振反射测量，我们发现，稳定单一面内取向可使扶手椅方向和锯齿方向之间的各向异性响应提高2倍。本研究为利用GeSe及其合金的各向异性光学性质开发偏振敏感技术提供了一条新的集成路径。",
-      "overview_cn": "Focus: epitaxy.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Monolithic integration of optically anisotropic GeSe-based films on GaAs by templated solid-pha….",
-      "reading_notes": "Focus: epitaxy.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Monolithic integration of optically anisotropic GeSe-based films on GaAs by templated solid-pha…."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2608.02710v1",
-      "title": "Investigation of GeSn aspect ratio trapping growth up to 8% Sn",
-      "url": "https://arxiv.org/abs/2608.02710v1",
-      "published": "2026-08-04",
-      "authors": [
-        "Hryhorii Stanchu",
-        "Quang Minh Thai",
-        "Fernando M. de Oliveira",
-        "Mourad Benamara",
-        "Stephen Margiotta",
-        "Matthew Cook",
-        "Xiaoxin Wang",
-        "Jifeng Liu",
-        "Perry C. Grant",
-        "Baohua Li",
-        "Wei Du",
-        "Gregory Salamo",
-        "Shui-Qing Yu"
-      ],
-      "summary": "Aspect ratio trapping (ART) growth of germanium-tin (GeSn) is a promising approach to target important objectives on the quest towards commercialization of complementary metal-oxide-semiconductor (CMOS)-compatible GeSn optoelectronics devices. Its local growth on patterned substrate allows for versatile device integration into photonics integrated circuit or for stand-alone structure like focal plane array imager. Additionally, high aspect ratio from nano-sized window can terminate early threading dislocation propagation on the oxide sidewalls, leaving subsequent growth defect-free and potentially improving the device performance. Knowledge remains missing regarding GeSn ART growth kinetics, morphology and how they evolve from thin film growth, with successful growth itself yet to be demonstrated. In this work, we report GeSn ART growth up to 8% Sn. Two configurations -- self-induced Ge core/GeSn shell for Sn content between 6% and 8%, and bulk GeSn ART for Sn content below 1% -- are observed. We present a comprehensive study on GeSn ART growth kinetics through different growth rounds and designs, showing a link between pyramid shape of ART island and successful Sn incorporation, as well as the role of growth selectivity and local heating.",
-      "score": 5,
-      "priority": 0,
-      "highlights": [],
-      "abstract_cn": "锗锡（GeSn）的纵横比陷阱（ART）生长，是实现CMOS兼容GeSn光电子器件商业化进程中若干重要目标的一种很有前景的方法。其在图案化衬底上的局域生长可实现向光子集成电路中的灵活器件集成，或用于焦平面阵列成像器等独立结构。此外，纳米尺寸窗口形成的高纵横比能够使早期穿透位错传播终止于氧化物侧壁，使后续生长无缺陷，并有可能改善器件性能。目前仍缺乏关于GeSn ART生长动力学、形貌及其相对于薄膜生长如何演变的认识，且成功生长本身尚未得到展示。本文报道了Sn含量最高达8%的GeSn ART生长。观察到两种构型：对于Sn含量在6%至8%之间的样品，为自诱导Ge核/GeSn壳结构；对于Sn含量低于1%的样品，为体GeSn ART结构。我们通过不同生长轮次和设计，对GeSn ART生长动力学进行了全面研究，揭示了ART岛金字塔形状与Sn成功掺入之间的联系，以及生长选择性和局部加热所发挥的作用。",
-      "abstract_zh": "锗锡（GeSn）的纵横比陷阱（ART）生长，是实现CMOS兼容GeSn光电子器件商业化进程中若干重要目标的一种很有前景的方法。其在图案化衬底上的局域生长可实现向光子集成电路中的灵活器件集成，或用于焦平面阵列成像器等独立结构。此外，纳米尺寸窗口形成的高纵横比能够使早期穿透位错传播终止于氧化物侧壁，使后续生长无缺陷，并有可能改善器件性能。目前仍缺乏关于GeSn ART生长动力学、形貌及其相对于薄膜生长如何演变的认识，且成功生长本身尚未得到展示。本文报道了Sn含量最高达8%的GeSn ART生长。观察到两种构型：对于Sn含量在6%至8%之间的样品，为自诱导Ge核/GeSn壳结构；对于Sn含量低于1%的样品，为体GeSn ART结构。我们通过不同生长轮次和设计，对GeSn ART生长动力学进行了全面研究，揭示了ART岛金字塔形状与Sn成功掺入之间的联系，以及生长选择性和局部加热所发挥的作用。",
-      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: Investigation of GeSn aspect ratio trapping growth up to 8% Sn.",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: Investigation of GeSn aspect ratio trapping growth up to 8% Sn."
     }
   ],
   "errors": [],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-08-10T00:30:00+00:00"
+  "generated_at": "2026-08-11T00:30:00+00:00"
 }
