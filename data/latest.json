@@ -1,34 +1,33 @@
 {
   "ok": true,
-  "new_count": 5,
+  "new_count": 2,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-08-13）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 5 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Light Polarization Sensitive Transistor Action in the van der Waals ferroelectric 4H-SnS2\n   关键词：transistor, ferroelectric\n   日期：2026-08-11\n   Authors: Abhishek Bajgain, Rabindra Basnet, Subhashree Chatterjee 等\n   https://arxiv.org/abs/2608.10174v1\n2. [arXiv] Stable Glasses of Organic Semiconductor Resist Crystallization\n   关键词：semiconductor\n   日期：2026-08-12\n   Authors: Kushal Bagchi, Marie E. Fiori, Camille Bishop 等\n   https://arxiv.org/abs/2608.11102v1\n3. [arXiv] T1, T2, and complex permittivities of hydrogels, paramagnetic salt solutions, and oils at 0…\n   日期：2026-08-12\n   Authors: H Michael Gach, Kerri Prinos, Hannah Sechaga\n   https://arxiv.org/abs/2608.11117v1\n4. [arXiv] Enhanced Screening in Epitaxial Graphene via Nearly Free-Electron Metal Intercalation\n   日期：2026-08-11\n   Authors: Cedric Schmitt, Lukas Gehrig, Jonas Erhardt 等\n   https://arxiv.org/abs/2608.10580v1\n5. [arXiv] Practical Evaluation of FFT-Based Thickness Extraction for Thick-Film Reflectometry\n   日期：2026-08-11\n   Authors: Zimu Zhou, Enrique A. Lopez-Guerra, Michael Kwan 等\n   https://arxiv.org/abs/2608.10146v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-08-15）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 2 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Vertical Gallium Oxide Isolated Source Electrode Field Effect Transistors (ISEFET) Without …\n   关键词：transistor, gallium oxide\n   日期：2026-08-13\n   Authors: Akilesh Srikanth, Md Saklain Morshed, Chandan Joishi 等\n   https://arxiv.org/abs/2608.12797v1\n2. [Nature Materials] Degradation-assisted doping of organic semiconductors enabled by Lewis acids\n   关键词：semiconductor\n   日期：2026-08-14\n   https://www.nature.com/articles/s41563-026-02717-0",
   "papers": [
     {
       "source": "arXiv",
-      "uid": "arxiv:2608.06793v1",
-      "title": "Ultralow p-type contact resistance for ultra-nanoscaled 2D-materials transistors",
-      "url": "https://arxiv.org/abs/2608.06793v1",
-      "published": "2026-08-07",
+      "uid": "arxiv:2608.12797v1",
+      "title": "Vertical Gallium Oxide Isolated Source Electrode Field Effect Transistors (ISEFET) Without Planarization or Mid-Gap Acceptor Blocking Layers",
+      "url": "https://arxiv.org/abs/2608.12797v1",
+      "published": "2026-08-13",
       "authors": [
-        "Ying Xiong",
-        "Tong Su",
-        "Qiang Li",
-        "Yee Sin Ang",
-        "Lain-Jong Li",
-        "L. K. Ang"
+        "Akilesh Srikanth",
+        "Md Saklain Morshed",
+        "Chandan Joishi",
+        "Ahmad E. Islam",
+        "Siddharth Rajan"
       ],
-      "summary": "High contact resistance is one of the main bottlenecks for practical two-dimensional (2D) materials transistors, especially for p-type transistors and future 2D ultra-nanoscaled (sub-10 nm) FETs (PMOS + CMOS). We develop self-consistent contact resistance models for metal-2D semiconductor-metal devices to capture the essential interface physics for both vertical and edge configurations. Our calculations have been verified with various recent experiments of p-type and n-type contacts. For a given set of materials, the model determines the scaling of contact resistance over a wide range of device parameters including channel length (100s nm down to sub-10 nm), doping and mobility of the 2D materials, contact length of the electrodes, and applied voltages. These results identify the key factors in order to reduce the contact resistance for p-type 2D semiconductor WSe$_2$ towards the sub-10 nm channel length scale that are readily to be realized by future experiments. It is found that the effect of source-limited current saturation is the key challenge for down scaling 2D FET to sub-10 nm channel length. Two topological semi-metals as potential electrodes are proposed for 2D p-type semiconducting WSe$_2$ with our predicted contact resistance $R_c<$ 100 $Ω\\; {\\rm μm}$ approaching the quantum limit. Our model is also verified with the computational expensive full quantum atomistic model that is currently limited to a few nm scale.",
-      "score": 15,
+      "summary": "We propose and demonstrate the first vertical Gallium oxide device architecture without the use of planarization etch back processes or mid-gap acceptor regions. The Isolated Source Electrode Field Effect Transistor (ISEFET) incorporates a dielectric blocking layer to access an isolated source pad extending from the top fin metal. Scaled multi-fin channels were formed by electron beam lithography with a width of 200 nm along with the source pads and then etched to a trench depth of ~1.2 um. The fabricated devices showed enhancement mode operation with threshold voltage of 2 V and on-off ratio > 1e7 with excellent gate modulation characteristics. The resulting device proved to be comparable to existing vertical transistors and suitable for high-throughput prototyping and large-scale manufacturing of future Gallium oxide and other wide bandgap semiconductor devices.",
+      "score": 14,
       "priority": 2,
       "highlights": [
         "transistor",
-        "contact resistance"
+        "gallium oxide"
       ],
-      "abstract_cn": "高接触电阻是二维（2D）材料晶体管走向实际应用的主要瓶颈之一，尤其制约 p 型晶体管以及未来二维超纳米尺度（亚 10 nm）场效应晶体管（PMOS + CMOS）。我们针对金属-二维半导体-金属器件建立了自洽接触电阻模型，以刻画垂直接触与边缘接触构型中的关键界面物理。我们的计算结果已通过近期多种 p 型和 n 型接触实验得到验证。对于给定的一组材料，该模型能够确定接触电阻在宽广器件参数范围内的标度关系，包括沟道长度（从数百 nm 至亚 10 nm）、二维材料的掺杂浓度和迁移率、电极接触长度以及施加电压。这些结果揭示了将 p 型二维半导体 WSe$_2$ 的接触电阻降低至面向亚 10 nm 沟道长度尺度所需的关键因素，且这些因素可由未来实验实现。研究发现，源极限制电流饱和效应是将二维 FET 缩小至亚 10 nm 沟道长度时面临的关键挑战。我们提出两种拓扑半金属作为二维 p 型半导体 WSe$_2$ 的潜在电极材料，预测其接触电阻 $R_c<$ 100 $Ω\\; {\\rm μm}$，接近量子极限。我们的模型还通过计算代价高昂的全量子原子级模型进行了验证，而该模型目前仅限于数 nm 尺度。",
-      "abstract_zh": "高接触电阻是二维（2D）材料晶体管走向实际应用的主要瓶颈之一，尤其制约 p 型晶体管以及未来二维超纳米尺度（亚 10 nm）场效应晶体管（PMOS + CMOS）。我们针对金属-二维半导体-金属器件建立了自洽接触电阻模型，以刻画垂直接触与边缘接触构型中的关键界面物理。我们的计算结果已通过近期多种 p 型和 n 型接触实验得到验证。对于给定的一组材料，该模型能够确定接触电阻在宽广器件参数范围内的标度关系，包括沟道长度（从数百 nm 至亚 10 nm）、二维材料的掺杂浓度和迁移率、电极接触长度以及施加电压。这些结果揭示了将 p 型二维半导体 WSe$_2$ 的接触电阻降低至面向亚 10 nm 沟道长度尺度所需的关键因素，且这些因素可由未来实验实现。研究发现，源极限制电流饱和效应是将二维 FET 缩小至亚 10 nm 沟道长度时面临的关键挑战。我们提出两种拓扑半金属作为二维 p 型半导体 WSe$_2$ 的潜在电极材料，预测其接触电阻 $R_c<$ 100 $Ω\\; {\\rm μm}$，接近量子极限。我们的模型还通过计算代价高昂的全量子原子级模型进行了验证，而该模型目前仅限于数 nm 尺度。",
-      "overview_cn": "Focus: 晶体管、接触电阻.\nWhat to check: 先进尺度下的可扩展性、接触/互连相关指标、与既有工艺平台的集成价值.\nContext: Ultralow p-type contact resistance for ultra-nanoscaled 2D-materials transistors.",
-      "reading_notes": "Focus: 晶体管、接触电阻.\nWhat to check: 先进尺度下的可扩展性、接触/互连相关指标、与既有工艺平台的集成价值.\nContext: Ultralow p-type contact resistance for ultra-nanoscaled 2D-materials transistors."
+      "abstract_cn": "我们提出并演示了首种无需采用平坦化回蚀工艺或中能级受主区的垂直氧化镓器件架构。隔离源极电极场效应晶体管（ISEFET）通过引入介电阻挡层，实现对由顶部鳍部金属延伸出的隔离源极焊盘的访问。采用电子束光刻形成了宽度为 200 nm 的缩小尺寸多鳍沟道及源极焊盘，随后将其刻蚀至约 1.2 um 的沟槽深度。所制备器件表现出增强型工作特性，阈值电压为 2 V，开关比大于 1e7，并具有优异的栅极调制特性。所得器件性能可与现有垂直晶体管相媲美，适用于未来氧化镓及其他宽禁带半导体器件的高通量原型开发和大规模制造。",
+      "abstract_zh": "我们提出并演示了首种无需采用平坦化回蚀工艺或中能级受主区的垂直氧化镓器件架构。隔离源极电极场效应晶体管（ISEFET）通过引入介电阻挡层，实现对由顶部鳍部金属延伸出的隔离源极焊盘的访问。采用电子束光刻形成了宽度为 200 nm 的缩小尺寸多鳍沟道及源极焊盘，随后将其刻蚀至约 1.2 um 的沟槽深度。所制备器件表现出增强型工作特性，阈值电压为 2 V，开关比大于 1e7，并具有优异的栅极调制特性。所得器件性能可与现有垂直晶体管相媲美，适用于未来氧化镓及其他宽禁带半导体器件的高通量原型开发和大规模制造。",
+      "overview_cn": "Focus: 晶体管、gallium oxide.\nWhat to check: 性能提升、先进尺度下的可扩展性.\nContext: Vertical Gallium Oxide Isolated Source Electrode Field Effect Transistors (ISEFET) Without Plan….",
+      "reading_notes": "Focus: 晶体管、gallium oxide.\nWhat to check: 性能提升、先进尺度下的可扩展性.\nContext: Vertical Gallium Oxide Isolated Source Electrode Field Effect Transistors (ISEFET) Without Plan…."
     },
     {
       "source": "arXiv",
@@ -50,10 +49,34 @@
         "transistor",
         "ferroelectric"
       ],
-      "abstract_cn": "范德华（vdW）铁电半导体为探索纳米尺度上自发极化、电子输运、离子迁移和光生载流子产生之间的相互作用提供了独特平台。本文通过直接对比中心对称的 2H 相与极性的 4H 相，确立了 SnS$_2$ 的室温铁电态及其对结构多型的敏感性。拉曼光谱可借助其特征声子指纹区分 SnS$_2$ 的 2H 和 4H 多晶型。压电响应力显微镜证实 4H 相具有室温铁电性，而 2H 相未表现出铁电响应。在 4H-SnS$_2$ 三端晶体管器件中，其内建极化可受静电栅压以及线偏振光和圆偏振光照射的显著调制。该器件表现出由极化控制的输出特性，具有明显的栅压诱导迟滞响应和热激活载流子输运，证实其为与铁电极化强耦合的 p 型半导体行为。其光响应同样表现出极化辅助的载流子分离、次线性幂律标度、与特征拉曼模相关的非单调温度响应、铁电迟滞，以及对入射激光束圆偏振态和线偏振态的显著依赖性。这些结果表明，4H-SnS$_2$ 是极化驱动电子与光电子技术的有前景材料体系，包括非易失性存储器和光铁电功能。",
-      "abstract_zh": "范德华（vdW）铁电半导体为探索纳米尺度上自发极化、电子输运、离子迁移和光生载流子产生之间的相互作用提供了独特平台。本文通过直接对比中心对称的 2H 相与极性的 4H 相，确立了 SnS$_2$ 的室温铁电态及其对结构多型的敏感性。拉曼光谱可借助其特征声子指纹区分 SnS$_2$ 的 2H 和 4H 多晶型。压电响应力显微镜证实 4H 相具有室温铁电性，而 2H 相未表现出铁电响应。在 4H-SnS$_2$ 三端晶体管器件中，其内建极化可受静电栅压以及线偏振光和圆偏振光照射的显著调制。该器件表现出由极化控制的输出特性，具有明显的栅压诱导迟滞响应和热激活载流子输运，证实其为与铁电极化强耦合的 p 型半导体行为。其光响应同样表现出极化辅助的载流子分离、次线性幂律标度、与特征拉曼模相关的非单调温度响应、铁电迟滞，以及对入射激光束圆偏振态和线偏振态的显著依赖性。这些结果表明，4H-SnS$_2$ 是极化驱动电子与光电子技术的有前景材料体系，包括非易失性存储器和光铁电功能。",
+      "abstract_cn": "范德华（vdW）铁电半导体为探索纳米尺度下自发极化、电子输运、离子迁移与光生载流子产生之间的相互作用提供了独特平台。本文通过直接对比中心对称的 2H 相与极性的 4H 相，建立了 SnS2 在室温下的铁电状态及其对结构多型的敏感性。拉曼光谱可通过特征声子指纹区分 SnS2 的 2H 和 4H 多晶型。压电响应力显微镜证实了 4H 相在室温下具有铁电性，而 2H 相未表现出铁电响应。在三端 4H-SnS2 晶体管器件中，内建极化受到静电栅控以及线偏振和圆偏振光照射的显著调制。该器件呈现由极化控制的输出特性，具有明显的栅压诱导滞后响应和热激活载流子输运，证实其为与铁电极化强耦合的 p 型半导体行为。其光响应同样表现出极化辅助的载流子分离、次线性幂律标度、与特征拉曼模相关的非单调温度响应、铁电滞后，以及对入射激光束圆偏振和线偏振状态的显著依赖。这些结果确立了 4H-SnS2 作为极化驱动电子和光电子技术的有前景材料体系，包括非易失性存储器和光铁电功能。",
+      "abstract_zh": "范德华（vdW）铁电半导体为探索纳米尺度下自发极化、电子输运、离子迁移与光生载流子产生之间的相互作用提供了独特平台。本文通过直接对比中心对称的 2H 相与极性的 4H 相，建立了 SnS2 在室温下的铁电状态及其对结构多型的敏感性。拉曼光谱可通过特征声子指纹区分 SnS2 的 2H 和 4H 多晶型。压电响应力显微镜证实了 4H 相在室温下具有铁电性，而 2H 相未表现出铁电响应。在三端 4H-SnS2 晶体管器件中，内建极化受到静电栅控以及线偏振和圆偏振光照射的显著调制。该器件呈现由极化控制的输出特性，具有明显的栅压诱导滞后响应和热激活载流子输运，证实其为与铁电极化强耦合的 p 型半导体行为。其光响应同样表现出极化辅助的载流子分离、次线性幂律标度、与特征拉曼模相关的非单调温度响应、铁电滞后，以及对入射激光束圆偏振和线偏振状态的显著依赖。这些结果确立了 4H-SnS2 作为极化驱动电子和光电子技术的有前景材料体系，包括非易失性存储器和光铁电功能。",
       "overview_cn": "Focus: 晶体管、铁电材料.\nWhat to check: 先进尺度下的可扩展性.\nContext: Light Polarization Sensitive Transistor Action in the van der Waals ferroelectric 4H-SnS2.",
       "reading_notes": "Focus: 晶体管、铁电材料.\nWhat to check: 先进尺度下的可扩展性.\nContext: Light Polarization Sensitive Transistor Action in the van der Waals ferroelectric 4H-SnS2."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2608.12214v1",
+      "title": "Electron transport in a 1.6~nm-thick double-gated (100) silicon nanosheet: A theoretical study accounting for phonon confinement and remote-phonon scattering",
+      "url": "https://arxiv.org/abs/2608.12214v1",
+      "published": "2026-08-13",
+      "authors": [
+        "Shoaib Mansoori",
+        "Bimin Cai",
+        "Edward Chen",
+        "Dallin O. Nielsen",
+        "Massimo V. Fischetti"
+      ],
+      "summary": "We study theoretically electron transport in an top-and bottom-gated (100) 1.6 nm-thin silicon nanosheet with SiO2/HfO2 gate stacks, focusing on the intrinsic physical processes that affect transport: the confinement of phonons and the presence of interface hybrid plasmon-phonon excitations (IPPs or `remote phonons'). The band structure is calculated using local empirical pseudopotentials; an approximated elastic continuum model is used to consider the confinement of acoustic phonons; the dielectric continuum limit is used to deal with the IPPs. We find that the electron mobility is affected significantly by the boundary conditions chosen to deal with phonon confinement. The more realistic assumption of phonons clamped at the SiO2/HfO2 interfaces and optical phonons at the Si/SiO2 interfaces results in a room temperature mobility much smaller than what is obtained using the common assumption of bulk phonons in the elastic, high-temperature approximation. We also find that, as a result of the complicated structure of the primed subbands, the high-field saturated velocity is significantly lower than its bulk value, as it had been measured in the past in the case of Si inversion layers but never explained theoretically. Finally, we find that IPP scattering does depress the low-field mobility but to a small extent, thanks to the presence of the interfacial SiO2 layers and to the proximity of the metal gates. Moreover, by keeping electrons `cooler', IPP scattering results in a higher saturated velocity. Therefore, the presence of high-kappa materials in the gate-insulator stacks should not affect negatively the performance of field effect transistors based on Si nanosheets.",
+      "score": 13,
+      "priority": 1,
+      "highlights": [
+        "nanosheet"
+      ],
+      "abstract_cn": "我们从理论上研究了采用 SiO2/HfO2 栅叠层的顶部和底部双栅（100）取向、厚度为 1.6 nm 的硅纳米片中的电子输运，重点关注影响输运的内禀物理过程：声子限域以及界面混合等离激元-声子激发（IPP，即“远程声子”）的存在。采用局域经验赝势计算能带结构；采用近似弹性连续介质模型考虑声学声子的限域；采用介电连续介质极限处理 IPP。我们发现，电子迁移率受到处理声子限域时所选边界条件的显著影响。与常用的、在弹性高温近似下假定体声子的处理相比，采用更符合实际的假设，即声子在 SiO2/HfO2 界面处被钳制、光学声子在 Si/SiO2 界面处被钳制，会得到低得多的室温迁移率。我们还发现，由于带撇号子带的复杂结构，高场饱和速度显著低于其体材料数值；此前在 Si 反型层中已有实验测量结果，但从未得到理论解释。最后，我们发现，得益于界面 SiO2 层的存在以及金属栅极的接近，IPP 散射确实会降低低场迁移率，但幅度较小。此外，通过使电子保持更“冷”的状态，IPP 散射会导致更高的饱和速度。因此，栅介质叠层中高 k 材料的存在不应对基于 Si 纳米片的场效应晶体管性能产生负面影响。",
+      "abstract_zh": "我们从理论上研究了采用 SiO2/HfO2 栅叠层的顶部和底部双栅（100）取向、厚度为 1.6 nm 的硅纳米片中的电子输运，重点关注影响输运的内禀物理过程：声子限域以及界面混合等离激元-声子激发（IPP，即“远程声子”）的存在。采用局域经验赝势计算能带结构；采用近似弹性连续介质模型考虑声学声子的限域；采用介电连续介质极限处理 IPP。我们发现，电子迁移率受到处理声子限域时所选边界条件的显著影响。与常用的、在弹性高温近似下假定体声子的处理相比，采用更符合实际的假设，即声子在 SiO2/HfO2 界面处被钳制、光学声子在 Si/SiO2 界面处被钳制，会得到低得多的室温迁移率。我们还发现，由于带撇号子带的复杂结构，高场饱和速度显著低于其体材料数值；此前在 Si 反型层中已有实验测量结果，但从未得到理论解释。最后，我们发现，得益于界面 SiO2 层的存在以及金属栅极的接近，IPP 散射确实会降低低场迁移率，但幅度较小。此外，通过使电子保持更“冷”的状态，IPP 散射会导致更高的饱和速度。因此，栅介质叠层中高 k 材料的存在不应对基于 Si 纳米片的场效应晶体管性能产生负面影响。",
+      "overview_cn": "Focus: nanosheet.\nWhat to check: 性能提升、先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Electron transport in a 1.6~nm-thick double-gated (100) silicon nanosheet: A theoretical study ….",
+      "reading_notes": "Focus: nanosheet.\nWhat to check: 性能提升、先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Electron transport in a 1.6~nm-thick double-gated (100) silicon nanosheet: A theoretical study …."
     },
     {
       "source": "arXiv",
@@ -82,8 +105,8 @@
         "semiconductor",
         "wafer"
       ],
-      "abstract_cn": "单片三维（M3D）集成为突破传统硅基互补金属氧化物半导体（CMOS）技术的缩放极限提供了一条途径，其方法是将多功能逻辑器件和存储器件进行高密度垂直堆叠。本文展示了在 200 mm 硅晶圆上实现的晶圆级 M3D 集成，集成了三层基于原子层沉积（ALD）氧化铟（InO$_x$）的器件（制备数量超过 100,000 个），其中包括铁电型、增强型和耗尽型场效应晶体管。我们实现了低至 0.04 V 的阈值电压标准差、高达 91.6 cm$^2$V$^{-1}$s$^{-1}$ 的平均电子迁移率，以及功能完整的跨层电路。基于定制的 InO$_x$ 工艺设计套件，开发了一种面向大语言模型工作负载的四层三维存内计算（CIM）加速器；相较于二维基准方案，其速度提升达 1.4 倍至 2.9 倍，并实现了相当的能量-延迟积改善。这些结果确立了 ALD InO$_x$ M3D 集成作为面向下一代人工智能硬件和先进电子器件的可扩展、兼容 CMOS 平台。",
-      "abstract_zh": "单片三维（M3D）集成为突破传统硅基互补金属氧化物半导体（CMOS）技术的缩放极限提供了一条途径，其方法是将多功能逻辑器件和存储器件进行高密度垂直堆叠。本文展示了在 200 mm 硅晶圆上实现的晶圆级 M3D 集成，集成了三层基于原子层沉积（ALD）氧化铟（InO$_x$）的器件（制备数量超过 100,000 个），其中包括铁电型、增强型和耗尽型场效应晶体管。我们实现了低至 0.04 V 的阈值电压标准差、高达 91.6 cm$^2$V$^{-1}$s$^{-1}$ 的平均电子迁移率，以及功能完整的跨层电路。基于定制的 InO$_x$ 工艺设计套件，开发了一种面向大语言模型工作负载的四层三维存内计算（CIM）加速器；相较于二维基准方案，其速度提升达 1.4 倍至 2.9 倍，并实现了相当的能量-延迟积改善。这些结果确立了 ALD InO$_x$ M3D 集成作为面向下一代人工智能硬件和先进电子器件的可扩展、兼容 CMOS 平台。",
+      "abstract_cn": "单片三维（M3D）集成为突破传统硅互补金属氧化物半导体（CMOS）技术的缩放极限提供了一条途径，可实现多功能逻辑和存储器件的高密度垂直堆叠。本文在 200 mm 硅晶圆上演示了由原子层沉积（ALD）氧化铟（InOx）构成的三层器件的晶圆级 M3D 集成（已制备超过 100,000 个器件），其中包括铁电型、增强型和耗尽型场效应晶体管。我们实现了低至 0.04 V 的阈值电压标准差、高达 91.6 cm2V-1s-1 的平均电子迁移率，以及完全可工作的跨层电路。基于定制的 InOx 工艺设计套件，开发了一种面向大语言模型工作负载的四层三维存内计算（CIM）加速器；相较于二维基准，其速度提升为 1.4 倍至 2.9 倍，且能量-延迟积也获得了相当的改善。这些结果表明，ALD InOx M3D 集成是面向下一代人工智能硬件和先进电子技术的可扩展、兼容 CMOS 的平台。",
+      "abstract_zh": "单片三维（M3D）集成为突破传统硅互补金属氧化物半导体（CMOS）技术的缩放极限提供了一条途径，可实现多功能逻辑和存储器件的高密度垂直堆叠。本文在 200 mm 硅晶圆上演示了由原子层沉积（ALD）氧化铟（InOx）构成的三层器件的晶圆级 M3D 集成（已制备超过 100,000 个器件），其中包括铁电型、增强型和耗尽型场效应晶体管。我们实现了低至 0.04 V 的阈值电压标准差、高达 91.6 cm2V-1s-1 的平均电子迁移率，以及完全可工作的跨层电路。基于定制的 InOx 工艺设计套件，开发了一种面向大语言模型工作负载的四层三维存内计算（CIM）加速器；相较于二维基准，其速度提升为 1.4 倍至 2.9 倍，且能量-延迟积也获得了相当的改善。这些结果表明，ALD InOx M3D 集成是面向下一代人工智能硬件和先进电子技术的可扩展、兼容 CMOS 的平台。",
       "overview_cn": "Focus: 半导体、wafer.\nWhat to check: 性能提升、先进尺度下的可扩展性、功耗或能效表现.\nContext: 200 mm Wafer-Scale Monolithic 3D Integration of Atomic Layer-Deposited Oxide Semiconductors.",
       "reading_notes": "Focus: 半导体、wafer.\nWhat to check: 性能提升、先进尺度下的可扩展性、功耗或能效表现.\nContext: 200 mm Wafer-Scale Monolithic 3D Integration of Atomic Layer-Deposited Oxide Semiconductors."
     },
@@ -116,10 +139,36 @@
       "highlights": [
         "semiconductor"
       ],
-      "abstract_cn": "双稳态，即在相同偏压下存在两种稳定电子状态，是开关和存储功能的基础，但它通常并不存在于晶体管中，必须通过材料手段加以构建，例如掺杂隧穿结、忆阻器中的导电细丝或相变。本文展示了一种在单一化学均匀晶体中具有本征电子双稳态的晶体管。在双栅黑磷中，由于巨大的斯塔克效应，其带隙会在垂直电场作用下减小；栅极不仅调制载流子密度，还会重塑能带轮廓，从而在沟道内形成带间隧穿结。在二维栅极参数空间内的输运测量揭示了相互竞争的导电机制，包括扩散输运、两种隧穿通道和齐纳击穿；它们的相互作用产生了负微分电导和负微分跨导、不连续开关以及迟滞，而器件状态由栅压历史决定。此外，开关在本征上仍具有随机性，但在狭窄的栅压范围内统计特性稳定，从而提供了一种可电编程的随机源。基于该原理的器件应可在其他二维半导体中实现，为下一代计算架构开辟路径，在这类架构中，非线性、开关、存储和随机性可集成于单个静电可编程元件之中。",
-      "abstract_zh": "双稳态，即在相同偏压下存在两种稳定电子状态，是开关和存储功能的基础，但它通常并不存在于晶体管中，必须通过材料手段加以构建，例如掺杂隧穿结、忆阻器中的导电细丝或相变。本文展示了一种在单一化学均匀晶体中具有本征电子双稳态的晶体管。在双栅黑磷中，由于巨大的斯塔克效应，其带隙会在垂直电场作用下减小；栅极不仅调制载流子密度，还会重塑能带轮廓，从而在沟道内形成带间隧穿结。在二维栅极参数空间内的输运测量揭示了相互竞争的导电机制，包括扩散输运、两种隧穿通道和齐纳击穿；它们的相互作用产生了负微分电导和负微分跨导、不连续开关以及迟滞，而器件状态由栅压历史决定。此外，开关在本征上仍具有随机性，但在狭窄的栅压范围内统计特性稳定，从而提供了一种可电编程的随机源。基于该原理的器件应可在其他二维半导体中实现，为下一代计算架构开辟路径，在这类架构中，非线性、开关、存储和随机性可集成于单个静电可编程元件之中。",
+      "abstract_cn": "双稳态，即在相同偏压下存在两个稳定电子状态，是开关和存储器的基础，但在晶体管中通常并不存在，必须通过材料手段进行工程化实现，例如掺杂隧穿结、忆阻器中的导电细丝或相变。本文演示了一种在单一化学均匀晶体中具有内禀电子双稳态的晶体管。在双栅黑磷中，由于巨大的斯塔克效应，其带隙会在垂直电场作用下变窄；栅极不仅调制载流子密度，还会重塑能带轮廓，从而在沟道中形成带间隧穿结。对双栅参数空间的输运研究揭示出相互竞争的导电机制，包括扩散输运、两条隧穿通道和齐纳击穿；它们之间的相互作用产生了负微分电导和负跨导、不连续开关以及状态由栅极历史决定的滞后。进一步地，开关过程仍然具有内禀随机性，但在较窄的栅压范围内统计上稳定，从而提供了一种可电编程的随机源。基于该原理的器件应可在其他二维半导体中实现，为下一代计算架构开辟路径，在这类架构中，非线性、开关、存储和随机性被集成于单个可静电编程元件之中。",
+      "abstract_zh": "双稳态，即在相同偏压下存在两个稳定电子状态，是开关和存储器的基础，但在晶体管中通常并不存在，必须通过材料手段进行工程化实现，例如掺杂隧穿结、忆阻器中的导电细丝或相变。本文演示了一种在单一化学均匀晶体中具有内禀电子双稳态的晶体管。在双栅黑磷中，由于巨大的斯塔克效应，其带隙会在垂直电场作用下变窄；栅极不仅调制载流子密度，还会重塑能带轮廓，从而在沟道中形成带间隧穿结。对双栅参数空间的输运研究揭示出相互竞争的导电机制，包括扩散输运、两条隧穿通道和齐纳击穿；它们之间的相互作用产生了负微分电导和负跨导、不连续开关以及状态由栅极历史决定的滞后。进一步地，开关过程仍然具有内禀随机性，但在较窄的栅压范围内统计上稳定，从而提供了一种可电编程的随机源。基于该原理的器件应可在其他二维半导体中实现，为下一代计算架构开辟路径，在这类架构中，非线性、开关、存储和随机性被集成于单个可静电编程元件之中。",
       "overview_cn": "Focus: 半导体.\nWhat to check: 可靠性与稳定性.\nContext: Electronic bistability, discontinuous switching and stochasticity in a two-dimensional semicond….",
       "reading_notes": "Focus: 半导体.\nWhat to check: 可靠性与稳定性.\nContext: Electronic bistability, discontinuous switching and stochasticity in a two-dimensional semicond…."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2608.11725v1",
+      "title": "Deep-Learning-Accelerated Dopant Selection for High-k HfO2 Dielectrics: A Disorder-Resolved Study of Y, Si and Al",
+      "url": "https://arxiv.org/abs/2608.11725v1",
+      "published": "2026-08-12",
+      "authors": [
+        "Zunair Masroor",
+        "Bonwook Gu",
+        "Wonjoong Kim",
+        "Trinh Ngoc Le",
+        "Summal Zoha",
+        "Han-Bo-Ram Lee"
+      ],
+      "summary": "Hafnium oxide (HfO2) is the cornerstone high-k dielectric in modern silicon technology. Since the constraints of silicon device fabrication rule out replacing the material itself, dopant incorporation is the principal means available to engineer its band gap and dielectric constant within existing process flows. However, dopant selection is still largely empirical due to the coupled interplay among thermodynamic stability, electronic insulation, and dielectric response. Here, we present a high-throughput computational framework integrating special quasi-random structures (SQS), machine-learning potentials (SevenNet), and graph neural networks (ALIGNN) to systematically evaluate doped-HfO2 compositions across three dopants (Al, Si, Y) and two technologically relevant polymorphs (monoclinic and orthorhombic). Our analysis uncovers a fundamental design principle: formation energy, band gap, and dielectric constant are decoupled parameters requiring application-specific prioritization rather than simultaneous optimization. Yttrium achieves the lowest formation energy (-3.763 eV/atom) and favors orthorhombic phase stabilization at process-compatible thermal budgets; silicon preserves near-pristine band gaps (around 5.72 eV) critical for suppressing leakage in gate dielectric applications; and aluminum enables concentration-tunable band gap widening (5.6-5.9 eV) suited for voltage scaling. Validation against experimental literature and density functional theory (DFT) confirms quantitative accuracy (0.02 eV band gap error for Si-doping, mean absolute error less than 0.001 eV/atom formation energy). This framework provides rational, property-decoupled guidance for dopant engineering in HfO2-based dielectrics and related high-k oxide systems.",
+      "score": 9,
+      "priority": 0,
+      "highlights": [
+        "dielectric",
+        "HfO2"
+      ],
+      "abstract_cn": "氧化铪（HfO2）是现代硅技术中的核心高 k 介电材料。由于硅器件制造的约束排除了直接替换该材料本身的可能性，在现有工艺流程内，掺杂引入是调控其带隙和介电常数的主要手段。然而，由于热力学稳定性、电子绝缘性和介电响应之间存在耦合关系，掺杂剂选择仍在很大程度上依赖经验。本文提出了一种高通量计算框架，集成特殊准随机结构（SQS）、机器学习势函数（SevenNet）和图神经网络（ALIGNN），对三种掺杂剂（Al、Si、Y）和两种具有技术相关性的多晶型（单斜相和正交相）中的掺杂 HfO2 组分进行了系统评估。我们的分析揭示了一项基本设计原则：形成能、带隙和介电常数是相互解耦的参数，应根据具体应用进行优先级排序，而非同步优化。钇具有最低的形成能（-3.763 eV/atom），并有利于在与工艺兼容的热预算下稳定正交相；硅可保持接近本征材料的带隙（约 5.72 eV），这对于栅介质应用中抑制漏电至关重要；铝则可实现随浓度可调的带隙增宽（5.6-5.9 eV），适用于电压缩放。与实验文献及密度泛函理论（DFT）的验证确认了该方法的定量准确性，包括 Si 掺杂时 0.02 eV 的带隙误差，以及小于 0.001 eV/atom 的平均绝对形成能误差。该框架为 HfO2 基介电材料及相关高 k 氧化物体系中的掺杂工程提供了理性的、基于性质解耦的指导。",
+      "abstract_zh": "氧化铪（HfO2）是现代硅技术中的核心高 k 介电材料。由于硅器件制造的约束排除了直接替换该材料本身的可能性，在现有工艺流程内，掺杂引入是调控其带隙和介电常数的主要手段。然而，由于热力学稳定性、电子绝缘性和介电响应之间存在耦合关系，掺杂剂选择仍在很大程度上依赖经验。本文提出了一种高通量计算框架，集成特殊准随机结构（SQS）、机器学习势函数（SevenNet）和图神经网络（ALIGNN），对三种掺杂剂（Al、Si、Y）和两种具有技术相关性的多晶型（单斜相和正交相）中的掺杂 HfO2 组分进行了系统评估。我们的分析揭示了一项基本设计原则：形成能、带隙和介电常数是相互解耦的参数，应根据具体应用进行优先级排序，而非同步优化。钇具有最低的形成能（-3.763 eV/atom），并有利于在与工艺兼容的热预算下稳定正交相；硅可保持接近本征材料的带隙（约 5.72 eV），这对于栅介质应用中抑制漏电至关重要；铝则可实现随浓度可调的带隙增宽（5.6-5.9 eV），适用于电压缩放。与实验文献及密度泛函理论（DFT）的验证确认了该方法的定量准确性，包括 Si 掺杂时 0.02 eV 的带隙误差，以及小于 0.001 eV/atom 的平均绝对形成能误差。该框架为 HfO2 基介电材料及相关高 k 氧化物体系中的掺杂工程提供了理性的、基于性质解耦的指导。",
+      "overview_cn": "Focus: 介电材料、HfO2.\nWhat to check: 可靠性与稳定性、先进尺度下的可扩展性、功耗或能效表现.\nContext: Deep-Learning-Accelerated Dopant Selection for High-k HfO2 Dielectrics: A Disorder-Resolved Stu….",
+      "reading_notes": "Focus: 介电材料、HfO2.\nWhat to check: 可靠性与稳定性、先进尺度下的可扩展性、功耗或能效表现.\nContext: Deep-Learning-Accelerated Dopant Selection for High-k HfO2 Dielectrics: A Disorder-Resolved Stu…."
     },
     {
       "source": "arXiv",
@@ -143,82 +192,37 @@
       "highlights": [
         "semiconductor"
       ],
-      "abstract_cn": "随着非晶氧化物半导体晶体管向低维沟道缩放，无序诱导局域化预计将变得愈发重要；然而，导致该输运机制的电子态仍难以通过实验加以解析。本文采用一种基于锁相放大的电场穿透技术，直接绘制了 In 基氧化物半导体薄膜晶体管（TFT）中的有效态密度（DOS）。提取获得的量子电容、载流子密度和化学势揭示了一种由无序主导的输运机制：其中带尾态并非仅为被动陷阱，而是变得具有屏蔽活性，并部分参与输运。依赖几何尺寸的 DOS 映射显示，有效 DOS 随沟道长度增加呈指数抑制，证明了尺寸依赖的带尾局域化，并为一种不同的局域化诱导阈值电压滚降机制提供了微观起源。温度依赖测量表明，无序主导的 DOS 在低温下被强烈抑制，而扩展的扩散态几乎保持不变，从而证实了其局域化起源。通过调节薄膜厚度、O$_2$ 退火以及 In/Ga/Zn 组分，我们进一步展示了对无序和有效 DOS 局域化的系统性抑制。本研究确立了直接 DOS 映射作为探测局域化物理的器件级方法，并为低维氧化物半导体电子器件中的无序工程提供了路径。",
-      "abstract_zh": "随着非晶氧化物半导体晶体管向低维沟道缩放，无序诱导局域化预计将变得愈发重要；然而，导致该输运机制的电子态仍难以通过实验加以解析。本文采用一种基于锁相放大的电场穿透技术，直接绘制了 In 基氧化物半导体薄膜晶体管（TFT）中的有效态密度（DOS）。提取获得的量子电容、载流子密度和化学势揭示了一种由无序主导的输运机制：其中带尾态并非仅为被动陷阱，而是变得具有屏蔽活性，并部分参与输运。依赖几何尺寸的 DOS 映射显示，有效 DOS 随沟道长度增加呈指数抑制，证明了尺寸依赖的带尾局域化，并为一种不同的局域化诱导阈值电压滚降机制提供了微观起源。温度依赖测量表明，无序主导的 DOS 在低温下被强烈抑制，而扩展的扩散态几乎保持不变，从而证实了其局域化起源。通过调节薄膜厚度、O$_2$ 退火以及 In/Ga/Zn 组分，我们进一步展示了对无序和有效 DOS 局域化的系统性抑制。本研究确立了直接 DOS 映射作为探测局域化物理的器件级方法，并为低维氧化物半导体电子器件中的无序工程提供了路径。",
+      "abstract_cn": "随着非晶氧化物半导体晶体管向低维沟道缩放，无序诱导局域化预计将变得日益重要，但导致该输运机制的电子态仍难以通过实验加以分辨。本文利用基于锁相放大的电场穿透技术，直接映射 In 基氧化物半导体薄膜晶体管（TFT）中的有效态密度（DOS）。所提取的量子电容、载流子密度和化学势揭示了一种由无序主导的输运机制：带尾态并非仅是被动陷阱，而是变得具有屏蔽活性并部分参与输运。依赖几何尺寸的 DOS 映射显示，有效 DOS 随沟道长度呈指数衰减，证明了尺寸依赖的带尾局域化，并为一种独特的局域化诱导阈值电压滚降机制提供了微观起源。温度依赖测量表明，无序主导的 DOS 在低温下被强烈抑制，而延展的扩散态几乎保持不变，从而证实了其局域化起源。通过调节薄膜厚度、O2 退火以及 In/Ga/Zn 组分，我们进一步展示了对无序和有效 DOS 局域化的系统性抑制。该工作确立了直接 DOS 映射作为器件层面探测局域化物理的手段，并为低维氧化物半导体电子学中的无序工程提供了路径。",
+      "abstract_zh": "随着非晶氧化物半导体晶体管向低维沟道缩放，无序诱导局域化预计将变得日益重要，但导致该输运机制的电子态仍难以通过实验加以分辨。本文利用基于锁相放大的电场穿透技术，直接映射 In 基氧化物半导体薄膜晶体管（TFT）中的有效态密度（DOS）。所提取的量子电容、载流子密度和化学势揭示了一种由无序主导的输运机制：带尾态并非仅是被动陷阱，而是变得具有屏蔽活性并部分参与输运。依赖几何尺寸的 DOS 映射显示，有效 DOS 随沟道长度呈指数衰减，证明了尺寸依赖的带尾局域化，并为一种独特的局域化诱导阈值电压滚降机制提供了微观起源。温度依赖测量表明，无序主导的 DOS 在低温下被强烈抑制，而延展的扩散态几乎保持不变，从而证实了其局域化起源。通过调节薄膜厚度、O2 退火以及 In/Ga/Zn 组分，我们进一步展示了对无序和有效 DOS 局域化的系统性抑制。该工作确立了直接 DOS 映射作为器件层面探测局域化物理的手段，并为低维氧化物半导体电子学中的无序工程提供了路径。",
       "overview_cn": "Focus: 半导体.\nWhat to check: 先进尺度下的可扩展性.\nContext: Size-Dependent Band-Tail Localization in Oxide Semiconductors Revealed by Direct Density-of-Sta….",
       "reading_notes": "Focus: 半导体.\nWhat to check: 先进尺度下的可扩展性.\nContext: Size-Dependent Band-Tail Localization in Oxide Semiconductors Revealed by Direct Density-of-Sta…."
     },
     {
-      "source": "Nature Materials",
-      "uid": "Nature Materials:10.1038/s41563-026-02704-5",
-      "title": "Controlling surface kinetics scales p-type two-dimensional semiconductors",
-      "url": "https://www.nature.com/articles/s41563-026-02704-5",
-      "published": "2026-08-10",
-      "authors": [],
-      "summary": "Nature Materials, Published online: 10 August 2026; doi:10.1038/s41563-026-02704-5 The precise control of surface and near-surface atomic kinetics produces environmentally stable p-type two-dimensional (2D) semiconductors at wafer scale, providing a pathway for the manufacture of scalable 2D complementary electronics.",
-      "score": 7,
-      "priority": 0,
-      "highlights": [
-        "semiconductor"
-      ],
-      "abstract_cn": "《Nature Materials》，在线发表于 2026 年 8 月 10 日；doi:10.1038/s41563-026-02704-5。对表面及近表面原子动力学的精确控制，可在晶圆尺度上制备环境稳定的 p 型二维（2D）半导体，为可扩展二维互补电子学的制造提供了一条路径。",
-      "abstract_zh": "《Nature Materials》，在线发表于 2026 年 8 月 10 日；doi:10.1038/s41563-026-02704-5。对表面及近表面原子动力学的精确控制，可在晶圆尺度上制备环境稳定的 p 型二维（2D）半导体，为可扩展二维互补电子学的制造提供了一条路径。",
-      "overview_cn": "Focus: 半导体.\nWhat to check: 可靠性与稳定性.\nContext: Controlling surface kinetics scales p-type two-dimensional semiconductors.",
-      "reading_notes": "Focus: 半导体.\nWhat to check: 可靠性与稳定性.\nContext: Controlling surface kinetics scales p-type two-dimensional semiconductors."
-    },
-    {
       "source": "arXiv",
-      "uid": "arxiv:2608.11102v1",
-      "title": "Stable Glasses of Organic Semiconductor Resist Crystallization",
-      "url": "https://arxiv.org/abs/2608.11102v1",
+      "uid": "arxiv:2608.12152v1",
+      "title": "The electrical transport of intrinsic two-dimensional ferroelectric metal PtBi2",
+      "url": "https://arxiv.org/abs/2608.12152v1",
       "published": "2026-08-12",
       "authors": [
-        "Kushal Bagchi",
-        "Marie E. Fiori",
-        "Camille Bishop",
-        "M. F. Toney",
-        "M. D. Ediger"
+        "Dan Li",
+        "Liu Yang",
+        "Lei Li"
       ],
-      "summary": "The instability of glassy solids poses a key limitation to their use in several technological applications. Well-packed organic glasses, prepared by physical vapor deposition (PVD), have drawn attention recently because they can exhibit significantly higher thermal and chemical stability than glasses prepared from more traditional routes. We show here that PVD glasses can also show enhanced resistance to crystallization. By controlling the deposition temperature, resistance towards crystallization can be enhanced by at least a factor of ten in PVD glasses of the model organic semiconductor Alq3 (Tris(8-hydroxyquinolinato) aluminum). PVD glasses of Alq3 first transform into a supercooled liquid before crystallizing. By controlling the deposition temperature, we increase the glass to liquid transformation time thereby also increasing the overall time for crystallization. We thus demonstrate a new strategy to stabilize glasses of organic semiconductors against crystallization, which is a common failure mechanism in OLED (organic light emitting diode) devices.",
-      "score": 6,
-      "priority": 0,
-      "highlights": [
-        "semiconductor"
-      ],
-      "abstract_cn": "玻璃态固体的不稳定性是其在多种技术应用中使用时面临的关键限制。通过物理气相沉积（PVD）制备的高致密堆积有机玻璃近年来受到关注，因为它们相较于通过传统方法制备的玻璃可表现出显著更高的热稳定性和化学稳定性。本文表明，PVD 玻璃同样可表现出增强的抗结晶能力。通过控制沉积温度，模型有机半导体 Alq3［三（8-羟基喹啉合）铝，Tris(8-hydroxyquinolinato) aluminum］的 PVD 玻璃对结晶的抵抗能力可提高至少十倍。Alq3 的 PVD 玻璃在结晶之前，首先转变为过冷液体。通过控制沉积温度，我们延长了玻璃向液体转变所需的时间，进而也延长了整体结晶时间。因此，我们展示了一种使有机半导体玻璃免于结晶的新策略；结晶是 OLED（有机发光二极管）器件中常见的失效机制。",
-      "abstract_zh": "玻璃态固体的不稳定性是其在多种技术应用中使用时面临的关键限制。通过物理气相沉积（PVD）制备的高致密堆积有机玻璃近年来受到关注，因为它们相较于通过传统方法制备的玻璃可表现出显著更高的热稳定性和化学稳定性。本文表明，PVD 玻璃同样可表现出增强的抗结晶能力。通过控制沉积温度，模型有机半导体 Alq3［三（8-羟基喹啉合）铝，Tris(8-hydroxyquinolinato) aluminum］的 PVD 玻璃对结晶的抵抗能力可提高至少十倍。Alq3 的 PVD 玻璃在结晶之前，首先转变为过冷液体。通过控制沉积温度，我们延长了玻璃向液体转变所需的时间，进而也延长了整体结晶时间。因此，我们展示了一种使有机半导体玻璃免于结晶的新策略；结晶是 OLED（有机发光二极管）器件中常见的失效机制。",
-      "overview_cn": "Focus: 半导体.\nWhat to check: 性能提升、可靠性与稳定性、接触/互连相关指标.\nContext: Stable Glasses of Organic Semiconductor Resist Crystallization.",
-      "reading_notes": "Focus: 半导体.\nWhat to check: 性能提升、可靠性与稳定性、接触/互连相关指标.\nContext: Stable Glasses of Organic Semiconductor Resist Crystallization."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2608.09300v1",
-      "title": "Polarization engineered all 2D Graphene/Ferroelectric hybrid for persistence-free photoresponse",
-      "url": "https://arxiv.org/abs/2608.09300v1",
-      "published": "2026-08-10",
-      "authors": [
-        "Navkiranjot Kaur Gill",
-        "Shaili Sett",
-        "Saloni Kakkar",
-        "Kenji Watanabe",
-        "Takashi Taniguchi",
-        "Arindam Ghosh"
-      ],
-      "summary": "Graphene-based van der Waals hybrid photodetectors typically work on trap-mediated photogating mechanism, exhibiting high sensitivity, but under-perform in the fast detection of repetitive optical signals. Designing photodetectors that are simultaneously fast and highly sensitive has therefore remained difficult. In this work, we realize both attributes by integrating atomically thin sliding ferroelectrics in the design architecture, thereby uniting semiconducting properties with intrinsic polarization fields capable of efficiently governing interfacial photocarrier dynamics. We report a bilayer graphene-bilayer MoS2 (with MoS2 in a rhombohedrally stacked (3R) configuration) van der Waals photodetector with edge-contacted dual-gated field-effect transistor architecture. The photo-induced modulation in spontaneous out-of-plane polarization of 3R-MoS2 and selective confinement of charge carriers in bilayer graphene under an out-of-plane displacement field results in a tunable persistence-free photoresponse. Here, the photoinduced polarization change in 3R-MoS2 produces an optically controlled gating effect that alters the electrostatic environment of bilayer graphene, resulting in a temperature-independent photoresponse with rapid response times of the order of 10's of milliseconds (limited by the measurement instrument). We demonstrate reproducible detection of optical signals and examine the photon-counting resolution of this structure in high-sensitivity regimes, where we determine its internal quantum efficiency to be 10 percent with minimum detectable photon number of 31 in single shot measurements. This work highlights the functionality of 3R-MoS2 in manipulating the interfacial charge dynamics and establishes the hybrid of graphene and ferroelectric 3R-MoS2 as a promising platform for ultra-sensitive optoelectronic devices.",
-      "score": 6,
+      "summary": "Breaking the conventional stereotype that ferroelectrics are necessarily insulating, two-dimensional (2D) ferroelectric metals combine seemingly incompatible switchable electric polarization and metallic conductivity, providing a fertile ground for the discovery of novel electrical transport phenomena and the development of innovative electronic devices. Using the semiclassical Boltzmann equation and first-principles calculations, we systematically investigate the linear and nonlinear transport responses of the intrinsic 2D ferroelectric metal \\ch{PtBi2} to an applied electric field. Our \\textit{ab initio} molecular dynamics simulations reveal that it possesses a high Curie temperature reaching $800~\\text{K}$. We propose that the crystal structure of its high-temperature paraelectric phase can be explicitly distinguished through simple measurements of the in-plane electrical conductivity. Quantitative calculations of the Edelstein effect and the intrinsic spin Hall effect demonstrate a sizable charge-to-spin conversion efficiency, highlighting its potential in spintronics. We also find that a Berry curvature dipole-induced nonlinear Hall effect emerges in uniaxially strained \\ch{PtBi2}. Furthermore, we highlight the unique advantages of 2D ferroelectric metals in gate-controlled transport applications. Based on the domain wall scattering mechanism, we conceptually design a novel ferroelectric metal field-effect transistor (FEM-FET) capable of nonvolatile switching between high-resistance and low-resistance states under a gate voltage. Our work not only unveils the rich transport physics in 2D ferroelectric metals but also provides valuable insights into the design of next-generation nonvolatile memory and spintronic devices.",
+      "score": 8,
       "priority": 0,
       "highlights": [
         "ferroelectric"
       ],
-      "abstract_cn": "基于石墨烯的范德华异质光探测器通常依赖陷阱介导的光栅控机制工作，具有高灵敏度，但在快速探测重复光信号方面表现不足。因此，同时设计兼具高速和高灵敏度的光探测器一直颇具挑战。在本工作中，我们通过在器件设计架构中集成原子级薄的滑移铁电体，实现了这两种特性，从而将半导体性质与能够高效调控界面光生载流子动力学的本征极化场相结合。我们报道了一种双层石墨烯-双层 MoS$_2$ 范德华光探测器，其中 MoS$_2$ 采用菱方堆垛（3R）构型，器件具有边缘接触的双栅场效应晶体管结构。在垂直位移场下，3R-MoS$_2$ 自发面外极化的光诱导调制，以及电荷载流子在双层石墨烯中的选择性限域，共同产生了可调的无持续性光响应。这里，3R-MoS$_2$ 中光诱导的极化变化产生光学可控的栅控效应，改变双层石墨烯的静电环境，从而实现与温度无关的光响应，其快速响应时间约为数十毫秒量级（受测量仪器限制）。我们展示了对光信号的可重复探测，并在高灵敏度工作区间考察了该结构的光子计数分辨能力；在单次测量中，测得其内部量子效率为 10%，最小可探测光子数为 31。本工作突出了 3R-MoS$_2$ 在调控界面电荷动力学方面的功能，并确立了石墨烯与铁电 3R-MoS$_2$ 异质结构作为超高灵敏度光电子器件的有前景平台。",
-      "abstract_zh": "基于石墨烯的范德华异质光探测器通常依赖陷阱介导的光栅控机制工作，具有高灵敏度，但在快速探测重复光信号方面表现不足。因此，同时设计兼具高速和高灵敏度的光探测器一直颇具挑战。在本工作中，我们通过在器件设计架构中集成原子级薄的滑移铁电体，实现了这两种特性，从而将半导体性质与能够高效调控界面光生载流子动力学的本征极化场相结合。我们报道了一种双层石墨烯-双层 MoS$_2$ 范德华光探测器，其中 MoS$_2$ 采用菱方堆垛（3R）构型，器件具有边缘接触的双栅场效应晶体管结构。在垂直位移场下，3R-MoS$_2$ 自发面外极化的光诱导调制，以及电荷载流子在双层石墨烯中的选择性限域，共同产生了可调的无持续性光响应。这里，3R-MoS$_2$ 中光诱导的极化变化产生光学可控的栅控效应，改变双层石墨烯的静电环境，从而实现与温度无关的光响应，其快速响应时间约为数十毫秒量级（受测量仪器限制）。我们展示了对光信号的可重复探测，并在高灵敏度工作区间考察了该结构的光子计数分辨能力；在单次测量中，测得其内部量子效率为 10%，最小可探测光子数为 31。本工作突出了 3R-MoS$_2$ 在调控界面电荷动力学方面的功能，并确立了石墨烯与铁电 3R-MoS$_2$ 异质结构作为超高灵敏度光电子器件的有前景平台。",
-      "overview_cn": "Focus: 铁电材料.\nWhat to check: 效率/耦合表现.\nContext: Polarization engineered all 2D Graphene/Ferroelectric hybrid for persistence-free photoresponse.",
-      "reading_notes": "Focus: 铁电材料.\nWhat to check: 效率/耦合表现.\nContext: Polarization engineered all 2D Graphene/Ferroelectric hybrid for persistence-free photoresponse."
+      "abstract_cn": "突破铁电体必然为绝缘体的传统认知，二维（2D）铁电金属结合了看似不相容的可切换电极化和金属导电性，为发现新颖电输运现象及开发创新电子器件提供了肥沃平台。利用半经典玻尔兹曼方程和第一性原理计算，我们系统研究了本征二维铁电金属 PtBi2 对外加电场的线性和非线性输运响应。我们的从头算分子动力学模拟表明，其居里温度很高，可达 $800~\\text{K}$。我们提出，可通过简单测量面内电导率，明确区分其高温顺电相的晶体结构。对 Edelstein 效应和本征自旋霍尔效应的定量计算表明，该材料具有显著的电荷-自旋转换效率，凸显了其在自旋电子学中的潜力。我们还发现，在单轴应变的 PtBi2 中会出现由贝里曲率偶极矩诱导的非线性霍尔效应。此外，我们强调了二维铁电金属在栅控输运应用中的独特优势。基于畴壁散射机制，我们在概念上设计了一种新型铁电金属场效应晶体管（FEM-FET），能够在栅压作用下于高电阻态和低电阻态之间实现非易失性切换。我们的工作不仅揭示了二维铁电金属中丰富的输运物理，也为设计下一代非易失性存储器和自旋电子器件提供了有价值的见解。",
+      "abstract_zh": "突破铁电体必然为绝缘体的传统认知，二维（2D）铁电金属结合了看似不相容的可切换电极化和金属导电性，为发现新颖电输运现象及开发创新电子器件提供了肥沃平台。利用半经典玻尔兹曼方程和第一性原理计算，我们系统研究了本征二维铁电金属 PtBi2 对外加电场的线性和非线性输运响应。我们的从头算分子动力学模拟表明，其居里温度很高，可达 $800~\\text{K}$。我们提出，可通过简单测量面内电导率，明确区分其高温顺电相的晶体结构。对 Edelstein 效应和本征自旋霍尔效应的定量计算表明，该材料具有显著的电荷-自旋转换效率，凸显了其在自旋电子学中的潜力。我们还发现，在单轴应变的 PtBi2 中会出现由贝里曲率偶极矩诱导的非线性霍尔效应。此外，我们强调了二维铁电金属在栅控输运应用中的独特优势。基于畴壁散射机制，我们在概念上设计了一种新型铁电金属场效应晶体管（FEM-FET），能够在栅压作用下于高电阻态和低电阻态之间实现非易失性切换。我们的工作不仅揭示了二维铁电金属中丰富的输运物理，也为设计下一代非易失性存储器和自旋电子器件提供了有价值的见解。",
+      "overview_cn": "Focus: 铁电材料.\nWhat to check: 效率/耦合表现、接触/互连相关指标、与既有工艺平台的集成价值.\nContext: The electrical transport of intrinsic two-dimensional ferroelectric metal PtBi2.",
+      "reading_notes": "Focus: 铁电材料.\nWhat to check: 效率/耦合表现、接触/互连相关指标、与既有工艺平台的集成价值.\nContext: The electrical transport of intrinsic two-dimensional ferroelectric metal PtBi2."
     }
   ],
   "errors": [],
   "report_url": "/index.html",
   "report_url_pc": "/desktop.html",
   "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-08-13T00:30:00+00:00"
+  "generated_at": "2026-08-15T00:30:00+00:00"
 }
