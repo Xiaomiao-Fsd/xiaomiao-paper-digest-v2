@@ -1,228 +1,225 @@
 {
   "ok": true,
-  "new_count": 0,
+  "new_count": 31,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-08-16）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [arXiv] Vertical Gallium Oxide Isolated Source Electrode Field Effect Transistors (ISEFET) Without …\n   关键词：transistor, gallium oxide\n   日期：2026-08-13\n   Authors: Akilesh Srikanth, Md Saklain Morshed, Chandan Joishi 等\n   https://arxiv.org/abs/2608.12797v1\n2. [arXiv] Light Polarization Sensitive Transistor Action in the van der Waals ferroelectric 4H-SnS2\n   关键词：transistor, ferroelectric\n   日期：2026-08-11\n   Authors: Abhishek Bajgain, Rabindra Basnet, Subhashree Chatterjee 等\n   https://arxiv.org/abs/2608.10174v1\n3. [arXiv] Electron transport in a 1.6~nm-thick double-gated (100) silicon nanosheet: A theoretical st…\n   关键词：nanosheet\n   日期：2026-08-13\n   Authors: Shoaib Mansoori, Bimin Cai, Edward Chen 等\n   https://arxiv.org/abs/2608.12214v1\n4. [arXiv] 200 mm Wafer-Scale Monolithic 3D Integration of Atomic Layer-Deposited Oxide Semiconductors\n   关键词：semiconductor, wafer\n   日期：2026-08-10\n   Authors: Chang Niu, Linjia Long, Luqi Zheng 等\n   https://arxiv.org/abs/2608.09508v1\n5. [arXiv] Electronic bistability, discontinuous switching and stochasticity in a two-dimensional semi…\n   关键词：semiconductor\n   日期：2026-08-10\n   Authors: S. Jana, M. Kravtsov, A. Ermakov 等\n   https://arxiv.org/abs/2608.08828v1\n6. [arXiv] Deep-Learning-Accelerated Dopant Selection for High-k HfO2 Dielectrics: A Disorder-Resolved…\n   关键词：dielectric, HfO2\n   日期：2026-08-12\n   Authors: Zunair Masroor, Bonwook Gu, Wonjoong Kim 等\n   https://arxiv.org/abs/2608.11725v1\n7. [arXiv] Size-Dependent Band-Tail Localization in Oxide Semiconductors Revealed by Direct Density-of…\n   关键词：semiconductor\n   日期：2026-08-10\n   Authors: Chang Niu, Kisoo Nam, Aravindh Shankar 等\n   https://arxiv.org/abs/2608.09283v1\n8. [arXiv] The electrical transport of intrinsic two-dimensional ferroelectric metal PtBi2\n   关键词：ferroelectric\n   日期：2026-08-12\n   Authors: Dan Li, Liu Yang, Lei Li\n   https://arxiv.org/abs/2608.12152v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-09-04）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 1 篇\n1. ⭐ [arXiv] Rapid Charge Stability Diagram Generation from Device-level Modeling of Semiconductor Quant…\n   关键词：Intel, semiconductor\n   日期：2026-08-28\n   Authors: Ron Nodel, David W. Kanaar, Connor Nasseraddin 等\n   https://arxiv.org/abs/2608.28263v1\n2. [IEEE Electron Device Letters] Experimental Investigation of Gate-Switching Instability in SiC MOSFETs Under Mission-Profi…\n   关键词：MOSFET, SiC\n   日期：2026-09-01\n   Authors: Ruben Schnitzler, Tobias Fink, Dominik Koch 等\n   https://doi.org/10.1109/led.2026.3718537\n3. [arXiv] Coherent phononic frequency combs in ferroelectric CMOS oxides\n   关键词：CMOS, ferroelectric\n   日期：2026-08-29\n   Authors: Jinghan Gao, Shruti Mishra, Yilin Kou 等\n   https://arxiv.org/abs/2608.28956v1\n4. [IEEE Electron Device Letters] Ge/GeSn Quantum Well MOSFETs for Cryogenic Applications\n   关键词：MOSFET\n   日期：2026-09-01\n   Authors: Jingxuan Sun, Yi Han, Xue Bai 等\n   https://doi.org/10.1109/led.2026.3716584\n5. [IEEE Electron Device Letters] 3-D Stacked 3T DRAM Cell Employing CFET With Depletion Mode PMOS\n   关键词：CFET\n   日期：2026-09-01\n   Authors: Kwangsoo Kim, Seongjae Cho, Wonbo Shim\n   https://doi.org/10.1109/led.2026.3715468\n6. [IEEE Electron Device Letters] High-Performance Polycrystalline InSnZnO Thin-Film Transistors and Their Inverters\n   关键词：transistor\n   日期：2026-09-01\n   Authors: Xiaocheng Wang, Xiangcheng Liu, Lin Xu 等\n   https://doi.org/10.1109/led.2026.3717826\n7. [arXiv] Design and Modeling of the Charge Readout of a SiMOS Quantum Dot with a Single Electron Tra…\n   关键词：transistor\n   日期：2026-08-29\n   Authors: Adam Quinn, Troy England, Andrew Li 等\n   https://arxiv.org/abs/2608.28906v1\n8. [IEEE Electron Device Letters] Impact of Drain Bias on Degradation of Amorphous-InGaZnO Thin-Film Transistors\n   关键词：transistor\n   日期：2026-09-01\n   Authors: Jaewon Jang, Yun Seok Kye, Seungwon Go 等\n   https://doi.org/10.1109/led.2026.3711069",
   "papers": [
     {
       "source": "arXiv",
-      "uid": "arxiv:2608.12797v1",
-      "title": "Vertical Gallium Oxide Isolated Source Electrode Field Effect Transistors (ISEFET) Without Planarization or Mid-Gap Acceptor Blocking Layers",
-      "url": "https://arxiv.org/abs/2608.12797v1",
-      "published": "2026-08-13",
+      "uid": "arxiv:2608.28263v1",
+      "title": "Rapid Charge Stability Diagram Generation from Device-level Modeling of Semiconductor Quantum Dots",
+      "url": "https://arxiv.org/abs/2608.28263v1",
+      "published": "2026-08-28",
       "authors": [
-        "Akilesh Srikanth",
-        "Md Saklain Morshed",
-        "Chandan Joishi",
-        "Ahmad E. Islam",
-        "Siddharth Rajan"
+        "Ron Nodel",
+        "David W. Kanaar",
+        "Connor Nasseraddin",
+        "Tim J. Wilson",
+        "Hong-Wen Jiang",
+        "Jason R. Petta",
+        "Chris Anderson",
+        "Mark F. Gyure"
       ],
-      "summary": "We propose and demonstrate the first vertical Gallium oxide device architecture without the use of planarization etch back processes or mid-gap acceptor regions. The Isolated Source Electrode Field Effect Transistor (ISEFET) incorporates a dielectric blocking layer to access an isolated source pad extending from the top fin metal. Scaled multi-fin channels were formed by electron beam lithography with a width of 200 nm along with the source pads and then etched to a trench depth of ~1.2 um. The fabricated devices showed enhancement mode operation with threshold voltage of 2 V and on-off ratio > 1e7 with excellent gate modulation characteristics. The resulting device proved to be comparable to existing vertical transistors and suitable for high-throughput prototyping and large-scale manufacturing of future Gallium oxide and other wide bandgap semiconductor devices.",
-      "score": 14,
+      "summary": "Self-consistent Schrödinger-Poisson calculations are a powerful tool for predicting the behavior of layered semiconductor quantum dot devices. However, characterization of charge stability diagrams through fully simulated gate-voltage sweeps is computationally expensive. Combining a Multi-Domain Multi-Model (MDMM) approach with an automated tuning routine, we identify gate voltages associated with selected charge configurations. This small set of self-consistent simulations can be augmented with Full Configuration Interaction (FCI) energy calculations to extract charging energies, lever arms, and interdot Coulomb interactions to directly parameterize a Hubbard model for rapid charge stability diagram generation. For an Intel Tunnel Falls Si/SiGe device, we demonstrate the Hubbard model's ability to reproduce charge stability diagrams at a fraction of the computational cost in comparison to voltage bias sweeps. We further compare the simulated diagrams to experimental data and demonstrate qualitative agreement. Our result represents a step towards predictive digital twin models for semiconductor quantum dot devices. Finally, we apply this workflow towards lever arm engineering in a second device, demonstrating that the method extends to multiple architectures.",
+      "score": 11,
+      "priority": 3,
+      "highlights": [
+        "Intel",
+        "semiconductor"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体方向，围绕“Rapid Charge Stability Diagram Generation from Device-level Modeling of Semicon…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体方向，围绕“Rapid Charge Stability Diagram Generation from Device-level Modeling of Semicon…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 半导体.\nWhat to check: 可靠性与稳定性、功耗或能效表现.\nContext: Rapid Charge Stability Diagram Generation from Device-level Modeling of Semiconductor Quantum D….",
+      "reading_notes": "Focus: 半导体.\nWhat to check: 可靠性与稳定性、功耗或能效表现.\nContext: Rapid Charge Stability Diagram Generation from Device-level Modeling of Semiconductor Quantum D…."
+    },
+    {
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3718537",
+      "title": "Experimental Investigation of Gate-Switching Instability in SiC MOSFETs Under Mission-Profile-Related Non-Monotonic Stress",
+      "url": "https://doi.org/10.1109/led.2026.3718537",
+      "published": "2026-09-01",
+      "authors": [
+        "Ruben Schnitzler",
+        "Tobias Fink",
+        "Dominik Koch",
+        "Diane Bonkoungou",
+        "Ingmar Kallfass"
+      ],
+      "summary": "In high-power-density and efficient power electronic systems, SiC MOSFETs are increasingly used for their superior performance. However, their gate oxide/semiconductor interface remains challenging, and additional degradation mechanisms, such as gate-switching instability (GSI), occur. Extensive monotonic-stress studies have shown that negative gate-source voltage peaks dominate GSI-related degradation, even when occurring only during undershoots. Consequently, degradation depends on the mission profile because gate-voltage undershoot varies with gate resistance, gate-loop inductance, and drain current. However, the resulting non-monotonic GSI-related degradation has not been thoroughly investigated. This letter demonstrates that accounting for gate undershoots is crucial for estimating degradation over the component’s lifetime, as the pre-existing degradation level strongly influences further degradation. This behavior applies to both GSI-related defect activation and deactivation. Furthermore, defect deactivation is highly dependent on the positive gate-source voltage, and after a stress change, even 600 mV of degradation recovers to the degradation obtained under monotonic stress at the same gate-source voltage within ${2}\\!\\cdot\\!{10}^{{11}}$ switching cycles. Additionally, GSI-related defect activation strongly depends on the degradation level, and consequently, mission-profile-related gate-voltage undershoots must be considered, even if they occur only during 5% of the mission profile.",
+      "score": 13,
       "priority": 2,
       "highlights": [
-        "transistor",
-        "gallium oxide"
+        "MOSFET",
+        "SiC"
       ],
-      "abstract_cn": "我们提出并演示了首种无需采用平坦化刻蚀回退工艺或中禁带受主区域的垂直氧化镓器件架构。该隔离源极电极场效应晶体管（ISEFET）引入介电阻挡层，以接入从顶部鳍状结构金属延伸出的隔离源极焊盘。通过电子束光刻形成了宽度为200 nm的缩放多鳍沟道及源极焊盘，随后刻蚀至约1.2 um的沟槽深度。所制备器件表现出增强型工作特性，阈值电压为2 V，开关比大于1e7，并具有优异的栅极调制特性。所得器件性能可与现有垂直晶体管相当，适用于未来氧化镓及其他宽禁带半导体器件的高通量原型开发和大规模制造。",
-      "abstract_zh": "我们提出并演示了首种无需采用平坦化刻蚀回退工艺或中禁带受主区域的垂直氧化镓器件架构。该隔离源极电极场效应晶体管（ISEFET）引入介电阻挡层，以接入从顶部鳍状结构金属延伸出的隔离源极焊盘。通过电子束光刻形成了宽度为200 nm的缩放多鳍沟道及源极焊盘，随后刻蚀至约1.2 um的沟槽深度。所制备器件表现出增强型工作特性，阈值电压为2 V，开关比大于1e7，并具有优异的栅极调制特性。所得器件性能可与现有垂直晶体管相当，适用于未来氧化镓及其他宽禁带半导体器件的高通量原型开发和大规模制造。",
-      "overview_cn": "Focus: 晶体管、gallium oxide.\nWhat to check: 性能提升、先进尺度下的可扩展性.\nContext: Vertical Gallium Oxide Isolated Source Electrode Field Effect Transistors (ISEFET) Without Plan….",
-      "reading_notes": "Focus: 晶体管、gallium oxide.\nWhat to check: 性能提升、先进尺度下的可扩展性.\nContext: Vertical Gallium Oxide Isolated Source Electrode Field Effect Transistors (ISEFET) Without Plan…."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、SiC方向，围绕“Experimental Investigation of Gate-Switching Instability in SiC MOSFETs Under M…”展开。摘要显示，文章重点涉及机理分析或模型解释，建议阅读时优先查看性能提升、可靠性与稳定性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、SiC方向，围绕“Experimental Investigation of Gate-Switching Instability in SiC MOSFETs Under M…”展开。摘要显示，文章重点涉及机理分析或模型解释，建议阅读时优先查看性能提升、可靠性与稳定性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: MOSFET、SiC.\nWhat to check: 性能提升、可靠性与稳定性、接触/互连相关指标.\nContext: Experimental Investigation of Gate-Switching Instability in SiC MOSFETs Under Mission-Profile-R….",
+      "reading_notes": "Focus: MOSFET、SiC.\nWhat to check: 性能提升、可靠性与稳定性、接触/互连相关指标.\nContext: Experimental Investigation of Gate-Switching Instability in SiC MOSFETs Under Mission-Profile-R…."
     },
     {
       "source": "arXiv",
-      "uid": "arxiv:2608.10174v1",
-      "title": "Light Polarization Sensitive Transistor Action in the van der Waals ferroelectric 4H-SnS2",
-      "url": "https://arxiv.org/abs/2608.10174v1",
-      "published": "2026-08-11",
+      "uid": "arxiv:2608.28956v1",
+      "title": "Coherent phononic frequency combs in ferroelectric CMOS oxides",
+      "url": "https://arxiv.org/abs/2608.28956v1",
+      "published": "2026-08-29",
       "authors": [
-        "Abhishek Bajgain",
-        "Rabindra Basnet",
-        "Subhashree Chatterjee",
-        "Alexander Samokhvalov",
-        "Ramesh C. Budhani"
+        "Jinghan Gao",
+        "Shruti Mishra",
+        "Yilin Kou",
+        "S M Enamul Hoque Yousuf",
+        "Hanna Cho",
+        "Roozbeh Tabrizian"
       ],
-      "summary": "Van der Waals (vdW) ferroelectric semiconductors provide a unique platform for exploring the interplay between spontaneous polarization, electronic transport, ion migration, and photocarrier generation at the nanoscale. Here, we establish a room-temperature ferroelectric state in SnS2 and its sensitivity to structural polytype by directly contrasting the centrosymmetric 2H-phase with the polar 4H-phase. Raman spectroscopy distinguishes the 2H and 4H polymorphs of SnS2 through their characteristic phonon fingerprints. Piezoresponse force microscopy confirms room-temperature ferroelectricity in the 4H phase, while the 2H phase exhibits no ferroelectric response. The built-in polarization in a three-terminal transistor device of the 4H-SnS2 is modulated significantly by electrostatic gating and on exposure to linear and circularly polarized light. This device reveals polarization-controlled output characteristics with distinct gate-voltage induced hysteretic response and thermally activated carrier transport, confirming p-type semiconducting behavior strongly coupled to ferroelectric polarization. The photoresponse likewise exhibits polarization-assisted carrier separation, sublinear power-law scaling, a nonmonotonic temperature response correlated with the characteristic Raman modes, ferroelectric hysteresis, and a pronounced dependence on the circular and linear polarization states of the incident laser beam. These results establish 4H-SnS2 as a promising material system for polarization-driven electronic and optoelectronic technologies, including nonvolatile memory and photoferroelectric functionalities.",
-      "score": 10,
+      "summary": "Modern electronic systems require tens of clock and carrier frequencies, each synthesized by a dedicated phase-locked loop from a shared reference, imposing routing, power and synchronization burdens that grow with every domain. Optical frequency combs solved this problem in photonics, whereas electronics has lacked an equivalent source in its native radiofrequency domain. Here we report broadband phononic frequency combs in ferroelectric hafnia-zirconia nanoelectromechanical resonators built from complementary metal-oxide-semiconductor (CMOS) oxides. Lithographically defined detuning of a 2:1 internal resonance selects the generation mechanism: two-tone-seeded wave mixing yields more than 170 lines distributed over two octaves, with mutual coherence verified for representative pump and generated lines, whereas an autonomous Hopf route yields hierarchical combs of more than 200 lines through torus and period-doubling dynamics, in agreement with slow-flow bifurcation theory. Geometric scaling extends comb generation across 0.44 GHz to 2.1 GHz. Heterodyne measurements, analyzed using the modified Allan deviation (MDEV), establish a two-timescale law. The mechanism governs short-term stability: seeded combs inherit the white-phase-noise scaling of their pumps, whereas autonomous combs acquire the phase diffusion of a free-running oscillator, with the one-second MDEV increasing from 1e-11 to 1e-8. The material governs long-term stability: in air and without active thermal control, the temperature-compensated stack suppresses the random-walk drift that dominates uncompensated resonators. These results establish mechanism- and material-level design rules for operating a single resonator as chip-scale frequency infrastructure, from multi-clock generation to radiofrequency parallel processing.",
+      "score": 11,
       "priority": 2,
       "highlights": [
-        "transistor",
+        "CMOS",
         "ferroelectric"
       ],
-      "abstract_cn": "范德华（vdW）铁电半导体为在纳米尺度探索自发极化、电子输运、离子迁移和光生载流子产生之间的相互作用提供了独特平台。本文通过直接对比中心对称的2H相与极性的4H相，建立了SnS2在室温下的铁电状态，并揭示了其对结构多型的敏感性。拉曼光谱可依据其特征声子指纹区分SnS2的2H和4H多晶型。压电响应力显微镜证实4H相在室温下具有铁电性，而2H相未表现出铁电响应。在4H-SnS2三端晶体管器件中，其内建极化可受到静电栅控以及线偏振和圆偏振光照射的显著调制。该器件展现出极化控制的输出特性，具有明显的栅压诱导滞回响应和热激发载流子输运，证实其为与铁电极化强耦合的p型半导体。其光响应同样表现出极化辅助的载流子分离、次线性幂律标度、与特征拉曼模相关的非单调温度响应、铁电滞回，以及对入射激光束圆偏振和线偏振状态的显著依赖性。这些结果确立了4H-SnS2作为极化驱动电子与光电子技术的有前景材料体系，包括非易失性存储器和光铁电功能。",
-      "abstract_zh": "范德华（vdW）铁电半导体为在纳米尺度探索自发极化、电子输运、离子迁移和光生载流子产生之间的相互作用提供了独特平台。本文通过直接对比中心对称的2H相与极性的4H相，建立了SnS2在室温下的铁电状态，并揭示了其对结构多型的敏感性。拉曼光谱可依据其特征声子指纹区分SnS2的2H和4H多晶型。压电响应力显微镜证实4H相在室温下具有铁电性，而2H相未表现出铁电响应。在4H-SnS2三端晶体管器件中，其内建极化可受到静电栅控以及线偏振和圆偏振光照射的显著调制。该器件展现出极化控制的输出特性，具有明显的栅压诱导滞回响应和热激发载流子输运，证实其为与铁电极化强耦合的p型半导体。其光响应同样表现出极化辅助的载流子分离、次线性幂律标度、与特征拉曼模相关的非单调温度响应、铁电滞回，以及对入射激光束圆偏振和线偏振状态的显著依赖性。这些结果确立了4H-SnS2作为极化驱动电子与光电子技术的有前景材料体系，包括非易失性存储器和光铁电功能。",
-      "overview_cn": "Focus: 晶体管、铁电材料.\nWhat to check: 先进尺度下的可扩展性.\nContext: Light Polarization Sensitive Transistor Action in the van der Waals ferroelectric 4H-SnS2.",
-      "reading_notes": "Focus: 晶体管、铁电材料.\nWhat to check: 先进尺度下的可扩展性.\nContext: Light Polarization Sensitive Transistor Action in the van der Waals ferroelectric 4H-SnS2."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS、铁电材料方向，围绕“Coherent phononic frequency combs in ferroelectric CMOS oxides”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、先进尺度下的可扩展性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS、铁电材料方向，围绕“Coherent phononic frequency combs in ferroelectric CMOS oxides”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、先进尺度下的可扩展性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: CMOS、铁电材料.\nWhat to check: 可靠性与稳定性、先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Coherent phononic frequency combs in ferroelectric CMOS oxides.",
+      "reading_notes": "Focus: CMOS、铁电材料.\nWhat to check: 可靠性与稳定性、先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Coherent phononic frequency combs in ferroelectric CMOS oxides."
     },
     {
-      "source": "arXiv",
-      "uid": "arxiv:2608.12214v1",
-      "title": "Electron transport in a 1.6~nm-thick double-gated (100) silicon nanosheet: A theoretical study accounting for phonon confinement and remote-phonon scattering",
-      "url": "https://arxiv.org/abs/2608.12214v1",
-      "published": "2026-08-13",
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3716584",
+      "title": "Ge/GeSn Quantum Well MOSFETs for Cryogenic Applications",
+      "url": "https://doi.org/10.1109/led.2026.3716584",
+      "published": "2026-09-01",
       "authors": [
-        "Shoaib Mansoori",
-        "Bimin Cai",
-        "Edward Chen",
-        "Dallin O. Nielsen",
-        "Massimo V. Fischetti"
+        "Jingxuan Sun",
+        "Yi Han",
+        "Xue Bai",
+        "Prateek Kaul",
+        "Yannik Junk",
+        "Jiayuan Zhang",
+        "Yu-Tzu Liao",
+        "Yu-Chen Chang",
+        "Anjana Rajan",
+        "Rafal E. Dunin-Borkowski",
+        "Detlev Grutzmacher",
+        "Joachim Knoch",
+        "Dan Buca",
+        "Qing-Tai Zhao"
       ],
-      "summary": "We study theoretically electron transport in an top-and bottom-gated (100) 1.6 nm-thin silicon nanosheet with SiO2/HfO2 gate stacks, focusing on the intrinsic physical processes that affect transport: the confinement of phonons and the presence of interface hybrid plasmon-phonon excitations (IPPs or `remote phonons'). The band structure is calculated using local empirical pseudopotentials; an approximated elastic continuum model is used to consider the confinement of acoustic phonons; the dielectric continuum limit is used to deal with the IPPs. We find that the electron mobility is affected significantly by the boundary conditions chosen to deal with phonon confinement. The more realistic assumption of phonons clamped at the SiO2/HfO2 interfaces and optical phonons at the Si/SiO2 interfaces results in a room temperature mobility much smaller than what is obtained using the common assumption of bulk phonons in the elastic, high-temperature approximation. We also find that, as a result of the complicated structure of the primed subbands, the high-field saturated velocity is significantly lower than its bulk value, as it had been measured in the past in the case of Si inversion layers but never explained theoretically. Finally, we find that IPP scattering does depress the low-field mobility but to a small extent, thanks to the presence of the interfacial SiO2 layers and to the proximity of the metal gates. Moreover, by keeping electrons `cooler', IPP scattering results in a higher saturated velocity. Therefore, the presence of high-kappa materials in the gate-insulator stacks should not affect negatively the performance of field effect transistors based on Si nanosheets.",
-      "score": 13,
+      "summary": "Cryogenic CMOS provides critical performance benefits for high-performance computing, space electronics, and quantum interfaces due to enhanced carrier mobility and steeper subthreshold swing (SS). However, the band-tail effect limits the device performance at cryogenic temperatures. In this work, Ge/GeSn quantum well (QW) p-MOSFETs are studied from 300 K down to 5 K. Owing to the QW confinement and the presence of a Ge cap layer, interface-related band-tail states are significantly suppressed. As a result, the Ge/Ge 0.88 Sn 0.12 QW device exhibits a continuously decreasing SS, reaching 15 mV/dec at 5 K, which is the lowest reported SS among the Ge-based p-MOSFETs. This work highlights GeSn QW engineering as an effective strategy for cryogenic CMOS applications.",
+      "score": 11,
       "priority": 1,
       "highlights": [
-        "nanosheet"
+        "MOSFET"
       ],
-      "abstract_cn": "我们从理论上研究了采用SiO2/HfO2栅叠层的顶栅和底栅（100）取向、厚度为1.6 nm硅纳米片中的电子输运，重点考察影响输运的内禀物理过程：声子限域以及界面混合等离激元-声子激发（IPP，或称“远程声子”）的存在。采用局域经验赝势计算能带结构；采用近似弹性连续介质模型考虑声学声子的限域；采用介电连续介质极限处理IPP。我们发现，电子迁移率会受到为处理声子限域而选取的边界条件的显著影响。相比于通常采用的弹性高温近似下体声子假设，更符合实际的假设，即声子在SiO2/HfO2界面处被钳制、光学声子在Si/SiO2界面处被钳制，会导致显著更低的室温迁移率。我们还发现，由于带撇号子带的复杂结构，高场饱和速度显著低于其体材料数值；过去在Si反型层中已对此进行了测量，但从未得到理论解释。最后，我们发现IPP散射确实会降低低场迁移率，但幅度较小，这得益于界面SiO2层的存在以及金属栅的邻近性。此外，IPP散射通过使电子保持“更冷”的状态，可带来更高的饱和速度。因此，栅介质叠层中高-k材料的存在不应对基于Si纳米片的场效应晶体管性能产生负面影响。",
-      "abstract_zh": "我们从理论上研究了采用SiO2/HfO2栅叠层的顶栅和底栅（100）取向、厚度为1.6 nm硅纳米片中的电子输运，重点考察影响输运的内禀物理过程：声子限域以及界面混合等离激元-声子激发（IPP，或称“远程声子”）的存在。采用局域经验赝势计算能带结构；采用近似弹性连续介质模型考虑声学声子的限域；采用介电连续介质极限处理IPP。我们发现，电子迁移率会受到为处理声子限域而选取的边界条件的显著影响。相比于通常采用的弹性高温近似下体声子假设，更符合实际的假设，即声子在SiO2/HfO2界面处被钳制、光学声子在Si/SiO2界面处被钳制，会导致显著更低的室温迁移率。我们还发现，由于带撇号子带的复杂结构，高场饱和速度显著低于其体材料数值；过去在Si反型层中已对此进行了测量，但从未得到理论解释。最后，我们发现IPP散射确实会降低低场迁移率，但幅度较小，这得益于界面SiO2层的存在以及金属栅的邻近性。此外，IPP散射通过使电子保持“更冷”的状态，可带来更高的饱和速度。因此，栅介质叠层中高-k材料的存在不应对基于Si纳米片的场效应晶体管性能产生负面影响。",
-      "overview_cn": "Focus: nanosheet.\nWhat to check: 性能提升、先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Electron transport in a 1.6~nm-thick double-gated (100) silicon nanosheet: A theoretical study ….",
-      "reading_notes": "Focus: nanosheet.\nWhat to check: 性能提升、先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Electron transport in a 1.6~nm-thick double-gated (100) silicon nanosheet: A theoretical study …."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET方向，围绕“Ge/GeSn Quantum Well MOSFETs for Cryogenic Applications”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看性能提升、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET方向，围绕“Ge/GeSn Quantum Well MOSFETs for Cryogenic Applications”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看性能提升、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: MOSFET.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: Ge/GeSn Quantum Well MOSFETs for Cryogenic Applications.",
+      "reading_notes": "Focus: MOSFET.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: Ge/GeSn Quantum Well MOSFETs for Cryogenic Applications."
     },
     {
-      "source": "arXiv",
-      "uid": "arxiv:2608.09508v1",
-      "title": "200 mm Wafer-Scale Monolithic 3D Integration of Atomic Layer-Deposited Oxide Semiconductors",
-      "url": "https://arxiv.org/abs/2608.09508v1",
-      "published": "2026-08-10",
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3715468",
+      "title": "3-D Stacked 3T DRAM Cell Employing CFET With Depletion Mode PMOS",
+      "url": "https://doi.org/10.1109/led.2026.3715468",
+      "published": "2026-09-01",
       "authors": [
-        "Chang Niu",
-        "Linjia Long",
-        "Luqi Zheng",
-        "Shuting Du",
-        "Jian-Yu Lin",
-        "Kisoo Nam",
-        "Zehao Lin",
-        "Chang Liu",
-        "Juanjuan Lu",
-        "Haiyan Wang",
-        "Haitong Li",
-        "Peide D. Ye"
+        "Kwangsoo Kim",
+        "Seongjae Cho",
+        "Wonbo Shim"
       ],
-      "summary": "Monolithic 3D (M3D) integration offers a pathway to overcome the scaling limits of conventional silicon complementary metal-oxide-semiconductor (CMOS) technology by extending dense vertical stacking of multifunctional logic and memory devices. Here, we demonstrate wafer-scale M3D integration of three tiers of atomic-layer-deposited (ALD) indium oxide (InOx)-based devices (>100,000 fabricated), including ferroelectric, enhancement-mode, and depletion-mode field-effect transistors, on 200 mm silicon wafers. We achieve threshold voltage standard deviation as low as 0.04 V, average electron mobility up to 91.6 cm2V-1s-1, and fully functional cross-tier circuits. A four-tier 3D computing-in-memory (CIM) accelerator targeting large language model workloads is developed using a custom InOx process design kit, delivering 1.4x to 2.9x speedup and comparable energy-delay product improvements over 2D baselines. These results establish ALD InOx M3D integration as a scalable and CMOS-compatible platform for next-generation artificial intelligence hardware and advanced electronics.",
-      "score": 14,
-      "priority": 0,
+      "summary": "Conventional capacitor-less two-transistor dynamic random access memory (2T DRAM) suffers from storage node (SN) retention degradation and capacitive coupling, which induces read current variation and lowers computational accuracy. To address this, we propose a 3D stacked 3T DRAM cell featuring an In-Ga-Zn-O (IGZO) vertical channel transistor (VCT) as a write transistor and a Si complementary field effect transistor (CFET) read transistor composed of an enhancement mode NMOS and a depletion mode PMOS. The ultra-low leakage IGZO channel fundamentally improves retention. Simultaneously, the depletion mode PMOS compensates for read current reductions as SN voltage decreases. Simulations using Sentaurus TCAD and a customized framework verify that the proposed device stabilizes the read current and maintains CIFAR-10 inference accuracy degradation under 3 % for up to 8300 seconds, significantly outperforming prior works.",
+      "score": 11,
+      "priority": 1,
       "highlights": [
-        "semiconductor",
-        "wafer"
+        "CFET"
       ],
-      "abstract_cn": "单片三维（M3D）集成为突破传统硅互补金属氧化物半导体（CMOS）技术的缩放极限提供了一条路径，其方式是实现多功能逻辑与存储器件的高密度垂直堆叠。本文在200 mm硅晶圆上演示了三层基于原子层沉积（ALD）氧化铟（InOx）的器件的晶圆级M3D集成（制备器件超过100,000个），其中包括铁电型、增强型和耗尽型场效应晶体管。我们实现了低至0.04 V的阈值电压标准差、最高达91.6 cm2V-1s-1的平均电子迁移率，以及完全可工作的跨层电路。利用定制的InOx工艺设计套件，开发了一种面向大语言模型工作负载的四层三维存内计算（CIM）加速器；相较于二维基线，其速度提升达到1.4倍至2.9倍，并实现了可比的能量-延迟乘积改进。这些结果表明，ALD InOx M3D集成是面向下一代人工智能硬件和先进电子技术的可扩展、兼容CMOS的平台。",
-      "abstract_zh": "单片三维（M3D）集成为突破传统硅互补金属氧化物半导体（CMOS）技术的缩放极限提供了一条路径，其方式是实现多功能逻辑与存储器件的高密度垂直堆叠。本文在200 mm硅晶圆上演示了三层基于原子层沉积（ALD）氧化铟（InOx）的器件的晶圆级M3D集成（制备器件超过100,000个），其中包括铁电型、增强型和耗尽型场效应晶体管。我们实现了低至0.04 V的阈值电压标准差、最高达91.6 cm2V-1s-1的平均电子迁移率，以及完全可工作的跨层电路。利用定制的InOx工艺设计套件，开发了一种面向大语言模型工作负载的四层三维存内计算（CIM）加速器；相较于二维基线，其速度提升达到1.4倍至2.9倍，并实现了可比的能量-延迟乘积改进。这些结果表明，ALD InOx M3D集成是面向下一代人工智能硬件和先进电子技术的可扩展、兼容CMOS的平台。",
-      "overview_cn": "Focus: 半导体、wafer.\nWhat to check: 性能提升、先进尺度下的可扩展性、功耗或能效表现.\nContext: 200 mm Wafer-Scale Monolithic 3D Integration of Atomic Layer-Deposited Oxide Semiconductors.",
-      "reading_notes": "Focus: 半导体、wafer.\nWhat to check: 性能提升、先进尺度下的可扩展性、功耗或能效表现.\nContext: 200 mm Wafer-Scale Monolithic 3D Integration of Atomic Layer-Deposited Oxide Semiconductors."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CFET方向，围绕“3-D Stacked 3T DRAM Cell Employing CFET With Depletion Mode PMOS”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看性能提升、效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CFET方向，围绕“3-D Stacked 3T DRAM Cell Employing CFET With Depletion Mode PMOS”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看性能提升、效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: CFET.\nWhat to check: 性能提升、效率/耦合表现.\nContext: 3-D Stacked 3T DRAM Cell Employing CFET With Depletion Mode PMOS.",
+      "reading_notes": "Focus: CFET.\nWhat to check: 性能提升、效率/耦合表现.\nContext: 3-D Stacked 3T DRAM Cell Employing CFET With Depletion Mode PMOS."
     },
     {
-      "source": "arXiv",
-      "uid": "arxiv:2608.08828v1",
-      "title": "Electronic bistability, discontinuous switching and stochasticity in a two-dimensional semiconductor",
-      "url": "https://arxiv.org/abs/2608.08828v1",
-      "published": "2026-08-10",
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3717826",
+      "title": "High-Performance Polycrystalline InSnZnO Thin-Film Transistors and Their Inverters",
+      "url": "https://doi.org/10.1109/led.2026.3717826",
+      "published": "2026-09-01",
       "authors": [
-        "S. Jana",
-        "M. Kravtsov",
-        "A. Ermakov",
-        "X. Zhou",
-        "A. Kudriashov",
-        "L. Elesin",
-        "X. Zhou",
-        "A. L. Shilov",
-        "D. A. Svintsov",
-        "T. Taniguchi",
-        "K. Watanabe",
-        "K. S. Novoselov",
-        "A. Avsar",
-        "A. Principi",
-        "D. A. Bandurin"
+        "Xiaocheng Wang",
+        "Xiangcheng Liu",
+        "Lin Xu",
+        "Peizheng Yang",
+        "Banghua Xiong",
+        "Wei Zhong",
+        "Fion Sze Yan Yeung",
+        "Hoi Sing Kwok",
+        "Rongsheng Chen"
       ],
-      "summary": "Bistability - two stable electronic states under the same bias - underlies switching and memory, but is usually absent in transistors and must be engineered through material means: doped tunnel junctions, filaments in memristors, or phase transitions. Here we demonstrate a transistor with intrinsic electronic bistability in a single chemically homogeneous crystal. In dual-gated black phosphorus, whose band gap narrows under a perpendicular electric field due to a giant Stark effect, the gates not only modulate carrier density but also reshape the band profile, forming interband tunnel junctions in the channel. Transport across the two-gate parameter space reveals competing conduction regimes - diffusive, two tunnelling channels and Zener breakdown - whose interplay produces negative differential conductance and transconductance, discontinuous switching, and hysteresis with the state set by gate history. Moreover, the switching remains intrinsically stochastic, yet statistically stable within a narrow range of gate voltages, providing an electrically programmable source of randomness. Devices based on this principle should be realisable in other two-dimensional semiconductors, opening a route to next-generation computing architectures in which nonlinearity, switching, memory and stochasticity are integrated within a single electrostatically programmable element.",
+      "summary": "High-performance polycrystalline InSnZnO (poly-ITZO) thin-film transistors (TFTs) are fabricated at low- temperature annealing conditions ( $350~^{\\circ }$ C) via a novel Hafnium metal-induced crystallization (Hf-MIC) route, where ordered crystalline phase and suppressed oxygen defect play a critical role. The induced poly-ITZO TFTs show a high field-effect mobility ( $\\mu _{\\text {FE}}\\text {)}$ of 80.1 cm 2 /V $\\cdot $ s, and the threshold voltage shift ( $\\Delta $ V ${}_{\\text {TH}}\\text {)}$ is only 0.05 V under positive bias temperature stress (PBTS) stability with an electric field of 2.5 MV/cm at $60~^{\\circ }$ C for 3600 s. Notably, the poly-ITZO TFT achieves a trade-off between high mobility and excellent temperature stability. Owing to the superior electrical characteristics of poly-ITZO TFTs, a zero-V GS load inverter is built and achieves a high voltage gain of 1433 V/V at a supply voltage (V ${}_{\\text {DD}}\\text {)}$ of 10 V, which provides valuable insights for display scenarios and non-display applications of logic circuits.",
       "score": 10,
-      "priority": 0,
+      "priority": 1,
       "highlights": [
-        "semiconductor"
+        "transistor"
       ],
-      "abstract_cn": "双稳态，即在相同偏压下存在两个稳定电子状态，是开关和存储功能的基础；但它通常不存在于晶体管中，必须借助材料手段进行工程化实现，例如掺杂隧道结、忆阻器中的导电细丝或相变。本文展示了一种在单一化学均匀晶体中具有内禀电子双稳态的晶体管。在双栅黑磷中，其带隙会因巨大的斯塔克效应而在垂直电场作用下缩小；栅极不仅调制载流子密度，还会重塑能带轮廓，从而在沟道中形成带间隧道结。对二维栅极参数空间中的输运进行研究表明，扩散输运、两种隧穿通道和齐纳击穿等相互竞争的导电机制共同作用，产生负微分电导和负跨导、不连续开关以及由栅极历史决定状态的滞回现象。此外，该开关过程仍具有内禀随机性，但在狭窄的栅压范围内统计上稳定，从而提供了一种可电编程的随机性来源。基于该原理的器件应可在其他二维半导体中实现，为下一代计算架构开辟道路；在这类架构中，非线性、开关、存储和随机性被集成于单个可静电编程元件中。",
-      "abstract_zh": "双稳态，即在相同偏压下存在两个稳定电子状态，是开关和存储功能的基础；但它通常不存在于晶体管中，必须借助材料手段进行工程化实现，例如掺杂隧道结、忆阻器中的导电细丝或相变。本文展示了一种在单一化学均匀晶体中具有内禀电子双稳态的晶体管。在双栅黑磷中，其带隙会因巨大的斯塔克效应而在垂直电场作用下缩小；栅极不仅调制载流子密度，还会重塑能带轮廓，从而在沟道中形成带间隧道结。对二维栅极参数空间中的输运进行研究表明，扩散输运、两种隧穿通道和齐纳击穿等相互竞争的导电机制共同作用，产生负微分电导和负跨导、不连续开关以及由栅极历史决定状态的滞回现象。此外，该开关过程仍具有内禀随机性，但在狭窄的栅压范围内统计上稳定，从而提供了一种可电编程的随机性来源。基于该原理的器件应可在其他二维半导体中实现，为下一代计算架构开辟道路；在这类架构中，非线性、开关、存储和随机性被集成于单个可静电编程元件中。",
-      "overview_cn": "Focus: 半导体.\nWhat to check: 可靠性与稳定性.\nContext: Electronic bistability, discontinuous switching and stochasticity in a two-dimensional semicond….",
-      "reading_notes": "Focus: 半导体.\nWhat to check: 可靠性与稳定性.\nContext: Electronic bistability, discontinuous switching and stochasticity in a two-dimensional semicond…."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“High-Performance Polycrystalline InSnZnO Thin-Film Transistors and Their Invert…”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“High-Performance Polycrystalline InSnZnO Thin-Film Transistors and Their Invert…”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: High-Performance Polycrystalline InSnZnO Thin-Film Transistors and Their Inverters.",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: High-Performance Polycrystalline InSnZnO Thin-Film Transistors and Their Inverters."
     },
     {
       "source": "arXiv",
-      "uid": "arxiv:2608.11725v1",
-      "title": "Deep-Learning-Accelerated Dopant Selection for High-k HfO2 Dielectrics: A Disorder-Resolved Study of Y, Si and Al",
-      "url": "https://arxiv.org/abs/2608.11725v1",
-      "published": "2026-08-12",
+      "uid": "arxiv:2608.28906v1",
+      "title": "Design and Modeling of the Charge Readout of a SiMOS Quantum Dot with a Single Electron Transistor and CryoCMOS",
+      "url": "https://arxiv.org/abs/2608.28906v1",
+      "published": "2026-08-29",
       "authors": [
-        "Zunair Masroor",
-        "Bonwook Gu",
-        "Wonjoong Kim",
-        "Trinh Ngoc Le",
-        "Summal Zoha",
-        "Han-Bo-Ram Lee"
+        "Adam Quinn",
+        "Troy England",
+        "Andrew Li",
+        "Sharmila Mustari Nandita"
       ],
-      "summary": "Hafnium oxide (HfO2) is the cornerstone high-k dielectric in modern silicon technology. Since the constraints of silicon device fabrication rule out replacing the material itself, dopant incorporation is the principal means available to engineer its band gap and dielectric constant within existing process flows. However, dopant selection is still largely empirical due to the coupled interplay among thermodynamic stability, electronic insulation, and dielectric response. Here, we present a high-throughput computational framework integrating special quasi-random structures (SQS), machine-learning potentials (SevenNet), and graph neural networks (ALIGNN) to systematically evaluate doped-HfO2 compositions across three dopants (Al, Si, Y) and two technologically relevant polymorphs (monoclinic and orthorhombic). Our analysis uncovers a fundamental design principle: formation energy, band gap, and dielectric constant are decoupled parameters requiring application-specific prioritization rather than simultaneous optimization. Yttrium achieves the lowest formation energy (-3.763 eV/atom) and favors orthorhombic phase stabilization at process-compatible thermal budgets; silicon preserves near-pristine band gaps (around 5.72 eV) critical for suppressing leakage in gate dielectric applications; and aluminum enables concentration-tunable band gap widening (5.6-5.9 eV) suited for voltage scaling. Validation against experimental literature and density functional theory (DFT) confirms quantitative accuracy (0.02 eV band gap error for Si-doping, mean absolute error less than 0.001 eV/atom formation energy). This framework provides rational, property-decoupled guidance for dopant engineering in HfO2-based dielectrics and related high-k oxide systems.",
-      "score": 9,
-      "priority": 0,
+      "summary": "Single electron spin qubits trapped in SiMOS quantum dots are a promising technology for scaling to thousand- or million-qubit systems due to their compatibility with mature CMOS manufacturing processes. A readout system that combines a single electron transistor with a custom cryogenic CMOS amplification and digitization chain offers key advantages by avoiding the use of bulky RF components or room-temperature interconnects. We present design techniques and simulation results for an optimized qubit-SET cryoCMOS interface, culminating in the design of the QNDR1 ASIC, the first cryogenic readout ASIC designed under the Quandarum project, which targets the development of a many-channel spin qubit based detector for use in high energy physics.",
+      "score": 10,
+      "priority": 1,
       "highlights": [
-        "dielectric",
-        "HfO2"
+        "transistor"
       ],
-      "abstract_cn": "氧化铪（HfO2）是现代硅技术中的核心高-k介电材料。由于硅器件制造的约束排除了替换该材料本身的可能性，在现有工艺流程内，掺杂剂引入是调控其带隙和介电常数的主要可用手段。然而，由于热力学稳定性、电子绝缘性和介电响应之间存在耦合相互作用，掺杂剂选择在很大程度上仍依赖经验。本文提出了一种高通量计算框架，集成特殊准随机结构（SQS）、机器学习势函数（SevenNet）和图神经网络（ALIGNN），以系统评估三种掺杂剂（Al、Si、Y）及两种具有技术相关性的多晶型（单斜相和正交相）中的掺杂HfO2组成。我们的分析揭示了一项基本设计原则：形成能、带隙和介电常数是彼此解耦的参数，应按具体应用进行优先级排序，而非同时优化。钇具有最低的形成能（-3.763 eV/atom），并有利于在工艺兼容的热预算下稳定正交相；硅可保持接近本征材料的带隙（约5.72 eV），这对于抑制栅介质应用中的漏电至关重要；铝则可实现可随浓度调节的带隙拓宽（5.6-5.9 eV），适用于电压缩放。与实验文献及密度泛函理论（DFT）的对比验证了该方法的定量准确性，包括Si掺杂时0.02 eV的带隙误差，以及小于0.001 eV/atom的形成能平均绝对误差。该框架为HfO2基介电材料及相关高-k氧化物体系中的掺杂工程提供了合理的、性质解耦的指导。",
-      "abstract_zh": "氧化铪（HfO2）是现代硅技术中的核心高-k介电材料。由于硅器件制造的约束排除了替换该材料本身的可能性，在现有工艺流程内，掺杂剂引入是调控其带隙和介电常数的主要可用手段。然而，由于热力学稳定性、电子绝缘性和介电响应之间存在耦合相互作用，掺杂剂选择在很大程度上仍依赖经验。本文提出了一种高通量计算框架，集成特殊准随机结构（SQS）、机器学习势函数（SevenNet）和图神经网络（ALIGNN），以系统评估三种掺杂剂（Al、Si、Y）及两种具有技术相关性的多晶型（单斜相和正交相）中的掺杂HfO2组成。我们的分析揭示了一项基本设计原则：形成能、带隙和介电常数是彼此解耦的参数，应按具体应用进行优先级排序，而非同时优化。钇具有最低的形成能（-3.763 eV/atom），并有利于在工艺兼容的热预算下稳定正交相；硅可保持接近本征材料的带隙（约5.72 eV），这对于抑制栅介质应用中的漏电至关重要；铝则可实现可随浓度调节的带隙拓宽（5.6-5.9 eV），适用于电压缩放。与实验文献及密度泛函理论（DFT）的对比验证了该方法的定量准确性，包括Si掺杂时0.02 eV的带隙误差，以及小于0.001 eV/atom的形成能平均绝对误差。该框架为HfO2基介电材料及相关高-k氧化物体系中的掺杂工程提供了合理的、性质解耦的指导。",
-      "overview_cn": "Focus: 介电材料、HfO2.\nWhat to check: 可靠性与稳定性、先进尺度下的可扩展性、功耗或能效表现.\nContext: Deep-Learning-Accelerated Dopant Selection for High-k HfO2 Dielectrics: A Disorder-Resolved Stu….",
-      "reading_notes": "Focus: 介电材料、HfO2.\nWhat to check: 可靠性与稳定性、先进尺度下的可扩展性、功耗或能效表现.\nContext: Deep-Learning-Accelerated Dopant Selection for High-k HfO2 Dielectrics: A Disorder-Resolved Stu…."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Design and Modeling of the Charge Readout of a SiMOS Quantum Dot with a Single …”展开。摘要显示，文章重点涉及制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看先进尺度下的可扩展性、功耗或能效表现、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Design and Modeling of the Charge Readout of a SiMOS Quantum Dot with a Single …”展开。摘要显示，文章重点涉及制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看先进尺度下的可扩展性、功耗或能效表现、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 先进尺度下的可扩展性、功耗或能效表现、接触/互连相关指标.\nContext: Design and Modeling of the Charge Readout of a SiMOS Quantum Dot with a Single Electron Transis….",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 先进尺度下的可扩展性、功耗或能效表现、接触/互连相关指标.\nContext: Design and Modeling of the Charge Readout of a SiMOS Quantum Dot with a Single Electron Transis…."
     },
     {
-      "source": "arXiv",
-      "uid": "arxiv:2608.09283v1",
-      "title": "Size-Dependent Band-Tail Localization in Oxide Semiconductors Revealed by Direct Density-of-States Mapping",
-      "url": "https://arxiv.org/abs/2608.09283v1",
-      "published": "2026-08-10",
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3711069",
+      "title": "Impact of Drain Bias on Degradation of Amorphous-InGaZnO Thin-Film Transistors",
+      "url": "https://doi.org/10.1109/led.2026.3711069",
+      "published": "2026-09-01",
       "authors": [
-        "Chang Niu",
-        "Kisoo Nam",
-        "Aravindh Shankar",
-        "Jian-Yu Lin",
-        "Sanjeev Khare",
-        "Sumi Lee",
-        "Pramey Upadhyaya",
-        "Peide D. Ye"
+        "Jaewon Jang",
+        "Yun Seok Kye",
+        "Seungwon Go",
+        "Sooyoung Park",
+        "Hyun Sung Park",
+        "Joon Seok Park",
+        "Sun Hee Lee",
+        "Sangwan Kim"
       ],
-      "summary": "Disorder-induced localization is expected to become increasingly important as amorphous oxide semiconductor transistors are scaled toward low-dimensional channels, yet the electronic states responsible for this transport regime remain difficult to resolve experimentally. Here, we use a lock-in-based electric-field penetration technique to directly map the effective density of states (DOS) in In-based oxide semiconductor thin-film transistors (TFTs). The extracted quantum capacitance, carrier density, and chemical potential reveal a disorder-dominated transport regime in which band-tail states are not merely passive traps, but become screening-active and partially transport-active. Geometry-dependent DOS mapping shows an exponential suppression of the effective DOS with channel length, demonstrating size-dependent band-tail localization and providing a microscopic origin for a distinct localization-induced threshold-voltage roll-off mechanism. Temperature-dependent measurements show that the disorder-dominated DOS is strongly suppressed at low temperatures, while extended diffusive states remain nearly unchanged, confirming the localization origin. By tuning film thickness, O2 annealing, and In/Ga/Zn composition, we further demonstrate systematic suppression of disorder and effective-DOS localization. This work establishes direct DOS mapping as a device-level probe of localization physics and provides a pathway for engineering disorder in low-dimensional oxide semiconductor electronics.",
-      "score": 9,
-      "priority": 0,
-      "highlights": [
-        "semiconductor"
-      ],
-      "abstract_cn": "随着非晶氧化物半导体晶体管向低维沟道缩放，无序诱导局域化预计将变得愈发重要；然而，决定该输运机制的电子态仍难以通过实验解析。本文采用一种基于锁相放大的电场穿透技术，直接绘制了In基氧化物半导体薄膜晶体管（TFT）中的有效态密度（DOS）图谱。所提取的量子电容、载流子密度和化学势揭示出一种由无序主导的输运机制：在该机制中，带尾态并非只是被动陷阱，而是变得具有屏蔽活性，并且部分参与输运。依赖几何尺寸的DOS映射显示，有效DOS随沟道长度呈指数抑制，证明了尺寸依赖的带尾局域化，并为一种独特的局域化诱导阈值电压滚降机制提供了微观起源。温度依赖测量表明，无序主导的DOS在低温下受到强烈抑制，而扩展的扩散态几乎保持不变，证实了其局域化起源。通过调节薄膜厚度、O2退火以及In/Ga/Zn组分，我们进一步展示了对无序和有效DOS局域化的系统性抑制。该工作确立了直接DOS映射作为一种器件层面的局域化物理探测手段，并为低维氧化物半导体电子器件中的无序工程提供了路径。",
-      "abstract_zh": "随着非晶氧化物半导体晶体管向低维沟道缩放，无序诱导局域化预计将变得愈发重要；然而，决定该输运机制的电子态仍难以通过实验解析。本文采用一种基于锁相放大的电场穿透技术，直接绘制了In基氧化物半导体薄膜晶体管（TFT）中的有效态密度（DOS）图谱。所提取的量子电容、载流子密度和化学势揭示出一种由无序主导的输运机制：在该机制中，带尾态并非只是被动陷阱，而是变得具有屏蔽活性，并且部分参与输运。依赖几何尺寸的DOS映射显示，有效DOS随沟道长度呈指数抑制，证明了尺寸依赖的带尾局域化，并为一种独特的局域化诱导阈值电压滚降机制提供了微观起源。温度依赖测量表明，无序主导的DOS在低温下受到强烈抑制，而扩展的扩散态几乎保持不变，证实了其局域化起源。通过调节薄膜厚度、O2退火以及In/Ga/Zn组分，我们进一步展示了对无序和有效DOS局域化的系统性抑制。该工作确立了直接DOS映射作为一种器件层面的局域化物理探测手段，并为低维氧化物半导体电子器件中的无序工程提供了路径。",
-      "overview_cn": "Focus: 半导体.\nWhat to check: 先进尺度下的可扩展性.\nContext: Size-Dependent Band-Tail Localization in Oxide Semiconductors Revealed by Direct Density-of-Sta….",
-      "reading_notes": "Focus: 半导体.\nWhat to check: 先进尺度下的可扩展性.\nContext: Size-Dependent Band-Tail Localization in Oxide Semiconductors Revealed by Direct Density-of-Sta…."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2608.12152v1",
-      "title": "The electrical transport of intrinsic two-dimensional ferroelectric metal PtBi2",
-      "url": "https://arxiv.org/abs/2608.12152v1",
-      "published": "2026-08-12",
-      "authors": [
-        "Dan Li",
-        "Liu Yang",
-        "Lei Li"
-      ],
-      "summary": "Breaking the conventional stereotype that ferroelectrics are necessarily insulating, two-dimensional (2D) ferroelectric metals combine seemingly incompatible switchable electric polarization and metallic conductivity, providing a fertile ground for the discovery of novel electrical transport phenomena and the development of innovative electronic devices. Using the semiclassical Boltzmann equation and first-principles calculations, we systematically investigate the linear and nonlinear transport responses of the intrinsic 2D ferroelectric metal \\ch{PtBi2} to an applied electric field. Our \\textit{ab initio} molecular dynamics simulations reveal that it possesses a high Curie temperature reaching $800~\\text{K}$. We propose that the crystal structure of its high-temperature paraelectric phase can be explicitly distinguished through simple measurements of the in-plane electrical conductivity. Quantitative calculations of the Edelstein effect and the intrinsic spin Hall effect demonstrate a sizable charge-to-spin conversion efficiency, highlighting its potential in spintronics. We also find that a Berry curvature dipole-induced nonlinear Hall effect emerges in uniaxially strained \\ch{PtBi2}. Furthermore, we highlight the unique advantages of 2D ferroelectric metals in gate-controlled transport applications. Based on the domain wall scattering mechanism, we conceptually design a novel ferroelectric metal field-effect transistor (FEM-FET) capable of nonvolatile switching between high-resistance and low-resistance states under a gate voltage. Our work not only unveils the rich transport physics in 2D ferroelectric metals but also provides valuable insights into the design of next-generation nonvolatile memory and spintronic devices.",
+      "summary": "In this work, the drain stress voltage ( $\\mathrm{V}_{\\mathbf {\\text {DS}}}$ )-dependent reliability degradation behavior in amorphous indium-gallium-zinc-oxide (a-IGZO) thin-film transistors (TFTs) is investigated at a fixed positive gate stress voltage ( $\\mathrm{V}_{\\mathbf {\\text {GS}}}$ ) of 30 V. As $\\mathrm{V}_{\\mathbf {\\text {DS}}}$ increases from 0 to 5 V, the $\\mathrm{V}_{\\mathbf {\\text {DS}}}$ -induced weakened vertical electric field alleviates positive threshold voltage shift ( $\\Delta $ $\\mathrm{V}_{\\mathbf {\\text {th}}}$ ), whereas a further increase in $\\mathrm{V}_{\\mathbf {\\text {DS}}}$ toward 15 V accelerates degradation due to enhanced thermionic injection. The degradation results of the gate-to-source and gate-to-drain capacitance ( $\\mathrm{C}_{\\mathbf {\\text {GS}}}$ and $\\mathrm{C}_{\\mathbf {\\text {GD}}}$ ) under CCS at 5 V- $\\mathrm{V}_{\\mathbf {\\text {DS}}}$ reveal suppressed electron trapping near the drain region due to the $\\mathrm{V}_{\\mathbf {\\text {DS}}}$ -induced reduction in the vertical electric field. AC CCS measurements at 15 V- $\\mathrm{V}_{\\mathbf {\\text {DS}}}$ show strong mitigation of $\\Delta $ $\\mathrm{V}_{\\mathbf {\\text {th}}}$ with decreasing stress duty ratio, confirming that SHE-induced thermionic injection becomes significant at high $\\mathrm{V}_{\\mathbf {\\text {DS}}}$ . Notably, $\\Delta $ $\\mathrm{V}_{\\mathbf {\\text {th}}}$ under AC stress with a 5% duty ratio becomes smaller at 15 V- $\\mathrm{V}_{\\mathbf {\\text {DS}}}$ than at 5 V- $\\mathrm{V}_{\\mathbf {\\text {DS}}}$ confirming that the $\\mathrm{V}_{\\mathbf {\\text {DS}}}$ -induced vertical electric field reduction becomes dominant when SHE is alleviated. Furthermore, the stress-time-divided technique employed to analyze the energy distribution of predominant trap sites demonstrates that thermionic injection promotes electron trapping into deeper states. In summary, the dominant degradation mechanism evolves with increasing $\\mathrm{V}_{\\mathbf {\\text {DS}}}$ from degradation mitigation induced by vertical electric field reduction to enhanced deep-level electron trapping driven by SHE-induced thermionic injection.",
       "score": 8,
-      "priority": 0,
+      "priority": 1,
       "highlights": [
-        "ferroelectric"
+        "transistor"
       ],
-      "abstract_cn": "突破铁电体必然为绝缘体的传统认识，二维（2D）铁电金属将看似不相容的可切换电极化与金属导电性结合在一起，为发现新型电输运现象和开发创新电子器件提供了沃土。我们利用半经典玻尔兹曼方程和第一性原理计算，系统研究了本征二维铁电金属\\ch{PtBi2}对外加电场的线性和非线性输运响应。我们的\\textit{ab initio}分子动力学模拟表明，其居里温度高达$800~\\text{K}$。我们提出，可通过对面内电导率的简单测量，明确区分其高温顺电相的晶体结构。对Edelstein效应和本征自旋霍尔效应的定量计算表明，该材料具有显著的电荷-自旋转换效率，凸显了其在自旋电子学中的潜力。我们还发现，在单轴应变的\\ch{PtBi2}中会出现由贝里曲率偶极子诱导的非线性霍尔效应。此外，我们强调了二维铁电金属在栅控输运应用中的独特优势。基于畴壁散射机制，我们在概念上设计了一种新型铁电金属场效应晶体管（FEM-FET），可在栅压作用下于高阻态和低阻态之间实现非易失性切换。该工作不仅揭示了二维铁电金属中丰富的输运物理，也为设计下一代非易失性存储器和自旋电子器件提供了宝贵见解。",
-      "abstract_zh": "突破铁电体必然为绝缘体的传统认识，二维（2D）铁电金属将看似不相容的可切换电极化与金属导电性结合在一起，为发现新型电输运现象和开发创新电子器件提供了沃土。我们利用半经典玻尔兹曼方程和第一性原理计算，系统研究了本征二维铁电金属\\ch{PtBi2}对外加电场的线性和非线性输运响应。我们的\\textit{ab initio}分子动力学模拟表明，其居里温度高达$800~\\text{K}$。我们提出，可通过对面内电导率的简单测量，明确区分其高温顺电相的晶体结构。对Edelstein效应和本征自旋霍尔效应的定量计算表明，该材料具有显著的电荷-自旋转换效率，凸显了其在自旋电子学中的潜力。我们还发现，在单轴应变的\\ch{PtBi2}中会出现由贝里曲率偶极子诱导的非线性霍尔效应。此外，我们强调了二维铁电金属在栅控输运应用中的独特优势。基于畴壁散射机制，我们在概念上设计了一种新型铁电金属场效应晶体管（FEM-FET），可在栅压作用下于高阻态和低阻态之间实现非易失性切换。该工作不仅揭示了二维铁电金属中丰富的输运物理，也为设计下一代非易失性存储器和自旋电子器件提供了宝贵见解。",
-      "overview_cn": "Focus: 铁电材料.\nWhat to check: 效率/耦合表现、接触/互连相关指标、与既有工艺平台的集成价值.\nContext: The electrical transport of intrinsic two-dimensional ferroelectric metal PtBi2.",
-      "reading_notes": "Focus: 铁电材料.\nWhat to check: 效率/耦合表现、接触/互连相关指标、与既有工艺平台的集成价值.\nContext: The electrical transport of intrinsic two-dimensional ferroelectric metal PtBi2."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Impact of Drain Bias on Degradation of Amorphous-InGaZnO Thin-Film Transistors”展开。摘要显示，文章重点涉及电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Impact of Drain Bias on Degradation of Amorphous-InGaZnO Thin-Film Transistors”展开。摘要显示，文章重点涉及电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性、功耗或能效表现.\nContext: Impact of Drain Bias on Degradation of Amorphous-InGaZnO Thin-Film Transistors.",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性、功耗或能效表现.\nContext: Impact of Drain Bias on Degradation of Amorphous-InGaZnO Thin-Film Transistors."
     }
   ],
   "errors": [],
-  "report_url": "/index.html",
-  "report_url_pc": "/desktop.html",
-  "report_url_mobile": "/mobile.html",
-  "generated_at": "2026-08-16T00:30:00+00:00"
+  "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
+  "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
+  "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
+  "generated_at": "2026-09-04T00:30:00+00:00"
 }
