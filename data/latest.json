@@ -2,36 +2,8 @@
   "ok": true,
   "new_count": 0,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-09-04）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 1 篇\n1. ⭐ [arXiv] Rapid Charge Stability Diagram Generation from Device-level Modeling of Semiconductor Quant…\n   关键词：Intel, semiconductor\n   日期：2026-08-28\n   Authors: Ron Nodel, David W. Kanaar, Connor Nasseraddin 等\n   https://arxiv.org/abs/2608.28263v1\n2. [IEEE Electron Device Letters] Experimental Investigation of Gate-Switching Instability in SiC MOSFETs Under Mission-Profi…\n   关键词：MOSFET, SiC\n   日期：2026-09-01\n   Authors: Ruben Schnitzler, Tobias Fink, Dominik Koch 等\n   https://doi.org/10.1109/led.2026.3718537\n3. [arXiv] Coherent phononic frequency combs in ferroelectric CMOS oxides\n   关键词：CMOS, ferroelectric\n   日期：2026-08-29\n   Authors: Jinghan Gao, Shruti Mishra, Yilin Kou 等\n   https://arxiv.org/abs/2608.28956v1\n4. [IEEE Electron Device Letters] Ge/GeSn Quantum Well MOSFETs for Cryogenic Applications\n   关键词：MOSFET\n   日期：2026-09-01\n   Authors: Jingxuan Sun, Yi Han, Xue Bai 等\n   https://doi.org/10.1109/led.2026.3716584\n5. [IEEE Electron Device Letters] 3-D Stacked 3T DRAM Cell Employing CFET With Depletion Mode PMOS\n   关键词：CFET\n   日期：2026-09-01\n   Authors: Kwangsoo Kim, Seongjae Cho, Wonbo Shim\n   https://doi.org/10.1109/led.2026.3715468\n6. [IEEE Electron Device Letters] High-Performance Polycrystalline InSnZnO Thin-Film Transistors and Their Inverters\n   关键词：transistor\n   日期：2026-09-01\n   Authors: Xiaocheng Wang, Xiangcheng Liu, Lin Xu 等\n   https://doi.org/10.1109/led.2026.3717826\n7. [arXiv] Design and Modeling of the Charge Readout of a SiMOS Quantum Dot with a Single Electron Tra…\n   关键词：transistor\n   日期：2026-08-29\n   Authors: Adam Quinn, Troy England, Andrew Li 等\n   https://arxiv.org/abs/2608.28906v1\n8. [IEEE Electron Device Letters] Impact of Drain Bias on Degradation of Amorphous-InGaZnO Thin-Film Transistors\n   关键词：transistor\n   日期：2026-09-01\n   Authors: Jaewon Jang, Yun Seok Kye, Seungwon Go 等\n   https://doi.org/10.1109/led.2026.3711069",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-09-04）\nSources: arXiv / Science Advances / Nature Electronics / Nature Materials / IEEE EDL / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇\n1. [IEEE Electron Device Letters] Experimental Investigation of Gate-Switching Instability in SiC MOSFETs Under Mission-Profi…\n   关键词：MOSFET, SiC\n   日期：2026-09-01\n   Authors: Ruben Schnitzler, Tobias Fink, Dominik Koch 等\n   https://doi.org/10.1109/led.2026.3718537\n2. [IEEE Electron Device Letters] Ge/GeSn Quantum Well MOSFETs for Cryogenic Applications\n   关键词：MOSFET\n   日期：2026-09-01\n   Authors: Jingxuan Sun, Yi Han, Xue Bai 等\n   https://doi.org/10.1109/led.2026.3716584\n3. [IEEE Electron Device Letters] 3-D Stacked 3T DRAM Cell Employing CFET With Depletion Mode PMOS\n   关键词：CFET\n   日期：2026-09-01\n   Authors: Kwangsoo Kim, Seongjae Cho, Wonbo Shim\n   https://doi.org/10.1109/led.2026.3715468\n4. [IEEE Electron Device Letters] High-Performance Polycrystalline InSnZnO Thin-Film Transistors and Their Inverters\n   关键词：transistor\n   日期：2026-09-01\n   Authors: Xiaocheng Wang, Xiangcheng Liu, Lin Xu 等\n   https://doi.org/10.1109/led.2026.3717826\n5. [IEEE Electron Device Letters] Impact of Drain Bias on Degradation of Amorphous-InGaZnO Thin-Film Transistors\n   关键词：transistor\n   日期：2026-09-01\n   Authors: Jaewon Jang, Yun Seok Kye, Seungwon Go 等\n   https://doi.org/10.1109/led.2026.3711069\n6. [IEEE Electron Device Letters] An Asynchronous Energy-Harvesting Pixel for CMOS Image Sensors\n   关键词：CMOS\n   日期：2026-09-01\n   Authors: Zhipeng Li, Jingjing Liu, Junhao He 等\n   https://doi.org/10.1109/led.2026.3709305\n7. [IEEE Electron Device Letters] Dual-Mode TFT Synaptic Array for Energy-Efficient On-Chip Training\n   关键词：TFT\n   日期：2026-09-01\n   Authors: Jeonghyun Kim, Dongseok Kwon, Joon Hwang 等\n   https://doi.org/10.1109/led.2026.3715680\n8. [IEEE Electron Device Letters] Multi-Channel AlScN/GaN RF HEMTs Grown by Metal-Organic Chemical Vapor Deposition\n   关键词：deposition, GaN\n   日期：2026-09-01\n   Authors: Utku Agtas, Hakan Cankat Gur, Teresa Duarte 等\n   https://doi.org/10.1109/led.2026.3707933\n注：以下源本次抓取失败：arXiv",
   "papers": [
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2608.28263v1",
-      "title": "Rapid Charge Stability Diagram Generation from Device-level Modeling of Semiconductor Quantum Dots",
-      "url": "https://arxiv.org/abs/2608.28263v1",
-      "published": "2026-08-28",
-      "authors": [
-        "Ron Nodel",
-        "David W. Kanaar",
-        "Connor Nasseraddin",
-        "Tim J. Wilson",
-        "Hong-Wen Jiang",
-        "Jason R. Petta",
-        "Chris Anderson",
-        "Mark F. Gyure"
-      ],
-      "summary": "Self-consistent Schrödinger-Poisson calculations are a powerful tool for predicting the behavior of layered semiconductor quantum dot devices. However, characterization of charge stability diagrams through fully simulated gate-voltage sweeps is computationally expensive. Combining a Multi-Domain Multi-Model (MDMM) approach with an automated tuning routine, we identify gate voltages associated with selected charge configurations. This small set of self-consistent simulations can be augmented with Full Configuration Interaction (FCI) energy calculations to extract charging energies, lever arms, and interdot Coulomb interactions to directly parameterize a Hubbard model for rapid charge stability diagram generation. For an Intel Tunnel Falls Si/SiGe device, we demonstrate the Hubbard model's ability to reproduce charge stability diagrams at a fraction of the computational cost in comparison to voltage bias sweeps. We further compare the simulated diagrams to experimental data and demonstrate qualitative agreement. Our result represents a step towards predictive digital twin models for semiconductor quantum dot devices. Finally, we apply this workflow towards lever arm engineering in a second device, demonstrating that the method extends to multiple architectures.",
-      "score": 11,
-      "priority": 3,
-      "highlights": [
-        "Intel",
-        "semiconductor"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体方向，围绕“Rapid Charge Stability Diagram Generation from Device-level Modeling of Semicon…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体方向，围绕“Rapid Charge Stability Diagram Generation from Device-level Modeling of Semicon…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 半导体.\nWhat to check: 可靠性与稳定性、功耗或能效表现.\nContext: Rapid Charge Stability Diagram Generation from Device-level Modeling of Semiconductor Quantum D….",
-      "reading_notes": "Focus: 半导体.\nWhat to check: 可靠性与稳定性、功耗或能效表现.\nContext: Rapid Charge Stability Diagram Generation from Device-level Modeling of Semiconductor Quantum D…."
-    },
     {
       "source": "IEEE Electron Device Letters",
       "uid": "doi:10.1109/led.2026.3718537",
@@ -56,32 +28,6 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、SiC方向，围绕“Experimental Investigation of Gate-Switching Instability in SiC MOSFETs Under M…”展开。摘要显示，文章重点涉及机理分析或模型解释，建议阅读时优先查看性能提升、可靠性与稳定性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: MOSFET、SiC.\nWhat to check: 性能提升、可靠性与稳定性、接触/互连相关指标.\nContext: Experimental Investigation of Gate-Switching Instability in SiC MOSFETs Under Mission-Profile-R….",
       "reading_notes": "Focus: MOSFET、SiC.\nWhat to check: 性能提升、可靠性与稳定性、接触/互连相关指标.\nContext: Experimental Investigation of Gate-Switching Instability in SiC MOSFETs Under Mission-Profile-R…."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2608.28956v1",
-      "title": "Coherent phononic frequency combs in ferroelectric CMOS oxides",
-      "url": "https://arxiv.org/abs/2608.28956v1",
-      "published": "2026-08-29",
-      "authors": [
-        "Jinghan Gao",
-        "Shruti Mishra",
-        "Yilin Kou",
-        "S M Enamul Hoque Yousuf",
-        "Hanna Cho",
-        "Roozbeh Tabrizian"
-      ],
-      "summary": "Modern electronic systems require tens of clock and carrier frequencies, each synthesized by a dedicated phase-locked loop from a shared reference, imposing routing, power and synchronization burdens that grow with every domain. Optical frequency combs solved this problem in photonics, whereas electronics has lacked an equivalent source in its native radiofrequency domain. Here we report broadband phononic frequency combs in ferroelectric hafnia-zirconia nanoelectromechanical resonators built from complementary metal-oxide-semiconductor (CMOS) oxides. Lithographically defined detuning of a 2:1 internal resonance selects the generation mechanism: two-tone-seeded wave mixing yields more than 170 lines distributed over two octaves, with mutual coherence verified for representative pump and generated lines, whereas an autonomous Hopf route yields hierarchical combs of more than 200 lines through torus and period-doubling dynamics, in agreement with slow-flow bifurcation theory. Geometric scaling extends comb generation across 0.44 GHz to 2.1 GHz. Heterodyne measurements, analyzed using the modified Allan deviation (MDEV), establish a two-timescale law. The mechanism governs short-term stability: seeded combs inherit the white-phase-noise scaling of their pumps, whereas autonomous combs acquire the phase diffusion of a free-running oscillator, with the one-second MDEV increasing from 1e-11 to 1e-8. The material governs long-term stability: in air and without active thermal control, the temperature-compensated stack suppresses the random-walk drift that dominates uncompensated resonators. These results establish mechanism- and material-level design rules for operating a single resonator as chip-scale frequency infrastructure, from multi-clock generation to radiofrequency parallel processing.",
-      "score": 11,
-      "priority": 2,
-      "highlights": [
-        "CMOS",
-        "ferroelectric"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS、铁电材料方向，围绕“Coherent phononic frequency combs in ferroelectric CMOS oxides”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、先进尺度下的可扩展性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS、铁电材料方向，围绕“Coherent phononic frequency combs in ferroelectric CMOS oxides”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、先进尺度下的可扩展性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: CMOS、铁电材料.\nWhat to check: 可靠性与稳定性、先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Coherent phononic frequency combs in ferroelectric CMOS oxides.",
-      "reading_notes": "Focus: CMOS、铁电材料.\nWhat to check: 可靠性与稳定性、先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Coherent phononic frequency combs in ferroelectric CMOS oxides."
     },
     {
       "source": "IEEE Electron Device Letters",
@@ -167,29 +113,6 @@
       "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: High-Performance Polycrystalline InSnZnO Thin-Film Transistors and Their Inverters."
     },
     {
-      "source": "arXiv",
-      "uid": "arxiv:2608.28906v1",
-      "title": "Design and Modeling of the Charge Readout of a SiMOS Quantum Dot with a Single Electron Transistor and CryoCMOS",
-      "url": "https://arxiv.org/abs/2608.28906v1",
-      "published": "2026-08-29",
-      "authors": [
-        "Adam Quinn",
-        "Troy England",
-        "Andrew Li",
-        "Sharmila Mustari Nandita"
-      ],
-      "summary": "Single electron spin qubits trapped in SiMOS quantum dots are a promising technology for scaling to thousand- or million-qubit systems due to their compatibility with mature CMOS manufacturing processes. A readout system that combines a single electron transistor with a custom cryogenic CMOS amplification and digitization chain offers key advantages by avoiding the use of bulky RF components or room-temperature interconnects. We present design techniques and simulation results for an optimized qubit-SET cryoCMOS interface, culminating in the design of the QNDR1 ASIC, the first cryogenic readout ASIC designed under the Quandarum project, which targets the development of a many-channel spin qubit based detector for use in high energy physics.",
-      "score": 10,
-      "priority": 1,
-      "highlights": [
-        "transistor"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Design and Modeling of the Charge Readout of a SiMOS Quantum Dot with a Single …”展开。摘要显示，文章重点涉及制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看先进尺度下的可扩展性、功耗或能效表现、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Design and Modeling of the Charge Readout of a SiMOS Quantum Dot with a Single …”展开。摘要显示，文章重点涉及制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看先进尺度下的可扩展性、功耗或能效表现、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 先进尺度下的可扩展性、功耗或能效表现、接触/互连相关指标.\nContext: Design and Modeling of the Charge Readout of a SiMOS Quantum Dot with a Single Electron Transis….",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 先进尺度下的可扩展性、功耗或能效表现、接触/互连相关指标.\nContext: Design and Modeling of the Charge Readout of a SiMOS Quantum Dot with a Single Electron Transis…."
-    },
-    {
       "source": "IEEE Electron Device Letters",
       "uid": "doi:10.1109/led.2026.3711069",
       "title": "Impact of Drain Bias on Degradation of Amorphous-InGaZnO Thin-Film Transistors",
@@ -215,9 +138,99 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Impact of Drain Bias on Degradation of Amorphous-InGaZnO Thin-Film Transistors”展开。摘要显示，文章重点涉及电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性、功耗或能效表现.\nContext: Impact of Drain Bias on Degradation of Amorphous-InGaZnO Thin-Film Transistors.",
       "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性、功耗或能效表现.\nContext: Impact of Drain Bias on Degradation of Amorphous-InGaZnO Thin-Film Transistors."
+    },
+    {
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3709305",
+      "title": "An Asynchronous Energy-Harvesting Pixel for CMOS Image Sensors",
+      "url": "https://doi.org/10.1109/led.2026.3709305",
+      "published": "2026-09-01",
+      "authors": [
+        "Zhipeng Li",
+        "Jingjing Liu",
+        "Junhao He",
+        "Qinhan Xu",
+        "Yupeng Miao",
+        "Chang Liu",
+        "Bingjun Xiong",
+        "Wenkai Yue",
+        "Jian Guan",
+        "Feng Yan",
+        "Kangkang Sun"
+      ],
+      "summary": "This letter presents an asynchronous energy-harvesting active pixel that provides a novel solution for self-powered image sensors. The proposed design employs a negative-voltage switch that automatically transitions the photodiode from imaging mode to energy-harvesting mode when the photodiode voltage drops below a threshold, without requiring synchronized timing control. By utilizing idle windows within the frame period, the pixel can achieve simultaneous imaging and energy harvesting within a single frame cycle. The prototype, fabricated in a standard 0.18- $\\mu $ m CMOS process, operates at a 1 V supply with a frame rate of 35.9 fps, consuming a total power of $3.98~\\mu $ W. It achieves a dynamic range of 45 dB, a pixel fill factor of 55.76%, and an energy-harvesting efficiency of 60.1 pW/lux/mm 2 while maintaining full imaging functionality.",
+      "score": 8,
+      "priority": 1,
+      "highlights": [
+        "CMOS"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS方向，围绕“An Asynchronous Energy-Harvesting Pixel for CMOS Image Sensors”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看效率/耦合表现、功耗或能效表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS方向，围绕“An Asynchronous Energy-Harvesting Pixel for CMOS Image Sensors”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看效率/耦合表现、功耗或能效表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: CMOS.\nWhat to check: 效率/耦合表现、功耗或能效表现、与既有工艺平台的集成价值.\nContext: An Asynchronous Energy-Harvesting Pixel for CMOS Image Sensors.",
+      "reading_notes": "Focus: CMOS.\nWhat to check: 效率/耦合表现、功耗或能效表现、与既有工艺平台的集成价值.\nContext: An Asynchronous Energy-Harvesting Pixel for CMOS Image Sensors."
+    },
+    {
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3715680",
+      "title": "Dual-Mode TFT Synaptic Array for Energy-Efficient On-Chip Training",
+      "url": "https://doi.org/10.1109/led.2026.3715680",
+      "published": "2026-09-01",
+      "authors": [
+        "Jeonghyun Kim",
+        "Dongseok Kwon",
+        "Joon Hwang",
+        "Min-Kyu Park",
+        "Jonghyun Ko",
+        "Jiseong Im",
+        "Jong-Ho Lee"
+      ],
+      "summary": "A dual-mode TFT synaptic array for on-chip training is proposed. The device employs an Al 2 O 3 /Si 3 N 4 /SiO 2 gate-insulator stack and supports low-voltage short-term (ST) and high-voltage long-term (LT) operation within the same platform. The ST mode shows gradual conductance modulation and negligible cycling degradation, whereas the LT mode provides a wider memory window and better retention. In the proposed training scheme, the LT region performs vector-matrix multiplication with stored weights, while the ST region accumulates low-voltage updates before threshold-triggered LT transfer. Hardware-aware simulation using the measured ST/LT characteristics yields a final MNIST test accuracy of 97.39%, versus 53.67% for direct LT-only updating, with a 59.7% reduction in LT high-voltage update events. These results indicate that the proposed same-device dual-mode TFT array is promising for energy-efficient on-chip training.",
+      "score": 8,
+      "priority": 1,
+      "highlights": [
+        "TFT"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注TFT方向，围绕“Dual-Mode TFT Synaptic Array for Energy-Efficient On-Chip Training”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注TFT方向，围绕“Dual-Mode TFT Synaptic Array for Energy-Efficient On-Chip Training”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: TFT.\nWhat to check: 功耗或能效表现.\nContext: Dual-Mode TFT Synaptic Array for Energy-Efficient On-Chip Training.",
+      "reading_notes": "Focus: TFT.\nWhat to check: 功耗或能效表现.\nContext: Dual-Mode TFT Synaptic Array for Energy-Efficient On-Chip Training."
+    },
+    {
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3707933",
+      "title": "Multi-Channel AlScN/GaN RF HEMTs Grown by Metal-Organic Chemical Vapor Deposition",
+      "url": "https://doi.org/10.1109/led.2026.3707933",
+      "published": "2026-09-01",
+      "authors": [
+        "Utku Agtas",
+        "Hakan Cankat Gur",
+        "Teresa Duarte",
+        "Onder Soydal",
+        "Francesco Marcantoni",
+        "Byeongchan So",
+        "Lutz Kirste",
+        "Patrik Stranak",
+        "Mario Prescher",
+        "Stefano Leone",
+        "Rudiger Quay",
+        "Elison Matioli"
+      ],
+      "summary": "We demonstrate multi-channel AlScN/GaN high electron mobility transistors (HEMTs) grown by metal-organic chemical vapor deposition (MOCVD). The five-channel structure exhibits a high electron mobility ( $\\mu $ ) of 1030 cm 2 /V $\\cdot $ s together with a high carrier concentration ( ${n} {_{\\text {s}}}$ ) of ${3}.{58}\\times {10} {^{{13}}}$ cm −2 . Devices with a gate length ( ${L} {_{\\text {g}}}$ ) of 95 nm and a total gate width ( ${W} {_{\\text {g}}}$ ) of ${2}\\times {15}~\\mu $ m were fabricated using a tri-gate architecture with varying fin widths. The 300 nm fin width device achieves a current density of 4.2 A/mm with improved linearity, while reducing the fin width to 75 nm enhances electrostatic control over all channels and yields ${f} {_{\\text {T}}}$ / ${f} {_{\\text {MAX}}}$ of 70/163 GHz. The passivated devices retain a stable I ${}_{\\text {D,max}}$ under repeated measurements and an off-state breakdown of 18.5 V at ${\\text L}_{\\text {GD}} =400$ nm. These results highlight the promise of MOCVD-grown AlScN/GaN multi-channel HEMTs for RF applications, with strong DC and small-signal RF characteristics, motivating further study of their large-signal performance for mm-wave operation.",
+      "score": 11,
+      "priority": 0,
+      "highlights": [
+        "deposition",
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注deposition、GaN方向，围绕“Multi-Channel AlScN/GaN RF HEMTs Grown by Metal-Organic Chemical Vapor Depositi…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注deposition、GaN方向，围绕“Multi-Channel AlScN/GaN RF HEMTs Grown by Metal-Organic Chemical Vapor Depositi…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: deposition、GaN.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Multi-Channel AlScN/GaN RF HEMTs Grown by Metal-Organic Chemical Vapor Deposition.",
+      "reading_notes": "Focus: deposition、GaN.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Multi-Channel AlScN/GaN RF HEMTs Grown by Metal-Organic Chemical Vapor Deposition."
     }
   ],
-  "errors": [],
+  "errors": [
+    "arXiv"
+  ],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
