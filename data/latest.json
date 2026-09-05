@@ -1,36 +1,35 @@
 {
   "ok": true,
-  "new_count": 0,
+  "new_count": 2,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-09-04）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL\n命中 8 篇；Intel/TSMC 重点 1 篇；GaN 关键词 5 篇\n1. ⭐ [arXiv] Rapid Charge Stability Diagram Generation from Device-level Modeling of Semiconductor Quant…\n   关键词：Intel, semiconductor\n   日期：2026-08-28\n   Authors: Ron Nodel, David W. Kanaar, Connor Nasseraddin 等\n   https://arxiv.org/abs/2608.28263v1\n2. [Applied Physics Letters] Design of DC gate electric field redistribution under high drain voltage for high linearity…\n   关键词：GaN\n   日期：2026-08-31\n   Authors: Xu Zou, Meng Zhang, Ling Yang 等\n   https://doi.org/10.1063/5.0344361\n3. [IEEE Electron Device Letters] Experimental Investigation of Gate-Switching Instability in SiC MOSFETs Under Mission-Profi…\n   关键词：MOSFET, SiC\n   日期：2026-09-01\n   Authors: Ruben Schnitzler, Tobias Fink, Dominik Koch 等\n   https://doi.org/10.1109/led.2026.3718537\n4. [IEEE Electron Device Letters] Multi-Channel AlScN/GaN RF HEMTs Grown by Metal-Organic Chemical Vapor Deposition\n   关键词：deposition, GaN\n   日期：2026-09-01\n   Authors: Utku Agtas, Hakan Cankat Gur, Teresa Duarte 等\n   https://doi.org/10.1109/led.2026.3707933\n5. [IEEE Electron Device Letters] Regrowth-Free Ex-Situ Mg-Diffused GaN-Based HBTs With High Gain of ~200\n   关键词：GaN\n   日期：2026-09-01\n   Authors: Shumeng Yan, Jia Wang, Haitao Wang 等\n   https://doi.org/10.1109/led.2026.3711358\n6. [arXiv] Coherent phononic frequency combs in ferroelectric CMOS oxides\n   关键词：CMOS, ferroelectric\n   日期：2026-08-29\n   Authors: Jinghan Gao, Shruti Mishra, Yilin Kou 等\n   https://arxiv.org/abs/2608.28956v1\n7. [IEEE Electron Device Letters] GaN-on-Si JBS Diode Using Drive-In Diffusion to Shield p-GaN Regrowth Interface and Achievi…\n   关键词：GaN\n   日期：2026-09-01\n   Authors: Sihang Liu, Xingyu Fu, Junjie Yang 等\n   https://doi.org/10.1109/led.2026.3713521\n8. [IEEE Electron Device Letters] Semi-On State Hole Generation in GaN HEMTs: Experimental Evidence and TCAD Modeling\n   关键词：GaN\n   日期：2026-09-01\n   Authors: Ying-Chun Kuo, Hao Yu, Nelson de Almeida Braga 等\n   https://doi.org/10.1109/led.2026.3711655",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-09-05）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL\n命中 2 篇；Intel/TSMC 重点 0 篇；GaN 关键词 1 篇\n1. [Applied Physics Letters] Ru-mediated oxygen-vacancy redistribution in In-rich oxide thin-film transistors\n   关键词：transistor, GaN\n   日期：2026-08-31\n   Authors: Zefu Zhao, Xiaolin Jiang, Shenglin Pan 等\n   https://doi.org/10.1063/5.0346758\n2. [Nature Electronics] How we discovered ferroelectricity in hafnium oxide thin films\n   日期：2026-09-04\n   https://www.nature.com/articles/s41928-026-01693-2\n注：以下源本次抓取失败：arXiv",
   "papers": [
     {
-      "source": "arXiv",
-      "uid": "arxiv:2608.28263v1",
-      "title": "Rapid Charge Stability Diagram Generation from Device-level Modeling of Semiconductor Quantum Dots",
-      "url": "https://arxiv.org/abs/2608.28263v1",
-      "published": "2026-08-28",
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0346758",
+      "title": "Ru-mediated oxygen-vacancy redistribution in In-rich oxide thin-film transistors",
+      "url": "https://doi.org/10.1063/5.0346758",
+      "published": "2026-08-31",
       "authors": [
-        "Ron Nodel",
-        "David W. Kanaar",
-        "Connor Nasseraddin",
-        "Tim J. Wilson",
-        "Hong-Wen Jiang",
-        "Jason R. Petta",
-        "Chris Anderson",
-        "Mark F. Gyure"
+        "Zefu Zhao",
+        "Xiaolin Jiang",
+        "Shenglin Pan",
+        "Kai-Jhih Gan",
+        "Shaohao Wang",
+        "Tiaoyang Li",
+        "Dun-Bao Ruan"
       ],
-      "summary": "Self-consistent Schrödinger-Poisson calculations are a powerful tool for predicting the behavior of layered semiconductor quantum dot devices. However, characterization of charge stability diagrams through fully simulated gate-voltage sweeps is computationally expensive. Combining a Multi-Domain Multi-Model (MDMM) approach with an automated tuning routine, we identify gate voltages associated with selected charge configurations. This small set of self-consistent simulations can be augmented with Full Configuration Interaction (FCI) energy calculations to extract charging energies, lever arms, and interdot Coulomb interactions to directly parameterize a Hubbard model for rapid charge stability diagram generation. For an Intel Tunnel Falls Si/SiGe device, we demonstrate the Hubbard model's ability to reproduce charge stability diagrams at a fraction of the computational cost in comparison to voltage bias sweeps. We further compare the simulated diagrams to experimental data and demonstrate qualitative agreement. Our result represents a step towards predictive digital twin models for semiconductor quantum dot devices. Finally, we apply this workflow towards lever arm engineering in a second device, demonstrating that the method extends to multiple architectures.",
-      "score": 11,
-      "priority": 3,
+      "summary": "Indium-rich amorphous oxide semiconductors exhibit high electron mobility, but oxygen vacancy (Vo) related donors often cause a negative threshold voltage (Vt) and bias-stress instability. This work demonstrates a 2 nm InRuZnO (IRZO) interlayer into an InZnO (IZO) channel as an internal oxygen-affinitive layer, rather than as a conventional bulk dopant. The IZO/IRZO/IZO tri-layer thin-film transistor (TFT) exhibits a field-effect mobility of 31 cm2/V s, a Vt of 0.3 V, a forward–reverse hysteresis below 100 mV, and an ON/OFF current ratio of 4 × 108. X-ray photoelectron spectroscopy depth profiling of the O 1s reveals a Ru-modulated vertical distribution of Vo, with Vo concentrations of 32%, 20%, and 24% in the top IZO, IRZO, and bottom IZO regions, respectively. This depth dependence indicates that the Ru-containing interlayer locally stabilizes oxygen bonding and redistributes Vo across the In-rich channel. The tri-layer TFTs also reduce the ΔVt to −0.3 V after 1000 s of negative gate-bias stress at −2 MV/cm, demonstrating improved reliability. This work identifies Ru-mediated Vo modulation as a route for improving the mobility–stability balance of sputtered In-rich oxide TFTs.",
+      "score": 19,
+      "priority": 2,
       "highlights": [
-        "Intel",
-        "semiconductor"
+        "transistor",
+        "GaN"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体方向，围绕“Rapid Charge Stability Diagram Generation from Device-level Modeling of Semicon…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体方向，围绕“Rapid Charge Stability Diagram Generation from Device-level Modeling of Semicon…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 半导体.\nWhat to check: 可靠性与稳定性、功耗或能效表现.\nContext: Rapid Charge Stability Diagram Generation from Device-level Modeling of Semiconductor Quantum D….",
-      "reading_notes": "Focus: 半导体.\nWhat to check: 可靠性与稳定性、功耗或能效表现.\nContext: Rapid Charge Stability Diagram Generation from Device-level Modeling of Semiconductor Quantum D…."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、GaN方向，围绕“Ru-mediated oxygen-vacancy redistribution in In-rich oxide thin-film transistors”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、GaN方向，围绕“Ru-mediated oxygen-vacancy redistribution in In-rich oxide thin-film transistors”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 晶体管、GaN.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Ru-mediated oxygen-vacancy redistribution in In-rich oxide thin-film transistors.",
+      "reading_notes": "Focus: 晶体管、GaN.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Ru-mediated oxygen-vacancy redistribution in In-rich oxide thin-film transistors."
     },
     {
       "source": "Applied Physics Letters",
@@ -147,32 +146,6 @@
       "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Regrowth-Free Ex-Situ Mg-Diffused GaN-Based HBTs With High Gain of ~200."
     },
     {
-      "source": "arXiv",
-      "uid": "arxiv:2608.28956v1",
-      "title": "Coherent phononic frequency combs in ferroelectric CMOS oxides",
-      "url": "https://arxiv.org/abs/2608.28956v1",
-      "published": "2026-08-29",
-      "authors": [
-        "Jinghan Gao",
-        "Shruti Mishra",
-        "Yilin Kou",
-        "S M Enamul Hoque Yousuf",
-        "Hanna Cho",
-        "Roozbeh Tabrizian"
-      ],
-      "summary": "Modern electronic systems require tens of clock and carrier frequencies, each synthesized by a dedicated phase-locked loop from a shared reference, imposing routing, power and synchronization burdens that grow with every domain. Optical frequency combs solved this problem in photonics, whereas electronics has lacked an equivalent source in its native radiofrequency domain. Here we report broadband phononic frequency combs in ferroelectric hafnia-zirconia nanoelectromechanical resonators built from complementary metal-oxide-semiconductor (CMOS) oxides. Lithographically defined detuning of a 2:1 internal resonance selects the generation mechanism: two-tone-seeded wave mixing yields more than 170 lines distributed over two octaves, with mutual coherence verified for representative pump and generated lines, whereas an autonomous Hopf route yields hierarchical combs of more than 200 lines through torus and period-doubling dynamics, in agreement with slow-flow bifurcation theory. Geometric scaling extends comb generation across 0.44 GHz to 2.1 GHz. Heterodyne measurements, analyzed using the modified Allan deviation (MDEV), establish a two-timescale law. The mechanism governs short-term stability: seeded combs inherit the white-phase-noise scaling of their pumps, whereas autonomous combs acquire the phase diffusion of a free-running oscillator, with the one-second MDEV increasing from 1e-11 to 1e-8. The material governs long-term stability: in air and without active thermal control, the temperature-compensated stack suppresses the random-walk drift that dominates uncompensated resonators. These results establish mechanism- and material-level design rules for operating a single resonator as chip-scale frequency infrastructure, from multi-clock generation to radiofrequency parallel processing.",
-      "score": 11,
-      "priority": 2,
-      "highlights": [
-        "CMOS",
-        "ferroelectric"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS、铁电材料方向，围绕“Coherent phononic frequency combs in ferroelectric CMOS oxides”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、先进尺度下的可扩展性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS、铁电材料方向，围绕“Coherent phononic frequency combs in ferroelectric CMOS oxides”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、先进尺度下的可扩展性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: CMOS、铁电材料.\nWhat to check: 可靠性与稳定性、先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Coherent phononic frequency combs in ferroelectric CMOS oxides.",
-      "reading_notes": "Focus: CMOS、铁电材料.\nWhat to check: 可靠性与稳定性、先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Coherent phononic frequency combs in ferroelectric CMOS oxides."
-    },
-    {
       "source": "IEEE Electron Device Letters",
       "uid": "doi:10.1109/led.2026.3713521",
       "title": "GaN-on-Si JBS Diode Using Drive-In Diffusion to Shield p-GaN Regrowth Interface and Achieving a Breakdown Voltage Beyond 1 kV",
@@ -232,11 +205,46 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Semi-On State Hole Generation in GaN HEMTs: Experimental Evidence and TCAD Mode…”展开。摘要显示，文章重点涉及机理分析或模型解释，建议阅读时优先查看功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: GaN.\nWhat to check: 功耗或能效表现.\nContext: Semi-On State Hole Generation in GaN HEMTs: Experimental Evidence and TCAD Modeling.",
       "reading_notes": "Focus: GaN.\nWhat to check: 功耗或能效表现.\nContext: Semi-On State Hole Generation in GaN HEMTs: Experimental Evidence and TCAD Modeling."
+    },
+    {
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3716584",
+      "title": "Ge/GeSn Quantum Well MOSFETs for Cryogenic Applications",
+      "url": "https://doi.org/10.1109/led.2026.3716584",
+      "published": "2026-09-01",
+      "authors": [
+        "Jingxuan Sun",
+        "Yi Han",
+        "Xue Bai",
+        "Prateek Kaul",
+        "Yannik Junk",
+        "Jiayuan Zhang",
+        "Yu-Tzu Liao",
+        "Yu-Chen Chang",
+        "Anjana Rajan",
+        "Rafal E. Dunin-Borkowski",
+        "Detlev Grutzmacher",
+        "Joachim Knoch",
+        "Dan Buca",
+        "Qing-Tai Zhao"
+      ],
+      "summary": "Cryogenic CMOS provides critical performance benefits for high-performance computing, space electronics, and quantum interfaces due to enhanced carrier mobility and steeper subthreshold swing (SS). However, the band-tail effect limits the device performance at cryogenic temperatures. In this work, Ge/GeSn quantum well (QW) p-MOSFETs are studied from 300 K down to 5 K. Owing to the QW confinement and the presence of a Ge cap layer, interface-related band-tail states are significantly suppressed. As a result, the Ge/Ge 0.88 Sn 0.12 QW device exhibits a continuously decreasing SS, reaching 15 mV/dec at 5 K, which is the lowest reported SS among the Ge-based p-MOSFETs. This work highlights GeSn QW engineering as an effective strategy for cryogenic CMOS applications.",
+      "score": 11,
+      "priority": 1,
+      "highlights": [
+        "MOSFET"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET方向，围绕“Ge/GeSn Quantum Well MOSFETs for Cryogenic Applications”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看性能提升、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET方向，围绕“Ge/GeSn Quantum Well MOSFETs for Cryogenic Applications”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看性能提升、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: MOSFET.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: Ge/GeSn Quantum Well MOSFETs for Cryogenic Applications.",
+      "reading_notes": "Focus: MOSFET.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: Ge/GeSn Quantum Well MOSFETs for Cryogenic Applications."
     }
   ],
-  "errors": [],
+  "errors": [
+    "arXiv"
+  ],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-09-04T00:30:00+00:00"
+  "generated_at": "2026-09-05T00:30:00+00:00"
 }
