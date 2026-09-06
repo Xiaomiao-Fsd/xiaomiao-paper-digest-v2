@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 2,
+  "new_count": 0,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-09-05）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL\n命中 2 篇；Intel/TSMC 重点 0 篇；GaN 关键词 1 篇\n1. [Applied Physics Letters] Ru-mediated oxygen-vacancy redistribution in In-rich oxide thin-film transistors\n   关键词：transistor, GaN\n   日期：2026-08-31\n   Authors: Zefu Zhao, Xiaolin Jiang, Shenglin Pan 等\n   https://doi.org/10.1063/5.0346758\n2. [Nature Electronics] How we discovered ferroelectricity in hafnium oxide thin films\n   日期：2026-09-04\n   https://www.nature.com/articles/s41928-026-01693-2\n注：以下源本次抓取失败：arXiv",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-09-06）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 7 篇\n1. [Applied Physics Letters] Ru-mediated oxygen-vacancy redistribution in In-rich oxide thin-film transistors\n   关键词：transistor, GaN\n   日期：2026-08-31\n   Authors: Zefu Zhao, Xiaolin Jiang, Shenglin Pan 等\n   https://doi.org/10.1063/5.0346758\n2. [Applied Physics Letters] Design of DC gate electric field redistribution under high drain voltage for high linearity…\n   关键词：GaN\n   日期：2026-08-31\n   Authors: Xu Zou, Meng Zhang, Ling Yang 等\n   https://doi.org/10.1063/5.0344361\n3. [IEEE Electron Device Letters] Experimental Investigation of Gate-Switching Instability in SiC MOSFETs Under Mission-Profi…\n   关键词：MOSFET, SiC\n   日期：2026-09-01\n   Authors: Ruben Schnitzler, Tobias Fink, Dominik Koch 等\n   https://doi.org/10.1109/led.2026.3718537\n4. [IEEE Electron Device Letters] Multi-Channel AlScN/GaN RF HEMTs Grown by Metal-Organic Chemical Vapor Deposition\n   关键词：deposition, GaN\n   日期：2026-09-01\n   Authors: Utku Agtas, Hakan Cankat Gur, Teresa Duarte 等\n   https://doi.org/10.1109/led.2026.3707933\n5. [IEEE Electron Device Letters] Regrowth-Free Ex-Situ Mg-Diffused GaN-Based HBTs With High Gain of ~200\n   关键词：GaN\n   日期：2026-09-01\n   Authors: Shumeng Yan, Jia Wang, Haitao Wang 等\n   https://doi.org/10.1109/led.2026.3711358\n6. [IEEE Electron Device Letters] GaN-on-Si JBS Diode Using Drive-In Diffusion to Shield p-GaN Regrowth Interface and Achievi…\n   关键词：GaN\n   日期：2026-09-01\n   Authors: Sihang Liu, Xingyu Fu, Junjie Yang 等\n   https://doi.org/10.1109/led.2026.3713521\n7. [IEEE Electron Device Letters] Semi-On State Hole Generation in GaN HEMTs: Experimental Evidence and TCAD Modeling\n   关键词：GaN\n   日期：2026-09-01\n   Authors: Ying-Chun Kuo, Hao Yu, Nelson de Almeida Braga 等\n   https://doi.org/10.1109/led.2026.3711655\n8. [arXiv] Trap Dynamics and Conductivity Changes in AlGaN/GaN Heterostructures Under Ultrasonic Loadi…\n   关键词：GaN\n   日期：2026-09-01\n   Authors: Vladyslav Kaliuzhnyi, Mykola Tymochko, Oleksandr Gudymenko 等\n   https://arxiv.org/abs/2609.01080v1",
   "papers": [
     {
       "source": "Applied Physics Letters",
@@ -207,44 +207,33 @@
       "reading_notes": "Focus: GaN.\nWhat to check: 功耗或能效表现.\nContext: Semi-On State Hole Generation in GaN HEMTs: Experimental Evidence and TCAD Modeling."
     },
     {
-      "source": "IEEE Electron Device Letters",
-      "uid": "doi:10.1109/led.2026.3716584",
-      "title": "Ge/GeSn Quantum Well MOSFETs for Cryogenic Applications",
-      "url": "https://doi.org/10.1109/led.2026.3716584",
+      "source": "arXiv",
+      "uid": "arxiv:2609.01080v1",
+      "title": "Trap Dynamics and Conductivity Changes in AlGaN/GaN Heterostructures Under Ultrasonic Loading",
+      "url": "https://arxiv.org/abs/2609.01080v1",
       "published": "2026-09-01",
       "authors": [
-        "Jingxuan Sun",
-        "Yi Han",
-        "Xue Bai",
-        "Prateek Kaul",
-        "Yannik Junk",
-        "Jiayuan Zhang",
-        "Yu-Tzu Liao",
-        "Yu-Chen Chang",
-        "Anjana Rajan",
-        "Rafal E. Dunin-Borkowski",
-        "Detlev Grutzmacher",
-        "Joachim Knoch",
-        "Dan Buca",
-        "Qing-Tai Zhao"
+        "Vladyslav Kaliuzhnyi",
+        "Mykola Tymochko",
+        "Oleksandr Gudymenko",
+        "Oleg Olikh",
+        "Alexander Belyaev"
       ],
-      "summary": "Cryogenic CMOS provides critical performance benefits for high-performance computing, space electronics, and quantum interfaces due to enhanced carrier mobility and steeper subthreshold swing (SS). However, the band-tail effect limits the device performance at cryogenic temperatures. In this work, Ge/GeSn quantum well (QW) p-MOSFETs are studied from 300 K down to 5 K. Owing to the QW confinement and the presence of a Ge cap layer, interface-related band-tail states are significantly suppressed. As a result, the Ge/Ge 0.88 Sn 0.12 QW device exhibits a continuously decreasing SS, reaching 15 mV/dec at 5 K, which is the lowest reported SS among the Ge-based p-MOSFETs. This work highlights GeSn QW engineering as an effective strategy for cryogenic CMOS applications.",
-      "score": 11,
-      "priority": 1,
+      "summary": "AlGaN/GaN heterostructures are critical for high-power electronic devices but suffer from electron trapping at defects, limiting reliability. We investigate how ultrasonic vibrations affect electron transport in MOCVD-grown AlGaN/GaN heterostructures by combining temperature-dependent Hall effect and high-resolution X-ray diffraction measurements. Here we demonstrate that ultrasonic loading induces persistent acoustoconductivity and lattice parameter changes, attributed to acoustically driven rearrangement of metastable DX centers. This leads to increased carrier concentration and decreased mobility, reflecting defect state modulation by acoustic strain. These findings provide new insights into trap dynamics under dynamic deformation and suggest ultrasonic treatment as a potential approach to mitigate trapping effects, thereby enhancing the performance and reliability of GaN-based devices.",
+      "score": 5,
+      "priority": 2,
       "highlights": [
-        "MOSFET"
+        "GaN"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET方向，围绕“Ge/GeSn Quantum Well MOSFETs for Cryogenic Applications”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看性能提升、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET方向，围绕“Ge/GeSn Quantum Well MOSFETs for Cryogenic Applications”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看性能提升、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: MOSFET.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: Ge/GeSn Quantum Well MOSFETs for Cryogenic Applications.",
-      "reading_notes": "Focus: MOSFET.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: Ge/GeSn Quantum Well MOSFETs for Cryogenic Applications."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Trap Dynamics and Conductivity Changes in AlGaN/GaN Heterostructures Under Ultr…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Trap Dynamics and Conductivity Changes in AlGaN/GaN Heterostructures Under Ultr…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Trap Dynamics and Conductivity Changes in AlGaN/GaN Heterostructures Under Ultrasonic Loading.",
+      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Trap Dynamics and Conductivity Changes in AlGaN/GaN Heterostructures Under Ultrasonic Loading."
     }
   ],
-  "errors": [
-    "arXiv"
-  ],
+  "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-09-05T00:30:00+00:00"
+  "generated_at": "2026-09-06T00:30:00+00:00"
 }
