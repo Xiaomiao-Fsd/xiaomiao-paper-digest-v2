@@ -1,210 +1,38 @@
 {
   "ok": true,
-  "new_count": 0,
+  "new_count": 2,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-09-06）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 7 篇\n1. [Applied Physics Letters] Ru-mediated oxygen-vacancy redistribution in In-rich oxide thin-film transistors\n   关键词：transistor, GaN\n   日期：2026-08-31\n   Authors: Zefu Zhao, Xiaolin Jiang, Shenglin Pan 等\n   https://doi.org/10.1063/5.0346758\n2. [Applied Physics Letters] Design of DC gate electric field redistribution under high drain voltage for high linearity…\n   关键词：GaN\n   日期：2026-08-31\n   Authors: Xu Zou, Meng Zhang, Ling Yang 等\n   https://doi.org/10.1063/5.0344361\n3. [IEEE Electron Device Letters] Experimental Investigation of Gate-Switching Instability in SiC MOSFETs Under Mission-Profi…\n   关键词：MOSFET, SiC\n   日期：2026-09-01\n   Authors: Ruben Schnitzler, Tobias Fink, Dominik Koch 等\n   https://doi.org/10.1109/led.2026.3718537\n4. [IEEE Electron Device Letters] Multi-Channel AlScN/GaN RF HEMTs Grown by Metal-Organic Chemical Vapor Deposition\n   关键词：deposition, GaN\n   日期：2026-09-01\n   Authors: Utku Agtas, Hakan Cankat Gur, Teresa Duarte 等\n   https://doi.org/10.1109/led.2026.3707933\n5. [IEEE Electron Device Letters] Regrowth-Free Ex-Situ Mg-Diffused GaN-Based HBTs With High Gain of ~200\n   关键词：GaN\n   日期：2026-09-01\n   Authors: Shumeng Yan, Jia Wang, Haitao Wang 等\n   https://doi.org/10.1109/led.2026.3711358\n6. [IEEE Electron Device Letters] GaN-on-Si JBS Diode Using Drive-In Diffusion to Shield p-GaN Regrowth Interface and Achievi…\n   关键词：GaN\n   日期：2026-09-01\n   Authors: Sihang Liu, Xingyu Fu, Junjie Yang 等\n   https://doi.org/10.1109/led.2026.3713521\n7. [IEEE Electron Device Letters] Semi-On State Hole Generation in GaN HEMTs: Experimental Evidence and TCAD Modeling\n   关键词：GaN\n   日期：2026-09-01\n   Authors: Ying-Chun Kuo, Hao Yu, Nelson de Almeida Braga 等\n   https://doi.org/10.1109/led.2026.3711655\n8. [arXiv] Trap Dynamics and Conductivity Changes in AlGaN/GaN Heterostructures Under Ultrasonic Loadi…\n   关键词：GaN\n   日期：2026-09-01\n   Authors: Vladyslav Kaliuzhnyi, Mykola Tymochko, Oleksandr Gudymenko 等\n   https://arxiv.org/abs/2609.01080v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-09-08）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL\n命中 2 篇；Intel/TSMC 重点 0 篇；GaN 关键词 1 篇\n1. [arXiv] Local coordination, structural softening, and polarization-switching energetics in Sc-alloy…\n   关键词：GaN\n   日期：2026-09-04\n   Authors: Shailesh Kalal, Gueorgui Kostov Gueorguiev, Martin Magnuson 等\n   https://arxiv.org/abs/2609.05000v1\n2. [arXiv] Remote epitaxy beyond polarity\n   关键词：epitaxy\n   日期：2026-09-05\n   Authors: Ching-Tai Fu, Pei-Jan Hung, Xudong Li 等\n   https://arxiv.org/abs/2609.05365v1",
   "papers": [
     {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0346758",
-      "title": "Ru-mediated oxygen-vacancy redistribution in In-rich oxide thin-film transistors",
-      "url": "https://doi.org/10.1063/5.0346758",
-      "published": "2026-08-31",
+      "source": "arXiv",
+      "uid": "arxiv:2609.05000v1",
+      "title": "Local coordination, structural softening, and polarization-switching energetics in Sc-alloyed GaN",
+      "url": "https://arxiv.org/abs/2609.05000v1",
+      "published": "2026-09-04",
       "authors": [
-        "Zefu Zhao",
-        "Xiaolin Jiang",
-        "Shenglin Pan",
-        "Kai-Jhih Gan",
-        "Shaohao Wang",
-        "Tiaoyang Li",
-        "Dun-Bao Ruan"
+        "Shailesh Kalal",
+        "Gueorgui Kostov Gueorguiev",
+        "Martin Magnuson",
+        "Edward Ferraz de Almeida Junior",
+        "Rohini Sanikop",
+        "Sagar Jathar",
+        "Per Sandström",
+        "Ray-Hua Horng",
+        "Jens Birch",
+        "Per Eklund",
+        "Ching-Lien Hsiao"
       ],
-      "summary": "Indium-rich amorphous oxide semiconductors exhibit high electron mobility, but oxygen vacancy (Vo) related donors often cause a negative threshold voltage (Vt) and bias-stress instability. This work demonstrates a 2 nm InRuZnO (IRZO) interlayer into an InZnO (IZO) channel as an internal oxygen-affinitive layer, rather than as a conventional bulk dopant. The IZO/IRZO/IZO tri-layer thin-film transistor (TFT) exhibits a field-effect mobility of 31 cm2/V s, a Vt of 0.3 V, a forward–reverse hysteresis below 100 mV, and an ON/OFF current ratio of 4 × 108. X-ray photoelectron spectroscopy depth profiling of the O 1s reveals a Ru-modulated vertical distribution of Vo, with Vo concentrations of 32%, 20%, and 24% in the top IZO, IRZO, and bottom IZO regions, respectively. This depth dependence indicates that the Ru-containing interlayer locally stabilizes oxygen bonding and redistributes Vo across the In-rich channel. The tri-layer TFTs also reduce the ΔVt to −0.3 V after 1000 s of negative gate-bias stress at −2 MV/cm, demonstrating improved reliability. This work identifies Ru-mediated Vo modulation as a route for improving the mobility–stability balance of sputtered In-rich oxide TFTs.",
-      "score": 19,
-      "priority": 2,
-      "highlights": [
-        "transistor",
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、GaN方向，围绕“Ru-mediated oxygen-vacancy redistribution in In-rich oxide thin-film transistors”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、GaN方向，围绕“Ru-mediated oxygen-vacancy redistribution in In-rich oxide thin-film transistors”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管、GaN.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Ru-mediated oxygen-vacancy redistribution in In-rich oxide thin-film transistors.",
-      "reading_notes": "Focus: 晶体管、GaN.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Ru-mediated oxygen-vacancy redistribution in In-rich oxide thin-film transistors."
-    },
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0344361",
-      "title": "Design of DC gate electric field redistribution under high drain voltage for high linearity, wide gain control range, and low <i>C</i> off in GaN dual-mode integrated devices",
-      "url": "https://doi.org/10.1063/5.0344361",
-      "published": "2026-08-31",
-      "authors": [
-        "Xu Zou",
-        "Meng Zhang",
-        "Ling Yang",
-        "Yutong Jiang",
-        "Qian Yu",
-        "Weiyu Ren",
-        "Mei Wu",
-        "Bin Hou",
-        "Hao Lu",
-        "Mao Jia",
-        "Xiaohua Ma",
-        "Yue Hao"
-      ],
-      "summary": "In this work, we propose and demonstrate a technique for optimizing linearity and off-state capacitance (Coff) in dual-mode integrated gallium nitride high-electron-mobility transistors with direct current (DC) gate bias control. In the dual-mode integrated high-electron-mobility transistor (HEMT), the large-resistance bias gate near the drain serves as a modulator for transconductance (gm) and off-state capacitance. It is shown that, in power amplifier mode, adjusting the DC gate bias redistributes the electric field, effectively reduces the peak field between the gate and drain, delays carrier velocity saturation, and mitigates self-heating effects, thereby significantly improving gm under high drain voltage. Measurements demonstrate that by optimizing the DC gate bias, both the output third-order intercept point (OIP3) and the gain of the dual-mode integrated HEMT are markedly enhanced. At 8 GHz and Vd = 50 V, increasing the DC gate bias from −2 to 28 V yields a tunable range of 12.1 dB and an OIP3 of 38.6 dBm. In switching mode, applying a negative DC gate bias introduces a series capacitance and reduces the radio frequency gate capacitance formed by the two-dimensional electron gas, resulting in an ultralow Coff of approximately 5 fF/mm. More importantly, this approach provides a new design degree of freedom: simply varying the DC level of the gate bias enables continuous tuning of the device's linearity, gain, and isolation.",
-      "score": 14,
+      "summary": "Sc-alloyed wurtzite nitrides exhibit strongly tunable electromechanical and ferroelectric properties, yet the relationship between their lattice evolution and local bonding environment remains insufficiently established, particularly in Sc$_x$Ga$_{1-x}$N. Here, we investigate the structural and local bonding evolution of Sc$_x$Ga$_{1-x}$N across the dilute-to-intermediate composition range by combining X-ray diffraction, Sc K-edge X-ray absorption near edge structure (XANES), extended X-ray absorption fine structure (EXAFS) and first-principles calculations. Sc incorporation produces an anisotropic lattice expansion and a progressive reduction in the c/a ratio. XANES and EXAFS reveal a concurrent modification of the local environment around Sc, with the effective Sc-N coordination number increasing from 4.1(4) to 4.5(2) and the average Sc-N bond length increasing from 2.045(7) to 2.081(8)Å over x=0.06-0.26. The local response is accompanied by a reduction in the Sc K-edge pre-edge intensity, consistent with a gradual reduction of the local tetrahedral asymmetry. First-principles calculations show that these structural changes are associated with site-selective distortions around Sc and progressive flattening of the structural energy landscape. The calculated intrinsic polarization-switching barrier decreases from 24.2 to 19.0 meV/Å$^3$ with increasing Sc content, while the calculated piezoelectric stress coefficient (e$_{33}$) increases from 0.82 to 1.66~C/m$^2$ and elastic constant (C$_{33}$) decreases from 380 to 227~GPa, resulting in an increase of piezoelectric strain coefficient (d$_{33}$) from 2.99 to 12.46~pC/N. These results show that Sc incorporation progressively modifies the local coordination environment and structural energetics of ScGaN while the long-range wurtzite structure remains preserved over the investigated composition range.",
+      "score": 7,
       "priority": 2,
       "highlights": [
         "GaN"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Design of DC gate electric field redistribution under high drain voltage for hi…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看性能提升、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Design of DC gate electric field redistribution under high drain voltage for hi…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看性能提升、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Design of DC gate electric field redistribution under high drain voltage for high linearity, wi….",
-      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Design of DC gate electric field redistribution under high drain voltage for high linearity, wi…."
-    },
-    {
-      "source": "IEEE Electron Device Letters",
-      "uid": "doi:10.1109/led.2026.3718537",
-      "title": "Experimental Investigation of Gate-Switching Instability in SiC MOSFETs Under Mission-Profile-Related Non-Monotonic Stress",
-      "url": "https://doi.org/10.1109/led.2026.3718537",
-      "published": "2026-09-01",
-      "authors": [
-        "Ruben Schnitzler",
-        "Tobias Fink",
-        "Dominik Koch",
-        "Diane Bonkoungou",
-        "Ingmar Kallfass"
-      ],
-      "summary": "In high-power-density and efficient power electronic systems, SiC MOSFETs are increasingly used for their superior performance. However, their gate oxide/semiconductor interface remains challenging, and additional degradation mechanisms, such as gate-switching instability (GSI), occur. Extensive monotonic-stress studies have shown that negative gate-source voltage peaks dominate GSI-related degradation, even when occurring only during undershoots. Consequently, degradation depends on the mission profile because gate-voltage undershoot varies with gate resistance, gate-loop inductance, and drain current. However, the resulting non-monotonic GSI-related degradation has not been thoroughly investigated. This letter demonstrates that accounting for gate undershoots is crucial for estimating degradation over the component’s lifetime, as the pre-existing degradation level strongly influences further degradation. This behavior applies to both GSI-related defect activation and deactivation. Furthermore, defect deactivation is highly dependent on the positive gate-source voltage, and after a stress change, even 600 mV of degradation recovers to the degradation obtained under monotonic stress at the same gate-source voltage within ${2}\\!\\cdot\\!{10}^{{11}}$ switching cycles. Additionally, GSI-related defect activation strongly depends on the degradation level, and consequently, mission-profile-related gate-voltage undershoots must be considered, even if they occur only during 5% of the mission profile.",
-      "score": 13,
-      "priority": 2,
-      "highlights": [
-        "MOSFET",
-        "SiC"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、SiC方向，围绕“Experimental Investigation of Gate-Switching Instability in SiC MOSFETs Under M…”展开。摘要显示，文章重点涉及机理分析或模型解释，建议阅读时优先查看性能提升、可靠性与稳定性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、SiC方向，围绕“Experimental Investigation of Gate-Switching Instability in SiC MOSFETs Under M…”展开。摘要显示，文章重点涉及机理分析或模型解释，建议阅读时优先查看性能提升、可靠性与稳定性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: MOSFET、SiC.\nWhat to check: 性能提升、可靠性与稳定性、接触/互连相关指标.\nContext: Experimental Investigation of Gate-Switching Instability in SiC MOSFETs Under Mission-Profile-R….",
-      "reading_notes": "Focus: MOSFET、SiC.\nWhat to check: 性能提升、可靠性与稳定性、接触/互连相关指标.\nContext: Experimental Investigation of Gate-Switching Instability in SiC MOSFETs Under Mission-Profile-R…."
-    },
-    {
-      "source": "IEEE Electron Device Letters",
-      "uid": "doi:10.1109/led.2026.3707933",
-      "title": "Multi-Channel AlScN/GaN RF HEMTs Grown by Metal-Organic Chemical Vapor Deposition",
-      "url": "https://doi.org/10.1109/led.2026.3707933",
-      "published": "2026-09-01",
-      "authors": [
-        "Utku Agtas",
-        "Hakan Cankat Gur",
-        "Teresa Duarte",
-        "Onder Soydal",
-        "Francesco Marcantoni",
-        "Byeongchan So",
-        "Lutz Kirste",
-        "Patrik Stranak",
-        "Mario Prescher",
-        "Stefano Leone",
-        "Rudiger Quay",
-        "Elison Matioli"
-      ],
-      "summary": "We demonstrate multi-channel AlScN/GaN high electron mobility transistors (HEMTs) grown by metal-organic chemical vapor deposition (MOCVD). The five-channel structure exhibits a high electron mobility ( $\\mu $ ) of 1030 cm 2 /V $\\cdot $ s together with a high carrier concentration ( ${n} {_{\\text {s}}}$ ) of ${3}.{58}\\times {10} {^{{13}}}$ cm −2 . Devices with a gate length ( ${L} {_{\\text {g}}}$ ) of 95 nm and a total gate width ( ${W} {_{\\text {g}}}$ ) of ${2}\\times {15}~\\mu $ m were fabricated using a tri-gate architecture with varying fin widths. The 300 nm fin width device achieves a current density of 4.2 A/mm with improved linearity, while reducing the fin width to 75 nm enhances electrostatic control over all channels and yields ${f} {_{\\text {T}}}$ / ${f} {_{\\text {MAX}}}$ of 70/163 GHz. The passivated devices retain a stable I ${}_{\\text {D,max}}$ under repeated measurements and an off-state breakdown of 18.5 V at ${\\text L}_{\\text {GD}} =400$ nm. These results highlight the promise of MOCVD-grown AlScN/GaN multi-channel HEMTs for RF applications, with strong DC and small-signal RF characteristics, motivating further study of their large-signal performance for mm-wave operation.",
-      "score": 13,
-      "priority": 2,
-      "highlights": [
-        "deposition",
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注deposition、GaN方向，围绕“Multi-Channel AlScN/GaN RF HEMTs Grown by Metal-Organic Chemical Vapor Depositi…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注deposition、GaN方向，围绕“Multi-Channel AlScN/GaN RF HEMTs Grown by Metal-Organic Chemical Vapor Depositi…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: deposition、GaN.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Multi-Channel AlScN/GaN RF HEMTs Grown by Metal-Organic Chemical Vapor Deposition.",
-      "reading_notes": "Focus: deposition、GaN.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Multi-Channel AlScN/GaN RF HEMTs Grown by Metal-Organic Chemical Vapor Deposition."
-    },
-    {
-      "source": "IEEE Electron Device Letters",
-      "uid": "doi:10.1109/led.2026.3711358",
-      "title": "Regrowth-Free Ex-Situ Mg-Diffused GaN-Based HBTs With High Gain of ~200",
-      "url": "https://doi.org/10.1109/led.2026.3711358",
-      "published": "2026-09-01",
-      "authors": [
-        "Shumeng Yan",
-        "Jia Wang",
-        "Haitao Wang",
-        "Xiujian Sun",
-        "Xigen Li",
-        "Qian Sun",
-        "Hiroshi Amano"
-      ],
-      "summary": "We demonstrate a high-gain, regrowth-free AlGaN/(In)GaN heterojunction bipolar transistor (HBT) enabled by ex-situ thermal annealing of a patterned metallic magnesium (Mg) film on plasma-damaged p-GaN base layers. Plasma etching of the base region typically introduces surface defects that increase surface recombination and degrade base transport. The proposed Mg/GaN annealing process induces shallow diffusion of a high-concentration Mg acceptor profile near the base surface, mitigating plasma-induced damage without epitaxial regrowth. Circular transfer length method (CTLM) confirms good ohmic contact with linear $I$ – $V$ characteristics and a low specific contact resistivity of $2.38\\times 10^{-{5}} \\Omega \\cdot $ cm 2 . The suppression of base surface recombination reduces the base current, resulting in more than a fourfold increase in the dc current gain $\\beta $ from 42 to 197 and the differential gain ${h}_{\\text {fe}}$ from 50 to 240, despite the relatively large emitter size of $40\\times 40~\\mu $ m 2 . In addition, the differential specific on-resistance ${R}_{\\text {on,sp}}$ decreases from 32.0 m $\\Omega \\cdot $ cm 2 to 1.35 m $\\Omega \\cdot $ cm 2 after the Mg annealing process. These results highlight the strong potential of ex-situ Mg diffusion as a scalable strategy for enhancing the performance of GaN-based HBTs.",
-      "score": 11,
-      "priority": 2,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Regrowth-Free Ex-Situ Mg-Diffused GaN-Based HBTs With High Gain of ~200”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Regrowth-Free Ex-Situ Mg-Diffused GaN-Based HBTs With High Gain of ~200”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Regrowth-Free Ex-Situ Mg-Diffused GaN-Based HBTs With High Gain of ~200.",
-      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Regrowth-Free Ex-Situ Mg-Diffused GaN-Based HBTs With High Gain of ~200."
-    },
-    {
-      "source": "IEEE Electron Device Letters",
-      "uid": "doi:10.1109/led.2026.3713521",
-      "title": "GaN-on-Si JBS Diode Using Drive-In Diffusion to Shield p-GaN Regrowth Interface and Achieving a Breakdown Voltage Beyond 1 kV",
-      "url": "https://doi.org/10.1109/led.2026.3713521",
-      "published": "2026-09-01",
-      "authors": [
-        "Sihang Liu",
-        "Xingyu Fu",
-        "Junjie Yang",
-        "Jiawei Cui",
-        "Zhenghao Chen",
-        "Han Yang",
-        "Teng Li",
-        "Yuqi Huang",
-        "Maojun Wang",
-        "Bo Shen",
-        "Xuelin Yang",
-        "Jin Wei"
-      ],
-      "summary": "This letter reports a GaN-on-Si junction barrier Schottky (JBS) diode with regrown p-GaN wells. To address the notorious Si impurities and defects at the regrowth interface, a post-regrowth drive-in diffusion technique is developed, which pushes the PN junction face beyond the regrowth interface. As a result, the electric field peak in the OFF-state is shifted away from the regrowth interface. The reference JBS diodes (without drive-in diffusion) present a low breakdown voltage ( BV ) of ~20 V irrespective of the p-well spacing ${W}_{\\text {n}}$ , indicating that the excessive leakage current originates from the regrown p-well region rather than the Schottky junction. The JBS diodes with drive-in diffusion achieve BV s of 716 V for ${W}_{\\text {n}} = 3~\\mu $ m and 1021 V for ${W}_{\\text {n}} = 2~\\mu $ m. This work demonstrates that drive-in diffusion is a promising approach for realizing regrowth-based JBS diodes in GaN.",
-      "score": 8,
-      "priority": 2,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“GaN-on-Si JBS Diode Using Drive-In Diffusion to Shield p-GaN Regrowth Interface…”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“GaN-on-Si JBS Diode Using Drive-In Diffusion to Shield p-GaN Regrowth Interface…”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: GaN-on-Si JBS Diode Using Drive-In Diffusion to Shield p-GaN Regrowth Interface and Achieving a….",
-      "reading_notes": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: GaN-on-Si JBS Diode Using Drive-In Diffusion to Shield p-GaN Regrowth Interface and Achieving a…."
-    },
-    {
-      "source": "IEEE Electron Device Letters",
-      "uid": "doi:10.1109/led.2026.3711655",
-      "title": "Semi-On State Hole Generation in GaN HEMTs: Experimental Evidence and TCAD Modeling",
-      "url": "https://doi.org/10.1109/led.2026.3711655",
-      "published": "2026-09-01",
-      "authors": [
-        "Ying-Chun Kuo",
-        "Hao Yu",
-        "Nelson de Almeida Braga",
-        "Jingtian Fang",
-        "Amratansh Gupta",
-        "Sachin Yadav",
-        "Arturo Sibaja-Hernandez",
-        "Alireza Alian",
-        "Uthayasankaran Peralagu",
-        "Nadine Collaert",
-        "Bertrand Parvais"
-      ],
-      "summary": "We explore the physical mechanisms responsible for hole generation in GaN HEMTs in the semi-on state by experimentally investigating dependence of gate-collected hole current on ${V}_{\\text {DS}}$ , ${V}_{\\textit {GS}}$ and temperature. Three key observations contradict conventional impact ionization: the hole current 1) saturates at high electric fields; 2) exhibits a positive temperature dependence; and 3) has a low trigger voltage of $\\mathbf {V}_{\\text {DS}}={2}.{7} {V}$ at 5 K, which is significantly below the GaN bandgap energy. We therefore propose trap-assisted hole generation as the underlying mechanism and implement a corresponding behavioral model in TCAD. TCAD simulations accurately reproduce the observed dependencies of hole generation on ${V}_{\\text {DS}}$ , ${V}_{\\textit {GS}}$ and temperature.",
-      "score": 8,
-      "priority": 2,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Semi-On State Hole Generation in GaN HEMTs: Experimental Evidence and TCAD Mode…”展开。摘要显示，文章重点涉及机理分析或模型解释，建议阅读时优先查看功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Semi-On State Hole Generation in GaN HEMTs: Experimental Evidence and TCAD Mode…”展开。摘要显示，文章重点涉及机理分析或模型解释，建议阅读时优先查看功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 功耗或能效表现.\nContext: Semi-On State Hole Generation in GaN HEMTs: Experimental Evidence and TCAD Modeling.",
-      "reading_notes": "Focus: GaN.\nWhat to check: 功耗或能效表现.\nContext: Semi-On State Hole Generation in GaN HEMTs: Experimental Evidence and TCAD Modeling."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Local coordination, structural softening, and polarization-switching energetics…”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Local coordination, structural softening, and polarization-switching energetics…”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 功耗或能效表现.\nContext: Local coordination, structural softening, and polarization-switching energetics in Sc-alloyed G….",
+      "reading_notes": "Focus: GaN.\nWhat to check: 功耗或能效表现.\nContext: Local coordination, structural softening, and polarization-switching energetics in Sc-alloyed G…."
     },
     {
       "source": "arXiv",
@@ -229,11 +57,167 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Trap Dynamics and Conductivity Changes in AlGaN/GaN Heterostructures Under Ultr…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Trap Dynamics and Conductivity Changes in AlGaN/GaN Heterostructures Under Ultrasonic Loading.",
       "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Trap Dynamics and Conductivity Changes in AlGaN/GaN Heterostructures Under Ultrasonic Loading."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2609.01500v1",
+      "title": "A relational fabrication-to-modeling database for memristor devices",
+      "url": "https://arxiv.org/abs/2609.01500v1",
+      "published": "2026-09-02",
+      "authors": [
+        "Lai Gan",
+        "Guoyang Huang",
+        "Deepika Yadav",
+        "Spyros Stathopoulos",
+        "Ben D. Rowlinson",
+        "Themis Prodromakis"
+      ],
+      "summary": "Resistive random access memory (RRAM) devices, also known as memristors, are highly dependent on fabrication, location on the wafer, and measurement protocols. However, openly available large-scale memristor datasets remain scarce, particularly those that combine experimental metadata with electrical measurements and preserve explicit links across the experimental workflow. Here, we present a comprehensive relational database of automated electrical characterization data from oxide-based memristors. The database links 6,190 memristor devices across TiN/HfOx/TiN, Pt/TiOx/AlOy/Pt, and Pt/TiOx/Pt stacks to 161,006 validated experiments and over 169 million electrical point records. It integrates fabrication, wafer mapping, electrical characterization, and modeling to describe electroforming, current-voltage non-linearity, memory windows (R_off/R_on), switching dynamics, and short-term volatility. Released as a normalized and indexed SQLite database with schema documentation, graphical user interfaces, and examples of empirical modeling, this resource supports provenance-aware querying, statistical analysis, and data-driven applications for the development of future memristor technologies.",
+      "score": 6,
+      "priority": 1,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“A relational fabrication-to-modeling database for memristor devices”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“A relational fabrication-to-modeling database for memristor devices”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: A relational fabrication-to-modeling database for memristor devices.",
+      "reading_notes": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: A relational fabrication-to-modeling database for memristor devices."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2609.03772v1",
+      "title": "Heesch Nodal Lines in Inadmissible Achiral Antiferromagnets",
+      "url": "https://arxiv.org/abs/2609.03772v1",
+      "published": "2026-09-03",
+      "authors": [
+        "Xing-Yao Guo",
+        "Chung-Yuen Chan",
+        "Zi-Ting Sun",
+        "Kam Tuen Law"
+      ],
+      "summary": "Recently, a new class of Weyl semimetals in antiferromagnets named Heesch Weyl semimetals was discovered, which have inadmissible chiral magnetic point group symmetries (inadmissible magnetic point groups are incompatible with ferromagnetic order) and distinctive surface Fermi arcs. In Heesch Weyl semimetals, the Weyl points are pinned at high symmetry momenta with two-dimensional irreducible corepresentations in the Brillouin zone. As the Weyl points are pinned, the Weyl points with opposite topological charges cannot emerge or be brought together for creation and annihilation as in conventional Weyl semimetals. In this work, we show that when mirror or rotoinversion symmetries are restored so that the point group becomes achiral, long doubly degenerate lines connecting Weyl points with opposite topological charges emerge. We call these lines the Heesch nodal lines (HNLs) and their host materials the Heesch nodal line antiferromagnets. HNLs result in a large number of two-dimensional massless Dirac cones for planes intercepting the HNLs in the Brillouin zone. Moreover, a large subset of the HNL antiferromagnets has the special property that the lowest nonvanishing order of the nonlinear anomalous Hall effect starts with the third order. First-principles calculations on representative collinear and noncollinear antiferromagnets, such as MnTe, CrSb, and Mn$_3$GaN, confirm our predictions on the presence of HNLs. When the inadmissible symmetry is broken by strain, the double degeneracy of the HNLs is lifted and the associated massless Dirac cones are gapped out, providing a route to realizing sizable anomalous Hall effects in antiferromagnetic crystals. We conclude that all inadmissible antiferromagnets without parity-time symmetry are topological. They are either Heesch Weyl antiferromagnets or Heesch nodal line antiferromagnets.",
+      "score": 4,
+      "priority": 1,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Heesch Nodal Lines in Inadmissible Achiral Antiferromagnets”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Heesch Nodal Lines in Inadmissible Achiral Antiferromagnets”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Heesch Nodal Lines in Inadmissible Achiral Antiferromagnets.",
+      "reading_notes": "Focus: GaN.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Heesch Nodal Lines in Inadmissible Achiral Antiferromagnets."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2609.00835v1",
+      "title": "Metastable defects in III-Nitrides",
+      "url": "https://arxiv.org/abs/2609.00835v1",
+      "published": "2026-09-01",
+      "authors": [
+        "A. E. Belyaev"
+      ],
+      "summary": "Metastable states in III-nitrides (AlN, GaN, InN and their alloys) are an important topic across materials science, device physics, and epitaxial growth because these compounds exhibit multiple competing crystal structures, defect configurations, and phase behaviors that strongly affect optical, electrical, and mechanical properties. The paper is a concise, structured review-style summary covering the main concepts, mechanisms, experimental signatures, theoretical approaches, and device implications. Actions that should be proposed to avoid effect of metastable defects in III-Nitride based devices are discussed. Avoiding metastable defect effects in III nitride devices requires preventing their formation (through growth and doping control), stabilizing their electronic configuration (by annealing or optical activation), and designing device architectures that minimize field- or temperature induced transitions. These combined actions ensure consistent carrier density, higher mobility, and superior optical and electrical reliability in GaN , AlGaN , and InGaN based devices.",
+      "score": 4,
+      "priority": 1,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Metastable defects in III-Nitrides”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Metastable defects in III-Nitrides”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 可靠性与稳定性.\nContext: Metastable defects in III-Nitrides.",
+      "reading_notes": "Focus: GaN.\nWhat to check: 可靠性与稳定性.\nContext: Metastable defects in III-Nitrides."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2609.03757v1",
+      "title": "Ion-Engineered Insulator-to-Semiconductor Transition in Natural 2D Biotite",
+      "url": "https://arxiv.org/abs/2609.03757v1",
+      "published": "2026-09-03",
+      "authors": [
+        "Dipanwita Mitra",
+        "Raphael B. de Oliveira",
+        "Guilherme S. L. Fabris",
+        "Debkanta Ghosh",
+        "AyonJyoti Karmakar",
+        "Raphael M. Tromer",
+        "Marcelo L. Pereira Junior",
+        "Douglas S. Galvão",
+        "Chandra Sekhar Tiwary",
+        "Prasanta Kumar Datta"
+      ],
+      "summary": "Naturally occurring layered silicates offer an abundant yet unexplored class of 2D materials, but their insulating nature limits their functional utility. Here, we demonstrate a chemical strategy that transforms liquid-phase-exfoliated biotite nanosheets into a tunable 2D semiconductor through controlled NaOH treatment. The resulting insulator-to-semiconductor transition originates from Na incorporation, defect generation, and local structural reconstruction while largely preserving the layered framework. Structural and chemical analyses reveal lattice distortion, interlayer reorganization, hydroxylation, and partial Na+-K+ exchange, establishing the origin of the electronic restructuring. This transformation broadens the optical response, shifting the approximately 221 nm absorption toward approximately 280 and 975 nm, reducing the optical bandgap from approximately 5.2 to 3.2-3.5 eV, and introducing low-energy transitions at approximately 1.12-1.17 eV. Electrical measurements reveal nonlinear transport with currents reaching close to 10 microA, demonstrating activated carrier conduction. Ultrafast transient absorption reveals pronounced excited-state absorption, with carrier cooling (0.16-0.38 ps) followed by fast (35-60 ps) and long-lived (336-491 ps) relaxation associated with trap-mediated recombination. Fluence-dependent dynamics reveal a hot-phonon bottleneck at elevated carrier densities. Together with density functional theory calculations, these results establish chemical defect and ion engineering as a powerful route for converting naturally abundant layered minerals into electronically tunable 2D materials for emerging optoelectronic and ultrafast photonic technologies.",
+      "score": 8,
+      "priority": 0,
+      "highlights": [
+        "semiconductor"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体方向，围绕“Ion-Engineered Insulator-to-Semiconductor Transition in Natural 2D Biotite”展开。摘要显示，文章重点涉及电学/光学表征与测试结果，建议阅读时优先查看先进尺度下的可扩展性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体方向，围绕“Ion-Engineered Insulator-to-Semiconductor Transition in Natural 2D Biotite”展开。摘要显示，文章重点涉及电学/光学表征与测试结果，建议阅读时优先查看先进尺度下的可扩展性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 半导体.\nWhat to check: 先进尺度下的可扩展性、功耗或能效表现.\nContext: Ion-Engineered Insulator-to-Semiconductor Transition in Natural 2D Biotite.",
+      "reading_notes": "Focus: 半导体.\nWhat to check: 先进尺度下的可扩展性、功耗或能效表现.\nContext: Ion-Engineered Insulator-to-Semiconductor Transition in Natural 2D Biotite."
+    },
+    {
+      "source": "Nature Electronics",
+      "uid": "Nature Electronics:10.1038/s41928-026-01693-2",
+      "title": "How we discovered ferroelectricity in hafnium oxide thin films",
+      "url": "https://www.nature.com/articles/s41928-026-01693-2",
+      "published": "2026-09-04",
+      "authors": [],
+      "summary": "Nature Electronics, Published online: 04 September 2026; doi:10.1038/s41928-026-01693-2 Oxide-based ferroelectric materials are expected to have a key role in the future of semiconductor devices. Tim Böscke, Ulrich Böttger and Uwe Schroeder recount how ferroelectricity in hafnium oxide thin films was first discovered.",
+      "score": 7,
+      "priority": 0,
+      "highlights": [],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“How we discovered ferroelectricity in hafnium oxide thin films”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“How we discovered ferroelectricity in hafnium oxide thin films”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: How we discovered ferroelectricity in hafnium oxide thin films.",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: How we discovered ferroelectricity in hafnium oxide thin films."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2609.05365v1",
+      "title": "Remote epitaxy beyond polarity",
+      "url": "https://arxiv.org/abs/2609.05365v1",
+      "published": "2026-09-05",
+      "authors": [
+        "Ching-Tai Fu",
+        "Pei-Jan Hung",
+        "Xudong Li",
+        "Xiaolong Zhu",
+        "Yu Han",
+        "Sayantan Mahapatra",
+        "Zhiheng Zhao",
+        "Qingsong Fan",
+        "Xubing Wu",
+        "Qizhang Li",
+        "Chenxi Sui",
+        "Zirui Zhou",
+        "Ting-Hsuan Chen",
+        "Cheng-Hao Lei",
+        "Ivan Kuzmenko",
+        "Xiaobing Zuo",
+        "Byeongdu Lee",
+        "Alexander S. Filatov",
+        "Jeffrey R. Guest",
+        "Fengyuan Shi",
+        "Yuzi Liu",
+        "Hua Zhou",
+        "Yunfeng Shi",
+        "Po-Chun Hsu"
+      ],
+      "summary": "Remote epitaxy through a monolayer two-dimensional material-covered substrate establishes a crystallographic registry across the van der Waals (vdW) surface that enables the epitaxial growth, lift-off and transfer of single-crystalline films. A central belief in remote epitaxy is that the substrate facilitating the phenomenon must be a material with strong ionicity, as the interatomic electrostatic potential fluctuation in covalent and metallic materials is substantially attenuated by two-dimensional materials. Here, we show remote epitaxy is possible when the substrate is a metallic or covalently bonded material and experimentally demonstrate non-polar remote homo- and heteroepitaxy across a wide range of material systems, including both metals and semiconductors. The achieved non-polar remote interactions are designed and engineered by harnessing substrate conductivity and vicinal surface step-edge density. These findings indicate that remote epitaxy is universal and applicable to ionic, metallic, and covalent materials, expanding its capabilities and stimulating a plethora of new fundamental scientific questions about the mechanism of remote epitaxy.",
+      "score": 5,
+      "priority": 0,
+      "highlights": [
+        "epitaxy"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注epitaxy方向，围绕“Remote epitaxy beyond polarity”展开。摘要显示，文章重点涉及制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注epitaxy方向，围绕“Remote epitaxy beyond polarity”展开。摘要显示，文章重点涉及制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: epitaxy.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Remote epitaxy beyond polarity.",
+      "reading_notes": "Focus: epitaxy.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Remote epitaxy beyond polarity."
     }
   ],
   "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-09-06T00:30:00+00:00"
+  "generated_at": "2026-09-08T00:30:00+00:00"
 }
