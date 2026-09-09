@@ -1,9 +1,65 @@
 {
   "ok": true,
-  "new_count": 2,
+  "new_count": 4,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-09-08）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL\n命中 2 篇；Intel/TSMC 重点 0 篇；GaN 关键词 1 篇\n1. [arXiv] Local coordination, structural softening, and polarization-switching energetics in Sc-alloy…\n   关键词：GaN\n   日期：2026-09-04\n   Authors: Shailesh Kalal, Gueorgui Kostov Gueorguiev, Martin Magnuson 等\n   https://arxiv.org/abs/2609.05000v1\n2. [arXiv] Remote epitaxy beyond polarity\n   关键词：epitaxy\n   日期：2026-09-05\n   Authors: Ching-Tai Fu, Pei-Jan Hung, Xudong Li 等\n   https://arxiv.org/abs/2609.05365v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-09-09）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 4 篇；Intel/TSMC 重点 0 篇；GaN 关键词 2 篇\n1. [Applied Physics Letters] Diameter-tuned emission from InGaN/GaN nanowire arrays\n   关键词：GaN\n   日期：2026-09-07\n   Authors: Qi Chen, Bo Shi, Meng Liang 等\n   https://doi.org/10.1063/5.0347511\n2. [Applied Physics Letters] Self-powered programmable UV optoelectronic logic gates via polarity-reversal photocurrent …\n   关键词：GaN\n   日期：2026-09-07\n   Authors: Xumin Gao, Zheheng Liu, Sirui Wu 等\n   https://doi.org/10.1063/5.0343859\n3. [Applied Physics Letters] Radiation effects of heavy ions in hydrogen-terminated diamond field-effect transistors\n   关键词：transistor\n   日期：2026-09-07\n   Authors: Yang Liu, Xing Li, Si-Lei Zhong 等\n   https://doi.org/10.1063/5.0345345\n4. [Applied Physics Letters] Zr-related states in AlN probed by photocurrent excitation spectroscopy\n   日期：2026-09-07\n   Authors: F. A. Rafi, H. Alwan, J. Li 等\n   https://doi.org/10.1063/5.0347982",
   "papers": [
+    {
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0347511",
+      "title": "Diameter-tuned emission from InGaN/GaN nanowire arrays",
+      "url": "https://doi.org/10.1063/5.0347511",
+      "published": "2026-09-07",
+      "authors": [
+        "Qi Chen",
+        "Bo Shi",
+        "Meng Liang",
+        "Junjie Kang",
+        "Junxi Wang",
+        "Tailiang Guo",
+        "Jinmin Li",
+        "Chaoxing Wu",
+        "Zhiqiang Liu"
+      ],
+      "summary": "High-density, spatially defined multicolor emitters are key building blocks for ultrahigh-resolution displays. However, monolithic integration of such emitters on the same chip remains difficult as the pixel size is reduced to the submicrometer scale. Here, we demonstrate diameter-controlled, wavelength-tunable GaN-based core–shell nanowire (NW) emitters through direct epitaxial growth. By optimizing the selective area growth (SAG) conditions, highly ordered and vertically well-aligned n-GaN core NW arrays are obtained. Subsequent growth of InGaN/GaN multiple quantum wells and p-GaN shells yields core–shell NW arrays with strong luminescence. By engineering the SAG opening size and utilizing the diameter-dependent indium incorporation mechanism, the emission wavelength of the core–shell nanowires is continuously tuned from blue to green. These results provide a viable route toward monolithic multicolor integration for ultrahigh-resolution display applications.",
+      "score": 9,
+      "priority": 2,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Diameter-tuned emission from InGaN/GaN nanowire arrays”展开。摘要显示，文章重点涉及机理分析或模型解释，建议阅读时优先查看效率/耦合表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Diameter-tuned emission from InGaN/GaN nanowire arrays”展开。摘要显示，文章重点涉及机理分析或模型解释，建议阅读时优先查看效率/耦合表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 效率/耦合表现、与既有工艺平台的集成价值.\nContext: Diameter-tuned emission from InGaN/GaN nanowire arrays.",
+      "reading_notes": "Focus: GaN.\nWhat to check: 效率/耦合表现、与既有工艺平台的集成价值.\nContext: Diameter-tuned emission from InGaN/GaN nanowire arrays."
+    },
+    {
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0343859",
+      "title": "Self-powered programmable UV optoelectronic logic gates via polarity-reversal photocurrent in a Ga2O3/GaN heterojunction",
+      "url": "https://doi.org/10.1063/5.0343859",
+      "published": "2026-09-07",
+      "authors": [
+        "Xumin Gao",
+        "Zheheng Liu",
+        "Sirui Wu",
+        "Xiang Gao",
+        "Mingyuan Xie",
+        "Feifei Qin",
+        "Yongjin Wang",
+        "Hongbo Zhu",
+        "Zheng Shi"
+      ],
+      "summary": "Ultraviolet optoelectronic logic gates are attractive for low-power information processing in secure sensing and communication systems. Here, a self-powered, Ga2O3/GaN heterojunction photodetector (PD) that enables input-controlled reconfigurable ultraviolet (UV) optoelectronic logic gates under zero bias is reported. The built-in electric field of the heterojunction induces photocurrent polarity reversal under 254 and 365 nm illumination, providing the basis for logic-gate reconfiguration. On this basis, two operation modes, termed switch-to-logic (via LED on/off states) and voltage-to-logic (via driving-voltage modulation), are established to implement six representative Boolean logic functions including AND, OR, NAND, NOR, XOR, and XNOR with a single device. The photodetector exhibits zero-bias responsivities (R) of 1.8 mA/W at 254 nm and 1.23 mA/W at 365 nm, together with specific detectivities (D*) above 1×1010 Jones at both wavelengths. Logic switching is achieved by modulating either the illumination states or the driving-voltage windows of two UV light sources without altering the device structure. This work provides a compact and low-power proof-of-concept platform for self-powered UV optoelectronic logic gates and highlights the potential of wide-bandgap heterojunctions for low-power ultraviolet information processing.",
+      "score": 8,
+      "priority": 2,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Self-powered programmable UV optoelectronic logic gates via polarity-reversal p…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Self-powered programmable UV optoelectronic logic gates via polarity-reversal p…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Self-powered programmable UV optoelectronic logic gates via polarity-reversal photocurrent in a….",
+      "reading_notes": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Self-powered programmable UV optoelectronic logic gates via polarity-reversal photocurrent in a…."
+    },
     {
       "source": "arXiv",
       "uid": "arxiv:2609.05000v1",
@@ -35,53 +91,34 @@
       "reading_notes": "Focus: GaN.\nWhat to check: 功耗或能效表现.\nContext: Local coordination, structural softening, and polarization-switching energetics in Sc-alloyed G…."
     },
     {
-      "source": "arXiv",
-      "uid": "arxiv:2609.01080v1",
-      "title": "Trap Dynamics and Conductivity Changes in AlGaN/GaN Heterostructures Under Ultrasonic Loading",
-      "url": "https://arxiv.org/abs/2609.01080v1",
-      "published": "2026-09-01",
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0345345",
+      "title": "Radiation effects of heavy ions in hydrogen-terminated diamond field-effect transistors",
+      "url": "https://doi.org/10.1063/5.0345345",
+      "published": "2026-09-07",
       "authors": [
-        "Vladyslav Kaliuzhnyi",
-        "Mykola Tymochko",
-        "Oleksandr Gudymenko",
-        "Oleg Olikh",
-        "Alexander Belyaev"
+        "Yang Liu",
+        "Xing Li",
+        "Si-Lei Zhong",
+        "Weili Fu",
+        "Xiao-Ning Zhang",
+        "Zhi-Feng Lei",
+        "Chao Peng",
+        "Hong Zhang",
+        "Zhan-Gang Zhang",
+        "Teng Ma",
+        "Jia-Yue Yang"
       ],
-      "summary": "AlGaN/GaN heterostructures are critical for high-power electronic devices but suffer from electron trapping at defects, limiting reliability. We investigate how ultrasonic vibrations affect electron transport in MOCVD-grown AlGaN/GaN heterostructures by combining temperature-dependent Hall effect and high-resolution X-ray diffraction measurements. Here we demonstrate that ultrasonic loading induces persistent acoustoconductivity and lattice parameter changes, attributed to acoustically driven rearrangement of metastable DX centers. This leads to increased carrier concentration and decreased mobility, reflecting defect state modulation by acoustic strain. These findings provide new insights into trap dynamics under dynamic deformation and suggest ultrasonic treatment as a potential approach to mitigate trapping effects, thereby enhancing the performance and reliability of GaN-based devices.",
-      "score": 5,
-      "priority": 2,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Trap Dynamics and Conductivity Changes in AlGaN/GaN Heterostructures Under Ultr…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Trap Dynamics and Conductivity Changes in AlGaN/GaN Heterostructures Under Ultr…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Trap Dynamics and Conductivity Changes in AlGaN/GaN Heterostructures Under Ultrasonic Loading.",
-      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Trap Dynamics and Conductivity Changes in AlGaN/GaN Heterostructures Under Ultrasonic Loading."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2609.01500v1",
-      "title": "A relational fabrication-to-modeling database for memristor devices",
-      "url": "https://arxiv.org/abs/2609.01500v1",
-      "published": "2026-09-02",
-      "authors": [
-        "Lai Gan",
-        "Guoyang Huang",
-        "Deepika Yadav",
-        "Spyros Stathopoulos",
-        "Ben D. Rowlinson",
-        "Themis Prodromakis"
-      ],
-      "summary": "Resistive random access memory (RRAM) devices, also known as memristors, are highly dependent on fabrication, location on the wafer, and measurement protocols. However, openly available large-scale memristor datasets remain scarce, particularly those that combine experimental metadata with electrical measurements and preserve explicit links across the experimental workflow. Here, we present a comprehensive relational database of automated electrical characterization data from oxide-based memristors. The database links 6,190 memristor devices across TiN/HfOx/TiN, Pt/TiOx/AlOy/Pt, and Pt/TiOx/Pt stacks to 161,006 validated experiments and over 169 million electrical point records. It integrates fabrication, wafer mapping, electrical characterization, and modeling to describe electroforming, current-voltage non-linearity, memory windows (R_off/R_on), switching dynamics, and short-term volatility. Released as a normalized and indexed SQLite database with schema documentation, graphical user interfaces, and examples of empirical modeling, this resource supports provenance-aware querying, statistical analysis, and data-driven applications for the development of future memristor technologies.",
-      "score": 6,
+      "summary": "Hydrogen-terminated diamond field-effect transistors (H-diamond FETs) are promising for radiation-tolerant electronics, but the response of the Al2O3/H-diamond gate stack to swift heavy ions remains insufficiently understood. Here, H-diamond FETs were irradiated with 1260 MeV Kr+ ions at fluences ranging from 1 × 106 to 1 × 108 ions/cm2 under different gate-bias conditions. DC, gate leakage, C–V, transient, and deep-level transient spectroscopy (DLTS) measurements were performed to evaluate device degradation. As the fluence increased, the threshold-voltage shift (ΔVth) increased from 2.50 ± 0.17 to 11.50 ± 0.51 V, while the relative transconductance reduction increased from 19.51% ± 1.12% to 65.16% ± 0.60%. At 1 × 108 ions/cm2, the subthreshold swing increased from approximately 0.240 to 0.400 ± 0.014 V/dec, and the 90% rise time increased from 0.24 to 0.44 ms. Degradation was more pronounced under positive gate bias during irradiation, suggesting field-assisted charge trapping. The increased gate leakage, C–V distortion, and 3.7-fold enhancement of the DLTS signal are consistent with irradiation-induced trapped charge and electrically active defects in the gate stack. These results identify gate-dielectric charge stability and Al2O3/H-diamond interface quality as key targets for radiation hardening.",
+      "score": 10,
       "priority": 1,
       "highlights": [
-        "GaN"
+        "transistor"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“A relational fabrication-to-modeling database for memristor devices”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“A relational fabrication-to-modeling database for memristor devices”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: A relational fabrication-to-modeling database for memristor devices.",
-      "reading_notes": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: A relational fabrication-to-modeling database for memristor devices."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Radiation effects of heavy ions in hydrogen-terminated diamond field-effect tra…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Radiation effects of heavy ions in hydrogen-terminated diamond field-effect tra…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Radiation effects of heavy ions in hydrogen-terminated diamond field-effect transistors.",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Radiation effects of heavy ions in hydrogen-terminated diamond field-effect transistors."
     },
     {
       "source": "arXiv",
@@ -105,26 +142,6 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Heesch Nodal Lines in Inadmissible Achiral Antiferromagnets”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: GaN.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Heesch Nodal Lines in Inadmissible Achiral Antiferromagnets.",
       "reading_notes": "Focus: GaN.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Heesch Nodal Lines in Inadmissible Achiral Antiferromagnets."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2609.00835v1",
-      "title": "Metastable defects in III-Nitrides",
-      "url": "https://arxiv.org/abs/2609.00835v1",
-      "published": "2026-09-01",
-      "authors": [
-        "A. E. Belyaev"
-      ],
-      "summary": "Metastable states in III-nitrides (AlN, GaN, InN and their alloys) are an important topic across materials science, device physics, and epitaxial growth because these compounds exhibit multiple competing crystal structures, defect configurations, and phase behaviors that strongly affect optical, electrical, and mechanical properties. The paper is a concise, structured review-style summary covering the main concepts, mechanisms, experimental signatures, theoretical approaches, and device implications. Actions that should be proposed to avoid effect of metastable defects in III-Nitride based devices are discussed. Avoiding metastable defect effects in III nitride devices requires preventing their formation (through growth and doping control), stabilizing their electronic configuration (by annealing or optical activation), and designing device architectures that minimize field- or temperature induced transitions. These combined actions ensure consistent carrier density, higher mobility, and superior optical and electrical reliability in GaN , AlGaN , and InGaN based devices.",
-      "score": 4,
-      "priority": 1,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Metastable defects in III-Nitrides”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Metastable defects in III-Nitrides”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 可靠性与稳定性.\nContext: Metastable defects in III-Nitrides.",
-      "reading_notes": "Focus: GaN.\nWhat to check: 可靠性与稳定性.\nContext: Metastable defects in III-Nitrides."
     },
     {
       "source": "arXiv",
@@ -172,52 +189,31 @@
       "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: How we discovered ferroelectricity in hafnium oxide thin films."
     },
     {
-      "source": "arXiv",
-      "uid": "arxiv:2609.05365v1",
-      "title": "Remote epitaxy beyond polarity",
-      "url": "https://arxiv.org/abs/2609.05365v1",
-      "published": "2026-09-05",
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0347982",
+      "title": "Zr-related states in AlN probed by photocurrent excitation spectroscopy",
+      "url": "https://doi.org/10.1063/5.0347982",
+      "published": "2026-09-07",
       "authors": [
-        "Ching-Tai Fu",
-        "Pei-Jan Hung",
-        "Xudong Li",
-        "Xiaolong Zhu",
-        "Yu Han",
-        "Sayantan Mahapatra",
-        "Zhiheng Zhao",
-        "Qingsong Fan",
-        "Xubing Wu",
-        "Qizhang Li",
-        "Chenxi Sui",
-        "Zirui Zhou",
-        "Ting-Hsuan Chen",
-        "Cheng-Hao Lei",
-        "Ivan Kuzmenko",
-        "Xiaobing Zuo",
-        "Byeongdu Lee",
-        "Alexander S. Filatov",
-        "Jeffrey R. Guest",
-        "Fengyuan Shi",
-        "Yuzi Liu",
-        "Hua Zhou",
-        "Yunfeng Shi",
-        "Po-Chun Hsu"
+        "F. A. Rafi",
+        "H. Alwan",
+        "J. Li",
+        "J. Y. Lin",
+        "H. X. Jiang"
       ],
-      "summary": "Remote epitaxy through a monolayer two-dimensional material-covered substrate establishes a crystallographic registry across the van der Waals (vdW) surface that enables the epitaxial growth, lift-off and transfer of single-crystalline films. A central belief in remote epitaxy is that the substrate facilitating the phenomenon must be a material with strong ionicity, as the interatomic electrostatic potential fluctuation in covalent and metallic materials is substantially attenuated by two-dimensional materials. Here, we show remote epitaxy is possible when the substrate is a metallic or covalently bonded material and experimentally demonstrate non-polar remote homo- and heteroepitaxy across a wide range of material systems, including both metals and semiconductors. The achieved non-polar remote interactions are designed and engineered by harnessing substrate conductivity and vicinal surface step-edge density. These findings indicate that remote epitaxy is universal and applicable to ionic, metallic, and covalent materials, expanding its capabilities and stimulating a plethora of new fundamental scientific questions about the mechanism of remote epitaxy.",
-      "score": 5,
+      "summary": "Zirconium (Zr) is predicted and experimentally confirmed to substitute on the Al site (ZrAl), where it acts as a deep donor approximately 1.5 eV below the conduction band minimum in aluminum nitride (AlN). Furthermore, the neutral zirconium-nitrogen vacancy complex, (ZrAl–VN)0, has been predicted to be an attractive candidate for room-temperature qubits. In this work, Zr-doped AlN epilayers were synthesized on AlN bulk substrates via metal-organic chemical vapor deposition. Structural and morphological characterizations confirmed excellent crystalline orientation and sub-nanometer surface roughness. While photoluminescence spectra were dominated by vacancy-impurity complexes, photocurrent excitation spectroscopy effectively mapped Zr-related states. Specifically, an isolated donor level was resolved at 1.5 eV alongside (ZrAl–VN)0/1− complex configurations near 2 and 3 eV. Each complex exhibits a distinct 0.2 eV doublet splitting driven by π-bonding and σ-bonding configurations within the wurtzite lattice. These findings provide experimental confirmation of the deep-level electronic properties of Zr in AlN, establishing a framework for the development of extrinsic photoconductive semiconductor switches and room-temperature qubit applications.",
+      "score": 6,
       "priority": 0,
-      "highlights": [
-        "epitaxy"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注epitaxy方向，围绕“Remote epitaxy beyond polarity”展开。摘要显示，文章重点涉及制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注epitaxy方向，围绕“Remote epitaxy beyond polarity”展开。摘要显示，文章重点涉及制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: epitaxy.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Remote epitaxy beyond polarity.",
-      "reading_notes": "Focus: epitaxy.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Remote epitaxy beyond polarity."
+      "highlights": [],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Zr-related states in AlN probed by photocurrent excitation spectroscopy”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Zr-related states in AlN probed by photocurrent excitation spectroscopy”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 先进尺度下的可扩展性.\nContext: Zr-related states in AlN probed by photocurrent excitation spectroscopy.",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 先进尺度下的可扩展性.\nContext: Zr-related states in AlN probed by photocurrent excitation spectroscopy."
     }
   ],
   "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-09-08T00:30:00+00:00"
+  "generated_at": "2026-09-09T00:30:00+00:00"
 }
