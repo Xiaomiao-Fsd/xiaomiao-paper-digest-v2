@@ -1,9 +1,64 @@
 {
   "ok": true,
-  "new_count": 3,
+  "new_count": 15,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-09-10）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 3 篇；Intel/TSMC 重点 0 篇；GaN 关键词 2 篇\n1. [Applied Physics Letters] Enhanced threshold-voltage stability via local strain mitigation in GaN HEMTs with a crysta…\n   关键词：GaN\n   日期：2026-09-07\n   Authors: Xin Luo, Peng Cui, Guodong Wang 等\n   https://doi.org/10.1063/5.0334214\n2. [Applied Physics Letters] Gate transport mechanism and PBTI in E-mode GaN HEMT with a <i>p</i> - <i>i</i> - <i>n</i> …\n   关键词：GaN\n   日期：2026-09-07\n   Authors: Mao Jia, Bin Hou, Ling Yang 等\n   https://doi.org/10.1063/5.0350747\n3. [Science Advances] Harnessing in-situ tribo-plasma emission for energy harvesting\n   日期：2026-09-11\n   Authors: Qixuan Zeng, Liming Tan, Fan Xu 等\n   https://doi.org/10.1126/sciadv.aei0397\n注：以下源本次抓取失败：arXiv",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-09-11）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 2 篇\n1. [arXiv] Wafer-Level 1/f Noise Characterization of Scaled P-Type Nanosheets and Comparison with Plan…\n   关键词：transistor, nanosheets, wafer\n   日期：2026-09-08\n   Authors: Ruben Asanovski, Anabela Veloso, Ben Kaczer 等\n   https://arxiv.org/abs/2609.08674v1\n2. [Applied Physics Letters] Ta2O5-based recessed-gate enhancement-mode GaN HEMT with exceptionally low gate leakage and…\n   关键词：GaN\n   日期：2026-09-07\n   Authors: Mahalaxmi Patil, Subhajit Basak, Bhanu B. Upadhyay 等\n   https://doi.org/10.1063/5.0351330\n3. [arXiv] Thermal Stability and Carrier Recombination Kinetics in InGaN/GaN Multiple Quantum Wells un…\n   关键词：GaN\n   日期：2026-09-10\n   Authors: Quan-Shan Liu, Sadia Sheraz, Sabina Gurung 等\n   https://arxiv.org/abs/2609.10426v1\n4. [arXiv] Unveiling the Scaling Potential of Drain Merge through Active (DMtA) in CFETs: Breaking the…\n   关键词：CFET\n   日期：2026-09-07\n   Authors: Jingru Jiang, Haoran Lu, Kairong Guo 等\n   https://arxiv.org/abs/2609.07329v1\n5. [Physical Review B] Edge states of a <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mrow> <mml:…\n   关键词：nanosheet\n   日期：2026-09-10\n   Authors: S. P. J. Koenis, L. Maisel Licerán, H. T. C. Stoof\n   https://doi.org/10.1103/5xrk-zq8m\n6. [arXiv] $β-(Al_{0.19} Ga_{0.81})_2 O_3/Ga_2 O_3$ Modulation-Doped Field-Effect Transistors with $>$…\n   关键词：transistor\n   日期：2026-09-06\n   Authors: Julian Gervassi Saga, Joshua T Buontempo, Nabasindhu Das 等\n   https://arxiv.org/abs/2609.06414v1\n7. [Applied Physics Letters] Emergence of strong ferroelectricity in pristine HfO2 via interfacial elemental diffusion\n   关键词：HfO2\n   日期：2026-09-07\n   Authors: Hai Ci, Junbo Xu, Yangfei Gao 等\n   https://doi.org/10.1063/5.0340978\n8. [arXiv] A Transport Framework for Evaluating Nanoscale Interconnect Materials\n   关键词：interconnect\n   日期：2026-09-06\n   Authors: Md. Rafiqul Islam, Patrick E. Hopkins\n   https://arxiv.org/abs/2609.06170v1",
   "papers": [
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2609.08674v1",
+      "title": "Wafer-Level 1/f Noise Characterization of Scaled P-Type Nanosheets and Comparison with Planar HKMG Transistors",
+      "url": "https://arxiv.org/abs/2609.08674v1",
+      "published": "2026-09-08",
+      "authors": [
+        "Ruben Asanovski",
+        "Anabela Veloso",
+        "Ben Kaczer",
+        "Naoto Horiguchi",
+        "Jacopo Franco"
+      ],
+      "summary": "We present a comprehensive wafer-level 1/f noise study of scaled Gate-All-Around (GAA) p-type nanosheet transistors and benchmark them against large-area planar High- \\k{appa} Metal Gate (HKMG) devices to assess the impact of device architecture on reliability. By statistically analyzing noise data from 188 nanosheets, we extract the effective trap density in the dielectric and compare it to that of planar transistors with identical gate stack, comparable processing thermal budgets, and no specific reliability anneals. The effective trap density extracted from 1/f noise is comparable in planar and nanosheet architectures. This indicates that transitioning to GAA nanosheets does not increase noise, which remains governed by gate stack quality.",
+      "score": 22,
+      "priority": 2,
+      "highlights": [
+        "transistor",
+        "nanosheets",
+        "wafer"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、nanosheets、wafer方向，围绕“Wafer-Level 1/f Noise Characterization of Scaled P-Type Nanosheets and Comparis…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看可靠性与稳定性、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、nanosheets、wafer方向，围绕“Wafer-Level 1/f Noise Characterization of Scaled P-Type Nanosheets and Comparis…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看可靠性与稳定性、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 晶体管、nanosheets、wafer.\nWhat to check: 可靠性与稳定性、先进尺度下的可扩展性.\nContext: Wafer-Level 1/f Noise Characterization of Scaled P-Type Nanosheets and Comparison with Planar H….",
+      "reading_notes": "Focus: 晶体管、nanosheets、wafer.\nWhat to check: 可靠性与稳定性、先进尺度下的可扩展性.\nContext: Wafer-Level 1/f Noise Characterization of Scaled P-Type Nanosheets and Comparison with Planar H…."
+    },
+    {
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0351330",
+      "title": "Ta2O5-based recessed-gate enhancement-mode GaN HEMT with exceptionally low gate leakage and high ION/IOFF ratio: Determination of performance window for recessed-gate architecture",
+      "url": "https://doi.org/10.1063/5.0351330",
+      "published": "2026-09-07",
+      "authors": [
+        "Mahalaxmi Patil",
+        "Subhajit Basak",
+        "Bhanu B. Upadhyay",
+        "Nashra Khalid",
+        "Anurag P. Chilwirwar",
+        "Indrajit Maity",
+        "Sukhendu Roy",
+        "Apurba N. Bhattacharya",
+        "Swaroop Ganguly",
+        "Dipankar Saha"
+      ],
+      "summary": "Enhancement-mode AlGaN/GaN high electron mobility transistors (HEMTs) are indispensable for fail-safe operation in power electronics. This work demonstrates enhancement-mode AlGaN/GaN metal–oxide–semiconductor HEMTs with partially and completely recessed gates. A low-damage digital recess etching process was employed, and thermally grown Ta2O5 was utilized as the gate dielectric. The effectiveness of Ta2O5 as a high-quality gate insulator was confirmed through key electrical parameters, including subthreshold swing, ION/IOFF ratio, and gate leakage current. The threshold voltages of the partially and completely recessed devices were 0.2 and 4.7 V, respectively. All devices exhibited an ION/IOFF ratio of approximately 1010, with corresponding subthreshold slopes of 63.6, 66.8, and 120.3 mV/dec. The gate leakage current remained extremely low, demonstrating the excellent dielectric integrity and interface quality. The respective saturation drain currents were 185, 182, and 83 mA/mm at a gate-to-source overdrive voltage of 1 V. A higher recess depth leads to degradation of the drive current and the on-resistance of the transistor at the cost of increasing the threshold voltage. The comparative analysis of no-recess, partially recessed, and fully recessed gate architectures establishes the performance boundaries and design trade-offs of recessed-gate AlGaN/GaN HEMTs.",
+      "score": 16,
+      "priority": 2,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Ta2O5-based recessed-gate enhancement-mode GaN HEMT with exceptionally low gate…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Ta2O5-based recessed-gate enhancement-mode GaN HEMT with exceptionally low gate…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Ta2O5-based recessed-gate enhancement-mode GaN HEMT with exceptionally low gate leakage and hig….",
+      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Ta2O5-based recessed-gate enhancement-mode GaN HEMT with exceptionally low gate leakage and hig…."
+    },
     {
       "source": "Applied Physics Letters",
       "uid": "doi:10.1063/5.0334214",
@@ -93,130 +148,97 @@
       "reading_notes": "Focus: GaN.\nWhat to check: 效率/耦合表现、与既有工艺平台的集成价值.\nContext: Diameter-tuned emission from InGaN/GaN nanowire arrays."
     },
     {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0343859",
-      "title": "Self-powered programmable UV optoelectronic logic gates via polarity-reversal photocurrent in a Ga2O3/GaN heterojunction",
-      "url": "https://doi.org/10.1063/5.0343859",
-      "published": "2026-09-07",
+      "source": "arXiv",
+      "uid": "arxiv:2609.05000v1",
+      "title": "Local coordination, structural softening, and polarization-switching energetics in Sc-alloyed GaN",
+      "url": "https://arxiv.org/abs/2609.05000v1",
+      "published": "2026-09-04",
       "authors": [
-        "Xumin Gao",
-        "Zheheng Liu",
-        "Sirui Wu",
-        "Xiang Gao",
-        "Mingyuan Xie",
-        "Feifei Qin",
-        "Yongjin Wang",
-        "Hongbo Zhu",
-        "Zheng Shi"
+        "Shailesh Kalal",
+        "Gueorgui Kostov Gueorguiev",
+        "Martin Magnuson",
+        "Edward Ferraz de Almeida Junior",
+        "Rohini Sanikop",
+        "Sagar Jathar",
+        "Per Sandström",
+        "Ray-Hua Horng",
+        "Jens Birch",
+        "Per Eklund",
+        "Ching-Lien Hsiao"
       ],
-      "summary": "Ultraviolet optoelectronic logic gates are attractive for low-power information processing in secure sensing and communication systems. Here, a self-powered, Ga2O3/GaN heterojunction photodetector (PD) that enables input-controlled reconfigurable ultraviolet (UV) optoelectronic logic gates under zero bias is reported. The built-in electric field of the heterojunction induces photocurrent polarity reversal under 254 and 365 nm illumination, providing the basis for logic-gate reconfiguration. On this basis, two operation modes, termed switch-to-logic (via LED on/off states) and voltage-to-logic (via driving-voltage modulation), are established to implement six representative Boolean logic functions including AND, OR, NAND, NOR, XOR, and XNOR with a single device. The photodetector exhibits zero-bias responsivities (R) of 1.8 mA/W at 254 nm and 1.23 mA/W at 365 nm, together with specific detectivities (D*) above 1×1010 Jones at both wavelengths. Logic switching is achieved by modulating either the illumination states or the driving-voltage windows of two UV light sources without altering the device structure. This work provides a compact and low-power proof-of-concept platform for self-powered UV optoelectronic logic gates and highlights the potential of wide-bandgap heterojunctions for low-power ultraviolet information processing.",
-      "score": 8,
+      "summary": "Sc-alloyed wurtzite nitrides exhibit strongly tunable electromechanical and ferroelectric properties, yet the relationship between their lattice evolution and local bonding environment remains insufficiently established, particularly in Sc$_x$Ga$_{1-x}$N. Here, we investigate the structural and local bonding evolution of Sc$_x$Ga$_{1-x}$N across the dilute-to-intermediate composition range by combining X-ray diffraction, Sc K-edge X-ray absorption near edge structure (XANES), extended X-ray absorption fine structure (EXAFS) and first-principles calculations. Sc incorporation produces an anisotropic lattice expansion and a progressive reduction in the c/a ratio. XANES and EXAFS reveal a concurrent modification of the local environment around Sc, with the effective Sc-N coordination number increasing from 4.1(4) to 4.5(2) and the average Sc-N bond length increasing from 2.045(7) to 2.081(8)Å over x=0.06-0.26. The local response is accompanied by a reduction in the Sc K-edge pre-edge intensity, consistent with a gradual reduction of the local tetrahedral asymmetry. First-principles calculations show that these structural changes are associated with site-selective distortions around Sc and progressive flattening of the structural energy landscape. The calculated intrinsic polarization-switching barrier decreases from 24.2 to 19.0 meV/Å$^3$ with increasing Sc content, while the calculated piezoelectric stress coefficient (e$_{33}$) increases from 0.82 to 1.66~C/m$^2$ and elastic constant (C$_{33}$) decreases from 380 to 227~GPa, resulting in an increase of piezoelectric strain coefficient (d$_{33}$) from 2.99 to 12.46~pC/N. These results show that Sc incorporation progressively modifies the local coordination environment and structural energetics of ScGaN while the long-range wurtzite structure remains preserved over the investigated composition range.",
+      "score": 7,
       "priority": 2,
       "highlights": [
         "GaN"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Self-powered programmable UV optoelectronic logic gates via polarity-reversal p…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Self-powered programmable UV optoelectronic logic gates via polarity-reversal p…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Self-powered programmable UV optoelectronic logic gates via polarity-reversal photocurrent in a….",
-      "reading_notes": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Self-powered programmable UV optoelectronic logic gates via polarity-reversal photocurrent in a…."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Local coordination, structural softening, and polarization-switching energetics…”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Local coordination, structural softening, and polarization-switching energetics…”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 功耗或能效表现.\nContext: Local coordination, structural softening, and polarization-switching energetics in Sc-alloyed G….",
+      "reading_notes": "Focus: GaN.\nWhat to check: 功耗或能效表现.\nContext: Local coordination, structural softening, and polarization-switching energetics in Sc-alloyed G…."
     },
     {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0345345",
-      "title": "Radiation effects of heavy ions in hydrogen-terminated diamond field-effect transistors",
-      "url": "https://doi.org/10.1063/5.0345345",
+      "source": "arXiv",
+      "uid": "arxiv:2609.10426v1",
+      "title": "Thermal Stability and Carrier Recombination Kinetics in InGaN/GaN Multiple Quantum Wells under High-Temperature Annealing",
+      "url": "https://arxiv.org/abs/2609.10426v1",
+      "published": "2026-09-10",
+      "authors": [
+        "Quan-Shan Liu",
+        "Sadia Sheraz",
+        "Sabina Gurung",
+        "Maddison Coke",
+        "Nicholas Lockyer",
+        "Richard J. Curry"
+      ],
+      "summary": "The thermal stability and carrier recombination kinetics of an as-received InGaN/GaN multiple quantum well (MQW) structure, capped with a protective AlN thin film, are studied following a series of thermal annealings at temperatures between 500 deg C and 1100 deg C. Under 325 nm focused laser excitation at room temperature, the sample's photoluminescence (PL) spectrum exhibits three emission bands: an ultraviolet peak at 363 nm, a blue peak at 455 nm, and a yellow peak at 565 nm. We find that the MQW's 455 nm emission is preserved after annealing at 1100 deg C. Moreover, room-temperature PL excitation (PLE) and time-resolved PL (TRPL) have been investigated to shed light on the sample's energy-transfer mechanisms and emission decay characteristics. Power-dependent PL spectra analysis shows that the carrier recombination mechanism of the MQW's emission has not been affected by thermal treatment. Rate equation modelling and chromaticity coordinate analysis also show limited thermal impact on the calculated equivalent emission lifetime and emissive colour. Time-of-flight secondary ion mass spectrometry (ToF-SIMS) analysis has been performed, further evidencing the preservation of the MQW structure in the annealed sample.",
+      "score": 5,
+      "priority": 2,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Thermal Stability and Carrier Recombination Kinetics in InGaN/GaN Multiple Quan…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看效率/耦合表现、可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Thermal Stability and Carrier Recombination Kinetics in InGaN/GaN Multiple Quan…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看效率/耦合表现、可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 效率/耦合表现、可靠性与稳定性、功耗或能效表现.\nContext: Thermal Stability and Carrier Recombination Kinetics in InGaN/GaN Multiple Quantum Wells under ….",
+      "reading_notes": "Focus: GaN.\nWhat to check: 效率/耦合表现、可靠性与稳定性、功耗或能效表现.\nContext: Thermal Stability and Carrier Recombination Kinetics in InGaN/GaN Multiple Quantum Wells under …."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2609.07329v1",
+      "title": "Unveiling the Scaling Potential of Drain Merge through Active (DMtA) in CFETs: Breaking the Super-Via Bottlenecks and Unlocking New PPA Boosters",
+      "url": "https://arxiv.org/abs/2609.07329v1",
       "published": "2026-09-07",
       "authors": [
-        "Yang Liu",
-        "Xing Li",
-        "Si-Lei Zhong",
-        "Weili Fu",
-        "Xiao-Ning Zhang",
-        "Zhi-Feng Lei",
-        "Chao Peng",
-        "Hong Zhang",
-        "Zhan-Gang Zhang",
-        "Teng Ma",
-        "Jia-Yue Yang"
+        "Jingru Jiang",
+        "Haoran Lu",
+        "Kairong Guo",
+        "Yibo Zhang",
+        "Yifei Chen",
+        "Wanyue Peng",
+        "Yu Liu",
+        "Jiacheng Sun",
+        "Xiaoyan Xu",
+        "Ming Li",
+        "Yibo Lin",
+        "Runsheng Wang",
+        "Ru Huang",
+        "Heng Wu"
       ],
-      "summary": "Hydrogen-terminated diamond field-effect transistors (H-diamond FETs) are promising for radiation-tolerant electronics, but the response of the Al2O3/H-diamond gate stack to swift heavy ions remains insufficiently understood. Here, H-diamond FETs were irradiated with 1260 MeV Kr+ ions at fluences ranging from 1 × 106 to 1 × 108 ions/cm2 under different gate-bias conditions. DC, gate leakage, C–V, transient, and deep-level transient spectroscopy (DLTS) measurements were performed to evaluate device degradation. As the fluence increased, the threshold-voltage shift (ΔVth) increased from 2.50 ± 0.17 to 11.50 ± 0.51 V, while the relative transconductance reduction increased from 19.51% ± 1.12% to 65.16% ± 0.60%. At 1 × 108 ions/cm2, the subthreshold swing increased from approximately 0.240 to 0.400 ± 0.014 V/dec, and the 90% rise time increased from 0.24 to 0.44 ms. Degradation was more pronounced under positive gate bias during irradiation, suggesting field-assisted charge trapping. The increased gate leakage, C–V distortion, and 3.7-fold enhancement of the DLTS signal are consistent with irradiation-induced trapped charge and electrically active defects in the gate stack. These results identify gate-dielectric charge stability and Al2O3/H-diamond interface quality as key targets for radiation hardening.",
+      "summary": "Drain merge (DM), a super via vertically connecting the common S/D terminals of stacked n/pFETs in Complementary FETs (CFETs), blocks further parasitic optimization and cell scaling. For the first time, this work systematically investigates the state-of-the-art Drain Merge through Active (DMtA), a revolutionary technology reported recently with the DM embedded in the active region, through a comprehensive DTCO framework spanning process integration, contact-configuration-dependent (CTCD) compact modeling, standardcell design, RO evaluation and block-level PPA benchmark on a 32-bit RISC-V Ibex core. By reducing DM parasitics and enabling DM-width optimization, DMtA improves RO frequency by 11.7% over its conventional Drain Merge through field (DMtF) counterpart. Active widening and Area Borrowing, the latter first reported in [8] and exploiting spatial slack in adjacent cells to further enlarge the nanosheet width (WNS), increase the maximum Ibex-core frequency by up to 34.8%. More importantly, DMtA also enables the once GAA-exclusive Hyper-cells on CFETs by merging the active regions across adjacent cell rows, providing a further 8.7% frequency gain. A post-routing floating-output-pin-aware optimization further removes redundant S/D contacts (CTs) and reduces power by 5.3%. Finally, DMtA facilitates more area-efficient 2.5T cell scaling by preserving single-row cell compatibility, reducing post-PR core area by 25.7%.",
       "score": 10,
       "priority": 1,
       "highlights": [
-        "transistor"
+        "CFET"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Radiation effects of heavy ions in hydrogen-terminated diamond field-effect tra…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Radiation effects of heavy ions in hydrogen-terminated diamond field-effect tra…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Radiation effects of heavy ions in hydrogen-terminated diamond field-effect transistors.",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Radiation effects of heavy ions in hydrogen-terminated diamond field-effect transistors."
-    },
-    {
-      "source": "Nature Electronics",
-      "uid": "Nature Electronics:10.1038/s41928-026-01693-2",
-      "title": "How we discovered ferroelectricity in hafnium oxide thin films",
-      "url": "https://www.nature.com/articles/s41928-026-01693-2",
-      "published": "2026-09-04",
-      "authors": [],
-      "summary": "Nature Electronics, Published online: 04 September 2026; doi:10.1038/s41928-026-01693-2 Oxide-based ferroelectric materials are expected to have a key role in the future of semiconductor devices. Tim Böscke, Ulrich Böttger and Uwe Schroeder recount how ferroelectricity in hafnium oxide thin films was first discovered.",
-      "score": 7,
-      "priority": 0,
-      "highlights": [],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“How we discovered ferroelectricity in hafnium oxide thin films”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“How we discovered ferroelectricity in hafnium oxide thin films”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: How we discovered ferroelectricity in hafnium oxide thin films.",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: How we discovered ferroelectricity in hafnium oxide thin films."
-    },
-    {
-      "source": "Science Advances",
-      "uid": "doi:10.1126/sciadv.aei0397",
-      "title": "Harnessing in-situ tribo-plasma emission for energy harvesting",
-      "url": "https://doi.org/10.1126/sciadv.aei0397",
-      "published": "2026-09-11",
-      "authors": [
-        "Qixuan Zeng",
-        "Liming Tan",
-        "Fan Xu",
-        "Tingyu Wang",
-        "Ai Chen",
-        "Xue Wang"
-      ],
-      "summary": "Electrostatic discharge (ESD) in triboelectrification is conventionally dismissed as an uncontrolled energy dissipation process. Here, we introduce an approach to harness tribo-plasma generated by spontaneous ESD between sliding dielectric materials. Leveraging the intrinsic triboelectric field, this mechanism drives in situ plasma generation and guides its directional emission, enabling direct electrical power output via simple wire electrodes. The resulting current can be configured as either quasi-square-wave alternating current or direct current, depending on the motion profile. Notably, the device exhibits exceptional constant-current performance, sustaining output with a minimal decay of 0.32 microampere at a load resistance of 500 megohms. The universality of this mechanism is validated across diverse materials, including polymers, fabrics, semiconductors, and metals. Beyond energy harvesting, the tribo-plasma generated by mechanical motion also shows proof-of-concept potential for surface modification, food preservation, and ion implantation. These findings establish a potential route for converting mechanical energy into electrical output and provide a foundation for power-source–free plasma technologies.",
-      "score": 6,
-      "priority": 0,
-      "highlights": [],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Harnessing in-situ tribo-plasma emission for energy harvesting”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、效率/耦合表现、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Harnessing in-situ tribo-plasma emission for energy harvesting”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、效率/耦合表现、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、效率/耦合表现、功耗或能效表现.\nContext: Harnessing in-situ tribo-plasma emission for energy harvesting.",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、效率/耦合表现、功耗或能效表现.\nContext: Harnessing in-situ tribo-plasma emission for energy harvesting."
-    },
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0347982",
-      "title": "Zr-related states in AlN probed by photocurrent excitation spectroscopy",
-      "url": "https://doi.org/10.1063/5.0347982",
-      "published": "2026-09-07",
-      "authors": [
-        "F. A. Rafi",
-        "H. Alwan",
-        "J. Li",
-        "J. Y. Lin",
-        "H. X. Jiang"
-      ],
-      "summary": "Zirconium (Zr) is predicted and experimentally confirmed to substitute on the Al site (ZrAl), where it acts as a deep donor approximately 1.5 eV below the conduction band minimum in aluminum nitride (AlN). Furthermore, the neutral zirconium-nitrogen vacancy complex, (ZrAl–VN)0, has been predicted to be an attractive candidate for room-temperature qubits. In this work, Zr-doped AlN epilayers were synthesized on AlN bulk substrates via metal-organic chemical vapor deposition. Structural and morphological characterizations confirmed excellent crystalline orientation and sub-nanometer surface roughness. While photoluminescence spectra were dominated by vacancy-impurity complexes, photocurrent excitation spectroscopy effectively mapped Zr-related states. Specifically, an isolated donor level was resolved at 1.5 eV alongside (ZrAl–VN)0/1− complex configurations near 2 and 3 eV. Each complex exhibits a distinct 0.2 eV doublet splitting driven by π-bonding and σ-bonding configurations within the wurtzite lattice. These findings provide experimental confirmation of the deep-level electronic properties of Zr in AlN, establishing a framework for the development of extrinsic photoconductive semiconductor switches and room-temperature qubit applications.",
-      "score": 6,
-      "priority": 0,
-      "highlights": [],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Zr-related states in AlN probed by photocurrent excitation spectroscopy”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Zr-related states in AlN probed by photocurrent excitation spectroscopy”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 先进尺度下的可扩展性.\nContext: Zr-related states in AlN probed by photocurrent excitation spectroscopy.",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 先进尺度下的可扩展性.\nContext: Zr-related states in AlN probed by photocurrent excitation spectroscopy."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CFET方向，围绕“Unveiling the Scaling Potential of Drain Merge through Active (DMtA) in CFETs: …”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看性能提升、先进尺度下的可扩展性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CFET方向，围绕“Unveiling the Scaling Potential of Drain Merge through Active (DMtA) in CFETs: …”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看性能提升、先进尺度下的可扩展性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: CFET.\nWhat to check: 性能提升、先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Unveiling the Scaling Potential of Drain Merge through Active (DMtA) in CFETs: Breaking the Sup….",
+      "reading_notes": "Focus: CFET.\nWhat to check: 性能提升、先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Unveiling the Scaling Potential of Drain Merge through Active (DMtA) in CFETs: Breaking the Sup…."
     }
   ],
-  "errors": [
-    "arXiv"
-  ],
+  "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-09-10T00:30:00+00:00"
+  "generated_at": "2026-09-11T00:30:00+00:00"
 }
