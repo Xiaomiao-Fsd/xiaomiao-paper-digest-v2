@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 1,
+  "new_count": 0,
   "selected_count": 7,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-09-12）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 1 篇；Intel/TSMC 重点 0 篇；GaN 关键词 1 篇\n1. [Physical Review Letters] Measurements of <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"> …\n   关键词：GaN\n   日期：2026-09-11\n   Authors: G. Aad, E. Aakvaag, B. Abbott 等\n   https://doi.org/10.1103/y1nh-1b82\n注：以下源本次抓取失败：arXiv",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-09-13）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 7 篇；Intel/TSMC 重点 0 篇；GaN 关键词 4 篇\n1. [Applied Physics Letters] Ta2O5-based recessed-gate enhancement-mode GaN HEMT with exceptionally low gate leakage and…\n   关键词：GaN\n   日期：2026-09-07\n   Authors: Mahalaxmi Patil, Subhajit Basak, Bhanu B. Upadhyay 等\n   https://doi.org/10.1063/5.0351330\n2. [Applied Physics Letters] Enhanced threshold-voltage stability via local strain mitigation in GaN HEMTs with a crysta…\n   关键词：GaN\n   日期：2026-09-07\n   Authors: Xin Luo, Peng Cui, Guodong Wang 等\n   https://doi.org/10.1063/5.0334214\n3. [Applied Physics Letters] Diameter-tuned emission from InGaN/GaN nanowire arrays\n   关键词：GaN\n   日期：2026-09-07\n   Authors: Qi Chen, Bo Shi, Meng Liang 等\n   https://doi.org/10.1063/5.0347511\n4. [Applied Physics Letters] Radiation effects of heavy ions in hydrogen-terminated diamond field-effect transistors\n   关键词：transistor\n   日期：2026-09-07\n   Authors: Yang Liu, Xing Li, Si-Lei Zhong 等\n   https://doi.org/10.1063/5.0345345\n5. [Physical Review Letters] Measurements of <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"> …\n   关键词：GaN\n   日期：2026-09-11\n   Authors: G. Aad, E. Aakvaag, B. Abbott 等\n   https://doi.org/10.1103/y1nh-1b82\n6. [Applied Physics Letters] Emergence of strong ferroelectricity in pristine HfO2 via interfacial elemental diffusion\n   关键词：HfO2\n   日期：2026-09-07\n   Authors: Hai Ci, Junbo Xu, Yangfei Gao 等\n   https://doi.org/10.1063/5.0340978\n7. [Applied Physics Letters] Zr-related states in AlN probed by photocurrent excitation spectroscopy\n   日期：2026-09-07\n   Authors: F. A. Rafi, H. Alwan, J. Li 等\n   https://doi.org/10.1063/5.0347982\n注：以下源本次抓取失败：arXiv",
   "papers": [
     {
       "source": "Applied Physics Letters",
@@ -3059,5 +3059,5 @@
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-09-12T00:30:00+00:00"
+  "generated_at": "2026-09-13T00:30:00+00:00"
 }
