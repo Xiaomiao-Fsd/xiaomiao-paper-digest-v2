@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 31,
+  "new_count": 8,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-09-16）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 4 篇\n1. [arXiv] High-Performance Scaled P-Type SnOx Transistor by Atomic Layer Deposition with CFET Integra…\n   关键词：transistor, CFET, deposition\n   日期：2026-09-10\n   Authors: Ziheng Wang, Wen He, Chen Gu 等\n   https://arxiv.org/abs/2609.11114v1\n2. [arXiv] Demonstrate of High-Performance Top-Gate ALD Crystalline In2O3 Transistor Enabled by Lattic…\n   关键词：transistor, HfO2\n   日期：2026-09-14\n   Authors: Kai Jiang, Chen Wang, Ziheng Wang 等\n   https://arxiv.org/abs/2609.15135v1\n3. [Applied Physics Letters] Non-thermal and non-equilibrium recovery of high-temperature degraded enhancement mode GaN …\n   关键词：GaN\n   日期：2026-09-14\n   Authors: Xinwei Wang, Ahmad Islam, Nicholas Glavin 等\n   https://doi.org/10.1063/5.0335264\n4. [arXiv] Agentic TCAD Calibration Workflow for Oxide Semiconductor Transistors\n   关键词：transistor, semiconductor, oxide semiconductor\n   日期：2026-09-11\n   Authors: Gyujun Jeong, Junmo Lee, Sungwon Cho 等\n   https://arxiv.org/abs/2609.12184v2\n5. [Nature Electronics] A spiking neural network-in-logic architecture based on reconfigurable molybdenum disulfide…\n   关键词：transistor, ferroelectric\n   日期：2026-09-14\n   https://www.nature.com/articles/s41928-026-01706-0\n6. [Applied Physics Letters] Two-stage threshold voltage shift under semi-on DC stress in power p-GaN HEMTs\n   关键词：GaN\n   日期：2026-09-14\n   Authors: Hung-Ming Kuo, Ting-Chang Chang, Kai-Chun Chang 等\n   https://doi.org/10.1063/5.0330944\n7. [Applied Physics Letters] Current-injection electroluminescence from Pr-related centers in an ion-implanted GaN diode…\n   关键词：GaN\n   日期：2026-09-14\n   Authors: S. Ito, S.-I. Sato, M. Boćkowski 等\n   https://doi.org/10.1063/5.0331795\n8. [Applied Physics Letters] Preparation of non-alloyed metal contacts to n-type gallium nitride with ultralow specific …\n   关键词：GaN\n   日期：2026-09-14\n   Authors: Kohei Okabe, Aiko Naito, Kohei Ueno 等\n   https://doi.org/10.1063/5.0341599",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-09-17）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 2 篇\n1. [Applied Physics Letters] Light-modulated low-frequency noise spectroscopy for deep-level defect characterization in …\n   关键词：GaN\n   日期：2026-09-14\n   Authors: Xiulin Xie, Zhuoya Peng, Hao Jiang\n   https://doi.org/10.1063/5.0349897\n2. [arXiv] Two-Dimensional Materials toward CMOS-Compatible Scalable Quantum Hardware\n   关键词：CMOS\n   日期：2026-09-15\n   Authors: Mara Lieberegts, Ye Wang\n   https://arxiv.org/abs/2609.16172v1\n3. [arXiv] AI for Science with GPT-6 Astra: Thermal Design and Electrothermal Analysis of 2D CFET\n   关键词：CFET\n   日期：2026-09-15\n   Authors: Min-Hui Kim, Khushi Sharma, Sarah Zhang 等\n   https://arxiv.org/abs/2609.17123v1\n4. [arXiv] ZStar: An automated toolkit for polarization, Born effective charges, dielectric response, …\n   关键词：dielectric, GaN\n   日期：2026-09-15\n   Authors: Xudong Zhu, Junhong Li, Gan Jin 等\n   https://arxiv.org/abs/2609.16802v1\n5. [Applied Physics Letters] High capacitive energy storage performance in Bi0.5Na0.5TiO3–SrTiO3 relaxor ferroelectrics …\n   日期：2026-09-14\n   Authors: Zexin Deng, Shijie Yin, Zhiqing Li 等\n   https://doi.org/10.1063/5.0338889\n6. [arXiv] Fractional-Quantum Ferroelectrics: A Route to High-Mobility Ferroelectric Semiconductors\n   关键词：semiconductor, ferroelectric\n   日期：2026-09-15\n   Authors: Rong-Tian Pang, Wenjie Hu, Youning Liu 等\n   https://arxiv.org/abs/2609.16799v1\n7. [arXiv] Origin and Reduction of Coercive Fields in ZnO-based Wurtzite Ferroelectrics\n   日期：2026-09-15\n   Authors: Abhijeet Dhakane, Alireza Sepehrinezhad, William Prudnick 等\n   https://arxiv.org/abs/2609.16570v1\n8. [arXiv] Probing proximity-induced superconductivity in bilayer graphene using gate-defined quantum …\n   日期：2026-09-15\n   Authors: Philipp Schmidt, Mathies Funke, Till Tenger 等\n   https://arxiv.org/abs/2609.16320v1",
   "papers": [
     {
       "source": "arXiv",
@@ -62,30 +62,6 @@
       "reading_notes": "Focus: 晶体管、HfO2.\nWhat to check: 性能提升、先进尺度下的可扩展性、接触/互连相关指标.\nContext: Demonstrate of High-Performance Top-Gate ALD Crystalline In2O3 Transistor Enabled by Lattice-Ma…."
     },
     {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0335264",
-      "title": "Non-thermal and non-equilibrium recovery of high-temperature degraded enhancement mode GaN HEMTs",
-      "url": "https://doi.org/10.1063/5.0335264",
-      "published": "2026-09-14",
-      "authors": [
-        "Xinwei Wang",
-        "Ahmad Islam",
-        "Nicholas Glavin",
-        "Fan Ren",
-        "Aman Haque"
-      ],
-      "summary": "High-temperature storage degrades enhancement-mode gallium nitride (GaN) high-electron-mobility transistors (HEMTs) by activating electrically active defects and altering the electrostatics of the gate stack. Conventional thermal annealing is largely ineffective for thermal degradation of microelectronic devices. Here, we demonstrate an ultrafast, non-thermal recovery approach based on electron wind force (EWF) that recovers thermal degradation at near-ambient bulk temperatures. Commercial p-GaN gate HEMTs subjected to 310 °C storage for 30 min exhibited reduced drain current, a negative threshold-voltage shift, increased gate leakage, and pronounced changes in trap-resolved capacitance. Applying low duty cycle pulsed current for 1 min at ∼29 °C generated EWF that restored both output and transfer characteristics, indicating reduced trap participation and recovery of the intrinsic gate-stack electrostatics. In contrast, conventional thermal annealing produced only partial recovery and failed to restore the original device characteristics. The correlated improvements across transport, leakage, and capacitance measurements suggest that EWF drives non-equilibrium defect reconfiguration within the channel and interfaces near the p-GaN gate stack. These results establish EWF as a rapid, low-thermal-budget pathway for defect management and in situ rejuvenation of GaN power electronic devices.",
-      "score": 13,
-      "priority": 2,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Non-thermal and non-equilibrium recovery of high-temperature degraded enhanceme…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Non-thermal and non-equilibrium recovery of high-temperature degraded enhanceme…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升.\nContext: Non-thermal and non-equilibrium recovery of high-temperature degraded enhancement mode GaN HEMTs.",
-      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升.\nContext: Non-thermal and non-equilibrium recovery of high-temperature degraded enhancement mode GaN HEMTs."
-    },
-    {
       "source": "arXiv",
       "uid": "arxiv:2609.12184v2",
       "title": "Agentic TCAD Calibration Workflow for Oxide Semiconductor Transistors",
@@ -141,65 +117,6 @@
     },
     {
       "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0330944",
-      "title": "Two-stage threshold voltage shift under semi-on DC stress in power p-GaN HEMTs",
-      "url": "https://doi.org/10.1063/5.0330944",
-      "published": "2026-09-14",
-      "authors": [
-        "Hung-Ming Kuo",
-        "Ting-Chang Chang",
-        "Kai-Chun Chang",
-        "Ting-Tzu Kuo",
-        "Chien-Hung Yeh",
-        "Wei-Chieh Hung",
-        "Ya-Huan Lee",
-        "Jia-Hong Lin",
-        "Chun-Hung Chiang",
-        "Man-Ning Jen"
-      ],
-      "summary": "Hard-switching operation is a critical reliability concern for p-GaN high-electron-mobility transistors (HEMTs), yet degradation driven by switching transients remains insufficiently clarified. In this work, a semi-on stress, defined at the bias corresponding to the maximum switching power loss, was introduced to decouple switching-transient-induced degradation from quasi-static on-/off-state stress. Under semi-on stress, devices initially exhibit a positive threshold-voltage (Vth) shift, reduced on-state current (Ion), and suppressed gate current (Ig). Combined with a reversal of transfer characteristics hysteresis polarity after stress, these signatures indicate electron trapping in the AlGaN barrier that increases the effective injection barrier and alters the dominant gate-leakage path. In parallel, reduced off-state leakage suggests additional electron trapping in the GaN layer. Importantly, these short-term signatures vanish under source-floating semi-on stress and weaken at elevated temperature, supporting hot-carrier injection from the channel as the primary driver of early degradation. At longer stress times, however, a gradual negative shift in Vth emerges, indicating a different degradation pathway. Under high-temperature semi-on stress, a post-stress Ig increase and a negative Vth shift are observed even with a floating source, evidencing thermal-assisted hole generation and trapping in the AlGaN barrier. Comparing source-grounded and source-floating semi-on stress at high temperature, the larger negative Vth shift under source-grounded conditions further points to hole generation enhanced by self-heating during high-current operation. These results show that long-term semi-on stress is governed not only by hot-electron injection but also by thermal-assisted hole generation processes, providing a physics-based framework for assessing p-GaN HEMT reliability under realistic hard-switching operation.",
-      "score": 11,
-      "priority": 2,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Two-stage threshold voltage shift under semi-on DC stress in power p-GaN HEMTs”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Two-stage threshold voltage shift under semi-on DC stress in power p-GaN HEMTs”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Two-stage threshold voltage shift under semi-on DC stress in power p-GaN HEMTs.",
-      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Two-stage threshold voltage shift under semi-on DC stress in power p-GaN HEMTs."
-    },
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0331795",
-      "title": "Current-injection electroluminescence from Pr-related centers in an ion-implanted GaN diode structure",
-      "url": "https://doi.org/10.1063/5.0331795",
-      "published": "2026-09-14",
-      "authors": [
-        "S. Ito",
-        "S.-I. Sato",
-        "M. Boćkowski",
-        "M. Deki",
-        "H. Watanabe",
-        "S. Nitta",
-        "M. Kushimoto",
-        "A. Tanaka",
-        "Z. Zhang",
-        "Y. Honda",
-        "H. Amano"
-      ],
-      "summary": "We report room-temperature current-injection electroluminescence (EL) from praseodymium (Pr)-related centers in an ion-implanted gallium nitride (GaN) diode structure. Pr ions were introduced into GaN by ion implantation, and the samples were subsequently subjected to ultrahigh-pressure annealing (UHPA) and metal organic vapor phase epitaxy regrowth to form the p-side layers. Under forward bias, a narrow EL peak at 652 nm was observed. This peak coincides with the Pr-related photoluminescence (PL) peak, indicating that Pr-related centers remain optically active after ion implantation, UHPA, regrowth, and device fabrication and can be electrically excited in the processed GaN structure. Secondary ion mass spectrometry and current density–voltage (J–V) measurements reveal pronounced structural and electrical nonidealities in the fabricated structure, including displacement of the effective junction/interface positions from the target design, impurity redistribution near the regrown region, leakage-related transport, and a large apparent turn-on voltage. The optical data therefore indicate that a Pr-related emission process exists under nonideal current injection, while its efficiency is limited by parasitic current paths, nonradiative losses, and the limited availability of local configurations and defect-related states that enable efficient host-to-Pr energy transfer. The saturation-like behavior of the Pr-related EL, together with the simultaneous increase in near-band-edge and Mg-related emission at higher current densities, suggests that additional current does not proportionally enhance the Pr-related emission but increasingly produces radiative recombination from the GaN host and Mg-related states. These results clarify the excitation and limitation mechanisms of Pr-related EL in ion-implanted GaN diode structures and identify requirements for future electrically driven lanthanoid emitters in GaN.",
-      "score": 10,
-      "priority": 2,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Current-injection electroluminescence from Pr-related centers in an ion-implant…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、效率/耦合表现、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Current-injection electroluminescence from Pr-related centers in an ion-implant…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、效率/耦合表现、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现、功耗或能效表现.\nContext: Current-injection electroluminescence from Pr-related centers in an ion-implanted GaN diode str….",
-      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现、功耗或能效表现.\nContext: Current-injection electroluminescence from Pr-related centers in an ion-implanted GaN diode str…."
-    },
-    {
-      "source": "Applied Physics Letters",
       "uid": "doi:10.1063/5.0341599",
       "title": "Preparation of non-alloyed metal contacts to n-type gallium nitride with ultralow specific contact resistivity of 5.8 × 10−9 Ω cm2",
       "url": "https://doi.org/10.1063/5.0341599",
@@ -220,11 +137,91 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Preparation of non-alloyed metal contacts to n-type gallium nitride with ultral…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Preparation of non-alloyed metal contacts to n-type gallium nitride with ultralow specific cont….",
       "reading_notes": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Preparation of non-alloyed metal contacts to n-type gallium nitride with ultralow specific cont…."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2609.14294v1",
+      "title": "Time- and Frequency-Resolved Observation of Inverse Orbital Hall Effect in Gallium Nitride via Terahertz Polarimetry",
+      "url": "https://arxiv.org/abs/2609.14294v1",
+      "published": "2026-09-13",
+      "authors": [
+        "Kota Aikyo",
+        "Tomohiro Fujimoto",
+        "Ami Mi Shirai",
+        "Yuta Murotani",
+        "Mitsuru Funato",
+        "Shinji Miwa",
+        "Jun Yoshinobu",
+        "Yoichi Kawakami",
+        "Ryusuke Matsunaga"
+      ],
+      "summary": "Orbitronics has attracted significant attention as a platform for information storage and processing that exploits the orbital angular momentum (OAM) of electrons without the need for spin-orbit coupling. However, experimental evaluation of OAM-charge interconversion remains a challenge and the results are often controversial due to the coexistence of bulk and interfacial contributions and the complexity in sample structures. Here, using circularly polarized light pulses and terahertz (THz) polarimetry, we developed a non-contact method to observe the inverse orbital Hall effect as a bulk response within a single material without employing heterostructure samples. In a semiconductor GaN, we directly captured the OAM-to-charge current conversion of holes in the THz frequency range. By analyzing the sharp frequency dependence of the Hall conductivity, we disentangled the competing microscopic mechanisms and revealed the dominant role of extrinsic contributions to the orbital Hall effect in the dc limit. By contrast, the Hall conductivity at THz frequencies above the impurity scattering rate is attributed to the intrinsic Berry-curvature mechanism,allowing a quantitative comparison with the microscopic theory. Furthermore, the ultrafast dynamics of the inverse orbital Hall signal directly revealed sub-picosecond OAM relaxation of holes, comparable to that of phonon-mediated thermalization. The quantitative argument based on theoretical calculations suggested the existence of an even faster decay channel due to momentum redistribution by acoustic phonons, suggesting a sub-nanometer-scale OAM relaxation length. Our results provide comprehensive and crucial insights into OAM transport and establish an ultrafast, contact-free approach for investigating OAM-to-charge conversion.",
+      "score": 7,
+      "priority": 2,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Time- and Frequency-Resolved Observation of Inverse Orbital Hall Effect in Gall…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看效率/耦合表现、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Time- and Frequency-Resolved Observation of Inverse Orbital Hall Effect in Gall…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看效率/耦合表现、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 效率/耦合表现、先进尺度下的可扩展性.\nContext: Time- and Frequency-Resolved Observation of Inverse Orbital Hall Effect in Gallium Nitride via ….",
+      "reading_notes": "Focus: GaN.\nWhat to check: 效率/耦合表现、先进尺度下的可扩展性.\nContext: Time- and Frequency-Resolved Observation of Inverse Orbital Hall Effect in Gallium Nitride via …."
+    },
+    {
+      "source": "Nature Electronics",
+      "uid": "Nature Electronics:10.1038/s41928-026-01687-0",
+      "title": "Polarization takes on the superjunction challenge",
+      "url": "https://www.nature.com/articles/s41928-026-01687-0",
+      "published": "2026-09-14",
+      "authors": [],
+      "summary": "Nature Electronics, Published online: 14 September 2026; doi:10.1038/s41928-026-01687-0 By using a superjunction that is capable of effectively distributing electric fields, gallium nitride high-electron-mobility transistors can be created that push the average breakdown field towards the theoretical limit.",
+      "score": 10,
+      "priority": 1,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Polarization takes on the superjunction challenge”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Polarization takes on the superjunction challenge”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Polarization takes on the superjunction challenge.",
+      "reading_notes": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Polarization takes on the superjunction challenge."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2609.15771v1",
+      "title": "Spatiotemporal programming via asymmetric dielectric engineering for nonvolatile 2D optoelectronics",
+      "url": "https://arxiv.org/abs/2609.15771v1",
+      "published": "2026-09-14",
+      "authors": [
+        "Xiaoguang Luo",
+        "Xiaolong Zhang",
+        "Honglei Chen",
+        "Jiaming Wang",
+        "Fan Liu",
+        "Jiongtao Zhang",
+        "Junqiang Zhang",
+        "Yihan Yin",
+        "Jinpeng Xu",
+        "Lei Ying",
+        "Renjing Xu",
+        "Yingchun Cheng",
+        "Xuetao Gan",
+        "Wei Huang"
+      ],
+      "summary": "Ambipolar two dimensional (2D) semiconductors integrated with floating-gate architectures offer a promising platform for nonvolatile, reconfigurable electronics. However, the switching between p-n and n-p junction polarities has conventionally required complex multi-gate designs, hindering the scalability and integration density. Here, we demonstrate a spatiotemporal programming strategy using a dual-floating-gate architecture with a symmetry broken tunneling dielectric. An asymmetric dielectric stack creates distinct tunneling thresholds for two floating gates, enabling a single input gate to encode spatial doping profiles in the 2D channel via defined voltage pulse sequences. We achieve on demand, nonvolatile, and reversible switching between p-n and n-p configurations with excellent retention and endurance. The reconfigurable homojunction serves as a multifunctional platform for logic encoding, rectification, photodetection, and in sensor computing. This work establishes a design paradigm that replaces spatial input complexity with spatiotemporal programming, paving the way for high-density, multifunctional intelligent hardware.",
+      "score": 9,
+      "priority": 1,
+      "highlights": [
+        "dielectric",
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注介电材料、GaN方向，围绕“Spatiotemporal programming via asymmetric dielectric engineering for nonvolatil…”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注介电材料、GaN方向，围绕“Spatiotemporal programming via asymmetric dielectric engineering for nonvolatil…”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 介电材料、GaN.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Spatiotemporal programming via asymmetric dielectric engineering for nonvolatile 2D optoelectro….",
+      "reading_notes": "Focus: 介电材料、GaN.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Spatiotemporal programming via asymmetric dielectric engineering for nonvolatile 2D optoelectro…."
     }
   ],
   "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-09-16T00:30:00+00:00"
+  "generated_at": "2026-09-17T00:30:00+00:00"
 }
