@@ -1,41 +1,9 @@
 {
   "ok": true,
-  "new_count": 8,
+  "new_count": 4,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-09-17）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 2 篇\n1. [Applied Physics Letters] Light-modulated low-frequency noise spectroscopy for deep-level defect characterization in …\n   关键词：GaN\n   日期：2026-09-14\n   Authors: Xiulin Xie, Zhuoya Peng, Hao Jiang\n   https://doi.org/10.1063/5.0349897\n2. [arXiv] Two-Dimensional Materials toward CMOS-Compatible Scalable Quantum Hardware\n   关键词：CMOS\n   日期：2026-09-15\n   Authors: Mara Lieberegts, Ye Wang\n   https://arxiv.org/abs/2609.16172v1\n3. [arXiv] AI for Science with GPT-6 Astra: Thermal Design and Electrothermal Analysis of 2D CFET\n   关键词：CFET\n   日期：2026-09-15\n   Authors: Min-Hui Kim, Khushi Sharma, Sarah Zhang 等\n   https://arxiv.org/abs/2609.17123v1\n4. [arXiv] ZStar: An automated toolkit for polarization, Born effective charges, dielectric response, …\n   关键词：dielectric, GaN\n   日期：2026-09-15\n   Authors: Xudong Zhu, Junhong Li, Gan Jin 等\n   https://arxiv.org/abs/2609.16802v1\n5. [Applied Physics Letters] High capacitive energy storage performance in Bi0.5Na0.5TiO3–SrTiO3 relaxor ferroelectrics …\n   日期：2026-09-14\n   Authors: Zexin Deng, Shijie Yin, Zhiqing Li 等\n   https://doi.org/10.1063/5.0338889\n6. [arXiv] Fractional-Quantum Ferroelectrics: A Route to High-Mobility Ferroelectric Semiconductors\n   关键词：semiconductor, ferroelectric\n   日期：2026-09-15\n   Authors: Rong-Tian Pang, Wenjie Hu, Youning Liu 等\n   https://arxiv.org/abs/2609.16799v1\n7. [arXiv] Origin and Reduction of Coercive Fields in ZnO-based Wurtzite Ferroelectrics\n   日期：2026-09-15\n   Authors: Abhijeet Dhakane, Alireza Sepehrinezhad, William Prudnick 等\n   https://arxiv.org/abs/2609.16570v1\n8. [arXiv] Probing proximity-induced superconductivity in bilayer graphene using gate-defined quantum …\n   日期：2026-09-15\n   Authors: Philipp Schmidt, Mathies Funke, Till Tenger 等\n   https://arxiv.org/abs/2609.16320v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-09-18）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 4 篇；Intel/TSMC 重点 0 篇；GaN 关键词 1 篇\n1. [Applied Physics Letters] Low-voltage GaN tunnel junctions enabled by a thermally reconstructed InGaN sacrificial int…\n   关键词：GaN\n   日期：2026-09-14\n   Authors: Kun Xing, Zhuang Ru, Liangyao Lin 等\n   https://doi.org/10.1063/5.0349739\n2. [Physical Review B] Formation and transformation of polar antivortices in ferroelectric-dielectric nanostripes\n   关键词：dielectric, ferroelectric\n   日期：2026-09-17\n   Authors: Anonymous\n   https://doi.org/10.1103/sdy7-9zpl\n3. [Applied Physics Letters] Wafer-scale 2H-MoTe2/perovskite quantum dot phototransistors with light-modulated ambipolar…\n   关键词：wafer\n   日期：2026-09-14\n   Authors: Hsi-Han Chen, Yung-Chi Yao, Jun-Zhi Feng 等\n   https://doi.org/10.1063/5.0321495\n4. [arXiv] Epitaxial inversion of spontaneous polarization in ε-Ga2O3\n   日期：2026-09-16\n   Authors: Yan Wang, Zhigao Xie, Weihua Tang 等\n   https://arxiv.org/abs/2609.18843v1",
   "papers": [
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2609.11114v1",
-      "title": "High-Performance Scaled P-Type SnOx Transistor by Atomic Layer Deposition with CFET Integration",
-      "url": "https://arxiv.org/abs/2609.11114v1",
-      "published": "2026-09-10",
-      "authors": [
-        "Ziheng Wang",
-        "Wen He",
-        "Chen Gu",
-        "Kai Jiang",
-        "Liankai Zheng",
-        "Jinxiu Zhao",
-        "Zhiyu Lin",
-        "Xiangjun Liu",
-        "Di Geng",
-        "Ling Li",
-        "Mengwei Si"
-      ],
-      "summary": "The development of high-performance p-type oxide semiconductors is essential for realizing complementary logic for monolithic 3D integration, yet p-type oxide semiconductors still exhibit substantially inferior performance compared with their n-type counterparts. In this work, we demonstrate high-performance p-type SnOx transistors by atomic layer deposition (ALD), as back-end-of-line compatible devices for monolithic 3D integration. The SnOx transistors exhibit high field-effect mobility of 6.9 cm2/Vs, low subthreshold swing (SS) of 185 mV/dec, decent on/off ratio (ION/IOFF) of 1.8*104 and high bias stability. By scaling the channel length down to 80 nm, a high on-current of 38.7 mA/mm at VDS of -1 V is achieved. It is understood that precursor and reaction engineering to suppress Sn4+ component in SnOx film are the key for performance enhancement. Furthermore, a complementary field-effect transistor with ALD SnOx p-FET vertically stacking on ALD In2O3 n-FET is also demonstrated, achieving maximum voltage gain of 21 V/V at VDD of 4 V. These findings suggest ALD SnOx as a promising candidate for scaled high-performance BEOL p-type transistors.",
-      "score": 19,
-      "priority": 2,
-      "highlights": [
-        "transistor",
-        "CFET",
-        "deposition"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、CFET、deposition方向，围绕“High-Performance Scaled P-Type SnOx Transistor by Atomic Layer Deposition with …”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、可靠性与稳定性、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、CFET、deposition方向，围绕“High-Performance Scaled P-Type SnOx Transistor by Atomic Layer Deposition with …”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、可靠性与稳定性、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管、CFET、deposition.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: High-Performance Scaled P-Type SnOx Transistor by Atomic Layer Deposition with CFET Integration.",
-      "reading_notes": "Focus: 晶体管、CFET、deposition.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: High-Performance Scaled P-Type SnOx Transistor by Atomic Layer Deposition with CFET Integration."
-    },
     {
       "source": "arXiv",
       "uid": "arxiv:2609.15135v1",
@@ -62,41 +30,6 @@
       "reading_notes": "Focus: 晶体管、HfO2.\nWhat to check: 性能提升、先进尺度下的可扩展性、接触/互连相关指标.\nContext: Demonstrate of High-Performance Top-Gate ALD Crystalline In2O3 Transistor Enabled by Lattice-Ma…."
     },
     {
-      "source": "arXiv",
-      "uid": "arxiv:2609.12184v2",
-      "title": "Agentic TCAD Calibration Workflow for Oxide Semiconductor Transistors",
-      "url": "https://arxiv.org/abs/2609.12184v2",
-      "published": "2026-09-11",
-      "authors": [
-        "Gyujun Jeong",
-        "Junmo Lee",
-        "Sungwon Cho",
-        "Woohyun Hwang",
-        "Kwangyou Seo",
-        "Suhwan Lim",
-        "Wanki Kim",
-        "Daewon Ha",
-        "Rishi Ranade",
-        "Kihang Youn",
-        "Ram Cherukuri",
-        "Yiyi Wang",
-        "Asif Khan",
-        "Shimeng Yu"
-      ],
-      "summary": "Experimental TCAD calibration is essential for predictive technology modeling of emerging oxide semiconductor transistors. However, it remains time-consuming and expert dependent because of model ambiguity. Multiple physical models and parameter sets can reproduce the same measured transfer characteristics, while local fitting alone cannot uniquely identify the underlying device physics. We present the first demonstration of an agentic TCAD calibration workflow for a fabricated bottom-gate In--W--O (BG-IWO) transistor. Starting from the measured transfer curve and device information, the workflow uses measurement--TCAD residuals and local sensitivity tests to select bounded parameter corrections or evaluate additional physical models, and accept only updates that improve device metrics. The LLM agent orchestrates the workflow, while Sentaurus governs the device physics. For the 2\\%-W reference device, five agent-suggested updates yield a fixed calibrated model, reducing the multi-metric device objective $J$ by 14.3$\\times$. Maximum $V_{\\mathrm{th}}$/$I_{\\mathrm{on}}$ errors are 36.1~mV/0.022 decade for varying-drain-bias tests and 46.2~mV/0.062 decade for varying-channel-length tests, demonstrating model transferability across bias and geometry rather than a local parameter fit. W-composition tests provide process-sensitive insight. This agentic workflow provides a faster route to model development for emerging device technologies.",
-      "score": 13,
-      "priority": 2,
-      "highlights": [
-        "transistor",
-        "semiconductor",
-        "oxide semiconductor"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、半导体、oxide semiconductor方向，围绕“Agentic TCAD Calibration Workflow for Oxide Semiconductor Transistors”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、半导体、oxide semiconductor方向，围绕“Agentic TCAD Calibration Workflow for Oxide Semiconductor Transistors”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管、半导体、oxide semiconductor.\nWhat to check: 性能提升.\nContext: Agentic TCAD Calibration Workflow for Oxide Semiconductor Transistors.",
-      "reading_notes": "Focus: 晶体管、半导体、oxide semiconductor.\nWhat to check: 性能提升.\nContext: Agentic TCAD Calibration Workflow for Oxide Semiconductor Transistors."
-    },
-    {
       "source": "Nature Electronics",
       "uid": "Nature Electronics:10.1038/s41928-026-01706-0",
       "title": "A spiking neural network-in-logic architecture based on reconfigurable molybdenum disulfide dual-gate transistors with ferroelectric gating",
@@ -114,6 +47,32 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、铁电材料方向，围绕“A spiking neural network-in-logic architecture based on reconfigurable molybden…”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看效率/耦合表现、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: 晶体管、铁电材料.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: A spiking neural network-in-logic architecture based on reconfigurable molybdenum disulfide dua….",
       "reading_notes": "Focus: 晶体管、铁电材料.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: A spiking neural network-in-logic architecture based on reconfigurable molybdenum disulfide dua…."
+    },
+    {
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0349739",
+      "title": "Low-voltage GaN tunnel junctions enabled by a thermally reconstructed InGaN sacrificial interlayer",
+      "url": "https://doi.org/10.1063/5.0349739",
+      "published": "2026-09-14",
+      "authors": [
+        "Kun Xing",
+        "Zhuang Ru",
+        "Liangyao Lin",
+        "Junhan Cai",
+        "Haifeng Wang",
+        "Hong Zeng",
+        "Xiaolong Jiang"
+      ],
+      "summary": "Low-voltage tunnel junctions (TJs) are essential for vertically integrated III-nitride emitters, yet their voltage penalty limits monolithic multicolor integration. We report a GaN-based TJ in which a 5 nm InGaN sacrificial interlayer is thermally reconstructed during a subsequent in-reactor step, producing a laterally redistributed In-rich tunneling interface. Four metalorganic chemical vapor deposition (MOCVD)-grown blue LED samples are compared: a p+-GaN/n+-GaN homojunction (LED A), the same homojunction after a 1000 °C, 3 min treatment (LED A-HT), a TJ with an intact 5 nm n-In0.3Ga0.7N interlayer (LED B), and its reconstructed counterpart (LED C). Cross-sectional TEM and In elemental mapping show a continuous interlayer in TJ B, whereas TJ C contains laterally redistributed In-rich regions and nanoscale void-like structural features; the blue InGaN/GaN quantum wells remain clearly resolved after the thermal process. LED C exhibits a device turn-on voltage of 3.4 V, compared with 4.1 V for LED B and 4.6 V for LED A; LED A-HT shows no comparable reduction. Similar peak wavelengths and linewidths among the four LEDs show that the blue test active region retains its peak position and spectral width after the different TJ treatments. Incorporation of the reconstructed TJ into a monolithic InGaN blue/green/red stack yields selectively driven three-color electroluminescence, wafer-scale PL peak-wavelength standard deviations below 3 nm, and an experimental CIE 1931 triangle area equal to 72.9% of the BT.2020 triangle area at the stated operating points. These results provide an MOCVD-compatible approach to reducing the voltage penalty of buried nitride TJs in vertically integrated emitters.",
+      "score": 11,
+      "priority": 2,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Low-voltage GaN tunnel junctions enabled by a thermally reconstructed InGaN sac…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Low-voltage GaN tunnel junctions enabled by a thermally reconstructed InGaN sac…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Low-voltage GaN tunnel junctions enabled by a thermally reconstructed InGaN sacrificial interla….",
+      "reading_notes": "Focus: GaN.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Low-voltage GaN tunnel junctions enabled by a thermally reconstructed InGaN sacrificial interla…."
     },
     {
       "source": "Applied Physics Letters",
@@ -217,11 +176,32 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注介电材料、GaN方向，围绕“Spatiotemporal programming via asymmetric dielectric engineering for nonvolatil…”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: 介电材料、GaN.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Spatiotemporal programming via asymmetric dielectric engineering for nonvolatile 2D optoelectro….",
       "reading_notes": "Focus: 介电材料、GaN.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Spatiotemporal programming via asymmetric dielectric engineering for nonvolatile 2D optoelectro…."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2609.16172v1",
+      "title": "Two-Dimensional Materials toward CMOS-Compatible Scalable Quantum Hardware",
+      "url": "https://arxiv.org/abs/2609.16172v1",
+      "published": "2026-09-15",
+      "authors": [
+        "Mara Lieberegts",
+        "Ye Wang"
+      ],
+      "summary": "Manufacturability is one of several constraints on developing solid-state quantum processors, along with qubit performance, control, connectivity, cryogenic operation, and fault tolerance. Chemical residues, structural disorder, and non-uniform interfaces introduced during fabrication can compromise qubit coherence. Two-dimensional (2D) materials, with their atomically thin crystals and van der Waals interfaces, offer routes to address some of these challenges. Their concurrent development as next-generation CMOS channel materials motivates an examination of whether relevant processes can be transferred to quantum chips. This Perspective evaluates the opportunities and limitations of 2D materials for CMOS-compatible quantum hardware.",
+      "score": 8,
+      "priority": 1,
+      "highlights": [
+        "CMOS"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS方向，围绕“Two-Dimensional Materials toward CMOS-Compatible Scalable Quantum Hardware”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS方向，围绕“Two-Dimensional Materials toward CMOS-Compatible Scalable Quantum Hardware”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: CMOS.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: Two-Dimensional Materials toward CMOS-Compatible Scalable Quantum Hardware.",
+      "reading_notes": "Focus: CMOS.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: Two-Dimensional Materials toward CMOS-Compatible Scalable Quantum Hardware."
     }
   ],
   "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-09-17T00:30:00+00:00"
+  "generated_at": "2026-09-18T00:30:00+00:00"
 }
