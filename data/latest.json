@@ -1,33 +1,119 @@
 {
   "ok": true,
-  "new_count": 0,
+  "new_count": 12,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-09-21）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 4 篇\n1. [arXiv] Demonstrate of High-Performance Top-Gate ALD Crystalline In2O3 Transistor Enabled by Lattic…\n   关键词：transistor, HfO2\n   日期：2026-09-14\n   Authors: Kai Jiang, Chen Wang, Ziheng Wang 等\n   https://arxiv.org/abs/2609.15135v1\n2. [arXiv] Comprehensive First-Principles Investigation of the Structural, Mechanical, Electronic, and…\n   关键词：GaN\n   日期：2026-09-16\n   Authors: Djardiel S. Gomes, Isaac M. Félix, Jorge O. A. L. Torres 等\n   https://arxiv.org/abs/2609.19192v1\n3. [arXiv] Spatiotemporal programming via asymmetric dielectric engineering for nonvolatile 2D optoele…\n   关键词：dielectric, GaN\n   日期：2026-09-14\n   Authors: Xiaoguang Luo, Xiaolong Zhang, Honglei Chen 等\n   https://arxiv.org/abs/2609.15771v1\n4. [arXiv] Two-Dimensional Materials toward CMOS-Compatible Scalable Quantum Hardware\n   关键词：CMOS\n   日期：2026-09-15\n   Authors: Mara Lieberegts, Ye Wang\n   https://arxiv.org/abs/2609.16172v1\n5. [Nature Electronics] In situ monitoring of channel swelling in organic electrochemical transistors using a laser…\n   关键词：transistor\n   日期：2026-09-15\n   https://www.nature.com/articles/s41928-026-01708-y\n6. [arXiv] AI for Science with GPT-6 Astra: Thermal Design and Electrothermal Analysis of 2D CFET\n   关键词：CFET\n   日期：2026-09-15\n   Authors: Min-Hui Kim, Khushi Sharma, Sarah Zhang 等\n   https://arxiv.org/abs/2609.17123v1\n7. [arXiv] ZStar: An automated toolkit for polarization, Born effective charges, dielectric response, …\n   关键词：dielectric, GaN\n   日期：2026-09-15\n   Authors: Xudong Zhu, Junhong Li, Gan Jin 等\n   https://arxiv.org/abs/2609.16802v1\n8. [Physical Review Letters] Directional-Locked Switching in Sliding Ferroelectrics Driven by Improper Mechanism\n   关键词：GaN\n   日期：2026-09-15\n   Authors: Hongwei Wang, Gan Jin, Minzhi Dai 等\n   https://doi.org/10.1103/jq6y-y9ft",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-09-22）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 5 篇\n1. [Applied Physics Letters] High-voltage normally off GaN-based MIS-HEMTs featuring rounded gate sidewalls\n   关键词：GaN\n   日期：2026-09-21\n   Authors: Qingyuan Zuo, Xin Xia, Huolin Huang 等\n   https://doi.org/10.1063/5.0335389\n2. [Applied Physics Letters] Thermally oxidized gallium nitride for photo-neuromorphic devices\n   关键词：GaN\n   日期：2026-09-21\n   Authors: Xuening Fan, Mingxi Liu, Liang Guo 等\n   https://doi.org/10.1063/5.0346635\n3. [Applied Physics Letters] Stabilized h-BN release layer on PVD-AlN/sapphire template for high-performance GaN-based f…\n   关键词：GaN\n   日期：2026-09-21\n   Authors: Dengrui Zhao, Haochen Zhang, Dong Wei 等\n   https://doi.org/10.1063/5.0344674\n4. [Applied Physics Letters] Dual-band persistent photoconductive effect of GaN-based van der Waals heterojunctions\n   关键词：GaN\n   日期：2026-09-21\n   Authors: Xiurui Lv, Guijuan Zhao, Bangyao Mao 等\n   https://doi.org/10.1063/5.0346056\n5. [Applied Physics Letters] Photopatternable polypyrrole electrode-based organic optical synaptic transistor for reserv…\n   关键词：transistor\n   日期：2026-09-21\n   Authors: Xinyi Liu, Wei Dai, Ting Zhang 等\n   https://doi.org/10.1063/5.0350403\n6. [Physical Review B] Emerging two-dimensional pentagonal <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML…\n   关键词：GaN\n   日期：2026-09-21\n   Authors: Heng Zhang, Frédéric Guégan, Gilles Frapper 等\n   https://doi.org/10.1103/zz95-3xg1\n7. [Applied Physics Letters] Photoluminescence reveals point-defect evolution associated with dielectric reliability in …\n   关键词：dielectric, ferroelectric\n   日期：2026-09-21\n   Authors: Fuhang Wu, Wenjin Zhao, Dayu Zhou 等\n   https://doi.org/10.1063/5.0344632\n8. [Applied Physics Letters] Metal-to-semiconductor transition and enhanced photoconductivity in PtSe2 nanoflakes\n   关键词：semiconductor\n   日期：2026-09-21\n   Authors: Pushpa Selvarasu, Hemanth Kumar Bangolla, Raman Sankar 等\n   https://doi.org/10.1063/5.0346024",
   "papers": [
     {
-      "source": "arXiv",
-      "uid": "arxiv:2609.15135v1",
-      "title": "Demonstrate of High-Performance Top-Gate ALD Crystalline In2O3 Transistor Enabled by Lattice-Matched HfO2 and In2O3 Heterostructure",
-      "url": "https://arxiv.org/abs/2609.15135v1",
-      "published": "2026-09-14",
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0335389",
+      "title": "High-voltage normally off GaN-based MIS-HEMTs featuring rounded gate sidewalls",
+      "url": "https://doi.org/10.1063/5.0335389",
+      "published": "2026-09-21",
       "authors": [
-        "Kai Jiang",
-        "Chen Wang",
-        "Ziheng Wang",
-        "Zhiyu Lin",
-        "Mengwei Si"
+        "Qingyuan Zuo",
+        "Xin Xia",
+        "Huolin Huang",
+        "Yun Lei",
+        "Ze Zhang",
+        "Xinyang Wang",
+        "Jianyu Zhao",
+        "Kaiming Ma",
+        "Rong Han",
+        "Jianxun Dai",
+        "Yung C. Liang"
       ],
-      "summary": "In this work, we demonstrate high-mobility top-gate (TG) atomic-layer-deposited (ALD) crystalline In2O3 transistors through simultaneous interface and crystallinity engineering. First, a HfO2/In2O3/HfO2 stack is employed, enabling epitaxial-like crystallization of the ultrathin In2O3 channel, because of the lattice matching between monoclinic phase HfO2 and cubic phase In2O3. Second, an oxygen-rich gate insulator process is applied using high-dose O3 precursor and elevated deposition temperature, effectively suppressing oxygen scavenging during gate dielectric deposition, significantly reducing interfacial defect formation. Third, the homogeneous In-O bonding network in crystalline In2O3 exhibits substantially enhanced resistance to oxygen scavenging by source/drain contacts, which significantly improves the immunity to threshold voltage (VTH) roll-off at short channel length compared to amorphous In2O3. As a result, high-performance TG long-channel In2O3 transistors are achieved with a high mobility of 163 cm2/V s and a steep subthreshold slope of 64 mV/dec. High-performance TG short-channel In2O3 transistors with high ION of 1650 μA/μm at VD of 1 V, large on/off ratio over 1010 and VTH of -0.27 V are demonstrated. These results establish lattice-engineered crystalline In2O3 as an effective strategy for high-mobility, aggressively scaled TG oxide transistors suitable for BEOL-compatible applications.",
-      "score": 13,
+      "summary": "This work proposes a normally off gallium nitride (GaN)-based high electron mobility transistor (HEMT) that features rounded gate sidewalls and smooth corner profiles. To facilitate superior gate dielectric growth and coverage, we employed a hybrid-recess scheme combining a two-step etching process with an N2/O2 plasma treatment, resulting in significant etch-induced damage mitigation and interface trap density reduction. Compared to the traditional devices without plasma treatment, our devices exhibited not only a remarkable 156% rise in saturation current density but also a dramatic 108% increase in transconductance, alongside the nearly eliminated threshold-voltage hysteresis. More importantly, attributed to the suppression of the peak electric field under high-voltage stress by the rounded corners, the gate breakdown voltage and off-state breakdown voltage are enhanced to 26 and 1447 V, respectively, consistent with the technology computer-aided design simulation analysis. Finally, double-pulse measurements were conducted to further confirm the reduced interface trap density and improved reliability of the hybrid-recess device. In summary, we demonstrate a normally off GaN-based HEMT with rounded etched sidewalls as a key feature, thereby establishing a promising strategy for high-voltage power devices.",
+      "score": 14,
       "priority": 2,
       "highlights": [
-        "transistor",
-        "HfO2"
+        "GaN"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、HfO2方向，围绕“Demonstrate of High-Performance Top-Gate ALD Crystalline In2O3 Transistor Enabl…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、先进尺度下的可扩展性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、HfO2方向，围绕“Demonstrate of High-Performance Top-Gate ALD Crystalline In2O3 Transistor Enabl…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、先进尺度下的可扩展性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管、HfO2.\nWhat to check: 性能提升、先进尺度下的可扩展性、接触/互连相关指标.\nContext: Demonstrate of High-Performance Top-Gate ALD Crystalline In2O3 Transistor Enabled by Lattice-Ma….",
-      "reading_notes": "Focus: 晶体管、HfO2.\nWhat to check: 性能提升、先进尺度下的可扩展性、接触/互连相关指标.\nContext: Demonstrate of High-Performance Top-Gate ALD Crystalline In2O3 Transistor Enabled by Lattice-Ma…."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“High-voltage normally off GaN-based MIS-HEMTs featuring rounded gate sidewalls”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“High-voltage normally off GaN-based MIS-HEMTs featuring rounded gate sidewalls”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: High-voltage normally off GaN-based MIS-HEMTs featuring rounded gate sidewalls.",
+      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: High-voltage normally off GaN-based MIS-HEMTs featuring rounded gate sidewalls."
+    },
+    {
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0346635",
+      "title": "Thermally oxidized gallium nitride for photo-neuromorphic devices",
+      "url": "https://doi.org/10.1063/5.0346635",
+      "published": "2026-09-21",
+      "authors": [
+        "Xuening Fan",
+        "Mingxi Liu",
+        "Liang Guo",
+        "Jianyuan Wang",
+        "Bingcheng Luo"
+      ],
+      "summary": "Thermal oxidation of wide-bandgap semiconductors offers a simple yet underexplored route to functionalize emerging optoelectronic devices. Here, we demonstrate that thermally oxidized gallium nitride metal-oxide-semiconductor (MOS) capacitors, in which oxidation forms a β-Ga2O3/GaN heterostructure, can operate as photo-neuromorphic devices. The resulting structures exhibit pronounced persistent photocapacitance, enabling the emulation of synaptic plasticity and experiential learning under optical stimulation while maintaining zero static power consumption. When integrated into an in-sensor physical reservoir computing framework, the devices achieve a classification accuracy of 89.8% on the Modified National Institute of Standards and Technology handwritten dataset using 5-bit temporal encoding. These findings establish thermal oxidation as a scalable strategy for realizing capacitance-type photo-neuromorphic devices and position thermally oxidized GaN MOS capacitors as a promising platform for vision-inspired neuromorphic computing.",
+      "score": 12,
+      "priority": 2,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Thermally oxidized gallium nitride for photo-neuromorphic devices”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Thermally oxidized gallium nitride for photo-neuromorphic devices”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 功耗或能效表现.\nContext: Thermally oxidized gallium nitride for photo-neuromorphic devices.",
+      "reading_notes": "Focus: GaN.\nWhat to check: 功耗或能效表现.\nContext: Thermally oxidized gallium nitride for photo-neuromorphic devices."
+    },
+    {
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0344674",
+      "title": "Stabilized h-BN release layer on PVD-AlN/sapphire template for high-performance GaN-based flexible weak-light photodetectors",
+      "url": "https://doi.org/10.1063/5.0344674",
+      "published": "2026-09-21",
+      "authors": [
+        "Dengrui Zhao",
+        "Haochen Zhang",
+        "Dong Wei",
+        "Li Zhang",
+        "Xin Zhou",
+        "Tiwei Chen",
+        "Gaofu Guo",
+        "Heng Yu",
+        "Yu Hu",
+        "Xiaodong Zhang",
+        "Haiding Sun",
+        "Zhongming Zeng",
+        "Baoshun Zhang",
+        "Xianqi Dai"
+      ],
+      "summary": "Layered hexagonal boron nitride (h-BN) enables the release and transfer of III-nitride epilayers toward flexible electronics, but its insufficient interfacial adhesion to the substrate would limit its compatibility with conventional fabrication processes. Here, based on a sapphire substrate coated with an AlN layer that has the same hexagonal structure as h-BN, the bonding strength of the h-BN/AlN/sapphire structure is significantly enhanced to withstand standard fabrication processes. Meanwhile, epitaxial h-BN on physical vapor deposition-AlN/sapphire sustains its layered structure with releasable properties for device peeling-off and transferring. As such, the h-BN/AlN/sapphire template enables the subsequent growth, fabrication, and wafer-scale transfer of GaN photodetectors (PDs) to flexible substrates. The obtained flexible PDs feature responsivity over 20 A/W with reliable photo-to-dark current ratios under a weak incident light intensity of 23 nW/cm2, even with large bending deformation. This work provides an effective strategy to achieve process compatibility and transferability of III-nitride heterostructures toward large-scale high-performance GaN-based flexible electronics.",
+      "score": 11,
+      "priority": 2,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Stabilized h-BN release layer on PVD-AlN/sapphire template for high-performance…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Stabilized h-BN release layer on PVD-AlN/sapphire template for high-performance…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升.\nContext: Stabilized h-BN release layer on PVD-AlN/sapphire template for high-performance GaN-based flexi….",
+      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升.\nContext: Stabilized h-BN release layer on PVD-AlN/sapphire template for high-performance GaN-based flexi…."
+    },
+    {
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0346056",
+      "title": "Dual-band persistent photoconductive effect of GaN-based van der Waals heterojunctions",
+      "url": "https://doi.org/10.1063/5.0346056",
+      "published": "2026-09-21",
+      "authors": [
+        "Xiurui Lv",
+        "Guijuan Zhao",
+        "Bangyao Mao",
+        "Guipeng Liu",
+        "Jianhong Yang"
+      ],
+      "summary": "GaN-based hybrid-dimensional heterojunctions play a critical role in optoelectronics; however, their persistent photoconductivity (PPC)—essential for synaptic devices—has been limited to the UV regime by the wide bandgap of GaN. We report the photoconductive properties of dual-channel heterojunction devices composed of MoS2 and WSe2 integrated with GaN. Specifically, the GaN/WSe2 heterojunction did not exhibit a PPC effect under 633 nm light, while the GaN/MoS2 heterojunction displayed a pronounced PPC effect. Notably, the introduction of h-BN intercalation resulted in the GaN/h-BN/MoS2 heterojunction lacking the PPC effect. This paper analyzes the capture and excitation of carriers by CN defect states in GaN and demonstrates that the built-in electric field of the heterojunction influences the separation of photo-generated carriers, resulting in distinct PPC behaviors among various devices. Through h-BN intercalation, the pivotal role of interlayer interaction in extending the response wavelength of GaN-based optoelectronic synapses has been unambiguously identified. This work establishes a mechanistic foundation and design principle for GaN-based hybrid-dimensional optoelectronic synapses, extending their operating wavelength and enabling multi-band neuromorphic computing.",
+      "score": 8,
+      "priority": 2,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Dual-band persistent photoconductive effect of GaN-based van der Waals heteroju…”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Dual-band persistent photoconductive effect of GaN-based van der Waals heteroju…”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Dual-band persistent photoconductive effect of GaN-based van der Waals heterojunctions.",
+      "reading_notes": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Dual-band persistent photoconductive effect of GaN-based van der Waals heterojunctions."
     },
     {
       "source": "arXiv",
@@ -55,77 +141,33 @@
       "reading_notes": "Focus: GaN.\nWhat to check: 可靠性与稳定性.\nContext: Comprehensive First-Principles Investigation of the Structural, Mechanical, Electronic, and Opt…."
     },
     {
-      "source": "arXiv",
-      "uid": "arxiv:2609.15771v1",
-      "title": "Spatiotemporal programming via asymmetric dielectric engineering for nonvolatile 2D optoelectronics",
-      "url": "https://arxiv.org/abs/2609.15771v1",
-      "published": "2026-09-14",
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0350403",
+      "title": "Photopatternable polypyrrole electrode-based organic optical synaptic transistor for reservoir computing",
+      "url": "https://doi.org/10.1063/5.0350403",
+      "published": "2026-09-21",
       "authors": [
-        "Xiaoguang Luo",
-        "Xiaolong Zhang",
-        "Honglei Chen",
-        "Jiaming Wang",
-        "Fan Liu",
-        "Jiongtao Zhang",
-        "Junqiang Zhang",
-        "Yihan Yin",
-        "Jinpeng Xu",
-        "Lei Ying",
-        "Renjing Xu",
-        "Yingchun Cheng",
-        "Xuetao Gan",
-        "Wei Huang"
+        "Xinyi Liu",
+        "Wei Dai",
+        "Ting Zhang",
+        "Shuyan Liu",
+        "Hui Fan",
+        "Pengfei Zhao",
+        "Xue Chen",
+        "Yilin Song",
+        "Su-Ting Han",
+        "Ye Zhou"
       ],
-      "summary": "Ambipolar two dimensional (2D) semiconductors integrated with floating-gate architectures offer a promising platform for nonvolatile, reconfigurable electronics. However, the switching between p-n and n-p junction polarities has conventionally required complex multi-gate designs, hindering the scalability and integration density. Here, we demonstrate a spatiotemporal programming strategy using a dual-floating-gate architecture with a symmetry broken tunneling dielectric. An asymmetric dielectric stack creates distinct tunneling thresholds for two floating gates, enabling a single input gate to encode spatial doping profiles in the 2D channel via defined voltage pulse sequences. We achieve on demand, nonvolatile, and reversible switching between p-n and n-p configurations with excellent retention and endurance. The reconfigurable homojunction serves as a multifunctional platform for logic encoding, rectification, photodetection, and in sensor computing. This work establishes a design paradigm that replaces spatial input complexity with spatiotemporal programming, paving the way for high-density, multifunctional intelligent hardware.",
-      "score": 9,
-      "priority": 1,
-      "highlights": [
-        "dielectric",
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注介电材料、GaN方向，围绕“Spatiotemporal programming via asymmetric dielectric engineering for nonvolatil…”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注介电材料、GaN方向，围绕“Spatiotemporal programming via asymmetric dielectric engineering for nonvolatil…”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 介电材料、GaN.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Spatiotemporal programming via asymmetric dielectric engineering for nonvolatile 2D optoelectro….",
-      "reading_notes": "Focus: 介电材料、GaN.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Spatiotemporal programming via asymmetric dielectric engineering for nonvolatile 2D optoelectro…."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2609.16172v1",
-      "title": "Two-Dimensional Materials toward CMOS-Compatible Scalable Quantum Hardware",
-      "url": "https://arxiv.org/abs/2609.16172v1",
-      "published": "2026-09-15",
-      "authors": [
-        "Mara Lieberegts",
-        "Ye Wang"
-      ],
-      "summary": "Manufacturability is one of several constraints on developing solid-state quantum processors, along with qubit performance, control, connectivity, cryogenic operation, and fault tolerance. Chemical residues, structural disorder, and non-uniform interfaces introduced during fabrication can compromise qubit coherence. Two-dimensional (2D) materials, with their atomically thin crystals and van der Waals interfaces, offer routes to address some of these challenges. Their concurrent development as next-generation CMOS channel materials motivates an examination of whether relevant processes can be transferred to quantum chips. This Perspective evaluates the opportunities and limitations of 2D materials for CMOS-compatible quantum hardware.",
-      "score": 8,
-      "priority": 1,
-      "highlights": [
-        "CMOS"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS方向，围绕“Two-Dimensional Materials toward CMOS-Compatible Scalable Quantum Hardware”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS方向，围绕“Two-Dimensional Materials toward CMOS-Compatible Scalable Quantum Hardware”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: CMOS.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: Two-Dimensional Materials toward CMOS-Compatible Scalable Quantum Hardware.",
-      "reading_notes": "Focus: CMOS.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: Two-Dimensional Materials toward CMOS-Compatible Scalable Quantum Hardware."
-    },
-    {
-      "source": "Nature Electronics",
-      "uid": "Nature Electronics:10.1038/s41928-026-01708-y",
-      "title": "In situ monitoring of channel swelling in organic electrochemical transistors using a laser Doppler vibrometer",
-      "url": "https://www.nature.com/articles/s41928-026-01708-y",
-      "published": "2026-09-15",
-      "authors": [],
-      "summary": "Nature Electronics, Published online: 15 September 2026; doi:10.1038/s41928-026-01708-y A platform based on a laser Doppler vibrometer can be used to monitor channel swelling of organic electrochemical transistors with a lateral resolution of 3 µm, a vertical resolution of 0.6 nm and a temporal resolution of below 0.1 ms.",
-      "score": 8,
+      "summary": "Inspired by the efficient information processing of biological neural systems, optoelectronic synaptic devices integrating sensing and computation have emerged as a cornerstone for next-generation neuromorphic computing. However, achieving high-performance organic synaptic transistors remains challenging due to the limitations of conventional devices in terms of patterning precision. Here, we develop an organic tunable-plasticity transistor (OTPT) based on photolithographic polypyrrole (PPy) electrode patterns. The PPy electrodes exhibit exceptional adhesion, wafer-scale uniformity, and high resolution. Upon depositing pentacene as the semiconductor layer on the octadecyltrichlorosilane-modified substrate, the resulting transistor devices emulate essential synaptic behaviors. Furthermore, we implement a physical reservoir computing (RC) system based on the OTPT to tackle complex multi-modal tasks. The system demonstrates high recognition accuracy in static digital recognition and dynamic sequence classification and successfully identifies bus motion direction. This work demonstrates that the high-precision integration of PPy electrodes provides a robust hardware foundation for the RC system, facilitating the development of energy-efficient neuromorphic electronics for edge intelligence.",
+      "score": 14,
       "priority": 1,
       "highlights": [
         "transistor"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“In situ monitoring of channel swelling in organic electrochemical transistors u…”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“In situ monitoring of channel swelling in organic electrochemical transistors u…”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: In situ monitoring of channel swelling in organic electrochemical transistors using a laser Dop….",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: In situ monitoring of channel swelling in organic electrochemical transistors using a laser Dop…."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Photopatternable polypyrrole electrode-based organic optical synaptic transisto…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Photopatternable polypyrrole electrode-based organic optical synaptic transisto…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性、功耗或能效表现.\nContext: Photopatternable polypyrrole electrode-based organic optical synaptic transistor for reservoir ….",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性、功耗或能效表现.\nContext: Photopatternable polypyrrole electrode-based organic optical synaptic transistor for reservoir …."
     },
     {
       "source": "arXiv",
@@ -174,39 +216,11 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注介电材料、GaN方向，围绕“ZStar: An automated toolkit for polarization, Born effective charges, dielectri…”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: 介电材料、GaN.\nWhat to check: 效率/耦合表现.\nContext: ZStar: An automated toolkit for polarization, Born effective charges, dielectric response, and ….",
       "reading_notes": "Focus: 介电材料、GaN.\nWhat to check: 效率/耦合表现.\nContext: ZStar: An automated toolkit for polarization, Born effective charges, dielectric response, and …."
-    },
-    {
-      "source": "Physical Review Letters",
-      "uid": "doi:10.1103/jq6y-y9ft",
-      "title": "Directional-Locked Switching in Sliding Ferroelectrics Driven by Improper Mechanism",
-      "url": "https://doi.org/10.1103/jq6y-y9ft",
-      "published": "2026-09-15",
-      "authors": [
-        "Hongwei Wang",
-        "Gan Jin",
-        "Minzhi Dai",
-        "Er Pan",
-        "Baomin Wang",
-        "Changming Ke",
-        "Shi Liu",
-        "Ri He",
-        "Run-Wei Li"
-      ],
-      "summary": "",
-      "score": 5,
-      "priority": 1,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
-      "abstract_zh": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
-      "overview_cn": "Focus: GaN.\nNote: no abstract available; infer from title only.",
-      "reading_notes": "Focus: GaN.\nNote: no abstract available; infer from title only."
     }
   ],
   "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-09-21T00:30:00+00:00"
+  "generated_at": "2026-09-22T00:30:00+00:00"
 }
