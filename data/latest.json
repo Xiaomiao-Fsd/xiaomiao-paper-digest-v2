@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 12,
+  "new_count": 21,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-09-22）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 5 篇\n1. [Applied Physics Letters] High-voltage normally off GaN-based MIS-HEMTs featuring rounded gate sidewalls\n   关键词：GaN\n   日期：2026-09-21\n   Authors: Qingyuan Zuo, Xin Xia, Huolin Huang 等\n   https://doi.org/10.1063/5.0335389\n2. [Applied Physics Letters] Thermally oxidized gallium nitride for photo-neuromorphic devices\n   关键词：GaN\n   日期：2026-09-21\n   Authors: Xuening Fan, Mingxi Liu, Liang Guo 等\n   https://doi.org/10.1063/5.0346635\n3. [Applied Physics Letters] Stabilized h-BN release layer on PVD-AlN/sapphire template for high-performance GaN-based f…\n   关键词：GaN\n   日期：2026-09-21\n   Authors: Dengrui Zhao, Haochen Zhang, Dong Wei 等\n   https://doi.org/10.1063/5.0344674\n4. [Applied Physics Letters] Dual-band persistent photoconductive effect of GaN-based van der Waals heterojunctions\n   关键词：GaN\n   日期：2026-09-21\n   Authors: Xiurui Lv, Guijuan Zhao, Bangyao Mao 等\n   https://doi.org/10.1063/5.0346056\n5. [Applied Physics Letters] Photopatternable polypyrrole electrode-based organic optical synaptic transistor for reserv…\n   关键词：transistor\n   日期：2026-09-21\n   Authors: Xinyi Liu, Wei Dai, Ting Zhang 等\n   https://doi.org/10.1063/5.0350403\n6. [Physical Review B] Emerging two-dimensional pentagonal <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML…\n   关键词：GaN\n   日期：2026-09-21\n   Authors: Heng Zhang, Frédéric Guégan, Gilles Frapper 等\n   https://doi.org/10.1103/zz95-3xg1\n7. [Applied Physics Letters] Photoluminescence reveals point-defect evolution associated with dielectric reliability in …\n   关键词：dielectric, ferroelectric\n   日期：2026-09-21\n   Authors: Fuhang Wu, Wenjin Zhao, Dayu Zhou 等\n   https://doi.org/10.1063/5.0344632\n8. [Applied Physics Letters] Metal-to-semiconductor transition and enhanced photoconductivity in PtSe2 nanoflakes\n   关键词：semiconductor\n   日期：2026-09-21\n   Authors: Pushpa Selvarasu, Hemanth Kumar Bangolla, Raman Sankar 等\n   https://doi.org/10.1063/5.0346024",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-09-23）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 5 篇\n1. [Applied Physics Letters] DC and RF characteristics of GaN HEMTs on glass substrates with a van der Waals AlN/glass i…\n   关键词：GaN\n   日期：2026-09-21\n   Authors: Taeyoung Han, Jaeyong Lee, Juno Bae 等\n   https://doi.org/10.1063/5.0348431\n2. [arXiv] Dose-Insensitive Defect Engineering, Carrier Kinetics, and Reproducible Chromaticity Tuning…\n   关键词：GaN\n   日期：2026-09-19\n   Authors: Quan-Shan Liu, Mason Adshead, Sadia Sheraz 等\n   https://arxiv.org/abs/2609.22648v1\n3. [Applied Physics Letters] Neural-network-assisted EKV compact modeling for complementary oxide thin-film transistors\n   关键词：transistor\n   日期：2026-09-21\n   Authors: Mingyu Zhuang, Zhiyuan Wang, Baochuan Liu 等\n   https://doi.org/10.1063/5.0349365\n4. [arXiv] Sub-Thermionic Switching in a Negative-Capacitance Bandgap-Change Field-Effect Transistor\n   关键词：transistor\n   日期：2026-09-20\n   Authors: Rahul B Awale, Mike Klymenko, Yuefeng Yin 等\n   https://arxiv.org/abs/2609.23505v1\n5. [Nature Electronics] An Ising machine for combinatorial optimization based on sub-nanosecond CMOS-integrated mag…\n   关键词：CMOS\n   日期：2026-09-22\n   https://www.nature.com/articles/s41928-026-01700-6\n6. [Applied Physics Letters] Unified modeling of excitonic emission and internal quantum efficiency in III-nitride quant…\n   关键词：GaN\n   日期：2026-09-21\n   Authors: Fu-Chen Hsiao, Jonathan J. Wierer, Fred Kish\n   https://doi.org/10.1063/5.0341168\n7. [arXiv] Understanding Ideality Factor in Wide-Band Gap Semiconductor Devices with Strong Recombinat…\n   关键词：semiconductor, GaN\n   日期：2026-09-19\n   Authors: Iris Celupica-Liu, Tanay Tak, Yuh-Renn Wu 等\n   https://arxiv.org/abs/2609.22727v1\n8. [arXiv] Scandium diboride: a semi-metallic, lattice, thermally matched substrate for vertical AlGaN…\n   关键词：GaN\n   日期：2026-09-22\n   Authors: MVS Chandrashekhar, Daniel Joel Harrison, Ahamed Raihan 等\n   https://arxiv.org/abs/2609.24856v1",
   "papers": [
     {
       "source": "Applied Physics Letters",
@@ -33,6 +33,32 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“High-voltage normally off GaN-based MIS-HEMTs featuring rounded gate sidewalls”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: High-voltage normally off GaN-based MIS-HEMTs featuring rounded gate sidewalls.",
       "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: High-voltage normally off GaN-based MIS-HEMTs featuring rounded gate sidewalls."
+    },
+    {
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0348431",
+      "title": "DC and RF characteristics of GaN HEMTs on glass substrates with a van der Waals AlN/glass interface",
+      "url": "https://doi.org/10.1063/5.0348431",
+      "published": "2026-09-21",
+      "authors": [
+        "Taeyoung Han",
+        "Jaeyong Lee",
+        "Juno Bae",
+        "Gwonman Noh",
+        "Gyuhyung Lee",
+        "Changkun Park",
+        "Geonwook Yoo"
+      ],
+      "summary": "In this study, we report direct current and radio frequency (RF) characteristics of GaN high-electron-mobility transistors with a van der Waals (vdW) AlN/glass interface on glass substrates. Fluidic-assisted self-alignment transfer (FAST) and the integration processes are adopted to demonstrate the structure. Structural analysis confirms an abrupt AlN/glass vdW interface. Replacing the Si substrate of GaN-on-Si with an insulating glass improves off-state breakdown voltage from 81 to 138 V attributed to suppression of vertical substrate leakage. Moreover, maximum oscillation frequency (fmax) increases from 10.9 to 14.9 GHz due to the low-dielectric loss of glass, while the cutoff frequency remains nearly unchanged, confirming that intrinsic device properties are preserved after FAST and the integration processes. Port capacitance extraction from S-parameter measurements reveals that the drain-port capacitance decreases by approximately ×6, indicating that the fmax enhancement originates from suppression of pad-coupled parasitic and substrate loss. These results suggest that the proposed GaN-on-glass platform with the adhesive free, vdW AlN/glass interface can improve both breakdown voltage and RF performance.",
+      "score": 13,
+      "priority": 2,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“DC and RF characteristics of GaN HEMTs on glass substrates with a van der Waals…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“DC and RF characteristics of GaN HEMTs on glass substrates with a van der Waals…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: DC and RF characteristics of GaN HEMTs on glass substrates with a van der Waals AlN/glass inter….",
+      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: DC and RF characteristics of GaN HEMTs on glass substrates with a van der Waals AlN/glass inter…."
     },
     {
       "source": "Applied Physics Letters",
@@ -117,28 +143,28 @@
     },
     {
       "source": "arXiv",
-      "uid": "arxiv:2609.19192v1",
-      "title": "Comprehensive First-Principles Investigation of the Structural, Mechanical, Electronic, and Optical Properties of Homoelemental Phase T-GaN Monolayer",
-      "url": "https://arxiv.org/abs/2609.19192v1",
-      "published": "2026-09-16",
+      "uid": "arxiv:2609.22648v1",
+      "title": "Dose-Insensitive Defect Engineering, Carrier Kinetics, and Reproducible Chromaticity Tuning in Ion-Implanted InGaN/GaN Quantum Wells",
+      "url": "https://arxiv.org/abs/2609.22648v1",
+      "published": "2026-09-19",
       "authors": [
-        "Djardiel S. Gomes",
-        "Isaac M. Félix",
-        "Jorge O. A. L. Torres",
-        "Fabio L. L. de Mendonça",
-        "Sergio Azevedo",
-        "Marcelo L. Pereira Junior"
+        "Quan-Shan Liu",
+        "Mason Adshead",
+        "Sadia Sheraz",
+        "Maddison Coke",
+        "Nicholas Lockyer",
+        "Richard J. Curry"
       ],
-      "summary": "The exploration of non-hexagonal two-dimensional topologies has opened new possibilities for tailoring the properties of group III-V monolayers beyond those accessible through conventional honeycomb phases. In this context, we have investigated the structural, mechanical, electronic, and optical properties of T-GaN, a two-dimensional tetragonal gallium nitride monolayer composed of alternating four- and eight-membered rings featuring coexisting homoelemental (Ga-Ga, N-N) and heteropolar (Ga-N) bonds, using density functional theory (DFT) within the generalized gradient approximation (GGA/PBE) and the hybrid HSE06 functional. The dynamical stability of T-GaN was confirmed by phonon dispersion calculations, which revealed the absence of imaginary frequencies throughout the Brillouin zone, and was further supported by \\textit{ab initio} molecular dynamics (AIMD) simulations. The mechanical characterization reveals a pronounced in-plane anisotropy, with critical strains of approximately 16.5\\% and 7.0\\% along the $x$- and $y$-directions, respectively. The electronic band structure analysis indicates that T-GaN is a nonmagnetic semiconductor with an indirect band gap of 0.35~eV (PBE) and 1.15~eV (HSE06), with the valence band maximum dominated by nitrogen 2\\textit{p} orbitals and the conduction band minimum governed by gallium 4\\textit{s} and 4\\textit{p} states. The optical response was evaluated along three crystallographic directions, exhibiting considerable anisotropy in the absorption coefficient, refractive index, and reflectivity. These findings provide new insights into the physical properties of tetragonal group III-V monolayers and suggest that T-GaN may serve as a promising candidate for anisotropic nanoelectronic and optoelectronic applications.",
-      "score": 7,
+      "summary": "Post-growth defect engineering via ion implantation provides a powerful pathway for spatial optical profiling and colour patterning in III-V alloying photonic integration. However, the comprehensive recombination kinetics governing deep-level defect saturation and excitonic recovery under high-temperature annealing remain insufficiently understood. Here, we present a systematic study on the optical dynamics, rate-equation kinetics, and chromaticity evolution of indium-implanted InGaN/GaN multiple quantum wells (MQWs) across implantation doses (5E14 to 5E16 ions cm^-2) and subsequent thermal annealing stages (500 to 1100 deg C). Photoluminescence (PL) spectrum analysis reveals that a dose of <= 5E14 ions cm^-2 induces a modification of the optical response that does not further change upon high-dose implantation. A two-channel coupled rate-equation model is fitted to the data, optimised via differential evolution, allowing the extraction of transition rate constants. This demonstrates that thermal processing at 1000 deg C suppresses the carrier capture rate into deep-level states and also reduces its radiative recombination rate. This kinetic bottleneck drives an order-of-magnitude extension in the channel-specific radiative lifetime. Leveraging the excitation power density dependence of the differential recombination kinetics, where deep defects saturate whilst MQW emission scales near-linearly, we achieve a universal and power density-tunable chromaticity trajectory from warm yellow to cool white-blue emission. These insights enable microscopic defect physics to be linked to the macro-scale colour tailoring observed.",
+      "score": 5,
       "priority": 2,
       "highlights": [
         "GaN"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Comprehensive First-Principles Investigation of the Structural, Mechanical, Ele…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Comprehensive First-Principles Investigation of the Structural, Mechanical, Ele…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 可靠性与稳定性.\nContext: Comprehensive First-Principles Investigation of the Structural, Mechanical, Electronic, and Opt….",
-      "reading_notes": "Focus: GaN.\nWhat to check: 可靠性与稳定性.\nContext: Comprehensive First-Principles Investigation of the Structural, Mechanical, Electronic, and Opt…."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Dose-Insensitive Defect Engineering, Carrier Kinetics, and Reproducible Chromat…”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看效率/耦合表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Dose-Insensitive Defect Engineering, Carrier Kinetics, and Reproducible Chromat…”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看效率/耦合表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 效率/耦合表现、与既有工艺平台的集成价值.\nContext: Dose-Insensitive Defect Engineering, Carrier Kinetics, and Reproducible Chromaticity Tuning in ….",
+      "reading_notes": "Focus: GaN.\nWhat to check: 效率/耦合表现、与既有工艺平台的集成价值.\nContext: Dose-Insensitive Defect Engineering, Carrier Kinetics, and Reproducible Chromaticity Tuning in …."
     },
     {
       "source": "Applied Physics Letters",
@@ -170,57 +196,34 @@
       "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性、功耗或能效表现.\nContext: Photopatternable polypyrrole electrode-based organic optical synaptic transistor for reservoir …."
     },
     {
-      "source": "arXiv",
-      "uid": "arxiv:2609.17123v1",
-      "title": "AI for Science with GPT-6 Astra: Thermal Design and Electrothermal Analysis of 2D CFET",
-      "url": "https://arxiv.org/abs/2609.17123v1",
-      "published": "2026-09-15",
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0349365",
+      "title": "Neural-network-assisted EKV compact modeling for complementary oxide thin-film transistors",
+      "url": "https://doi.org/10.1063/5.0349365",
+      "published": "2026-09-21",
       "authors": [
-        "Min-Hui Kim",
-        "Khushi Sharma",
-        "Sarah Zhang",
-        "Ye Wang"
+        "Mingyu Zhuang",
+        "Zhiyuan Wang",
+        "Baochuan Liu",
+        "Jiawei Zhang",
+        "Qian Xin",
+        "Aimin Song"
       ],
-      "summary": "Thermal optimization of 2D CFET inverters requires testing structural proposals against their electrical costs. We examine these research tasks using an AI agent workflow within a supplied electrothermal model. At 12 nm, Astra selects a redistributed source-interconnect geometry, while a coordinating agent proposes a substrate-directed heat-removal path. The combined design reduces peak temperature rise by 1.67 K at fixed metal volume and 20 μW. A subsequent metal-resistance sensitivity gives about 0.6-K inverter cooling alongside a 2% nFET on-current loss. Effective contact-length scaling further shows that lower temperature can accompany higher thermal resistance when current falls. Reproduction identifies agreeing implementations and retains a 104.95-K failure for diagnosis. These results show that an AI scientist workflow can propose thermal structures, test them under common constraints, and quantify their electrical cost.",
-      "score": 7,
+      "summary": "This work reports a neural-network-assisted Enz–Krummenacher–Vittoz (EKV) compact-modeling framework for complementary oxide thin-film transistors (TFTs). The neural network is used as a bias-dependent effective-parameter generator for the equivalent mobility and onset voltage, while the drain current is calculated by the analytical EKV current core. This strategy represents defect-, contact-, and bias-dependent nonidealities of oxide TFTs through effective quantities without replacing the current equation with a black-box neural-network predictor. The model is validated using both n-type indium–gallium–zinc oxide TFTs and p-type tin monoxide (SnO) TFTs, achieving mean absolute percentage errors of 0.56% and 0.36%, respectively. The learned effective parameters further provide an EKV-constrained compact representation of bias-dependent transport capability and channel-onset behavior obtained from global fitting of the measured output-characteristic dataset, rather than serving as directly extracted material parameters. The trained model is translated into a PSpice-compatible library and applied to complementary inverter simulation, showing good agreement with measured voltage-transfer characteristics and reproducing the main transient response characteristics. These results demonstrate an accurate, analytically structured, and Simulation Program with Integrated Circuit Emphasis-compatible compact-modeling strategy that links bias-dependent oxide-TFT transport to circuit-level simulation.",
+      "score": 11,
       "priority": 1,
       "highlights": [
-        "CFET"
+        "transistor"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CFET方向，围绕“AI for Science with GPT-6 Astra: Thermal Design and Electrothermal Analysis of …”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看先进尺度下的可扩展性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CFET方向，围绕“AI for Science with GPT-6 Astra: Thermal Design and Electrothermal Analysis of …”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看先进尺度下的可扩展性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: CFET.\nWhat to check: 先进尺度下的可扩展性、接触/互连相关指标.\nContext: AI for Science with GPT-6 Astra: Thermal Design and Electrothermal Analysis of 2D CFET.",
-      "reading_notes": "Focus: CFET.\nWhat to check: 先进尺度下的可扩展性、接触/互连相关指标.\nContext: AI for Science with GPT-6 Astra: Thermal Design and Electrothermal Analysis of 2D CFET."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2609.16802v1",
-      "title": "ZStar: An automated toolkit for polarization, Born effective charges, dielectric response, and infrared and Raman spectra calculations",
-      "url": "https://arxiv.org/abs/2609.16802v1",
-      "published": "2026-09-15",
-      "authors": [
-        "Xudong Zhu",
-        "Junhong Li",
-        "Gan Jin",
-        "Zheng Guan",
-        "Lixin He"
-      ],
-      "summary": "Born effective charges (BEC) link atomic displacements to polarization, connecting lattice vibrations to dielectric response and infrared activity. We present ZStar, an open-source Python toolkit that automates calculations of polarization, BEC, phonons, static and frequency-dependent dielectric response, and infrared and Raman spectra. ZStar supports calculations across all dimensionalities, including bulk crystals, two-dimensional materials, one-dimensional structures, and molecules, through an integrated workflow spanning input preparation, execution, and response analysis. Berry-phase polarization and real-space dipoles describe responses along periodic and open directions, respectively. Our unified, symmetry-adapted finite-displacement framework jointly determines BEC and zone-center force constants from the same calculations, improving computational efficiency while preserving numerical accuracy. Reusing the electronic Hamiltonian in the ABACUS+PYATB route enables Raman calculations without additional self-consistent calculations. Reproducible examples and a packaged agent skill support conventional and agent-assisted use. ZStar enables efficient, automated exploration of polarization, BEC, dielectric response, and vibrational spectra across all dimensionalities.",
-      "score": 7,
-      "priority": 1,
-      "highlights": [
-        "dielectric",
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注介电材料、GaN方向，围绕“ZStar: An automated toolkit for polarization, Born effective charges, dielectri…”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注介电材料、GaN方向，围绕“ZStar: An automated toolkit for polarization, Born effective charges, dielectri…”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 介电材料、GaN.\nWhat to check: 效率/耦合表现.\nContext: ZStar: An automated toolkit for polarization, Born effective charges, dielectric response, and ….",
-      "reading_notes": "Focus: 介电材料、GaN.\nWhat to check: 效率/耦合表现.\nContext: ZStar: An automated toolkit for polarization, Born effective charges, dielectric response, and …."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Neural-network-assisted EKV compact modeling for complementary oxide thin-film …”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Neural-network-assisted EKV compact modeling for complementary oxide thin-film …”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Neural-network-assisted EKV compact modeling for complementary oxide thin-film transistors.",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Neural-network-assisted EKV compact modeling for complementary oxide thin-film transistors."
     }
   ],
   "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-09-22T00:30:00+00:00"
+  "generated_at": "2026-09-23T00:30:00+00:00"
 }
