@@ -2,8 +2,98 @@
   "ok": true,
   "new_count": 21,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-09-23）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 5 篇\n1. [Applied Physics Letters] DC and RF characteristics of GaN HEMTs on glass substrates with a van der Waals AlN/glass i…\n   关键词：GaN\n   日期：2026-09-21\n   Authors: Taeyoung Han, Jaeyong Lee, Juno Bae 等\n   https://doi.org/10.1063/5.0348431\n2. [arXiv] Dose-Insensitive Defect Engineering, Carrier Kinetics, and Reproducible Chromaticity Tuning…\n   关键词：GaN\n   日期：2026-09-19\n   Authors: Quan-Shan Liu, Mason Adshead, Sadia Sheraz 等\n   https://arxiv.org/abs/2609.22648v1\n3. [Applied Physics Letters] Neural-network-assisted EKV compact modeling for complementary oxide thin-film transistors\n   关键词：transistor\n   日期：2026-09-21\n   Authors: Mingyu Zhuang, Zhiyuan Wang, Baochuan Liu 等\n   https://doi.org/10.1063/5.0349365\n4. [arXiv] Sub-Thermionic Switching in a Negative-Capacitance Bandgap-Change Field-Effect Transistor\n   关键词：transistor\n   日期：2026-09-20\n   Authors: Rahul B Awale, Mike Klymenko, Yuefeng Yin 等\n   https://arxiv.org/abs/2609.23505v1\n5. [Nature Electronics] An Ising machine for combinatorial optimization based on sub-nanosecond CMOS-integrated mag…\n   关键词：CMOS\n   日期：2026-09-22\n   https://www.nature.com/articles/s41928-026-01700-6\n6. [Applied Physics Letters] Unified modeling of excitonic emission and internal quantum efficiency in III-nitride quant…\n   关键词：GaN\n   日期：2026-09-21\n   Authors: Fu-Chen Hsiao, Jonathan J. Wierer, Fred Kish\n   https://doi.org/10.1063/5.0341168\n7. [arXiv] Understanding Ideality Factor in Wide-Band Gap Semiconductor Devices with Strong Recombinat…\n   关键词：semiconductor, GaN\n   日期：2026-09-19\n   Authors: Iris Celupica-Liu, Tanay Tak, Yuh-Renn Wu 等\n   https://arxiv.org/abs/2609.22727v1\n8. [arXiv] Scandium diboride: a semi-metallic, lattice, thermally matched substrate for vertical AlGaN…\n   关键词：GaN\n   日期：2026-09-22\n   Authors: MVS Chandrashekhar, Daniel Joel Harrison, Ahamed Raihan 等\n   https://arxiv.org/abs/2609.24856v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-09-24）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 3 篇\n1. [IEEE Transactions on Electron Devices] Novel Unipolar Stacked FET (USFET) Architecture Enabled by Tri-Layer Dummy Gate, Quasi-GAA …\n   关键词：FET, GAA, interconnect\n   日期：2026-10-01\n   Authors: Longyu Sun, Fei Zhao, Haoyan Liu 等\n   https://doi.org/10.1109/ted.2026.3721468\n2. [IEEE Transactions on Electron Devices] 1700-V Enhancement-Mode MIS-HEMTs With Fully Recessed-Gate on 6-in GaN-on-Si Wafer\n   关键词：wafer, GaN\n   日期：2026-10-01\n   Authors: Yun Lei, Qingyuan Zuo, Nan Sun 等\n   https://doi.org/10.1109/ted.2026.3726922\n3. [IEEE Transactions on Electron Devices] Area-Efficient and High-Performance 3T CFET Cells Enabled by an Embedded Interconnect Layer…\n   关键词：CFET, interconnect\n   日期：2026-10-01\n   Authors: Xiangyu Cui, Yang Mi, Ziyue Wang 等\n   https://doi.org/10.1109/ted.2026.3722590\n4. [IEEE Transactions on Electron Devices] Avalanche Failure Mechanism of SiC MOSFETs After Total Ionizing Dose Irradiation\n   关键词：MOSFET, SiC\n   日期：2026-10-01\n   Authors: Zhifan Yang, Shiwei Liang, Lu Mi 等\n   https://doi.org/10.1109/ted.2026.3724512\n5. [IEEE Transactions on Electron Devices] Radiation Effects on GaN p-FETs and Complementary Logic Circuits\n   关键词：GaN\n   日期：2026-10-01\n   Authors: Teng Li, Jialin Duan, Jingjing Yu 等\n   https://doi.org/10.1109/ted.2026.3721459\n6. [IEEE Transactions on Electron Devices] Vertical GaN Schottky Barrier Diode Based on Anode-First Process and Low-Temperature Ohmic …\n   关键词：GaN\n   日期：2026-10-01\n   Authors: Xiao Wang, Tian-Yun Zhu, Ping Gong 等\n   https://doi.org/10.1109/ted.2026.3717697\n7. [IEEE Transactions on Electron Devices] Implementation of Retina-Inspired Integrated Visual Functions Based on All-Solution-Process…\n   关键词：transistor\n   日期：2026-10-01\n   Authors: Jingxue Zhao, Hainan Zhang, Haoran Wang 等\n   https://doi.org/10.1109/ted.2026.3727407\n8. [IEEE Transactions on Electron Devices] Carbon Nanotube Doping by Prolonged Ultrasonication Treatment for Improving Electrical Prop…\n   关键词：transistor\n   日期：2026-10-01\n   Authors: Xiao-Lin Wang, Han-Lin Zhao, Sung-Jin Kim\n   https://doi.org/10.1109/ted.2026.3727959",
   "papers": [
+    {
+      "source": "IEEE Transactions on Electron Devices",
+      "uid": "doi:10.1109/ted.2026.3721468",
+      "title": "Novel Unipolar Stacked FET (USFET) Architecture Enabled by Tri-Layer Dummy Gate, Quasi-GAA SD Process, and Interconnect Innovations",
+      "url": "https://doi.org/10.1109/ted.2026.3721468",
+      "published": "2026-10-01",
+      "authors": [
+        "Longyu Sun",
+        "Fei Zhao",
+        "Haoyan Liu",
+        "Jiahe Xu",
+        "Yongkui Zhang",
+        "Yongliang Li"
+      ],
+      "summary": "In this work, a novel unipolar stacked FET (USFET) is proposed, featuring nFET-on-nFET or pFET-on-pFET stacking with split gate (SG). From the perspective of process complexity, USFET shows a distinct advantage over complementary FET (CFET) by adopting a quasi-gate-all-around (GAA) source/drain (SD) process. Furthermore, a tri-layer dummy gate (TDG) process is proposed to simplify the SG process. This process can also be extended to CFET to facilitate the integration of heterogeneous channels and different gate stacks. From the perspective of interconnect design, a common-SD (CSD) structure can be incorporated in USFET, and its area efficiency and routing complexity can be optimized simultaneously. By integrating these innovations, USFET shows superior performance in both area scaling and electrical performance. Additionally, the USFET enables wider bit-line (BL)/BLB for further optimization. Compared to CFET, USFET static random access memory (SRAM) with wider BL/BLB (USFET WBL ) delivers a 23.1% area reduction, a $2.8\\times $ higher write margin (WM), and decreases read and write delays by 19.1%/25.1% (frontside/backside) and 32.4%, respectively, proving its potential for advanced nodes.",
+      "score": 20,
+      "priority": 2,
+      "highlights": [
+        "FET",
+        "GAA",
+        "interconnect"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注FET、GAA / 全环栅、互连方向，围绕“Novel Unipolar Stacked FET (USFET) Architecture Enabled by Tri-Layer Dummy Gate…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注FET、GAA / 全环栅、互连方向，围绕“Novel Unipolar Stacked FET (USFET) Architecture Enabled by Tri-Layer Dummy Gate…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: FET、GAA / 全环栅、互连.\nWhat to check: 性能提升、效率/耦合表现、先进尺度下的可扩展性.\nContext: Novel Unipolar Stacked FET (USFET) Architecture Enabled by Tri-Layer Dummy Gate, Quasi-GAA SD P….",
+      "reading_notes": "Focus: FET、GAA / 全环栅、互连.\nWhat to check: 性能提升、效率/耦合表现、先进尺度下的可扩展性.\nContext: Novel Unipolar Stacked FET (USFET) Architecture Enabled by Tri-Layer Dummy Gate, Quasi-GAA SD P…."
+    },
+    {
+      "source": "IEEE Transactions on Electron Devices",
+      "uid": "doi:10.1109/ted.2026.3726922",
+      "title": "1700-V Enhancement-Mode MIS-HEMTs With Fully Recessed-Gate on 6-in GaN-on-Si Wafer",
+      "url": "https://doi.org/10.1109/ted.2026.3726922",
+      "published": "2026-10-01",
+      "authors": [
+        "Yun Lei",
+        "Qingyuan Zuo",
+        "Nan Sun",
+        "Xinyang Wang",
+        "Jiayu Zhang",
+        "Jianxun Dai",
+        "Rong Han",
+        "Xin Xia",
+        "Ronghua Wang",
+        "Huinan Liang",
+        "Yanliang Qiu",
+        "Deyi Fu",
+        "Yung C. Liang",
+        "Huolin Huang"
+      ],
+      "summary": "Enhancement-mode (E-mode) devices are preferred in power electronics for intrinsic fail-safe operation. Among mainstream approaches to fabricate E-mode GaN-based high electron mobility transistors (HEMTs), cascode structures are limited by Si-based devices, while p-GaN gate structures suffer from low gate breakdown voltage (BV) and constrained threshold voltage ( ${\\mathrm{V}}_{\\text {th}}\\text {)}$ . To realize E-mode GaN-based HEMTs with high BV and robust reliability under high electric-field stress, we fabricated devices integrated with stepped fully recessed-gate structure and multilayer SiN dielectric on a 6-in GaN/Si wafer, which exhibited a high V th of 2.6 V and a large off -state BV of 1763 V. Meanwhile, a low gate interface trap density of $5.5\\times 10^{{11}}$ ${\\mathrm{cm}}^{-{2}}~\\cdot $ ${\\mathrm{eV}}^{-{1}}$ at ${\\mathrm{E}}_{\\text {C}} -$ ${\\mathrm{E}}_{\\text {T}}=0.455$ eV was obtained, yielding a significant improvement of the device reliability. A small V th shift of merely 0.2 V was achieved under 6-V positive gate bias stress for 3 h, and the dynamic on -resistance of the fabricated E-mode HEMTs is only 1.3 times larger than the static one even under an ultrahigh drain bias stress of 900 V. These results fully validate the attractive potential of the proposed scheme in developing high-voltage-rated GaN-based E-mode power devices toward various engineering applications.",
+      "score": 16,
+      "priority": 2,
+      "highlights": [
+        "wafer",
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注wafer、GaN方向，围绕“1700-V Enhancement-Mode MIS-HEMTs With Fully Recessed-Gate on 6-in GaN-on-Si Wa…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、可靠性与稳定性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注wafer、GaN方向，围绕“1700-V Enhancement-Mode MIS-HEMTs With Fully Recessed-Gate on 6-in GaN-on-Si Wa…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、可靠性与稳定性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: wafer、GaN.\nWhat to check: 性能提升、可靠性与稳定性、接触/互连相关指标.\nContext: 1700-V Enhancement-Mode MIS-HEMTs With Fully Recessed-Gate on 6-in GaN-on-Si Wafer.",
+      "reading_notes": "Focus: wafer、GaN.\nWhat to check: 性能提升、可靠性与稳定性、接触/互连相关指标.\nContext: 1700-V Enhancement-Mode MIS-HEMTs With Fully Recessed-Gate on 6-in GaN-on-Si Wafer."
+    },
+    {
+      "source": "IEEE Transactions on Electron Devices",
+      "uid": "doi:10.1109/ted.2026.3722590",
+      "title": "Area-Efficient and High-Performance 3T CFET Cells Enabled by an Embedded Interconnect Layer (EI-CFET) With Sequential Integration",
+      "url": "https://doi.org/10.1109/ted.2026.3722590",
+      "published": "2026-10-01",
+      "authors": [
+        "Xiangyu Cui",
+        "Yang Mi",
+        "Ziyue Wang",
+        "Pengfei Hao",
+        "Xiaoyan Xu",
+        "Xia An",
+        "Heng Wu",
+        "Ming Li",
+        "Ru Huang"
+      ],
+      "summary": "Complementary FET (CFET) architectures are promising for logic scaling, especially when combined with backside power delivery networks (BSPDNs). In this work, we propose a CFET architecture featuring an embedded interconnect (EI) layer (EI-CFET), enabled by sequential process integration. By redistributing signal and power routing across the frontside (FS), EI layer, and backside (BS), the proposed architecture enables a 3T standard-cell height (CH) and reduces the cell area by approximately 25% and 20% relative to the 4T and 3.75T FS-/BS-routed reference CFET cells, respectively. The EI layer alleviates routing-induced parasitic penalties by shortening critical connections and improving routing flexibility, leading to more pronounced performance benefits in cells with denser internal routing. Meanwhile, connection failures induced by top-to-bottom misalignment can be effectively mitigated by an optimized EI handoff structure, and the performance variation is suppressed to below 0.5%. In addition, independent crystallographic optimization of stacked devices provides additional performance gains exceeding 6% over the reference design. These results demonstrate that the EI-CFET is a promising candidate for high-density and high-performance 3-D CMOS technologies.",
+      "score": 16,
+      "priority": 2,
+      "highlights": [
+        "CFET",
+        "interconnect"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CFET、互连方向，围绕“Area-Efficient and High-Performance 3T CFET Cells Enabled by an Embedded Interc…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、先进尺度下的可扩展性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CFET、互连方向，围绕“Area-Efficient and High-Performance 3T CFET Cells Enabled by an Embedded Interc…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、先进尺度下的可扩展性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: CFET、互连.\nWhat to check: 性能提升、先进尺度下的可扩展性、接触/互连相关指标.\nContext: Area-Efficient and High-Performance 3T CFET Cells Enabled by an Embedded Interconnect Layer (EI….",
+      "reading_notes": "Focus: CFET、互连.\nWhat to check: 性能提升、先进尺度下的可扩展性、接触/互连相关指标.\nContext: Area-Efficient and High-Performance 3T CFET Cells Enabled by an Embedded Interconnect Layer (EI…."
+    },
     {
       "source": "Applied Physics Letters",
       "uid": "doi:10.1063/5.0335389",
@@ -61,28 +151,31 @@
       "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: DC and RF characteristics of GaN HEMTs on glass substrates with a van der Waals AlN/glass inter…."
     },
     {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0346635",
-      "title": "Thermally oxidized gallium nitride for photo-neuromorphic devices",
-      "url": "https://doi.org/10.1063/5.0346635",
-      "published": "2026-09-21",
+      "source": "IEEE Transactions on Electron Devices",
+      "uid": "doi:10.1109/ted.2026.3724512",
+      "title": "Avalanche Failure Mechanism of SiC MOSFETs After Total Ionizing Dose Irradiation",
+      "url": "https://doi.org/10.1109/ted.2026.3724512",
+      "published": "2026-10-01",
       "authors": [
-        "Xuening Fan",
-        "Mingxi Liu",
-        "Liang Guo",
-        "Jianyuan Wang",
-        "Bingcheng Luo"
+        "Zhifan Yang",
+        "Shiwei Liang",
+        "Lu Mi",
+        "Lei Shu",
+        "Zhan Li",
+        "Jun Wang",
+        "Zhikang Shuai"
       ],
-      "summary": "Thermal oxidation of wide-bandgap semiconductors offers a simple yet underexplored route to functionalize emerging optoelectronic devices. Here, we demonstrate that thermally oxidized gallium nitride metal-oxide-semiconductor (MOS) capacitors, in which oxidation forms a β-Ga2O3/GaN heterostructure, can operate as photo-neuromorphic devices. The resulting structures exhibit pronounced persistent photocapacitance, enabling the emulation of synaptic plasticity and experiential learning under optical stimulation while maintaining zero static power consumption. When integrated into an in-sensor physical reservoir computing framework, the devices achieve a classification accuracy of 89.8% on the Modified National Institute of Standards and Technology handwritten dataset using 5-bit temporal encoding. These findings establish thermal oxidation as a scalable strategy for realizing capacitance-type photo-neuromorphic devices and position thermally oxidized GaN MOS capacitors as a promising platform for vision-inspired neuromorphic computing.",
-      "score": 12,
+      "summary": "This brief reports the impact of total ionizing dose (TID) irradiation on the avalanche behavior of SiC MOSFETs. Experimental results show that the avalanche energy ( ${E}_{\\textit {av}}\\text {)}$ decreases by 5.99% and 13.83%, while the threshold voltage ( ${V}_{\\textit {TH}}\\text {)}$ shifts negatively by 34.14% and 76.34% after 50 krad and 100 krad TID irradiation, respectively. Both microscopic analysis and TCAD simulation results indicate that the diversion of avalanche current from the body diode to the MOS channel underlies this degradation. Due to the irradiation-induced accumulation of positive charges in the gate oxide, ${V}_{\\textit {TH}}$ exhibits a negative shift with increasing irradiation dose. As a result, the margin for fully turning off the MOS channel under a fixed gate-off voltage ( ${V}_{\\textit {GS}\\_{\\textit {off}}}\\text {)}$ during avalanche is reduced, and a portion of the avalanche current is redirected from the body diode to the adjacent MOS channel. As channel mobility is low in SiC MOSFETs, this current diversion generates substantial Joule heating and triggers a rapid temperature rise along the channel path. Ultimately, premature burnout occurs in SiC MOSFETs after TID irradiation during avalanche. This finding provides insights into reliability assessment and radiation hardening of SiC MOSFETs for space applications.",
+      "score": 11,
       "priority": 2,
       "highlights": [
-        "GaN"
+        "MOSFET",
+        "SiC"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Thermally oxidized gallium nitride for photo-neuromorphic devices”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Thermally oxidized gallium nitride for photo-neuromorphic devices”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 功耗或能效表现.\nContext: Thermally oxidized gallium nitride for photo-neuromorphic devices.",
-      "reading_notes": "Focus: GaN.\nWhat to check: 功耗或能效表现.\nContext: Thermally oxidized gallium nitride for photo-neuromorphic devices."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、SiC方向，围绕“Avalanche Failure Mechanism of SiC MOSFETs After Total Ionizing Dose Irradiation”展开。摘要显示，文章重点涉及机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、SiC方向，围绕“Avalanche Failure Mechanism of SiC MOSFETs After Total Ionizing Dose Irradiation”展开。摘要显示，文章重点涉及机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: MOSFET、SiC.\nWhat to check: 可靠性与稳定性、功耗或能效表现.\nContext: Avalanche Failure Mechanism of SiC MOSFETs After Total Ionizing Dose Irradiation.",
+      "reading_notes": "Focus: MOSFET、SiC.\nWhat to check: 可靠性与稳定性、功耗或能效表现.\nContext: Avalanche Failure Mechanism of SiC MOSFETs After Total Ionizing Dose Irradiation."
     },
     {
       "source": "Applied Physics Letters",
@@ -118,112 +211,42 @@
       "reading_notes": "Focus: GaN.\nWhat to check: 性能提升.\nContext: Stabilized h-BN release layer on PVD-AlN/sapphire template for high-performance GaN-based flexi…."
     },
     {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0346056",
-      "title": "Dual-band persistent photoconductive effect of GaN-based van der Waals heterojunctions",
-      "url": "https://doi.org/10.1063/5.0346056",
-      "published": "2026-09-21",
+      "source": "IEEE Transactions on Electron Devices",
+      "uid": "doi:10.1109/ted.2026.3721459",
+      "title": "Radiation Effects on GaN p-FETs and Complementary Logic Circuits",
+      "url": "https://doi.org/10.1109/ted.2026.3721459",
+      "published": "2026-10-01",
       "authors": [
-        "Xiurui Lv",
-        "Guijuan Zhao",
-        "Bangyao Mao",
-        "Guipeng Liu",
-        "Jianhong Yang"
+        "Teng Li",
+        "Jialin Duan",
+        "Jingjing Yu",
+        "Yunhong Lao",
+        "Sihang Liu",
+        "Junjie Yang",
+        "Shiyang Yuan",
+        "Han Yang",
+        "Xuelin Yang",
+        "Yang Liu",
+        "Jinyan Wang",
+        "Maojun Wang",
+        "Bo Shen",
+        "Jin Wei"
       ],
-      "summary": "GaN-based hybrid-dimensional heterojunctions play a critical role in optoelectronics; however, their persistent photoconductivity (PPC)—essential for synaptic devices—has been limited to the UV regime by the wide bandgap of GaN. We report the photoconductive properties of dual-channel heterojunction devices composed of MoS2 and WSe2 integrated with GaN. Specifically, the GaN/WSe2 heterojunction did not exhibit a PPC effect under 633 nm light, while the GaN/MoS2 heterojunction displayed a pronounced PPC effect. Notably, the introduction of h-BN intercalation resulted in the GaN/h-BN/MoS2 heterojunction lacking the PPC effect. This paper analyzes the capture and excitation of carriers by CN defect states in GaN and demonstrates that the built-in electric field of the heterojunction influences the separation of photo-generated carriers, resulting in distinct PPC behaviors among various devices. Through h-BN intercalation, the pivotal role of interlayer interaction in extending the response wavelength of GaN-based optoelectronic synapses has been unambiguously identified. This work establishes a mechanistic foundation and design principle for GaN-based hybrid-dimensional optoelectronic synapses, extending their operating wavelength and enabling multi-band neuromorphic computing.",
-      "score": 8,
+      "summary": "This work reports the radiation effects on gallium nitride (GaN) p-FETs and complementary logic (CL) circuits. Co ${}^{{60}} ~\\gamma $ -rays are used as the radiation source. For the p-FET, after being radiated with an accumulated dose of 1 Mrad, the threshold voltage ( ${V}_{\\text {th}}\\text {)}$ shifts negatively from −0.5 to −1 V, which is attributed to radiation-generated holes. The on -resistance ( ${R}_{\\text {on}}\\text {)}$ increases from 1.04 to 1.13 k $\\Omega \\cdot $ mm. Subsequently, the p-FET underwent a 168-h room-temperature (RT) anneal, and its ${V}_{\\text {th}}$ and ${R}_{\\text {on}}$ recover to −0.5 V and 1.08 k $\\Omega \\cdot $ mm, respectively. For the n-FET, the ${V}_{\\text {th}}$ remains unchanged at 1.3 V after radiation. The ${R}_{\\text {on}}$ increases from 6 to $6.8~\\Omega \\cdot $ mm, and shows no recovery after 168-h RT annealing; the degradation in ${R}_{\\text {on}}$ is attributed to radiation-induced defects in the access region. As for the CL inverter, after being radiated up to an accumulated dose of 1 Mrad, a rail-to-rail voltage swing ( ${V}_{\\text {swing}}\\text {)}$ of 6 V, a high noise margin ( NM ${}_{\\text {H}}\\text {)}$ of 4.7 V, and a low noise margin ( NM ${}_{\\text {L}}\\text {)}$ of 1.09 V are maintained. These results demonstrate the superior radiation tolerance of GaN CL circuitry for radiation-prone applications.",
+      "score": 10,
       "priority": 2,
       "highlights": [
         "GaN"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Dual-band persistent photoconductive effect of GaN-based van der Waals heteroju…”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Dual-band persistent photoconductive effect of GaN-based van der Waals heteroju…”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Dual-band persistent photoconductive effect of GaN-based van der Waals heterojunctions.",
-      "reading_notes": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Dual-band persistent photoconductive effect of GaN-based van der Waals heterojunctions."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2609.22648v1",
-      "title": "Dose-Insensitive Defect Engineering, Carrier Kinetics, and Reproducible Chromaticity Tuning in Ion-Implanted InGaN/GaN Quantum Wells",
-      "url": "https://arxiv.org/abs/2609.22648v1",
-      "published": "2026-09-19",
-      "authors": [
-        "Quan-Shan Liu",
-        "Mason Adshead",
-        "Sadia Sheraz",
-        "Maddison Coke",
-        "Nicholas Lockyer",
-        "Richard J. Curry"
-      ],
-      "summary": "Post-growth defect engineering via ion implantation provides a powerful pathway for spatial optical profiling and colour patterning in III-V alloying photonic integration. However, the comprehensive recombination kinetics governing deep-level defect saturation and excitonic recovery under high-temperature annealing remain insufficiently understood. Here, we present a systematic study on the optical dynamics, rate-equation kinetics, and chromaticity evolution of indium-implanted InGaN/GaN multiple quantum wells (MQWs) across implantation doses (5E14 to 5E16 ions cm^-2) and subsequent thermal annealing stages (500 to 1100 deg C). Photoluminescence (PL) spectrum analysis reveals that a dose of <= 5E14 ions cm^-2 induces a modification of the optical response that does not further change upon high-dose implantation. A two-channel coupled rate-equation model is fitted to the data, optimised via differential evolution, allowing the extraction of transition rate constants. This demonstrates that thermal processing at 1000 deg C suppresses the carrier capture rate into deep-level states and also reduces its radiative recombination rate. This kinetic bottleneck drives an order-of-magnitude extension in the channel-specific radiative lifetime. Leveraging the excitation power density dependence of the differential recombination kinetics, where deep defects saturate whilst MQW emission scales near-linearly, we achieve a universal and power density-tunable chromaticity trajectory from warm yellow to cool white-blue emission. These insights enable microscopic defect physics to be linked to the macro-scale colour tailoring observed.",
-      "score": 5,
-      "priority": 2,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Dose-Insensitive Defect Engineering, Carrier Kinetics, and Reproducible Chromat…”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看效率/耦合表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Dose-Insensitive Defect Engineering, Carrier Kinetics, and Reproducible Chromat…”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看效率/耦合表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 效率/耦合表现、与既有工艺平台的集成价值.\nContext: Dose-Insensitive Defect Engineering, Carrier Kinetics, and Reproducible Chromaticity Tuning in ….",
-      "reading_notes": "Focus: GaN.\nWhat to check: 效率/耦合表现、与既有工艺平台的集成价值.\nContext: Dose-Insensitive Defect Engineering, Carrier Kinetics, and Reproducible Chromaticity Tuning in …."
-    },
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0350403",
-      "title": "Photopatternable polypyrrole electrode-based organic optical synaptic transistor for reservoir computing",
-      "url": "https://doi.org/10.1063/5.0350403",
-      "published": "2026-09-21",
-      "authors": [
-        "Xinyi Liu",
-        "Wei Dai",
-        "Ting Zhang",
-        "Shuyan Liu",
-        "Hui Fan",
-        "Pengfei Zhao",
-        "Xue Chen",
-        "Yilin Song",
-        "Su-Ting Han",
-        "Ye Zhou"
-      ],
-      "summary": "Inspired by the efficient information processing of biological neural systems, optoelectronic synaptic devices integrating sensing and computation have emerged as a cornerstone for next-generation neuromorphic computing. However, achieving high-performance organic synaptic transistors remains challenging due to the limitations of conventional devices in terms of patterning precision. Here, we develop an organic tunable-plasticity transistor (OTPT) based on photolithographic polypyrrole (PPy) electrode patterns. The PPy electrodes exhibit exceptional adhesion, wafer-scale uniformity, and high resolution. Upon depositing pentacene as the semiconductor layer on the octadecyltrichlorosilane-modified substrate, the resulting transistor devices emulate essential synaptic behaviors. Furthermore, we implement a physical reservoir computing (RC) system based on the OTPT to tackle complex multi-modal tasks. The system demonstrates high recognition accuracy in static digital recognition and dynamic sequence classification and successfully identifies bus motion direction. This work demonstrates that the high-precision integration of PPy electrodes provides a robust hardware foundation for the RC system, facilitating the development of energy-efficient neuromorphic electronics for edge intelligence.",
-      "score": 14,
-      "priority": 1,
-      "highlights": [
-        "transistor"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Photopatternable polypyrrole electrode-based organic optical synaptic transisto…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Photopatternable polypyrrole electrode-based organic optical synaptic transisto…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性、功耗或能效表现.\nContext: Photopatternable polypyrrole electrode-based organic optical synaptic transistor for reservoir ….",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性、功耗或能效表现.\nContext: Photopatternable polypyrrole electrode-based organic optical synaptic transistor for reservoir …."
-    },
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0349365",
-      "title": "Neural-network-assisted EKV compact modeling for complementary oxide thin-film transistors",
-      "url": "https://doi.org/10.1063/5.0349365",
-      "published": "2026-09-21",
-      "authors": [
-        "Mingyu Zhuang",
-        "Zhiyuan Wang",
-        "Baochuan Liu",
-        "Jiawei Zhang",
-        "Qian Xin",
-        "Aimin Song"
-      ],
-      "summary": "This work reports a neural-network-assisted Enz–Krummenacher–Vittoz (EKV) compact-modeling framework for complementary oxide thin-film transistors (TFTs). The neural network is used as a bias-dependent effective-parameter generator for the equivalent mobility and onset voltage, while the drain current is calculated by the analytical EKV current core. This strategy represents defect-, contact-, and bias-dependent nonidealities of oxide TFTs through effective quantities without replacing the current equation with a black-box neural-network predictor. The model is validated using both n-type indium–gallium–zinc oxide TFTs and p-type tin monoxide (SnO) TFTs, achieving mean absolute percentage errors of 0.56% and 0.36%, respectively. The learned effective parameters further provide an EKV-constrained compact representation of bias-dependent transport capability and channel-onset behavior obtained from global fitting of the measured output-characteristic dataset, rather than serving as directly extracted material parameters. The trained model is translated into a PSpice-compatible library and applied to complementary inverter simulation, showing good agreement with measured voltage-transfer characteristics and reproducing the main transient response characteristics. These results demonstrate an accurate, analytically structured, and Simulation Program with Integrated Circuit Emphasis-compatible compact-modeling strategy that links bias-dependent oxide-TFT transport to circuit-level simulation.",
-      "score": 11,
-      "priority": 1,
-      "highlights": [
-        "transistor"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Neural-network-assisted EKV compact modeling for complementary oxide thin-film …”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Neural-network-assisted EKV compact modeling for complementary oxide thin-film …”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Neural-network-assisted EKV compact modeling for complementary oxide thin-film transistors.",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Neural-network-assisted EKV compact modeling for complementary oxide thin-film transistors."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Radiation Effects on GaN p-FETs and Complementary Logic Circuits”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Radiation Effects on GaN p-FETs and Complementary Logic Circuits”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 接触/互连相关指标.\nContext: Radiation Effects on GaN p-FETs and Complementary Logic Circuits.",
+      "reading_notes": "Focus: GaN.\nWhat to check: 接触/互连相关指标.\nContext: Radiation Effects on GaN p-FETs and Complementary Logic Circuits."
     }
   ],
   "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-09-23T00:30:00+00:00"
+  "generated_at": "2026-09-24T00:30:00+00:00"
 }
