@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 7,
+  "new_count": 0,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-09-26）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 7 篇；Intel/TSMC 重点 0 篇；GaN 关键词 2 篇\n1. [Applied Physics Letters] Relaxation of piezoelectric fields near sidewalls of InGaN/GaN micro light-emitting diodes …\n   关键词：GaN\n   日期：2026-09-21\n   Authors: Yoon-Taek Oh, Changeun Park, Tae Kyoung Kim 等\n   https://doi.org/10.1063/5.0351638\n2. [arXiv] Topological-Insulator Heterophase Gate Stacks for Transistor Electrostatics\n   关键词：transistor\n   日期：2026-09-24\n   Authors: Minuk Song, Jiwan Kim, MD Gius Uddin 等\n   https://arxiv.org/abs/2609.30016v1\n3. [Physical Review Letters] Combination of ATLAS and CMS Searches for Higgs Boson Pair Production at <mml:math xmlns:mm…\n   关键词：GaN\n   日期：2026-09-25\n   Authors: G. Aad, E. Aakvaag, B. Abbott 等\n   https://doi.org/10.1103/27s7-2frt\n4. [Nature Materials] Rapid-responsive and water-stable organic electrochemical transistors enabled by supramolec…\n   关键词：transistor\n   日期：2026-09-25\n   https://www.nature.com/articles/s41563-026-02745-w\n5. [Science Advances] Quantum noise spectroscopy of nanoscale charge defects in silicon carbide at room temperatu…\n   日期：2026-09-25\n   Authors: Jinpeng Liu, Yuanhong Teng, Yu Chen 等\n   https://doi.org/10.1126/sciadv.aej5462\n6. [arXiv] Molecular Beam Epitaxy of AgTaO3\n   关键词：epitaxy\n   日期：2026-09-25\n   Authors: Tobias Schwaigert, Joshua Maile, Olivia Peek 等\n   https://arxiv.org/abs/2609.30229v1\n7. [arXiv] Large-Area SnS Crystals by Controlled Sn-S Chemical Vapor Deposition: Growth Optimization, …\n   关键词：deposition\n   日期：2026-09-24\n   Authors: Bilal Ahmed\n   https://arxiv.org/abs/2609.28671v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-09-28）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 3 篇\n1. [IEEE Transactions on Electron Devices] Novel Unipolar Stacked FET (USFET) Architecture Enabled by Tri-Layer Dummy Gate, Quasi-GAA …\n   关键词：FET, GAA, interconnect\n   日期：2026-10-01\n   Authors: Longyu Sun, Fei Zhao, Haoyan Liu 等\n   https://doi.org/10.1109/ted.2026.3721468\n2. [IEEE Transactions on Electron Devices] 1700-V Enhancement-Mode MIS-HEMTs With Fully Recessed-Gate on 6-in GaN-on-Si Wafer\n   关键词：wafer, GaN\n   日期：2026-10-01\n   Authors: Yun Lei, Qingyuan Zuo, Nan Sun 等\n   https://doi.org/10.1109/ted.2026.3726922\n3. [IEEE Transactions on Electron Devices] Area-Efficient and High-Performance 3T CFET Cells Enabled by an Embedded Interconnect Layer…\n   关键词：CFET, interconnect\n   日期：2026-10-01\n   Authors: Xiangyu Cui, Yang Mi, Ziyue Wang 等\n   https://doi.org/10.1109/ted.2026.3722590\n4. [IEEE Transactions on Electron Devices] Avalanche Failure Mechanism of SiC MOSFETs After Total Ionizing Dose Irradiation\n   关键词：MOSFET, SiC\n   日期：2026-10-01\n   Authors: Zhifan Yang, Shiwei Liang, Lu Mi 等\n   https://doi.org/10.1109/ted.2026.3724512\n5. [IEEE Transactions on Electron Devices] Radiation Effects on GaN p-FETs and Complementary Logic Circuits\n   关键词：GaN\n   日期：2026-10-01\n   Authors: Teng Li, Jialin Duan, Jingjing Yu 等\n   https://doi.org/10.1109/ted.2026.3721459\n6. [arXiv] Investigation of Hopping Conduction and Its Impact on the Subthreshold and Transition Regio…\n   关键词：transistor, semiconductor, oxide semiconductor\n   日期：2026-09-23\n   Authors: Chen Wang, Liankai Zheng, Kai Jiang 等\n   https://arxiv.org/abs/2609.27464v1\n7. [IEEE Transactions on Electron Devices] Vertical GaN Schottky Barrier Diode Based on Anode-First Process and Low-Temperature Ohmic …\n   关键词：GaN\n   日期：2026-10-01\n   Authors: Xiao Wang, Tian-Yun Zhu, Ping Gong 等\n   https://doi.org/10.1109/ted.2026.3717697\n8. [IEEE Transactions on Electron Devices] Implementation of Retina-Inspired Integrated Visual Functions Based on All-Solution-Process…\n   关键词：transistor\n   日期：2026-10-01\n   Authors: Jingxue Zhao, Hainan Zhang, Haoran Wang 等\n   https://doi.org/10.1109/ted.2026.3727407",
   "papers": [
     {
       "source": "IEEE Transactions on Electron Devices",
@@ -95,62 +95,6 @@
       "reading_notes": "Focus: CFET、互连.\nWhat to check: 性能提升、先进尺度下的可扩展性、接触/互连相关指标.\nContext: Area-Efficient and High-Performance 3T CFET Cells Enabled by an Embedded Interconnect Layer (EI…."
     },
     {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0335389",
-      "title": "High-voltage normally off GaN-based MIS-HEMTs featuring rounded gate sidewalls",
-      "url": "https://doi.org/10.1063/5.0335389",
-      "published": "2026-09-21",
-      "authors": [
-        "Qingyuan Zuo",
-        "Xin Xia",
-        "Huolin Huang",
-        "Yun Lei",
-        "Ze Zhang",
-        "Xinyang Wang",
-        "Jianyu Zhao",
-        "Kaiming Ma",
-        "Rong Han",
-        "Jianxun Dai",
-        "Yung C. Liang"
-      ],
-      "summary": "This work proposes a normally off gallium nitride (GaN)-based high electron mobility transistor (HEMT) that features rounded gate sidewalls and smooth corner profiles. To facilitate superior gate dielectric growth and coverage, we employed a hybrid-recess scheme combining a two-step etching process with an N2/O2 plasma treatment, resulting in significant etch-induced damage mitigation and interface trap density reduction. Compared to the traditional devices without plasma treatment, our devices exhibited not only a remarkable 156% rise in saturation current density but also a dramatic 108% increase in transconductance, alongside the nearly eliminated threshold-voltage hysteresis. More importantly, attributed to the suppression of the peak electric field under high-voltage stress by the rounded corners, the gate breakdown voltage and off-state breakdown voltage are enhanced to 26 and 1447 V, respectively, consistent with the technology computer-aided design simulation analysis. Finally, double-pulse measurements were conducted to further confirm the reduced interface trap density and improved reliability of the hybrid-recess device. In summary, we demonstrate a normally off GaN-based HEMT with rounded etched sidewalls as a key feature, thereby establishing a promising strategy for high-voltage power devices.",
-      "score": 14,
-      "priority": 2,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“High-voltage normally off GaN-based MIS-HEMTs featuring rounded gate sidewalls”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“High-voltage normally off GaN-based MIS-HEMTs featuring rounded gate sidewalls”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: High-voltage normally off GaN-based MIS-HEMTs featuring rounded gate sidewalls.",
-      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: High-voltage normally off GaN-based MIS-HEMTs featuring rounded gate sidewalls."
-    },
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0348431",
-      "title": "DC and RF characteristics of GaN HEMTs on glass substrates with a van der Waals AlN/glass interface",
-      "url": "https://doi.org/10.1063/5.0348431",
-      "published": "2026-09-21",
-      "authors": [
-        "Taeyoung Han",
-        "Jaeyong Lee",
-        "Juno Bae",
-        "Gwonman Noh",
-        "Gyuhyung Lee",
-        "Changkun Park",
-        "Geonwook Yoo"
-      ],
-      "summary": "In this study, we report direct current and radio frequency (RF) characteristics of GaN high-electron-mobility transistors with a van der Waals (vdW) AlN/glass interface on glass substrates. Fluidic-assisted self-alignment transfer (FAST) and the integration processes are adopted to demonstrate the structure. Structural analysis confirms an abrupt AlN/glass vdW interface. Replacing the Si substrate of GaN-on-Si with an insulating glass improves off-state breakdown voltage from 81 to 138 V attributed to suppression of vertical substrate leakage. Moreover, maximum oscillation frequency (fmax) increases from 10.9 to 14.9 GHz due to the low-dielectric loss of glass, while the cutoff frequency remains nearly unchanged, confirming that intrinsic device properties are preserved after FAST and the integration processes. Port capacitance extraction from S-parameter measurements reveals that the drain-port capacitance decreases by approximately ×6, indicating that the fmax enhancement originates from suppression of pad-coupled parasitic and substrate loss. These results suggest that the proposed GaN-on-glass platform with the adhesive free, vdW AlN/glass interface can improve both breakdown voltage and RF performance.",
-      "score": 13,
-      "priority": 2,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“DC and RF characteristics of GaN HEMTs on glass substrates with a van der Waals…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“DC and RF characteristics of GaN HEMTs on glass substrates with a van der Waals…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: DC and RF characteristics of GaN HEMTs on glass substrates with a van der Waals AlN/glass inter….",
-      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: DC and RF characteristics of GaN HEMTs on glass substrates with a van der Waals AlN/glass inter…."
-    },
-    {
       "source": "IEEE Transactions on Electron Devices",
       "uid": "doi:10.1109/ted.2026.3724512",
       "title": "Avalanche Failure Mechanism of SiC MOSFETs After Total Ionizing Dose Irradiation",
@@ -176,39 +120,6 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、SiC方向，围绕“Avalanche Failure Mechanism of SiC MOSFETs After Total Ionizing Dose Irradiation”展开。摘要显示，文章重点涉及机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: MOSFET、SiC.\nWhat to check: 可靠性与稳定性、功耗或能效表现.\nContext: Avalanche Failure Mechanism of SiC MOSFETs After Total Ionizing Dose Irradiation.",
       "reading_notes": "Focus: MOSFET、SiC.\nWhat to check: 可靠性与稳定性、功耗或能效表现.\nContext: Avalanche Failure Mechanism of SiC MOSFETs After Total Ionizing Dose Irradiation."
-    },
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0344674",
-      "title": "Stabilized h-BN release layer on PVD-AlN/sapphire template for high-performance GaN-based flexible weak-light photodetectors",
-      "url": "https://doi.org/10.1063/5.0344674",
-      "published": "2026-09-21",
-      "authors": [
-        "Dengrui Zhao",
-        "Haochen Zhang",
-        "Dong Wei",
-        "Li Zhang",
-        "Xin Zhou",
-        "Tiwei Chen",
-        "Gaofu Guo",
-        "Heng Yu",
-        "Yu Hu",
-        "Xiaodong Zhang",
-        "Haiding Sun",
-        "Zhongming Zeng",
-        "Baoshun Zhang",
-        "Xianqi Dai"
-      ],
-      "summary": "Layered hexagonal boron nitride (h-BN) enables the release and transfer of III-nitride epilayers toward flexible electronics, but its insufficient interfacial adhesion to the substrate would limit its compatibility with conventional fabrication processes. Here, based on a sapphire substrate coated with an AlN layer that has the same hexagonal structure as h-BN, the bonding strength of the h-BN/AlN/sapphire structure is significantly enhanced to withstand standard fabrication processes. Meanwhile, epitaxial h-BN on physical vapor deposition-AlN/sapphire sustains its layered structure with releasable properties for device peeling-off and transferring. As such, the h-BN/AlN/sapphire template enables the subsequent growth, fabrication, and wafer-scale transfer of GaN photodetectors (PDs) to flexible substrates. The obtained flexible PDs feature responsivity over 20 A/W with reliable photo-to-dark current ratios under a weak incident light intensity of 23 nW/cm2, even with large bending deformation. This work provides an effective strategy to achieve process compatibility and transferability of III-nitride heterostructures toward large-scale high-performance GaN-based flexible electronics.",
-      "score": 11,
-      "priority": 2,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Stabilized h-BN release layer on PVD-AlN/sapphire template for high-performance…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Stabilized h-BN release layer on PVD-AlN/sapphire template for high-performance…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升.\nContext: Stabilized h-BN release layer on PVD-AlN/sapphire template for high-performance GaN-based flexi….",
-      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升.\nContext: Stabilized h-BN release layer on PVD-AlN/sapphire template for high-performance GaN-based flexi…."
     },
     {
       "source": "IEEE Transactions on Electron Devices",
@@ -242,11 +153,101 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Radiation Effects on GaN p-FETs and Complementary Logic Circuits”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: GaN.\nWhat to check: 接触/互连相关指标.\nContext: Radiation Effects on GaN p-FETs and Complementary Logic Circuits.",
       "reading_notes": "Focus: GaN.\nWhat to check: 接触/互连相关指标.\nContext: Radiation Effects on GaN p-FETs and Complementary Logic Circuits."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2609.27464v1",
+      "title": "Investigation of Hopping Conduction and Its Impact on the Subthreshold and Transition Region Transport in Oxide Semiconductor Transistors by Magneto-Transport Measurements",
+      "url": "https://arxiv.org/abs/2609.27464v1",
+      "published": "2026-09-23",
+      "authors": [
+        "Chen Wang",
+        "Liankai Zheng",
+        "Kai Jiang",
+        "Jinxiu Zhao",
+        "Zhenyu Zhang",
+        "Xuefei Li",
+        "Mengwei Si"
+      ],
+      "summary": "In this work, magneto-transport measurements, including Hall effects and magnetoresistance (MR) at various temperatures, are employed to directly probe the electron transport properties in crystalline indium oxide (In2O3) and amorphous indium-zinc oxide (IZO) transistors. For the first time, we develop a subgap density of states (DOS) extraction method based on the MR measurements at low temperature, considering both the interference and orbital shrinkage effects. The sign and magnitude of MR are used as direct evidence to distinguish the dominating transport mechanisms between hopping conduction and free-electron conduction. It is found that crystalline In2O3 exhibits a subgap DOS more than two orders of magnitude lower than that of amorphous IZO, together with a smaller localization radius of hopping sites. As a result, crystalline In2O3 not only enhances the carrier mobility but also significantly reduces the supply voltage (VDD) because of the smaller transition region enabled by the much-suppressed subgap DOS. This study reveals that structural disorder critically influences the device operation in the subthreshold and transition regions of oxide semiconductor transistors.",
+      "score": 10,
+      "priority": 2,
+      "highlights": [
+        "transistor",
+        "semiconductor",
+        "oxide semiconductor"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、半导体、oxide semiconductor方向，围绕“Investigation of Hopping Conduction and Its Impact on the Subthreshold and Tran…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、半导体、oxide semiconductor方向，围绕“Investigation of Hopping Conduction and Its Impact on the Subthreshold and Tran…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 晶体管、半导体、oxide semiconductor.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Investigation of Hopping Conduction and Its Impact on the Subthreshold and Transition Region Tr….",
+      "reading_notes": "Focus: 晶体管、半导体、oxide semiconductor.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Investigation of Hopping Conduction and Its Impact on the Subthreshold and Transition Region Tr…."
+    },
+    {
+      "source": "IEEE Transactions on Electron Devices",
+      "uid": "doi:10.1109/ted.2026.3717697",
+      "title": "Vertical GaN Schottky Barrier Diode Based on Anode-First Process and Low-Temperature Ohmic Contact",
+      "url": "https://doi.org/10.1109/ted.2026.3717697",
+      "published": "2026-10-01",
+      "authors": [
+        "Xiao Wang",
+        "Tian-Yun Zhu",
+        "Ping Gong",
+        "Tian-Yi He",
+        "Sen Peng",
+        "Xia Zhu",
+        "Jing-Run Miao",
+        "Feng-Qiu Jiang",
+        "Tao Liu",
+        "Zhi-Wei Chen",
+        "Zhang-Cheng Liu",
+        "Yang Li",
+        "Da-Wei Yan",
+        "Li-Hua Bai",
+        "Guo-Feng Yang",
+        "Jian-Bo Liang",
+        "Jin-Ping Ao"
+      ],
+      "summary": "The conventional fabrication of vertical gallium nitride (GaN) Schottky barrier diodes (SBDs) requires a cathode-first process due to the high-temperature annealing for ohmic contact. This work proposes an anode-first process enabled by low-temperature ohmic-contact annealing. A SiCl 4 inductively coupled plasma (ICP) treatment is first performed on the backside N-polar GaN surface to introduce nitrogen vacancies. Subsequently, the TiN/Au anode is deposited, followed by the Ti/Al/Ni/Au cathode. A low-temperature annealing step at $500~^{\\circ }$ C simultaneously accomplishes the formation of the backside ohmic contact and the stabilization of the Schottky contact topside. After optimization, the backside ohmic contact exhibits a sheet resistance of $51.74~\\Omega $ /◻, and a contact resistance of $1.07~\\Omega \\cdot $ mm. The anode Schottky contact shows a barrier height of 0.77 eV and an ideality factor of 1.06, yielding a low specific on -resistance of 0.50 m $\\Omega \\cdot $ cm 2 . This simplified process significantly improves the forward characteristics while reducing reverse leakage, offering a new pathway for the fabrication of vertical GaN power devices.",
+      "score": 9,
+      "priority": 2,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Vertical GaN Schottky Barrier Diode Based on Anode-First Process and Low-Temper…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Vertical GaN Schottky Barrier Diode Based on Anode-First Process and Low-Temper…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Vertical GaN Schottky Barrier Diode Based on Anode-First Process and Low-Temperature Ohmic Cont….",
+      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Vertical GaN Schottky Barrier Diode Based on Anode-First Process and Low-Temperature Ohmic Cont…."
+    },
+    {
+      "source": "IEEE Transactions on Electron Devices",
+      "uid": "doi:10.1109/ted.2026.3727407",
+      "title": "Implementation of Retina-Inspired Integrated Visual Functions Based on All-Solution-Processed Biomimetic Synaptic Transistors",
+      "url": "https://doi.org/10.1109/ted.2026.3727407",
+      "published": "2026-10-01",
+      "authors": [
+        "Jingxue Zhao",
+        "Hainan Zhang",
+        "Haoran Wang",
+        "Xinyi Shen",
+        "Xiaofei Niu",
+        "Qingxuan Li",
+        "Gang He"
+      ],
+      "summary": "Visual perception plays a fundamental role in human decision-making and behavior, driving sustained efforts to develop devices that emulate the biological visual system. Conventional machine vision systems based on complementary metal–oxide–semiconductor (CMOS) technology, however, suffer from high power consumption and significant processing latency. In this work, we demonstrate a fully solution-processed indium gallium zinc oxide (IGZO)-based photoelectric thin-film transistor (TFT) that integrates visual sensing and synaptic functions, thereby mimicking retinal photoreceptors and visual cortical synapses. The fabricated device exhibits excellent electrical characteristics, including a high on / off current ratio of ${1}.{58}\\times {10}^{{6}}$ , a field-effect mobility of 37.4 cm ${}^{{2}}\\cdot $ V ${}^{-{1}}\\cdot $ s ${}^{-{1}}$ , a subthreshold swing of ~0.29 V/dec, and a threshold voltage of 0.75 V. Through tunable sensing-synaptic integration, the transistor can simulate light-triggered reflexive responses analogous to the orbicularis oculi muscle contraction. Moreover, the photoresponse of the IGZO channel can be modulated by the gate voltage, which serves as an emotion-like external parameter to regulate visual perception and exhibit visual adaptation. Furthermore, we construct a retina-inspired phototransistor reservoir computing (RP-RC) system, which successfully performs language learning tasks by classifying videos containing English words with identical endings but distinct spatiotemporal dynamics. Classification accuracies of 97.6% and 93.6% are achieved under noise coefficients of 0.15 and 0.30, respectively, confirming the potential of this device as a promising platform for neuromorphic vision systems.",
+      "score": 17,
+      "priority": 1,
+      "highlights": [
+        "transistor"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Implementation of Retina-Inspired Integrated Visual Functions Based on All-Solu…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看功耗或能效表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Implementation of Retina-Inspired Integrated Visual Functions Based on All-Solu…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看功耗或能效表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 功耗或能效表现、与既有工艺平台的集成价值.\nContext: Implementation of Retina-Inspired Integrated Visual Functions Based on All-Solution-Processed B….",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 功耗或能效表现、与既有工艺平台的集成价值.\nContext: Implementation of Retina-Inspired Integrated Visual Functions Based on All-Solution-Processed B…."
     }
   ],
   "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-09-26T00:30:00+00:00"
+  "generated_at": "2026-09-28T00:30:00+00:00"
 }
