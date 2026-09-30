@@ -1,9 +1,47 @@
 {
   "ok": true,
-  "new_count": 2,
+  "new_count": 28,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-09-29）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 2 篇；Intel/TSMC 重点 0 篇；GaN 关键词 1 篇\n1. [Applied Physics Letters] Frequency-selective and geometrically tunable terahertz detection using Tamm cavity-coupled…\n   关键词：MOSFET\n   日期：2026-09-28\n   Authors: S. Benlemqwanssa, C. Bray, B. Benhamou-Bui 等\n   https://doi.org/10.1063/5.0351967\n2. [Physical Review Letters] Observation of a <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\">…\n   关键词：GaN\n   日期：2026-09-28\n   Authors: G. Aad, E. Aakvaag, B. Abbott 等\n   https://doi.org/10.1103/vrxp-zkbs",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-09-30）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 6 篇\n1. [IEEE Electron Device Letters] 2.3-kV Vertical GaN Trench MOSFET With Variable Lateral Ion-Implanted Guard Rings\n   关键词：MOSFET, GaN\n   日期：2026-10-01\n   Authors: Shihao Xu, Cui Yang, Wei Mao 等\n   https://doi.org/10.1109/led.2026.3725710\n2. [IEEE Electron Device Letters] Monolithic Integration of Mg-Free Trench-Gate MOSFETs and <i>μ</i> LEDs\n   关键词：MOSFET, GaN\n   日期：2026-10-01\n   Authors: Yan Guo, Guokai Wang, Yugang Zhou 等\n   https://doi.org/10.1109/led.2026.3724506\n3. [IEEE Electron Device Letters] Achieving 0.82-dB <i> NF <sub>min</sub> </i> in High-Drain-Bias GaN HEMTs via Buffer and Fi…\n   关键词：GaN\n   日期：2026-10-01\n   Authors: Wenbo Ye, Ziyang Wang, Haowei Zhang 等\n   https://doi.org/10.1109/led.2026.3719413\n4. [IEEE Electron Device Letters] All-GaN Monolithic 2T1C- <i>μ</i> LED Pixel With MHz Optical Modulation for High-Refresh-Ra…\n   关键词：GaN\n   日期：2026-10-01\n   Authors: Ran Zhang, Hongping Liu, Yuefei Cai\n   https://doi.org/10.1109/led.2026.3718731\n5. [Applied Physics Letters] Midgap recombination centers in GaN induced by keV- to MeV-range electron-beam irradiation\n   关键词：GaN\n   日期：2026-09-28\n   Authors: K. Shima, M. Horita, J. Suda 等\n   https://doi.org/10.1063/5.0343060\n6. [Applied Physics Letters] Thermal investigation of quasi-vertical and vertical GaN p–n diodes on sapphire and tungste…\n   关键词：GaN\n   日期：2026-09-28\n   Authors: Pharyanshu Kachhawa, James W. Pomeroy, Enrico Brusaterra 等\n   https://doi.org/10.1063/5.0345342\n7. [IEEE Electron Device Letters] 4-Transistor IGZO Ternary Content Addressable Memory Enabling Large-Scale Array Integration…\n   关键词：transistor\n   日期：2026-10-01\n   Authors: Taewon Seo, Taejun Ha, Seunghyun Son 等\n   https://doi.org/10.1109/led.2026.3725692\n8. [IEEE Electron Device Letters] Location-Selective Dual Work-Function Engineering for DRAM Vertical Cell Transistors\n   关键词：transistor\n   日期：2026-10-01\n   Authors: Dongsik Kong, Hoin Lee, Jae-Hyun Lee 等\n   https://doi.org/10.1109/led.2026.3726492",
   "papers": [
+    {
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3725710",
+      "title": "2.3-kV Vertical GaN Trench MOSFET With Variable Lateral Ion-Implanted Guard Rings",
+      "url": "https://doi.org/10.1109/led.2026.3725710",
+      "published": "2026-10-01",
+      "authors": [
+        "Shihao Xu",
+        "Cui Yang",
+        "Wei Mao",
+        "Chao Liu",
+        "Ming Du",
+        "Ming Xiao",
+        "Yuanyuan Xie",
+        "Yu Duan",
+        "Yuchuan Ma",
+        "Changfa Sun",
+        "Dongguo Fan",
+        "Guoliang Peng",
+        "Kai Cheng",
+        "Maojun Wang",
+        "Li Zheng",
+        "Zhihong Liu",
+        "Jincheng Zhang",
+        "Yue Hao"
+      ],
+      "summary": "This letter presents a vertical GaN trench MOSFET featuring Variable Lateral Ion-implanted Guard Rings (VLGR) formed in a partially thinned p-GaN region to engineer the edge electric field distribution. The proposed graded termination effectively mitigates electric field crowding, enabling a breakdown voltage ( BV ) of 2305 V—an approximately 2.7-fold improvement over the Ref-MOSFET (850 V). The fabricated device exhibits a threshold voltage ( ${V}_{\\text {TH}}\\text {)}$ of 4.9 V, a specific on-resistance ( ${R}_{\\text {on, sp}}\\text {)}$ of 7.2 m $\\Omega \\cdot $ cm 2 , and an on/off current ratio of $10^{{7}}$ , yielding a Baliga’s figure of merit ( BFOM ) of 738 MW/cm 2 . These results demonstrate an effective edge-termination strategy for extending the blocking capability of fully vertical GaN trench MOSFETs and suggest the potential of this structure for high-voltage power electronics applications.",
+      "score": 16,
+      "priority": 3,
+      "highlights": [
+        "MOSFET",
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、GaN方向，围绕“2.3-kV Vertical GaN Trench MOSFET With Variable Lateral Ion-Implanted Guard Rin…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、GaN方向，围绕“2.3-kV Vertical GaN Trench MOSFET With Variable Lateral Ion-Implanted Guard Rin…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: MOSFET、GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: 2.3-kV Vertical GaN Trench MOSFET With Variable Lateral Ion-Implanted Guard Rings.",
+      "reading_notes": "Focus: MOSFET、GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: 2.3-kV Vertical GaN Trench MOSFET With Variable Lateral Ion-Implanted Guard Rings."
+    },
     {
       "source": "IEEE Transactions on Electron Devices",
       "uid": "doi:10.1109/ted.2026.3721468",
@@ -30,6 +68,34 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注FET、GAA / 全环栅、互连方向，围绕“Novel Unipolar Stacked FET (USFET) Architecture Enabled by Tri-Layer Dummy Gate…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: FET、GAA / 全环栅、互连.\nWhat to check: 性能提升、效率/耦合表现、先进尺度下的可扩展性.\nContext: Novel Unipolar Stacked FET (USFET) Architecture Enabled by Tri-Layer Dummy Gate, Quasi-GAA SD P….",
       "reading_notes": "Focus: FET、GAA / 全环栅、互连.\nWhat to check: 性能提升、效率/耦合表现、先进尺度下的可扩展性.\nContext: Novel Unipolar Stacked FET (USFET) Architecture Enabled by Tri-Layer Dummy Gate, Quasi-GAA SD P…."
+    },
+    {
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3724506",
+      "title": "Monolithic Integration of Mg-Free Trench-Gate MOSFETs and <i>μ</i> LEDs",
+      "url": "https://doi.org/10.1109/led.2026.3724506",
+      "published": "2026-10-01",
+      "authors": [
+        "Yan Guo",
+        "Guokai Wang",
+        "Yugang Zhou",
+        "Dunjun Chen",
+        "Hai Lu",
+        "Bin Liu",
+        "Rong Zhang",
+        "Youdou Zheng"
+      ],
+      "summary": "Driven by the rapid development of augmented reality (AR) and virtual reality (VR) displays, micro light-emitting diode ( $\\mu $ LED) technology is evolving toward high brightness, high refresh rate, and high pixel density, which conventional driving and driving integration schemes can hardly meet. GaN-based monolithic drive-display integration is promising, yet existing schemes are limited by Mg doping-induced issues, poor process compatibility and high fabrication complexity. This work proposed and realized monolithically integrated Mg-free trench-gate metal-oxide-semiconductor field-effect transistors (MOSFETs) and $\\mu $ LEDs, which deliver a specific on-resistance of ~15.4 m $\\Omega \\cdot $ cm 2 and an on/off current ratio of $\\sim {5}\\times {10} ^{{6}}$ , alongside turn-on/off delays of 300 ns/30 ns measured at 100 kHz. By replacing conventional Mg doping with polarization-induced doping, this approach offers high process compatibility and low fabrication complexity, paving a novel route for monolithic integration of GaN transistors and $\\mu $ LEDs.",
+      "score": 17,
+      "priority": 2,
+      "highlights": [
+        "MOSFET",
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、GaN方向，围绕“Monolithic Integration of Mg-Free Trench-Gate MOSFETs and <i>μ</i> LEDs”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看效率/耦合表现、接触/互连相关指标、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、GaN方向，围绕“Monolithic Integration of Mg-Free Trench-Gate MOSFETs and <i>μ</i> LEDs”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看效率/耦合表现、接触/互连相关指标、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: MOSFET、GaN.\nWhat to check: 效率/耦合表现、接触/互连相关指标、与既有工艺平台的集成价值.\nContext: Monolithic Integration of Mg-Free Trench-Gate MOSFETs and <i>μ</i> LEDs.",
+      "reading_notes": "Focus: MOSFET、GaN.\nWhat to check: 效率/耦合表现、接触/互连相关指标、与既有工艺平台的集成价值.\nContext: Monolithic Integration of Mg-Free Trench-Gate MOSFETs and <i>μ</i> LEDs."
     },
     {
       "source": "IEEE Transactions on Electron Devices",
@@ -122,132 +188,55 @@
       "reading_notes": "Focus: MOSFET、SiC.\nWhat to check: 可靠性与稳定性、功耗或能效表现.\nContext: Avalanche Failure Mechanism of SiC MOSFETs After Total Ionizing Dose Irradiation."
     },
     {
-      "source": "IEEE Transactions on Electron Devices",
-      "uid": "doi:10.1109/ted.2026.3721459",
-      "title": "Radiation Effects on GaN p-FETs and Complementary Logic Circuits",
-      "url": "https://doi.org/10.1109/ted.2026.3721459",
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3719413",
+      "title": "Achieving 0.82-dB <i> NF <sub>min</sub> </i> in High-Drain-Bias GaN HEMTs via Buffer and Field-Plate Engineering for High-Linearity LNA Applications",
+      "url": "https://doi.org/10.1109/led.2026.3719413",
       "published": "2026-10-01",
       "authors": [
-        "Teng Li",
-        "Jialin Duan",
-        "Jingjing Yu",
-        "Yunhong Lao",
-        "Sihang Liu",
-        "Junjie Yang",
-        "Shiyang Yuan",
-        "Han Yang",
-        "Xuelin Yang",
-        "Yang Liu",
-        "Jinyan Wang",
-        "Maojun Wang",
-        "Bo Shen",
-        "Jin Wei"
+        "Wenbo Ye",
+        "Ziyang Wang",
+        "Haowei Zhang",
+        "Haolan Qu",
+        "Xinbo Zou"
       ],
-      "summary": "This work reports the radiation effects on gallium nitride (GaN) p-FETs and complementary logic (CL) circuits. Co ${}^{{60}} ~\\gamma $ -rays are used as the radiation source. For the p-FET, after being radiated with an accumulated dose of 1 Mrad, the threshold voltage ( ${V}_{\\text {th}}\\text {)}$ shifts negatively from −0.5 to −1 V, which is attributed to radiation-generated holes. The on -resistance ( ${R}_{\\text {on}}\\text {)}$ increases from 1.04 to 1.13 k $\\Omega \\cdot $ mm. Subsequently, the p-FET underwent a 168-h room-temperature (RT) anneal, and its ${V}_{\\text {th}}$ and ${R}_{\\text {on}}$ recover to −0.5 V and 1.08 k $\\Omega \\cdot $ mm, respectively. For the n-FET, the ${V}_{\\text {th}}$ remains unchanged at 1.3 V after radiation. The ${R}_{\\text {on}}$ increases from 6 to $6.8~\\Omega \\cdot $ mm, and shows no recovery after 168-h RT annealing; the degradation in ${R}_{\\text {on}}$ is attributed to radiation-induced defects in the access region. As for the CL inverter, after being radiated up to an accumulated dose of 1 Mrad, a rail-to-rail voltage swing ( ${V}_{\\text {swing}}\\text {)}$ of 6 V, a high noise margin ( NM ${}_{\\text {H}}\\text {)}$ of 4.7 V, and a low noise margin ( NM ${}_{\\text {L}}\\text {)}$ of 1.09 V are maintained. These results demonstrate the superior radiation tolerance of GaN CL circuitry for radiation-prone applications.",
-      "score": 10,
+      "summary": "In this letter, minimum noise figure ( NF ${}_{\\text{min} }$ ) of GaN high-electron-mobility transistors (HEMTs) under high-drain bias ( $\\textit{V}_{\\text {DS}} \\gt \\text{20}$ V) is investigated and optimized for high-linearity low noise amplifier (LNA) applications. By employing a $\\text{1}~\\mu $ m Fe-doped GaN buffer and a non-overlapping source field plate (SFP), the device achieves a NF min of 0.82 dB at 3 GHz and a $\\textit{V}_{\\text {DS}}$ of 24 V, while delivering an associated gain ( $\\textit{G}_{\\text {a}}$ ) of 16.61 dB and an output third-order intercept point (OIP3) of 31.8 dBm. Experimental comparison and a physics-based noise model identify the sharp increase in gate leakage current ( $\\textit{I}_{\\text {G}}$ ) as the dominant cause of NF min degradation under high $\\textit{V}_{\\text {DS}}$ , and confirm its suppression using $\\text{1}~\\mu $ m Fe-doped buffer scheme. Moreover, a non-overlapping SFP suppresses the device’s thermal noise by lowering the intrinsic resistances ( $\\textit{R}_{\\text {i}}$ , $\\textit{R}_{\\text {gd}}$ ). This work provides a novel design optimization strategy for high-bias, low-noise GaN HEMTs tailored for high-linearity LNA applications.",
+      "score": 11,
       "priority": 2,
       "highlights": [
         "GaN"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Radiation Effects on GaN p-FETs and Complementary Logic Circuits”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Radiation Effects on GaN p-FETs and Complementary Logic Circuits”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 接触/互连相关指标.\nContext: Radiation Effects on GaN p-FETs and Complementary Logic Circuits.",
-      "reading_notes": "Focus: GaN.\nWhat to check: 接触/互连相关指标.\nContext: Radiation Effects on GaN p-FETs and Complementary Logic Circuits."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Achieving 0.82-dB <i> NF <sub>min</sub> </i> in High-Drain-Bias GaN HEMTs via B…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Achieving 0.82-dB <i> NF <sub>min</sub> </i> in High-Drain-Bias GaN HEMTs via B…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 接触/互连相关指标.\nContext: Achieving 0.82-dB <i> NF <sub>min</sub> </i> in High-Drain-Bias GaN HEMTs via Buffer and Field-….",
+      "reading_notes": "Focus: GaN.\nWhat to check: 接触/互连相关指标.\nContext: Achieving 0.82-dB <i> NF <sub>min</sub> </i> in High-Drain-Bias GaN HEMTs via Buffer and Field-…."
     },
     {
-      "source": "arXiv",
-      "uid": "arxiv:2609.27464v1",
-      "title": "Investigation of Hopping Conduction and Its Impact on the Subthreshold and Transition Region Transport in Oxide Semiconductor Transistors by Magneto-Transport Measurements",
-      "url": "https://arxiv.org/abs/2609.27464v1",
-      "published": "2026-09-23",
-      "authors": [
-        "Chen Wang",
-        "Liankai Zheng",
-        "Kai Jiang",
-        "Jinxiu Zhao",
-        "Zhenyu Zhang",
-        "Xuefei Li",
-        "Mengwei Si"
-      ],
-      "summary": "In this work, magneto-transport measurements, including Hall effects and magnetoresistance (MR) at various temperatures, are employed to directly probe the electron transport properties in crystalline indium oxide (In2O3) and amorphous indium-zinc oxide (IZO) transistors. For the first time, we develop a subgap density of states (DOS) extraction method based on the MR measurements at low temperature, considering both the interference and orbital shrinkage effects. The sign and magnitude of MR are used as direct evidence to distinguish the dominating transport mechanisms between hopping conduction and free-electron conduction. It is found that crystalline In2O3 exhibits a subgap DOS more than two orders of magnitude lower than that of amorphous IZO, together with a smaller localization radius of hopping sites. As a result, crystalline In2O3 not only enhances the carrier mobility but also significantly reduces the supply voltage (VDD) because of the smaller transition region enabled by the much-suppressed subgap DOS. This study reveals that structural disorder critically influences the device operation in the subthreshold and transition regions of oxide semiconductor transistors.",
-      "score": 10,
-      "priority": 2,
-      "highlights": [
-        "transistor",
-        "semiconductor",
-        "oxide semiconductor"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、半导体、oxide semiconductor方向，围绕“Investigation of Hopping Conduction and Its Impact on the Subthreshold and Tran…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、半导体、oxide semiconductor方向，围绕“Investigation of Hopping Conduction and Its Impact on the Subthreshold and Tran…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管、半导体、oxide semiconductor.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Investigation of Hopping Conduction and Its Impact on the Subthreshold and Transition Region Tr….",
-      "reading_notes": "Focus: 晶体管、半导体、oxide semiconductor.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Investigation of Hopping Conduction and Its Impact on the Subthreshold and Transition Region Tr…."
-    },
-    {
-      "source": "IEEE Transactions on Electron Devices",
-      "uid": "doi:10.1109/ted.2026.3717697",
-      "title": "Vertical GaN Schottky Barrier Diode Based on Anode-First Process and Low-Temperature Ohmic Contact",
-      "url": "https://doi.org/10.1109/ted.2026.3717697",
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3718731",
+      "title": "All-GaN Monolithic 2T1C- <i>μ</i> LED Pixel With MHz Optical Modulation for High-Refresh-Rate Microdisplays",
+      "url": "https://doi.org/10.1109/led.2026.3718731",
       "published": "2026-10-01",
       "authors": [
-        "Xiao Wang",
-        "Tian-Yun Zhu",
-        "Ping Gong",
-        "Tian-Yi He",
-        "Sen Peng",
-        "Xia Zhu",
-        "Jing-Run Miao",
-        "Feng-Qiu Jiang",
-        "Tao Liu",
-        "Zhi-Wei Chen",
-        "Zhang-Cheng Liu",
-        "Yang Li",
-        "Da-Wei Yan",
-        "Li-Hua Bai",
-        "Guo-Feng Yang",
-        "Jian-Bo Liang",
-        "Jin-Ping Ao"
+        "Ran Zhang",
+        "Hongping Liu",
+        "Yuefei Cai"
       ],
-      "summary": "The conventional fabrication of vertical gallium nitride (GaN) Schottky barrier diodes (SBDs) requires a cathode-first process due to the high-temperature annealing for ohmic contact. This work proposes an anode-first process enabled by low-temperature ohmic-contact annealing. A SiCl 4 inductively coupled plasma (ICP) treatment is first performed on the backside N-polar GaN surface to introduce nitrogen vacancies. Subsequently, the TiN/Au anode is deposited, followed by the Ti/Al/Ni/Au cathode. A low-temperature annealing step at $500~^{\\circ }$ C simultaneously accomplishes the formation of the backside ohmic contact and the stabilization of the Schottky contact topside. After optimization, the backside ohmic contact exhibits a sheet resistance of $51.74~\\Omega $ /◻, and a contact resistance of $1.07~\\Omega \\cdot $ mm. The anode Schottky contact shows a barrier height of 0.77 eV and an ideality factor of 1.06, yielding a low specific on -resistance of 0.50 m $\\Omega \\cdot $ cm 2 . This simplified process significantly improves the forward characteristics while reducing reverse leakage, offering a new pathway for the fabrication of vertical GaN power devices.",
-      "score": 9,
+      "summary": "High-refresh-rate active-matrix microdisplays are essential components for many high-end applications, such as augmented reality (AR) displays. In this work, an all-GaN monolithic active micro-light-emitting diode ( $\\mu $ LED) pixel with optical modulation up to 2 MHz is demonstrated. The pixel consists of one $20~\\mu $ m-diameter $\\mu $ LED, two depletion-mode GaN high-electron-mobility transistors (HEMTs), and one metal-insulator-metal (MIM) storage capacitor (2T1C), with a total footprint of $60~\\mu $ m $\\times 60~\\mu $ m. The GaN-based 2T1C-driven circuit is integrated monolithically with $\\mu $ LEDs formed via selective-area growth (SAG) without sidewall etching. Static performance of the 2T1C- $\\mu $ LED circuit has been tested under different ${V}_{\\text {Data}}$ conditions. Transient measurements show its capability for “write-on, hold-on, write-off, and hold-off” operation, with both electrical and optical modulation up to 2 MHz, indicating great potential for high-end AR microdisplays.",
+      "score": 11,
       "priority": 2,
       "highlights": [
         "GaN"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Vertical GaN Schottky Barrier Diode Based on Anode-First Process and Low-Temper…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Vertical GaN Schottky Barrier Diode Based on Anode-First Process and Low-Temper…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Vertical GaN Schottky Barrier Diode Based on Anode-First Process and Low-Temperature Ohmic Cont….",
-      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Vertical GaN Schottky Barrier Diode Based on Anode-First Process and Low-Temperature Ohmic Cont…."
-    },
-    {
-      "source": "IEEE Transactions on Electron Devices",
-      "uid": "doi:10.1109/ted.2026.3727407",
-      "title": "Implementation of Retina-Inspired Integrated Visual Functions Based on All-Solution-Processed Biomimetic Synaptic Transistors",
-      "url": "https://doi.org/10.1109/ted.2026.3727407",
-      "published": "2026-10-01",
-      "authors": [
-        "Jingxue Zhao",
-        "Hainan Zhang",
-        "Haoran Wang",
-        "Xinyi Shen",
-        "Xiaofei Niu",
-        "Qingxuan Li",
-        "Gang He"
-      ],
-      "summary": "Visual perception plays a fundamental role in human decision-making and behavior, driving sustained efforts to develop devices that emulate the biological visual system. Conventional machine vision systems based on complementary metal–oxide–semiconductor (CMOS) technology, however, suffer from high power consumption and significant processing latency. In this work, we demonstrate a fully solution-processed indium gallium zinc oxide (IGZO)-based photoelectric thin-film transistor (TFT) that integrates visual sensing and synaptic functions, thereby mimicking retinal photoreceptors and visual cortical synapses. The fabricated device exhibits excellent electrical characteristics, including a high on / off current ratio of ${1}.{58}\\times {10}^{{6}}$ , a field-effect mobility of 37.4 cm ${}^{{2}}\\cdot $ V ${}^{-{1}}\\cdot $ s ${}^{-{1}}$ , a subthreshold swing of ~0.29 V/dec, and a threshold voltage of 0.75 V. Through tunable sensing-synaptic integration, the transistor can simulate light-triggered reflexive responses analogous to the orbicularis oculi muscle contraction. Moreover, the photoresponse of the IGZO channel can be modulated by the gate voltage, which serves as an emotion-like external parameter to regulate visual perception and exhibit visual adaptation. Furthermore, we construct a retina-inspired phototransistor reservoir computing (RP-RC) system, which successfully performs language learning tasks by classifying videos containing English words with identical endings but distinct spatiotemporal dynamics. Classification accuracies of 97.6% and 93.6% are achieved under noise coefficients of 0.15 and 0.30, respectively, confirming the potential of this device as a promising platform for neuromorphic vision systems.",
-      "score": 17,
-      "priority": 1,
-      "highlights": [
-        "transistor"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Implementation of Retina-Inspired Integrated Visual Functions Based on All-Solu…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看功耗或能效表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Implementation of Retina-Inspired Integrated Visual Functions Based on All-Solu…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看功耗或能效表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 功耗或能效表现、与既有工艺平台的集成价值.\nContext: Implementation of Retina-Inspired Integrated Visual Functions Based on All-Solution-Processed B….",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 功耗或能效表现、与既有工艺平台的集成价值.\nContext: Implementation of Retina-Inspired Integrated Visual Functions Based on All-Solution-Processed B…."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“All-GaN Monolithic 2T1C- <i>μ</i> LED Pixel With MHz Optical Modulation for Hig…”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“All-GaN Monolithic 2T1C- <i>μ</i> LED Pixel With MHz Optical Modulation for Hig…”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现.\nContext: All-GaN Monolithic 2T1C- <i>μ</i> LED Pixel With MHz Optical Modulation for High-Refresh-Rate M….",
+      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现.\nContext: All-GaN Monolithic 2T1C- <i>μ</i> LED Pixel With MHz Optical Modulation for High-Refresh-Rate M…."
     }
   ],
   "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-09-29T00:30:00+00:00"
+  "generated_at": "2026-09-30T00:30:00+00:00"
 }
