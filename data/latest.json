@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 28,
+  "new_count": 10,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-09-30）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 6 篇\n1. [IEEE Electron Device Letters] 2.3-kV Vertical GaN Trench MOSFET With Variable Lateral Ion-Implanted Guard Rings\n   关键词：MOSFET, GaN\n   日期：2026-10-01\n   Authors: Shihao Xu, Cui Yang, Wei Mao 等\n   https://doi.org/10.1109/led.2026.3725710\n2. [IEEE Electron Device Letters] Monolithic Integration of Mg-Free Trench-Gate MOSFETs and <i>μ</i> LEDs\n   关键词：MOSFET, GaN\n   日期：2026-10-01\n   Authors: Yan Guo, Guokai Wang, Yugang Zhou 等\n   https://doi.org/10.1109/led.2026.3724506\n3. [IEEE Electron Device Letters] Achieving 0.82-dB <i> NF <sub>min</sub> </i> in High-Drain-Bias GaN HEMTs via Buffer and Fi…\n   关键词：GaN\n   日期：2026-10-01\n   Authors: Wenbo Ye, Ziyang Wang, Haowei Zhang 等\n   https://doi.org/10.1109/led.2026.3719413\n4. [IEEE Electron Device Letters] All-GaN Monolithic 2T1C- <i>μ</i> LED Pixel With MHz Optical Modulation for High-Refresh-Ra…\n   关键词：GaN\n   日期：2026-10-01\n   Authors: Ran Zhang, Hongping Liu, Yuefei Cai\n   https://doi.org/10.1109/led.2026.3718731\n5. [Applied Physics Letters] Midgap recombination centers in GaN induced by keV- to MeV-range electron-beam irradiation\n   关键词：GaN\n   日期：2026-09-28\n   Authors: K. Shima, M. Horita, J. Suda 等\n   https://doi.org/10.1063/5.0343060\n6. [Applied Physics Letters] Thermal investigation of quasi-vertical and vertical GaN p–n diodes on sapphire and tungste…\n   关键词：GaN\n   日期：2026-09-28\n   Authors: Pharyanshu Kachhawa, James W. Pomeroy, Enrico Brusaterra 等\n   https://doi.org/10.1063/5.0345342\n7. [IEEE Electron Device Letters] 4-Transistor IGZO Ternary Content Addressable Memory Enabling Large-Scale Array Integration…\n   关键词：transistor\n   日期：2026-10-01\n   Authors: Taewon Seo, Taejun Ha, Seunghyun Son 等\n   https://doi.org/10.1109/led.2026.3725692\n8. [IEEE Electron Device Letters] Location-Selective Dual Work-Function Engineering for DRAM Vertical Cell Transistors\n   关键词：transistor\n   日期：2026-10-01\n   Authors: Dongsik Kong, Hoin Lee, Jae-Hyun Lee 等\n   https://doi.org/10.1109/led.2026.3726492",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-01）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 2 篇\n1. [Applied Physics Letters] Intercalation-assisted remote epitaxy of GaN on epitaxial graphene\n   关键词：epitaxy, GaN\n   日期：2026-09-28\n   Authors: Seung Hoon Lee, Chengye Dong, Ke Wang 等\n   https://doi.org/10.1063/5.0342809\n2. [Applied Physics Letters] Sustainable breakdown in sub-micrometer E-mode GaN HEMTs: Impact of gate bias and process-d…\n   关键词：GaN\n   日期：2026-09-28\n   Authors: M. Dell'Andrea, R. Fraccaroli, S. L. Longato 等\n   https://doi.org/10.1063/5.0347615\n3. [Science Advances] CMOS multifunctional programmable metachip for terahertz-integrated sensing and communicati…\n   关键词：CMOS\n   日期：2026-10-02\n   Authors: Ze Shen, Kaizhe Guo, Jingbo Wu 等\n   https://doi.org/10.1126/sciadv.aeb5047\n4. [Applied Physics Letters] Performance-enhanced ferroelectric domain wall pyroelectric detector of X-cut thin-film LiN…\n   关键词：ferroelectric\n   日期：2026-09-28\n   Authors: Xiangyu Gao, Hao Luo, Hui Xia 等\n   https://doi.org/10.1063/5.0334115\n5. [Applied Physics Letters] Ultrafast nonvolatile optoelectronic memory enabled by conformal nanointerfaces\n   日期：2026-09-28\n   Authors: Jing Liu, Le Wang, Haotian Wang 等\n   https://doi.org/10.1063/5.0347059\n6. [Applied Physics Letters] Characterization of nonlinear dynamics in semiconductors in frequency domain using modulate…\n   关键词：semiconductor\n   日期：2026-09-28\n   Authors: Attia Awan, Rong Tang, Kang Zhou 等\n   https://doi.org/10.1063/5.0346898\n7. [arXiv] Multiscale modelling of nanoscaled FETs based on 2D ferroelectric materials\n   关键词：ferroelectric\n   日期：2026-09-29\n   Authors: Alejandro Toral-Lopez, Michele Virgilio, Gianluca Fiori 等\n   https://arxiv.org/abs/2609.37823v1\n8. [Science Advances] Electronic profiling of neuronal extracellular vesicles enables early prediction of Parkins…\n   日期：2026-10-02\n   Authors: Tianrui Chang, Cheng Jiang, Shijun Yan 等\n   https://doi.org/10.1126/sciadv.aee4525",
   "papers": [
     {
       "source": "IEEE Electron Device Letters",
@@ -161,6 +161,32 @@
       "reading_notes": "Focus: CFET、互连.\nWhat to check: 性能提升、先进尺度下的可扩展性、接触/互连相关指标.\nContext: Area-Efficient and High-Performance 3T CFET Cells Enabled by an Embedded Interconnect Layer (EI…."
     },
     {
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0342809",
+      "title": "Intercalation-assisted remote epitaxy of GaN on epitaxial graphene",
+      "url": "https://doi.org/10.1063/5.0342809",
+      "published": "2026-09-28",
+      "authors": [
+        "Seung Hoon Lee",
+        "Chengye Dong",
+        "Ke Wang",
+        "Brian M. Bersch",
+        "Joshua A. Robinson",
+        "Joan M. Redwing"
+      ],
+      "summary": "Metalorganic chemical vapor deposition (MOCVD) of GaN on pristine epitaxial graphene formed on SiC is hindered by the low energy van der Waals surface, which suppresses nucleation and promotes island growth. Here, we demonstrate an intercalation-assisted approach to modify the graphene/SiC interface and influence GaN nucleation behavior via a remote epitaxy process. Using a pulsed MOCVD technique, a ∼4 nm GaN interlayer was first intercalated beneath the epitaxial graphene followed by subsequent epitaxial growth of the GaN film. Intercalation promotes a high nucleation density, enabling the growth of a coalesced 1.5 μm-thick epitaxial GaN film with step-flow morphology. Cross-sectional scanning transmission electron microscopy reveals atomic alignment between the GaN epilayer and the intercalated GaN across the graphene interlayer, maintaining epitaxial registry. The weak interfacial bonding enables mechanical exfoliation of the GaN film to form a thin, freestanding membrane. These results demonstrate that intercalation can provide an alternative pathway to engineer the graphene/substrate interface to facilitate remote epitaxy without the need for graphene layer transfer.",
+      "score": 14,
+      "priority": 2,
+      "highlights": [
+        "epitaxy",
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注epitaxy、GaN方向，围绕“Intercalation-assisted remote epitaxy of GaN on epitaxial graphene”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注epitaxy、GaN方向，围绕“Intercalation-assisted remote epitaxy of GaN on epitaxial graphene”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: epitaxy、GaN.\nWhat to check: 功耗或能效表现.\nContext: Intercalation-assisted remote epitaxy of GaN on epitaxial graphene.",
+      "reading_notes": "Focus: epitaxy、GaN.\nWhat to check: 功耗或能效表现.\nContext: Intercalation-assisted remote epitaxy of GaN on epitaxial graphene."
+    },
+    {
       "source": "IEEE Transactions on Electron Devices",
       "uid": "doi:10.1109/ted.2026.3724512",
       "title": "Avalanche Failure Mechanism of SiC MOSFETs After Total Ionizing Dose Irradiation",
@@ -210,33 +236,11 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Achieving 0.82-dB <i> NF <sub>min</sub> </i> in High-Drain-Bias GaN HEMTs via B…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: GaN.\nWhat to check: 接触/互连相关指标.\nContext: Achieving 0.82-dB <i> NF <sub>min</sub> </i> in High-Drain-Bias GaN HEMTs via Buffer and Field-….",
       "reading_notes": "Focus: GaN.\nWhat to check: 接触/互连相关指标.\nContext: Achieving 0.82-dB <i> NF <sub>min</sub> </i> in High-Drain-Bias GaN HEMTs via Buffer and Field-…."
-    },
-    {
-      "source": "IEEE Electron Device Letters",
-      "uid": "doi:10.1109/led.2026.3718731",
-      "title": "All-GaN Monolithic 2T1C- <i>μ</i> LED Pixel With MHz Optical Modulation for High-Refresh-Rate Microdisplays",
-      "url": "https://doi.org/10.1109/led.2026.3718731",
-      "published": "2026-10-01",
-      "authors": [
-        "Ran Zhang",
-        "Hongping Liu",
-        "Yuefei Cai"
-      ],
-      "summary": "High-refresh-rate active-matrix microdisplays are essential components for many high-end applications, such as augmented reality (AR) displays. In this work, an all-GaN monolithic active micro-light-emitting diode ( $\\mu $ LED) pixel with optical modulation up to 2 MHz is demonstrated. The pixel consists of one $20~\\mu $ m-diameter $\\mu $ LED, two depletion-mode GaN high-electron-mobility transistors (HEMTs), and one metal-insulator-metal (MIM) storage capacitor (2T1C), with a total footprint of $60~\\mu $ m $\\times 60~\\mu $ m. The GaN-based 2T1C-driven circuit is integrated monolithically with $\\mu $ LEDs formed via selective-area growth (SAG) without sidewall etching. Static performance of the 2T1C- $\\mu $ LED circuit has been tested under different ${V}_{\\text {Data}}$ conditions. Transient measurements show its capability for “write-on, hold-on, write-off, and hold-off” operation, with both electrical and optical modulation up to 2 MHz, indicating great potential for high-end AR microdisplays.",
-      "score": 11,
-      "priority": 2,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“All-GaN Monolithic 2T1C- <i>μ</i> LED Pixel With MHz Optical Modulation for Hig…”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“All-GaN Monolithic 2T1C- <i>μ</i> LED Pixel With MHz Optical Modulation for Hig…”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现.\nContext: All-GaN Monolithic 2T1C- <i>μ</i> LED Pixel With MHz Optical Modulation for High-Refresh-Rate M….",
-      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现.\nContext: All-GaN Monolithic 2T1C- <i>μ</i> LED Pixel With MHz Optical Modulation for High-Refresh-Rate M…."
     }
   ],
   "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-09-30T00:30:00+00:00"
+  "generated_at": "2026-10-01T00:30:00+00:00"
 }
