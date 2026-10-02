@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 10,
+  "new_count": 2,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-01）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 2 篇\n1. [Applied Physics Letters] Intercalation-assisted remote epitaxy of GaN on epitaxial graphene\n   关键词：epitaxy, GaN\n   日期：2026-09-28\n   Authors: Seung Hoon Lee, Chengye Dong, Ke Wang 等\n   https://doi.org/10.1063/5.0342809\n2. [Applied Physics Letters] Sustainable breakdown in sub-micrometer E-mode GaN HEMTs: Impact of gate bias and process-d…\n   关键词：GaN\n   日期：2026-09-28\n   Authors: M. Dell'Andrea, R. Fraccaroli, S. L. Longato 等\n   https://doi.org/10.1063/5.0347615\n3. [Science Advances] CMOS multifunctional programmable metachip for terahertz-integrated sensing and communicati…\n   关键词：CMOS\n   日期：2026-10-02\n   Authors: Ze Shen, Kaizhe Guo, Jingbo Wu 等\n   https://doi.org/10.1126/sciadv.aeb5047\n4. [Applied Physics Letters] Performance-enhanced ferroelectric domain wall pyroelectric detector of X-cut thin-film LiN…\n   关键词：ferroelectric\n   日期：2026-09-28\n   Authors: Xiangyu Gao, Hao Luo, Hui Xia 等\n   https://doi.org/10.1063/5.0334115\n5. [Applied Physics Letters] Ultrafast nonvolatile optoelectronic memory enabled by conformal nanointerfaces\n   日期：2026-09-28\n   Authors: Jing Liu, Le Wang, Haotian Wang 等\n   https://doi.org/10.1063/5.0347059\n6. [Applied Physics Letters] Characterization of nonlinear dynamics in semiconductors in frequency domain using modulate…\n   关键词：semiconductor\n   日期：2026-09-28\n   Authors: Attia Awan, Rong Tang, Kang Zhou 等\n   https://doi.org/10.1063/5.0346898\n7. [arXiv] Multiscale modelling of nanoscaled FETs based on 2D ferroelectric materials\n   关键词：ferroelectric\n   日期：2026-09-29\n   Authors: Alejandro Toral-Lopez, Michele Virgilio, Gianluca Fiori 等\n   https://arxiv.org/abs/2609.37823v1\n8. [Science Advances] Electronic profiling of neuronal extracellular vesicles enables early prediction of Parkins…\n   日期：2026-10-02\n   Authors: Tianrui Chang, Cheng Jiang, Shijun Yan 等\n   https://doi.org/10.1126/sciadv.aee4525",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-02）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 2 篇；Intel/TSMC 重点 0 篇；GaN 关键词 1 篇\n1. [Applied Physics Letters] Observation of avalanche breakdown characteristics in quasi-vertical GaN-on-Si trench MOSFE…\n   关键词：MOSFET, GaN\n   日期：2026-09-28\n   Authors: Hui Guo, Renqiang Zhu, Yuanzhi He 等\n   https://doi.org/10.1063/5.0342984\n2. [Applied Physics Letters] Bias-field-regulated phase evolution and pyroelectric energy harvesting in antiferroelectri…\n   日期：2026-09-28\n   Authors: Ruize Hu, Meng Xie, Shiguang Yan 等\n   https://doi.org/10.1063/5.0352718\n注：以下源本次抓取失败：arXiv",
   "papers": [
     {
       "source": "IEEE Electron Device Letters",
@@ -41,6 +41,32 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、GaN方向，围绕“2.3-kV Vertical GaN Trench MOSFET With Variable Lateral Ion-Implanted Guard Rin…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: MOSFET、GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: 2.3-kV Vertical GaN Trench MOSFET With Variable Lateral Ion-Implanted Guard Rings.",
       "reading_notes": "Focus: MOSFET、GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: 2.3-kV Vertical GaN Trench MOSFET With Variable Lateral Ion-Implanted Guard Rings."
+    },
+    {
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0342984",
+      "title": "Observation of avalanche breakdown characteristics in quasi-vertical GaN-on-Si trench MOSFETs",
+      "url": "https://doi.org/10.1063/5.0342984",
+      "published": "2026-09-28",
+      "authors": [
+        "Hui Guo",
+        "Renqiang Zhu",
+        "Yuanzhi He",
+        "Jialun Li",
+        "Xuancong Fan",
+        "Kei May Lau"
+      ],
+      "summary": "We report avalanche breakdown characteristics of normally off quasi-vertical GaN-on-Si trench MOSFETs. Initially, the avalanche breakdown of p–n diode with low-damage mesa etching on the n+-p-n−-n+ grown epitaxial structure was confirmed by positive temperature coefficient and uniform GaN band edge emission around mesa edge-side. For trench MOSFETs, an improved trench profile and an ethylene octene copolymer thick bottom dielectric structure enable an improved electric field distribution. As a result, our quasi-vertical trench MOSFETs exhibit an avalanche breakdown voltage of 525 V and a positive temperature coefficient of 0.47 V/°C, in association with excellent on-state performance. In addition, temperature-dependent off-state characteristics of the trench MOSFETs are also analyzed in detail.",
+      "score": 15,
+      "priority": 3,
+      "highlights": [
+        "MOSFET",
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、GaN方向，围绕“Observation of avalanche breakdown characteristics in quasi-vertical GaN-on-Si …”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、GaN方向，围绕“Observation of avalanche breakdown characteristics in quasi-vertical GaN-on-Si …”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: MOSFET、GaN.\nWhat to check: 性能提升、效率/耦合表现.\nContext: Observation of avalanche breakdown characteristics in quasi-vertical GaN-on-Si trench MOSFETs.",
+      "reading_notes": "Focus: MOSFET、GaN.\nWhat to check: 性能提升、效率/耦合表现.\nContext: Observation of avalanche breakdown characteristics in quasi-vertical GaN-on-Si trench MOSFETs."
     },
     {
       "source": "IEEE Transactions on Electron Devices",
@@ -212,35 +238,13 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、SiC方向，围绕“Avalanche Failure Mechanism of SiC MOSFETs After Total Ionizing Dose Irradiation”展开。摘要显示，文章重点涉及机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: MOSFET、SiC.\nWhat to check: 可靠性与稳定性、功耗或能效表现.\nContext: Avalanche Failure Mechanism of SiC MOSFETs After Total Ionizing Dose Irradiation.",
       "reading_notes": "Focus: MOSFET、SiC.\nWhat to check: 可靠性与稳定性、功耗或能效表现.\nContext: Avalanche Failure Mechanism of SiC MOSFETs After Total Ionizing Dose Irradiation."
-    },
-    {
-      "source": "IEEE Electron Device Letters",
-      "uid": "doi:10.1109/led.2026.3719413",
-      "title": "Achieving 0.82-dB <i> NF <sub>min</sub> </i> in High-Drain-Bias GaN HEMTs via Buffer and Field-Plate Engineering for High-Linearity LNA Applications",
-      "url": "https://doi.org/10.1109/led.2026.3719413",
-      "published": "2026-10-01",
-      "authors": [
-        "Wenbo Ye",
-        "Ziyang Wang",
-        "Haowei Zhang",
-        "Haolan Qu",
-        "Xinbo Zou"
-      ],
-      "summary": "In this letter, minimum noise figure ( NF ${}_{\\text{min} }$ ) of GaN high-electron-mobility transistors (HEMTs) under high-drain bias ( $\\textit{V}_{\\text {DS}} \\gt \\text{20}$ V) is investigated and optimized for high-linearity low noise amplifier (LNA) applications. By employing a $\\text{1}~\\mu $ m Fe-doped GaN buffer and a non-overlapping source field plate (SFP), the device achieves a NF min of 0.82 dB at 3 GHz and a $\\textit{V}_{\\text {DS}}$ of 24 V, while delivering an associated gain ( $\\textit{G}_{\\text {a}}$ ) of 16.61 dB and an output third-order intercept point (OIP3) of 31.8 dBm. Experimental comparison and a physics-based noise model identify the sharp increase in gate leakage current ( $\\textit{I}_{\\text {G}}$ ) as the dominant cause of NF min degradation under high $\\textit{V}_{\\text {DS}}$ , and confirm its suppression using $\\text{1}~\\mu $ m Fe-doped buffer scheme. Moreover, a non-overlapping SFP suppresses the device’s thermal noise by lowering the intrinsic resistances ( $\\textit{R}_{\\text {i}}$ , $\\textit{R}_{\\text {gd}}$ ). This work provides a novel design optimization strategy for high-bias, low-noise GaN HEMTs tailored for high-linearity LNA applications.",
-      "score": 11,
-      "priority": 2,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Achieving 0.82-dB <i> NF <sub>min</sub> </i> in High-Drain-Bias GaN HEMTs via B…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Achieving 0.82-dB <i> NF <sub>min</sub> </i> in High-Drain-Bias GaN HEMTs via B…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 接触/互连相关指标.\nContext: Achieving 0.82-dB <i> NF <sub>min</sub> </i> in High-Drain-Bias GaN HEMTs via Buffer and Field-….",
-      "reading_notes": "Focus: GaN.\nWhat to check: 接触/互连相关指标.\nContext: Achieving 0.82-dB <i> NF <sub>min</sub> </i> in High-Drain-Bias GaN HEMTs via Buffer and Field-…."
     }
   ],
-  "errors": [],
+  "errors": [
+    "arXiv"
+  ],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-10-01T00:30:00+00:00"
+  "generated_at": "2026-10-02T00:30:00+00:00"
 }
