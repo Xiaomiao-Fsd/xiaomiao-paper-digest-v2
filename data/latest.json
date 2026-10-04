@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 2,
+  "new_count": 0,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-02）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 2 篇；Intel/TSMC 重点 0 篇；GaN 关键词 1 篇\n1. [Applied Physics Letters] Observation of avalanche breakdown characteristics in quasi-vertical GaN-on-Si trench MOSFE…\n   关键词：MOSFET, GaN\n   日期：2026-09-28\n   Authors: Hui Guo, Renqiang Zhu, Yuanzhi He 等\n   https://doi.org/10.1063/5.0342984\n2. [Applied Physics Letters] Bias-field-regulated phase evolution and pyroelectric energy harvesting in antiferroelectri…\n   日期：2026-09-28\n   Authors: Ruize Hu, Meng Xie, Shiguang Yan 等\n   https://doi.org/10.1063/5.0352718\n注：以下源本次抓取失败：arXiv",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-04）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 5 篇\n1. [IEEE Electron Device Letters] 2.3-kV Vertical GaN Trench MOSFET With Variable Lateral Ion-Implanted Guard Rings\n   关键词：MOSFET, GaN\n   日期：2026-10-01\n   Authors: Shihao Xu, Cui Yang, Wei Mao 等\n   https://doi.org/10.1109/led.2026.3725710\n2. [Applied Physics Letters] Observation of avalanche breakdown characteristics in quasi-vertical GaN-on-Si trench MOSFE…\n   关键词：MOSFET, GaN\n   日期：2026-09-28\n   Authors: Hui Guo, Renqiang Zhu, Yuanzhi He 等\n   https://doi.org/10.1063/5.0342984\n3. [IEEE Transactions on Electron Devices] Novel Unipolar Stacked FET (USFET) Architecture Enabled by Tri-Layer Dummy Gate, Quasi-GAA …\n   关键词：FET, GAA, interconnect\n   日期：2026-10-01\n   Authors: Longyu Sun, Fei Zhao, Haoyan Liu 等\n   https://doi.org/10.1109/ted.2026.3721468\n4. [IEEE Electron Device Letters] Monolithic Integration of Mg-Free Trench-Gate MOSFETs and <i>μ</i> LEDs\n   关键词：MOSFET, GaN\n   日期：2026-10-01\n   Authors: Yan Guo, Guokai Wang, Yugang Zhou 等\n   https://doi.org/10.1109/led.2026.3724506\n5. [IEEE Transactions on Electron Devices] 1700-V Enhancement-Mode MIS-HEMTs With Fully Recessed-Gate on 6-in GaN-on-Si Wafer\n   关键词：wafer, GaN\n   日期：2026-10-01\n   Authors: Yun Lei, Qingyuan Zuo, Nan Sun 等\n   https://doi.org/10.1109/ted.2026.3726922\n6. [IEEE Transactions on Electron Devices] Area-Efficient and High-Performance 3T CFET Cells Enabled by an Embedded Interconnect Layer…\n   关键词：CFET, interconnect\n   日期：2026-10-01\n   Authors: Xiangyu Cui, Yang Mi, Ziyue Wang 等\n   https://doi.org/10.1109/ted.2026.3722590\n7. [Applied Physics Letters] Intercalation-assisted remote epitaxy of GaN on epitaxial graphene\n   关键词：epitaxy, GaN\n   日期：2026-09-28\n   Authors: Seung Hoon Lee, Chengye Dong, Ke Wang 等\n   https://doi.org/10.1063/5.0342809\n8. [IEEE Transactions on Electron Devices] Avalanche Failure Mechanism of SiC MOSFETs After Total Ionizing Dose Irradiation\n   关键词：MOSFET, SiC\n   日期：2026-10-01\n   Authors: Zhifan Yang, Shiwei Liang, Lu Mi 等\n   https://doi.org/10.1109/ted.2026.3724512",
   "papers": [
     {
       "source": "IEEE Electron Device Letters",
@@ -240,11 +240,9 @@
       "reading_notes": "Focus: MOSFET、SiC.\nWhat to check: 可靠性与稳定性、功耗或能效表现.\nContext: Avalanche Failure Mechanism of SiC MOSFETs After Total Ionizing Dose Irradiation."
     }
   ],
-  "errors": [
-    "arXiv"
-  ],
+  "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-10-02T00:30:00+00:00"
+  "generated_at": "2026-10-04T00:30:00+00:00"
 }
