@@ -2,7 +2,7 @@
   "ok": true,
   "new_count": 0,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-04）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 5 篇\n1. [IEEE Electron Device Letters] 2.3-kV Vertical GaN Trench MOSFET With Variable Lateral Ion-Implanted Guard Rings\n   关键词：MOSFET, GaN\n   日期：2026-10-01\n   Authors: Shihao Xu, Cui Yang, Wei Mao 等\n   https://doi.org/10.1109/led.2026.3725710\n2. [Applied Physics Letters] Observation of avalanche breakdown characteristics in quasi-vertical GaN-on-Si trench MOSFE…\n   关键词：MOSFET, GaN\n   日期：2026-09-28\n   Authors: Hui Guo, Renqiang Zhu, Yuanzhi He 等\n   https://doi.org/10.1063/5.0342984\n3. [IEEE Transactions on Electron Devices] Novel Unipolar Stacked FET (USFET) Architecture Enabled by Tri-Layer Dummy Gate, Quasi-GAA …\n   关键词：FET, GAA, interconnect\n   日期：2026-10-01\n   Authors: Longyu Sun, Fei Zhao, Haoyan Liu 等\n   https://doi.org/10.1109/ted.2026.3721468\n4. [IEEE Electron Device Letters] Monolithic Integration of Mg-Free Trench-Gate MOSFETs and <i>μ</i> LEDs\n   关键词：MOSFET, GaN\n   日期：2026-10-01\n   Authors: Yan Guo, Guokai Wang, Yugang Zhou 等\n   https://doi.org/10.1109/led.2026.3724506\n5. [IEEE Transactions on Electron Devices] 1700-V Enhancement-Mode MIS-HEMTs With Fully Recessed-Gate on 6-in GaN-on-Si Wafer\n   关键词：wafer, GaN\n   日期：2026-10-01\n   Authors: Yun Lei, Qingyuan Zuo, Nan Sun 等\n   https://doi.org/10.1109/ted.2026.3726922\n6. [IEEE Transactions on Electron Devices] Area-Efficient and High-Performance 3T CFET Cells Enabled by an Embedded Interconnect Layer…\n   关键词：CFET, interconnect\n   日期：2026-10-01\n   Authors: Xiangyu Cui, Yang Mi, Ziyue Wang 等\n   https://doi.org/10.1109/ted.2026.3722590\n7. [Applied Physics Letters] Intercalation-assisted remote epitaxy of GaN on epitaxial graphene\n   关键词：epitaxy, GaN\n   日期：2026-09-28\n   Authors: Seung Hoon Lee, Chengye Dong, Ke Wang 等\n   https://doi.org/10.1063/5.0342809\n8. [IEEE Transactions on Electron Devices] Avalanche Failure Mechanism of SiC MOSFETs After Total Ionizing Dose Irradiation\n   关键词：MOSFET, SiC\n   日期：2026-10-01\n   Authors: Zhifan Yang, Shiwei Liang, Lu Mi 等\n   https://doi.org/10.1109/ted.2026.3724512",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-05）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 5 篇\n1. [IEEE Electron Device Letters] 2.3-kV Vertical GaN Trench MOSFET With Variable Lateral Ion-Implanted Guard Rings\n   关键词：MOSFET, GaN\n   日期：2026-10-01\n   Authors: Shihao Xu, Cui Yang, Wei Mao 等\n   https://doi.org/10.1109/led.2026.3725710\n2. [IEEE Transactions on Electron Devices] Novel Unipolar Stacked FET (USFET) Architecture Enabled by Tri-Layer Dummy Gate, Quasi-GAA …\n   关键词：FET, GAA, interconnect\n   日期：2026-10-01\n   Authors: Longyu Sun, Fei Zhao, Haoyan Liu 等\n   https://doi.org/10.1109/ted.2026.3721468\n3. [IEEE Electron Device Letters] Monolithic Integration of Mg-Free Trench-Gate MOSFETs and <i>μ</i> LEDs\n   关键词：MOSFET, GaN\n   日期：2026-10-01\n   Authors: Yan Guo, Guokai Wang, Yugang Zhou 等\n   https://doi.org/10.1109/led.2026.3724506\n4. [IEEE Transactions on Electron Devices] 1700-V Enhancement-Mode MIS-HEMTs With Fully Recessed-Gate on 6-in GaN-on-Si Wafer\n   关键词：wafer, GaN\n   日期：2026-10-01\n   Authors: Yun Lei, Qingyuan Zuo, Nan Sun 等\n   https://doi.org/10.1109/ted.2026.3726922\n5. [IEEE Transactions on Electron Devices] Area-Efficient and High-Performance 3T CFET Cells Enabled by an Embedded Interconnect Layer…\n   关键词：CFET, interconnect\n   日期：2026-10-01\n   Authors: Xiangyu Cui, Yang Mi, Ziyue Wang 等\n   https://doi.org/10.1109/ted.2026.3722590\n6. [IEEE Transactions on Electron Devices] Avalanche Failure Mechanism of SiC MOSFETs After Total Ionizing Dose Irradiation\n   关键词：MOSFET, SiC\n   日期：2026-10-01\n   Authors: Zhifan Yang, Shiwei Liang, Lu Mi 等\n   https://doi.org/10.1109/ted.2026.3724512\n7. [IEEE Electron Device Letters] Achieving 0.82-dB <i> NF <sub>min</sub> </i> in High-Drain-Bias GaN HEMTs via Buffer and Fi…\n   关键词：GaN\n   日期：2026-10-01\n   Authors: Wenbo Ye, Ziyang Wang, Haowei Zhang 等\n   https://doi.org/10.1109/led.2026.3719413\n8. [IEEE Electron Device Letters] All-GaN Monolithic 2T1C- <i>μ</i> LED Pixel With MHz Optical Modulation for High-Refresh-Ra…\n   关键词：GaN\n   日期：2026-10-01\n   Authors: Ran Zhang, Hongping Liu, Yuefei Cai\n   https://doi.org/10.1109/led.2026.3718731\n注：以下源本次抓取失败：arXiv",
   "papers": [
     {
       "source": "IEEE Electron Device Letters",
@@ -41,32 +41,6 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、GaN方向，围绕“2.3-kV Vertical GaN Trench MOSFET With Variable Lateral Ion-Implanted Guard Rin…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: MOSFET、GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: 2.3-kV Vertical GaN Trench MOSFET With Variable Lateral Ion-Implanted Guard Rings.",
       "reading_notes": "Focus: MOSFET、GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: 2.3-kV Vertical GaN Trench MOSFET With Variable Lateral Ion-Implanted Guard Rings."
-    },
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0342984",
-      "title": "Observation of avalanche breakdown characteristics in quasi-vertical GaN-on-Si trench MOSFETs",
-      "url": "https://doi.org/10.1063/5.0342984",
-      "published": "2026-09-28",
-      "authors": [
-        "Hui Guo",
-        "Renqiang Zhu",
-        "Yuanzhi He",
-        "Jialun Li",
-        "Xuancong Fan",
-        "Kei May Lau"
-      ],
-      "summary": "We report avalanche breakdown characteristics of normally off quasi-vertical GaN-on-Si trench MOSFETs. Initially, the avalanche breakdown of p–n diode with low-damage mesa etching on the n+-p-n−-n+ grown epitaxial structure was confirmed by positive temperature coefficient and uniform GaN band edge emission around mesa edge-side. For trench MOSFETs, an improved trench profile and an ethylene octene copolymer thick bottom dielectric structure enable an improved electric field distribution. As a result, our quasi-vertical trench MOSFETs exhibit an avalanche breakdown voltage of 525 V and a positive temperature coefficient of 0.47 V/°C, in association with excellent on-state performance. In addition, temperature-dependent off-state characteristics of the trench MOSFETs are also analyzed in detail.",
-      "score": 15,
-      "priority": 3,
-      "highlights": [
-        "MOSFET",
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、GaN方向，围绕“Observation of avalanche breakdown characteristics in quasi-vertical GaN-on-Si …”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、GaN方向，围绕“Observation of avalanche breakdown characteristics in quasi-vertical GaN-on-Si …”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: MOSFET、GaN.\nWhat to check: 性能提升、效率/耦合表现.\nContext: Observation of avalanche breakdown characteristics in quasi-vertical GaN-on-Si trench MOSFETs.",
-      "reading_notes": "Focus: MOSFET、GaN.\nWhat to check: 性能提升、效率/耦合表现.\nContext: Observation of avalanche breakdown characteristics in quasi-vertical GaN-on-Si trench MOSFETs."
     },
     {
       "source": "IEEE Transactions on Electron Devices",
@@ -187,32 +161,6 @@
       "reading_notes": "Focus: CFET、互连.\nWhat to check: 性能提升、先进尺度下的可扩展性、接触/互连相关指标.\nContext: Area-Efficient and High-Performance 3T CFET Cells Enabled by an Embedded Interconnect Layer (EI…."
     },
     {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0342809",
-      "title": "Intercalation-assisted remote epitaxy of GaN on epitaxial graphene",
-      "url": "https://doi.org/10.1063/5.0342809",
-      "published": "2026-09-28",
-      "authors": [
-        "Seung Hoon Lee",
-        "Chengye Dong",
-        "Ke Wang",
-        "Brian M. Bersch",
-        "Joshua A. Robinson",
-        "Joan M. Redwing"
-      ],
-      "summary": "Metalorganic chemical vapor deposition (MOCVD) of GaN on pristine epitaxial graphene formed on SiC is hindered by the low energy van der Waals surface, which suppresses nucleation and promotes island growth. Here, we demonstrate an intercalation-assisted approach to modify the graphene/SiC interface and influence GaN nucleation behavior via a remote epitaxy process. Using a pulsed MOCVD technique, a ∼4 nm GaN interlayer was first intercalated beneath the epitaxial graphene followed by subsequent epitaxial growth of the GaN film. Intercalation promotes a high nucleation density, enabling the growth of a coalesced 1.5 μm-thick epitaxial GaN film with step-flow morphology. Cross-sectional scanning transmission electron microscopy reveals atomic alignment between the GaN epilayer and the intercalated GaN across the graphene interlayer, maintaining epitaxial registry. The weak interfacial bonding enables mechanical exfoliation of the GaN film to form a thin, freestanding membrane. These results demonstrate that intercalation can provide an alternative pathway to engineer the graphene/substrate interface to facilitate remote epitaxy without the need for graphene layer transfer.",
-      "score": 14,
-      "priority": 2,
-      "highlights": [
-        "epitaxy",
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注epitaxy、GaN方向，围绕“Intercalation-assisted remote epitaxy of GaN on epitaxial graphene”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注epitaxy、GaN方向，围绕“Intercalation-assisted remote epitaxy of GaN on epitaxial graphene”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: epitaxy、GaN.\nWhat to check: 功耗或能效表现.\nContext: Intercalation-assisted remote epitaxy of GaN on epitaxial graphene.",
-      "reading_notes": "Focus: epitaxy、GaN.\nWhat to check: 功耗或能效表现.\nContext: Intercalation-assisted remote epitaxy of GaN on epitaxial graphene."
-    },
-    {
       "source": "IEEE Transactions on Electron Devices",
       "uid": "doi:10.1109/ted.2026.3724512",
       "title": "Avalanche Failure Mechanism of SiC MOSFETs After Total Ionizing Dose Irradiation",
@@ -238,11 +186,59 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、SiC方向，围绕“Avalanche Failure Mechanism of SiC MOSFETs After Total Ionizing Dose Irradiation”展开。摘要显示，文章重点涉及机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: MOSFET、SiC.\nWhat to check: 可靠性与稳定性、功耗或能效表现.\nContext: Avalanche Failure Mechanism of SiC MOSFETs After Total Ionizing Dose Irradiation.",
       "reading_notes": "Focus: MOSFET、SiC.\nWhat to check: 可靠性与稳定性、功耗或能效表现.\nContext: Avalanche Failure Mechanism of SiC MOSFETs After Total Ionizing Dose Irradiation."
+    },
+    {
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3719413",
+      "title": "Achieving 0.82-dB <i> NF <sub>min</sub> </i> in High-Drain-Bias GaN HEMTs via Buffer and Field-Plate Engineering for High-Linearity LNA Applications",
+      "url": "https://doi.org/10.1109/led.2026.3719413",
+      "published": "2026-10-01",
+      "authors": [
+        "Wenbo Ye",
+        "Ziyang Wang",
+        "Haowei Zhang",
+        "Haolan Qu",
+        "Xinbo Zou"
+      ],
+      "summary": "In this letter, minimum noise figure ( NF ${}_{\\text{min} }$ ) of GaN high-electron-mobility transistors (HEMTs) under high-drain bias ( $\\textit{V}_{\\text {DS}} \\gt \\text{20}$ V) is investigated and optimized for high-linearity low noise amplifier (LNA) applications. By employing a $\\text{1}~\\mu $ m Fe-doped GaN buffer and a non-overlapping source field plate (SFP), the device achieves a NF min of 0.82 dB at 3 GHz and a $\\textit{V}_{\\text {DS}}$ of 24 V, while delivering an associated gain ( $\\textit{G}_{\\text {a}}$ ) of 16.61 dB and an output third-order intercept point (OIP3) of 31.8 dBm. Experimental comparison and a physics-based noise model identify the sharp increase in gate leakage current ( $\\textit{I}_{\\text {G}}$ ) as the dominant cause of NF min degradation under high $\\textit{V}_{\\text {DS}}$ , and confirm its suppression using $\\text{1}~\\mu $ m Fe-doped buffer scheme. Moreover, a non-overlapping SFP suppresses the device’s thermal noise by lowering the intrinsic resistances ( $\\textit{R}_{\\text {i}}$ , $\\textit{R}_{\\text {gd}}$ ). This work provides a novel design optimization strategy for high-bias, low-noise GaN HEMTs tailored for high-linearity LNA applications.",
+      "score": 11,
+      "priority": 2,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Achieving 0.82-dB <i> NF <sub>min</sub> </i> in High-Drain-Bias GaN HEMTs via B…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Achieving 0.82-dB <i> NF <sub>min</sub> </i> in High-Drain-Bias GaN HEMTs via B…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 接触/互连相关指标.\nContext: Achieving 0.82-dB <i> NF <sub>min</sub> </i> in High-Drain-Bias GaN HEMTs via Buffer and Field-….",
+      "reading_notes": "Focus: GaN.\nWhat to check: 接触/互连相关指标.\nContext: Achieving 0.82-dB <i> NF <sub>min</sub> </i> in High-Drain-Bias GaN HEMTs via Buffer and Field-…."
+    },
+    {
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3718731",
+      "title": "All-GaN Monolithic 2T1C- <i>μ</i> LED Pixel With MHz Optical Modulation for High-Refresh-Rate Microdisplays",
+      "url": "https://doi.org/10.1109/led.2026.3718731",
+      "published": "2026-10-01",
+      "authors": [
+        "Ran Zhang",
+        "Hongping Liu",
+        "Yuefei Cai"
+      ],
+      "summary": "High-refresh-rate active-matrix microdisplays are essential components for many high-end applications, such as augmented reality (AR) displays. In this work, an all-GaN monolithic active micro-light-emitting diode ( $\\mu $ LED) pixel with optical modulation up to 2 MHz is demonstrated. The pixel consists of one $20~\\mu $ m-diameter $\\mu $ LED, two depletion-mode GaN high-electron-mobility transistors (HEMTs), and one metal-insulator-metal (MIM) storage capacitor (2T1C), with a total footprint of $60~\\mu $ m $\\times 60~\\mu $ m. The GaN-based 2T1C-driven circuit is integrated monolithically with $\\mu $ LEDs formed via selective-area growth (SAG) without sidewall etching. Static performance of the 2T1C- $\\mu $ LED circuit has been tested under different ${V}_{\\text {Data}}$ conditions. Transient measurements show its capability for “write-on, hold-on, write-off, and hold-off” operation, with both electrical and optical modulation up to 2 MHz, indicating great potential for high-end AR microdisplays.",
+      "score": 11,
+      "priority": 2,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“All-GaN Monolithic 2T1C- <i>μ</i> LED Pixel With MHz Optical Modulation for Hig…”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“All-GaN Monolithic 2T1C- <i>μ</i> LED Pixel With MHz Optical Modulation for Hig…”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现.\nContext: All-GaN Monolithic 2T1C- <i>μ</i> LED Pixel With MHz Optical Modulation for High-Refresh-Rate M….",
+      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现.\nContext: All-GaN Monolithic 2T1C- <i>μ</i> LED Pixel With MHz Optical Modulation for High-Refresh-Rate M…."
     }
   ],
-  "errors": [],
+  "errors": [
+    "arXiv"
+  ],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-10-04T00:30:00+00:00"
+  "generated_at": "2026-10-05T00:30:00+00:00"
 }
