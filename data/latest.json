@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 0,
+  "new_count": 3,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-05）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 5 篇\n1. [IEEE Electron Device Letters] 2.3-kV Vertical GaN Trench MOSFET With Variable Lateral Ion-Implanted Guard Rings\n   关键词：MOSFET, GaN\n   日期：2026-10-01\n   Authors: Shihao Xu, Cui Yang, Wei Mao 等\n   https://doi.org/10.1109/led.2026.3725710\n2. [IEEE Transactions on Electron Devices] Novel Unipolar Stacked FET (USFET) Architecture Enabled by Tri-Layer Dummy Gate, Quasi-GAA …\n   关键词：FET, GAA, interconnect\n   日期：2026-10-01\n   Authors: Longyu Sun, Fei Zhao, Haoyan Liu 等\n   https://doi.org/10.1109/ted.2026.3721468\n3. [IEEE Electron Device Letters] Monolithic Integration of Mg-Free Trench-Gate MOSFETs and <i>μ</i> LEDs\n   关键词：MOSFET, GaN\n   日期：2026-10-01\n   Authors: Yan Guo, Guokai Wang, Yugang Zhou 等\n   https://doi.org/10.1109/led.2026.3724506\n4. [IEEE Transactions on Electron Devices] 1700-V Enhancement-Mode MIS-HEMTs With Fully Recessed-Gate on 6-in GaN-on-Si Wafer\n   关键词：wafer, GaN\n   日期：2026-10-01\n   Authors: Yun Lei, Qingyuan Zuo, Nan Sun 等\n   https://doi.org/10.1109/ted.2026.3726922\n5. [IEEE Transactions on Electron Devices] Area-Efficient and High-Performance 3T CFET Cells Enabled by an Embedded Interconnect Layer…\n   关键词：CFET, interconnect\n   日期：2026-10-01\n   Authors: Xiangyu Cui, Yang Mi, Ziyue Wang 等\n   https://doi.org/10.1109/ted.2026.3722590\n6. [IEEE Transactions on Electron Devices] Avalanche Failure Mechanism of SiC MOSFETs After Total Ionizing Dose Irradiation\n   关键词：MOSFET, SiC\n   日期：2026-10-01\n   Authors: Zhifan Yang, Shiwei Liang, Lu Mi 等\n   https://doi.org/10.1109/ted.2026.3724512\n7. [IEEE Electron Device Letters] Achieving 0.82-dB <i> NF <sub>min</sub> </i> in High-Drain-Bias GaN HEMTs via Buffer and Fi…\n   关键词：GaN\n   日期：2026-10-01\n   Authors: Wenbo Ye, Ziyang Wang, Haowei Zhang 等\n   https://doi.org/10.1109/led.2026.3719413\n8. [IEEE Electron Device Letters] All-GaN Monolithic 2T1C- <i>μ</i> LED Pixel With MHz Optical Modulation for High-Refresh-Ra…\n   关键词：GaN\n   日期：2026-10-01\n   Authors: Ran Zhang, Hongping Liu, Yuefei Cai\n   https://doi.org/10.1109/led.2026.3718731\n注：以下源本次抓取失败：arXiv",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-06）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 3 篇；Intel/TSMC 重点 0 篇；GaN 关键词 1 篇\n1. [Applied Physics Letters] Overcoming the mobility–reliability trade-off in BEOL-compatible In2O3-based FETs through s…\n   关键词：GaN\n   日期：2026-10-05\n   Authors: Huangbai Liu, Yan Le, Gan Liu 等\n   https://doi.org/10.1063/5.0345552\n2. [Applied Physics Letters] Multi-gate organic dendritic transistors for spatiotemporal BCM learning\n   关键词：transistor\n   日期：2026-10-05\n   Authors: Ying Li, Chenxing Jin, Wanrong Liu 等\n   https://doi.org/10.1063/5.0324733\n3. [Applied Physics Letters] Correlating biaxial stress to metastable phases in Hf0.5Zr0.5O2 on substrates with differen…\n   日期：2026-10-05\n   Authors: Nooreen T. Qureshi, Malihe Ferasat, Luke Johnson 等\n   https://doi.org/10.1063/5.0354327",
   "papers": [
     {
       "source": "IEEE Electron Device Letters",
@@ -234,11 +234,9 @@
       "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现.\nContext: All-GaN Monolithic 2T1C- <i>μ</i> LED Pixel With MHz Optical Modulation for High-Refresh-Rate M…."
     }
   ],
-  "errors": [
-    "arXiv"
-  ],
+  "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-10-05T00:30:00+00:00"
+  "generated_at": "2026-10-06T00:30:00+00:00"
 }
