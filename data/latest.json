@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 3,
+  "new_count": 8,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-06）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 3 篇；Intel/TSMC 重点 0 篇；GaN 关键词 1 篇\n1. [Applied Physics Letters] Overcoming the mobility–reliability trade-off in BEOL-compatible In2O3-based FETs through s…\n   关键词：GaN\n   日期：2026-10-05\n   Authors: Huangbai Liu, Yan Le, Gan Liu 等\n   https://doi.org/10.1063/5.0345552\n2. [Applied Physics Letters] Multi-gate organic dendritic transistors for spatiotemporal BCM learning\n   关键词：transistor\n   日期：2026-10-05\n   Authors: Ying Li, Chenxing Jin, Wanrong Liu 等\n   https://doi.org/10.1063/5.0324733\n3. [Applied Physics Letters] Correlating biaxial stress to metastable phases in Hf0.5Zr0.5O2 on substrates with differen…\n   日期：2026-10-05\n   Authors: Nooreen T. Qureshi, Malihe Ferasat, Luke Johnson 等\n   https://doi.org/10.1063/5.0354327",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-07）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 1 篇\n1. [Applied Physics Letters] High BFOM and threshold voltage stability in E-mode GaN HEMTs by using p-graded AlGaN cap l…\n   关键词：GaN\n   日期：2026-10-05\n   Authors: Bowen Yang, Xiaohui Ma, Bin Hou 等\n   https://doi.org/10.1063/5.0345042\n2. [Applied Physics Letters] Fabrication and performance analysis of a collagen-integrated IGZO thin-film transistor for…\n   关键词：transistor\n   日期：2026-10-05\n   Authors: Denice N. Feria, Jun-Hong Lin, Jan-Tian Lian 等\n   https://doi.org/10.1063/5.0348601\n3. [Applied Physics Letters] Proton radiation effects on hydrogen-terminated diamond field-effect transistors\n   关键词：transistor\n   日期：2026-10-05\n   Authors: Yang Liu, Xing Li, Weili Fu 等\n   https://doi.org/10.1063/5.0353883\n4. [Applied Physics Letters] Thickness-driven evolution of optical transitions and dielectric function in few-layer MoS2\n   关键词：dielectric\n   日期：2026-10-05\n   Authors: Premlata Yadav, Budhi Singh, Chandrabhan Dohare 等\n   https://doi.org/10.1063/5.0354897\n5. [Applied Physics Letters] Temperature and strain effects on polarization switching in HfO2 ferroelectrics based on fi…\n   关键词：HfO2\n   日期：2026-10-05\n   Authors: Pengjia Jiang, Xinpeng Mu, Jia Ma 等\n   https://doi.org/10.1063/5.0345141\n6. [Applied Physics Letters] Heteroepitaxy of 2D MoO2 single crystals on A-plane sapphires for in-sensor edge computing\n   日期：2026-10-05\n   Authors: Xuyan Zhang, Zixiang Mao, Ruxia Du 等\n   https://doi.org/10.1063/5.0354447\n7. [arXiv] Site-Specific Orbital Symmetry Breaking in Epitaxial Graphene on Silicon Carbide\n   日期：2026-10-04\n   Authors: Vinod K. Paidi, Yves Joly, Alex Taekyung Lee 等\n   https://arxiv.org/abs/2610.04760v1\n8. [arXiv] Micromagnet engineering for enhanced addressability of donor-cluster arrays in silicon\n   日期：2026-10-03\n   Authors: Hao Wang, Baolong Zhao, Shihang Zhang 等\n   https://arxiv.org/abs/2610.04584v1",
   "papers": [
     {
       "source": "IEEE Electron Device Letters",
@@ -161,6 +161,34 @@
       "reading_notes": "Focus: CFET、互连.\nWhat to check: 性能提升、先进尺度下的可扩展性、接触/互连相关指标.\nContext: Area-Efficient and High-Performance 3T CFET Cells Enabled by an Embedded Interconnect Layer (EI…."
     },
     {
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0345042",
+      "title": "High BFOM and threshold voltage stability in E-mode GaN HEMTs by using p-graded AlGaN cap layer",
+      "url": "https://doi.org/10.1063/5.0345042",
+      "published": "2026-10-05",
+      "authors": [
+        "Bowen Yang",
+        "Xiaohui Ma",
+        "Bin Hou",
+        "Mao Jia",
+        "Zhiqiang Xue",
+        "Qian Xiao",
+        "Ling Yang",
+        "Xiaohua Ma",
+        "Yue Hao"
+      ],
+      "summary": "In this work, a high-performance E-mode Au free GaN high electron mobility transistor (HEMT) on Si featuring a p-graded-AlGaN cap layer is proposed. The device exploits the built-in polarization field induced by the graded-AlGaN cap layer and its superior interface quality to effectively mitigate gate-edge electric field crowding. With a gate-drain spacing (LGD) of 16 μm, the HEMT achieves a high breakdown voltage (VBR) of 1530 V (defined at ID = 10 μA/mm) and a low specific on-resistance (RON,sp) of 2.91 mΩ cm2, yielding a Baliga's figure of merit of 8.02 MW/mm2. This performance places the device among the highest values reported for conventional p-GaN gate HEMTs. Most importantly, the device exhibits exceptional threshold voltage (VTH) stability, with a minimal shift of 0.11 V at 175 °C and only 0.1 V drift under +7 V gate stress for 2000 s. This work validates an effective polarization-engineering strategy for developing high-breakdown, highly reliable GaN power devices for high-voltage applications.",
+      "score": 11,
+      "priority": 2,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“High BFOM and threshold voltage stability in E-mode GaN HEMTs by using p-graded…”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看性能提升、可靠性与稳定性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“High BFOM and threshold voltage stability in E-mode GaN HEMTs by using p-graded…”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看性能提升、可靠性与稳定性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性、接触/互连相关指标.\nContext: High BFOM and threshold voltage stability in E-mode GaN HEMTs by using p-graded AlGaN cap layer.",
+      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性、接触/互连相关指标.\nContext: High BFOM and threshold voltage stability in E-mode GaN HEMTs by using p-graded AlGaN cap layer."
+    },
+    {
       "source": "IEEE Transactions on Electron Devices",
       "uid": "doi:10.1109/ted.2026.3724512",
       "title": "Avalanche Failure Mechanism of SiC MOSFETs After Total Ionizing Dose Irradiation",
@@ -210,33 +238,11 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Achieving 0.82-dB <i> NF <sub>min</sub> </i> in High-Drain-Bias GaN HEMTs via B…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: GaN.\nWhat to check: 接触/互连相关指标.\nContext: Achieving 0.82-dB <i> NF <sub>min</sub> </i> in High-Drain-Bias GaN HEMTs via Buffer and Field-….",
       "reading_notes": "Focus: GaN.\nWhat to check: 接触/互连相关指标.\nContext: Achieving 0.82-dB <i> NF <sub>min</sub> </i> in High-Drain-Bias GaN HEMTs via Buffer and Field-…."
-    },
-    {
-      "source": "IEEE Electron Device Letters",
-      "uid": "doi:10.1109/led.2026.3718731",
-      "title": "All-GaN Monolithic 2T1C- <i>μ</i> LED Pixel With MHz Optical Modulation for High-Refresh-Rate Microdisplays",
-      "url": "https://doi.org/10.1109/led.2026.3718731",
-      "published": "2026-10-01",
-      "authors": [
-        "Ran Zhang",
-        "Hongping Liu",
-        "Yuefei Cai"
-      ],
-      "summary": "High-refresh-rate active-matrix microdisplays are essential components for many high-end applications, such as augmented reality (AR) displays. In this work, an all-GaN monolithic active micro-light-emitting diode ( $\\mu $ LED) pixel with optical modulation up to 2 MHz is demonstrated. The pixel consists of one $20~\\mu $ m-diameter $\\mu $ LED, two depletion-mode GaN high-electron-mobility transistors (HEMTs), and one metal-insulator-metal (MIM) storage capacitor (2T1C), with a total footprint of $60~\\mu $ m $\\times 60~\\mu $ m. The GaN-based 2T1C-driven circuit is integrated monolithically with $\\mu $ LEDs formed via selective-area growth (SAG) without sidewall etching. Static performance of the 2T1C- $\\mu $ LED circuit has been tested under different ${V}_{\\text {Data}}$ conditions. Transient measurements show its capability for “write-on, hold-on, write-off, and hold-off” operation, with both electrical and optical modulation up to 2 MHz, indicating great potential for high-end AR microdisplays.",
-      "score": 11,
-      "priority": 2,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“All-GaN Monolithic 2T1C- <i>μ</i> LED Pixel With MHz Optical Modulation for Hig…”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“All-GaN Monolithic 2T1C- <i>μ</i> LED Pixel With MHz Optical Modulation for Hig…”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现.\nContext: All-GaN Monolithic 2T1C- <i>μ</i> LED Pixel With MHz Optical Modulation for High-Refresh-Rate M….",
-      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现.\nContext: All-GaN Monolithic 2T1C- <i>μ</i> LED Pixel With MHz Optical Modulation for High-Refresh-Rate M…."
     }
   ],
   "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-10-06T00:30:00+00:00"
+  "generated_at": "2026-10-07T00:30:00+00:00"
 }
