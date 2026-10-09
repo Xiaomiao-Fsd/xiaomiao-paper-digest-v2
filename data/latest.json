@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 8,
+  "new_count": 2,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-08）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 3 篇\n1. [Science Advances] Wafer-scale synthesis of WSe <sub>2</sub> for high-performance p-type top-gated transistors…\n   关键词：transistor, wafer\n   日期：2026-10-09\n   Authors: Jonggyu Choi, Hayoung Kim, Seungsoo Kim 等\n   https://doi.org/10.1126/sciadv.aef4354\n2. [Applied Physics Letters] Role of polarity in the growth of cubic GaN within silicon inverted pyramids\n   关键词：GaN\n   日期：2026-10-05\n   Authors: David Lister, Melissa Radford, Sara Fortin 等\n   https://doi.org/10.1063/5.0350898\n3. [arXiv] Determination of Burgers-vector directions of threading edge dislocations in GaN by phase-c…\n   关键词：GaN\n   日期：2026-10-06\n   Authors: Yukari Ishikawa, Maki Shimizu, Koji Sato 等\n   https://arxiv.org/abs/2610.07837v1\n4. [arXiv] Contact-Governed Macroscopic Signatures of Strain-Induced Valley Sorting in MoS$_2$ Field-E…\n   关键词：transistor\n   日期：2026-10-06\n   Authors: Suhas Suresh Bharadwaj\n   https://arxiv.org/abs/2610.07203v1\n5. [arXiv] 2d-fet-bench: from spatial reasoning to fet design on flakes\n   关键词：FET\n   日期：2026-10-06\n   Authors: Dunzhi Zhou, Chengyu Zhu, Gang Qiu 等\n   https://arxiv.org/abs/2610.07423v1\n6. [arXiv] A self-learning scientific agent for X-ray diffraction\n   关键词：GaN\n   日期：2026-10-06\n   Authors: Bin Cao, Huichi Zhou, Runyu Yang 等\n   https://arxiv.org/abs/2610.07862v1\n7. [Applied Physics Letters] Competing self-trapped hole release and deep-level defect recombination in Ga2O3 photodetec…\n   日期：2026-10-05\n   Authors: Shuaihang Xu, Qingxuan Sun, Jiahao Liao 等\n   https://doi.org/10.1063/5.0349846\n8. [Applied Physics Letters] Orientation-dependent interface-state properties underlying the “V”-shaped difference in te…\n   日期：2026-10-05\n   Authors: Yitong Yang, Danning Tang, Yuan Li 等\n   https://doi.org/10.1063/5.0344720",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-09）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 2 篇；Intel/TSMC 重点 0 篇；GaN 关键词 0 篇\n1. [Physical Review Letters] Bulk photovoltaics for multiparameter sensing in a single micrometer-scale ferroelectric se…\n   关键词：semiconductor, ferroelectric\n   日期：2026-10-08\n   Authors: Anonymous\n   https://doi.org/10.1103/pmld-l9gm\n2. [arXiv] Interface Doping Mechanism of p-Type Conductivity in Mist-CVD-Grown LiGa5O8 Thin Films\n   日期：2026-10-08\n   Authors: Dong Su Yu, Shashu Tomar, Zixiu Huang 等\n   https://arxiv.org/abs/2610.10401v1",
   "papers": [
     {
       "source": "Science Advances",
@@ -216,5 +216,5 @@
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-10-08T00:30:00+00:00"
+  "generated_at": "2026-10-09T00:30:00+00:00"
 }
