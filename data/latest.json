@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 2,
+  "new_count": 3,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-09）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 2 篇；Intel/TSMC 重点 0 篇；GaN 关键词 0 篇\n1. [Physical Review Letters] Bulk photovoltaics for multiparameter sensing in a single micrometer-scale ferroelectric se…\n   关键词：semiconductor, ferroelectric\n   日期：2026-10-08\n   Authors: Anonymous\n   https://doi.org/10.1103/pmld-l9gm\n2. [arXiv] Interface Doping Mechanism of p-Type Conductivity in Mist-CVD-Grown LiGa5O8 Thin Films\n   日期：2026-10-08\n   Authors: Dong Su Yu, Shashu Tomar, Zixiu Huang 等\n   https://arxiv.org/abs/2610.10401v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-10）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 3 篇；Intel/TSMC 重点 0 篇；GaN 关键词 2 篇\n1. [Science Advances] Hydration channel engineering in Tröger’s base-POP membranes for mono/multivalent cation an…\n   关键词：GaN\n   日期：2026-10-09\n   Authors: Haopan Sun, Ning Gan, Baolong Wu 等\n   https://doi.org/10.1126/sciadv.aef9368\n2. [arXiv] Localization of Candidate Kikuchi Regions in RHEED Images: Visibility and Annotation Bounda…\n   关键词：GaN\n   日期：2026-10-08\n   Authors: Lumou Weng, Hanshan Huang, Zhenhan Zhang 等\n   https://arxiv.org/abs/2610.11232v1\n3. [arXiv] Band Tail States: Speed Bump or End of the Road for Two-Dimensional Semiconductors?\n   关键词：semiconductor\n   日期：2026-10-08\n   Authors: Zherui Han, Robert K. A. Bennett, Davide Donadio 等\n   https://arxiv.org/abs/2610.10953v1",
   "papers": [
     {
       "source": "Science Advances",
@@ -216,5 +216,5 @@
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-10-09T00:30:00+00:00"
+  "generated_at": "2026-10-10T00:30:00+00:00"
 }
