@@ -2,7 +2,7 @@
   "ok": true,
   "new_count": 0,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-11）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 3 篇\n1. [Science Advances] Wafer-scale synthesis of WSe <sub>2</sub> for high-performance p-type top-gated transistors…\n   关键词：transistor, wafer\n   日期：2026-10-09\n   Authors: Jonggyu Choi, Hayoung Kim, Seungsoo Kim 等\n   https://doi.org/10.1126/sciadv.aef4354\n2. [Applied Physics Letters] High BFOM and threshold voltage stability in E-mode GaN HEMTs by using p-graded AlGaN cap l…\n   关键词：GaN\n   日期：2026-10-05\n   Authors: Bowen Yang, Xiaohui Ma, Bin Hou 等\n   https://doi.org/10.1063/5.0345042\n3. [Applied Physics Letters] Role of polarity in the growth of cubic GaN within silicon inverted pyramids\n   关键词：GaN\n   日期：2026-10-05\n   Authors: David Lister, Melissa Radford, Sara Fortin 等\n   https://doi.org/10.1063/5.0350898\n4. [arXiv] Determination of Burgers-vector directions of threading edge dislocations in GaN by phase-c…\n   关键词：GaN\n   日期：2026-10-06\n   Authors: Yukari Ishikawa, Maki Shimizu, Koji Sato 等\n   https://arxiv.org/abs/2610.07837v1\n5. [Applied Physics Letters] Fabrication and performance analysis of a collagen-integrated IGZO thin-film transistor for…\n   关键词：transistor\n   日期：2026-10-05\n   Authors: Denice N. Feria, Jun-Hong Lin, Jan-Tian Lian 等\n   https://doi.org/10.1063/5.0348601\n6. [arXiv] Contact-Governed Macroscopic Signatures of Strain-Induced Valley Sorting in MoS$_2$ Field-E…\n   关键词：transistor\n   日期：2026-10-06\n   Authors: Suhas Suresh Bharadwaj\n   https://arxiv.org/abs/2610.07203v1\n7. [Applied Physics Letters] Multi-gate organic dendritic transistors for spatiotemporal BCM learning\n   关键词：transistor\n   日期：2026-10-05\n   Authors: Ying Li, Chenxing Jin, Wanrong Liu 等\n   https://doi.org/10.1063/5.0324733\n8. [Applied Physics Letters] Proton radiation effects on hydrogen-terminated diamond field-effect transistors\n   关键词：transistor\n   日期：2026-10-05\n   Authors: Yang Liu, Xing Li, Weili Fu 等\n   https://doi.org/10.1063/5.0353883",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-12）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 4 篇\n1. [Science Advances] Wafer-scale synthesis of WSe <sub>2</sub> for high-performance p-type top-gated transistors…\n   关键词：transistor, wafer\n   日期：2026-10-09\n   Authors: Jonggyu Choi, Hayoung Kim, Seungsoo Kim 等\n   https://doi.org/10.1126/sciadv.aef4354\n2. [arXiv] Determination of Burgers-vector directions of threading edge dislocations in GaN by phase-c…\n   关键词：GaN\n   日期：2026-10-06\n   Authors: Yukari Ishikawa, Maki Shimizu, Koji Sato 等\n   https://arxiv.org/abs/2610.07837v1\n3. [arXiv] Contact-Governed Macroscopic Signatures of Strain-Induced Valley Sorting in MoS$_2$ Field-E…\n   关键词：transistor\n   日期：2026-10-06\n   Authors: Suhas Suresh Bharadwaj\n   https://arxiv.org/abs/2610.07203v1\n4. [arXiv] 2d-fet-bench: from spatial reasoning to fet design on flakes\n   关键词：FET\n   日期：2026-10-06\n   Authors: Dunzhi Zhou, Chengyu Zhu, Gang Qiu 等\n   https://arxiv.org/abs/2610.07423v1\n5. [Science Advances] Hydration channel engineering in Tröger’s base-POP membranes for mono/multivalent cation an…\n   关键词：GaN\n   日期：2026-10-09\n   Authors: Haopan Sun, Ning Gan, Baolong Wu 等\n   https://doi.org/10.1126/sciadv.aef9368\n6. [arXiv] Localization of Candidate Kikuchi Regions in RHEED Images: Visibility and Annotation Bounda…\n   关键词：GaN\n   日期：2026-10-08\n   Authors: Lumou Weng, Hanshan Huang, Zhenhan Zhang 等\n   https://arxiv.org/abs/2610.11232v1\n7. [arXiv] A self-learning scientific agent for X-ray diffraction\n   关键词：GaN\n   日期：2026-10-06\n   Authors: Bin Cao, Huichi Zhou, Runyu Yang 等\n   https://arxiv.org/abs/2610.07862v1\n8. [arXiv] Band Tail States: Speed Bump or End of the Road for Two-Dimensional Semiconductors?\n   关键词：semiconductor\n   日期：2026-10-08\n   Authors: Zherui Han, Robert K. A. Bennett, Davide Donadio 等\n   https://arxiv.org/abs/2610.10953v1",
   "papers": [
     {
       "source": "Science Advances",
@@ -34,60 +34,6 @@
       "reading_notes": "Focus: 晶体管、wafer.\nWhat to check: 性能提升、可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Wafer-scale synthesis of WSe <sub>2</sub> for high-performance p-type top-gated transistors and…."
     },
     {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0345042",
-      "title": "High BFOM and threshold voltage stability in E-mode GaN HEMTs by using p-graded AlGaN cap layer",
-      "url": "https://doi.org/10.1063/5.0345042",
-      "published": "2026-10-05",
-      "authors": [
-        "Bowen Yang",
-        "Xiaohui Ma",
-        "Bin Hou",
-        "Mao Jia",
-        "Zhiqiang Xue",
-        "Qian Xiao",
-        "Ling Yang",
-        "Xiaohua Ma",
-        "Yue Hao"
-      ],
-      "summary": "In this work, a high-performance E-mode Au free GaN high electron mobility transistor (HEMT) on Si featuring a p-graded-AlGaN cap layer is proposed. The device exploits the built-in polarization field induced by the graded-AlGaN cap layer and its superior interface quality to effectively mitigate gate-edge electric field crowding. With a gate-drain spacing (LGD) of 16 μm, the HEMT achieves a high breakdown voltage (VBR) of 1530 V (defined at ID = 10 μA/mm) and a low specific on-resistance (RON,sp) of 2.91 mΩ cm2, yielding a Baliga's figure of merit of 8.02 MW/mm2. This performance places the device among the highest values reported for conventional p-GaN gate HEMTs. Most importantly, the device exhibits exceptional threshold voltage (VTH) stability, with a minimal shift of 0.11 V at 175 °C and only 0.1 V drift under +7 V gate stress for 2000 s. This work validates an effective polarization-engineering strategy for developing high-breakdown, highly reliable GaN power devices for high-voltage applications.",
-      "score": 11,
-      "priority": 2,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“High BFOM and threshold voltage stability in E-mode GaN HEMTs by using p-graded…”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看性能提升、可靠性与稳定性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“High BFOM and threshold voltage stability in E-mode GaN HEMTs by using p-graded…”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看性能提升、可靠性与稳定性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性、接触/互连相关指标.\nContext: High BFOM and threshold voltage stability in E-mode GaN HEMTs by using p-graded AlGaN cap layer.",
-      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性、接触/互连相关指标.\nContext: High BFOM and threshold voltage stability in E-mode GaN HEMTs by using p-graded AlGaN cap layer."
-    },
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0350898",
-      "title": "Role of polarity in the growth of cubic GaN within silicon inverted pyramids",
-      "url": "https://doi.org/10.1063/5.0350898",
-      "published": "2026-10-05",
-      "authors": [
-        "David Lister",
-        "Melissa Radford",
-        "Sara Fortin",
-        "Bilal Janjua",
-        "Mohsen Asad",
-        "Karen L. Kavanagh",
-        "Simon P. Watkins"
-      ],
-      "summary": "A lack of spontaneous internal polarization makes cubic GaN (c-GaN) a well-suited material for emerging micro-LED-based short-range communication, where c-GaN promises increased speed over conventional hexagonal GaN (h-GaN). Although c-GaN is metastable, there are well-established methods for growing it in Si V- or U-grooves; the logical step is to truncate these grooves to wedges or inverted pyramids for small devices. There are limited reports of GaN grown in inverted pyramid templates, and the results are contradictory. To study this process, we perform selective area growth of GaN using organometallic vapor phase epitaxy on Si inverted pyramidal templates and analyze our samples by cross-sectional transmission electron microscopy. We find that polarity is critical to understanding the growth of c-GaN in this fourfold geometry, in contrast to the growth in long grooves. This effect fits within the broader set of challenges of polar-on-nonpolar heteroepitaxy; the c-GaN inside the fourfold symmetric template has its symmetry reduced by polarity to be twofold. In typical growth conditions—where the underlying h-GaN polarity is uniform—we find this implies that two h-GaN to c-GaN grain boundaries will have a polarity inversion. We observe two different structures at these inverting boundaries, including a previously unreported inversion domain boundary approximately along the basal plane of the nominally undoped h-GaN. These findings show that for small devices—such as micro-LEDs—the polarity-inverting interfaces should be controlled, for example by suppressing the growth of h-GaN on two facets of the template or by locally controlling the h-GaN polarity.",
-      "score": 10,
-      "priority": 2,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Role of polarity in the growth of cubic GaN within silicon inverted pyramids”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看可靠性与稳定性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Role of polarity in the growth of cubic GaN within silicon inverted pyramids”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看可靠性与稳定性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Role of polarity in the growth of cubic GaN within silicon inverted pyramids.",
-      "reading_notes": "Focus: GaN.\nWhat to check: 可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Role of polarity in the growth of cubic GaN within silicon inverted pyramids."
-    },
-    {
       "source": "arXiv",
       "uid": "arxiv:2610.07837v1",
       "title": "Determination of Burgers-vector directions of threading edge dislocations in GaN by phase-contrast microscopy",
@@ -114,29 +60,6 @@
       "reading_notes": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Determination of Burgers-vector directions of threading edge dislocations in GaN by phase-contr…."
     },
     {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0348601",
-      "title": "Fabrication and performance analysis of a collagen-integrated IGZO thin-film transistor for wide-range piezoelectric pressure biosensing",
-      "url": "https://doi.org/10.1063/5.0348601",
-      "published": "2026-10-05",
-      "authors": [
-        "Denice N. Feria",
-        "Jun-Hong Lin",
-        "Jan-Tian Lian",
-        "Tai-Yuan Lin"
-      ],
-      "summary": "Biocompatible and biodegradable piezoelectric materials have emerged as compelling candidates for next-generation wearable and implantable sensing devices. However, their integration with oxide thin-film transistors (TFTs) for wide-range pressure detection and extended-gate TFT applications remains largely unexplored. In this work, we successfully developed a transparent, self-gated bio-integrated pressure sensor by incorporating piezoelectric collagen film with amorphous indium-gallium-zinc oxide (α-IGZO) TFT. The pressure-induced piezoelectric voltage generated within the collagen film directly modulates the TFT channel, producing a pressure-dependent drain current independent of any external gate bias. Fabrication parameters were preliminarily optimized, systematically determining that 40 min of radio frequency (RF) magnetron sputtering followed by annealing in a nitrogen (N2) atmosphere (50 sccm) at 400 °C yielded superior characteristics and a carrier mobility of 2.66 cm2/V s. With the incorporation of collagen, the developed bio-integrated sensor showed high-performance operation over an extremely broad pressure range of 0.49–980.86 kPa, achieving maximum responsivities of 16.29% at 98.06 kPa (Configuration I) and 6.55% at 980.86 kPa (Configuration II). Significantly, the results are remarkable and strongly consistent with prior research findings, validating the sensor's reliability and performance. These results emphasize collagen–IGZO integration as a viable and scalable strategy toward realizing transparent, wide-range, and potentially fully biodegradable pressure sensors for advanced biomedical and wearable applications.",
-      "score": 13,
-      "priority": 1,
-      "highlights": [
-        "transistor"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Fabrication and performance analysis of a collagen-integrated IGZO thin-film tr…”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看性能提升、可靠性与稳定性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Fabrication and performance analysis of a collagen-integrated IGZO thin-film tr…”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看性能提升、可靠性与稳定性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Fabrication and performance analysis of a collagen-integrated IGZO thin-film transistor for wid….",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Fabrication and performance analysis of a collagen-integrated IGZO thin-film transistor for wid…."
-    },
-    {
       "source": "arXiv",
       "uid": "arxiv:2610.07203v1",
       "title": "Contact-Governed Macroscopic Signatures of Strain-Induced Valley Sorting in MoS$_2$ Field-Effect Transistors",
@@ -157,64 +80,143 @@
       "reading_notes": "Focus: 晶体管.\nWhat to check: 先进尺度下的可扩展性、接触/互连相关指标.\nContext: Contact-Governed Macroscopic Signatures of Strain-Induced Valley Sorting in MoS$_2$ Field-Effec…."
     },
     {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0324733",
-      "title": "Multi-gate organic dendritic transistors for spatiotemporal BCM learning",
-      "url": "https://doi.org/10.1063/5.0324733",
-      "published": "2026-10-05",
+      "source": "arXiv",
+      "uid": "arxiv:2610.07423v1",
+      "title": "2d-fet-bench: from spatial reasoning to fet design on flakes",
+      "url": "https://arxiv.org/abs/2610.07423v1",
+      "published": "2026-10-06",
       "authors": [
-        "Ying Li",
-        "Chenxing Jin",
-        "Wanrong Liu",
-        "Xiaofang Shi",
-        "Jia Sun"
+        "Dunzhi Zhou",
+        "Chengyu Zhu",
+        "Gang Qiu",
+        "Caiwen Ding"
       ],
-      "summary": "The Bienenstock–Cooper–Munro (BCM) learning rule effectively mitigates the issue of synaptic weight oversaturation in Hebbian learning via a sliding threshold dependent on historical neuronal activity. However, existing hardware implementations focus primarily on temporal history while often overlooking the spatial attenuation pivotal for signal integration. Here, we report a bio-inspired multi-gate organic dendritic transistor based on poly(3-hexylthiophene) with electrochemical gating that integrates spatiotemporal information to implement the BCM rule via its spatial architecture. By tuning the physical distances between different gates and the channel, the device mimics the nonlinear signal attenuation mechanism of biological dendrites. Beyond reproducing fundamental synaptic plasticity, the device establishes a sliding threshold mechanism for homeostatic regulation by using physical distances to modulate historical activity states. This work demonstrates the feasibility of defining synaptic historical states using spatial factors, providing a strategy for neuromorphic computing systems that combine homeostatic regulation with spatiotemporal processing.",
-      "score": 11,
+      "summary": "Field-effect transistor (FET) layouts on exfoliated two-dimensional flakes are typically drawn by hand for each flake, placing contacts and gates to match its position and outline in optical micrographs. To our knowledge, no executable benchmark tests whether language-model agents can perform this flake-specific construction reliably. We introduce 2D-FET-Bench V2, a benchmark of 128 layout tasks built from microscopy-derived flake contours, including hole-containing flakes and multi-flake tasks. Each task supplies a textual device specification and contour coordinates. An agent generates typed polygon and path operations rendered to GDSII. A deterministic verifier checks geometric and structural requirements, and a separate integrity check verifies that the supplied contours remain unchanged. Scripted reference layouts pass all 128 tasks, showing that every task is solvable. We evaluate six models and seven workflow and scaffold variants of GPT5.6-Luna, with five attempts per task. The best-performing configuration in the six-model panel, GPT5.6-Luna with ReAct-3, passes 62.3% of attempts and solves 80.5% of tasks at least once (coverage) and 43.8% in all five attempts (consistency). ReAct-3 exceeds the one-pass Plan-and-Execute by 27.0 pass@1 points at 2.46 times the tokens. An expert audit of one sampled verifier-passing layout per covered task, across five ReAct-3 configurations, accepts 56.4% to 63.5% of them. The benchmark evaluates geometric and structural FET layout construction.",
+      "score": 7,
       "priority": 1,
       "highlights": [
-        "transistor"
+        "FET"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Multi-gate organic dendritic transistors for spatiotemporal BCM learning”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Multi-gate organic dendritic transistors for spatiotemporal BCM learning”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Multi-gate organic dendritic transistors for spatiotemporal BCM learning.",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Multi-gate organic dendritic transistors for spatiotemporal BCM learning."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注FET方向，围绕“2d-fet-bench: from spatial reasoning to fet design on flakes”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注FET方向，围绕“2d-fet-bench: from spatial reasoning to fet design on flakes”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: FET.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: 2d-fet-bench: from spatial reasoning to fet design on flakes.",
+      "reading_notes": "Focus: FET.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: 2d-fet-bench: from spatial reasoning to fet design on flakes."
     },
     {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0353883",
-      "title": "Proton radiation effects on hydrogen-terminated diamond field-effect transistors",
-      "url": "https://doi.org/10.1063/5.0353883",
-      "published": "2026-10-05",
+      "source": "Science Advances",
+      "uid": "doi:10.1126/sciadv.aef9368",
+      "title": "Hydration channel engineering in Tröger’s base-POP membranes for mono/multivalent cation and anion discrimination",
+      "url": "https://doi.org/10.1126/sciadv.aef9368",
+      "published": "2026-10-09",
       "authors": [
-        "Yang Liu",
-        "Xing Li",
-        "Weili Fu",
-        "Hongyue Wang",
-        "XiaoNing Zhang",
-        "Rui Wu",
-        "ZhiFeng Lei",
-        "Chao Peng",
-        "Hong Zhang",
-        "ZhanGang Zhang",
-        "Jia-Yue Yang",
-        "Teng Ma"
+        "Haopan Sun",
+        "Ning Gan",
+        "Baolong Wu",
+        "Chenglin Liu",
+        "Yan Jin",
+        "Yuzhu Sun",
+        "Jianguo Yu",
+        "Zhaoliang Cui",
+        "Yuqing Lin",
+        "Hideto Matsuyama",
+        "Young Moo Lee"
       ],
-      "summary": "Hydrogen-terminated diamond field-effect transistors (H-diamond FETs) are promising for space electronics because of their high breakdown field, thermal stability, and radiation tolerance. However, their response to proton irradiation and the associated degradation mechanisms remain insufficiently understood. Here, depletion-mode H-diamond FETs are irradiated with 5 MeV protons at fluences of 1 × 1011, 1 × 1012, and 1 × 1013 p/cm2. At the highest fluence, the on-state current evaluated at a fixed gate overdrive decreases by approximately 43%, the peak transconductance decreases from 7.74 to 2.77 mS/mm, the subthreshold swing increases from 300 to 960 mV/dec, the gate leakage current increases by approximately four orders of magnitude, and the 99% current-stabilization time increases from 0.84 to 4.56 ms. Capacitance–voltage measurements reveal a positive flatband voltage shift consistent with radiation-induced negative trapped charge. Gate-controlled deep-level transient spectroscopy identifies three hole trap states at ET − EV = 0.354, 0.462, and 0.662 eV, including two states that emerge after irradiation and one preexisting state enhanced by irradiation. These results support two coupled degradation pathways: gate-stack ionization damage primarily affects threshold voltage, leakage, subthreshold behavior, and carrier stabilization, whereas displacement-related defects in diamond are associated with mobility and transconductance degradation.",
-      "score": 8,
+      "summary": "Sustainable recovery of critical resources from complex aqueous streams is constrained by membranes that fail to combine rapid ion transport with precise mono/multivalent discrimination. Here, we report Tröger’s base-derived porous organic polymer (POP) membranes with rigid, covalently crosslinked microporous frameworks that stabilize angstrom-scale transport channels while suppressing hydration-induced swelling. These membranes render rapid monovalent-ion transport with near-complete exclusion of multivalent cations and anions, including Mg 2+ , Al 3+ , SO 4 2− , and PO 4 3− . Experiments and simulations show that steric confinement, dehydration penalties, and electrostatic interactions cooperatively raise migration barriers for multivalent ions in confined channels. The membranes achieve comprehensive mono/multivalent discrimination across both cationic and anionic systems. In multistage electrodialysis, they enable stage-amplified lithium enrichment from high-Mg brines with stable long-term operation and downstream recovery of crystalline Li 2 CO 3 . They also facilitate high-purity NaCl enrichment from simulated seawater. Overall, this platform offers a durable and energy-efficient route to selective resource recovery from complex aqueous streams.",
+      "score": 6,
       "priority": 1,
       "highlights": [
-        "transistor"
+        "GaN"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Proton radiation effects on hydrogen-terminated diamond field-effect transistors”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Proton radiation effects on hydrogen-terminated diamond field-effect transistors”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Proton radiation effects on hydrogen-terminated diamond field-effect transistors.",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Proton radiation effects on hydrogen-terminated diamond field-effect transistors."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Hydration channel engineering in Tröger’s base-POP membranes for mono/multivale…”展开。摘要显示，文章重点涉及机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Hydration channel engineering in Tröger’s base-POP membranes for mono/multivale…”展开。摘要显示，文章重点涉及机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 可靠性与稳定性、功耗或能效表现.\nContext: Hydration channel engineering in Tröger’s base-POP membranes for mono/multivalent cation and an….",
+      "reading_notes": "Focus: GaN.\nWhat to check: 可靠性与稳定性、功耗或能效表现.\nContext: Hydration channel engineering in Tröger’s base-POP membranes for mono/multivalent cation and an…."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2610.11232v1",
+      "title": "Localization of Candidate Kikuchi Regions in RHEED Images: Visibility and Annotation Boundaries",
+      "url": "https://arxiv.org/abs/2610.11232v1",
+      "published": "2026-10-08",
+      "authors": [
+        "Lumou Weng",
+        "Hanshan Huang",
+        "Zhenhan Zhang",
+        "Gan Wang"
+      ],
+      "summary": "Kikuchi lines and bands in reflection high-energy electron diffraction (RHEED) carry information on crystal geometry and electron scattering, but are often obscured by intense diffraction streaks. We combine multiscale convolution with spatial detail from skip connections and independent supervision that allows overlapping regions to localize streaks and candidate Kikuchi regions separately. Using manual polygon annotations made before model-assisted editing, the Kikuchi intersection-over-union (IoU) on 29 laboratory test images from separate growth batches was $0.6290 \\pm 0.0137$. We then performed supervised adaptation to public chalcogenide images and stratified images by Kikuchi visibility using the median ratings of three observers who rated the images separately, two of whom rated with predictions hidden. With all 244 training images, IoU for the clear-feature group of 10 test images was $0.5014 \\pm 0.0336$, whereas ambiguous images gave lower values. With 100 training images, clear-group IoU was $0.5171 \\pm 0.0073$; expanding the training set also reduced responses on images without target features. Reported uncertainties are sample standard deviations across four laboratory runs or three adaptation runs. Public-image adaptation used reference masks of mixed provenance, including prediction-derived drafts. The method converts visual cues into inspectable spatial regions, providing a basis for analysis of line positions, intersections, and local intensity.",
+      "score": 4,
+      "priority": 1,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Localization of Candidate Kikuchi Regions in RHEED Images: Visibility and Annot…”展开。摘要显示，文章重点涉及机理分析或模型解释，建议阅读时优先查看功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Localization of Candidate Kikuchi Regions in RHEED Images: Visibility and Annot…”展开。摘要显示，文章重点涉及机理分析或模型解释，建议阅读时优先查看功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 功耗或能效表现.\nContext: Localization of Candidate Kikuchi Regions in RHEED Images: Visibility and Annotation Boundaries.",
+      "reading_notes": "Focus: GaN.\nWhat to check: 功耗或能效表现.\nContext: Localization of Candidate Kikuchi Regions in RHEED Images: Visibility and Annotation Boundaries."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2610.07862v1",
+      "title": "A self-learning scientific agent for X-ray diffraction",
+      "url": "https://arxiv.org/abs/2610.07862v1",
+      "published": "2026-10-06",
+      "authors": [
+        "Bin Cao",
+        "Huichi Zhou",
+        "Runyu Yang",
+        "Jingsong Li",
+        "Shuchen Sun",
+        "Yan Song",
+        "Hanyu Gao",
+        "Zhongwei Yu",
+        "Tong-Yi Zhang",
+        "Jun Wang"
+      ],
+      "summary": "A central challenge for scientific agents is to turn analytical experience into reusable expertise grounded in physical evidence. Here we introduce Gan Jiang, a self-learning agent for powder X-ray diffraction built on a diffraction-analysis ecosystem we developed: XMatcher, XQueryer, XDecomposer and WPEM. Together, these engines span phase identification, multiphase decomposition and physics-constrained whole-pattern modelling. Gan Jiang converts analytical experience into executable skills by diagnosing failures, revising skill instructions and code, and validating revisions before reuse, without retraining the language model or changing the underlying physical models. Skills selected using development data and frozen before held-out evaluation achieve higher refinement scores than the original expert-designed skills across FullProf, GSAS-II and PyWPEM. The agent resolves strongly overlapping reflections, quantifies a five-phase ancient Egyptian cosmetic, tracks lattice evolution in an operating battery and compares atomic configurations in a disordered oxide catalyst. On DeltaXRDbench, it leads the evaluated methods in single- and multiphase identification across simulated and experimental data. Without supplied composition, single-phase top-1 accuracies reach 96.30\\%, 81.78\\% and 40.83\\% on MP500, RRUFF and opXRD, respectively, compared with 58.00\\%, 58.47\\% and 26.45\\% for the strongest comparator. These results demonstrate how an integrated scientific tool ecosystem can support agents that extract structural knowledge from measurements while accumulating validated analytical expertise that transfers to new samples.",
+      "score": 4,
+      "priority": 1,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“A self-learning scientific agent for X-ray diffraction”展开。摘要显示，文章重点涉及电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“A self-learning scientific agent for X-ray diffraction”展开。摘要显示，文章重点涉及电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: A self-learning scientific agent for X-ray diffraction.",
+      "reading_notes": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: A self-learning scientific agent for X-ray diffraction."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2610.10953v1",
+      "title": "Band Tail States: Speed Bump or End of the Road for Two-Dimensional Semiconductors?",
+      "url": "https://arxiv.org/abs/2610.10953v1",
+      "published": "2026-10-08",
+      "authors": [
+        "Zherui Han",
+        "Robert K. A. Bennett",
+        "Davide Donadio",
+        "Maritha A. Wang",
+        "Tara Peña",
+        "Mikaël Cassé",
+        "Martin Vanbrabant",
+        "Valeriya Kilchytska",
+        "Jean-Pierre Raskin",
+        "Eric Pop"
+      ],
+      "summary": "We propose that the path to realizing the full potential of two-dimensional (2D) electronics lies in understanding and mastering their energy band tail states (BTS). Unlike silicon, which benefits from sharp band edges (Urbach energy $E_\\rm U$ ~ 10 meV), today's monolayer 2D semiconductors have rough band edges ($E_\\rm U$ ~ 100 meV) caused by spatial potential inhomogeneity. Comparing a physics-based electrical model to experiments, we demonstrate that BTS cause reduced effective mobility and \"slow\" transistor turn-on with excessive gate voltage in monolayer 2D transistors, which sets a fundamental limit for their energy-efficient operation. We also show that BTS effects in 2D transistors could be mitigated with higher gate capacitance, with strain engineering, and by using bilayer instead of monolayer 2D channels, as long as $E_\\rm U$ is reduced below ~ 50 meV. This work provides a theoretical framework and design guidelines to navigate these fundamental limits, and to enable successful integration of 2D semiconductors into low-power nanoelectronics.",
+      "score": 9,
+      "priority": 0,
+      "highlights": [
+        "semiconductor"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体方向，围绕“Band Tail States: Speed Bump or End of the Road for Two-Dimensional Semiconduct…”展开。摘要显示，文章重点涉及电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看功耗或能效表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体方向，围绕“Band Tail States: Speed Bump or End of the Road for Two-Dimensional Semiconduct…”展开。摘要显示，文章重点涉及电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看功耗或能效表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 半导体.\nWhat to check: 功耗或能效表现、与既有工艺平台的集成价值.\nContext: Band Tail States: Speed Bump or End of the Road for Two-Dimensional Semiconductors?.",
+      "reading_notes": "Focus: 半导体.\nWhat to check: 功耗或能效表现、与既有工艺平台的集成价值.\nContext: Band Tail States: Speed Bump or End of the Road for Two-Dimensional Semiconductors?."
     }
   ],
   "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-10-11T00:30:00+00:00"
+  "generated_at": "2026-10-12T00:30:00+00:00"
 }
