@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 10,
+  "new_count": 5,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-13）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 0 篇\n1. [Applied Physics Letters] Stress-controlled transfer of high-mobility organic semiconductor nanosheets for thin-film …\n   关键词：transistor, nanosheets, semiconductor\n   日期：2026-10-12\n   Authors: Veronika Reisner, Sirri Batuhan Kalkan, Bert Nickel\n   https://doi.org/10.1063/5.0333299\n2. [Applied Physics Letters] Competing hysteresis mechanisms in HZO/MoS2 transistors with a metal–ferroelectric–metal–in…\n   关键词：transistor, semiconductor, ferroelectric\n   日期：2026-10-12\n   Authors: Kira S. Kolinko, Andrei D. Kudlaev, Maxim G. Kozodaev 等\n   https://doi.org/10.1063/5.0346280\n3. [Applied Physics Letters] Evolution mechanism of damage locations in drift region of SiC MOSFETs under heavy ion irra…\n   关键词：MOSFET, SiC\n   日期：2026-10-12\n   Authors: Xiaoping Dong, Mingmin Huang, Yichu Qin 等\n   https://doi.org/10.1063/5.0323691\n4. [Nature Electronics] Designing dielectrics for microchip capacitors\n   关键词：dielectric\n   日期：2026-10-12\n   https://www.nature.com/articles/s41928-026-01726-w\n5. [Applied Physics Letters] Thermodynamic and kinetic engineering of bi-doped InSe for ultrafast, broadband, and highly…\n   日期：2026-10-12\n   Authors: Xiongli Wu, Shunru Zhang, Shanshan Li\n   https://doi.org/10.1063/5.0356069\n6. [Applied Physics Letters] Thermal conductivity and temperature-induced bandgap renormalization in crystalline and amo…\n   日期：2026-10-12\n   Authors: Rustam Arabov, Jiaxuan Li, Xiaotong Chen 等\n   https://doi.org/10.1063/5.0336982\n7. [Applied Physics Letters] Origin of mechanical strain and its spatial uniformity enhancement from recessed silicon ni…\n   日期：2026-10-12\n   Authors: Yiding Lin, Kwang Hong Lee, Rui-Tao Wen 等\n   https://doi.org/10.1063/5.0354968\n8. [arXiv] Corrugated Niobene: Stability, Mechanical and Electronic Properties from First-Principles C…\n   日期：2026-10-09\n   Authors: Willian O. Santos, José A. S. Laranjeira, Kleuton A. L. Lima 等\n   https://arxiv.org/abs/2610.12749v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-14）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 5 篇；Intel/TSMC 重点 0 篇；GaN 关键词 2 篇\n1. [Applied Physics Letters] High-mobility enhancement-mode thin-film transistors with 1.5 nm-thick ALD-grown Sn-doped I…\n   关键词：transistor\n   日期：2026-10-12\n   Authors: Seung Ho Ryu, Seungsu Kim, Taikyu Kim 等\n   https://doi.org/10.1063/5.0352264\n2. [Applied Physics Letters] Cr2O3/β-Ga2O3 heterojunction diodes with orientation-dependent breakdown electric field\n   关键词：GaN\n   日期：2026-10-12\n   Authors: Yizheng Liu, Haochen Wang, Carl Peterson 等\n   https://doi.org/10.1063/5.0348039\n3. [Physical Review B] Comparative investigation of extremely high mobility in α- and <mml:math xmlns:mml=\"http://…\n   关键词：GaN\n   日期：2026-10-13\n   Authors: Qi-Xun Wen, Yue-Peng Dai, Kai-Ying Yang 等\n   https://doi.org/10.1103/xlmz-2cg1\n4. [Physical Review B] Light-induced and tunable shift currents through structural phase evolution in ferroelectri…\n   关键词：semiconductor, ferroelectric\n   日期：2026-10-13\n   Authors: Reddithota Vidyasagar, Eudes B. Araújo\n   https://doi.org/10.1103/d563-g554\n5. [Applied Physics Letters] Terahertz reflectance probing of buried surface roughness in solid dielectrics\n   关键词：dielectric\n   日期：2026-10-12\n   Authors: Yang Liu, Jinghui Gao, Nuo Xu 等\n   https://doi.org/10.1063/5.0350359",
   "papers": [
     {
       "source": "Applied Physics Letters",
@@ -111,30 +111,85 @@
       "reading_notes": "Focus: MOSFET、SiC.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Evolution mechanism of damage locations in drift region of SiC MOSFETs under heavy ion irradiat…."
     },
     {
-      "source": "arXiv",
-      "uid": "arxiv:2610.07837v1",
-      "title": "Determination of Burgers-vector directions of threading edge dislocations in GaN by phase-contrast microscopy",
-      "url": "https://arxiv.org/abs/2610.07837v1",
-      "published": "2026-10-06",
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0352264",
+      "title": "High-mobility enhancement-mode thin-film transistors with 1.5 nm-thick ALD-grown Sn-doped In2O3 channels",
+      "url": "https://doi.org/10.1063/5.0352264",
+      "published": "2026-10-12",
       "authors": [
-        "Yukari Ishikawa",
-        "Maki Shimizu",
-        "Koji Sato",
-        "Kisara Matsumoto",
-        "Kazuki Ohnishi",
-        "Yongzhao Yao",
-        "Ryo Hattori"
+        "Seung Ho Ryu",
+        "Seungsu Kim",
+        "Taikyu Kim",
+        "Seong Keun Kim"
       ],
-      "summary": "Phase-contrast microscopy enables rapid, nondestructive observation of threading dislocations in GaN, but the relationship between dislocation contrast and the Burgers vector has not been established. Here, we demonstrate that the in-plane Burgers-vector direction of threading edge dislocations in GaN can be determined from the arrangement of bright and dark contrast in phase-contrast microscopy images. The relationship was first established for threading edge dislocations in ammonothermal GaN whose Burgers vectors were independently determined by X-ray topography and was subsequently applied to hydride vapor phase epitaxy-grown GaN. The Burgers vector predicted from the phase contrast was verified by weak-beam dark-field TEM and large-angle convergent-beam electron diffraction. For the threading edge dislocations examined, the direction obtained by rotating the direction from the minimum of the dark contrast to the maximum of the bright contrast by 90° counterclockwise coincided with the Burgers-vector direction. Analysis based on the photoelastic effect further suggests that the phase contrast primarily reflects the sum of the two in-plane normal strain components, εxx + εyy, around the dislocation. These results demonstrate that phase-contrast microscopy can be used as a nondestructive optical method for determining the in-plane Burgers-vector direction of threading edge dislocations in GaN.",
-      "score": 7,
-      "priority": 2,
+      "summary": "Aggressive channel thickness scaling to the sub-2 nm regime is essential for strengthening electrostatic gate control in monolithic three-dimensional electronics, but it causes severe carrier depletion and transport degradation in In2O3 thin-film transistors (TFTs). Here, we demonstrate enhancement-mode TFTs with 1.5 nm-thick Sn-doped In2O3 (ITO) channels prepared by inhibitor-assisted atomic layer deposition. At the same physical channel thickness, the ITO TFT exhibits a field-effect mobility of 25.7 ± 1.4 cm2V−1s−1, a subthreshold swing of 129 ± 31 mV/dec, and a threshold voltage of 0.2 ± 0.2 V, whereas the undoped In2O3 TFT undergoes severe transport degradation. The ITO TFT also shows markedly improved positive-bias-stress stability, with a threshold voltage shift of 0.37 V after 3600 s, whereas the thickness-matched In2O3 TFT reaches 2.07 V within 1000 s and fails before 3600 s. Analysis of the effective mobility and sheet carrier density indicates that Sn doping mitigates carrier depletion in the sub-2 nm channel. The resulting carrier replenishment improves on-state transport and strengthens electrostatic screening against positive-bias-induced trap charging, thereby improving the mobility–positive-bias-stress stability balance. These results establish controlled Sn doping as an effective strategy for realizing high-mobility ultrathin In2O3 TFTs with positive-bias-stress stability for monolithic three-dimensional electronics.",
+      "score": 11,
+      "priority": 1,
+      "highlights": [
+        "transistor"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“High-mobility enhancement-mode thin-film transistors with 1.5 nm-thick ALD-grow…”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升、可靠性与稳定性、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“High-mobility enhancement-mode thin-film transistors with 1.5 nm-thick ALD-grow…”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升、可靠性与稳定性、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: High-mobility enhancement-mode thin-film transistors with 1.5 nm-thick ALD-grown Sn-doped In2O3….",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: High-mobility enhancement-mode thin-film transistors with 1.5 nm-thick ALD-grown Sn-doped In2O3…."
+    },
+    {
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0348039",
+      "title": "Cr2O3/β-Ga2O3 heterojunction diodes with orientation-dependent breakdown electric field",
+      "url": "https://doi.org/10.1063/5.0348039",
+      "published": "2026-10-12",
+      "authors": [
+        "Yizheng Liu",
+        "Haochen Wang",
+        "Carl Peterson",
+        "James S. Speck",
+        "Chris G. Van de Walle",
+        "Sriram Krishnamoorthy"
+      ],
+      "summary": "We report the fabrication of Cr2O3/β-Ga2O3 heterojunction diodes (HJDs) using reactive magnetron sputtering of Cr2O3 on highly doped β-Ga2O3 bulk substrates along (100), (010), (001), (110), and (011) orientation dependence of high electric field handling capability in β-Ga2O3. Additional relative permittivity values in (110) and (011) orientations of β-Ga2O3 were computed by using first-principles calculation methods for accurate apparent charge density (ND–NA) extraction and breakdown electric field analysis from capacitance–voltage measurements. The HJDs fabricated on n+ (110) exhibited breakdown electric fields &gt;10 MV/cm up to 12.9 MV/cm, showing the highest experimentally observed parallel-plane junction electric field among β-Ga2O3-based junctions. Breakdown electric fields among (100), (010), (001), and (011) orientations showed distinct distribution in the range of 5.13–5.26, 5.10–7.05, 2.70–3.33, and 3.88–4.38 MV/cm, respectively, validating the orientational dependence of parallel-plane junction electric field at breakdown in low-symmetry monoclinic β-Ga2O3. The parallel-plane breakdown electric fields (EBr,ǁ) reported in this work were extracted when the device experienced breakdown at 100 mA/cm2 current density compliance, and should not be confused with critical electric field (Ec) as a function of drift layer doping concentration, which accounts for electric-field dependent impact ionization coefficients in Si, SiC, and GaN. This study can guide the choice of crystal orientation for high-performance gallium oxide-based devices that require high electric field handling capability.",
+      "score": 10,
+      "priority": 1,
       "highlights": [
         "GaN"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Determination of Burgers-vector directions of threading edge dislocations in Ga…”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Determination of Burgers-vector directions of threading edge dislocations in Ga…”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Determination of Burgers-vector directions of threading edge dislocations in GaN by phase-contr….",
-      "reading_notes": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Determination of Burgers-vector directions of threading edge dislocations in GaN by phase-contr…."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Cr2O3/β-Ga2O3 heterojunction diodes with orientation-dependent breakdown electr…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Cr2O3/β-Ga2O3 heterojunction diodes with orientation-dependent breakdown electr…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升.\nContext: Cr2O3/β-Ga2O3 heterojunction diodes with orientation-dependent breakdown electric field.",
+      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升.\nContext: Cr2O3/β-Ga2O3 heterojunction diodes with orientation-dependent breakdown electric field."
+    },
+    {
+      "source": "Physical Review B",
+      "uid": "doi:10.1103/xlmz-2cg1",
+      "title": "Comparative investigation of extremely high mobility in α- and <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mrow> <mml:mi>β</mml:mi> <mml:mtext>−</mml:mtext> <mml:msub> <mml:mi>WP</mml:mi> <mml:mn>2</mml:mn> </mml:msub> </mml:mrow> </mml:math> crystals by electrical transport and Raman spectroscopy",
+      "url": "https://doi.org/10.1103/xlmz-2cg1",
+      "published": "2026-10-13",
+      "authors": [
+        "Qi-Xun Wen",
+        "Yue-Peng Dai",
+        "Kai-Ying Yang",
+        "Gan Liu",
+        "Yang-Yang Lv",
+        "Cheng-Hao Yin",
+        "Su-Tao Sun",
+        "Pei-Xin Ma",
+        "Hao Ren",
+        "Xiao-Xiang Xi",
+        "Jian Zhou",
+        "Shu-Hua Yao",
+        "Y. B. Chen",
+        "Yan-Feng Chen"
+      ],
+      "summary": "",
+      "score": 6,
+      "priority": 1,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
+      "abstract_zh": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
+      "overview_cn": "Focus: GaN.\nNote: no abstract available; infer from title only.",
+      "reading_notes": "Focus: GaN.\nNote: no abstract available; infer from title only."
     },
     {
       "source": "Science Advances",
@@ -165,63 +220,11 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Hydration channel engineering in Tröger’s base-POP membranes for mono/multivale…”展开。摘要显示，文章重点涉及机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: GaN.\nWhat to check: 可靠性与稳定性、功耗或能效表现.\nContext: Hydration channel engineering in Tröger’s base-POP membranes for mono/multivalent cation and an….",
       "reading_notes": "Focus: GaN.\nWhat to check: 可靠性与稳定性、功耗或能效表现.\nContext: Hydration channel engineering in Tröger’s base-POP membranes for mono/multivalent cation and an…."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2610.11232v1",
-      "title": "Localization of Candidate Kikuchi Regions in RHEED Images: Visibility and Annotation Boundaries",
-      "url": "https://arxiv.org/abs/2610.11232v1",
-      "published": "2026-10-08",
-      "authors": [
-        "Lumou Weng",
-        "Hanshan Huang",
-        "Zhenhan Zhang",
-        "Gan Wang"
-      ],
-      "summary": "Kikuchi lines and bands in reflection high-energy electron diffraction (RHEED) carry information on crystal geometry and electron scattering, but are often obscured by intense diffraction streaks. We combine multiscale convolution with spatial detail from skip connections and independent supervision that allows overlapping regions to localize streaks and candidate Kikuchi regions separately. Using manual polygon annotations made before model-assisted editing, the Kikuchi intersection-over-union (IoU) on 29 laboratory test images from separate growth batches was $0.6290 \\pm 0.0137$. We then performed supervised adaptation to public chalcogenide images and stratified images by Kikuchi visibility using the median ratings of three observers who rated the images separately, two of whom rated with predictions hidden. With all 244 training images, IoU for the clear-feature group of 10 test images was $0.5014 \\pm 0.0336$, whereas ambiguous images gave lower values. With 100 training images, clear-group IoU was $0.5171 \\pm 0.0073$; expanding the training set also reduced responses on images without target features. Reported uncertainties are sample standard deviations across four laboratory runs or three adaptation runs. Public-image adaptation used reference masks of mixed provenance, including prediction-derived drafts. The method converts visual cues into inspectable spatial regions, providing a basis for analysis of line positions, intersections, and local intensity.",
-      "score": 4,
-      "priority": 1,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Localization of Candidate Kikuchi Regions in RHEED Images: Visibility and Annot…”展开。摘要显示，文章重点涉及机理分析或模型解释，建议阅读时优先查看功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Localization of Candidate Kikuchi Regions in RHEED Images: Visibility and Annot…”展开。摘要显示，文章重点涉及机理分析或模型解释，建议阅读时优先查看功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 功耗或能效表现.\nContext: Localization of Candidate Kikuchi Regions in RHEED Images: Visibility and Annotation Boundaries.",
-      "reading_notes": "Focus: GaN.\nWhat to check: 功耗或能效表现.\nContext: Localization of Candidate Kikuchi Regions in RHEED Images: Visibility and Annotation Boundaries."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2610.07862v1",
-      "title": "A self-learning scientific agent for X-ray diffraction",
-      "url": "https://arxiv.org/abs/2610.07862v1",
-      "published": "2026-10-06",
-      "authors": [
-        "Bin Cao",
-        "Huichi Zhou",
-        "Runyu Yang",
-        "Jingsong Li",
-        "Shuchen Sun",
-        "Yan Song",
-        "Hanyu Gao",
-        "Zhongwei Yu",
-        "Tong-Yi Zhang",
-        "Jun Wang"
-      ],
-      "summary": "A central challenge for scientific agents is to turn analytical experience into reusable expertise grounded in physical evidence. Here we introduce Gan Jiang, a self-learning agent for powder X-ray diffraction built on a diffraction-analysis ecosystem we developed: XMatcher, XQueryer, XDecomposer and WPEM. Together, these engines span phase identification, multiphase decomposition and physics-constrained whole-pattern modelling. Gan Jiang converts analytical experience into executable skills by diagnosing failures, revising skill instructions and code, and validating revisions before reuse, without retraining the language model or changing the underlying physical models. Skills selected using development data and frozen before held-out evaluation achieve higher refinement scores than the original expert-designed skills across FullProf, GSAS-II and PyWPEM. The agent resolves strongly overlapping reflections, quantifies a five-phase ancient Egyptian cosmetic, tracks lattice evolution in an operating battery and compares atomic configurations in a disordered oxide catalyst. On DeltaXRDbench, it leads the evaluated methods in single- and multiphase identification across simulated and experimental data. Without supplied composition, single-phase top-1 accuracies reach 96.30\\%, 81.78\\% and 40.83\\% on MP500, RRUFF and opXRD, respectively, compared with 58.00\\%, 58.47\\% and 26.45\\% for the strongest comparator. These results demonstrate how an integrated scientific tool ecosystem can support agents that extract structural knowledge from measurements while accumulating validated analytical expertise that transfers to new samples.",
-      "score": 4,
-      "priority": 1,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“A self-learning scientific agent for X-ray diffraction”展开。摘要显示，文章重点涉及电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“A self-learning scientific agent for X-ray diffraction”展开。摘要显示，文章重点涉及电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: A self-learning scientific agent for X-ray diffraction.",
-      "reading_notes": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: A self-learning scientific agent for X-ray diffraction."
     }
   ],
   "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-10-13T00:30:00+00:00"
+  "generated_at": "2026-10-14T00:30:00+00:00"
 }
