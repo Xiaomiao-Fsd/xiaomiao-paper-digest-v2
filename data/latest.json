@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 5,
+  "new_count": 14,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-14）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 5 篇；Intel/TSMC 重点 0 篇；GaN 关键词 2 篇\n1. [Applied Physics Letters] High-mobility enhancement-mode thin-film transistors with 1.5 nm-thick ALD-grown Sn-doped I…\n   关键词：transistor\n   日期：2026-10-12\n   Authors: Seung Ho Ryu, Seungsu Kim, Taikyu Kim 等\n   https://doi.org/10.1063/5.0352264\n2. [Applied Physics Letters] Cr2O3/β-Ga2O3 heterojunction diodes with orientation-dependent breakdown electric field\n   关键词：GaN\n   日期：2026-10-12\n   Authors: Yizheng Liu, Haochen Wang, Carl Peterson 等\n   https://doi.org/10.1063/5.0348039\n3. [Physical Review B] Comparative investigation of extremely high mobility in α- and <mml:math xmlns:mml=\"http://…\n   关键词：GaN\n   日期：2026-10-13\n   Authors: Qi-Xun Wen, Yue-Peng Dai, Kai-Ying Yang 等\n   https://doi.org/10.1103/xlmz-2cg1\n4. [Physical Review B] Light-induced and tunable shift currents through structural phase evolution in ferroelectri…\n   关键词：semiconductor, ferroelectric\n   日期：2026-10-13\n   Authors: Reddithota Vidyasagar, Eudes B. Araújo\n   https://doi.org/10.1103/d563-g554\n5. [Applied Physics Letters] Terahertz reflectance probing of buried surface roughness in solid dielectrics\n   关键词：dielectric\n   日期：2026-10-12\n   Authors: Yang Liu, Jinghui Gao, Nuo Xu 等\n   https://doi.org/10.1063/5.0350359",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-15）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 2 篇\n1. [arXiv] Decoupling Trap States in Amorphous Oxide Semiconductor Transistor Using a Conductive-Semic…\n   关键词：transistor, semiconductor, oxide semiconductor\n   日期：2026-10-12\n   Authors: Kai Chen, Wei Zhang, Xuanyao Fong 等\n   https://arxiv.org/abs/2610.16438v1\n2. [arXiv] Direct growth of crystalline spinel GaON films: A wide-bandgap mixed-anion semiconductor\n   关键词：semiconductor, GaN\n   日期：2026-10-13\n   Authors: Baikui Li, Zecheng Yang, Wenhao Yin 等\n   https://arxiv.org/abs/2610.18550v1\n3. [Nature Electronics] Building indium oxide transistors in three dimensions\n   关键词：transistor\n   日期：2026-10-14\n   https://www.nature.com/articles/s41928-026-01730-0\n4. [arXiv] Localized Joule heating and carbonization process optimization of 3D printed polymer struct…\n   关键词：CMOS\n   日期：2026-10-11\n   Authors: Mohammad Aminul Haque, Andalib Nizam, Nickolay Lavrik 等\n   https://arxiv.org/abs/2610.15238v1\n5. [arXiv] Sub-Micron Gate $β-Ga_{2}O_{3}$ FinFETs with Current Density $>$ 750 mA/mm and Ion/Ioff Rat…\n   关键词：FinFET\n   日期：2026-10-11\n   Authors: Nabasindhu Das, Cameron Gorsak, Pushpanshu Tripathi 等\n   https://arxiv.org/abs/2610.15155v1\n6. [arXiv] Observation of stacked vortex structure with number controllable Majorana zero mode in Bi$_…\n   关键词：GaN\n   日期：2026-10-13\n   Authors: Xinru Han, Zhaokun Luo, Quanxin Hu 等\n   https://arxiv.org/abs/2610.17701v1\n7. [arXiv] First-Principles Calculations of the Electron-Hole-Pair Creation Energy in Semiconductors a…\n   关键词：semiconductor, dielectric\n   日期：2026-10-12\n   Authors: Dallin O. Nielsen, Massimo V. Fischetti\n   https://arxiv.org/abs/2610.16949v1\n8. [arXiv] Revealing New Leakage Paths in GAAFETs using Predictive First-Principles Simulations\n   日期：2026-10-10\n   Authors: Denis Mamaluy, Juan P. Mendez, Coleman Cariker 等\n   https://arxiv.org/abs/2610.14298v1",
   "papers": [
     {
       "source": "Applied Physics Letters",
@@ -55,33 +55,30 @@
       "reading_notes": "Focus: 晶体管、半导体、铁电材料.\nWhat to check: 性能提升.\nContext: Competing hysteresis mechanisms in HZO/MoS2 transistors with a metal–ferroelectric–metal–insula…."
     },
     {
-      "source": "Science Advances",
-      "uid": "doi:10.1126/sciadv.aef4354",
-      "title": "Wafer-scale synthesis of WSe <sub>2</sub> for high-performance p-type top-gated transistors and logic circuits",
-      "url": "https://doi.org/10.1126/sciadv.aef4354",
-      "published": "2026-10-09",
+      "source": "arXiv",
+      "uid": "arxiv:2610.16438v1",
+      "title": "Decoupling Trap States in Amorphous Oxide Semiconductor Transistor Using a Conductive-Semiconducting-Conductive MOS Structure",
+      "url": "https://arxiv.org/abs/2610.16438v1",
+      "published": "2026-10-12",
       "authors": [
-        "Jonggyu Choi",
-        "Hayoung Kim",
-        "Seungsoo Kim",
-        "Mingyu Kim",
-        "Seungmin Yang",
-        "Juyeong Hong",
-        "Seokmin Yun",
-        "Ajit K. Katiyar",
-        "Jong-Hyun Ahn"
+        "Kai Chen",
+        "Wei Zhang",
+        "Xuanyao Fong",
+        "Shengman Li",
+        "Yunlong Li"
       ],
-      "summary": "Two-dimensional (2D) transition metal dichalcogenides (TMDs) offer a promising pathway for next-generation electronics due to their exceptional electrical characteristics at atomically thin thickness. Nevertheless, the realization of high-quality p-type 2D-FETs remains a significant challenge for CMOS device integration due to surface damage and unintended n-doping induced during dielectric deposition. In this work, we report the wafer-scale synthesis of p-type WSe 2 films using metal-organic chemical vapor deposition and the fabrication of top-gate p-FETs through a buffer layer strategy, which provides superior electrostatic control and channel stability. The transistors exhibit excellent p-type performance, achieving a hole mobility of 10.49 ± 2.35 cm 2 V −1 s −1 with on/off current ratio exceeding 10 9 . By leveraging the process’s scalability, which ensures uniform and damage-free fabrication, we successfully produced reliable wafer-scale PMOS logic circuits. This study provides a scalable, damage-free integration solution for 2D electronics, paving the way for the practical realization of all 2D-based high-density electronics and circuits.",
-      "score": 16,
+      "summary": "We propose a novel amorphous oxide semiconductor (AOS)-based conductive-semiconducting-conductive (CSC) MOS test structure to effectively sense, discriminate, and analyze distinct trap-induced conductance losses in AOS transistors. In conventional test structures, non-ideal metal-AOS contacts convolute the conductance loss generated by various trap states. The CSC architecture mitigates these contact-related artifacts, enabling the decoupling of interface states and shallow states. Furthermore, the contributions from leakage, series resistance, and device-geometry effects are identified and calibrated. Our results yield bias-resolved trap profiles and reveal three distinct regimes: (1) In the depletion region, interface states dominate the conductance loss. These states exhibit sub-microsecond time constants and their density increases slightly with deeper depletion, which is associated with donor-like states. (2) From weak to moderate accumulation, shallow states become the primary contributor, displaying a Gaussian-like volumetric density-of-states distribution with response times spanning from microseconds to nanoseconds. (3) In the strong accumulation regime, interface states regain dominance with an increased state quantity, while their time constants remain invariant. These bias-resolved profiles clarify how different trap populations impact AOS transistors under distinct operating conditions, providing intuitive metrics for understanding reliability degradation. Consequently, the CSC structure offers a simple, scalable, and robust platform for trap characterization in AOS transistors.",
+      "score": 13,
       "priority": 2,
       "highlights": [
         "transistor",
-        "wafer"
+        "semiconductor",
+        "oxide semiconductor"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、wafer方向，围绕“Wafer-scale synthesis of WSe <sub>2</sub> for high-performance p-type top-gated…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、wafer方向，围绕“Wafer-scale synthesis of WSe <sub>2</sub> for high-performance p-type top-gated…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管、wafer.\nWhat to check: 性能提升、可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Wafer-scale synthesis of WSe <sub>2</sub> for high-performance p-type top-gated transistors and….",
-      "reading_notes": "Focus: 晶体管、wafer.\nWhat to check: 性能提升、可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Wafer-scale synthesis of WSe <sub>2</sub> for high-performance p-type top-gated transistors and…."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、半导体、oxide semiconductor方向，围绕“Decoupling Trap States in Amorphous Oxide Semiconductor Transistor Using a Cond…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看效率/耦合表现、可靠性与稳定性、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、半导体、oxide semiconductor方向，围绕“Decoupling Trap States in Amorphous Oxide Semiconductor Transistor Using a Cond…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看效率/耦合表现、可靠性与稳定性、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 晶体管、半导体、oxide semiconductor.\nWhat to check: 效率/耦合表现、可靠性与稳定性、先进尺度下的可扩展性.\nContext: Decoupling Trap States in Amorphous Oxide Semiconductor Transistor Using a Conductive-Semicondu….",
+      "reading_notes": "Focus: 晶体管、半导体、oxide semiconductor.\nWhat to check: 效率/耦合表现、可靠性与稳定性、先进尺度下的可扩展性.\nContext: Decoupling Trap States in Amorphous Oxide Semiconductor Transistor Using a Conductive-Semicondu…."
     },
     {
       "source": "Applied Physics Letters",
@@ -134,6 +131,34 @@
       "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: High-mobility enhancement-mode thin-film transistors with 1.5 nm-thick ALD-grown Sn-doped In2O3…."
     },
     {
+      "source": "arXiv",
+      "uid": "arxiv:2610.18550v1",
+      "title": "Direct growth of crystalline spinel GaON films: A wide-bandgap mixed-anion semiconductor",
+      "url": "https://arxiv.org/abs/2610.18550v1",
+      "published": "2026-10-13",
+      "authors": [
+        "Baikui Li",
+        "Zecheng Yang",
+        "Wenhao Yin",
+        "Zijing Wu",
+        "Haitao Zhao",
+        "Yunwei Sheng",
+        "Honglei Wu",
+        "Jiannong Wang"
+      ],
+      "summary": "Mixed-anion semiconductors offer opportunities for bandgap engineering beyond conventional multication alloys, but competing phases and disorder complicate their synthesis and the identification of their electronic properties. Gallium oxynitride (GaON) could connect the technologically important GaN and Ga2O3 systems, yet establishing a clear relation between its crystal structure, composition and bandgap remains challenging. Here we report the direct growth of crystalline spinel gamma-GaON films by nitrogen-plasma-assisted pulsed-laser deposition. Varying the nitrogen and oxygen supply yields monoclinic beta-Ga2O3, predominantly disordered films and crystalline spinel GaON. Complementary diffraction, atomic-resolution microscopy and elemental analysis establish the spinel structure and nitrogen incorporation. Temperature-dependent photocurrent spectroscopy reveals a clear redshift of the crystalline gamma-GaON response, supporting assignment of a band-edge transition near 4.3 eV at room temperature. These results open opportunities to investigate mixed-anion wide-bandgap semiconductor physics and develop heterostructures.",
+      "score": 10,
+      "priority": 1,
+      "highlights": [
+        "semiconductor",
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体、GaN方向，围绕“Direct growth of crystalline spinel GaON films: A wide-bandgap mixed-anion semi…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体、GaN方向，围绕“Direct growth of crystalline spinel GaON films: A wide-bandgap mixed-anion semi…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 半导体、GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Direct growth of crystalline spinel GaON films: A wide-bandgap mixed-anion semiconductor.",
+      "reading_notes": "Focus: 半导体、GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Direct growth of crystalline spinel GaON films: A wide-bandgap mixed-anion semiconductor."
+    },
+    {
       "source": "Applied Physics Letters",
       "uid": "doi:10.1063/5.0348039",
       "title": "Cr2O3/β-Ga2O3 heterojunction diodes with orientation-dependent breakdown electric field",
@@ -159,72 +184,27 @@
       "reading_notes": "Focus: GaN.\nWhat to check: 性能提升.\nContext: Cr2O3/β-Ga2O3 heterojunction diodes with orientation-dependent breakdown electric field."
     },
     {
-      "source": "Physical Review B",
-      "uid": "doi:10.1103/xlmz-2cg1",
-      "title": "Comparative investigation of extremely high mobility in α- and <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mrow> <mml:mi>β</mml:mi> <mml:mtext>−</mml:mtext> <mml:msub> <mml:mi>WP</mml:mi> <mml:mn>2</mml:mn> </mml:msub> </mml:mrow> </mml:math> crystals by electrical transport and Raman spectroscopy",
-      "url": "https://doi.org/10.1103/xlmz-2cg1",
-      "published": "2026-10-13",
-      "authors": [
-        "Qi-Xun Wen",
-        "Yue-Peng Dai",
-        "Kai-Ying Yang",
-        "Gan Liu",
-        "Yang-Yang Lv",
-        "Cheng-Hao Yin",
-        "Su-Tao Sun",
-        "Pei-Xin Ma",
-        "Hao Ren",
-        "Xiao-Xiang Xi",
-        "Jian Zhou",
-        "Shu-Hua Yao",
-        "Y. B. Chen",
-        "Yan-Feng Chen"
-      ],
-      "summary": "",
-      "score": 6,
+      "source": "Nature Electronics",
+      "uid": "Nature Electronics:10.1038/s41928-026-01730-0",
+      "title": "Building indium oxide transistors in three dimensions",
+      "url": "https://www.nature.com/articles/s41928-026-01730-0",
+      "published": "2026-10-14",
+      "authors": [],
+      "summary": "Nature Electronics, Published online: 14 October 2026; doi:10.1038/s41928-026-01730-0 Building indium oxide transistors in three dimensions",
+      "score": 8,
       "priority": 1,
       "highlights": [
-        "GaN"
+        "transistor"
       ],
-      "abstract_cn": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
-      "abstract_zh": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
-      "overview_cn": "Focus: GaN.\nNote: no abstract available; infer from title only.",
-      "reading_notes": "Focus: GaN.\nNote: no abstract available; infer from title only."
-    },
-    {
-      "source": "Science Advances",
-      "uid": "doi:10.1126/sciadv.aef9368",
-      "title": "Hydration channel engineering in Tröger’s base-POP membranes for mono/multivalent cation and anion discrimination",
-      "url": "https://doi.org/10.1126/sciadv.aef9368",
-      "published": "2026-10-09",
-      "authors": [
-        "Haopan Sun",
-        "Ning Gan",
-        "Baolong Wu",
-        "Chenglin Liu",
-        "Yan Jin",
-        "Yuzhu Sun",
-        "Jianguo Yu",
-        "Zhaoliang Cui",
-        "Yuqing Lin",
-        "Hideto Matsuyama",
-        "Young Moo Lee"
-      ],
-      "summary": "Sustainable recovery of critical resources from complex aqueous streams is constrained by membranes that fail to combine rapid ion transport with precise mono/multivalent discrimination. Here, we report Tröger’s base-derived porous organic polymer (POP) membranes with rigid, covalently crosslinked microporous frameworks that stabilize angstrom-scale transport channels while suppressing hydration-induced swelling. These membranes render rapid monovalent-ion transport with near-complete exclusion of multivalent cations and anions, including Mg 2+ , Al 3+ , SO 4 2− , and PO 4 3− . Experiments and simulations show that steric confinement, dehydration penalties, and electrostatic interactions cooperatively raise migration barriers for multivalent ions in confined channels. The membranes achieve comprehensive mono/multivalent discrimination across both cationic and anionic systems. In multistage electrodialysis, they enable stage-amplified lithium enrichment from high-Mg brines with stable long-term operation and downstream recovery of crystalline Li 2 CO 3 . They also facilitate high-purity NaCl enrichment from simulated seawater. Overall, this platform offers a durable and energy-efficient route to selective resource recovery from complex aqueous streams.",
-      "score": 6,
-      "priority": 1,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Hydration channel engineering in Tröger’s base-POP membranes for mono/multivale…”展开。摘要显示，文章重点涉及机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Hydration channel engineering in Tröger’s base-POP membranes for mono/multivale…”展开。摘要显示，文章重点涉及机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 可靠性与稳定性、功耗或能效表现.\nContext: Hydration channel engineering in Tröger’s base-POP membranes for mono/multivalent cation and an….",
-      "reading_notes": "Focus: GaN.\nWhat to check: 可靠性与稳定性、功耗或能效表现.\nContext: Hydration channel engineering in Tröger’s base-POP membranes for mono/multivalent cation and an…."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Building indium oxide transistors in three dimensions”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Building indium oxide transistors in three dimensions”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Building indium oxide transistors in three dimensions.",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Building indium oxide transistors in three dimensions."
     }
   ],
   "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-10-14T00:30:00+00:00"
+  "generated_at": "2026-10-15T00:30:00+00:00"
 }
