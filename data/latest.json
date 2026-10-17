@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 14,
+  "new_count": 1,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-15）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 2 篇\n1. [arXiv] Decoupling Trap States in Amorphous Oxide Semiconductor Transistor Using a Conductive-Semic…\n   关键词：transistor, semiconductor, oxide semiconductor\n   日期：2026-10-12\n   Authors: Kai Chen, Wei Zhang, Xuanyao Fong 等\n   https://arxiv.org/abs/2610.16438v1\n2. [arXiv] Direct growth of crystalline spinel GaON films: A wide-bandgap mixed-anion semiconductor\n   关键词：semiconductor, GaN\n   日期：2026-10-13\n   Authors: Baikui Li, Zecheng Yang, Wenhao Yin 等\n   https://arxiv.org/abs/2610.18550v1\n3. [Nature Electronics] Building indium oxide transistors in three dimensions\n   关键词：transistor\n   日期：2026-10-14\n   https://www.nature.com/articles/s41928-026-01730-0\n4. [arXiv] Localized Joule heating and carbonization process optimization of 3D printed polymer struct…\n   关键词：CMOS\n   日期：2026-10-11\n   Authors: Mohammad Aminul Haque, Andalib Nizam, Nickolay Lavrik 等\n   https://arxiv.org/abs/2610.15238v1\n5. [arXiv] Sub-Micron Gate $β-Ga_{2}O_{3}$ FinFETs with Current Density $>$ 750 mA/mm and Ion/Ioff Rat…\n   关键词：FinFET\n   日期：2026-10-11\n   Authors: Nabasindhu Das, Cameron Gorsak, Pushpanshu Tripathi 等\n   https://arxiv.org/abs/2610.15155v1\n6. [arXiv] Observation of stacked vortex structure with number controllable Majorana zero mode in Bi$_…\n   关键词：GaN\n   日期：2026-10-13\n   Authors: Xinru Han, Zhaokun Luo, Quanxin Hu 等\n   https://arxiv.org/abs/2610.17701v1\n7. [arXiv] First-Principles Calculations of the Electron-Hole-Pair Creation Energy in Semiconductors a…\n   关键词：semiconductor, dielectric\n   日期：2026-10-12\n   Authors: Dallin O. Nielsen, Massimo V. Fischetti\n   https://arxiv.org/abs/2610.16949v1\n8. [arXiv] Revealing New Leakage Paths in GAAFETs using Predictive First-Principles Simulations\n   日期：2026-10-10\n   Authors: Denis Mamaluy, Juan P. Mendez, Coleman Cariker 等\n   https://arxiv.org/abs/2610.14298v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-17）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 1 篇；Intel/TSMC 重点 0 篇；GaN 关键词 0 篇\n1. [arXiv] Casimir forces on suspended thin dielectric membranes covered with graphene\n   关键词：dielectric\n   日期：2026-10-15\n   Authors: Tze Ue Ngai, Zuocheng Zhang, Q. Zhang 等\n   https://arxiv.org/abs/2610.21437v1",
   "papers": [
     {
       "source": "Applied Physics Letters",
@@ -206,5 +206,5 @@
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-10-15T00:30:00+00:00"
+  "generated_at": "2026-10-17T00:30:00+00:00"
 }
