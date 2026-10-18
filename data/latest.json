@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 1,
+  "new_count": 0,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-17）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 1 篇；Intel/TSMC 重点 0 篇；GaN 关键词 0 篇\n1. [arXiv] Casimir forces on suspended thin dielectric membranes covered with graphene\n   关键词：dielectric\n   日期：2026-10-15\n   Authors: Tze Ue Ngai, Zuocheng Zhang, Q. Zhang 等\n   https://arxiv.org/abs/2610.21437v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-18）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 2 篇\n1. [Applied Physics Letters] Stress-controlled transfer of high-mobility organic semiconductor nanosheets for thin-film …\n   关键词：transistor, nanosheets, semiconductor\n   日期：2026-10-12\n   Authors: Veronika Reisner, Sirri Batuhan Kalkan, Bert Nickel\n   https://doi.org/10.1063/5.0333299\n2. [Applied Physics Letters] Competing hysteresis mechanisms in HZO/MoS2 transistors with a metal–ferroelectric–metal–in…\n   关键词：transistor, semiconductor, ferroelectric\n   日期：2026-10-12\n   Authors: Kira S. Kolinko, Andrei D. Kudlaev, Maxim G. Kozodaev 等\n   https://doi.org/10.1063/5.0346280\n3. [arXiv] Decoupling Trap States in Amorphous Oxide Semiconductor Transistor Using a Conductive-Semic…\n   关键词：transistor, semiconductor, oxide semiconductor\n   日期：2026-10-12\n   Authors: Kai Chen, Wei Zhang, Xuanyao Fong 等\n   https://arxiv.org/abs/2610.16438v1\n4. [Applied Physics Letters] Evolution mechanism of damage locations in drift region of SiC MOSFETs under heavy ion irra…\n   关键词：MOSFET, SiC\n   日期：2026-10-12\n   Authors: Xiaoping Dong, Mingmin Huang, Yichu Qin 等\n   https://doi.org/10.1063/5.0323691\n5. [Applied Physics Letters] High-mobility enhancement-mode thin-film transistors with 1.5 nm-thick ALD-grown Sn-doped I…\n   关键词：transistor\n   日期：2026-10-12\n   Authors: Seung Ho Ryu, Seungsu Kim, Taikyu Kim 等\n   https://doi.org/10.1063/5.0352264\n6. [arXiv] Direct growth of crystalline spinel GaON films: A wide-bandgap mixed-anion semiconductor\n   关键词：semiconductor, GaN\n   日期：2026-10-13\n   Authors: Baikui Li, Zecheng Yang, Wenhao Yin 等\n   https://arxiv.org/abs/2610.18550v1\n7. [Applied Physics Letters] Cr2O3/β-Ga2O3 heterojunction diodes with orientation-dependent breakdown electric field\n   关键词：GaN\n   日期：2026-10-12\n   Authors: Yizheng Liu, Haochen Wang, Carl Peterson 等\n   https://doi.org/10.1063/5.0348039\n8. [Nature Electronics] Building indium oxide transistors in three dimensions\n   关键词：transistor\n   日期：2026-10-14\n   https://www.nature.com/articles/s41928-026-01730-0",
   "papers": [
     {
       "source": "Applied Physics Letters",
@@ -206,5 +206,5 @@
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-10-17T00:30:00+00:00"
+  "generated_at": "2026-10-18T00:30:00+00:00"
 }
