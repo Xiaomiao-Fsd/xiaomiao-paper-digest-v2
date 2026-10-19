@@ -2,58 +2,8 @@
   "ok": true,
   "new_count": 0,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-18）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 2 篇\n1. [Applied Physics Letters] Stress-controlled transfer of high-mobility organic semiconductor nanosheets for thin-film …\n   关键词：transistor, nanosheets, semiconductor\n   日期：2026-10-12\n   Authors: Veronika Reisner, Sirri Batuhan Kalkan, Bert Nickel\n   https://doi.org/10.1063/5.0333299\n2. [Applied Physics Letters] Competing hysteresis mechanisms in HZO/MoS2 transistors with a metal–ferroelectric–metal–in…\n   关键词：transistor, semiconductor, ferroelectric\n   日期：2026-10-12\n   Authors: Kira S. Kolinko, Andrei D. Kudlaev, Maxim G. Kozodaev 等\n   https://doi.org/10.1063/5.0346280\n3. [arXiv] Decoupling Trap States in Amorphous Oxide Semiconductor Transistor Using a Conductive-Semic…\n   关键词：transistor, semiconductor, oxide semiconductor\n   日期：2026-10-12\n   Authors: Kai Chen, Wei Zhang, Xuanyao Fong 等\n   https://arxiv.org/abs/2610.16438v1\n4. [Applied Physics Letters] Evolution mechanism of damage locations in drift region of SiC MOSFETs under heavy ion irra…\n   关键词：MOSFET, SiC\n   日期：2026-10-12\n   Authors: Xiaoping Dong, Mingmin Huang, Yichu Qin 等\n   https://doi.org/10.1063/5.0323691\n5. [Applied Physics Letters] High-mobility enhancement-mode thin-film transistors with 1.5 nm-thick ALD-grown Sn-doped I…\n   关键词：transistor\n   日期：2026-10-12\n   Authors: Seung Ho Ryu, Seungsu Kim, Taikyu Kim 等\n   https://doi.org/10.1063/5.0352264\n6. [arXiv] Direct growth of crystalline spinel GaON films: A wide-bandgap mixed-anion semiconductor\n   关键词：semiconductor, GaN\n   日期：2026-10-13\n   Authors: Baikui Li, Zecheng Yang, Wenhao Yin 等\n   https://arxiv.org/abs/2610.18550v1\n7. [Applied Physics Letters] Cr2O3/β-Ga2O3 heterojunction diodes with orientation-dependent breakdown electric field\n   关键词：GaN\n   日期：2026-10-12\n   Authors: Yizheng Liu, Haochen Wang, Carl Peterson 等\n   https://doi.org/10.1063/5.0348039\n8. [Nature Electronics] Building indium oxide transistors in three dimensions\n   关键词：transistor\n   日期：2026-10-14\n   https://www.nature.com/articles/s41928-026-01730-0",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-19）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 2 篇\n1. [arXiv] Decoupling Trap States in Amorphous Oxide Semiconductor Transistor Using a Conductive-Semic…\n   关键词：transistor, semiconductor, oxide semiconductor\n   日期：2026-10-12\n   Authors: Kai Chen, Wei Zhang, Xuanyao Fong 等\n   https://arxiv.org/abs/2610.16438v1\n2. [arXiv] Direct growth of crystalline spinel GaON films: A wide-bandgap mixed-anion semiconductor\n   关键词：semiconductor, GaN\n   日期：2026-10-13\n   Authors: Baikui Li, Zecheng Yang, Wenhao Yin 等\n   https://arxiv.org/abs/2610.18550v1\n3. [Nature Electronics] Building indium oxide transistors in three dimensions\n   关键词：transistor\n   日期：2026-10-14\n   https://www.nature.com/articles/s41928-026-01730-0\n4. [arXiv] Observation of stacked vortex structure with number controllable Majorana zero mode in Bi$_…\n   关键词：GaN\n   日期：2026-10-13\n   Authors: Xinru Han, Zhaokun Luo, Quanxin Hu 等\n   https://arxiv.org/abs/2610.17701v1\n5. [arXiv] First-Principles Calculations of the Electron-Hole-Pair Creation Energy in Semiconductors a…\n   关键词：semiconductor, dielectric\n   日期：2026-10-12\n   Authors: Dallin O. Nielsen, Massimo V. Fischetti\n   https://arxiv.org/abs/2610.16949v1\n6. [arXiv] Theory of deeply subwavelength electromagnetic structuring of semiconductors due to thermal…\n   关键词：semiconductor\n   日期：2026-10-13\n   Authors: I. V. Oladyshkin, D. I. Kulshin, E. O. Smolina\n   https://arxiv.org/abs/2610.17847v1\n7. [arXiv] Casimir forces on suspended thin dielectric membranes covered with graphene\n   关键词：dielectric\n   日期：2026-10-15\n   Authors: Tze Ue Ngai, Zuocheng Zhang, Q. Zhang 等\n   https://arxiv.org/abs/2610.21437v1\n8. [arXiv] Topologically Protected Surface Acoustic Wave Edge States in Phononic Integrated Circuits\n   日期：2026-10-14\n   Authors: Jack Guida, Niccolo Scalise Pantuso, Cristian Cassella 等\n   https://arxiv.org/abs/2610.19259v1",
   "papers": [
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0333299",
-      "title": "Stress-controlled transfer of high-mobility organic semiconductor nanosheets for thin-film transistors",
-      "url": "https://doi.org/10.1063/5.0333299",
-      "published": "2026-10-12",
-      "authors": [
-        "Veronika Reisner",
-        "Sirri Batuhan Kalkan",
-        "Bert Nickel"
-      ],
-      "summary": "Organic thin-film transistors (TFTs) are key components for large-area and mechanically flexible electronic devices, and reliable fabrication methods beyond direct physical vapor deposition (PVD) are required, particularly for technical and non-planar surfaces. We fabricated organic TFTs by transferring organic small-molecule nanosheets. During the release and transfer process, the nanosheets experience significant mechanical stress, leading to plastic deformation or phase changes that can be quantified by X-ray diffraction (XRD). In accordance with classical bending theory, the mechanical stress can be significantly reduced by limiting the nanosheet thickness to 30 nm or less. Using this optimized thickness, we directly compare transferred nanosheets with thin films prepared by PVD on self-assembled monolayer (SAM)-functionalized bottom contacts. TFTs fabricated with transferred dinaphtho[2,3-b:2',3'-f]thieno[3,2-b]thiophene (DNTT) nanosheets exhibit a mobility of 0.32 cm2/V s and a subthreshold swing of 114 mV/dec, approaching state-of-the-art TFTs fabricated by direct PVD, which exhibit here a mobility of 0.42 cm2/V s. XRD indicates that transferred DNTT nanosheets exhibit superior crystalline order on the contacts compared to films grown by direct PVD. However, the PVD growth on the gate dielectric, i.e., on SAM-passivated Al2O3, is slightly better than on the sacrificial polymer layer. These results indicate that the transport properties of the transferred nanosheets are not primarily limited by the transfer process itself, but rather by the thin-film growth on the sacrificial water-soluble polymer layer. Transferable nanosheets have applications in hybrid devices and devices with unconventional geometries, e.g., non-planar transistors or devices containing free-standing thin films, where direct evaporation is challenging or not feasible.",
-      "score": 22,
-      "priority": 2,
-      "highlights": [
-        "transistor",
-        "nanosheets",
-        "semiconductor"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、nanosheets、半导体方向，围绕“Stress-controlled transfer of high-mobility organic semiconductor nanosheets fo…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、nanosheets、半导体方向，围绕“Stress-controlled transfer of high-mobility organic semiconductor nanosheets fo…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管、nanosheets、半导体.\nWhat to check: 先进尺度下的可扩展性.\nContext: Stress-controlled transfer of high-mobility organic semiconductor nanosheets for thin-film tran….",
-      "reading_notes": "Focus: 晶体管、nanosheets、半导体.\nWhat to check: 先进尺度下的可扩展性.\nContext: Stress-controlled transfer of high-mobility organic semiconductor nanosheets for thin-film tran…."
-    },
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0346280",
-      "title": "Competing hysteresis mechanisms in HZO/MoS2 transistors with a metal–ferroelectric–metal–insulator–semiconductor gate stack",
-      "url": "https://doi.org/10.1063/5.0346280",
-      "published": "2026-10-12",
-      "authors": [
-        "Kira S. Kolinko",
-        "Andrei D. Kudlaev",
-        "Maxim G. Kozodaev",
-        "Andrey M. Markeev",
-        "Anna G. Chernikova"
-      ],
-      "summary": "Ferroelectric field-effect transistors based on hafnium oxide offer a versatile platform for advanced memory concepts. Here, we demonstrate a proof-of-concept top-gated Hf0.5Zr0.5O2-based transistor integrating a metal–ferroelectric–metal–insulator–semiconductor (MFMIS) gate stack with a two-dimensional MoS2 channel. The implementation of such an architecture is particularly challenging in MoS2, where the strong sensitivity of the channel to trapped charge can further complicate the balance between ferroelectric switching and charge redistribution within the MFMIS stack. By varying the MFM-to-MIS area ratio and the applied gate-voltage amplitude, we observe a systematic evolution of the transfer hysteresis consistent with competing ferroelectric polarization switching and trap-related contributions. Temperature-dependent measurements, zero-bias write/read experiments, and compact Simulation Program with Integrated Circuit Emphasis modeling provide additional support for this interpretation. Despite the non-optimized gate stack, a substantial ferroelectric contribution to the device response is retained, while retention measurements reveal limitations associated with depolarization and trapping. These results demonstrate the feasibility of MFMIS ferroelectric transistors based on MoS2 and provide a basis for further optimization of their gate-stack design and memory performance.",
-      "score": 18,
-      "priority": 2,
-      "highlights": [
-        "transistor",
-        "semiconductor",
-        "ferroelectric"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、半导体、铁电材料方向，围绕“Competing hysteresis mechanisms in HZO/MoS2 transistors with a metal–ferroelect…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、半导体、铁电材料方向，围绕“Competing hysteresis mechanisms in HZO/MoS2 transistors with a metal–ferroelect…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管、半导体、铁电材料.\nWhat to check: 性能提升.\nContext: Competing hysteresis mechanisms in HZO/MoS2 transistors with a metal–ferroelectric–metal–insula….",
-      "reading_notes": "Focus: 晶体管、半导体、铁电材料.\nWhat to check: 性能提升.\nContext: Competing hysteresis mechanisms in HZO/MoS2 transistors with a metal–ferroelectric–metal–insula…."
-    },
     {
       "source": "arXiv",
       "uid": "arxiv:2610.16438v1",
@@ -79,56 +29,6 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、半导体、oxide semiconductor方向，围绕“Decoupling Trap States in Amorphous Oxide Semiconductor Transistor Using a Cond…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看效率/耦合表现、可靠性与稳定性、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: 晶体管、半导体、oxide semiconductor.\nWhat to check: 效率/耦合表现、可靠性与稳定性、先进尺度下的可扩展性.\nContext: Decoupling Trap States in Amorphous Oxide Semiconductor Transistor Using a Conductive-Semicondu….",
       "reading_notes": "Focus: 晶体管、半导体、oxide semiconductor.\nWhat to check: 效率/耦合表现、可靠性与稳定性、先进尺度下的可扩展性.\nContext: Decoupling Trap States in Amorphous Oxide Semiconductor Transistor Using a Conductive-Semicondu…."
-    },
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0323691",
-      "title": "Evolution mechanism of damage locations in drift region of SiC MOSFETs under heavy ion irradiation",
-      "url": "https://doi.org/10.1063/5.0323691",
-      "published": "2026-10-12",
-      "authors": [
-        "Xiaoping Dong",
-        "Mingmin Huang",
-        "Yichu Qin",
-        "Yao Ma",
-        "Zhimei Yang",
-        "Yun Li",
-        "Min Gong"
-      ],
-      "summary": "This paper investigates the evolution mechanism of severe thermal damage locations in the drift region of the SiC MOSFETs under different applied drain voltages (VDS(irra)) during heavy ion irradiation using 587 MeV 36Kr ions. It is interesting to find from the post-irradiation blocking I–V curves that the drain–source leakage current increases significantly at about 500 V for the case under relatively low VDS(irra) (175–300 V) and increases rapidly at low voltage for the case under relatively high VDS(irra) (350 V). To explain this phenomenon, a local damage-related lifetime-model along the ion track is proposed and validated by technology computer-aided design simulations. The model indicates that thermal damage will develop near the p-base/n-drift junction once the damage near the n-drift/n-sub junction along the ion track becomes sufficiently serious with increasing VDS(irra). The proposed evolution mechanism of severe thermal damage locations can help analyze mechanisms of single-event leakage current and single-event burnout in SiC devices and guide radiation-hardening designs for SiC devices.",
-      "score": 11,
-      "priority": 2,
-      "highlights": [
-        "MOSFET",
-        "SiC"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、SiC方向，围绕“Evolution mechanism of damage locations in drift region of SiC MOSFETs under he…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、SiC方向，围绕“Evolution mechanism of damage locations in drift region of SiC MOSFETs under he…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: MOSFET、SiC.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Evolution mechanism of damage locations in drift region of SiC MOSFETs under heavy ion irradiat….",
-      "reading_notes": "Focus: MOSFET、SiC.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Evolution mechanism of damage locations in drift region of SiC MOSFETs under heavy ion irradiat…."
-    },
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0352264",
-      "title": "High-mobility enhancement-mode thin-film transistors with 1.5 nm-thick ALD-grown Sn-doped In2O3 channels",
-      "url": "https://doi.org/10.1063/5.0352264",
-      "published": "2026-10-12",
-      "authors": [
-        "Seung Ho Ryu",
-        "Seungsu Kim",
-        "Taikyu Kim",
-        "Seong Keun Kim"
-      ],
-      "summary": "Aggressive channel thickness scaling to the sub-2 nm regime is essential for strengthening electrostatic gate control in monolithic three-dimensional electronics, but it causes severe carrier depletion and transport degradation in In2O3 thin-film transistors (TFTs). Here, we demonstrate enhancement-mode TFTs with 1.5 nm-thick Sn-doped In2O3 (ITO) channels prepared by inhibitor-assisted atomic layer deposition. At the same physical channel thickness, the ITO TFT exhibits a field-effect mobility of 25.7 ± 1.4 cm2V−1s−1, a subthreshold swing of 129 ± 31 mV/dec, and a threshold voltage of 0.2 ± 0.2 V, whereas the undoped In2O3 TFT undergoes severe transport degradation. The ITO TFT also shows markedly improved positive-bias-stress stability, with a threshold voltage shift of 0.37 V after 3600 s, whereas the thickness-matched In2O3 TFT reaches 2.07 V within 1000 s and fails before 3600 s. Analysis of the effective mobility and sheet carrier density indicates that Sn doping mitigates carrier depletion in the sub-2 nm channel. The resulting carrier replenishment improves on-state transport and strengthens electrostatic screening against positive-bias-induced trap charging, thereby improving the mobility–positive-bias-stress stability balance. These results establish controlled Sn doping as an effective strategy for realizing high-mobility ultrathin In2O3 TFTs with positive-bias-stress stability for monolithic three-dimensional electronics.",
-      "score": 11,
-      "priority": 1,
-      "highlights": [
-        "transistor"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“High-mobility enhancement-mode thin-film transistors with 1.5 nm-thick ALD-grow…”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升、可靠性与稳定性、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“High-mobility enhancement-mode thin-film transistors with 1.5 nm-thick ALD-grow…”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升、可靠性与稳定性、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: High-mobility enhancement-mode thin-film transistors with 1.5 nm-thick ALD-grown Sn-doped In2O3….",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: High-mobility enhancement-mode thin-film transistors with 1.5 nm-thick ALD-grown Sn-doped In2O3…."
     },
     {
       "source": "arXiv",
@@ -159,31 +59,6 @@
       "reading_notes": "Focus: 半导体、GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Direct growth of crystalline spinel GaON films: A wide-bandgap mixed-anion semiconductor."
     },
     {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0348039",
-      "title": "Cr2O3/β-Ga2O3 heterojunction diodes with orientation-dependent breakdown electric field",
-      "url": "https://doi.org/10.1063/5.0348039",
-      "published": "2026-10-12",
-      "authors": [
-        "Yizheng Liu",
-        "Haochen Wang",
-        "Carl Peterson",
-        "James S. Speck",
-        "Chris G. Van de Walle",
-        "Sriram Krishnamoorthy"
-      ],
-      "summary": "We report the fabrication of Cr2O3/β-Ga2O3 heterojunction diodes (HJDs) using reactive magnetron sputtering of Cr2O3 on highly doped β-Ga2O3 bulk substrates along (100), (010), (001), (110), and (011) orientation dependence of high electric field handling capability in β-Ga2O3. Additional relative permittivity values in (110) and (011) orientations of β-Ga2O3 were computed by using first-principles calculation methods for accurate apparent charge density (ND–NA) extraction and breakdown electric field analysis from capacitance–voltage measurements. The HJDs fabricated on n+ (110) exhibited breakdown electric fields &gt;10 MV/cm up to 12.9 MV/cm, showing the highest experimentally observed parallel-plane junction electric field among β-Ga2O3-based junctions. Breakdown electric fields among (100), (010), (001), and (011) orientations showed distinct distribution in the range of 5.13–5.26, 5.10–7.05, 2.70–3.33, and 3.88–4.38 MV/cm, respectively, validating the orientational dependence of parallel-plane junction electric field at breakdown in low-symmetry monoclinic β-Ga2O3. The parallel-plane breakdown electric fields (EBr,ǁ) reported in this work were extracted when the device experienced breakdown at 100 mA/cm2 current density compliance, and should not be confused with critical electric field (Ec) as a function of drift layer doping concentration, which accounts for electric-field dependent impact ionization coefficients in Si, SiC, and GaN. This study can guide the choice of crystal orientation for high-performance gallium oxide-based devices that require high electric field handling capability.",
-      "score": 10,
-      "priority": 1,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Cr2O3/β-Ga2O3 heterojunction diodes with orientation-dependent breakdown electr…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Cr2O3/β-Ga2O3 heterojunction diodes with orientation-dependent breakdown electr…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升.\nContext: Cr2O3/β-Ga2O3 heterojunction diodes with orientation-dependent breakdown electric field.",
-      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升.\nContext: Cr2O3/β-Ga2O3 heterojunction diodes with orientation-dependent breakdown electric field."
-    },
-    {
       "source": "Nature Electronics",
       "uid": "Nature Electronics:10.1038/s41928-026-01730-0",
       "title": "Building indium oxide transistors in three dimensions",
@@ -200,11 +75,142 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Building indium oxide transistors in three dimensions”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Building indium oxide transistors in three dimensions.",
       "reading_notes": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Building indium oxide transistors in three dimensions."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2610.17701v1",
+      "title": "Observation of stacked vortex structure with number controllable Majorana zero mode in Bi$_{2}$Te$_{3}$/FeTe heterojunction",
+      "url": "https://arxiv.org/abs/2610.17701v1",
+      "published": "2026-10-13",
+      "authors": [
+        "Xinru Han",
+        "Zhaokun Luo",
+        "Quanxin Hu",
+        "Xingjian Zhu",
+        "Xiaohong Pan",
+        "Dan Mu",
+        "Xinyu Liang",
+        "Zulin Xu",
+        "Qiheng Wang",
+        "Ryan L. Kong",
+        "Mingyuan Li",
+        "Zhengliang Zhang",
+        "Fazhi Yang",
+        "Mojun Pan",
+        "Xin Liu",
+        "Qiangqiang Gu",
+        "Baiqing Lv",
+        "Gan Wang",
+        "Hong Ding"
+      ],
+      "summary": "Creation and control of Majorana zero modes (MZMs) in solid devices is the key challenge in realizing fault tolerant topological quantum computation. Here we report spectroscopic evidence for number controllable MZMs in stoichiometric one quintuple layer Bi$_{2}$Te$_{3}$/FeTe heterostructures, together with the observation of stacked vortices in superconducting islands. Low temperature scanning tunnelling microscopy and spectroscopy reveal a long period moire superlattice arising from lattice mismatch, which induces nanoscale modulation of superconducting gaps. Magnetic vortices exhibit a stacked core structure with two layer derived bound state branches: a dispersive branch evolving into an X-shaped pattern away from the vortex center, and a quantum-limit branch characterized by a spatially unsplit MZMs together with discrete integer quantized Caroli-de Gennes-Matricon states. Notably, MZMs are observed in all measured vortices, and their number can be tuned by magnetic field and the size of Bi$_{2}$Te$_{3}$ islands. These results establish stoichiometric 1QL-Bi$_{2}$Te$_{3}$/FeTe as a patterned superconducting interface that enables isolated and few-vortex Majorana configurations, providing a controlled platform for fuse MZMs.",
+      "score": 4,
+      "priority": 1,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Observation of stacked vortex structure with number controllable Majorana zero …”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Observation of stacked vortex structure with number controllable Majorana zero …”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Observation of stacked vortex structure with number controllable Majorana zero mode in Bi$_{2}$….",
+      "reading_notes": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Observation of stacked vortex structure with number controllable Majorana zero mode in Bi$_{2}$…."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2610.16949v1",
+      "title": "First-Principles Calculations of the Electron-Hole-Pair Creation Energy in Semiconductors and Dielectrics",
+      "url": "https://arxiv.org/abs/2610.16949v1",
+      "published": "2026-10-12",
+      "authors": [
+        "Dallin O. Nielsen",
+        "Massimo V. Fischetti"
+      ],
+      "summary": "We present first-principles calculations of the electron-hole-pair creation energy in semiconductors and dielectrics, focusing in particular on AlN, 3C-SiC, 4H-SiC, Si, and SiO2. We have employed density functional theory (DFT) to calculate the band structure, density-functional perturbation theory to obtain the phonon dispersion, and time-dependent DFT (TDDFT) to calculate the electron energy loss function (via the dielectric function). We performed full-band Monte Carlo simulations of electron thermalization for energies up to ~100 eV and calculated the average energy required to excite an electron-hole pair. We calculated pair-creation energies of approximately 12.2, 6.5, 7.3, 3.10, and 16.7 eV/pair for AlN, 3C-SiC, 4H-SiC, Si, and SiO2, respectively. These values are in good agreement with measured data, with the largest discrepancy being that of Si (about 14.9% lower than the accepted experimental value of ~3.6 eV/pair). To improve the agreement for Si, we used the GW approach and the Bethe-Salpeter equation (BSE) to calculate the quasiparticle shifts of the electronic band structure and the dielectric function, respectively. Finally, using the GW/BSE data, we calculated a creation energy of ~3.50 eV/pair. We find that the marked improvement in the accuracy of the calculated creation energy, when using the GW/BSE approach, is primarily attributable to the slight decrease in the magnitude of the electron energy-loss function when using the GW/BSE approach for energies below ~10-15 eV. Overall, it is clear that the competition between phonon emission and ionization near the intersection of the phonon scattering and ionization rates is largely responsible for determining the value of the creation energy, with the other major factor being the location and shape of the plasmon peak in the energy-loss function.",
+      "score": 10,
+      "priority": 0,
+      "highlights": [
+        "semiconductor",
+        "dielectric"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体、介电材料方向，围绕“First-Principles Calculations of the Electron-Hole-Pair Creation Energy in Semi…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、效率/耦合表现、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体、介电材料方向，围绕“First-Principles Calculations of the Electron-Hole-Pair Creation Energy in Semi…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、效率/耦合表现、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 半导体、介电材料.\nWhat to check: 性能提升、效率/耦合表现、功耗或能效表现.\nContext: First-Principles Calculations of the Electron-Hole-Pair Creation Energy in Semiconductors and D….",
+      "reading_notes": "Focus: 半导体、介电材料.\nWhat to check: 性能提升、效率/耦合表现、功耗或能效表现.\nContext: First-Principles Calculations of the Electron-Hole-Pair Creation Energy in Semiconductors and D…."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2610.17847v1",
+      "title": "Theory of deeply subwavelength electromagnetic structuring of semiconductors due to thermal-ionization instability",
+      "url": "https://arxiv.org/abs/2610.17847v1",
+      "published": "2026-10-13",
+      "authors": [
+        "I. V. Oladyshkin",
+        "D. I. Kulshin",
+        "E. O. Smolina"
+      ],
+      "summary": "We develop a theory of ionization-assisted instability that governs the reflection of intense electromagnetic pulses from a semiconductor surface. Local overheating of the material increases the free-carrier density and conductivity, which in turn enhances the absorption of the incident radiation and further amplifies local heating and avalanche ionization. At high pump repetition rates, the overheating accumulates from pulse to pulse, leading to a gradual rise of the local material temperature and free carrier density - a positive feedback loop that drives thermal runaway. However, this effect competes with diffraction of the pump field on the emerging perturbation of the dielectric permittivity or on the surface relief, which reduces the local electric field amplitude in the overheated regions, thus providing negative feedback. We show that the competition between heat diffusion and diffraction near-field weakening creates conditions for the exponential growth of temperature perturbations with a certain wavenumber determined by the pulse repetition rate, pump field, thermal conductivity and other material parameters. The derived analytical expressions accurately describe the spatial period of deeply subwavelength structures observed in recent experiments on silicon structuring by intense terahertz radiation, and reproduce qualitatively dependencies of their period on the pump intensity, the incident wavelength and the number of pump pulses.",
+      "score": 7,
+      "priority": 0,
+      "highlights": [
+        "semiconductor"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体方向，围绕“Theory of deeply subwavelength electromagnetic structuring of semiconductors du…”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看性能提升、可靠性与稳定性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体方向，围绕“Theory of deeply subwavelength electromagnetic structuring of semiconductors du…”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看性能提升、可靠性与稳定性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 半导体.\nWhat to check: 性能提升、可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Theory of deeply subwavelength electromagnetic structuring of semiconductors due to thermal-ion….",
+      "reading_notes": "Focus: 半导体.\nWhat to check: 性能提升、可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Theory of deeply subwavelength electromagnetic structuring of semiconductors due to thermal-ion…."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2610.21437v1",
+      "title": "Casimir forces on suspended thin dielectric membranes covered with graphene",
+      "url": "https://arxiv.org/abs/2610.21437v1",
+      "published": "2026-10-15",
+      "authors": [
+        "Tze Ue Ngai",
+        "Zuocheng Zhang",
+        "Q. Zhang",
+        "Youssef Jeyar",
+        "Jingwei Li",
+        "Zhengtang Luo",
+        "Mauro Antezza",
+        "H. B. Chan"
+      ],
+      "summary": "We investigate the Casimir force on thin suspended dielectric layers covered with graphene, both theoretically and experimentally. Thermal effects of the Casimir force on graphene occur at separations significantly smaller compared to ordinary metals and dielectrics. At such small separations, the Casimir force is sufficiently strong to be measured experimentally. However, the presence of substrates to support the graphene significantly reduces the enhancement. We show theoretically that replacing the solid substrate beneath graphene with a thin dielectric membrane partially restores this strong thermal dependence. One of the interacting objects is a solid gold plate. The other object is a suspended dielectric membrane made of either 15 nm of silicon oxide or 13 nm silicon nitride, covered with graphene. At a separation of $\\sim$500 nm, theoretical predictions yield changes in the Casimir pressure of up to 54 % and 40 % for silicon oxide and silicon nitride, respectively, when the temperature is increased from 10 K to 294 K. Measurements were performed for graphene on a suspended silicon nitride membrane at room temperature, using a gold-coated sphere attached to a cantilever as the force sensor. The measured force gradient is consistent with the theoretical prediction, although the thermal dependence could not be resolved, in part because of uncertainties in the optical properties of silicon nitride. Replacing a bulk substrate with a thin dielectric membrane covered with graphene provides a substantial reduction of the Casimir force, which may facilitate the stable operation of neutral nanomechanical elements at small separations.",
+      "score": 5,
+      "priority": 0,
+      "highlights": [
+        "dielectric"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注介电材料方向，围绕“Casimir forces on suspended thin dielectric membranes covered with graphene”展开。摘要显示，文章重点涉及电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注介电材料方向，围绕“Casimir forces on suspended thin dielectric membranes covered with graphene”展开。摘要显示，文章重点涉及电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 介电材料.\nWhat to check: 性能提升、可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Casimir forces on suspended thin dielectric membranes covered with graphene.",
+      "reading_notes": "Focus: 介电材料.\nWhat to check: 性能提升、可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Casimir forces on suspended thin dielectric membranes covered with graphene."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2610.19259v1",
+      "title": "Topologically Protected Surface Acoustic Wave Edge States in Phononic Integrated Circuits",
+      "url": "https://arxiv.org/abs/2610.19259v1",
+      "published": "2026-10-14",
+      "authors": [
+        "Jack Guida",
+        "Niccolo Scalise Pantuso",
+        "Cristian Cassella",
+        "Sunil Mittal",
+        "Siddhartha Ghosh"
+      ],
+      "summary": "Phononic integrated circuits enable the development of compact systems to manipulate radio frequency signals through interconnected networks of acoustic waveguides. Introducing topologically protected robustness in these circuits to counter fabrication imperfections and local perturbations, remains a challenge. This work presents a validated modeling framework for topologically protected edge states using surface acoustic waves in etch-defined waveguides consisting of scandium aluminum nitride on silicon carbide, directly comparing analytical, full-wave numerical simulation, and laser Doppler vibrometer measured experimental approaches and their agreement. This work represents the first experimental demonstration of topological edge states on a ScAlN on SiC platform, validated through direct quantitative comparison with analytical and numerical analyses, with future implications for topological protection in phononic and optomechanical integrated circuit platforms.",
+      "score": 5,
+      "priority": 0,
+      "highlights": [],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Topologically Protected Surface Acoustic Wave Edge States in Phononic Integrate…”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、接触/互连相关指标、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Topologically Protected Surface Acoustic Wave Edge States in Phononic Integrate…”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、接触/互连相关指标、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 可靠性与稳定性、接触/互连相关指标、与既有工艺平台的集成价值.\nContext: Topologically Protected Surface Acoustic Wave Edge States in Phononic Integrated Circuits.",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 可靠性与稳定性、接触/互连相关指标、与既有工艺平台的集成价值.\nContext: Topologically Protected Surface Acoustic Wave Edge States in Phononic Integrated Circuits."
     }
   ],
   "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-10-18T00:30:00+00:00"
+  "generated_at": "2026-10-19T00:30:00+00:00"
 }
