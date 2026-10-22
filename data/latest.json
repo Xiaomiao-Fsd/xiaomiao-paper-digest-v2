@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 13,
+  "new_count": 9,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-21）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 5 篇\n1. [Applied Physics Letters] Depletion-mode N-polar AlN-based high electron mobility transistors on sapphire with improv…\n   关键词：transistor, GaN\n   日期：2026-10-19\n   Authors: Xu Yang, Sheng Zhang, Itsuki Furuhashi 等\n   https://doi.org/10.1063/5.0343795\n2. [Applied Physics Letters] Frequency improvement and asymmetry characteristics of tri-stripe AlGaN/GaN MSM-2DEG varact…\n   关键词：GaN\n   日期：2026-10-19\n   Authors: Gengxin Lin, Lingfeng Kang, Zejia Deng 等\n   https://doi.org/10.1063/5.0335600\n3. [arXiv] Nanowire-Assisted Epitaxial Lateral Overgrowth of Planar GaN(0001) on Diamond(100)\n   关键词：GaN\n   日期：2026-10-19\n   Authors: Brijmohan Paramanik, Mayur Shinde, Subhranshu Sekhar Sahu 等\n   https://arxiv.org/abs/2610.26158v1\n4. [Applied Physics Letters] Artificial gauge field modulated on-chip gigahertz acoustic coupling\n   关键词：GaN\n   日期：2026-10-19\n   Authors: Jiazhou Chen, Haifei Zhu, Yong Mei 等\n   https://doi.org/10.1063/5.0358605\n5. [arXiv] Hydrogen Ion-Cut Single-Crystal Diamond Membranes for Wide and Ultrawide Bandgap Semiconduc…\n   关键词：semiconductor, GaN\n   日期：2026-10-16\n   Authors: Xuanyu Zhou, Chenyu Wang, Dmitry Shinyavskiy 等\n   https://arxiv.org/abs/2610.23433v1\n6. [arXiv] Gate-defined quantum dot and charge noise analysis in a Forksheet transistor\n   关键词：transistor\n   日期：2026-10-17\n   Authors: Dominic Leclerc, Claude Rohrbacher, Alexis Morel 等\n   https://arxiv.org/abs/2610.24136v1\n7. [Applied Physics Letters] Modulating and stabilizing MoS2 electronics via a sulfur capping layer\n   日期：2026-10-19\n   Authors: Haoyang Cheng, Tong Li, Yuchao Zhou 等\n   https://doi.org/10.1063/5.0349347\n8. [Applied Physics Letters] Schottky-interface-controlled mode-reconfigurable photoresponse in all-2D MESFET\n   日期：2026-10-19\n   Authors: Ziheng Zhao, Qiman Zhang, Hang Deng 等\n   https://doi.org/10.1063/5.0354621",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-22）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 1 篇\n1. [Applied Physics Letters] Three-dimensional visualization of threading dislocations in GaN by polarized-light microsc…\n   关键词：GaN\n   日期：2026-10-19\n   Authors: Yukari Ishikawa, Kisara Matsumoto, Kazuki Ohnishi 等\n   https://doi.org/10.1063/5.0349863\n2. [Applied Physics Letters] Experimental study of <b> <i>β</i> </b> -Ga2O3 MOSFET with <i>p</i> -NiO source field plate…\n   关键词：MOSFET\n   日期：2026-10-19\n   Authors: Xiangnan Li, Jialei Tan, Na Sun 等\n   https://doi.org/10.1063/5.0351704\n3. [Science Advances] High ambipolar mobility fluorinated MXene for ultrasensitive biosensing transistors\n   关键词：transistor\n   日期：2026-10-23\n   Authors: Yang Yue, Junhong Zhao, Xuejun Wang 等\n   https://doi.org/10.1126/sciadv.aeg5289\n4. [Applied Physics Letters] Room-temperature multiferroicity in van der Waals Fe-doped SnSe semiconductors\n   关键词：semiconductor\n   日期：2026-10-19\n   Authors: Muhammad Younis, Sichao Dai, Anwar Ali 等\n   https://doi.org/10.1063/5.0348118\n5. [Applied Physics Letters] Magnetic-field-modulated H2S sensing performance of CVD-grown CuO/Cu2O\n   日期：2026-10-19\n   Authors: Sumit Kumar, Mubashir Mushtaq Ganaie, Suresh Kumar 等\n   https://doi.org/10.1063/5.0346114\n6. [Applied Physics Letters] Localized phonon polariton resonances in CaF2 nanoparticles\n   日期：2026-10-19\n   Authors: Davide Baiocco, Marco Carlotti, Xingxu Liu 等\n   https://doi.org/10.1063/5.0352295\n7. [Science Advances] Spatial decoupling of recognition and signaling in aptamer switches via tri-strand intermol…\n   日期：2026-10-23\n   Authors: Albert Zehan Li, Sean W. Stewart, Conrad H. T. Belzberg 等\n   https://doi.org/10.1126/sciadv.aeh8187\n8. [arXiv] Charge-conserving creation and annihilation of topological phase singularities in atomicall…\n   关键词：semiconductor\n   日期：2026-10-20\n   Authors: Yongjing Wang, Yuhang Wang, Guoshuai Fan 等\n   https://arxiv.org/abs/2610.27486v1",
   "papers": [
     {
       "source": "Applied Physics Letters",
@@ -91,6 +91,29 @@
       "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、先进尺度下的可扩展性、接触/互连相关指标.\nContext: Frequency improvement and asymmetry characteristics of tri-stripe AlGaN/GaN MSM-2DEG varactors."
     },
     {
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0349863",
+      "title": "Three-dimensional visualization of threading dislocations in GaN by polarized-light microscopy",
+      "url": "https://doi.org/10.1063/5.0349863",
+      "published": "2026-10-19",
+      "authors": [
+        "Yukari Ishikawa",
+        "Kisara Matsumoto",
+        "Kazuki Ohnishi",
+        "Yongzhao Yao"
+      ],
+      "summary": "We demonstrate high-throughput three-dimensional imaging of threading dislocations in an ammonothermal gallium nitride (GaN) wafer using polarized-light microscopy with collimated LED illumination. Threading dislocations exhibited focal-depth-dependent in-plane shifts, enabling visualization of their three-dimensional inclination behavior over large areas. The experimentally observed trace geometries were reproduced by a geometrical model with a characteristic inclination of approximately 3.3° from the c axis. For the threading edge dislocations constituting the honeycomb defects, the inclination directions were approximately perpendicular to their x-ray topography-determined Burgers-vector directions, consistent with a climb component. Isolated dislocations with similar trace geometries showed corresponding relationships between their trace directions and assigned Burgers-vector directions under the assumption of edge character. These results demonstrate a simple nondestructive approach for large-area three-dimensional characterization of dislocations in GaN wafers.",
+      "score": 10,
+      "priority": 2,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Three-dimensional visualization of threading dislocations in GaN by polarized-l…”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Three-dimensional visualization of threading dislocations in GaN by polarized-l…”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Three-dimensional visualization of threading dislocations in GaN by polarized-light microscopy.",
+      "reading_notes": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Three-dimensional visualization of threading dislocations in GaN by polarized-light microscopy."
+    },
+    {
       "source": "arXiv",
       "uid": "arxiv:2610.26158v1",
       "title": "Nanowire-Assisted Epitaxial Lateral Overgrowth of Planar GaN(0001) on Diamond(100)",
@@ -117,6 +140,37 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Nanowire-Assisted Epitaxial Lateral Overgrowth of Planar GaN(0001) on Diamond(1…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: GaN.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Nanowire-Assisted Epitaxial Lateral Overgrowth of Planar GaN(0001) on Diamond(100).",
       "reading_notes": "Focus: GaN.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Nanowire-Assisted Epitaxial Lateral Overgrowth of Planar GaN(0001) on Diamond(100)."
+    },
+    {
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0351704",
+      "title": "Experimental study of <b> <i>β</i> </b> -Ga2O3 MOSFET with <i>p</i> -NiO source field plate for high-performance",
+      "url": "https://doi.org/10.1063/5.0351704",
+      "published": "2026-10-19",
+      "authors": [
+        "Xiangnan Li",
+        "Jialei Tan",
+        "Na Sun",
+        "Kaiwei Dai",
+        "Yuxi Wei",
+        "Leiting Chen",
+        "Jie Wei",
+        "Xuanze Zhou",
+        "Guangwei Xu",
+        "Jiandong Ye",
+        "Shibing Long",
+        "Xiaorong Luo"
+      ],
+      "summary": "In this work, we demonstrate a lateral Ga2O3 metal oxide semiconductor field effect transistor (MOSFET) with the p-NiO source field plate (PSFP). The PSFP consists of a p-NiO layer above the n-drift, which is shorted to the source electrode and isolated from Ga2O3 by an Al2O3 layer. In the OFF-state, the p-NiO not only modulates the electric field distribution to enhance breakdown voltage (BV) but also assists depleting the n-drift and allows an elevated doping concentration to reduce specific on-resistance (Ron,sp). In the ON-state, the Al2O3 dielectric layer suppresses the NiO-induced n-drift depletion, inhibiting Ron,sp degradation. Through the use of multiple-energy silicon ion implantations into the Ohmic contact regions and subsequent high-temperature annealing, an ultralow Ohmic contact resistance of 0.35 Ω mm is achieved. Compared with conventional MOSFET (Con. MOSFET) and MOSFET with the p-NiO floating field plate (PFFP MOSFET), the fabricated PSFP MOSFET achieves a BV of 2580 V at Nd = 3.5 × 1017 cm−3 and LGD = 25 μm, which is increased by 104% and 94%, respectively; the PSFP MOSFET obtains a power figure of merit of 46.87 MW/cm2, which is increased by 294% and 252%. It is expected that PSFP is a promising technological strategy to fulfill the potential of Ga2O3 for the high-efficiency power conversion.",
+      "score": 15,
+      "priority": 1,
+      "highlights": [
+        "MOSFET"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET方向，围绕“Experimental study of <b> <i>β</i> </b> -Ga2O3 MOSFET with <i>p</i> -NiO source…”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升、效率/耦合表现、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET方向，围绕“Experimental study of <b> <i>β</i> </b> -Ga2O3 MOSFET with <i>p</i> -NiO source…”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升、效率/耦合表现、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: MOSFET.\nWhat to check: 性能提升、效率/耦合表现、功耗或能效表现.\nContext: Experimental study of <b> <i>β</i> </b> -Ga2O3 MOSFET with <i>p</i> -NiO source field plate for….",
+      "reading_notes": "Focus: MOSFET.\nWhat to check: 性能提升、效率/耦合表现、功耗或能效表现.\nContext: Experimental study of <b> <i>β</i> </b> -Ga2O3 MOSFET with <i>p</i> -NiO source field plate for…."
     },
     {
       "source": "Applied Physics Letters",
@@ -153,93 +207,34 @@
       "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: Artificial gauge field modulated on-chip gigahertz acoustic coupling."
     },
     {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0357706",
-      "title": "Self-powered, filter-free, and fast solar-blind photodetectors enabled by luminescent converters with giant Stokes shift",
-      "url": "https://doi.org/10.1063/5.0357706",
-      "published": "2026-10-19",
+      "source": "Science Advances",
+      "uid": "doi:10.1126/sciadv.aeg5289",
+      "title": "High ambipolar mobility fluorinated MXene for ultrasensitive biosensing transistors",
+      "url": "https://doi.org/10.1126/sciadv.aeg5289",
+      "published": "2026-10-23",
       "authors": [
-        "Chuan-Guo Shi",
-        "Jia-Xing Lian",
-        "Jiaxin Sui",
-        "Zhixing Gan"
+        "Yang Yue",
+        "Junhong Zhao",
+        "Xuejun Wang",
+        "Yanan Tang",
+        "Yunqi Liu",
+        "Dacheng Wei"
       ],
-      "summary": "Solar-blind photodetectors (SBPDs) are commonly plagued by trade-offs among superior spectral selectivity, high responsivity, and rapid photoresponse speed. Herein, we report a self-powered SBPD integrated with an Er3+-doped metal halide luminescent converter, nominal composition Cs2Ag0.3Na0.7In0.6Er0.4Cl6, which features an enormous Stokes shift. This luminescent medium converts deep-ultraviolet (DUV) photons into visible emission, which is subsequently captured by a commercial silicon photodiode (Si PD). The converter realizes two integrated functions simultaneously: highly efficient DUV-to-visible photon conversion and intrinsic visible-light rejection, thereby removing the requirement for additional external optical filters. Operated under zero bias, the fabricated device delivers a remarkable responsivity of 226.7 mA/W upon 280 nm irradiation at an optical power of 10 μW, an eightfold enhancement relative to the pristine Si PD. Meanwhile, the photodetector exhibits a prominent photo-to-dark current ratio of approximately 4500. More importantly, the system exhibits an ultrafast photoresponse, with rise and fall times measured at 143 and 77 μs, respectively, which is about three orders of magnitude faster than typical Ga2O3-based SBPDs limited by persistent photoconductivity. The proposed design circumvents the intrinsic material drawbacks of conventional wide-bandgap semiconductors, establishing a strategy for low-cost, high-speed solar-blind photodetection.",
-      "score": 9,
-      "priority": 1,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Self-powered, filter-free, and fast solar-blind photodetectors enabled by lumin…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Self-powered, filter-free, and fast solar-blind photodetectors enabled by lumin…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现、与既有工艺平台的集成价值.\nContext: Self-powered, filter-free, and fast solar-blind photodetectors enabled by luminescent converter….",
-      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现、与既有工艺平台的集成价值.\nContext: Self-powered, filter-free, and fast solar-blind photodetectors enabled by luminescent converter…."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2610.23433v1",
-      "title": "Hydrogen Ion-Cut Single-Crystal Diamond Membranes for Wide and Ultrawide Bandgap Semiconductor Heterointegration",
-      "url": "https://arxiv.org/abs/2610.23433v1",
-      "published": "2026-10-16",
-      "authors": [
-        "Xuanyu Zhou",
-        "Chenyu Wang",
-        "Dmitry Shinyavskiy",
-        "Lu Chen",
-        "Luke Suter",
-        "Andreas Graff",
-        "Michel Simon-Najasek",
-        "Vincent Gambin",
-        "Katherine T. Fountaine",
-        "Zhenqiang Ma",
-        "Frank Altmann",
-        "Matthias Muehle",
-        "Jung-Hun Seo"
-      ],
-      "summary": "Single-crystal diamond membranes (SCDms) were created using a hydrogen ion-cut process combined with a two-step post-implantation annealing, electrochemical etching, and micro-transfer printing. Monte Carlo simulations comparing H, He, C, and O implantation predicted a narrower vacancy-distribution profile for hydrogen under the implantation conditions examined. Raman spectroscopy was used to evaluate implantation-induced lattice damage and its recovery during annealing and membrane release, while optical bandgap analysis provided further evidence of restoration of the diamond lattice structure. After delamination and removal of residual graphitic material, freestanding SCDms with improved crystalline quality were obtained. The SCDms were subsequently transferred to GaN, SiC, AlGaN, and AlN substrates without an adhesive layer. The successful formation of diamond/WBG and diamond/UWBG heterostructures demonstrates the feasibility of integrating the SCDms with a range of semiconductor platforms. Overall, these results establish hydrogen implantation as an effective route for producing high-quality SCDms for future diamond-based heterogeneous integration applications.",
-      "score": 9,
-      "priority": 1,
-      "highlights": [
-        "semiconductor",
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体、GaN方向，围绕“Hydrogen Ion-Cut Single-Crystal Diamond Membranes for Wide and Ultrawide Bandga…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体、GaN方向，围绕“Hydrogen Ion-Cut Single-Crystal Diamond Membranes for Wide and Ultrawide Bandga…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 半导体、GaN.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: Hydrogen Ion-Cut Single-Crystal Diamond Membranes for Wide and Ultrawide Bandgap Semiconductor ….",
-      "reading_notes": "Focus: 半导体、GaN.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: Hydrogen Ion-Cut Single-Crystal Diamond Membranes for Wide and Ultrawide Bandgap Semiconductor …."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2610.24136v1",
-      "title": "Gate-defined quantum dot and charge noise analysis in a Forksheet transistor",
-      "url": "https://arxiv.org/abs/2610.24136v1",
-      "published": "2026-10-17",
-      "authors": [
-        "Dominic Leclerc",
-        "Claude Rohrbacher",
-        "Alexis Morel",
-        "Joffrey Rivard",
-        "Romain Ritzenthaler",
-        "Christian Lupien",
-        "Hans Mertens",
-        "Naoto Horiguchi",
-        "Eva Dupont-Ferrier"
-      ],
-      "summary": "We report the cryogenic characterization of a 14-nm nMOS Forksheet transistor down to 10 mK. We demonstrate that the device retains transistor operation with improved characteristics at cryogenic temperatures, while also forming a gate-defined quantum dot that can be tuned to the single-electron regime. In the quantum-dot regime, we perform low-frequency charge-noise measurements across different charge occupations and observe an average charge-noise amplitude of $\\langle S_0\\rangle = 10\\;μ\\mathrm{eV}/\\sqrt{\\mathrm{Hz}}$ at 1 Hz, with a minimum measured value of $3.3\\;μ\\mathrm{eV}/\\sqrt{\\mathrm{Hz}}$. These results highlight the potential of Forksheet technology for the monolithic cointegration of quantum and classical CMOS functionalities in future quantum processors.",
-      "score": 8,
+      "summary": "Transition metal carbides and nitrides (MXenes) are emerging as transformative materials for bioelectronics. However, the advancement of MXene-based field-effect transistor (FET) biosensors is hindered by the lack of high-quality aqueous-stable materials and the low signal transduction efficiency intrinsic to their metallic nature. To address these issues, we report an ultrasensitive biosensing platform enabled by an in-situ fluorination strategy of MXene. By substituting unstable oxygen-containing terminations with chemically stable fluorine terminations in a mild reaction, we synthesized high-quality fluorinated MXene with the record-breaking ambipolar field-effect mobility (μ p = 10.42 cm 2 V −1 s −1 , μ n = 30.23 cm 2 V −1 s −1 ). The highly electronegative fluorinated interface suppresses interfacial electrical double-layer capacitance, boosting signal transduction efficiency. Consequently, the platform achieves the lowest limit of detection (LOD) of 0.26 fg ml −1 for Mycobacterium tuberculosis antigen MPT64 among MXene FETs up to date, accompanied by a high current response of 35.02% at LOD. Clinical validation across 126 serum samples demonstrated a diagnostic accuracy of 97.6% with a detection time of 38 s, exhibiting the high-performance and reliable biosensing in complex physiological environments.",
+      "score": 12,
       "priority": 1,
       "highlights": [
         "transistor"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Gate-defined quantum dot and charge noise analysis in a Forksheet transistor”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Gate-defined quantum dot and charge noise analysis in a Forksheet transistor”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: Gate-defined quantum dot and charge noise analysis in a Forksheet transistor.",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: Gate-defined quantum dot and charge noise analysis in a Forksheet transistor."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“High ambipolar mobility fluorinated MXene for ultrasensitive biosensing transis…”展开。摘要显示，文章重点涉及电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“High ambipolar mobility fluorinated MXene for ultrasensitive biosensing transis…”展开。摘要显示，文章重点涉及电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: High ambipolar mobility fluorinated MXene for ultrasensitive biosensing transistors.",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: High ambipolar mobility fluorinated MXene for ultrasensitive biosensing transistors."
     }
   ],
   "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-10-21T00:30:00+00:00"
+  "generated_at": "2026-10-22T00:30:00+00:00"
 }
