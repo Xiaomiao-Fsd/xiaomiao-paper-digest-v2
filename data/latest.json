@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 9,
+  "new_count": 0,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-22）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 1 篇\n1. [Applied Physics Letters] Three-dimensional visualization of threading dislocations in GaN by polarized-light microsc…\n   关键词：GaN\n   日期：2026-10-19\n   Authors: Yukari Ishikawa, Kisara Matsumoto, Kazuki Ohnishi 等\n   https://doi.org/10.1063/5.0349863\n2. [Applied Physics Letters] Experimental study of <b> <i>β</i> </b> -Ga2O3 MOSFET with <i>p</i> -NiO source field plate…\n   关键词：MOSFET\n   日期：2026-10-19\n   Authors: Xiangnan Li, Jialei Tan, Na Sun 等\n   https://doi.org/10.1063/5.0351704\n3. [Science Advances] High ambipolar mobility fluorinated MXene for ultrasensitive biosensing transistors\n   关键词：transistor\n   日期：2026-10-23\n   Authors: Yang Yue, Junhong Zhao, Xuejun Wang 等\n   https://doi.org/10.1126/sciadv.aeg5289\n4. [Applied Physics Letters] Room-temperature multiferroicity in van der Waals Fe-doped SnSe semiconductors\n   关键词：semiconductor\n   日期：2026-10-19\n   Authors: Muhammad Younis, Sichao Dai, Anwar Ali 等\n   https://doi.org/10.1063/5.0348118\n5. [Applied Physics Letters] Magnetic-field-modulated H2S sensing performance of CVD-grown CuO/Cu2O\n   日期：2026-10-19\n   Authors: Sumit Kumar, Mubashir Mushtaq Ganaie, Suresh Kumar 等\n   https://doi.org/10.1063/5.0346114\n6. [Applied Physics Letters] Localized phonon polariton resonances in CaF2 nanoparticles\n   日期：2026-10-19\n   Authors: Davide Baiocco, Marco Carlotti, Xingxu Liu 等\n   https://doi.org/10.1063/5.0352295\n7. [Science Advances] Spatial decoupling of recognition and signaling in aptamer switches via tri-strand intermol…\n   日期：2026-10-23\n   Authors: Albert Zehan Li, Sean W. Stewart, Conrad H. T. Belzberg 等\n   https://doi.org/10.1126/sciadv.aeh8187\n8. [arXiv] Charge-conserving creation and annihilation of topological phase singularities in atomicall…\n   关键词：semiconductor\n   日期：2026-10-20\n   Authors: Yongjing Wang, Yuhang Wang, Guoshuai Fan 等\n   https://arxiv.org/abs/2610.27486v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-23）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 4 篇\n1. [Applied Physics Letters] AlN/AlGaN heterostructure field-effect transistor power devices advantageous for high-tempe…\n   关键词：transistor, GaN\n   日期：2026-10-19\n   Authors: Rongjun Zhang, Sirui Feng, Yanqiu Wang 等\n   https://doi.org/10.1063/5.0344498\n2. [Applied Physics Letters] Depletion-mode N-polar AlN-based high electron mobility transistors on sapphire with improv…\n   关键词：transistor, GaN\n   日期：2026-10-19\n   Authors: Xu Yang, Sheng Zhang, Itsuki Furuhashi 等\n   https://doi.org/10.1063/5.0343795\n3. [Applied Physics Letters] Experimental study of <b> <i>β</i> </b> -Ga2O3 MOSFET with <i>p</i> -NiO source field plate…\n   关键词：MOSFET\n   日期：2026-10-19\n   Authors: Xiangnan Li, Jialei Tan, Na Sun 等\n   https://doi.org/10.1063/5.0351704\n4. [Applied Physics Letters] Artificial gauge field modulated on-chip gigahertz acoustic coupling\n   关键词：GaN\n   日期：2026-10-19\n   Authors: Jiazhou Chen, Haifei Zhu, Yong Mei 等\n   https://doi.org/10.1063/5.0358605\n5. [Science Advances] High ambipolar mobility fluorinated MXene for ultrasensitive biosensing transistors\n   关键词：transistor\n   日期：2026-10-23\n   Authors: Yang Yue, Junhong Zhao, Xuejun Wang 等\n   https://doi.org/10.1126/sciadv.aeg5289\n6. [Applied Physics Letters] Self-powered, filter-free, and fast solar-blind photodetectors enabled by luminescent conve…\n   关键词：GaN\n   日期：2026-10-19\n   Authors: Chuan-Guo Shi, Jia-Xing Lian, Jiaxin Sui 等\n   https://doi.org/10.1063/5.0357706\n7. [Applied Physics Letters] Modulating and stabilizing MoS2 electronics via a sulfur capping layer\n   日期：2026-10-19\n   Authors: Haoyang Cheng, Tong Li, Yuchao Zhou 等\n   https://doi.org/10.1063/5.0349347\n8. [Applied Physics Letters] Room-temperature multiferroicity in van der Waals Fe-doped SnSe semiconductors\n   关键词：semiconductor\n   日期：2026-10-19\n   Authors: Muhammad Younis, Sichao Dai, Anwar Ali 等\n   https://doi.org/10.1063/5.0348118\n注：以下源本次抓取失败：arXiv",
   "papers": [
     {
       "source": "Applied Physics Letters",
@@ -61,85 +61,6 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、GaN方向，围绕“Depletion-mode N-polar AlN-based high electron mobility transistors on sapphire…”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看性能提升、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: 晶体管、GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Depletion-mode N-polar AlN-based high electron mobility transistors on sapphire with improved o….",
       "reading_notes": "Focus: 晶体管、GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Depletion-mode N-polar AlN-based high electron mobility transistors on sapphire with improved o…."
-    },
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0335600",
-      "title": "Frequency improvement and asymmetry characteristics of tri-stripe AlGaN/GaN MSM-2DEG varactors",
-      "url": "https://doi.org/10.1063/5.0335600",
-      "published": "2026-10-19",
-      "authors": [
-        "Gengxin Lin",
-        "Lingfeng Kang",
-        "Zejia Deng",
-        "Jianzhong Chen",
-        "Qiyu Chen",
-        "Jianxin Ning",
-        "Yukun Han",
-        "Junze Li",
-        "Jianping Zeng"
-      ],
-      "summary": "This study presents an AlGaN/GaN heterojunction varactor employing a tri-stripe metal–semiconductor–metal (MSM) structure that exploits the two-dimensional electron gas (2DEG). The device exhibits a strong dependence of its electrical characteristics on the device width (W): both series resistance and capacitance decrease monotonically with reducing W. Through dimensional scaling, the R0·Cj product of the device decreases significantly, thereby improving the cutoff frequency (fc). Although the capacitance switching ratio (Cratio) shows a slight decrease with reduced W, the overall cutoff frequency figure-of-merit (FOM) of the device is effectively improved. Specifically, using a tri-stripe MSM-2DEG structure with a width of 10 μm and a gate gap of 450 nm, a high FOM of 8.27 THz and a Cratio of 3.42 are obtained. The study further reveals that the capacitance characteristics become asymmetric for smaller W values. Concurrently, the shift voltage (Vshift) shifts toward lower voltages with decreasing W, corresponding to the point of most rapid capacitance change, where the Fermi level (Ef) aligns with the conduction band (Ec) minimum. This phenomenon is closely related to the reduction in 2DEG concentration at the AlGaN/GaN interface, likely attributed to enhanced etching-induced damage during size scaling. The 2DEG concentration vs bias exhibits a transition from linear decay on both sides when Ef is far from Ec minimum, to exponential decay near Vshift region—representing a “linear–exponential–linear” evolution. Furthermore, the fabrication process of the device is significantly simplified—all electrodes can be formed in a single step via electron beam lithography.",
-      "score": 11,
-      "priority": 2,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Frequency improvement and asymmetry characteristics of tri-stripe AlGaN/GaN MSM…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、先进尺度下的可扩展性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Frequency improvement and asymmetry characteristics of tri-stripe AlGaN/GaN MSM…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、先进尺度下的可扩展性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、先进尺度下的可扩展性、接触/互连相关指标.\nContext: Frequency improvement and asymmetry characteristics of tri-stripe AlGaN/GaN MSM-2DEG varactors.",
-      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、先进尺度下的可扩展性、接触/互连相关指标.\nContext: Frequency improvement and asymmetry characteristics of tri-stripe AlGaN/GaN MSM-2DEG varactors."
-    },
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0349863",
-      "title": "Three-dimensional visualization of threading dislocations in GaN by polarized-light microscopy",
-      "url": "https://doi.org/10.1063/5.0349863",
-      "published": "2026-10-19",
-      "authors": [
-        "Yukari Ishikawa",
-        "Kisara Matsumoto",
-        "Kazuki Ohnishi",
-        "Yongzhao Yao"
-      ],
-      "summary": "We demonstrate high-throughput three-dimensional imaging of threading dislocations in an ammonothermal gallium nitride (GaN) wafer using polarized-light microscopy with collimated LED illumination. Threading dislocations exhibited focal-depth-dependent in-plane shifts, enabling visualization of their three-dimensional inclination behavior over large areas. The experimentally observed trace geometries were reproduced by a geometrical model with a characteristic inclination of approximately 3.3° from the c axis. For the threading edge dislocations constituting the honeycomb defects, the inclination directions were approximately perpendicular to their x-ray topography-determined Burgers-vector directions, consistent with a climb component. Isolated dislocations with similar trace geometries showed corresponding relationships between their trace directions and assigned Burgers-vector directions under the assumption of edge character. These results demonstrate a simple nondestructive approach for large-area three-dimensional characterization of dislocations in GaN wafers.",
-      "score": 10,
-      "priority": 2,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Three-dimensional visualization of threading dislocations in GaN by polarized-l…”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Three-dimensional visualization of threading dislocations in GaN by polarized-l…”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Three-dimensional visualization of threading dislocations in GaN by polarized-light microscopy.",
-      "reading_notes": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Three-dimensional visualization of threading dislocations in GaN by polarized-light microscopy."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2610.26158v1",
-      "title": "Nanowire-Assisted Epitaxial Lateral Overgrowth of Planar GaN(0001) on Diamond(100)",
-      "url": "https://arxiv.org/abs/2610.26158v1",
-      "published": "2026-10-19",
-      "authors": [
-        "Brijmohan Paramanik",
-        "Mayur Shinde",
-        "Subhranshu Sekhar Sahu",
-        "Soumyadip Chatterjee",
-        "Prajwal Pandey",
-        "Anshul Jain",
-        "Himanjal Bhattacharyya",
-        "Alpesh Donga",
-        "Apurba Laha"
-      ],
-      "summary": "GaN-on-diamond heterostructures are promising for high-power and high-frequency electronics, however, direct epi- taxial growth on diamond (100) remains challenging due to severe lattice and thermal mismatches, which induce high threading dislocation densities. To overcome this challenge, we have used Plasma Assisted Molecular Beam Epitaxy (PAMBE) to grow wurtzite GaN layers on diamond(100) substrates using nanowire-assisted epitaxial lateral overgrowth (ELOG). Two nanowire templates (NW100, NW600) were benchmarked against a nanowire-free reference (NW000). High-resolution XRD, φ -scans, (0002) pole figures, and reciprocal space mapping show that NW100 attains the lowest dislocation density (5.51 x 10-4 nm-2) and microstrain (2.736 x 10-3), the narrowest (0002) reflection, and a c-axis lattice parameter (5.1821 Å) within 0.06% of the bulk value; NW000, in contrast, exhibits a contracted c-axis (5.1633 Å) and elevated dislocation density (6.26 x 10-4 nm-2), consistent with residual tensile stress. Cross-sectional TEM con- firms the intended diamond/AlN/nanowire/ELOG/planar-GaN layer sequence and shows threading dislocations bending into near-lateral trajectories, directly evidencing defect filtering by the nanowire template. Together, these results estab- lish nanowire-assisted ELOG as an effective strategy to suppress dislocation propagation and recover near-bulk lattice parameters in GaN-on-diamond heteroepitaxy, providing a structurally well-defined platform for device integration.",
-      "score": 7,
-      "priority": 2,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Nanowire-Assisted Epitaxial Lateral Overgrowth of Planar GaN(0001) on Diamond(1…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Nanowire-Assisted Epitaxial Lateral Overgrowth of Planar GaN(0001) on Diamond(1…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Nanowire-Assisted Epitaxial Lateral Overgrowth of Planar GaN(0001) on Diamond(100).",
-      "reading_notes": "Focus: GaN.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Nanowire-Assisted Epitaxial Lateral Overgrowth of Planar GaN(0001) on Diamond(100)."
     },
     {
       "source": "Applied Physics Letters",
@@ -230,11 +151,97 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“High ambipolar mobility fluorinated MXene for ultrasensitive biosensing transis…”展开。摘要显示，文章重点涉及电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: High ambipolar mobility fluorinated MXene for ultrasensitive biosensing transistors.",
       "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: High ambipolar mobility fluorinated MXene for ultrasensitive biosensing transistors."
+    },
+    {
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0357706",
+      "title": "Self-powered, filter-free, and fast solar-blind photodetectors enabled by luminescent converters with giant Stokes shift",
+      "url": "https://doi.org/10.1063/5.0357706",
+      "published": "2026-10-19",
+      "authors": [
+        "Chuan-Guo Shi",
+        "Jia-Xing Lian",
+        "Jiaxin Sui",
+        "Zhixing Gan"
+      ],
+      "summary": "Solar-blind photodetectors (SBPDs) are commonly plagued by trade-offs among superior spectral selectivity, high responsivity, and rapid photoresponse speed. Herein, we report a self-powered SBPD integrated with an Er3+-doped metal halide luminescent converter, nominal composition Cs2Ag0.3Na0.7In0.6Er0.4Cl6, which features an enormous Stokes shift. This luminescent medium converts deep-ultraviolet (DUV) photons into visible emission, which is subsequently captured by a commercial silicon photodiode (Si PD). The converter realizes two integrated functions simultaneously: highly efficient DUV-to-visible photon conversion and intrinsic visible-light rejection, thereby removing the requirement for additional external optical filters. Operated under zero bias, the fabricated device delivers a remarkable responsivity of 226.7 mA/W upon 280 nm irradiation at an optical power of 10 μW, an eightfold enhancement relative to the pristine Si PD. Meanwhile, the photodetector exhibits a prominent photo-to-dark current ratio of approximately 4500. More importantly, the system exhibits an ultrafast photoresponse, with rise and fall times measured at 143 and 77 μs, respectively, which is about three orders of magnitude faster than typical Ga2O3-based SBPDs limited by persistent photoconductivity. The proposed design circumvents the intrinsic material drawbacks of conventional wide-bandgap semiconductors, establishing a strategy for low-cost, high-speed solar-blind photodetection.",
+      "score": 9,
+      "priority": 1,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Self-powered, filter-free, and fast solar-blind photodetectors enabled by lumin…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Self-powered, filter-free, and fast solar-blind photodetectors enabled by lumin…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现、与既有工艺平台的集成价值.\nContext: Self-powered, filter-free, and fast solar-blind photodetectors enabled by luminescent converter….",
+      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现、与既有工艺平台的集成价值.\nContext: Self-powered, filter-free, and fast solar-blind photodetectors enabled by luminescent converter…."
+    },
+    {
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0349347",
+      "title": "Modulating and stabilizing MoS2 electronics via a sulfur capping layer",
+      "url": "https://doi.org/10.1063/5.0349347",
+      "published": "2026-10-19",
+      "authors": [
+        "Haoyang Cheng",
+        "Tong Li",
+        "Yuchao Zhou",
+        "Yutong Chen",
+        "Qing Guan",
+        "Liangfeng Huang",
+        "Hongyue Du",
+        "Lanying Zhou",
+        "Shuopei Wang",
+        "Hua Yu",
+        "Na Li",
+        "Guangyu Zhang"
+      ],
+      "summary": "Two-dimensional semiconductors, featuring atomic-scale thickness, excellent electrostatic gate control, and outstanding electrical properties, hold great promise for next-generation electronics. Recently, monolayer MoS2, a typical two-dimensional semiconductor, has been extensively explored for field-effect transistors (FETs). However, its atomically thin channel is highly sensitive to environmental exposure and interfacial perturbations, leading to significant performance degradation. Here, we report a low-temperature (200 °C), intrinsic sulfur passivation strategy to form a nondestructive capping layer on monolayer MoS2 FETs. This capping layer effectively isolates the channel from ambient species while passivating sulfur vacancy defects. As a result, the electrical performance is markedly improved, leading to a positive threshold voltage shift of 1.5 V and a substantial reduction in hysteresis from 2 V to 160 mV. Notably, the devices exhibit excellent environmental stability, maintaining their performance after 180 days under ambient conditions. Based on this approach, rail-to-rail inverters are realized using a pristine MoS2 load transistor and an S-capped MoS2 driver transistor, achieving a high voltage gain of 175.11 with symmetric noise margins (noise margin high ≈ 1.82 V and noise margin low ≈ 1.82 V). Importantly, large-scale inverter arrays demonstrate excellent device uniformity and reproducibility in performance. Furthermore, the scalability of this strategy is demonstrated via various fundamental logic circuits, including NOR and NAND gates, as well as a five-stage ring oscillator. These results highlight the effectiveness of sulfur passivation in enabling high-performance, stable, and scalable MoS2-based electronic and integrated circuit applications.",
+      "score": 11,
+      "priority": 0,
+      "highlights": [],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Modulating and stabilizing MoS2 electronics via a sulfur capping layer”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Modulating and stabilizing MoS2 electronics via a sulfur capping layer”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Modulating and stabilizing MoS2 electronics via a sulfur capping layer.",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Modulating and stabilizing MoS2 electronics via a sulfur capping layer."
+    },
+    {
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0348118",
+      "title": "Room-temperature multiferroicity in van der Waals Fe-doped SnSe semiconductors",
+      "url": "https://doi.org/10.1063/5.0348118",
+      "published": "2026-10-19",
+      "authors": [
+        "Muhammad Younis",
+        "Sichao Dai",
+        "Anwar Ali",
+        "Shuang Pan",
+        "Nayab Arif",
+        "Muhammad Ahsan Iqbal",
+        "Wei Tang",
+        "Yuexing Chen",
+        "Hui Fang",
+        "Francis Chi-Chung Ling",
+        "Shahid Atiq",
+        "Haixin Chang",
+        "Yu-Jia Zeng"
+      ],
+      "summary": "Two-dimensional materials hosting multiple ferroic orders are highly desirable for next-generation electronic and spintronic technologies. However, achieving stable and tunable ferroic functionalities at room temperature remains a key challenge. Here, we report the growth of van der Waals (vdW) Fe-doped SnSe semiconductor that can be exfoliated down to thin layered flakes. These crystals exhibit tunable ferromagnetism well above room temperature, with the Curie temperature increasing from 342 to over 400 K through controlled Fe incorporation. In parallel, anomalous Hall measurements reveal interfacial spin polarization at the SnSe/Pt interface driven by magnetic proximity effects, enabling spin-dependent magnetotransport. Furthermore, robust ferroelectric behavior at room temperature is confirmed by piezoresponse force microscopy. Although the ferromagnetic and ferroelectric orders coexist within the same material system, they originate from distinct mechanisms without direct magnetoelectric coupling. The semiconducting nature of Fe-doped SnSe is supported by both theoretical and experimental analyses, which further enhances its multifunctionality. These results establish Fe-doped SnSe as a versatile vdW platform for integrating magnetic, electric, and electronic functionalities in future energy-efficient devices.",
+      "score": 10,
+      "priority": 0,
+      "highlights": [
+        "semiconductor"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体方向，围绕“Room-temperature multiferroicity in van der Waals Fe-doped SnSe semiconductors”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、效率/耦合表现、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体方向，围绕“Room-temperature multiferroicity in van der Waals Fe-doped SnSe semiconductors”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、效率/耦合表现、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 半导体.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: Room-temperature multiferroicity in van der Waals Fe-doped SnSe semiconductors.",
+      "reading_notes": "Focus: 半导体.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: Room-temperature multiferroicity in van der Waals Fe-doped SnSe semiconductors."
     }
   ],
-  "errors": [],
+  "errors": [
+    "arXiv"
+  ],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-10-22T00:30:00+00:00"
+  "generated_at": "2026-10-23T00:30:00+00:00"
 }
