@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 0,
+  "new_count": 2,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-23）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 4 篇\n1. [Applied Physics Letters] AlN/AlGaN heterostructure field-effect transistor power devices advantageous for high-tempe…\n   关键词：transistor, GaN\n   日期：2026-10-19\n   Authors: Rongjun Zhang, Sirui Feng, Yanqiu Wang 等\n   https://doi.org/10.1063/5.0344498\n2. [Applied Physics Letters] Depletion-mode N-polar AlN-based high electron mobility transistors on sapphire with improv…\n   关键词：transistor, GaN\n   日期：2026-10-19\n   Authors: Xu Yang, Sheng Zhang, Itsuki Furuhashi 等\n   https://doi.org/10.1063/5.0343795\n3. [Applied Physics Letters] Experimental study of <b> <i>β</i> </b> -Ga2O3 MOSFET with <i>p</i> -NiO source field plate…\n   关键词：MOSFET\n   日期：2026-10-19\n   Authors: Xiangnan Li, Jialei Tan, Na Sun 等\n   https://doi.org/10.1063/5.0351704\n4. [Applied Physics Letters] Artificial gauge field modulated on-chip gigahertz acoustic coupling\n   关键词：GaN\n   日期：2026-10-19\n   Authors: Jiazhou Chen, Haifei Zhu, Yong Mei 等\n   https://doi.org/10.1063/5.0358605\n5. [Science Advances] High ambipolar mobility fluorinated MXene for ultrasensitive biosensing transistors\n   关键词：transistor\n   日期：2026-10-23\n   Authors: Yang Yue, Junhong Zhao, Xuejun Wang 等\n   https://doi.org/10.1126/sciadv.aeg5289\n6. [Applied Physics Letters] Self-powered, filter-free, and fast solar-blind photodetectors enabled by luminescent conve…\n   关键词：GaN\n   日期：2026-10-19\n   Authors: Chuan-Guo Shi, Jia-Xing Lian, Jiaxin Sui 等\n   https://doi.org/10.1063/5.0357706\n7. [Applied Physics Letters] Modulating and stabilizing MoS2 electronics via a sulfur capping layer\n   日期：2026-10-19\n   Authors: Haoyang Cheng, Tong Li, Yuchao Zhou 等\n   https://doi.org/10.1063/5.0349347\n8. [Applied Physics Letters] Room-temperature multiferroicity in van der Waals Fe-doped SnSe semiconductors\n   关键词：semiconductor\n   日期：2026-10-19\n   Authors: Muhammad Younis, Sichao Dai, Anwar Ali 等\n   https://doi.org/10.1063/5.0348118\n注：以下源本次抓取失败：arXiv",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-24）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 2 篇；Intel/TSMC 重点 0 篇；GaN 关键词 2 篇\n1. [Applied Physics Letters] Kinetically controlled condensation boundary governing indium incorporation in InGaN metalo…\n   关键词：epitaxy, GaN\n   日期：2026-10-19\n   Authors: Qihui Lin, Junlin Wu, Erqi Xu 等\n   https://doi.org/10.1063/5.0341009\n2. [Physical Review B] Tuning the antiferromagnetic metal state of electron-doped nickelate superlattices via oxyg…\n   关键词：GaN\n   日期：2026-10-23\n   Authors: Zhan Yang, Wen Xiao, Meiqi Kong 等\n   https://doi.org/10.1103/bb7m-2qvz\n注：以下源本次抓取失败：arXiv",
   "papers": [
     {
       "source": "Applied Physics Letters",
@@ -128,29 +128,37 @@
       "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: Artificial gauge field modulated on-chip gigahertz acoustic coupling."
     },
     {
-      "source": "Science Advances",
-      "uid": "doi:10.1126/sciadv.aeg5289",
-      "title": "High ambipolar mobility fluorinated MXene for ultrasensitive biosensing transistors",
-      "url": "https://doi.org/10.1126/sciadv.aeg5289",
-      "published": "2026-10-23",
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0341009",
+      "title": "Kinetically controlled condensation boundary governing indium incorporation in InGaN metalorganic vapor phase epitaxy",
+      "url": "https://doi.org/10.1063/5.0341009",
+      "published": "2026-10-19",
       "authors": [
-        "Yang Yue",
-        "Junhong Zhao",
-        "Xuejun Wang",
-        "Yanan Tang",
-        "Yunqi Liu",
-        "Dacheng Wei"
+        "Qihui Lin",
+        "Junlin Wu",
+        "Erqi Xu",
+        "Jiaqing Yue",
+        "Jiale Wang",
+        "Zihao Xu",
+        "Haixin Qi",
+        "Liyi Luo",
+        "Haitao Wang",
+        "Jia Wang",
+        "Hiroshi Amano",
+        "Bo Shen",
+        "Guangxu Ju"
       ],
-      "summary": "Transition metal carbides and nitrides (MXenes) are emerging as transformative materials for bioelectronics. However, the advancement of MXene-based field-effect transistor (FET) biosensors is hindered by the lack of high-quality aqueous-stable materials and the low signal transduction efficiency intrinsic to their metallic nature. To address these issues, we report an ultrasensitive biosensing platform enabled by an in-situ fluorination strategy of MXene. By substituting unstable oxygen-containing terminations with chemically stable fluorine terminations in a mild reaction, we synthesized high-quality fluorinated MXene with the record-breaking ambipolar field-effect mobility (μ p = 10.42 cm 2 V −1 s −1 , μ n = 30.23 cm 2 V −1 s −1 ). The highly electronegative fluorinated interface suppresses interfacial electrical double-layer capacitance, boosting signal transduction efficiency. Consequently, the platform achieves the lowest limit of detection (LOD) of 0.26 fg ml −1 for Mycobacterium tuberculosis antigen MPT64 among MXene FETs up to date, accompanied by a high current response of 35.02% at LOD. Clinical validation across 126 serum samples demonstrated a diagnostic accuracy of 97.6% with a detection time of 38 s, exhibiting the high-performance and reliable biosensing in complex physiological environments.",
-      "score": 12,
+      "summary": "We combine in situ synchrotron x-ray crystal truncation rod measurements with a binary Burton–Cabrera–Frank model to quantify indium incorporation during InxGa1−xN growth by metalorganic vapor phase epitaxy on GaN(0001). By distinguishing In adatoms from condensed droplets and incorporating coupled Ga–In incorporation kinetics, the model captures the intrinsically nonlinear dependence of indium composition xIn on flux and temperature. The critical In coverage corresponding to the maximum attainable In composition at a given temperature is determined by a kinetic balance between In adatom supply and incorporation capacity, defining a kinetically controlled condensation boundary that shifts with temperature and Ga flux. The model quantitatively predicts this boundary, consistent with independent measurements, and provides a framework for optimizing high-In-content InGaN growth while avoiding droplet formation.",
+      "score": 10,
       "priority": 1,
       "highlights": [
-        "transistor"
+        "epitaxy",
+        "GaN"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“High ambipolar mobility fluorinated MXene for ultrasensitive biosensing transis…”展开。摘要显示，文章重点涉及电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“High ambipolar mobility fluorinated MXene for ultrasensitive biosensing transis…”展开。摘要显示，文章重点涉及电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: High ambipolar mobility fluorinated MXene for ultrasensitive biosensing transistors.",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: High ambipolar mobility fluorinated MXene for ultrasensitive biosensing transistors."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注epitaxy、GaN方向，围绕“Kinetically controlled condensation boundary governing indium incorporation in …”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注epitaxy、GaN方向，围绕“Kinetically controlled condensation boundary governing indium incorporation in …”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: epitaxy、GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Kinetically controlled condensation boundary governing indium incorporation in InGaN metalorgan….",
+      "reading_notes": "Focus: epitaxy、GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Kinetically controlled condensation boundary governing indium incorporation in InGaN metalorgan…."
     },
     {
       "source": "Applied Physics Letters",
@@ -174,6 +182,35 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Self-powered, filter-free, and fast solar-blind photodetectors enabled by lumin…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现、与既有工艺平台的集成价值.\nContext: Self-powered, filter-free, and fast solar-blind photodetectors enabled by luminescent converter….",
       "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现、与既有工艺平台的集成价值.\nContext: Self-powered, filter-free, and fast solar-blind photodetectors enabled by luminescent converter…."
+    },
+    {
+      "source": "Physical Review B",
+      "uid": "doi:10.1103/bb7m-2qvz",
+      "title": "Tuning the antiferromagnetic metal state of electron-doped nickelate superlattices via oxygen octahedral rotation engineering",
+      "url": "https://doi.org/10.1103/bb7m-2qvz",
+      "published": "2026-10-23",
+      "authors": [
+        "Zhan Yang",
+        "Wen Xiao",
+        "Meiqi Kong",
+        "Shilin Hu",
+        "Tianyang Wang",
+        "Zhixiong Deng",
+        "Yulin Gan",
+        "Kai Chen",
+        "Zhaoliang Liao",
+        "Haizhong Guo"
+      ],
+      "summary": "",
+      "score": 6,
+      "priority": 1,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
+      "abstract_zh": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
+      "overview_cn": "Focus: GaN.\nNote: no abstract available; infer from title only.",
+      "reading_notes": "Focus: GaN.\nNote: no abstract available; infer from title only."
     },
     {
       "source": "Applied Physics Letters",
@@ -203,38 +240,6 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Modulating and stabilizing MoS2 electronics via a sulfur capping layer”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Modulating and stabilizing MoS2 electronics via a sulfur capping layer.",
       "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Modulating and stabilizing MoS2 electronics via a sulfur capping layer."
-    },
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0348118",
-      "title": "Room-temperature multiferroicity in van der Waals Fe-doped SnSe semiconductors",
-      "url": "https://doi.org/10.1063/5.0348118",
-      "published": "2026-10-19",
-      "authors": [
-        "Muhammad Younis",
-        "Sichao Dai",
-        "Anwar Ali",
-        "Shuang Pan",
-        "Nayab Arif",
-        "Muhammad Ahsan Iqbal",
-        "Wei Tang",
-        "Yuexing Chen",
-        "Hui Fang",
-        "Francis Chi-Chung Ling",
-        "Shahid Atiq",
-        "Haixin Chang",
-        "Yu-Jia Zeng"
-      ],
-      "summary": "Two-dimensional materials hosting multiple ferroic orders are highly desirable for next-generation electronic and spintronic technologies. However, achieving stable and tunable ferroic functionalities at room temperature remains a key challenge. Here, we report the growth of van der Waals (vdW) Fe-doped SnSe semiconductor that can be exfoliated down to thin layered flakes. These crystals exhibit tunable ferromagnetism well above room temperature, with the Curie temperature increasing from 342 to over 400 K through controlled Fe incorporation. In parallel, anomalous Hall measurements reveal interfacial spin polarization at the SnSe/Pt interface driven by magnetic proximity effects, enabling spin-dependent magnetotransport. Furthermore, robust ferroelectric behavior at room temperature is confirmed by piezoresponse force microscopy. Although the ferromagnetic and ferroelectric orders coexist within the same material system, they originate from distinct mechanisms without direct magnetoelectric coupling. The semiconducting nature of Fe-doped SnSe is supported by both theoretical and experimental analyses, which further enhances its multifunctionality. These results establish Fe-doped SnSe as a versatile vdW platform for integrating magnetic, electric, and electronic functionalities in future energy-efficient devices.",
-      "score": 10,
-      "priority": 0,
-      "highlights": [
-        "semiconductor"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体方向，围绕“Room-temperature multiferroicity in van der Waals Fe-doped SnSe semiconductors”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、效率/耦合表现、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体方向，围绕“Room-temperature multiferroicity in van der Waals Fe-doped SnSe semiconductors”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、效率/耦合表现、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 半导体.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: Room-temperature multiferroicity in van der Waals Fe-doped SnSe semiconductors.",
-      "reading_notes": "Focus: 半导体.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: Room-temperature multiferroicity in van der Waals Fe-doped SnSe semiconductors."
     }
   ],
   "errors": [
@@ -243,5 +248,5 @@
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-10-23T00:30:00+00:00"
+  "generated_at": "2026-10-24T00:30:00+00:00"
 }
