@@ -1,188 +1,9 @@
 {
   "ok": true,
   "new_count": 0,
-  "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-25）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 6 篇\n1. [Applied Physics Letters] AlN/AlGaN heterostructure field-effect transistor power devices advantageous for high-tempe…\n   关键词：transistor, GaN\n   日期：2026-10-19\n   Authors: Rongjun Zhang, Sirui Feng, Yanqiu Wang 等\n   https://doi.org/10.1063/5.0344498\n2. [Applied Physics Letters] Depletion-mode N-polar AlN-based high electron mobility transistors on sapphire with improv…\n   关键词：transistor, GaN\n   日期：2026-10-19\n   Authors: Xu Yang, Sheng Zhang, Itsuki Furuhashi 等\n   https://doi.org/10.1063/5.0343795\n3. [Applied Physics Letters] Experimental study of <b> <i>β</i> </b> -Ga2O3 MOSFET with <i>p</i> -NiO source field plate…\n   关键词：MOSFET\n   日期：2026-10-19\n   Authors: Xiangnan Li, Jialei Tan, Na Sun 等\n   https://doi.org/10.1063/5.0351704\n4. [Applied Physics Letters] Artificial gauge field modulated on-chip gigahertz acoustic coupling\n   关键词：GaN\n   日期：2026-10-19\n   Authors: Jiazhou Chen, Haifei Zhu, Yong Mei 等\n   https://doi.org/10.1063/5.0358605\n5. [Applied Physics Letters] Kinetically controlled condensation boundary governing indium incorporation in InGaN metalo…\n   关键词：epitaxy, GaN\n   日期：2026-10-19\n   Authors: Qihui Lin, Junlin Wu, Erqi Xu 等\n   https://doi.org/10.1063/5.0341009\n6. [Applied Physics Letters] Self-powered, filter-free, and fast solar-blind photodetectors enabled by luminescent conve…\n   关键词：GaN\n   日期：2026-10-19\n   Authors: Chuan-Guo Shi, Jia-Xing Lian, Jiaxin Sui 等\n   https://doi.org/10.1063/5.0357706\n7. [Physical Review B] Tuning the antiferromagnetic metal state of electron-doped nickelate superlattices via oxyg…\n   关键词：GaN\n   日期：2026-10-23\n   Authors: Zhan Yang, Wen Xiao, Meiqi Kong 等\n   https://doi.org/10.1103/bb7m-2qvz\n8. [Applied Physics Letters] Modulating and stabilizing MoS2 electronics via a sulfur capping layer\n   日期：2026-10-19\n   Authors: Haoyang Cheng, Tong Li, Yuchao Zhou 等\n   https://doi.org/10.1063/5.0349347\n注：以下源本次抓取失败：arXiv",
+  "selected_count": 2,
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-26）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 2 篇；Intel/TSMC 重点 0 篇；GaN 关键词 1 篇\n1. [Physical Review B] Tuning the antiferromagnetic metal state of electron-doped nickelate superlattices via oxyg…\n   关键词：GaN\n   日期：2026-10-23\n   Authors: Zhan Yang, Wen Xiao, Meiqi Kong 等\n   https://doi.org/10.1103/bb7m-2qvz\n2. [Science Advances] Spatial decoupling of recognition and signaling in aptamer switches via tri-strand intermol…\n   日期：2026-10-23\n   Authors: Albert Zehan Li, Sean W. Stewart, Conrad H. T. Belzberg 等\n   https://doi.org/10.1126/sciadv.aeh8187\n注：以下源本次抓取失败：arXiv",
   "papers": [
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0344498",
-      "title": "AlN/AlGaN heterostructure field-effect transistor power devices advantageous for high-temperature application",
-      "url": "https://doi.org/10.1063/5.0344498",
-      "published": "2026-10-19",
-      "authors": [
-        "Rongjun Zhang",
-        "Sirui Feng",
-        "Yanqiu Wang",
-        "Maojin Yang",
-        "Xiaoping Wang",
-        "Haolin Hu",
-        "Yuan Yang",
-        "Yuxi Wan",
-        "Aimin Song",
-        "Bo Shen",
-        "Dao Hua Zhang"
-      ],
-      "summary": "We report a high-quality AlN/Al0.73Ga0.27N heterostructure field-effect transistor (HFET) advantageous for high-temperature application. The epitaxial heterostructures exhibit a full width at half maximum of 79 arc sec in the (0002) XRD rocking curve, a surface roughness of 0.35 nm, a room-temperature two-dimensional electron gas density of 1.4 × 1013 cm−2 and mobility of 147 cm2/V/s. Two-terminal mesa breakdown measurements revealed an intrinsic critical electric field of 5.6 MV/cm for a 3 μm gap. AlN/Al0.73Ga0.27N HFET devices with gate–drain spacings of 5, 10, 25, and 50 μm were fabricated, and the breakdown voltages are 990, 1420, 2045, and 4203 V, respectively. Remarkably, the saturated drain current exhibits a positive temperature coefficient, in contrast to the negative coefficient in conventional gallium nitride high-electron-mobility transistors, and the threshold voltage decreases from −9.3 to −7.9 V in the temperature range from 25 to 175 °C. This anomalous behavior is attributed to dominant carrier de-trapping from deep-level traps, confirmed by pulsed I–V measurements, temperature-dependent C–V, and Hall measurements. These observations provide strong evidence for the multi-kilovolt-class and high-temperature power switching applications of the AlN/Al0.73Ga0.27N HFET devices.",
-      "score": 15,
-      "priority": 2,
-      "highlights": [
-        "transistor",
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、GaN方向，围绕“AlN/AlGaN heterostructure field-effect transistor power devices advantageous fo…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、GaN方向，围绕“AlN/AlGaN heterostructure field-effect transistor power devices advantageous fo…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管、GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: AlN/AlGaN heterostructure field-effect transistor power devices advantageous for high-temperatu….",
-      "reading_notes": "Focus: 晶体管、GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: AlN/AlGaN heterostructure field-effect transistor power devices advantageous for high-temperatu…."
-    },
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0343795",
-      "title": "Depletion-mode N-polar AlN-based high electron mobility transistors on sapphire with improved on/off ratios",
-      "url": "https://doi.org/10.1063/5.0343795",
-      "published": "2026-10-19",
-      "authors": [
-        "Xu Yang",
-        "Sheng Zhang",
-        "Itsuki Furuhashi",
-        "Ke Wei",
-        "Xinhua Wang",
-        "Xinyu Liu",
-        "Markus Pristovsek"
-      ],
-      "summary": "We report N-polar AlN-based high electron mobility transistors (HEMTs) with a GaN channel thickness of 5.2 nm on N-polar AlN on sapphire. The threshold voltage is around −3.0 to −2.4 V, with saturation currents over 240 mA/mm and on/off ratios as high as 104, much higher than those of previously reported N-polar AlN-based HEMTs. The improved on/off ratio achieved in this work is attributed to the use of an abrupt AlN/GaN heterostructure with a dedicated AlN transition layer, together with improved gate leakage. Both the high-frequency performance and the on-resistance of ≈20 Ω mm are limited by the 2000 Ω/□ sheet resistance of the channel layer.",
-      "score": 12,
-      "priority": 2,
-      "highlights": [
-        "transistor",
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、GaN方向，围绕“Depletion-mode N-polar AlN-based high electron mobility transistors on sapphire…”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看性能提升、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、GaN方向，围绕“Depletion-mode N-polar AlN-based high electron mobility transistors on sapphire…”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看性能提升、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管、GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Depletion-mode N-polar AlN-based high electron mobility transistors on sapphire with improved o….",
-      "reading_notes": "Focus: 晶体管、GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Depletion-mode N-polar AlN-based high electron mobility transistors on sapphire with improved o…."
-    },
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0351704",
-      "title": "Experimental study of <b> <i>β</i> </b> -Ga2O3 MOSFET with <i>p</i> -NiO source field plate for high-performance",
-      "url": "https://doi.org/10.1063/5.0351704",
-      "published": "2026-10-19",
-      "authors": [
-        "Xiangnan Li",
-        "Jialei Tan",
-        "Na Sun",
-        "Kaiwei Dai",
-        "Yuxi Wei",
-        "Leiting Chen",
-        "Jie Wei",
-        "Xuanze Zhou",
-        "Guangwei Xu",
-        "Jiandong Ye",
-        "Shibing Long",
-        "Xiaorong Luo"
-      ],
-      "summary": "In this work, we demonstrate a lateral Ga2O3 metal oxide semiconductor field effect transistor (MOSFET) with the p-NiO source field plate (PSFP). The PSFP consists of a p-NiO layer above the n-drift, which is shorted to the source electrode and isolated from Ga2O3 by an Al2O3 layer. In the OFF-state, the p-NiO not only modulates the electric field distribution to enhance breakdown voltage (BV) but also assists depleting the n-drift and allows an elevated doping concentration to reduce specific on-resistance (Ron,sp). In the ON-state, the Al2O3 dielectric layer suppresses the NiO-induced n-drift depletion, inhibiting Ron,sp degradation. Through the use of multiple-energy silicon ion implantations into the Ohmic contact regions and subsequent high-temperature annealing, an ultralow Ohmic contact resistance of 0.35 Ω mm is achieved. Compared with conventional MOSFET (Con. MOSFET) and MOSFET with the p-NiO floating field plate (PFFP MOSFET), the fabricated PSFP MOSFET achieves a BV of 2580 V at Nd = 3.5 × 1017 cm−3 and LGD = 25 μm, which is increased by 104% and 94%, respectively; the PSFP MOSFET obtains a power figure of merit of 46.87 MW/cm2, which is increased by 294% and 252%. It is expected that PSFP is a promising technological strategy to fulfill the potential of Ga2O3 for the high-efficiency power conversion.",
-      "score": 15,
-      "priority": 1,
-      "highlights": [
-        "MOSFET"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET方向，围绕“Experimental study of <b> <i>β</i> </b> -Ga2O3 MOSFET with <i>p</i> -NiO source…”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升、效率/耦合表现、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET方向，围绕“Experimental study of <b> <i>β</i> </b> -Ga2O3 MOSFET with <i>p</i> -NiO source…”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升、效率/耦合表现、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: MOSFET.\nWhat to check: 性能提升、效率/耦合表现、功耗或能效表现.\nContext: Experimental study of <b> <i>β</i> </b> -Ga2O3 MOSFET with <i>p</i> -NiO source field plate for….",
-      "reading_notes": "Focus: MOSFET.\nWhat to check: 性能提升、效率/耦合表现、功耗或能效表现.\nContext: Experimental study of <b> <i>β</i> </b> -Ga2O3 MOSFET with <i>p</i> -NiO source field plate for…."
-    },
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0358605",
-      "title": "Artificial gauge field modulated on-chip gigahertz acoustic coupling",
-      "url": "https://doi.org/10.1063/5.0358605",
-      "published": "2026-10-19",
-      "authors": [
-        "Jiazhou Chen",
-        "Haifei Zhu",
-        "Yong Mei",
-        "Wenyi Liu",
-        "Jinlin Chen",
-        "Junfeng Zhou",
-        "Lei Shao",
-        "Hualin Li",
-        "Shiyi Jiang",
-        "Houyou Long",
-        "Qiaozhen Zhang",
-        "Wenming Zhang",
-        "Ying Cheng",
-        "Jinyi Ma",
-        "Xiaojun Liu"
-      ],
-      "summary": "Phononic integrated circuits (PhICs) represent a promising paradigm for on-chip acoustic information processing. However, conventional straight-waveguide architectures suffer from intrinsically dispersive inter-waveguide coupling, limiting bandwidth and fabrication tolerance. Meanwhile, evanescent crosstalk between adjacent waveguides fundamentally constrains integration density. Here, we introduce an artificial gauge field (AGF) to suppress inter-waveguide coupling dispersion on a CMOS-compatible GaN-on-4H-SiC platform, as validated by the theoretical and experimental demonstration of a broadband 1:1 power divider (PD). Beyond outperforming conventional straight-waveguide directional couplers in broadband performance, the AGF-modulated PD exhibits enhanced robustness against both global offsets and local waveguide-gap perturbations. We further demonstrate the first realization of acoustic coherent destruction of tunneling, enabling crosstalk-free parallel waveguide arrays for densely integrated phononic architectures. Our work thus marks a significant advance toward scalable, high-density, and fabrication-tolerant PhICs.",
-      "score": 13,
-      "priority": 1,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Artificial gauge field modulated on-chip gigahertz acoustic coupling”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、效率/耦合表现、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Artificial gauge field modulated on-chip gigahertz acoustic coupling”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、效率/耦合表现、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: Artificial gauge field modulated on-chip gigahertz acoustic coupling.",
-      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现、可靠性与稳定性.\nContext: Artificial gauge field modulated on-chip gigahertz acoustic coupling."
-    },
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0341009",
-      "title": "Kinetically controlled condensation boundary governing indium incorporation in InGaN metalorganic vapor phase epitaxy",
-      "url": "https://doi.org/10.1063/5.0341009",
-      "published": "2026-10-19",
-      "authors": [
-        "Qihui Lin",
-        "Junlin Wu",
-        "Erqi Xu",
-        "Jiaqing Yue",
-        "Jiale Wang",
-        "Zihao Xu",
-        "Haixin Qi",
-        "Liyi Luo",
-        "Haitao Wang",
-        "Jia Wang",
-        "Hiroshi Amano",
-        "Bo Shen",
-        "Guangxu Ju"
-      ],
-      "summary": "We combine in situ synchrotron x-ray crystal truncation rod measurements with a binary Burton–Cabrera–Frank model to quantify indium incorporation during InxGa1−xN growth by metalorganic vapor phase epitaxy on GaN(0001). By distinguishing In adatoms from condensed droplets and incorporating coupled Ga–In incorporation kinetics, the model captures the intrinsically nonlinear dependence of indium composition xIn on flux and temperature. The critical In coverage corresponding to the maximum attainable In composition at a given temperature is determined by a kinetic balance between In adatom supply and incorporation capacity, defining a kinetically controlled condensation boundary that shifts with temperature and Ga flux. The model quantitatively predicts this boundary, consistent with independent measurements, and provides a framework for optimizing high-In-content InGaN growth while avoiding droplet formation.",
-      "score": 10,
-      "priority": 1,
-      "highlights": [
-        "epitaxy",
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注epitaxy、GaN方向，围绕“Kinetically controlled condensation boundary governing indium incorporation in …”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注epitaxy、GaN方向，围绕“Kinetically controlled condensation boundary governing indium incorporation in …”展开。摘要显示，文章重点涉及制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: epitaxy、GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Kinetically controlled condensation boundary governing indium incorporation in InGaN metalorgan….",
-      "reading_notes": "Focus: epitaxy、GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Kinetically controlled condensation boundary governing indium incorporation in InGaN metalorgan…."
-    },
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0357706",
-      "title": "Self-powered, filter-free, and fast solar-blind photodetectors enabled by luminescent converters with giant Stokes shift",
-      "url": "https://doi.org/10.1063/5.0357706",
-      "published": "2026-10-19",
-      "authors": [
-        "Chuan-Guo Shi",
-        "Jia-Xing Lian",
-        "Jiaxin Sui",
-        "Zhixing Gan"
-      ],
-      "summary": "Solar-blind photodetectors (SBPDs) are commonly plagued by trade-offs among superior spectral selectivity, high responsivity, and rapid photoresponse speed. Herein, we report a self-powered SBPD integrated with an Er3+-doped metal halide luminescent converter, nominal composition Cs2Ag0.3Na0.7In0.6Er0.4Cl6, which features an enormous Stokes shift. This luminescent medium converts deep-ultraviolet (DUV) photons into visible emission, which is subsequently captured by a commercial silicon photodiode (Si PD). The converter realizes two integrated functions simultaneously: highly efficient DUV-to-visible photon conversion and intrinsic visible-light rejection, thereby removing the requirement for additional external optical filters. Operated under zero bias, the fabricated device delivers a remarkable responsivity of 226.7 mA/W upon 280 nm irradiation at an optical power of 10 μW, an eightfold enhancement relative to the pristine Si PD. Meanwhile, the photodetector exhibits a prominent photo-to-dark current ratio of approximately 4500. More importantly, the system exhibits an ultrafast photoresponse, with rise and fall times measured at 143 and 77 μs, respectively, which is about three orders of magnitude faster than typical Ga2O3-based SBPDs limited by persistent photoconductivity. The proposed design circumvents the intrinsic material drawbacks of conventional wide-bandgap semiconductors, establishing a strategy for low-cost, high-speed solar-blind photodetection.",
-      "score": 9,
-      "priority": 1,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Self-powered, filter-free, and fast solar-blind photodetectors enabled by lumin…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Self-powered, filter-free, and fast solar-blind photodetectors enabled by lumin…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现、与既有工艺平台的集成价值.\nContext: Self-powered, filter-free, and fast solar-blind photodetectors enabled by luminescent converter….",
-      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现、与既有工艺平台的集成价值.\nContext: Self-powered, filter-free, and fast solar-blind photodetectors enabled by luminescent converter…."
-    },
     {
       "source": "Physical Review B",
       "uid": "doi:10.1103/bb7m-2qvz",
@@ -213,33 +34,25 @@
       "reading_notes": "Focus: GaN.\nNote: no abstract available; infer from title only."
     },
     {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0349347",
-      "title": "Modulating and stabilizing MoS2 electronics via a sulfur capping layer",
-      "url": "https://doi.org/10.1063/5.0349347",
-      "published": "2026-10-19",
+      "source": "Science Advances",
+      "uid": "doi:10.1126/sciadv.aeh8187",
+      "title": "Spatial decoupling of recognition and signaling in aptamer switches via tri-strand intermolecular competition",
+      "url": "https://doi.org/10.1126/sciadv.aeh8187",
+      "published": "2026-10-23",
       "authors": [
-        "Haoyang Cheng",
-        "Tong Li",
-        "Yuchao Zhou",
-        "Yutong Chen",
-        "Qing Guan",
-        "Liangfeng Huang",
-        "Hongyue Du",
-        "Lanying Zhou",
-        "Shuopei Wang",
-        "Hua Yu",
-        "Na Li",
-        "Guangyu Zhang"
+        "Albert Zehan Li",
+        "Sean W. Stewart",
+        "Conrad H. T. Belzberg",
+        "Amani A. Hariri"
       ],
-      "summary": "Two-dimensional semiconductors, featuring atomic-scale thickness, excellent electrostatic gate control, and outstanding electrical properties, hold great promise for next-generation electronics. Recently, monolayer MoS2, a typical two-dimensional semiconductor, has been extensively explored for field-effect transistors (FETs). However, its atomically thin channel is highly sensitive to environmental exposure and interfacial perturbations, leading to significant performance degradation. Here, we report a low-temperature (200 °C), intrinsic sulfur passivation strategy to form a nondestructive capping layer on monolayer MoS2 FETs. This capping layer effectively isolates the channel from ambient species while passivating sulfur vacancy defects. As a result, the electrical performance is markedly improved, leading to a positive threshold voltage shift of 1.5 V and a substantial reduction in hysteresis from 2 V to 160 mV. Notably, the devices exhibit excellent environmental stability, maintaining their performance after 180 days under ambient conditions. Based on this approach, rail-to-rail inverters are realized using a pristine MoS2 load transistor and an S-capped MoS2 driver transistor, achieving a high voltage gain of 175.11 with symmetric noise margins (noise margin high ≈ 1.82 V and noise margin low ≈ 1.82 V). Importantly, large-scale inverter arrays demonstrate excellent device uniformity and reproducibility in performance. Furthermore, the scalability of this strategy is demonstrated via various fundamental logic circuits, including NOR and NAND gates, as well as a five-stage ring oscillator. These results highlight the effectiveness of sulfur passivation in enabling high-performance, stable, and scalable MoS2-based electronic and integrated circuit applications.",
-      "score": 11,
+      "summary": "Despite decades of progress in aptamer engineering, the development of a single, modular signaling architecture capable of transducing target recognition into a measurable output across structurally diverse analytes remains an unmet challenge in biosensing. We report the Competitor Bridge Aptamer (CoBrA) framework: a modular DNA tridomain architecture that functionally isolates target recognition from signal transduction. Unlike conventional sensors where signal output depends on unpredictable aptamer folding, the CoBrA system uses an aptamer switch to trigger a predictable, concerted spatial displacement between signaling end points. By leveraging computational simulations and energetic balancing, we systematically optimized the CoBrA framework to consolidate recognition, displacement, and ratiometric signaling within a single, minimal-component system. Using the dopamine and cortisol aptamers as models, we demonstrate strong thermodynamic and kinetic synchronization between the Cy3 and Cy5 channels across both targets for dopamine (Cy3: K d = 13.3 ± 3.2 μM, τ = 447 ± 31 seconds; Cy5: K d = 24.0 ± 3.3 μM, τ = 537 ± 22 seconds) and cortisol (Cy3: K d = 36.6 ± 3.9 μM, τ = 205 ± 7 seconds; Cy5: K d = 30.7 ± 5.5 μM, τ = 259 ± 4 seconds) in buffer, serum, and artificial cerebrospinal fluid. Because the signaling event is a predictable, geometry-defined change rather than a fluorescence-specific phenomenon, this architecture is in principle adaptable to surface-based transduction modalities, including electrochemical, field-effect transistor, and plasmonic readouts.",
+      "score": 5,
       "priority": 0,
       "highlights": [],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Modulating and stabilizing MoS2 electronics via a sulfur capping layer”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Modulating and stabilizing MoS2 electronics via a sulfur capping layer”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Modulating and stabilizing MoS2 electronics via a sulfur capping layer.",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Modulating and stabilizing MoS2 electronics via a sulfur capping layer."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Spatial decoupling of recognition and signaling in aptamer switches via tri-str…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Spatial decoupling of recognition and signaling in aptamer switches via tri-str…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 效率/耦合表现.\nContext: Spatial decoupling of recognition and signaling in aptamer switches via tri-strand intermolecul….",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 效率/耦合表现.\nContext: Spatial decoupling of recognition and signaling in aptamer switches via tri-strand intermolecul…."
     }
   ],
   "errors": [
@@ -248,5 +61,5 @@
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-10-25T00:30:00+00:00"
+  "generated_at": "2026-10-26T00:30:00+00:00"
 }
