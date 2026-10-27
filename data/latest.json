@@ -1,65 +1,233 @@
 {
   "ok": true,
-  "new_count": 0,
-  "selected_count": 2,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-26）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 2 篇；Intel/TSMC 重点 0 篇；GaN 关键词 1 篇\n1. [Physical Review B] Tuning the antiferromagnetic metal state of electron-doped nickelate superlattices via oxyg…\n   关键词：GaN\n   日期：2026-10-23\n   Authors: Zhan Yang, Wen Xiao, Meiqi Kong 等\n   https://doi.org/10.1103/bb7m-2qvz\n2. [Science Advances] Spatial decoupling of recognition and signaling in aptamer switches via tri-strand intermol…\n   日期：2026-10-23\n   Authors: Albert Zehan Li, Sean W. Stewart, Conrad H. T. Belzberg 等\n   https://doi.org/10.1126/sciadv.aeh8187\n注：以下源本次抓取失败：arXiv",
+  "new_count": 37,
+  "selected_count": 8,
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-27）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 5 篇\n1. [IEEE Electron Device Letters] Lomb--Scargle Spectroscopy of Non-Polar Interface Traps Governing Anomalous PBTI in GaN Fin…\n   关键词：FinFET, GaN\n   日期：2026-11-01\n   Authors: Peng Wu, Wen Yang, Jianlang Liao 等\n   https://doi.org/10.1109/led.2026.3733400\n2. [IEEE Electron Device Letters] Synergistic Coupling Effects of Out-of-Plane and In-Plane Polarization in <i>α</i> -In <sub…\n   关键词：transistor, semiconductor, ferroelectric\n   日期：2026-11-01\n   Authors: Jiying Xiao, Xinrui Guo, Runze Liu 等\n   https://doi.org/10.1109/led.2026.3728667\n3. [IEEE Electron Device Letters] 1.6-GW/cm <sup>2</sup> Baliga’s Figure-of-Merit Au-Free p-GaN Gate HEMTs on 6-in Si Enabled…\n   关键词：GaN\n   日期：2026-11-01\n   Authors: Zhiqiang Xue, Bin Hou, Mao Jia 等\n   https://doi.org/10.1109/led.2026.3733557\n4. [IEEE Electron Device Letters] A Surrogate-Assisted TCAD Modeling Framework for 4H-SiC/SiO <sub>2</sub> Interface in 4H-Si…\n   关键词：MOSFET, SiC\n   日期：2026-11-01\n   Authors: Jue Wang, Yunfan Tu, Li Hu 等\n   https://doi.org/10.1109/led.2026.3735340\n5. [Applied Physics Letters] Electric-field redistribution via high- <i>k</i> dielectric trench in GaN-on-Si AlGaN/GaN H…\n   关键词：dielectric, GaN\n   日期：2026-10-26\n   Authors: Zhen Cao, Zhiwei Hou, Qi Sun 等\n   https://doi.org/10.1063/5.0345413\n6. [IEEE Electron Device Letters] GaN Metatransistors for Efficient Sub-THz Power Amplification\n   关键词：GaN\n   日期：2026-11-01\n   Authors: Onder Soydal, Hakan Cankat Gur, Utku Agtas 等\n   https://doi.org/10.1109/led.2026.3728195\n7. [IEEE Electron Device Letters] P-GaN Gate HEMTs With Trench-Schottky Hybrid Gate Contact for Enhanced V <sub>TH</sub> Stab…\n   关键词：GaN\n   日期：2026-11-01\n   Authors: Sheng Li, Songwei Peng, Chuanqi Pan 等\n   https://doi.org/10.1109/led.2026.3733421\n8. [IEEE Electron Device Letters] A Simple Method to Extract the Field Effect Mobility of Free Carriers in SiC MOSFETs\n   关键词：MOSFET, SiC\n   日期：2026-11-01\n   Authors: Jasleen K. Bindra, Jason P. Campbell, Yu-Xin Wen 等\n   https://doi.org/10.1109/led.2026.3736275",
   "papers": [
     {
-      "source": "Physical Review B",
-      "uid": "doi:10.1103/bb7m-2qvz",
-      "title": "Tuning the antiferromagnetic metal state of electron-doped nickelate superlattices via oxygen octahedral rotation engineering",
-      "url": "https://doi.org/10.1103/bb7m-2qvz",
-      "published": "2026-10-23",
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3733400",
+      "title": "Lomb--Scargle Spectroscopy of Non-Polar Interface Traps Governing Anomalous PBTI in GaN FinFETs",
+      "url": "https://doi.org/10.1109/led.2026.3733400",
+      "published": "2026-11-01",
       "authors": [
-        "Zhan Yang",
-        "Wen Xiao",
-        "Meiqi Kong",
-        "Shilin Hu",
-        "Tianyang Wang",
-        "Zhixiong Deng",
-        "Yulin Gan",
-        "Kai Chen",
-        "Zhaoliang Liao",
-        "Haizhong Guo"
+        "Peng Wu",
+        "Wen Yang",
+        "Jianlang Liao",
+        "Chuan Song",
+        "Jingyun Guan",
+        "Huaxing Jiang",
+        "Bin Li"
       ],
-      "summary": "",
-      "score": 6,
-      "priority": 1,
+      "summary": "In this letter, a spectroscopic framework based on the Lomb-Scargle periodogram is proposed to resolve multi-interface trapping dynamics in GaN FinFETs under positive bias temperature instability (PBTI) stress. Unlike conventional Fourier analysis and discrete multi-exponential fitting, this approach exploits an orthogonal sinusoidal basis for non-uniformly sampled V TH transients, providing a relaxation-frequency representation from which the relaxation-time distribution can be inferred through frequency-to-timescale mapping and physical validation without predefined trapping components. Combined with a facet-de-embedding strategy, the framework isolates the non-polar sidewall-related contribution, whose subsequent Arrhenius analysis reveals a broadened trap-energy distribution centered at 0.54 eV, corroborated by independent DLTS measurements. Furthermore, the extracted power spectrum serves as a weighting function in a dual-channel convolution model, quantitatively reproducing the anomalous temperature-dependent $\\Delta $ V TH crossover via the redistribution of trapping contributions across different characteristic time constants. This frequency-domain framework provides a complementary tool for trap-dynamics analysis in multi-gate GaN devices.",
+      "score": 13,
+      "priority": 3,
+      "highlights": [
+        "FinFET",
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注FinFET、GaN方向，围绕“Lomb--Scargle Spectroscopy of Non-Polar Interface Traps Governing Anomalous PBT…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注FinFET、GaN方向，围绕“Lomb--Scargle Spectroscopy of Non-Polar Interface Traps Governing Anomalous PBT…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: FinFET、GaN.\nWhat to check: 可靠性与稳定性、功耗或能效表现.\nContext: Lomb--Scargle Spectroscopy of Non-Polar Interface Traps Governing Anomalous PBTI in GaN FinFETs.",
+      "reading_notes": "Focus: FinFET、GaN.\nWhat to check: 可靠性与稳定性、功耗或能效表现.\nContext: Lomb--Scargle Spectroscopy of Non-Polar Interface Traps Governing Anomalous PBTI in GaN FinFETs."
+    },
+    {
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3728667",
+      "title": "Synergistic Coupling Effects of Out-of-Plane and In-Plane Polarization in <i>α</i> -In <sub>2</sub> Se <sub>3</sub> Ferroelectric Semiconductor Field-Effect Transistor",
+      "url": "https://doi.org/10.1109/led.2026.3728667",
+      "published": "2026-11-01",
+      "authors": [
+        "Jiying Xiao",
+        "Xinrui Guo",
+        "Runze Liu",
+        "Guowei Ma",
+        "Wenkai Li",
+        "Rui He",
+        "Lang Zeng",
+        "Ming He",
+        "Pengying Chang"
+      ],
+      "summary": "The coupling effects of out-of-plane (OOP) and in-plane (IP) polarization in two-dimensional $\\alpha $ -In 2 Se 3 based ferroelectric semiconductor-field effect transistor (FeS-FET) are revealed based on TCAD simulation. It is found that single-directional OOP or IP polarization cannot effectively modulate the device state. In contrast, the coupled OOP and IP polarizations significantly regulate the electric field and carrier distribution within FeS channel, endowing a large memory window and a high on/off ratio, which can be attributed to the synergistic enhancement effect of coupled OOP/IP polarization. These results give new insights into operation mechanism and optimization design of FeS-FET as novel ferroelectric memory.",
+      "score": 16,
+      "priority": 2,
+      "highlights": [
+        "transistor",
+        "semiconductor",
+        "ferroelectric"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、半导体、铁电材料方向，围绕“Synergistic Coupling Effects of Out-of-Plane and In-Plane Polarization in <i>α<…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看性能提升、效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、半导体、铁电材料方向，围绕“Synergistic Coupling Effects of Out-of-Plane and In-Plane Polarization in <i>α<…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看性能提升、效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 晶体管、半导体、铁电材料.\nWhat to check: 性能提升、效率/耦合表现.\nContext: Synergistic Coupling Effects of Out-of-Plane and In-Plane Polarization in <i>α</i> -In <sub>2</….",
+      "reading_notes": "Focus: 晶体管、半导体、铁电材料.\nWhat to check: 性能提升、效率/耦合表现.\nContext: Synergistic Coupling Effects of Out-of-Plane and In-Plane Polarization in <i>α</i> -In <sub>2</…."
+    },
+    {
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3733557",
+      "title": "1.6-GW/cm <sup>2</sup> Baliga’s Figure-of-Merit Au-Free p-GaN Gate HEMTs on 6-in Si Enabled by Regrown Ohmic Contacts",
+      "url": "https://doi.org/10.1109/led.2026.3733557",
+      "published": "2026-11-01",
+      "authors": [
+        "Zhiqiang Xue",
+        "Bin Hou",
+        "Mao Jia",
+        "Qian Xiao",
+        "Bowen Yang",
+        "Ling Yang",
+        "Mei Wu",
+        "Meng Zhang",
+        "Hao Lu",
+        "Kaiwen Chen",
+        "Hong Wang",
+        "Xiaohua Ma",
+        "Yue Hao"
+      ],
+      "summary": "High-performance p-GaN/AlGaN/GaN high electron mobility transistors (HEMTs) on 6-inch Si were demonstrated using a CMOS-compatible, Au-free ohmic scheme. Selective MOCVD regrowth of heavily Si-doped n + -InGaN yielded an excellent low wafer-level average contact resistance (R ${}_{\\text {c}}\\text {)}$ of $0.14~\\Omega \\cdot $ mm. The integration of regrown ohmic contacts with a dual field-plate architecture, comprising lateral and vertical components, effectively redistributed the electric field and enhanced breakdown performance. For devices with a $15~\\mu $ m gate–drain spacing, a threshold voltage of 1 V, a saturation drain current of 465 mA/mm, and an on-resistance (R ${}_{\\text {on}}\\text {)}$ of $7.2~\\Omega \\cdot $ mm were achieved, along with an off-state breakdown voltage of 1620 V. These metrics correspond to a Baliga’s figure of merit of 1.6 GW/cm 2 , indicating competitive performance among GaN-on-Si p-GaN HEMTs. Across the 6-inch wafer, both contact resistance and channel sheet resistance exhibited tight distributions, underscoring the manufacturability and process uniformity of the Au-free approach within Si CMOS production lines. This scalable, contamination-free process provides a practical pathway toward high-volume production of GaN power devices with robust electrical performance and CMOS fab compatibility.",
+      "score": 16,
+      "priority": 2,
       "highlights": [
         "GaN"
       ],
-      "abstract_cn": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
-      "abstract_zh": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
-      "overview_cn": "Focus: GaN.\nNote: no abstract available; infer from title only.",
-      "reading_notes": "Focus: GaN.\nNote: no abstract available; infer from title only."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“1.6-GW/cm <sup>2</sup> Baliga’s Figure-of-Merit Au-Free p-GaN Gate HEMTs on 6-i…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“1.6-GW/cm <sup>2</sup> Baliga’s Figure-of-Merit Au-Free p-GaN Gate HEMTs on 6-i…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性、接触/互连相关指标.\nContext: 1.6-GW/cm <sup>2</sup> Baliga’s Figure-of-Merit Au-Free p-GaN Gate HEMTs on 6-in Si Enabled by ….",
+      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性、接触/互连相关指标.\nContext: 1.6-GW/cm <sup>2</sup> Baliga’s Figure-of-Merit Au-Free p-GaN Gate HEMTs on 6-in Si Enabled by …."
     },
     {
-      "source": "Science Advances",
-      "uid": "doi:10.1126/sciadv.aeh8187",
-      "title": "Spatial decoupling of recognition and signaling in aptamer switches via tri-strand intermolecular competition",
-      "url": "https://doi.org/10.1126/sciadv.aeh8187",
-      "published": "2026-10-23",
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3735340",
+      "title": "A Surrogate-Assisted TCAD Modeling Framework for 4H-SiC/SiO <sub>2</sub> Interface in 4H-SiC MOSFET",
+      "url": "https://doi.org/10.1109/led.2026.3735340",
+      "published": "2026-11-01",
       "authors": [
-        "Albert Zehan Li",
-        "Sean W. Stewart",
-        "Conrad H. T. Belzberg",
-        "Amani A. Hariri"
+        "Jue Wang",
+        "Yunfan Tu",
+        "Li Hu",
+        "Zijian Hu",
+        "Na Ren"
       ],
-      "summary": "Despite decades of progress in aptamer engineering, the development of a single, modular signaling architecture capable of transducing target recognition into a measurable output across structurally diverse analytes remains an unmet challenge in biosensing. We report the Competitor Bridge Aptamer (CoBrA) framework: a modular DNA tridomain architecture that functionally isolates target recognition from signal transduction. Unlike conventional sensors where signal output depends on unpredictable aptamer folding, the CoBrA system uses an aptamer switch to trigger a predictable, concerted spatial displacement between signaling end points. By leveraging computational simulations and energetic balancing, we systematically optimized the CoBrA framework to consolidate recognition, displacement, and ratiometric signaling within a single, minimal-component system. Using the dopamine and cortisol aptamers as models, we demonstrate strong thermodynamic and kinetic synchronization between the Cy3 and Cy5 channels across both targets for dopamine (Cy3: K d = 13.3 ± 3.2 μM, τ = 447 ± 31 seconds; Cy5: K d = 24.0 ± 3.3 μM, τ = 537 ± 22 seconds) and cortisol (Cy3: K d = 36.6 ± 3.9 μM, τ = 205 ± 7 seconds; Cy5: K d = 30.7 ± 5.5 μM, τ = 259 ± 4 seconds) in buffer, serum, and artificial cerebrospinal fluid. Because the signaling event is a predictable, geometry-defined change rather than a fluorescence-specific phenomenon, this architecture is in principle adaptable to surface-based transduction modalities, including electrochemical, field-effect transistor, and plasmonic readouts.",
-      "score": 5,
-      "priority": 0,
-      "highlights": [],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Spatial decoupling of recognition and signaling in aptamer switches via tri-str…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Spatial decoupling of recognition and signaling in aptamer switches via tri-str…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 效率/耦合表现.\nContext: Spatial decoupling of recognition and signaling in aptamer switches via tri-strand intermolecul….",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 效率/耦合表现.\nContext: Spatial decoupling of recognition and signaling in aptamer switches via tri-strand intermolecul…."
+      "summary": "A surrogate-assisted TCAD modeling framework is proposed for the physics-based extraction of microscopic SiC/SiO 2 interface properties in 4H-SiC MOSFETs. The framework incorporates interface charges, defect-state distributions, and carrier-scattering mechanisms, while a neural-network surrogate and an improved genetic algorithm enable efficient extraction of coupled interface parameters from device electrical characteristics. Compared with the conventional genetic algorithm and full TCAD-based genetic-algorithm optimization, the proposed framework achieves a $16.6\\times $ speedup in parameter extraction while enabling quantitative identification of process-dependent microscopic interface properties. The extracted parameters reproduce the measured characteristics of devices with different gate oxidation processes, enabling quantitative comparison of process-dependent interface properties and linking gate-oxide processes to microscopic interface characteristics and device behavior.",
+      "score": 14,
+      "priority": 2,
+      "highlights": [
+        "MOSFET",
+        "SiC"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、SiC方向，围绕“A Surrogate-Assisted TCAD Modeling Framework for 4H-SiC/SiO <sub>2</sub> Interf…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、SiC方向，围绕“A Surrogate-Assisted TCAD Modeling Framework for 4H-SiC/SiO <sub>2</sub> Interf…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: MOSFET、SiC.\nWhat to check: 性能提升.\nContext: A Surrogate-Assisted TCAD Modeling Framework for 4H-SiC/SiO <sub>2</sub> Interface in 4H-SiC MO….",
+      "reading_notes": "Focus: MOSFET、SiC.\nWhat to check: 性能提升.\nContext: A Surrogate-Assisted TCAD Modeling Framework for 4H-SiC/SiO <sub>2</sub> Interface in 4H-SiC MO…."
+    },
+    {
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0345413",
+      "title": "Electric-field redistribution via high- <i>k</i> dielectric trench in GaN-on-Si AlGaN/GaN HEMTs",
+      "url": "https://doi.org/10.1063/5.0345413",
+      "published": "2026-10-26",
+      "authors": [
+        "Zhen Cao",
+        "Zhiwei Hou",
+        "Qi Sun",
+        "Guohao Yu",
+        "Bingliang Zhang",
+        "Biao Hou",
+        "Licheng Jiao",
+        "Yintang Yang"
+      ],
+      "summary": "We report a GaN-on-Si AlGaN/GaN high-electron-mobility transistor (HEMT) incorporating a drain-side Pb(Zr,Ti)O3 (PZT) trench for electrostatic field management. The mechanism is formulated using the displacement-field boundary conditions and evaluated by two-dimensional technology computer aided design with a field-independent relative-permittivity sweep from 3.9 to 500. The calculations reveal the nonmonotonic dependence of terminal voltage on permittivity and a broader drain-side high-field distribution for the nominal εr=300 case. Experimentally, a representative PZT-trench HEMT reaches 1405 V at LGD=9 μm, compared with 783 V for a co-fabricated conventional device and 957 V for a previously reported hybrid Schottky–ohmic drain HEMT, corresponding to breakdown-voltage improvements of 79% and 47%, respectively, while retaining a specific ON-resistance of 1.47 mΩ cm2. The dynamic-to-static ON-resistance ratios, RON,dyn/RON,static, are 1.6× and 2.5× after 900 and 1200 V off-state stress, respectively, at a 3 μs extraction delay. These results demonstrate simultaneous enhancement of voltage handling and dynamic performance through drain-side dielectric-boundary engineering.",
+      "score": 14,
+      "priority": 2,
+      "highlights": [
+        "dielectric",
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注介电材料、GaN方向，围绕“Electric-field redistribution via high- <i>k</i> dielectric trench in GaN-on-Si…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看性能提升、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注介电材料、GaN方向，围绕“Electric-field redistribution via high- <i>k</i> dielectric trench in GaN-on-Si…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看性能提升、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 介电材料、GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Electric-field redistribution via high- <i>k</i> dielectric trench in GaN-on-Si AlGaN/GaN HEMTs.",
+      "reading_notes": "Focus: 介电材料、GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Electric-field redistribution via high- <i>k</i> dielectric trench in GaN-on-Si AlGaN/GaN HEMTs."
+    },
+    {
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3728195",
+      "title": "GaN Metatransistors for Efficient Sub-THz Power Amplification",
+      "url": "https://doi.org/10.1109/led.2026.3728195",
+      "published": "2026-11-01",
+      "authors": [
+        "Onder Soydal",
+        "Hakan Cankat Gur",
+        "Utku Agtas",
+        "Francesco Marcantoni",
+        "Yuan Zong",
+        "Elison Matioli"
+      ],
+      "summary": "This work introduces the concept of metatransistors, which decouples the DC and RF access resistances of a transistor to enable efficient sub-THz power amplification. The device integrates patterned Schottky contacts, coupled to the 2DEG through an ultra-thin insulating barrier, forming a metal-insulator-2DEG metastructure. This structure supports slow waves that confine the RF current injection near the gate as the frequency increases, reducing the RF access resistance ( ${R}_{\\text {acc, {RF}}}$ ) while leaving the DC access resistance ( ${R}_{\\text {acc, {DC}}}$ ) — and thus the bias current — unaffected. Increasing the number of fingers further enhances this confinement through their collective interaction, compensating for the gate-resistance penalty of periphery scaling. Fabricated metatransistors exhibited up to $50\\times $ -smaller ${R}_{\\text {acc, {RF}}}$ than ${R}_{\\text {acc, {DC}}}$ and an ultra-low RF contact resistance of $0.02~\\Omega \\cdot $ mm, remaining flat above 150 GHz, and achieved ${f}_{\\text {MAX}}$ of 285 GHz while dissipating 51% less DC current than the reference HEMT at the same bias voltages. Load-pull measurements at 160 GHz yielded a peak output power of 0.95 W/mm and a peak PAE of 15.1% — a 68% improvement over the reference HEMT. These results establish metatransistors as a promising route toward ultra-low RF contact resistance and efficient mmWave/sub-THz power amplification.",
+      "score": 12,
+      "priority": 2,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“GaN Metatransistors for Efficient Sub-THz Power Amplification”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、先进尺度下的可扩展性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“GaN Metatransistors for Efficient Sub-THz Power Amplification”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、先进尺度下的可扩展性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、先进尺度下的可扩展性、接触/互连相关指标.\nContext: GaN Metatransistors for Efficient Sub-THz Power Amplification.",
+      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、先进尺度下的可扩展性、接触/互连相关指标.\nContext: GaN Metatransistors for Efficient Sub-THz Power Amplification."
+    },
+    {
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3733421",
+      "title": "P-GaN Gate HEMTs With Trench-Schottky Hybrid Gate Contact for Enhanced V <sub>TH</sub> Stability",
+      "url": "https://doi.org/10.1109/led.2026.3733421",
+      "published": "2026-11-01",
+      "authors": [
+        "Sheng Li",
+        "Songwei Peng",
+        "Chuanqi Pan",
+        "Yanfeng Ma",
+        "Mingfei Li",
+        "Denggui Wang",
+        "Zhonghui Li",
+        "Siyang Liu",
+        "Weifeng Sun"
+      ],
+      "summary": "In this work, a trench-Schottky hybrid gate contact design is proposed to improve the stability of threshold voltage ( ${V}_{\\text {TH}}\\text {)}$ and to modulate the gate leakage of the high electron mobility transistor with p-type-GaN gate cap (p-GaN gate HEMT). This novel hybrid gate contact design includes a partial Ohmic gate contact region, enabling hole injection from the Ohmic gate to compensate for trapped negative charges, thereby improving the ${V}_{\\text {TH}}$ stability. Meanwhile, the trench-Schottky structure forms two back-to-back symmetric “L”-shaped depletion regions embedded within the p-GaN layer that effectively narrows the leakage path, thereby suppressing gate leakage introduced by the Ohmic gate contact. Experimental results show that the fabricated device maintains static electrical characteristics comparable to a conventional p-GaN gate HEMT. However, the ${V}_{\\text {TH}}$ shift under dynamic gate bias stress is reduced by 87.5% (from 0.4 V to 0.05 V); while the reduction under drain bias stress reaches 58.3% (from 0.72 V to 0.30 V).",
+      "score": 11,
+      "priority": 2,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“P-GaN Gate HEMTs With Trench-Schottky Hybrid Gate Contact for Enhanced V <sub>T…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“P-GaN Gate HEMTs With Trench-Schottky Hybrid Gate Contact for Enhanced V <sub>T…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: P-GaN Gate HEMTs With Trench-Schottky Hybrid Gate Contact for Enhanced V <sub>TH</sub> Stability.",
+      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: P-GaN Gate HEMTs With Trench-Schottky Hybrid Gate Contact for Enhanced V <sub>TH</sub> Stability."
+    },
+    {
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3736275",
+      "title": "A Simple Method to Extract the Field Effect Mobility of Free Carriers in SiC MOSFETs",
+      "url": "https://doi.org/10.1109/led.2026.3736275",
+      "published": "2026-11-01",
+      "authors": [
+        "Jasleen K. Bindra",
+        "Jason P. Campbell",
+        "Yu-Xin Wen",
+        "Bing-Yue Tsui",
+        "Kin P. Cheung"
+      ],
+      "summary": "The observed low mobility in SiC MOSFETs is thought to be due to a high density of defects at or above the conduction band edge. Charge trapping in these defects greatly complicates conventional electrical analyses. In this work, we detail a simple analysis to quantify the charge trapping as modification to the threshold voltage. Accounting for this charge trapping allows for an extraction of field effect mobility of free carriers in the channel.",
+      "score": 11,
+      "priority": 2,
+      "highlights": [
+        "MOSFET",
+        "SiC"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、SiC方向，围绕“A Simple Method to Extract the Field Effect Mobility of Free Carriers in SiC MO…”展开。摘要显示，文章重点涉及电学/光学表征与测试结果，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、SiC方向，围绕“A Simple Method to Extract the Field Effect Mobility of Free Carriers in SiC MO…”展开。摘要显示，文章重点涉及电学/光学表征与测试结果，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: MOSFET、SiC.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: A Simple Method to Extract the Field Effect Mobility of Free Carriers in SiC MOSFETs.",
+      "reading_notes": "Focus: MOSFET、SiC.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: A Simple Method to Extract the Field Effect Mobility of Free Carriers in SiC MOSFETs."
     }
   ],
-  "errors": [
-    "arXiv"
-  ],
+  "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-10-26T00:30:00+00:00"
+  "generated_at": "2026-10-27T00:30:00+00:00"
 }
