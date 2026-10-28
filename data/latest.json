@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 37,
+  "new_count": 5,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-27）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 5 篇\n1. [IEEE Electron Device Letters] Lomb--Scargle Spectroscopy of Non-Polar Interface Traps Governing Anomalous PBTI in GaN Fin…\n   关键词：FinFET, GaN\n   日期：2026-11-01\n   Authors: Peng Wu, Wen Yang, Jianlang Liao 等\n   https://doi.org/10.1109/led.2026.3733400\n2. [IEEE Electron Device Letters] Synergistic Coupling Effects of Out-of-Plane and In-Plane Polarization in <i>α</i> -In <sub…\n   关键词：transistor, semiconductor, ferroelectric\n   日期：2026-11-01\n   Authors: Jiying Xiao, Xinrui Guo, Runze Liu 等\n   https://doi.org/10.1109/led.2026.3728667\n3. [IEEE Electron Device Letters] 1.6-GW/cm <sup>2</sup> Baliga’s Figure-of-Merit Au-Free p-GaN Gate HEMTs on 6-in Si Enabled…\n   关键词：GaN\n   日期：2026-11-01\n   Authors: Zhiqiang Xue, Bin Hou, Mao Jia 等\n   https://doi.org/10.1109/led.2026.3733557\n4. [IEEE Electron Device Letters] A Surrogate-Assisted TCAD Modeling Framework for 4H-SiC/SiO <sub>2</sub> Interface in 4H-Si…\n   关键词：MOSFET, SiC\n   日期：2026-11-01\n   Authors: Jue Wang, Yunfan Tu, Li Hu 等\n   https://doi.org/10.1109/led.2026.3735340\n5. [Applied Physics Letters] Electric-field redistribution via high- <i>k</i> dielectric trench in GaN-on-Si AlGaN/GaN H…\n   关键词：dielectric, GaN\n   日期：2026-10-26\n   Authors: Zhen Cao, Zhiwei Hou, Qi Sun 等\n   https://doi.org/10.1063/5.0345413\n6. [IEEE Electron Device Letters] GaN Metatransistors for Efficient Sub-THz Power Amplification\n   关键词：GaN\n   日期：2026-11-01\n   Authors: Onder Soydal, Hakan Cankat Gur, Utku Agtas 等\n   https://doi.org/10.1109/led.2026.3728195\n7. [IEEE Electron Device Letters] P-GaN Gate HEMTs With Trench-Schottky Hybrid Gate Contact for Enhanced V <sub>TH</sub> Stab…\n   关键词：GaN\n   日期：2026-11-01\n   Authors: Sheng Li, Songwei Peng, Chuanqi Pan 等\n   https://doi.org/10.1109/led.2026.3733421\n8. [IEEE Electron Device Letters] A Simple Method to Extract the Field Effect Mobility of Free Carriers in SiC MOSFETs\n   关键词：MOSFET, SiC\n   日期：2026-11-01\n   Authors: Jasleen K. Bindra, Jason P. Campbell, Yu-Xin Wen 等\n   https://doi.org/10.1109/led.2026.3736275",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-28）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 5 篇；Intel/TSMC 重点 0 篇；GaN 关键词 0 篇\n1. [Applied Physics Letters] Back-gate pulse-controlled scheme for retention enhancement in double-gate nanosheet DRAM\n   关键词：nanosheet\n   日期：2026-10-26\n   Authors: Ki-Nam Park, Hyun-Jun Kang, Jeong-Min Lee 等\n   https://doi.org/10.1063/5.0351545\n2. [Applied Physics Letters] Enabling nondestructive readout in ferroelectric capacitors for computing-in-memory through…\n   关键词：ferroelectric\n   日期：2026-10-26\n   Authors: Jing Zhou, Jingwen Hou, Xin Gong 等\n   https://doi.org/10.1063/5.0327479\n3. [Applied Physics Letters] van der Waals epitaxy of flexible <b> <i>κ</i> </b> -Ga2O3 thin films on mica for low-power…\n   关键词：epitaxy\n   日期：2026-10-26\n   Authors: Cheng Wang, Yuehui Wang, Shulin Jiao 等\n   https://doi.org/10.1063/5.0355974\n4. [Physical Review B] Role of oxygen vacancies in stabilizing the orthorhombic phases of <mml:math xmlns:mml=\"htt…\n   日期：2026-10-27\n   Authors: Yuriy O. Zagorodniy, Eugene A. Eliseev, Valentin V. Laguta 等\n   https://doi.org/10.1103/4l86-w61k\n5. [Applied Physics Letters] Single-domain, semiconducting κ-Ga2O3 grown on isostructural ε-GaFeO3 templates\n   日期：2026-10-26\n   Authors: Clemens Petersen, Sofie Vogt, Javier Garcia Fernandez 等\n   https://doi.org/10.1063/5.0343866\n注：以下源本次抓取失败：arXiv",
   "papers": [
     {
       "source": "IEEE Electron Device Letters",
@@ -225,9 +225,11 @@
       "reading_notes": "Focus: MOSFET、SiC.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: A Simple Method to Extract the Field Effect Mobility of Free Carriers in SiC MOSFETs."
     }
   ],
-  "errors": [],
+  "errors": [
+    "arXiv"
+  ],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-10-27T00:30:00+00:00"
+  "generated_at": "2026-10-28T00:30:00+00:00"
 }
