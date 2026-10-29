@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 5,
+  "new_count": 13,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-28）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 5 篇；Intel/TSMC 重点 0 篇；GaN 关键词 0 篇\n1. [Applied Physics Letters] Back-gate pulse-controlled scheme for retention enhancement in double-gate nanosheet DRAM\n   关键词：nanosheet\n   日期：2026-10-26\n   Authors: Ki-Nam Park, Hyun-Jun Kang, Jeong-Min Lee 等\n   https://doi.org/10.1063/5.0351545\n2. [Applied Physics Letters] Enabling nondestructive readout in ferroelectric capacitors for computing-in-memory through…\n   关键词：ferroelectric\n   日期：2026-10-26\n   Authors: Jing Zhou, Jingwen Hou, Xin Gong 等\n   https://doi.org/10.1063/5.0327479\n3. [Applied Physics Letters] van der Waals epitaxy of flexible <b> <i>κ</i> </b> -Ga2O3 thin films on mica for low-power…\n   关键词：epitaxy\n   日期：2026-10-26\n   Authors: Cheng Wang, Yuehui Wang, Shulin Jiao 等\n   https://doi.org/10.1063/5.0355974\n4. [Physical Review B] Role of oxygen vacancies in stabilizing the orthorhombic phases of <mml:math xmlns:mml=\"htt…\n   日期：2026-10-27\n   Authors: Yuriy O. Zagorodniy, Eugene A. Eliseev, Valentin V. Laguta 等\n   https://doi.org/10.1103/4l86-w61k\n5. [Applied Physics Letters] Single-domain, semiconducting κ-Ga2O3 grown on isostructural ε-GaFeO3 templates\n   日期：2026-10-26\n   Authors: Clemens Petersen, Sofie Vogt, Javier Garcia Fernandez 等\n   https://doi.org/10.1063/5.0343866\n注：以下源本次抓取失败：arXiv",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-29）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 5 篇\n1. [arXiv] Back-End-Of-Line Integration of 2-Terminal Ferroelectric Hafnia Synaptic Weights on Commerc…\n   关键词：CMOS, ferroelectric\n   日期：2026-10-28\n   Authors: Alexander Flasby, Anwesha Panda, Nathan Savoia 等\n   https://arxiv.org/abs/2610.37530v1\n2. [arXiv] Demonstration of high output power (3.75 W/mm) with 31.8% PAE in Ga-Polar AlGaN/GaN HEMTs o…\n   关键词：GaN\n   日期：2026-10-27\n   Authors: Ruixin Bai, Swarnav Mukhopadhyay, Michael Elliott 等\n   https://arxiv.org/abs/2610.36492v1\n3. [Science Advances] A Full-Spectrum Generative Lead Discovery (FSGLD) pipeline via DRUG-GAN: A multiscale metho…\n   关键词：GaN\n   日期：2026-10-30\n   Authors: Beihong Ji, Matthew Brock, Yuhui Wu 等\n   https://doi.org/10.1126/sciadv.aei5257\n4. [Physical Review B] Origin of the conflicting hole masses in the GaN/AlN two-dimensional hole gas\n   关键词：GaN\n   日期：2026-10-28\n   Authors: Tanvir M. Mahim, Abu S. M. Mohsin, M. Mosaddequr Rahman\n   https://doi.org/10.1103/zn44-nmx8\n5. [Science Advances] Transient absorption signatures of asymmetric carrier cooling in semiconductors\n   关键词：semiconductor, GaN\n   日期：2026-10-30\n   Authors: Ivan Maliyov, Piotr Jan Kabacinski, Hemen Hosseini 等\n   https://doi.org/10.1126/sciadv.aeh6002\n6. [arXiv] Localization Contrast As a Fundamental Limit of Radiative Quantum Efficiency\n   关键词：GaN\n   日期：2026-10-22\n   Authors: Arsineh Apelian, Tanay Tak, Xuance Jiang 等\n   https://arxiv.org/abs/2610.30741v2\n7. [arXiv] Oxygen partial pressure induced dielectric phase evolution in PLD deposited Barium Strontiu…\n   关键词：dielectric\n   日期：2026-10-27\n   Authors: Shashi Pandey, Suk Hyun Sung, Jacob Fernandez 等\n   https://arxiv.org/abs/2610.36313v1\n8. [arXiv] Photoinduced charging and spatially selective photochemistry on ferroelectric surfaces\n   关键词：ferroelectric\n   日期：2026-10-26\n   Authors: Sergei V. Kalinin\n   https://arxiv.org/abs/2610.34465v1",
   "papers": [
     {
       "source": "IEEE Electron Device Letters",
@@ -172,6 +172,30 @@
       "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、先进尺度下的可扩展性、接触/互连相关指标.\nContext: GaN Metatransistors for Efficient Sub-THz Power Amplification."
     },
     {
+      "source": "arXiv",
+      "uid": "arxiv:2610.37530v1",
+      "title": "Back-End-Of-Line Integration of 2-Terminal Ferroelectric Hafnia Synaptic Weights on Commercial CMOS Process",
+      "url": "https://arxiv.org/abs/2610.37530v1",
+      "published": "2026-10-28",
+      "authors": [
+        "Alexander Flasby",
+        "Anwesha Panda",
+        "Nathan Savoia",
+        "Laura Bégon-Lours"
+      ],
+      "summary": "Functionalising the back-end-of-line (BEOL) of CMOS with emerging materials is a key route to neural network accelerators and neuromorphic systems. In this work, we demonstrate for the first time the integration of 2-terminal ferroelectric synaptic weights in the BEOL of as-delivered commercial 180 nm CMOS dies. A novel material stack is proposed, in which a WOx/[HfO2-ZrO2] bilayer is sandwiched between TiN and Mo electrodes. For devices annealed at 450 °C, programming below 1.8 V is achieved with a cycle-to-cycle variation below 3 %. Synaptic weights annealed at 500 °C exhibit more gradual weight updates, while the tested underlying NMOS transistors remain functional after the complete integration process. The trade-off between thermal budget and on-device training performance is illustrated using hardware-aware neural network simulations.",
+      "score": 12,
+      "priority": 2,
+      "highlights": [
+        "CMOS",
+        "ferroelectric"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS、铁电材料方向，围绕“Back-End-Of-Line Integration of 2-Terminal Ferroelectric Hafnia Synaptic Weight…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看性能提升、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS、铁电材料方向，围绕“Back-End-Of-Line Integration of 2-Terminal Ferroelectric Hafnia Synaptic Weight…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看性能提升、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: CMOS、铁电材料.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: Back-End-Of-Line Integration of 2-Terminal Ferroelectric Hafnia Synaptic Weights on Commercial ….",
+      "reading_notes": "Focus: CMOS、铁电材料.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: Back-End-Of-Line Integration of 2-Terminal Ferroelectric Hafnia Synaptic Weights on Commercial …."
+    },
+    {
       "source": "IEEE Electron Device Letters",
       "uid": "doi:10.1109/led.2026.3733421",
       "title": "P-GaN Gate HEMTs With Trench-Schottky Hybrid Gate Contact for Enhanced V <sub>TH</sub> Stability",
@@ -198,38 +222,11 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“P-GaN Gate HEMTs With Trench-Schottky Hybrid Gate Contact for Enhanced V <sub>T…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: P-GaN Gate HEMTs With Trench-Schottky Hybrid Gate Contact for Enhanced V <sub>TH</sub> Stability.",
       "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: P-GaN Gate HEMTs With Trench-Schottky Hybrid Gate Contact for Enhanced V <sub>TH</sub> Stability."
-    },
-    {
-      "source": "IEEE Electron Device Letters",
-      "uid": "doi:10.1109/led.2026.3736275",
-      "title": "A Simple Method to Extract the Field Effect Mobility of Free Carriers in SiC MOSFETs",
-      "url": "https://doi.org/10.1109/led.2026.3736275",
-      "published": "2026-11-01",
-      "authors": [
-        "Jasleen K. Bindra",
-        "Jason P. Campbell",
-        "Yu-Xin Wen",
-        "Bing-Yue Tsui",
-        "Kin P. Cheung"
-      ],
-      "summary": "The observed low mobility in SiC MOSFETs is thought to be due to a high density of defects at or above the conduction band edge. Charge trapping in these defects greatly complicates conventional electrical analyses. In this work, we detail a simple analysis to quantify the charge trapping as modification to the threshold voltage. Accounting for this charge trapping allows for an extraction of field effect mobility of free carriers in the channel.",
-      "score": 11,
-      "priority": 2,
-      "highlights": [
-        "MOSFET",
-        "SiC"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、SiC方向，围绕“A Simple Method to Extract the Field Effect Mobility of Free Carriers in SiC MO…”展开。摘要显示，文章重点涉及电学/光学表征与测试结果，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、SiC方向，围绕“A Simple Method to Extract the Field Effect Mobility of Free Carriers in SiC MO…”展开。摘要显示，文章重点涉及电学/光学表征与测试结果，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: MOSFET、SiC.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: A Simple Method to Extract the Field Effect Mobility of Free Carriers in SiC MOSFETs.",
-      "reading_notes": "Focus: MOSFET、SiC.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: A Simple Method to Extract the Field Effect Mobility of Free Carriers in SiC MOSFETs."
     }
   ],
-  "errors": [
-    "arXiv"
-  ],
+  "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-10-28T00:30:00+00:00"
+  "generated_at": "2026-10-29T00:30:00+00:00"
 }
