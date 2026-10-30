@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 13,
+  "new_count": 2,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-29）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 5 篇\n1. [arXiv] Back-End-Of-Line Integration of 2-Terminal Ferroelectric Hafnia Synaptic Weights on Commerc…\n   关键词：CMOS, ferroelectric\n   日期：2026-10-28\n   Authors: Alexander Flasby, Anwesha Panda, Nathan Savoia 等\n   https://arxiv.org/abs/2610.37530v1\n2. [arXiv] Demonstration of high output power (3.75 W/mm) with 31.8% PAE in Ga-Polar AlGaN/GaN HEMTs o…\n   关键词：GaN\n   日期：2026-10-27\n   Authors: Ruixin Bai, Swarnav Mukhopadhyay, Michael Elliott 等\n   https://arxiv.org/abs/2610.36492v1\n3. [Science Advances] A Full-Spectrum Generative Lead Discovery (FSGLD) pipeline via DRUG-GAN: A multiscale metho…\n   关键词：GaN\n   日期：2026-10-30\n   Authors: Beihong Ji, Matthew Brock, Yuhui Wu 等\n   https://doi.org/10.1126/sciadv.aei5257\n4. [Physical Review B] Origin of the conflicting hole masses in the GaN/AlN two-dimensional hole gas\n   关键词：GaN\n   日期：2026-10-28\n   Authors: Tanvir M. Mahim, Abu S. M. Mohsin, M. Mosaddequr Rahman\n   https://doi.org/10.1103/zn44-nmx8\n5. [Science Advances] Transient absorption signatures of asymmetric carrier cooling in semiconductors\n   关键词：semiconductor, GaN\n   日期：2026-10-30\n   Authors: Ivan Maliyov, Piotr Jan Kabacinski, Hemen Hosseini 等\n   https://doi.org/10.1126/sciadv.aeh6002\n6. [arXiv] Localization Contrast As a Fundamental Limit of Radiative Quantum Efficiency\n   关键词：GaN\n   日期：2026-10-22\n   Authors: Arsineh Apelian, Tanay Tak, Xuance Jiang 等\n   https://arxiv.org/abs/2610.30741v2\n7. [arXiv] Oxygen partial pressure induced dielectric phase evolution in PLD deposited Barium Strontiu…\n   关键词：dielectric\n   日期：2026-10-27\n   Authors: Shashi Pandey, Suk Hyun Sung, Jacob Fernandez 等\n   https://arxiv.org/abs/2610.36313v1\n8. [arXiv] Photoinduced charging and spatially selective photochemistry on ferroelectric surfaces\n   关键词：ferroelectric\n   日期：2026-10-26\n   Authors: Sergei V. Kalinin\n   https://arxiv.org/abs/2610.34465v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-10-30）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 2 篇；Intel/TSMC 重点 0 篇；GaN 关键词 2 篇\n1. [Applied Physics Letters] Random telegraph noise and excess leakage current due to extended defects in GaN pn and p–i…\n   关键词：GaN\n   日期：2026-10-26\n   Authors: Rajarshi Roy Chaudhuri, Manuel Stabentheiner, Hubert Rockermeier 等\n   https://doi.org/10.1063/5.0345597\n2. [Applied Physics Letters] Suppression of n-type inversion in high-dose Mg-implanted GaN layers via cap annealing unde…\n   关键词：GaN\n   日期：2026-10-26\n   Authors: Meguru Endo, Kenta Watanabe, Yoshitaka Nagasato 等\n   https://doi.org/10.1063/5.0350846",
   "papers": [
     {
       "source": "IEEE Electron Device Letters",
@@ -119,34 +119,6 @@
       "reading_notes": "Focus: MOSFET、SiC.\nWhat to check: 性能提升.\nContext: A Surrogate-Assisted TCAD Modeling Framework for 4H-SiC/SiO <sub>2</sub> Interface in 4H-SiC MO…."
     },
     {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0345413",
-      "title": "Electric-field redistribution via high- <i>k</i> dielectric trench in GaN-on-Si AlGaN/GaN HEMTs",
-      "url": "https://doi.org/10.1063/5.0345413",
-      "published": "2026-10-26",
-      "authors": [
-        "Zhen Cao",
-        "Zhiwei Hou",
-        "Qi Sun",
-        "Guohao Yu",
-        "Bingliang Zhang",
-        "Biao Hou",
-        "Licheng Jiao",
-        "Yintang Yang"
-      ],
-      "summary": "We report a GaN-on-Si AlGaN/GaN high-electron-mobility transistor (HEMT) incorporating a drain-side Pb(Zr,Ti)O3 (PZT) trench for electrostatic field management. The mechanism is formulated using the displacement-field boundary conditions and evaluated by two-dimensional technology computer aided design with a field-independent relative-permittivity sweep from 3.9 to 500. The calculations reveal the nonmonotonic dependence of terminal voltage on permittivity and a broader drain-side high-field distribution for the nominal εr=300 case. Experimentally, a representative PZT-trench HEMT reaches 1405 V at LGD=9 μm, compared with 783 V for a co-fabricated conventional device and 957 V for a previously reported hybrid Schottky–ohmic drain HEMT, corresponding to breakdown-voltage improvements of 79% and 47%, respectively, while retaining a specific ON-resistance of 1.47 mΩ cm2. The dynamic-to-static ON-resistance ratios, RON,dyn/RON,static, are 1.6× and 2.5× after 900 and 1200 V off-state stress, respectively, at a 3 μs extraction delay. These results demonstrate simultaneous enhancement of voltage handling and dynamic performance through drain-side dielectric-boundary engineering.",
-      "score": 14,
-      "priority": 2,
-      "highlights": [
-        "dielectric",
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注介电材料、GaN方向，围绕“Electric-field redistribution via high- <i>k</i> dielectric trench in GaN-on-Si…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看性能提升、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注介电材料、GaN方向，围绕“Electric-field redistribution via high- <i>k</i> dielectric trench in GaN-on-Si…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看性能提升、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 介电材料、GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Electric-field redistribution via high- <i>k</i> dielectric trench in GaN-on-Si AlGaN/GaN HEMTs.",
-      "reading_notes": "Focus: 介电材料、GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Electric-field redistribution via high- <i>k</i> dielectric trench in GaN-on-Si AlGaN/GaN HEMTs."
-    },
-    {
       "source": "IEEE Electron Device Letters",
       "uid": "doi:10.1109/led.2026.3728195",
       "title": "GaN Metatransistors for Efficient Sub-THz Power Amplification",
@@ -222,11 +194,36 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“P-GaN Gate HEMTs With Trench-Schottky Hybrid Gate Contact for Enhanced V <sub>T…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: P-GaN Gate HEMTs With Trench-Schottky Hybrid Gate Contact for Enhanced V <sub>TH</sub> Stability.",
       "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: P-GaN Gate HEMTs With Trench-Schottky Hybrid Gate Contact for Enhanced V <sub>TH</sub> Stability."
+    },
+    {
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3736275",
+      "title": "A Simple Method to Extract the Field Effect Mobility of Free Carriers in SiC MOSFETs",
+      "url": "https://doi.org/10.1109/led.2026.3736275",
+      "published": "2026-11-01",
+      "authors": [
+        "Jasleen K. Bindra",
+        "Jason P. Campbell",
+        "Yu-Xin Wen",
+        "Bing-Yue Tsui",
+        "Kin P. Cheung"
+      ],
+      "summary": "The observed low mobility in SiC MOSFETs is thought to be due to a high density of defects at or above the conduction band edge. Charge trapping in these defects greatly complicates conventional electrical analyses. In this work, we detail a simple analysis to quantify the charge trapping as modification to the threshold voltage. Accounting for this charge trapping allows for an extraction of field effect mobility of free carriers in the channel.",
+      "score": 11,
+      "priority": 2,
+      "highlights": [
+        "MOSFET",
+        "SiC"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、SiC方向，围绕“A Simple Method to Extract the Field Effect Mobility of Free Carriers in SiC MO…”展开。摘要显示，文章重点涉及电学/光学表征与测试结果，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、SiC方向，围绕“A Simple Method to Extract the Field Effect Mobility of Free Carriers in SiC MO…”展开。摘要显示，文章重点涉及电学/光学表征与测试结果，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: MOSFET、SiC.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: A Simple Method to Extract the Field Effect Mobility of Free Carriers in SiC MOSFETs.",
+      "reading_notes": "Focus: MOSFET、SiC.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: A Simple Method to Extract the Field Effect Mobility of Free Carriers in SiC MOSFETs."
     }
   ],
   "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-10-29T00:30:00+00:00"
+  "generated_at": "2026-10-30T00:30:00+00:00"
 }
