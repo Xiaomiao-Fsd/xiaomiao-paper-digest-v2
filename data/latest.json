@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 12,
+  "new_count": 21,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-11-03）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 1 篇；GaN 关键词 3 篇\n1. [Applied Physics Letters] Preserved p-type performance of MoTe2 transistors via TeO2 dielectric buffer\n   关键词：transistor, dielectric\n   日期：2026-11-02\n   Authors: Fuyuan Zhang, Yuhan Zhu, Yujia Yan 等\n   https://doi.org/10.1063/5.0356398\n2. ⭐ [arXiv] Control-Noise Trade-offs in Industrially Integrated ${}^{28}\\mathrm{Si}/\\mathrm{SiGe}$ Spin…\n   关键词：Intel\n   日期：2026-10-30\n   Authors: Leon C. Camenzind, Ik Kyeong Jin, Yi-Hsien Wu 等\n   https://arxiv.org/abs/2610.41890v1\n3. [Applied Physics Letters] Growth rate and indium incorporation during growth of InGaN/GaN quantum well structures in …\n   关键词：GaN\n   日期：2026-11-02\n   Authors: Ivan Martinovic, Chih-Wei Hsu, Eric Tseng 等\n   https://doi.org/10.1063/5.0325398\n4. [arXiv] Universal model of the growth of III-V tetrahedral semiconductors on polar surfaces: pyrami…\n   关键词：semiconductor, GaN\n   日期：2026-10-30\n   Authors: Pawel Strak, Stanisław Krukowski\n   https://arxiv.org/abs/2610.41571v1\n5. [arXiv] Universal model of the growth of III-V tetrahedral semiconductors on polar surfaces: pyrami…\n   关键词：semiconductor, GaN\n   日期：2026-10-30\n   Authors: Pawel Strak, Stanisław Krukowski\n   https://arxiv.org/abs/2610.41559v1\n6. [arXiv] Efficient Simulation of Gate Leakage Currents in Ultra-scaled Transistors from First Princi…\n   关键词：transistor\n   日期：2026-10-30\n   Authors: Mauro Dossena, Nicolas Vetsch, Alexander Maeder 等\n   https://arxiv.org/abs/2610.40929v1\n7. [Applied Physics Letters] Normally off behavior of high Al composition AlGaN channel HEMT with p-NiO gate dielectric …\n   关键词：dielectric\n   日期：2026-11-02\n   Authors: Shuwen Xie, Swarnav Mukhopadhyay, Guangying Wang 等\n   https://doi.org/10.1063/5.0349789\n8. [Applied Physics Letters] Acoustic generation in solid dielectrics excited by steep square-wave voltage edges under n…\n   关键词：dielectric\n   日期：2026-11-02\n   Authors: Yuxin Liu, Bo Zhang, Jinliang He\n   https://doi.org/10.1063/5.0341079",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-11-07）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 1 篇\n1. [IEEE Transactions on Electron Devices] Switching Losses and Their Mitigation in Lateral <i>β</i> -Ga <sub>2</sub> O <sub>3</sub> P…\n   关键词：MOSFET, dielectric\n   日期：2026-11-01\n   Authors: Wenpeng Zhou, Zuokai Wen, Zhiqiang Li 等\n   https://doi.org/10.1109/ted.2026.3739260\n2. [IEEE Transactions on Electron Devices] Impact of Interface and Dielectric Defects on HKMG MOSFETs Down to Cryogenic Temperatures\n   关键词：MOSFET, dielectric\n   日期：2026-11-01\n   Authors: R. Asanovski, J. Franco, E. Catapano 等\n   https://doi.org/10.1109/ted.2026.3732277\n3. [IEEE Transactions on Electron Devices] Wafer-Scale Demonstration of High-Voltage <i>β</i> -Ga <sub>2</sub> O <sub>3</sub> MOSFETs …\n   关键词：MOSFET, wafer\n   日期：2026-11-01\n   Authors: Ningtao Liu, Hengrui Zhang, Shujun Zhu 等\n   https://doi.org/10.1109/ted.2026.3733929\n4. [IEEE Transactions on Electron Devices] High-Field Regime Degradation Model of SiC MOSFETs Under Total-Ionizing-Dose Irradiation\n   关键词：MOSFET, SiC\n   日期：2026-11-01\n   Authors: Zhengjia Chen, Hongyi Xu, Na Ren 等\n   https://doi.org/10.1109/ted.2026.3735622\n5. [IEEE Transactions on Electron Devices] Monolithic GaN-on-Sapphire Optofluidic Devices for Droplet Logic Operations\n   关键词：GaN\n   日期：2026-11-01\n   Authors: Yumeng Luo, Yilin He, Kai Ma 等\n   https://doi.org/10.1109/ted.2026.3731264\n6. [IEEE Transactions on Electron Devices] Boosting the On/Off Current Ratio of MOS Transistor Over a Wide High-Temperature Range Usin…\n   关键词：transistor, MOSFET\n   日期：2026-11-01\n   Authors: Egon Henrique Salerno Galembeck, Denis Flandre, Cor Claeys 等\n   https://doi.org/10.1109/ted.2026.3731597\n7. [IEEE Transactions on Electron Devices] Demonstration of Ga <sub>2</sub> O <sub>3</sub> Lateral MOSFET With Integrated Freewheeling…\n   关键词：MOSFET\n   日期：2026-11-01\n   Authors: Maolin Zhang, Yang Cai, Yingxu Wang 等\n   https://doi.org/10.1109/ted.2026.3679310\n8. [IEEE Transactions on Electron Devices] Dual-Mode Conduction in Silicon Transistors on Bulk Substrates: Feedback and Thyristor Mech…\n   关键词：transistor\n   日期：2026-11-01\n   Authors: Yaeyeon Ko, Doohyeok Lim\n   https://doi.org/10.1109/ted.2026.3732639",
   "papers": [
     {
       "source": "IEEE Electron Device Letters",
@@ -59,6 +59,56 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、介电材料方向，围绕“Preserved p-type performance of MoTe2 transistors via TeO2 dielectric buffer”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: 晶体管、介电材料.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: Preserved p-type performance of MoTe2 transistors via TeO2 dielectric buffer.",
       "reading_notes": "Focus: 晶体管、介电材料.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: Preserved p-type performance of MoTe2 transistors via TeO2 dielectric buffer."
+    },
+    {
+      "source": "IEEE Transactions on Electron Devices",
+      "uid": "doi:10.1109/ted.2026.3739260",
+      "title": "Switching Losses and Their Mitigation in Lateral <i>β</i> -Ga <sub>2</sub> O <sub>3</sub> Power MOSFETs With High-Permittivity Dielectric for Field Management",
+      "url": "https://doi.org/10.1109/ted.2026.3739260",
+      "published": "2026-11-01",
+      "authors": [
+        "Wenpeng Zhou",
+        "Zuokai Wen",
+        "Zhiqiang Li",
+        "Biao Zhao",
+        "Man Hoi Wong"
+      ],
+      "summary": "Ultrawide-bandgap beta-phase gallium oxide ( $\\beta $ -Ga 2 O ${}_{{3}}\\text {)}$ is promising for high-voltage, low-loss power devices. Field management in $\\beta $ -Ga 2 O 3 transistors using a high-permittivity (high- ${k}\\text {)}$ dielectric can improve the devices’ power figure of merit (PFOM), but the increased drain-to-gate feedback capacitance degrades switching performance. This article reports on a simulation study of the switching losses and their mitigation in a 3.3-kV normally- off lateral $\\beta $ -Ga 2 O 3 MOSFET with high- $k$ field management. A source-connected field plate (sFP) is proposed to mitigate the switching losses while maintaining the device’s blocking capability. Under the switching condition of 3.3 kV/20 A, the fall time and rise time are reduced by approximately 61% and 85%, respectively. The associated turn-off and turn-on losses decrease by approximately 63% and 51%, respectively. Meanwhile, the sFP can shield the gate from a high drain bias and improve gate stability. The effect of the sFP in mitigating switching losses is more effective at higher load currents, indicating that the proposed strategy is suitable for high-load switching scenarios. These findings provide guiding principles for the design of lateral $\\beta $ -Ga 2 O 3 MOSFETs to meet switching requirements in power electronics.",
+      "score": 18,
+      "priority": 2,
+      "highlights": [
+        "MOSFET",
+        "dielectric"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、介电材料方向，围绕“Switching Losses and Their Mitigation in Lateral <i>β</i> -Ga <sub>2</sub> O <s…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、介电材料方向，围绕“Switching Losses and Their Mitigation in Lateral <i>β</i> -Ga <sub>2</sub> O <s…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: MOSFET、介电材料.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Switching Losses and Their Mitigation in Lateral <i>β</i> -Ga <sub>2</sub> O <sub>3</sub> Power….",
+      "reading_notes": "Focus: MOSFET、介电材料.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Switching Losses and Their Mitigation in Lateral <i>β</i> -Ga <sub>2</sub> O <sub>3</sub> Power…."
+    },
+    {
+      "source": "IEEE Transactions on Electron Devices",
+      "uid": "doi:10.1109/ted.2026.3732277",
+      "title": "Impact of Interface and Dielectric Defects on HKMG MOSFETs Down to Cryogenic Temperatures",
+      "url": "https://doi.org/10.1109/ted.2026.3732277",
+      "published": "2026-11-01",
+      "authors": [
+        "R. Asanovski",
+        "J. Franco",
+        "E. Catapano",
+        "A. Grill",
+        "K. de Greve"
+      ],
+      "summary": "This study investigates the impact of interface and dielectric defects on high- $\\boldsymbol {\\kappa }$ metal gate (HKMG) MOSFETs at cryogenic temperatures, focusing on key MOSFET metrics and their correlation with room temperature values. We use substrate injectors to induce a controlled generation of interface and dielectric defects on devices with a scaled CMOS gate dielectric stack with SiO 2 interlayer, HfO 2 , and gate metal. We evaluate how these defects affect subthreshold swing (SS), threshold voltage, gate leakage, transconductance, and 1/f noise down to cryogenic temperatures by comparing fresh devices and devices subjected to controlled substrate hot-carrier stress prior to cryogenic characterization. The findings are then validated on devices fabricated in commercial FDSOI MOSFETs, using test structures designed to induce varying plasma damage and dielectric defectivity, confirming the robustness of the observed trends across technologies.",
+      "score": 17,
+      "priority": 2,
+      "highlights": [
+        "MOSFET",
+        "dielectric"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、介电材料方向，围绕“Impact of Interface and Dielectric Defects on HKMG MOSFETs Down to Cryogenic Te…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看可靠性与稳定性、先进尺度下的可扩展性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、介电材料方向，围绕“Impact of Interface and Dielectric Defects on HKMG MOSFETs Down to Cryogenic Te…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看可靠性与稳定性、先进尺度下的可扩展性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: MOSFET、介电材料.\nWhat to check: 可靠性与稳定性、先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Impact of Interface and Dielectric Defects on HKMG MOSFETs Down to Cryogenic Temperatures.",
+      "reading_notes": "Focus: MOSFET、介电材料.\nWhat to check: 可靠性与稳定性、先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Impact of Interface and Dielectric Defects on HKMG MOSFETs Down to Cryogenic Temperatures."
     },
     {
       "source": "IEEE Electron Device Letters",
@@ -123,111 +173,71 @@
       "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性、接触/互连相关指标.\nContext: 1.6-GW/cm <sup>2</sup> Baliga’s Figure-of-Merit Au-Free p-GaN Gate HEMTs on 6-in Si Enabled by …."
     },
     {
-      "source": "IEEE Electron Device Letters",
-      "uid": "doi:10.1109/led.2026.3735340",
-      "title": "A Surrogate-Assisted TCAD Modeling Framework for 4H-SiC/SiO <sub>2</sub> Interface in 4H-SiC MOSFET",
-      "url": "https://doi.org/10.1109/led.2026.3735340",
+      "source": "IEEE Transactions on Electron Devices",
+      "uid": "doi:10.1109/ted.2026.3733929",
+      "title": "Wafer-Scale Demonstration of High-Voltage <i>β</i> -Ga <sub>2</sub> O <sub>3</sub> MOSFETs With Excellent Uniformity and &gt;3 kV Breakdown Capability",
+      "url": "https://doi.org/10.1109/ted.2026.3733929",
       "published": "2026-11-01",
       "authors": [
-        "Jue Wang",
-        "Yunfan Tu",
-        "Li Hu",
-        "Zijian Hu",
-        "Na Ren"
+        "Ningtao Liu",
+        "Hengrui Zhang",
+        "Shujun Zhu",
+        "Zhihao Yan",
+        "Dongyang Han",
+        "Shen Hu",
+        "Li Ji",
+        "Ning Xia",
+        "Jichun Ye",
+        "Wenrui Zhang"
       ],
-      "summary": "A surrogate-assisted TCAD modeling framework is proposed for the physics-based extraction of microscopic SiC/SiO 2 interface properties in 4H-SiC MOSFETs. The framework incorporates interface charges, defect-state distributions, and carrier-scattering mechanisms, while a neural-network surrogate and an improved genetic algorithm enable efficient extraction of coupled interface parameters from device electrical characteristics. Compared with the conventional genetic algorithm and full TCAD-based genetic-algorithm optimization, the proposed framework achieves a $16.6\\times $ speedup in parameter extraction while enabling quantitative identification of process-dependent microscopic interface properties. The extracted parameters reproduce the measured characteristics of devices with different gate oxidation processes, enabling quantitative comparison of process-dependent interface properties and linking gate-oxide processes to microscopic interface characteristics and device behavior.",
-      "score": 14,
+      "summary": "This study demonstrates a wafer-scale growth of a 2-in, Si-doped $\\beta $ -Ga 2 O 3 (100) epitaxial wafer and the realization of uniform, high-voltage lateral $\\beta $ -Ga 2 O 3 MOSFET arrays. The 2-in homoepitaxial $\\beta $ -Ga 2 O 3 (100) film grown by metal-organic chemical vapor deposition (MOCVD) exhibits excellent crystalline uniformity with an average rocking curve full width at half maximum (FWHM) of ~27.0 arcsec and a low surface roughness of less than 1 nm, alongside a uniform net doping concentration of $4.60\\times 10^{{17}}$ cm -3 . The representative MOSFET delivers a threshold voltage of −31.75 V, a drain-current on / off ratio $\\gt10^{{9}}$ , a specific on -resistance of 126.52 m $\\Omega \\cdot $ cm 2 and a breakdown voltage exceeding 3 kV. Statistical analysis across the entire wafer confirms good device uniformity, with threshold voltages ranging from −28 to −36 V, output current densities of $60\\sim 75$ mA/mm, and a breakdown voltage over 3 kV. These results provide the demonstration using the 2-in $\\beta $ -Ga 2 O 3 epitaxial wafer to realize high-voltage $\\beta $ -Ga 2 O 3 MOSFETs with wafer-scale performance uniformity for industrial-level device application.",
+      "score": 15,
       "priority": 2,
       "highlights": [
         "MOSFET",
-        "SiC"
+        "wafer"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、SiC方向，围绕“A Surrogate-Assisted TCAD Modeling Framework for 4H-SiC/SiO <sub>2</sub> Interf…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、SiC方向，围绕“A Surrogate-Assisted TCAD Modeling Framework for 4H-SiC/SiO <sub>2</sub> Interf…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: MOSFET、SiC.\nWhat to check: 性能提升.\nContext: A Surrogate-Assisted TCAD Modeling Framework for 4H-SiC/SiO <sub>2</sub> Interface in 4H-SiC MO….",
-      "reading_notes": "Focus: MOSFET、SiC.\nWhat to check: 性能提升.\nContext: A Surrogate-Assisted TCAD Modeling Framework for 4H-SiC/SiO <sub>2</sub> Interface in 4H-SiC MO…."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、wafer方向，围绕“Wafer-Scale Demonstration of High-Voltage <i>β</i> -Ga <sub>2</sub> O <sub>3</s…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、wafer方向，围绕“Wafer-Scale Demonstration of High-Voltage <i>β</i> -Ga <sub>2</sub> O <sub>3</s…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: MOSFET、wafer.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Wafer-Scale Demonstration of High-Voltage <i>β</i> -Ga <sub>2</sub> O <sub>3</sub> MOSFETs With….",
+      "reading_notes": "Focus: MOSFET、wafer.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Wafer-Scale Demonstration of High-Voltage <i>β</i> -Ga <sub>2</sub> O <sub>3</sub> MOSFETs With…."
     },
     {
-      "source": "IEEE Electron Device Letters",
-      "uid": "doi:10.1109/led.2026.3728195",
-      "title": "GaN Metatransistors for Efficient Sub-THz Power Amplification",
-      "url": "https://doi.org/10.1109/led.2026.3728195",
-      "published": "2026-11-01",
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0348862",
+      "title": "Laser-transferrable GaN HEMTs based on high-quality AlN/GaN/AlN sacrificing templates",
+      "url": "https://doi.org/10.1063/5.0348862",
+      "published": "2026-11-02",
       "authors": [
-        "Onder Soydal",
-        "Hakan Cankat Gur",
-        "Utku Agtas",
-        "Francesco Marcantoni",
-        "Yuan Zong",
-        "Elison Matioli"
+        "Jiayao Li",
+        "Haochen Zhang",
+        "Li Chen",
+        "Zihui Zhao",
+        "Bowei Yu",
+        "Guangyuan Yu",
+        "Yong Yan",
+        "Zhibai Zhong",
+        "Jinjian Zheng",
+        "Feilin Xun",
+        "Jichun Ye",
+        "Wei Guo",
+        "Haiding Sun"
       ],
-      "summary": "This work introduces the concept of metatransistors, which decouples the DC and RF access resistances of a transistor to enable efficient sub-THz power amplification. The device integrates patterned Schottky contacts, coupled to the 2DEG through an ultra-thin insulating barrier, forming a metal-insulator-2DEG metastructure. This structure supports slow waves that confine the RF current injection near the gate as the frequency increases, reducing the RF access resistance ( ${R}_{\\text {acc, {RF}}}$ ) while leaving the DC access resistance ( ${R}_{\\text {acc, {DC}}}$ ) — and thus the bias current — unaffected. Increasing the number of fingers further enhances this confinement through their collective interaction, compensating for the gate-resistance penalty of periphery scaling. Fabricated metatransistors exhibited up to $50\\times $ -smaller ${R}_{\\text {acc, {RF}}}$ than ${R}_{\\text {acc, {DC}}}$ and an ultra-low RF contact resistance of $0.02~\\Omega \\cdot $ mm, remaining flat above 150 GHz, and achieved ${f}_{\\text {MAX}}$ of 285 GHz while dissipating 51% less DC current than the reference HEMT at the same bias voltages. Load-pull measurements at 160 GHz yielded a peak output power of 0.95 W/mm and a peak PAE of 15.1% — a 68% improvement over the reference HEMT. These results establish metatransistors as a promising route toward ultra-low RF contact resistance and efficient mmWave/sub-THz power amplification.",
-      "score": 12,
+      "summary": "Laser lift-off (LLO) technology is an effective approach to fabricate transferrable GaN high-electron-mobility transistors (HEMTs) and address self-heating effects during device operation. However, conventional approaches struggle with precise control of LLO positions and structural integrity of devices, especially for those with AlN-based back barriers (BBs). Herein, we develop a laser-transferrable GaN HEMT with a μm-scale AlN BB, which is grown on a novel template including a GaN sacrificing layer (SL) and a metalorganic chemical vapor deposition-grown AlN nucleation layer (MO-AlN NL). The MO-AlN serves as the dislocation filtering layer to suppress dislocation propagation in the GaN SL, thereby creating an optimized nucleation template for the AlN BB. As such, the AlN-on-GaN epitaxy proceeds in a coherent 2D growth mode with largely reduced threading dislocations and preserved compressive strain. The devices fabricated on this AlN-BB/GaN-SL/AlN-NL tri-layer template can be integrally detached by a 266-nm UV laser, which only breaks the GaN SL and leaves an intact device active region. This work simultaneously resolves the critical challenges in μm-scale AlN-on-GaN epitaxy and laser transfer of GaN HEMTs with AlN-based BBs, offering a viable approach to laser-transferrable GaN power/RF devices with customized device structures toward improved device characteristics and thermal management.",
+      "score": 14,
       "priority": 2,
       "highlights": [
         "GaN"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“GaN Metatransistors for Efficient Sub-THz Power Amplification”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、先进尺度下的可扩展性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“GaN Metatransistors for Efficient Sub-THz Power Amplification”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、先进尺度下的可扩展性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、先进尺度下的可扩展性、接触/互连相关指标.\nContext: GaN Metatransistors for Efficient Sub-THz Power Amplification.",
-      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、先进尺度下的可扩展性、接触/互连相关指标.\nContext: GaN Metatransistors for Efficient Sub-THz Power Amplification."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2610.37530v1",
-      "title": "Back-End-Of-Line Integration of 2-Terminal Ferroelectric Hafnia Synaptic Weights on Commercial CMOS Process",
-      "url": "https://arxiv.org/abs/2610.37530v1",
-      "published": "2026-10-28",
-      "authors": [
-        "Alexander Flasby",
-        "Anwesha Panda",
-        "Nathan Savoia",
-        "Laura Bégon-Lours"
-      ],
-      "summary": "Functionalising the back-end-of-line (BEOL) of CMOS with emerging materials is a key route to neural network accelerators and neuromorphic systems. In this work, we demonstrate for the first time the integration of 2-terminal ferroelectric synaptic weights in the BEOL of as-delivered commercial 180 nm CMOS dies. A novel material stack is proposed, in which a WOx/[HfO2-ZrO2] bilayer is sandwiched between TiN and Mo electrodes. For devices annealed at 450 °C, programming below 1.8 V is achieved with a cycle-to-cycle variation below 3 %. Synaptic weights annealed at 500 °C exhibit more gradual weight updates, while the tested underlying NMOS transistors remain functional after the complete integration process. The trade-off between thermal budget and on-device training performance is illustrated using hardware-aware neural network simulations.",
-      "score": 12,
-      "priority": 2,
-      "highlights": [
-        "CMOS",
-        "ferroelectric"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS、铁电材料方向，围绕“Back-End-Of-Line Integration of 2-Terminal Ferroelectric Hafnia Synaptic Weight…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看性能提升、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS、铁电材料方向，围绕“Back-End-Of-Line Integration of 2-Terminal Ferroelectric Hafnia Synaptic Weight…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看性能提升、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: CMOS、铁电材料.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: Back-End-Of-Line Integration of 2-Terminal Ferroelectric Hafnia Synaptic Weights on Commercial ….",
-      "reading_notes": "Focus: CMOS、铁电材料.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: Back-End-Of-Line Integration of 2-Terminal Ferroelectric Hafnia Synaptic Weights on Commercial …."
-    },
-    {
-      "source": "IEEE Electron Device Letters",
-      "uid": "doi:10.1109/led.2026.3733421",
-      "title": "P-GaN Gate HEMTs With Trench-Schottky Hybrid Gate Contact for Enhanced V <sub>TH</sub> Stability",
-      "url": "https://doi.org/10.1109/led.2026.3733421",
-      "published": "2026-11-01",
-      "authors": [
-        "Sheng Li",
-        "Songwei Peng",
-        "Chuanqi Pan",
-        "Yanfeng Ma",
-        "Mingfei Li",
-        "Denggui Wang",
-        "Zhonghui Li",
-        "Siyang Liu",
-        "Weifeng Sun"
-      ],
-      "summary": "In this work, a trench-Schottky hybrid gate contact design is proposed to improve the stability of threshold voltage ( ${V}_{\\text {TH}}\\text {)}$ and to modulate the gate leakage of the high electron mobility transistor with p-type-GaN gate cap (p-GaN gate HEMT). This novel hybrid gate contact design includes a partial Ohmic gate contact region, enabling hole injection from the Ohmic gate to compensate for trapped negative charges, thereby improving the ${V}_{\\text {TH}}$ stability. Meanwhile, the trench-Schottky structure forms two back-to-back symmetric “L”-shaped depletion regions embedded within the p-GaN layer that effectively narrows the leakage path, thereby suppressing gate leakage introduced by the Ohmic gate contact. Experimental results show that the fabricated device maintains static electrical characteristics comparable to a conventional p-GaN gate HEMT. However, the ${V}_{\\text {TH}}$ shift under dynamic gate bias stress is reduced by 87.5% (from 0.4 V to 0.05 V); while the reduction under drain bias stress reaches 58.3% (from 0.72 V to 0.30 V).",
-      "score": 11,
-      "priority": 2,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“P-GaN Gate HEMTs With Trench-Schottky Hybrid Gate Contact for Enhanced V <sub>T…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“P-GaN Gate HEMTs With Trench-Schottky Hybrid Gate Contact for Enhanced V <sub>T…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: P-GaN Gate HEMTs With Trench-Schottky Hybrid Gate Contact for Enhanced V <sub>TH</sub> Stability.",
-      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: P-GaN Gate HEMTs With Trench-Schottky Hybrid Gate Contact for Enhanced V <sub>TH</sub> Stability."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Laser-transferrable GaN HEMTs based on high-quality AlN/GaN/AlN sacrificing tem…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Laser-transferrable GaN HEMTs based on high-quality AlN/GaN/AlN sacrificing tem…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升.\nContext: Laser-transferrable GaN HEMTs based on high-quality AlN/GaN/AlN sacrificing templates.",
+      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升.\nContext: Laser-transferrable GaN HEMTs based on high-quality AlN/GaN/AlN sacrificing templates."
     }
   ],
   "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-11-03T00:30:00+00:00"
+  "generated_at": "2026-11-07T00:30:00+00:00"
 }
