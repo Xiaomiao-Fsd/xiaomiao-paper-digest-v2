@@ -1,243 +1,188 @@
 {
   "ok": true,
-  "new_count": 21,
+  "new_count": 0,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-11-07）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 1 篇\n1. [IEEE Transactions on Electron Devices] Switching Losses and Their Mitigation in Lateral <i>β</i> -Ga <sub>2</sub> O <sub>3</sub> P…\n   关键词：MOSFET, dielectric\n   日期：2026-11-01\n   Authors: Wenpeng Zhou, Zuokai Wen, Zhiqiang Li 等\n   https://doi.org/10.1109/ted.2026.3739260\n2. [IEEE Transactions on Electron Devices] Impact of Interface and Dielectric Defects on HKMG MOSFETs Down to Cryogenic Temperatures\n   关键词：MOSFET, dielectric\n   日期：2026-11-01\n   Authors: R. Asanovski, J. Franco, E. Catapano 等\n   https://doi.org/10.1109/ted.2026.3732277\n3. [IEEE Transactions on Electron Devices] Wafer-Scale Demonstration of High-Voltage <i>β</i> -Ga <sub>2</sub> O <sub>3</sub> MOSFETs …\n   关键词：MOSFET, wafer\n   日期：2026-11-01\n   Authors: Ningtao Liu, Hengrui Zhang, Shujun Zhu 等\n   https://doi.org/10.1109/ted.2026.3733929\n4. [IEEE Transactions on Electron Devices] High-Field Regime Degradation Model of SiC MOSFETs Under Total-Ionizing-Dose Irradiation\n   关键词：MOSFET, SiC\n   日期：2026-11-01\n   Authors: Zhengjia Chen, Hongyi Xu, Na Ren 等\n   https://doi.org/10.1109/ted.2026.3735622\n5. [IEEE Transactions on Electron Devices] Monolithic GaN-on-Sapphire Optofluidic Devices for Droplet Logic Operations\n   关键词：GaN\n   日期：2026-11-01\n   Authors: Yumeng Luo, Yilin He, Kai Ma 等\n   https://doi.org/10.1109/ted.2026.3731264\n6. [IEEE Transactions on Electron Devices] Boosting the On/Off Current Ratio of MOS Transistor Over a Wide High-Temperature Range Usin…\n   关键词：transistor, MOSFET\n   日期：2026-11-01\n   Authors: Egon Henrique Salerno Galembeck, Denis Flandre, Cor Claeys 等\n   https://doi.org/10.1109/ted.2026.3731597\n7. [IEEE Transactions on Electron Devices] Demonstration of Ga <sub>2</sub> O <sub>3</sub> Lateral MOSFET With Integrated Freewheeling…\n   关键词：MOSFET\n   日期：2026-11-01\n   Authors: Maolin Zhang, Yang Cai, Yingxu Wang 等\n   https://doi.org/10.1109/ted.2026.3679310\n8. [IEEE Transactions on Electron Devices] Dual-Mode Conduction in Silicon Transistors on Bulk Substrates: Feedback and Thyristor Mech…\n   关键词：transistor\n   日期：2026-11-01\n   Authors: Yaeyeon Ko, Doohyeok Lim\n   https://doi.org/10.1109/ted.2026.3732639",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-11-09）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 3 篇\n1. [Physical Review B] Origin of the conflicting hole masses in the GaN/AlN two-dimensional hole gas\n   关键词：GaN\n   日期：2026-11-06\n   Authors: Tanvir M. Mahim, Abu S. M. Mohsin, M. Mosaddequr Rahman\n   https://doi.org/10.1103/zn44-nmx8\n2. [Nature Electronics] A serendipitous CMOS quantum sensor\n   关键词：CMOS\n   日期：2026-11-04\n   https://www.nature.com/articles/s41928-026-01735-9\n3. [arXiv] Hall-Density Collapse as Direct Evidence for Percolative Conduction Onset in Monolayer MoS$…\n   关键词：transistor\n   日期：2026-11-05\n   Authors: R. V. Upadya, M. Introna, X. Wu 等\n   https://arxiv.org/abs/2611.06815v1\n4. [arXiv] Universal model of the growth of III-V tetrahedral semiconductors on polar surfaces: pyrami…\n   关键词：semiconductor, GaN\n   日期：2026-11-02\n   Authors: Pawel Strak, Stanisław Krukowski\n   https://arxiv.org/abs/2611.02735v1\n5. [arXiv] Universal model of the growth of III-V tetrahedral semiconductors on polar surfaces: pyrami…\n   关键词：semiconductor, GaN\n   日期：2026-11-02\n   Authors: Pawel Strak, Stanisław Krukowski\n   https://arxiv.org/abs/2611.02723v1\n6. [arXiv] Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-Bonded $β$-Ga…\n   关键词：wafer, SiC\n   日期：2026-11-04\n   Authors: J. Liu, R. Mao, Z. Liu 等\n   https://arxiv.org/abs/2611.05810v1\n7. [Nature Electronics] A nonlinear superinductor in a deep-submicrometre integrated circuit\n   日期：2026-11-04\n   https://www.nature.com/articles/s41928-026-01728-8\n8. [arXiv] A Design Rule for Passive Reconfigurable Microwave Devices\n   日期：2026-11-04\n   Authors: Ali Nadarloo, Mohammad Javad Hajiahmadi, Mohammad Soleimani\n   https://arxiv.org/abs/2611.06279v1",
   "papers": [
     {
-      "source": "IEEE Electron Device Letters",
-      "uid": "doi:10.1109/led.2026.3733400",
-      "title": "Lomb--Scargle Spectroscopy of Non-Polar Interface Traps Governing Anomalous PBTI in GaN FinFETs",
-      "url": "https://doi.org/10.1109/led.2026.3733400",
-      "published": "2026-11-01",
+      "source": "Physical Review B",
+      "uid": "doi:10.1103/zn44-nmx8",
+      "title": "Origin of the conflicting hole masses in the GaN/AlN two-dimensional hole gas",
+      "url": "https://doi.org/10.1103/zn44-nmx8",
+      "published": "2026-11-06",
       "authors": [
-        "Peng Wu",
-        "Wen Yang",
-        "Jianlang Liao",
-        "Chuan Song",
-        "Jingyun Guan",
-        "Huaxing Jiang",
-        "Bin Li"
+        "Tanvir M. Mahim",
+        "Abu S. M. Mohsin",
+        "M. Mosaddequr Rahman"
       ],
-      "summary": "In this letter, a spectroscopic framework based on the Lomb-Scargle periodogram is proposed to resolve multi-interface trapping dynamics in GaN FinFETs under positive bias temperature instability (PBTI) stress. Unlike conventional Fourier analysis and discrete multi-exponential fitting, this approach exploits an orthogonal sinusoidal basis for non-uniformly sampled V TH transients, providing a relaxation-frequency representation from which the relaxation-time distribution can be inferred through frequency-to-timescale mapping and physical validation without predefined trapping components. Combined with a facet-de-embedding strategy, the framework isolates the non-polar sidewall-related contribution, whose subsequent Arrhenius analysis reveals a broadened trap-energy distribution centered at 0.54 eV, corroborated by independent DLTS measurements. Furthermore, the extracted power spectrum serves as a weighting function in a dual-channel convolution model, quantitatively reproducing the anomalous temperature-dependent $\\Delta $ V TH crossover via the redistribution of trapping contributions across different characteristic time constants. This frequency-domain framework provides a complementary tool for trap-dynamics analysis in multi-gate GaN devices.",
-      "score": 13,
-      "priority": 3,
+      "summary": "",
+      "score": 7,
+      "priority": 2,
       "highlights": [
-        "FinFET",
         "GaN"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注FinFET、GaN方向，围绕“Lomb--Scargle Spectroscopy of Non-Polar Interface Traps Governing Anomalous PBT…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注FinFET、GaN方向，围绕“Lomb--Scargle Spectroscopy of Non-Polar Interface Traps Governing Anomalous PBT…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: FinFET、GaN.\nWhat to check: 可靠性与稳定性、功耗或能效表现.\nContext: Lomb--Scargle Spectroscopy of Non-Polar Interface Traps Governing Anomalous PBTI in GaN FinFETs.",
-      "reading_notes": "Focus: FinFET、GaN.\nWhat to check: 可靠性与稳定性、功耗或能效表现.\nContext: Lomb--Scargle Spectroscopy of Non-Polar Interface Traps Governing Anomalous PBTI in GaN FinFETs."
+      "abstract_cn": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
+      "abstract_zh": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
+      "overview_cn": "Focus: GaN.\nNote: no abstract available; infer from title only.",
+      "reading_notes": "Focus: GaN.\nNote: no abstract available; infer from title only."
     },
     {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0356398",
-      "title": "Preserved p-type performance of MoTe2 transistors via TeO2 dielectric buffer",
-      "url": "https://doi.org/10.1063/5.0356398",
+      "source": "Nature Electronics",
+      "uid": "Nature Electronics:10.1038/s41928-026-01735-9",
+      "title": "A serendipitous CMOS quantum sensor",
+      "url": "https://www.nature.com/articles/s41928-026-01735-9",
+      "published": "2026-11-04",
+      "authors": [],
+      "summary": "Nature Electronics, Published online: 04 November 2026; doi:10.1038/s41928-026-01735-9 Titanium nitride films native to a commercial complementary metal–oxide–semiconductor (CMOS) process can become high-impedance superconductors at millikelvin temperatures, providing compact, sensitive readout of semiconductor spin qubits from within a chip’s existing gate metallization.",
+      "score": 11,
+      "priority": 1,
+      "highlights": [
+        "CMOS"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS方向，围绕“A serendipitous CMOS quantum sensor”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS方向，围绕“A serendipitous CMOS quantum sensor”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: A serendipitous CMOS quantum sensor.",
+      "reading_notes": "Focus: CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: A serendipitous CMOS quantum sensor."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2611.06815v1",
+      "title": "Hall-Density Collapse as Direct Evidence for Percolative Conduction Onset in Monolayer MoS$_2$ Transistors",
+      "url": "https://arxiv.org/abs/2611.06815v1",
+      "published": "2026-11-05",
+      "authors": [
+        "R. V. Upadya",
+        "M. Introna",
+        "X. Wu",
+        "C. J. L. de la Rosa",
+        "K. Banerjee",
+        "D. Lin",
+        "K. De Greve"
+      ],
+      "summary": "The origin of the apparent metal-insulator transition in two-dimensional electron systems remains debated. Using temperature-dependent transport and Hall measurements on industry-relevant MoS$_2$ monolayer FETs with amorphous HfO$_2$ dielectrics, we establish classical percolation as the underlying mechanism. We report two complementary signatures of disorder-driven conduction onset: a temperature-independent Hall-density collapse as a function of absolute gate voltage and a vanishing activation energy at a characteristic carrier density $n_{\\mathrm{c}}$, identified as the percolation threshold. These findings identify dielectric-interface disorder, rather than channel quality alone, as the key parameter governing device turn-on. The extracted activation barriers reach values substantially exceeding room-temperature thermal energies, indicating that disorder-driven conduction onset remains relevant well beyond cryogenic transport.",
+      "score": 9,
+      "priority": 1,
+      "highlights": [
+        "transistor"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Hall-Density Collapse as Direct Evidence for Percolative Conduction Onset in Mo…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Hall-Density Collapse as Direct Evidence for Percolative Conduction Onset in Mo…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 功耗或能效表现.\nContext: Hall-Density Collapse as Direct Evidence for Percolative Conduction Onset in Monolayer MoS$_2$ ….",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 功耗或能效表现.\nContext: Hall-Density Collapse as Direct Evidence for Percolative Conduction Onset in Monolayer MoS$_2$ …."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2611.02735v1",
+      "title": "Universal model of the growth of III-V tetrahedral semiconductors on polar surfaces: pyramids and glue atoms. VII. Step kinetics",
+      "url": "https://arxiv.org/abs/2611.02735v1",
       "published": "2026-11-02",
       "authors": [
-        "Fuyuan Zhang",
-        "Yuhan Zhu",
-        "Yujia Yan",
-        "Yuchen Cai",
-        "Xueying Zhan",
-        "Kai Xu",
-        "Zhenxing Wang",
-        "Jun He",
-        "Feng Wang"
+        "Pawel Strak",
+        "Stanisław Krukowski"
       ],
-      "summary": "Two-dimensional (2D) semiconductors show great promise for the post-Moore era, but the high-quality dielectric deposition remains a critical challenge. This is especially true for p-type 2D field-effect transistors (FETs), where precursor-induced n-type doping on the 2D channel severely changes their pristine properties. Here, we propose a TeO2 buffer layer strategy to alleviate this doping issue. The dielectric buffer protects the 2D channel (MoTe2) from interaction with precursors during dielectric deposition, and provides nucleation sites to facilitate uniform and dense dielectric growth. The TeO2/HfO2 hybrid dielectric layers show good uniformity and a high dielectric constant of 18.6. With the TeO2 buffer, the devices achieve a p-type on/off ratio of ∼106 and a small threshold voltage shift. In addition, this strategy is applicable to various contact metals and enables the fabrication of top-gate p-type FETs. This approach offers a viable pathway for integrating p-type 2D FETs and advances the realization of 2D material-based CMOS technology.",
-      "score": 18,
-      "priority": 2,
+      "summary": "Ab initio calculations were used to simulate the kinetics of attachment of new segments of the crystalline lattice (pyramids) at steps on the nonmetal-terminated surface of tetrahedral semiconductors: GaN, GaP, GaAs and GaSb. These surfaces are wurtzite gallium nitride, i.e. GaN(000-1) surface, zinc blende gallium phosphide, i.e. GaP(-1-1-1) gallium arsenide, GaAs(-1-1-1) and gallium antimonide GaSb(-1-1-1) surfaces. Diffusion species are gallium adatoms at high coverage or gallium adatoms connected with nonmetal atom creating stable pyramids. These pyramids arrive at the steps, and cannot be attached be directly because the Ga adatom at the pyramid base cannot be attached directly. Therefore they are incorporated into the step by additional nonmetal atoms glue atoms arriving from the vapor or detached from other segments of the surface terraces.",
+      "score": 7,
+      "priority": 1,
       "highlights": [
-        "transistor",
-        "dielectric"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、介电材料方向，围绕“Preserved p-type performance of MoTe2 transistors via TeO2 dielectric buffer”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、介电材料方向，围绕“Preserved p-type performance of MoTe2 transistors via TeO2 dielectric buffer”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管、介电材料.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: Preserved p-type performance of MoTe2 transistors via TeO2 dielectric buffer.",
-      "reading_notes": "Focus: 晶体管、介电材料.\nWhat to check: 性能提升、与既有工艺平台的集成价值.\nContext: Preserved p-type performance of MoTe2 transistors via TeO2 dielectric buffer."
-    },
-    {
-      "source": "IEEE Transactions on Electron Devices",
-      "uid": "doi:10.1109/ted.2026.3739260",
-      "title": "Switching Losses and Their Mitigation in Lateral <i>β</i> -Ga <sub>2</sub> O <sub>3</sub> Power MOSFETs With High-Permittivity Dielectric for Field Management",
-      "url": "https://doi.org/10.1109/ted.2026.3739260",
-      "published": "2026-11-01",
-      "authors": [
-        "Wenpeng Zhou",
-        "Zuokai Wen",
-        "Zhiqiang Li",
-        "Biao Zhao",
-        "Man Hoi Wong"
-      ],
-      "summary": "Ultrawide-bandgap beta-phase gallium oxide ( $\\beta $ -Ga 2 O ${}_{{3}}\\text {)}$ is promising for high-voltage, low-loss power devices. Field management in $\\beta $ -Ga 2 O 3 transistors using a high-permittivity (high- ${k}\\text {)}$ dielectric can improve the devices’ power figure of merit (PFOM), but the increased drain-to-gate feedback capacitance degrades switching performance. This article reports on a simulation study of the switching losses and their mitigation in a 3.3-kV normally- off lateral $\\beta $ -Ga 2 O 3 MOSFET with high- $k$ field management. A source-connected field plate (sFP) is proposed to mitigate the switching losses while maintaining the device’s blocking capability. Under the switching condition of 3.3 kV/20 A, the fall time and rise time are reduced by approximately 61% and 85%, respectively. The associated turn-off and turn-on losses decrease by approximately 63% and 51%, respectively. Meanwhile, the sFP can shield the gate from a high drain bias and improve gate stability. The effect of the sFP in mitigating switching losses is more effective at higher load currents, indicating that the proposed strategy is suitable for high-load switching scenarios. These findings provide guiding principles for the design of lateral $\\beta $ -Ga 2 O 3 MOSFETs to meet switching requirements in power electronics.",
-      "score": 18,
-      "priority": 2,
-      "highlights": [
-        "MOSFET",
-        "dielectric"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、介电材料方向，围绕“Switching Losses and Their Mitigation in Lateral <i>β</i> -Ga <sub>2</sub> O <s…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、介电材料方向，围绕“Switching Losses and Their Mitigation in Lateral <i>β</i> -Ga <sub>2</sub> O <s…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: MOSFET、介电材料.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Switching Losses and Their Mitigation in Lateral <i>β</i> -Ga <sub>2</sub> O <sub>3</sub> Power….",
-      "reading_notes": "Focus: MOSFET、介电材料.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Switching Losses and Their Mitigation in Lateral <i>β</i> -Ga <sub>2</sub> O <sub>3</sub> Power…."
-    },
-    {
-      "source": "IEEE Transactions on Electron Devices",
-      "uid": "doi:10.1109/ted.2026.3732277",
-      "title": "Impact of Interface and Dielectric Defects on HKMG MOSFETs Down to Cryogenic Temperatures",
-      "url": "https://doi.org/10.1109/ted.2026.3732277",
-      "published": "2026-11-01",
-      "authors": [
-        "R. Asanovski",
-        "J. Franco",
-        "E. Catapano",
-        "A. Grill",
-        "K. de Greve"
-      ],
-      "summary": "This study investigates the impact of interface and dielectric defects on high- $\\boldsymbol {\\kappa }$ metal gate (HKMG) MOSFETs at cryogenic temperatures, focusing on key MOSFET metrics and their correlation with room temperature values. We use substrate injectors to induce a controlled generation of interface and dielectric defects on devices with a scaled CMOS gate dielectric stack with SiO 2 interlayer, HfO 2 , and gate metal. We evaluate how these defects affect subthreshold swing (SS), threshold voltage, gate leakage, transconductance, and 1/f noise down to cryogenic temperatures by comparing fresh devices and devices subjected to controlled substrate hot-carrier stress prior to cryogenic characterization. The findings are then validated on devices fabricated in commercial FDSOI MOSFETs, using test structures designed to induce varying plasma damage and dielectric defectivity, confirming the robustness of the observed trends across technologies.",
-      "score": 17,
-      "priority": 2,
-      "highlights": [
-        "MOSFET",
-        "dielectric"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、介电材料方向，围绕“Impact of Interface and Dielectric Defects on HKMG MOSFETs Down to Cryogenic Te…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看可靠性与稳定性、先进尺度下的可扩展性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、介电材料方向，围绕“Impact of Interface and Dielectric Defects on HKMG MOSFETs Down to Cryogenic Te…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看可靠性与稳定性、先进尺度下的可扩展性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: MOSFET、介电材料.\nWhat to check: 可靠性与稳定性、先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Impact of Interface and Dielectric Defects on HKMG MOSFETs Down to Cryogenic Temperatures.",
-      "reading_notes": "Focus: MOSFET、介电材料.\nWhat to check: 可靠性与稳定性、先进尺度下的可扩展性、与既有工艺平台的集成价值.\nContext: Impact of Interface and Dielectric Defects on HKMG MOSFETs Down to Cryogenic Temperatures."
-    },
-    {
-      "source": "IEEE Electron Device Letters",
-      "uid": "doi:10.1109/led.2026.3728667",
-      "title": "Synergistic Coupling Effects of Out-of-Plane and In-Plane Polarization in <i>α</i> -In <sub>2</sub> Se <sub>3</sub> Ferroelectric Semiconductor Field-Effect Transistor",
-      "url": "https://doi.org/10.1109/led.2026.3728667",
-      "published": "2026-11-01",
-      "authors": [
-        "Jiying Xiao",
-        "Xinrui Guo",
-        "Runze Liu",
-        "Guowei Ma",
-        "Wenkai Li",
-        "Rui He",
-        "Lang Zeng",
-        "Ming He",
-        "Pengying Chang"
-      ],
-      "summary": "The coupling effects of out-of-plane (OOP) and in-plane (IP) polarization in two-dimensional $\\alpha $ -In 2 Se 3 based ferroelectric semiconductor-field effect transistor (FeS-FET) are revealed based on TCAD simulation. It is found that single-directional OOP or IP polarization cannot effectively modulate the device state. In contrast, the coupled OOP and IP polarizations significantly regulate the electric field and carrier distribution within FeS channel, endowing a large memory window and a high on/off ratio, which can be attributed to the synergistic enhancement effect of coupled OOP/IP polarization. These results give new insights into operation mechanism and optimization design of FeS-FET as novel ferroelectric memory.",
-      "score": 16,
-      "priority": 2,
-      "highlights": [
-        "transistor",
         "semiconductor",
-        "ferroelectric"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、半导体、铁电材料方向，围绕“Synergistic Coupling Effects of Out-of-Plane and In-Plane Polarization in <i>α<…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看性能提升、效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、半导体、铁电材料方向，围绕“Synergistic Coupling Effects of Out-of-Plane and In-Plane Polarization in <i>α<…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看性能提升、效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管、半导体、铁电材料.\nWhat to check: 性能提升、效率/耦合表现.\nContext: Synergistic Coupling Effects of Out-of-Plane and In-Plane Polarization in <i>α</i> -In <sub>2</….",
-      "reading_notes": "Focus: 晶体管、半导体、铁电材料.\nWhat to check: 性能提升、效率/耦合表现.\nContext: Synergistic Coupling Effects of Out-of-Plane and In-Plane Polarization in <i>α</i> -In <sub>2</…."
-    },
-    {
-      "source": "IEEE Electron Device Letters",
-      "uid": "doi:10.1109/led.2026.3733557",
-      "title": "1.6-GW/cm <sup>2</sup> Baliga’s Figure-of-Merit Au-Free p-GaN Gate HEMTs on 6-in Si Enabled by Regrown Ohmic Contacts",
-      "url": "https://doi.org/10.1109/led.2026.3733557",
-      "published": "2026-11-01",
-      "authors": [
-        "Zhiqiang Xue",
-        "Bin Hou",
-        "Mao Jia",
-        "Qian Xiao",
-        "Bowen Yang",
-        "Ling Yang",
-        "Mei Wu",
-        "Meng Zhang",
-        "Hao Lu",
-        "Kaiwen Chen",
-        "Hong Wang",
-        "Xiaohua Ma",
-        "Yue Hao"
-      ],
-      "summary": "High-performance p-GaN/AlGaN/GaN high electron mobility transistors (HEMTs) on 6-inch Si were demonstrated using a CMOS-compatible, Au-free ohmic scheme. Selective MOCVD regrowth of heavily Si-doped n + -InGaN yielded an excellent low wafer-level average contact resistance (R ${}_{\\text {c}}\\text {)}$ of $0.14~\\Omega \\cdot $ mm. The integration of regrown ohmic contacts with a dual field-plate architecture, comprising lateral and vertical components, effectively redistributed the electric field and enhanced breakdown performance. For devices with a $15~\\mu $ m gate–drain spacing, a threshold voltage of 1 V, a saturation drain current of 465 mA/mm, and an on-resistance (R ${}_{\\text {on}}\\text {)}$ of $7.2~\\Omega \\cdot $ mm were achieved, along with an off-state breakdown voltage of 1620 V. These metrics correspond to a Baliga’s figure of merit of 1.6 GW/cm 2 , indicating competitive performance among GaN-on-Si p-GaN HEMTs. Across the 6-inch wafer, both contact resistance and channel sheet resistance exhibited tight distributions, underscoring the manufacturability and process uniformity of the Au-free approach within Si CMOS production lines. This scalable, contamination-free process provides a practical pathway toward high-volume production of GaN power devices with robust electrical performance and CMOS fab compatibility.",
-      "score": 16,
-      "priority": 2,
-      "highlights": [
         "GaN"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“1.6-GW/cm <sup>2</sup> Baliga’s Figure-of-Merit Au-Free p-GaN Gate HEMTs on 6-i…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“1.6-GW/cm <sup>2</sup> Baliga’s Figure-of-Merit Au-Free p-GaN Gate HEMTs on 6-i…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性、接触/互连相关指标.\nContext: 1.6-GW/cm <sup>2</sup> Baliga’s Figure-of-Merit Au-Free p-GaN Gate HEMTs on 6-in Si Enabled by ….",
-      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性、接触/互连相关指标.\nContext: 1.6-GW/cm <sup>2</sup> Baliga’s Figure-of-Merit Au-Free p-GaN Gate HEMTs on 6-in Si Enabled by …."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体、GaN方向，围绕“Universal model of the growth of III-V tetrahedral semiconductors on polar surf…”展开。摘要显示，文章重点涉及机理分析或模型解释，建议阅读时优先查看可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体、GaN方向，围绕“Universal model of the growth of III-V tetrahedral semiconductors on polar surf…”展开。摘要显示，文章重点涉及机理分析或模型解释，建议阅读时优先查看可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 半导体、GaN.\nWhat to check: 可靠性与稳定性.\nContext: Universal model of the growth of III-V tetrahedral semiconductors on polar surfaces: pyramids a….",
+      "reading_notes": "Focus: 半导体、GaN.\nWhat to check: 可靠性与稳定性.\nContext: Universal model of the growth of III-V tetrahedral semiconductors on polar surfaces: pyramids a…."
     },
     {
-      "source": "IEEE Transactions on Electron Devices",
-      "uid": "doi:10.1109/ted.2026.3733929",
-      "title": "Wafer-Scale Demonstration of High-Voltage <i>β</i> -Ga <sub>2</sub> O <sub>3</sub> MOSFETs With Excellent Uniformity and &gt;3 kV Breakdown Capability",
-      "url": "https://doi.org/10.1109/ted.2026.3733929",
-      "published": "2026-11-01",
-      "authors": [
-        "Ningtao Liu",
-        "Hengrui Zhang",
-        "Shujun Zhu",
-        "Zhihao Yan",
-        "Dongyang Han",
-        "Shen Hu",
-        "Li Ji",
-        "Ning Xia",
-        "Jichun Ye",
-        "Wenrui Zhang"
-      ],
-      "summary": "This study demonstrates a wafer-scale growth of a 2-in, Si-doped $\\beta $ -Ga 2 O 3 (100) epitaxial wafer and the realization of uniform, high-voltage lateral $\\beta $ -Ga 2 O 3 MOSFET arrays. The 2-in homoepitaxial $\\beta $ -Ga 2 O 3 (100) film grown by metal-organic chemical vapor deposition (MOCVD) exhibits excellent crystalline uniformity with an average rocking curve full width at half maximum (FWHM) of ~27.0 arcsec and a low surface roughness of less than 1 nm, alongside a uniform net doping concentration of $4.60\\times 10^{{17}}$ cm -3 . The representative MOSFET delivers a threshold voltage of −31.75 V, a drain-current on / off ratio $\\gt10^{{9}}$ , a specific on -resistance of 126.52 m $\\Omega \\cdot $ cm 2 and a breakdown voltage exceeding 3 kV. Statistical analysis across the entire wafer confirms good device uniformity, with threshold voltages ranging from −28 to −36 V, output current densities of $60\\sim 75$ mA/mm, and a breakdown voltage over 3 kV. These results provide the demonstration using the 2-in $\\beta $ -Ga 2 O 3 epitaxial wafer to realize high-voltage $\\beta $ -Ga 2 O 3 MOSFETs with wafer-scale performance uniformity for industrial-level device application.",
-      "score": 15,
-      "priority": 2,
-      "highlights": [
-        "MOSFET",
-        "wafer"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、wafer方向，围绕“Wafer-Scale Demonstration of High-Voltage <i>β</i> -Ga <sub>2</sub> O <sub>3</s…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、wafer方向，围绕“Wafer-Scale Demonstration of High-Voltage <i>β</i> -Ga <sub>2</sub> O <sub>3</s…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: MOSFET、wafer.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Wafer-Scale Demonstration of High-Voltage <i>β</i> -Ga <sub>2</sub> O <sub>3</sub> MOSFETs With….",
-      "reading_notes": "Focus: MOSFET、wafer.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: Wafer-Scale Demonstration of High-Voltage <i>β</i> -Ga <sub>2</sub> O <sub>3</sub> MOSFETs With…."
-    },
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0348862",
-      "title": "Laser-transferrable GaN HEMTs based on high-quality AlN/GaN/AlN sacrificing templates",
-      "url": "https://doi.org/10.1063/5.0348862",
+      "source": "arXiv",
+      "uid": "arxiv:2611.02723v1",
+      "title": "Universal model of the growth of III-V tetrahedral semiconductors on polar surfaces: pyramids and glue atoms. VI. Surface diffusion on a nonmetal-terminated surface",
+      "url": "https://arxiv.org/abs/2611.02723v1",
       "published": "2026-11-02",
       "authors": [
-        "Jiayao Li",
-        "Haochen Zhang",
-        "Li Chen",
-        "Zihui Zhao",
-        "Bowei Yu",
-        "Guangyuan Yu",
-        "Yong Yan",
-        "Zhibai Zhong",
-        "Jinjian Zheng",
-        "Feilin Xun",
-        "Jichun Ye",
-        "Wei Guo",
-        "Haiding Sun"
+        "Pawel Strak",
+        "Stanisław Krukowski"
       ],
-      "summary": "Laser lift-off (LLO) technology is an effective approach to fabricate transferrable GaN high-electron-mobility transistors (HEMTs) and address self-heating effects during device operation. However, conventional approaches struggle with precise control of LLO positions and structural integrity of devices, especially for those with AlN-based back barriers (BBs). Herein, we develop a laser-transferrable GaN HEMT with a μm-scale AlN BB, which is grown on a novel template including a GaN sacrificing layer (SL) and a metalorganic chemical vapor deposition-grown AlN nucleation layer (MO-AlN NL). The MO-AlN serves as the dislocation filtering layer to suppress dislocation propagation in the GaN SL, thereby creating an optimized nucleation template for the AlN BB. As such, the AlN-on-GaN epitaxy proceeds in a coherent 2D growth mode with largely reduced threading dislocations and preserved compressive strain. The devices fabricated on this AlN-BB/GaN-SL/AlN-NL tri-layer template can be integrally detached by a 266-nm UV laser, which only breaks the GaN SL and leaves an intact device active region. This work simultaneously resolves the critical challenges in μm-scale AlN-on-GaN epitaxy and laser transfer of GaN HEMTs with AlN-based BBs, offering a viable approach to laser-transferrable GaN power/RF devices with customized device structures toward improved device characteristics and thermal management.",
-      "score": 14,
-      "priority": 2,
+      "summary": "Ab initio calculations were used to simulate surface diffusion of adsorbates on the nonmetal-terminated surface of tetrahedral semiconductors: GaN, GaP, GaAs and GaSb. These surfaces are wurtzite gallium nitride, i.e. GaN(000-1) surface, zinc blende gallium phosphide, i.e. GaP(-1-1-1) gallium arsenide, GaAs (-1-1-1) and gallium antimonide GaSb (-1-1-1) surfaces. The mixed coverage consists of Ga adatoms in the first layer with a nonmetal atom attached above them forming a triangular-based pyramid. The pyramidal structures are stable during surface jumps involving rotations around one of the basal Ga adatoms. Thus, the diffusion proceeds via rotation (pivot) of the pair of the other basal Ga adatoms around an immobile Ga adatom moving them into new, originally empty sites. Using an energy-path determination procedure, the diffusion barriers were obtained as the difference between the initial site energy and the activated complex state energy. The detachment energy of the NM adatom was obtained assuming a final state in atomic and molecular form. The energy barrier for detachment to the atomic state is high for all atoms, on the order of 5 eV. For the molecular state these barriers are different: smaller for nitrogen, on the order of 1 eV, which is related to the high dissociation energy of the N2 molecule. For P and As the barrier is above 2 eV. For Sb it was not determined. Accordingly, the surface diffusion length is macroscopically large, indicating that all NM adatoms arrive at the steps.",
+      "score": 7,
+      "priority": 1,
       "highlights": [
+        "semiconductor",
         "GaN"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Laser-transferrable GaN HEMTs based on high-quality AlN/GaN/AlN sacrificing tem…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Laser-transferrable GaN HEMTs based on high-quality AlN/GaN/AlN sacrificing tem…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升.\nContext: Laser-transferrable GaN HEMTs based on high-quality AlN/GaN/AlN sacrificing templates.",
-      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升.\nContext: Laser-transferrable GaN HEMTs based on high-quality AlN/GaN/AlN sacrificing templates."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体、GaN方向，围绕“Universal model of the growth of III-V tetrahedral semiconductors on polar surf…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体、GaN方向，围绕“Universal model of the growth of III-V tetrahedral semiconductors on polar surf…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 半导体、GaN.\nWhat to check: 可靠性与稳定性、功耗或能效表现.\nContext: Universal model of the growth of III-V tetrahedral semiconductors on polar surfaces: pyramids a….",
+      "reading_notes": "Focus: 半导体、GaN.\nWhat to check: 可靠性与稳定性、功耗或能效表现.\nContext: Universal model of the growth of III-V tetrahedral semiconductors on polar surfaces: pyramids a…."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2611.05810v1",
+      "title": "Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-Bonded $β$-Ga$_{2}$O$_{3}$/SiC Heterostructures",
+      "url": "https://arxiv.org/abs/2611.05810v1",
+      "published": "2026-11-04",
+      "authors": [
+        "J. Liu",
+        "R. Mao",
+        "Z. Liu",
+        "Y. Yin",
+        "S. Li",
+        "F. Sun",
+        "B. Liu",
+        "Z. Wang",
+        "P. Gao"
+      ],
+      "summary": "Bonding semiconductors to substrates with high thermal conductivity is a promising way to solve the heat-dissipation problem of materials that transport heat poorly, and it avoids the lattice-matching constraints of conventional epitaxy. However, the lattice mismatch remains, leaving the two materials with mismatched phonon states, while poor interface quality scatters phonons even more. Together, these effects block phonon transport across the bonded interface and make interfacial thermal resistance a critical bottleneck, calling for careful interface engineering. Here, $β$-Ga$_{2}$O$_{3}$/SiC serves as a model system for a phonon-bridging strategy. A nanoscale crystalline Si interlayer is designed and fabricated by wafer bonding to bridge the mismatched phonon states of $β$-Ga$_{2}$O$_{3}$ and SiC. Spatially resolved electron energy-loss spectroscopy and molecular dynamics simulations show that this Si layer opens new channels for phonon transport across the interface. The engineered interface raises the interfacial thermal conductance to 165 MW m$^{-2}$ K$^{-1}$ -- the highest value yet reported for $β$-Ga$_{2}$O$_{3}$/SiC interfaces. These results offer an effective way to manage heat in $β$-Ga$_{2}$O$_{3}$ devices and point to a general approach for building phonon-bridging interfaces that improve heat dissipation in heterogeneous systems.",
+      "score": 10,
+      "priority": 0,
+      "highlights": [
+        "wafer",
+        "SiC"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注wafer、SiC方向，围绕“Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-B…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看性能提升、功耗或能效表现、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注wafer、SiC方向，围绕“Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-B…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看性能提升、功耗或能效表现、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: wafer、SiC.\nWhat to check: 性能提升、功耗或能效表现、接触/互连相关指标.\nContext: Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-Bonded $β$-Ga$_{2….",
+      "reading_notes": "Focus: wafer、SiC.\nWhat to check: 性能提升、功耗或能效表现、接触/互连相关指标.\nContext: Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-Bonded $β$-Ga$_{2…."
+    },
+    {
+      "source": "Nature Electronics",
+      "uid": "Nature Electronics:10.1038/s41928-026-01728-8",
+      "title": "A nonlinear superinductor in a deep-submicrometre integrated circuit",
+      "url": "https://www.nature.com/articles/s41928-026-01728-8",
+      "published": "2026-11-04",
+      "authors": [],
+      "summary": "Nature Electronics, Published online: 04 November 2026; doi:10.1038/s41928-026-01728-8 A superinductor can be created in a silicon integrated circuit fabricated in a commercial complementary metal–oxide–semiconductor process and used to build a radio-frequency single-electron transistor with a compact footprint and high sensitivity.",
+      "score": 9,
+      "priority": 0,
+      "highlights": [],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“A nonlinear superinductor in a deep-submicrometre integrated circuit”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“A nonlinear superinductor in a deep-submicrometre integrated circuit”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 与既有工艺平台的集成价值.\nContext: A nonlinear superinductor in a deep-submicrometre integrated circuit.",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 与既有工艺平台的集成价值.\nContext: A nonlinear superinductor in a deep-submicrometre integrated circuit."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2611.06279v1",
+      "title": "A Design Rule for Passive Reconfigurable Microwave Devices",
+      "url": "https://arxiv.org/abs/2611.06279v1",
+      "published": "2026-11-04",
+      "authors": [
+        "Ali Nadarloo",
+        "Mohammad Javad Hajiahmadi",
+        "Mohammad Soleimani"
+      ],
+      "summary": "Every reconfigurable microwave device places a tuning element - a varactor, a diode, transistor, microelectromechanical or phase-change switch, a ferroelectric or liquid-crystal load - inside a fixed passive network. The network can make a small change of the element produce a large change of the response, and design practice often credits it with the device's tuning capability. This paper shows that a fixed, linear, passive network cannot add to that capability. Each tuning element carries a tuning budget, a dimensionless length computed from its own impedance trajectory, and a fixed passive network can transmit that budget or lose part of it, never enlarge it. The unit of the budget is the hyperbolic distance of the Smith chart: the distance from a match is the logarithm of the voltage standing-wave ratio, and the distance between two states sets their mutual mismatch and is the logarithm of their commutation quality factor. From one inequality we derive closed-form, ready-to-use limits for analog and digital phase shifters, true-time-delay lines, switches, attenuators, vector modulators, impedance tuners, tunable filters, reconfigurable antennas, metasurface cells and multiport networks; the two-state and attenuation limits are attained by explicit circuits, and the phase limit by a constant-loss trajectory. We introduce the $Λ$-chart, a Smith-chart companion on which budgets and requirements are read graphically, and apply it to four published microwave case studies.",
+      "score": 5,
+      "priority": 0,
+      "highlights": [],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“A Design Rule for Passive Reconfigurable Microwave Devices”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“A Design Rule for Passive Reconfigurable Microwave Devices”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: A Design Rule for Passive Reconfigurable Microwave Devices.",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: A Design Rule for Passive Reconfigurable Microwave Devices."
     }
   ],
   "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-11-07T00:30:00+00:00"
+  "generated_at": "2026-11-09T00:30:00+00:00"
 }
