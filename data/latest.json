@@ -1,31 +1,9 @@
 {
   "ok": true,
-  "new_count": 0,
+  "new_count": 3,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-11-09）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 3 篇\n1. [Physical Review B] Origin of the conflicting hole masses in the GaN/AlN two-dimensional hole gas\n   关键词：GaN\n   日期：2026-11-06\n   Authors: Tanvir M. Mahim, Abu S. M. Mohsin, M. Mosaddequr Rahman\n   https://doi.org/10.1103/zn44-nmx8\n2. [Nature Electronics] A serendipitous CMOS quantum sensor\n   关键词：CMOS\n   日期：2026-11-04\n   https://www.nature.com/articles/s41928-026-01735-9\n3. [arXiv] Hall-Density Collapse as Direct Evidence for Percolative Conduction Onset in Monolayer MoS$…\n   关键词：transistor\n   日期：2026-11-05\n   Authors: R. V. Upadya, M. Introna, X. Wu 等\n   https://arxiv.org/abs/2611.06815v1\n4. [arXiv] Universal model of the growth of III-V tetrahedral semiconductors on polar surfaces: pyrami…\n   关键词：semiconductor, GaN\n   日期：2026-11-02\n   Authors: Pawel Strak, Stanisław Krukowski\n   https://arxiv.org/abs/2611.02735v1\n5. [arXiv] Universal model of the growth of III-V tetrahedral semiconductors on polar surfaces: pyrami…\n   关键词：semiconductor, GaN\n   日期：2026-11-02\n   Authors: Pawel Strak, Stanisław Krukowski\n   https://arxiv.org/abs/2611.02723v1\n6. [arXiv] Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-Bonded $β$-Ga…\n   关键词：wafer, SiC\n   日期：2026-11-04\n   Authors: J. Liu, R. Mao, Z. Liu 等\n   https://arxiv.org/abs/2611.05810v1\n7. [Nature Electronics] A nonlinear superinductor in a deep-submicrometre integrated circuit\n   日期：2026-11-04\n   https://www.nature.com/articles/s41928-026-01728-8\n8. [arXiv] A Design Rule for Passive Reconfigurable Microwave Devices\n   日期：2026-11-04\n   Authors: Ali Nadarloo, Mohammad Javad Hajiahmadi, Mohammad Soleimani\n   https://arxiv.org/abs/2611.06279v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-11-10）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 3 篇；Intel/TSMC 重点 0 篇；GaN 关键词 0 篇\n1. [Applied Physics Letters] An opto-electrically decoupled phototransistor for solar-blind ultraviolet detection\n   日期：2026-11-09\n   Authors: Xiaolu Xia, Zehao Zhao, Ying Yan 等\n   https://doi.org/10.1063/5.0358241\n2. [Applied Physics Letters] Atomistic understanding of hybrid bonding in Cu interfaces using multiscale microscopy\n   日期：2026-11-09\n   Authors: Ihit Shukla, Karthick Gothandapani, Nicholas Polomoff 等\n   https://doi.org/10.1063/5.0346165\n3. [arXiv] Experimental demonstration of dual-polarization nonreciprocal thermal emission at moderate …\n   日期：2026-11-05\n   Authors: Mason Christiansen, Jae S. Hwang, Yi Jie Lin 等\n   https://arxiv.org/abs/2611.07564v1",
   "papers": [
-    {
-      "source": "Physical Review B",
-      "uid": "doi:10.1103/zn44-nmx8",
-      "title": "Origin of the conflicting hole masses in the GaN/AlN two-dimensional hole gas",
-      "url": "https://doi.org/10.1103/zn44-nmx8",
-      "published": "2026-11-06",
-      "authors": [
-        "Tanvir M. Mahim",
-        "Abu S. M. Mohsin",
-        "M. Mosaddequr Rahman"
-      ],
-      "summary": "",
-      "score": 7,
-      "priority": 2,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
-      "abstract_zh": "该来源未提供英文摘要，因此暂时无法生成中文概述。",
-      "overview_cn": "Focus: GaN.\nNote: no abstract available; infer from title only.",
-      "reading_notes": "Focus: GaN.\nNote: no abstract available; infer from title only."
-    },
     {
       "source": "Nature Electronics",
       "uid": "Nature Electronics:10.1038/s41928-026-01735-9",
@@ -72,50 +50,6 @@
     },
     {
       "source": "arXiv",
-      "uid": "arxiv:2611.02735v1",
-      "title": "Universal model of the growth of III-V tetrahedral semiconductors on polar surfaces: pyramids and glue atoms. VII. Step kinetics",
-      "url": "https://arxiv.org/abs/2611.02735v1",
-      "published": "2026-11-02",
-      "authors": [
-        "Pawel Strak",
-        "Stanisław Krukowski"
-      ],
-      "summary": "Ab initio calculations were used to simulate the kinetics of attachment of new segments of the crystalline lattice (pyramids) at steps on the nonmetal-terminated surface of tetrahedral semiconductors: GaN, GaP, GaAs and GaSb. These surfaces are wurtzite gallium nitride, i.e. GaN(000-1) surface, zinc blende gallium phosphide, i.e. GaP(-1-1-1) gallium arsenide, GaAs(-1-1-1) and gallium antimonide GaSb(-1-1-1) surfaces. Diffusion species are gallium adatoms at high coverage or gallium adatoms connected with nonmetal atom creating stable pyramids. These pyramids arrive at the steps, and cannot be attached be directly because the Ga adatom at the pyramid base cannot be attached directly. Therefore they are incorporated into the step by additional nonmetal atoms glue atoms arriving from the vapor or detached from other segments of the surface terraces.",
-      "score": 7,
-      "priority": 1,
-      "highlights": [
-        "semiconductor",
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体、GaN方向，围绕“Universal model of the growth of III-V tetrahedral semiconductors on polar surf…”展开。摘要显示，文章重点涉及机理分析或模型解释，建议阅读时优先查看可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体、GaN方向，围绕“Universal model of the growth of III-V tetrahedral semiconductors on polar surf…”展开。摘要显示，文章重点涉及机理分析或模型解释，建议阅读时优先查看可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 半导体、GaN.\nWhat to check: 可靠性与稳定性.\nContext: Universal model of the growth of III-V tetrahedral semiconductors on polar surfaces: pyramids a….",
-      "reading_notes": "Focus: 半导体、GaN.\nWhat to check: 可靠性与稳定性.\nContext: Universal model of the growth of III-V tetrahedral semiconductors on polar surfaces: pyramids a…."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2611.02723v1",
-      "title": "Universal model of the growth of III-V tetrahedral semiconductors on polar surfaces: pyramids and glue atoms. VI. Surface diffusion on a nonmetal-terminated surface",
-      "url": "https://arxiv.org/abs/2611.02723v1",
-      "published": "2026-11-02",
-      "authors": [
-        "Pawel Strak",
-        "Stanisław Krukowski"
-      ],
-      "summary": "Ab initio calculations were used to simulate surface diffusion of adsorbates on the nonmetal-terminated surface of tetrahedral semiconductors: GaN, GaP, GaAs and GaSb. These surfaces are wurtzite gallium nitride, i.e. GaN(000-1) surface, zinc blende gallium phosphide, i.e. GaP(-1-1-1) gallium arsenide, GaAs (-1-1-1) and gallium antimonide GaSb (-1-1-1) surfaces. The mixed coverage consists of Ga adatoms in the first layer with a nonmetal atom attached above them forming a triangular-based pyramid. The pyramidal structures are stable during surface jumps involving rotations around one of the basal Ga adatoms. Thus, the diffusion proceeds via rotation (pivot) of the pair of the other basal Ga adatoms around an immobile Ga adatom moving them into new, originally empty sites. Using an energy-path determination procedure, the diffusion barriers were obtained as the difference between the initial site energy and the activated complex state energy. The detachment energy of the NM adatom was obtained assuming a final state in atomic and molecular form. The energy barrier for detachment to the atomic state is high for all atoms, on the order of 5 eV. For the molecular state these barriers are different: smaller for nitrogen, on the order of 1 eV, which is related to the high dissociation energy of the N2 molecule. For P and As the barrier is above 2 eV. For Sb it was not determined. Accordingly, the surface diffusion length is macroscopically large, indicating that all NM adatoms arrive at the steps.",
-      "score": 7,
-      "priority": 1,
-      "highlights": [
-        "semiconductor",
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体、GaN方向，围绕“Universal model of the growth of III-V tetrahedral semiconductors on polar surf…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体、GaN方向，围绕“Universal model of the growth of III-V tetrahedral semiconductors on polar surf…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 半导体、GaN.\nWhat to check: 可靠性与稳定性、功耗或能效表现.\nContext: Universal model of the growth of III-V tetrahedral semiconductors on polar surfaces: pyramids a….",
-      "reading_notes": "Focus: 半导体、GaN.\nWhat to check: 可靠性与稳定性、功耗或能效表现.\nContext: Universal model of the growth of III-V tetrahedral semiconductors on polar surfaces: pyramids a…."
-    },
-    {
-      "source": "arXiv",
       "uid": "arxiv:2611.05810v1",
       "title": "Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-Bonded $β$-Ga$_{2}$O$_{3}$/SiC Heterostructures",
       "url": "https://arxiv.org/abs/2611.05810v1",
@@ -144,6 +78,33 @@
       "reading_notes": "Focus: wafer、SiC.\nWhat to check: 性能提升、功耗或能效表现、接触/互连相关指标.\nContext: Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-Bonded $β$-Ga$_{2…."
     },
     {
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0358241",
+      "title": "An opto-electrically decoupled phototransistor for solar-blind ultraviolet detection",
+      "url": "https://doi.org/10.1063/5.0358241",
+      "published": "2026-11-09",
+      "authors": [
+        "Xiaolu Xia",
+        "Zehao Zhao",
+        "Ying Yan",
+        "Qianxi Yang",
+        "Xitian Yin",
+        "Jiawen Wu",
+        "Tao Luo",
+        "Chunjun Liang",
+        "Maguang Zhu",
+        "Ying Wang"
+      ],
+      "summary": "Solar-blind ultraviolet (UV) photodetectors have been primarily developed using ultrawide-bandgap (UWBG) semiconductors, where the wide bandgap enables low dark current and intrinsic solar-blind selectivity. However, the same wide-bandgap nature limits carrier modulation, particularly doping control and junction engineering, imposing fundamental challenges for high-sensitivity detection and scalable integration. Here, we demonstrate an opto-electrically decoupled solar-blind UV phototransistor by integrating a perovskite p–n photovoltage generator with a carbon nanotube (CNT) field-effect transistor. This architecture separates photon conversion from carrier transport, where the perovskite heterojunction generates a photovoltage that electrostatically modulates the CNT channel without interfacial carrier transfer. Under 265 nm illumination, the device achieves a responsivity of 2908 A W−1, a specific detectivity of 1.6 × 1013 Jones, and rise/decay times of 5.6/15.5 ms. The low-temperature fabrication process is compatible with silicon back-end-of-line integration, providing a route toward highly integrated solar-blind UV sensing with front-end bandpass filtering, beyond conventional UWBG semiconductor systems.",
+      "score": 9,
+      "priority": 0,
+      "highlights": [],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“An opto-electrically decoupled phototransistor for solar-blind ultraviolet dete…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“An opto-electrically decoupled phototransistor for solar-blind ultraviolet dete…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 与既有工艺平台的集成价值.\nContext: An opto-electrically decoupled phototransistor for solar-blind ultraviolet detection.",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 与既有工艺平台的集成价值.\nContext: An opto-electrically decoupled phototransistor for solar-blind ultraviolet detection."
+    },
+    {
       "source": "Nature Electronics",
       "uid": "Nature Electronics:10.1038/s41928-026-01728-8",
       "title": "A nonlinear superinductor in a deep-submicrometre integrated circuit",
@@ -158,6 +119,52 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“A nonlinear superinductor in a deep-submicrometre integrated circuit”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 与既有工艺平台的集成价值.\nContext: A nonlinear superinductor in a deep-submicrometre integrated circuit.",
       "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 与既有工艺平台的集成价值.\nContext: A nonlinear superinductor in a deep-submicrometre integrated circuit."
+    },
+    {
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0346165",
+      "title": "Atomistic understanding of hybrid bonding in Cu interfaces using multiscale microscopy",
+      "url": "https://doi.org/10.1063/5.0346165",
+      "published": "2026-11-09",
+      "authors": [
+        "Ihit Shukla",
+        "Karthick Gothandapani",
+        "Nicholas Polomoff",
+        "Baishakhi Mazumder"
+      ],
+      "summary": "Achieving wafer-scale reliability in Cu–Cu hybrid bonding remains challenging due to process-induced non-uniformities and the limited understanding of buried interfacial contamination. Here, we employ a correlative multiscale microscopy framework combining scanning electron microscopy, transmission electron microscopy, and atom probe tomography (APT) to investigate bond degradation from the wafer center to the edge. We observe progressive bond deterioration characterized by interfacial delamination, reduced Cu grain size, and the formation of a nanometer-scale amorphous interlayer. While such interlayers have been widely observed in hybrid bonding, their chemical nature has remained largely unresolved. APT directly reveals that the interlayer consists of Si-, C-, and N-bearing species consistent with contributions from the adjacent SiCN dielectric, together with Cu oxide and organic-related contaminants. By correlating interlayer chemistry and thickness with microstructural evolution, we establish a direct link between interfacial contamination, suppressed cross-interface grain growth, and bond degradation. Furthermore, we observe a progressive thickness-dependent degradation, where interfacial thickening from ∼1 to 2 nm at the center to ∼2 to 3 nm in the donut region is accompanied by deterioration in mechanical bond integrity and localized delamination. These findings provide atomistic insight into the chemistry governing hybrid bond reliability and establish quantitative guidelines for process optimization toward wafer-scale integration.",
+      "score": 7,
+      "priority": 0,
+      "highlights": [],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Atomistic understanding of hybrid bonding in Cu interfaces using multiscale mic…”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看可靠性与稳定性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Atomistic understanding of hybrid bonding in Cu interfaces using multiscale mic…”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看可靠性与稳定性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Atomistic understanding of hybrid bonding in Cu interfaces using multiscale microscopy.",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Atomistic understanding of hybrid bonding in Cu interfaces using multiscale microscopy."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2611.07564v1",
+      "title": "Experimental demonstration of dual-polarization nonreciprocal thermal emission at moderate magnetic fields",
+      "url": "https://arxiv.org/abs/2611.07564v1",
+      "published": "2026-11-05",
+      "authors": [
+        "Mason Christiansen",
+        "Jae S. Hwang",
+        "Yi Jie Lin",
+        "Aryan Zaveri",
+        "Tianjun Li",
+        "Daniel Cui",
+        "Baolai Liang",
+        "Aaswath P. Raman"
+      ],
+      "summary": "Conventional thermal emitters obey Kirchhoff's law of thermal radiation, which requires emissivity and absorptivity to be equal at each wavelength, angle, and polarization. This in turn places a fundamental limit on a range of radiative energy technologies as well as heat transfer. This constraint can however be overcome using magneto-optic semiconductors, which break Lorentz reciprocity under an applied magnetic field. However, in most prior experimental demonstrations, nonreciprocity has been restricted to TM polarization, since the electric field of TE-polarized light is parallel to the applied magnetic field. Here, we experimentally demonstrate nonreciprocal absorption in both polarizations at the same wavelengths and angles from a single structure, wherein a germanium Mie-resonant metasurface on a doped InAs layer scatters TE-polarized light into near fields with components perpendicular to the magnetic field, allowing the magneto-optic response of the InAs to act on them. Under a 0.48 T field from a permanent Halbach array, this structure exhibits a difference in absorptivity between $+B$ and $-B$ of 0.035 in both TE and TM polarization at 16.6 $μ$m. Our approach shows that the magneto-optic response of a planar semiconductor and the resonances of a dielectric metasurface can be designed together, offering a potential route to dual-polarization nonreciprocity at fields available from permanent magnets for emerging energy and heat transfer technologies.",
+      "score": 5,
+      "priority": 0,
+      "highlights": [],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Experimental demonstration of dual-polarization nonreciprocal thermal emission …”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看效率/耦合表现、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Experimental demonstration of dual-polarization nonreciprocal thermal emission …”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看效率/耦合表现、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Experimental demonstration of dual-polarization nonreciprocal thermal emission at moderate magn….",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Experimental demonstration of dual-polarization nonreciprocal thermal emission at moderate magn…."
     },
     {
       "source": "arXiv",
@@ -184,5 +191,5 @@
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-11-09T00:30:00+00:00"
+  "generated_at": "2026-11-10T00:30:00+00:00"
 }
