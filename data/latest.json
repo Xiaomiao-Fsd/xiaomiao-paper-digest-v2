@@ -1,34 +1,70 @@
 {
   "ok": true,
-  "new_count": 10,
+  "new_count": 4,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-11-11）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 0 篇\n1. [arXiv] The Weight Is in the Reading: Hidden States in Memristors, Memlumors, and Electrochemical T…\n   关键词：transistor\n   日期：2026-11-10\n   Authors: Gonzalo Rivera-Sierra, Heyi Zhang, Daiki Nishioka 等\n   https://arxiv.org/abs/2611.12706v1\n2. [arXiv] Fabrication and Characterization of Flexible In2O3 Thin-Film Transistors on Mica Substrates\n   关键词：transistor\n   日期：2026-11-07\n   Authors: Hyeonjun Kong, Ping-Hsein Wu, Xian-Ye Jiang 等\n   https://arxiv.org/abs/2611.10354v1\n3. [arXiv] Neutronic Field-Effect Transistor\n   关键词：transistor\n   日期：2026-11-10\n   Authors: Dusan Sarenac, Charles W. Clark, Owen Lailey 等\n   https://arxiv.org/abs/2611.12651v1\n4. [arXiv] Gate-tunable supercurrent switching in a three-terminal quantum dot transistor\n   关键词：transistor\n   日期：2026-11-09\n   Authors: David Novák, Kacper Wrześniewski, Filip Krizek 等\n   https://arxiv.org/abs/2611.12415v1\n5. [Applied Physics Letters] Impact of a process-induced interfacial layer on ferroelectric switching and reliability in…\n   关键词：ferroelectric\n   日期：2026-11-09\n   Authors: HyoJung Kim, SiSung Yoon, Hyeong-Yun Kim 等\n   https://doi.org/10.1063/5.0351733\n6. [Applied Physics Letters] Field-tunable Schottky-to-ohmic contact transition and visible-light absorption enhancement…\n   日期：2026-11-09\n   Authors: Xiangjiu Zhu, Yukai Zhang, Jinbao Wang 等\n   https://doi.org/10.1063/5.0340587\n7. [Applied Physics Letters] Gateless 1T-DRAM for cryogenic memory applications\n   日期：2026-11-09\n   Authors: Seung-Bum Yim, Ki-Nam Park, Hyun-Jun Kang 等\n   https://doi.org/10.1063/5.0351216\n8. [Applied Physics Letters] Effective suppression of wedge-shaped defects in growing 6-in. (100) <b> <i>β</i> </b> -Ga2…\n   日期：2026-11-09\n   Authors: Jiyuan Liu, Xuan Sun, Cheng Li 等\n   https://doi.org/10.1063/5.0351566",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-11-13）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 4 篇；Intel/TSMC 重点 0 篇；GaN 关键词 1 篇\n1. [Applied Physics Letters] Dislocation glide induced point defects in (In,Ga)N films\n   关键词：GaN\n   日期：2026-11-09\n   Authors: R. Kernke, J. Smalc-Koziorowska, J. Moneta 等\n   https://doi.org/10.1063/5.0349786\n2. [Applied Physics Letters] Three-dimensional thermally conductive structural materials enabled by dual-network design …\n   日期：2026-11-09\n   Authors: Lei Hao, Minrui Tan, Weiwei Men 等\n   https://doi.org/10.1063/5.0359533\n3. [Physical Review B] Surface-induced contraction mechanism of basal plane dislocations in 4H-SiC: Dislocation dy…\n   关键词：SiC\n   日期：2026-11-12\n   Authors: Atsuo Hirano, Noboru Takahashi, Akiyuki Takahashi\n   https://doi.org/10.1103/rz4d-3yjc\n4. [Applied Physics Letters] Polarization switching kinetics in nanoscale HfO2-based ferroelectrics: A coupled nucleatio…\n   关键词：HfO2\n   日期：2026-11-09\n   Authors: Hui-Hao Zeng, Feng Wang, Jia-Cheng Li 等\n   https://doi.org/10.1063/5.0354686",
   "papers": [
     {
       "source": "arXiv",
-      "uid": "arxiv:2611.06815v1",
-      "title": "Hall-Density Collapse as Direct Evidence for Percolative Conduction Onset in Monolayer MoS$_2$ Transistors",
-      "url": "https://arxiv.org/abs/2611.06815v1",
-      "published": "2026-11-05",
+      "uid": "arxiv:2611.12968v1",
+      "title": "Wafer-scale MoS2 and HZO-based Ferroelectric Field Effect Transistors with 4.4 V Memory Window for Back-End Compatible Multibit Memory",
+      "url": "https://arxiv.org/abs/2611.12968v1",
+      "published": "2026-11-07",
       "authors": [
-        "R. V. Upadya",
-        "M. Introna",
-        "X. Wu",
-        "C. J. L. de la Rosa",
-        "K. Banerjee",
-        "D. Lin",
-        "K. De Greve"
+        "Manisha Rajput",
+        "Farhan Ahmed Siddique",
+        "Chung-Che Huang",
+        "Ioannis Zeimpekis",
+        "Sayani Majumdar"
       ],
-      "summary": "The origin of the apparent metal-insulator transition in two-dimensional electron systems remains debated. Using temperature-dependent transport and Hall measurements on industry-relevant MoS$_2$ monolayer FETs with amorphous HfO$_2$ dielectrics, we establish classical percolation as the underlying mechanism. We report two complementary signatures of disorder-driven conduction onset: a temperature-independent Hall-density collapse as a function of absolute gate voltage and a vanishing activation energy at a characteristic carrier density $n_{\\mathrm{c}}$, identified as the percolation threshold. These findings identify dielectric-interface disorder, rather than channel quality alone, as the key parameter governing device turn-on. The extracted activation barriers reach values substantially exceeding room-temperature thermal energies, indicating that disorder-driven conduction onset remains relevant well beyond cryogenic transport.",
-      "score": 9,
+      "summary": "Ferroelectric field-effect transistors (FeFETs) with low-power operation and non-volatile data retention enabled by stable ferroelectric polarization switching, have emerged as promising alternatives to conventional floating-gate transistors for next-generation low-power memory applications. A FeFET with two-dimensional (2D) channel provides the opportunity for better electrostatic gate control and scalability beyond silicon. In this work, we report wafer scale 2D semiconductor-based FeFETs with Hf0.5Zr0.5O2 (HZO) gate stack showing unusual p-type charge transport and stable multibit memory properties. FeFETs based on 2-3 monolayer Molybdenum disulfide (MoS2) channel and a 20 nm HZO back gate oxide layer exhibit a large hysteresis with a memory window spanning 4.4 V under a operating voltage range of +3.8 to -3.8 V, and an ION/IOFF ratio of 10^5. We demonstrate that the polarization charge-induced modification of Schottky barrier width strongly affects the hole transport and memory properties of MoS2-HZO FeFETs. We further demonstrate several advantages and unique features of the FeFETs such as nondestructive data readout, non-volatile data retention under zero gate bias, low operation voltage, high write endurance and ultra-fast switching speed. These 1T memory cells can simplify the dense 3D integrated array architecture and offer additional practical functionalities, such as fast programming and erasing of large data arrays that are absent for many conventional memories. The demonstrated MoS2 and HZO-based FeFET shows great potential for on-chip complementary metal-oxide semiconductor (CMOS)-back-end-of-line (BEOL) compatible circuits for multifunctional devices, especially for 3D monolithically integrated architectures for AI workload.",
+      "score": 17,
+      "priority": 2,
+      "highlights": [
+        "transistor",
+        "ferroelectric",
+        "wafer"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、铁电材料、wafer方向，围绕“Wafer-scale MoS2 and HZO-based Ferroelectric Field Effect Transistors with 4.4 …”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看可靠性与稳定性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、铁电材料、wafer方向，围绕“Wafer-scale MoS2 and HZO-based Ferroelectric Field Effect Transistors with 4.4 …”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看可靠性与稳定性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 晶体管、铁电材料、wafer.\nWhat to check: 可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Wafer-scale MoS2 and HZO-based Ferroelectric Field Effect Transistors with 4.4 V Memory Window ….",
+      "reading_notes": "Focus: 晶体管、铁电材料、wafer.\nWhat to check: 可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Wafer-scale MoS2 and HZO-based Ferroelectric Field Effect Transistors with 4.4 V Memory Window …."
+    },
+    {
+      "source": "Nature Electronics",
+      "uid": "Nature Electronics:10.1038/s41928-026-01733-x",
+      "title": "Designing additives for perovskite transistors using molecular polarity as a guide",
+      "url": "https://www.nature.com/articles/s41928-026-01733-x",
+      "published": "2026-11-11",
+      "authors": [],
+      "summary": "Nature Electronics, Published online: 11 November 2026; doi:10.1038/s41928-026-01733-x Molecular polarity can be used as a predictive descriptor to screen potential additives for halide perovskite lattices, allowing robust and high-performance tin-based perovskite transistors to be created.",
+      "score": 8,
       "priority": 1,
       "highlights": [
         "transistor"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Hall-Density Collapse as Direct Evidence for Percolative Conduction Onset in Mo…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Hall-Density Collapse as Direct Evidence for Percolative Conduction Onset in Mo…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 功耗或能效表现.\nContext: Hall-Density Collapse as Direct Evidence for Percolative Conduction Onset in Monolayer MoS$_2$ ….",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 功耗或能效表现.\nContext: Hall-Density Collapse as Direct Evidence for Percolative Conduction Onset in Monolayer MoS$_2$ …."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Designing additives for perovskite transistors using molecular polarity as a gu…”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Designing additives for perovskite transistors using molecular polarity as a gu…”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Designing additives for perovskite transistors using molecular polarity as a guide.",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Designing additives for perovskite transistors using molecular polarity as a guide."
+    },
+    {
+      "source": "Nature Electronics",
+      "uid": "Nature Electronics:10.1038/s41928-026-01732-y",
+      "title": "A high-polarity molecular-anchor design for stable high-mobility perovskite transistors",
+      "url": "https://www.nature.com/articles/s41928-026-01732-y",
+      "published": "2026-11-11",
+      "authors": [],
+      "summary": "Nature Electronics, Published online: 11 November 2026; doi:10.1038/s41928-026-01732-y Molecular polarity can be used to guide the rational and targeted design of additives that suppress ion migration in metal halide perovskite transistors, leading to mobilities of over 40 cm2 V−1 s−1 and stabilities of over 9,000 on/off cycles.",
+      "score": 8,
+      "priority": 1,
+      "highlights": [
+        "transistor"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“A high-polarity molecular-anchor design for stable high-mobility perovskite tra…”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“A high-polarity molecular-anchor design for stable high-mobility perovskite tra…”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 可靠性与稳定性.\nContext: A high-polarity molecular-anchor design for stable high-mobility perovskite transistors.",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 可靠性与稳定性.\nContext: A high-polarity molecular-anchor design for stable high-mobility perovskite transistors."
     },
     {
       "source": "arXiv",
@@ -53,6 +89,32 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“The Weight Is in the Reading: Hidden States in Memristors, Memlumors, and Elect…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: The Weight Is in the Reading: Hidden States in Memristors, Memlumors, and Electrochemical Trans….",
       "reading_notes": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: The Weight Is in the Reading: Hidden States in Memristors, Memlumors, and Electrochemical Trans…."
+    },
+    {
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0349786",
+      "title": "Dislocation glide induced point defects in (In,Ga)N films",
+      "url": "https://doi.org/10.1063/5.0349786",
+      "published": "2026-11-09",
+      "authors": [
+        "R. Kernke",
+        "J. Smalc-Koziorowska",
+        "J. Moneta",
+        "G. Muzioł",
+        "C. Richter",
+        "C. Bazioti",
+        "T. Schulz"
+      ],
+      "summary": "By combining transmission electron microscopy (TEM) and cathodoluminescence (CL), the propagation of (a + c) dislocations in (In,Ga)N layers grown on GaN substrates was investigated. Cross-sectional TEM revealed point-defect clusters within the associated pyramidal glide planes, formed during dislocation glide. Correlative CL measurements showed that these defects act as efficient non-radiative recombination centers and are distributed throughout the glide plane. Preliminary chemical analyses suggest that the point defects are of native origin. These glide-induced point defects are the main cause for the dark-line contrast observed in plan-view CL images, whereas the misfit dislocation segment at the substrate–layer interface has only a negligible contribution. This demonstrates the critical role of dislocation glide in degrading the functional properties of (In,Ga)N. Accordingly, the material quality depends not only on the density of (a + c) dislocations but also on the distance over which they propagate.",
+      "score": 7,
+      "priority": 1,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Dislocation glide induced point defects in (In,Ga)N films”展开。摘要显示，文章重点涉及电学/光学表征与测试结果，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Dislocation glide induced point defects in (In,Ga)N films”展开。摘要显示，文章重点涉及电学/光学表征与测试结果，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Dislocation glide induced point defects in (In,Ga)N films.",
+      "reading_notes": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Dislocation glide induced point defects in (In,Ga)N films."
     },
     {
       "source": "arXiv",
@@ -130,93 +192,11 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Gate-tunable supercurrent switching in a three-terminal quantum dot transistor”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看效率/耦合表现、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: 晶体管.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Gate-tunable supercurrent switching in a three-terminal quantum dot transistor.",
       "reading_notes": "Focus: 晶体管.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Gate-tunable supercurrent switching in a three-terminal quantum dot transistor."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2611.05810v1",
-      "title": "Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-Bonded $β$-Ga$_{2}$O$_{3}$/SiC Heterostructures",
-      "url": "https://arxiv.org/abs/2611.05810v1",
-      "published": "2026-11-04",
-      "authors": [
-        "J. Liu",
-        "R. Mao",
-        "Z. Liu",
-        "Y. Yin",
-        "S. Li",
-        "F. Sun",
-        "B. Liu",
-        "Z. Wang",
-        "P. Gao"
-      ],
-      "summary": "Bonding semiconductors to substrates with high thermal conductivity is a promising way to solve the heat-dissipation problem of materials that transport heat poorly, and it avoids the lattice-matching constraints of conventional epitaxy. However, the lattice mismatch remains, leaving the two materials with mismatched phonon states, while poor interface quality scatters phonons even more. Together, these effects block phonon transport across the bonded interface and make interfacial thermal resistance a critical bottleneck, calling for careful interface engineering. Here, $β$-Ga$_{2}$O$_{3}$/SiC serves as a model system for a phonon-bridging strategy. A nanoscale crystalline Si interlayer is designed and fabricated by wafer bonding to bridge the mismatched phonon states of $β$-Ga$_{2}$O$_{3}$ and SiC. Spatially resolved electron energy-loss spectroscopy and molecular dynamics simulations show that this Si layer opens new channels for phonon transport across the interface. The engineered interface raises the interfacial thermal conductance to 165 MW m$^{-2}$ K$^{-1}$ -- the highest value yet reported for $β$-Ga$_{2}$O$_{3}$/SiC interfaces. These results offer an effective way to manage heat in $β$-Ga$_{2}$O$_{3}$ devices and point to a general approach for building phonon-bridging interfaces that improve heat dissipation in heterogeneous systems.",
-      "score": 10,
-      "priority": 0,
-      "highlights": [
-        "wafer",
-        "SiC"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注wafer、SiC方向，围绕“Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-B…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看性能提升、功耗或能效表现、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注wafer、SiC方向，围绕“Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-B…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看性能提升、功耗或能效表现、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: wafer、SiC.\nWhat to check: 性能提升、功耗或能效表现、接触/互连相关指标.\nContext: Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-Bonded $β$-Ga$_{2….",
-      "reading_notes": "Focus: wafer、SiC.\nWhat to check: 性能提升、功耗或能效表现、接触/互连相关指标.\nContext: Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-Bonded $β$-Ga$_{2…."
-    },
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0358241",
-      "title": "An opto-electrically decoupled phototransistor for solar-blind ultraviolet detection",
-      "url": "https://doi.org/10.1063/5.0358241",
-      "published": "2026-11-09",
-      "authors": [
-        "Xiaolu Xia",
-        "Zehao Zhao",
-        "Ying Yan",
-        "Qianxi Yang",
-        "Xitian Yin",
-        "Jiawen Wu",
-        "Tao Luo",
-        "Chunjun Liang",
-        "Maguang Zhu",
-        "Ying Wang"
-      ],
-      "summary": "Solar-blind ultraviolet (UV) photodetectors have been primarily developed using ultrawide-bandgap (UWBG) semiconductors, where the wide bandgap enables low dark current and intrinsic solar-blind selectivity. However, the same wide-bandgap nature limits carrier modulation, particularly doping control and junction engineering, imposing fundamental challenges for high-sensitivity detection and scalable integration. Here, we demonstrate an opto-electrically decoupled solar-blind UV phototransistor by integrating a perovskite p–n photovoltage generator with a carbon nanotube (CNT) field-effect transistor. This architecture separates photon conversion from carrier transport, where the perovskite heterojunction generates a photovoltage that electrostatically modulates the CNT channel without interfacial carrier transfer. Under 265 nm illumination, the device achieves a responsivity of 2908 A W−1, a specific detectivity of 1.6 × 1013 Jones, and rise/decay times of 5.6/15.5 ms. The low-temperature fabrication process is compatible with silicon back-end-of-line integration, providing a route toward highly integrated solar-blind UV sensing with front-end bandpass filtering, beyond conventional UWBG semiconductor systems.",
-      "score": 9,
-      "priority": 0,
-      "highlights": [],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“An opto-electrically decoupled phototransistor for solar-blind ultraviolet dete…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“An opto-electrically decoupled phototransistor for solar-blind ultraviolet dete…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 与既有工艺平台的集成价值.\nContext: An opto-electrically decoupled phototransistor for solar-blind ultraviolet detection.",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 与既有工艺平台的集成价值.\nContext: An opto-electrically decoupled phototransistor for solar-blind ultraviolet detection."
-    },
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0351733",
-      "title": "Impact of a process-induced interfacial layer on ferroelectric switching and reliability in AlScN/ <i>β</i> -Ga2O3 MFS capacitors",
-      "url": "https://doi.org/10.1063/5.0351733",
-      "published": "2026-11-09",
-      "authors": [
-        "HyoJung Kim",
-        "SiSung Yoon",
-        "Hyeong-Yun Kim",
-        "Hyeongjun Joo",
-        "JongMin Park",
-        "Dae-Woo Jeon",
-        "Geonwook Yoo"
-      ],
-      "summary": "In this study, we demonstrate AlScN-based metal–ferroelectric–semiconductor capacitors directly integrated on a heteroepitaxial β-Ga2O3. Structural analysis reveals the presence of a process-induced amorphous intermixed layer at the AlScN/β-Ga2O3 interface. The fabricated devices exhibit ferroelectric switching behavior, characterized by counterclockwise hysteretic current–voltage loops with an on/off current ratio of &gt;102, which is limited by the intermixed interfacial layer. Piezo-response force microscopy measurements confirm the intrinsic polarization switching capability through phase reversal and butterfly-shaped amplitude loops. Furthermore, positive-up-negative-down measurements indicate polarization switching while revealing a switching current asymmetry. We identify that this asymmetry originates from the internal electric field and charge trapping associated with the interfacial defect layer. This interfacial instability primarily affects the device performance observed during retention (103 s) and endurance (5 × 103 cycles) tests, suggesting significance of the interface toward stable ferroelectric operation in AlScN/β-Ga2O3 devices.",
-      "score": 8,
-      "priority": 0,
-      "highlights": [
-        "ferroelectric"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注铁电材料方向，围绕“Impact of a process-induced interfacial layer on ferroelectric switching and re…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注铁电材料方向，围绕“Impact of a process-induced interfacial layer on ferroelectric switching and re…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 铁电材料.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Impact of a process-induced interfacial layer on ferroelectric switching and reliability in AlS….",
-      "reading_notes": "Focus: 铁电材料.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Impact of a process-induced interfacial layer on ferroelectric switching and reliability in AlS…."
     }
   ],
   "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-11-11T00:30:00+00:00"
+  "generated_at": "2026-11-13T00:30:00+00:00"
 }
