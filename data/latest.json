@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 4,
+  "new_count": 9,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-11-13）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 4 篇；Intel/TSMC 重点 0 篇；GaN 关键词 1 篇\n1. [Applied Physics Letters] Dislocation glide induced point defects in (In,Ga)N films\n   关键词：GaN\n   日期：2026-11-09\n   Authors: R. Kernke, J. Smalc-Koziorowska, J. Moneta 等\n   https://doi.org/10.1063/5.0349786\n2. [Applied Physics Letters] Three-dimensional thermally conductive structural materials enabled by dual-network design …\n   日期：2026-11-09\n   Authors: Lei Hao, Minrui Tan, Weiwei Men 等\n   https://doi.org/10.1063/5.0359533\n3. [Physical Review B] Surface-induced contraction mechanism of basal plane dislocations in 4H-SiC: Dislocation dy…\n   关键词：SiC\n   日期：2026-11-12\n   Authors: Atsuo Hirano, Noboru Takahashi, Akiyuki Takahashi\n   https://doi.org/10.1103/rz4d-3yjc\n4. [Applied Physics Letters] Polarization switching kinetics in nanoscale HfO2-based ferroelectrics: A coupled nucleatio…\n   关键词：HfO2\n   日期：2026-11-09\n   Authors: Hui-Hao Zeng, Feng Wang, Jia-Cheng Li 等\n   https://doi.org/10.1063/5.0354686",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-11-14）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 3 篇\n1. [arXiv] Hands-on fabrication of 2D material field-effect transistors for the classroom using off-th…\n   关键词：transistor, 2D materials\n   日期：2026-11-07\n   Authors: Yigit Sozen, Tayfun Kutlu, Juan J. Riquelme 等\n   https://arxiv.org/abs/2611.14565v1\n2. [arXiv] Distilling an atomistic foundation model is all you need for large-scale molecular dynamics…\n   关键词：semiconductor, GaN\n   日期：2026-11-11\n   Authors: Feiyu Zhou, Wei Qiu, Fei Shuang 等\n   https://arxiv.org/abs/2611.14948v1\n3. [arXiv] High-Throughput Surface Screening Reveals Energetically Competitive Low-Symmetry Facets in …\n   关键词：semiconductor, GaN\n   日期：2026-11-11\n   Authors: Gustavo Madrigal, Cibrán López, Jordi Llorca 等\n   https://arxiv.org/abs/2611.15138v1\n4. [Science Advances] Carrier-free Arg-CpG augments antitumor efficacy by triggering specific immune activation\n   关键词：GaN\n   日期：2026-11-13\n   Authors: Huishan Li, Quankun Lin, Yuexia Xie 等\n   https://doi.org/10.1126/sciadv.aeg8936\n5. [arXiv] High-Quality InSb Nanowires Grown by Molecular-Beam Epitaxy via Precise Catalyst Modulation\n   关键词：epitaxy\n   日期：2026-11-12\n   Authors: Wenlong Yang, Jiaye Xu, Shuai Yang 等\n   https://arxiv.org/abs/2611.16234v1\n6. [arXiv] Bright and Uniform Silicon Carbide Nanophotonic Arrays for Scalable Nanoscale Quantum Sensi…\n   日期：2026-11-12\n   Authors: Chenyang Liao, Chihang Luo, Xin Chen 等\n   https://arxiv.org/abs/2611.16252v1\n7. [arXiv] Matrix-aware 2D field-effect biosensing of cardiac troponin I using complementary ion-sensi…\n   日期：2026-11-11\n   Authors: Subhabrata Das, Bharti, Babulu Pradhan 等\n   https://arxiv.org/abs/2611.15347v1\n8. [arXiv] Interfacial Effects of Thermal Reorganization on Charge and Spin Transport in Organic Spin …\n   日期：2026-11-12\n   Authors: Zihao Liu, Yunzhe Ke, Hajar Komekoz 等\n   https://arxiv.org/abs/2611.16852v1",
   "papers": [
     {
       "source": "arXiv",
@@ -29,6 +29,56 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、铁电材料、wafer方向，围绕“Wafer-scale MoS2 and HZO-based Ferroelectric Field Effect Transistors with 4.4 …”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看可靠性与稳定性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: 晶体管、铁电材料、wafer.\nWhat to check: 可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Wafer-scale MoS2 and HZO-based Ferroelectric Field Effect Transistors with 4.4 V Memory Window ….",
       "reading_notes": "Focus: 晶体管、铁电材料、wafer.\nWhat to check: 可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Wafer-scale MoS2 and HZO-based Ferroelectric Field Effect Transistors with 4.4 V Memory Window …."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2611.14565v1",
+      "title": "Hands-on fabrication of 2D material field-effect transistors for the classroom using off-the-shelf ionic gel",
+      "url": "https://arxiv.org/abs/2611.14565v1",
+      "published": "2026-11-07",
+      "authors": [
+        "Yigit Sozen",
+        "Tayfun Kutlu",
+        "Juan J. Riquelme",
+        "Andres Castellanos-Gomez"
+      ],
+      "summary": "We introduce a hands-on experimental method that enables students to fabricate and operate van der Waals semiconductor-based field-effect transistors (FETs) using readily available materials and minimal infrastructure. The approach is based on ionic-gel gating using commercially available hydrogel conductors originally developed for muscle electrostimulation devices. For device fabrication we rely on commercially available thin-film interdigitated electrode arrays and for the semiconductor channel, we deposited MoS2 flakes produced by high-throughput mechanical exfoliation. By avoiding the need for cleanroom processing, vacuum deposition, or custom electrolytes, this method allows functional FETs based on van der Waals materials to be realized in a standard teaching laboratory. The experiment is well suited for undergraduate and early graduate courses and is intended to complement concepts introduced in electronics and solid-state physics by providing students with first-hand experience in the fabrication and electrical characterization of emerging electronic devices. Representative electrical measurements demonstrate gate-dependent modulation of the channel conductance and illustrate characteristic features of ionic-gated transistor operation. Overall, the proposed platform provides an accessible route for students to fabricate, characterize, and analyze field-effect devices without access to conventional semiconductor foundry.",
+      "score": 14,
+      "priority": 2,
+      "highlights": [
+        "transistor",
+        "2D materials"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、二维材料方向，围绕“Hands-on fabrication of 2D material field-effect transistors for the classroom …”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、二维材料方向，围绕“Hands-on fabrication of 2D material field-effect transistors for the classroom …”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 晶体管、二维材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Hands-on fabrication of 2D material field-effect transistors for the classroom using off-the-sh….",
+      "reading_notes": "Focus: 晶体管、二维材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Hands-on fabrication of 2D material field-effect transistors for the classroom using off-the-sh…."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2611.14948v1",
+      "title": "Distilling an atomistic foundation model is all you need for large-scale molecular dynamics of semiconductor interfaces",
+      "url": "https://arxiv.org/abs/2611.14948v1",
+      "published": "2026-11-11",
+      "authors": [
+        "Feiyu Zhou",
+        "Wei Qiu",
+        "Fei Shuang",
+        "Yilun Liu",
+        "Shengying Yue",
+        "Penghua Ying"
+      ],
+      "summary": "State-of-the-art atomistic foundation models provide broadly transferable energy and force predictions, but their direct deployment in large-scale molecular dynamics remains computationally costly. Here we examine whether their knowledge can be distilled into compact potentials while retaining the physical responses of heterogeneous semiconductor interfaces. From 128 pretrained models spanning 22 model families, we select a fixed EquiformerV3 teacher and train atomic cluster expansion (ACE) and neuroevolution potential (NEP) students without target-specific teacher fine-tuning, with both simulation speed and accessible system size improved by several orders of magnitude relative to the teacher model. Matched training configurations and architectures enable direct comparisons with students trained on density-functional-theory (DFT) reference labels. For 79,920-atom BAs/GaN interfaces, direct distillation preserves termination-dependent thermal conductance and dominant spectral features, with conductance differing by at most 6.6% from DFT-trained counterparts. In 29,792-atom Cu/diamond specimens loaded at 500 K, tensile strength and loading work differ by 2.8% and 1.5%, respectively. Exploratory SiC/a-C/SiC simulations retain the principal thermal bottleneck and the direction of the annealing response. Furthermore, a four-model committee retrieves 42-56% of the highest-error teacher configurations with a 10% selection budget and improves high-error force fitting, but does not consistently improve downstream properties. These findings demonstrate that direct distillation can preserve key interfacial thermal and mechanical responses in compact interatomic potentials, opening a path towards large-scale, high-throughput simulations of heterogeneous interfaces.",
+      "score": 9,
+      "priority": 1,
+      "highlights": [
+        "semiconductor",
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体、GaN方向，围绕“Distilling an atomistic foundation model is all you need for large-scale molecu…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看性能提升、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体、GaN方向，围绕“Distilling an atomistic foundation model is all you need for large-scale molecu…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看性能提升、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 半导体、GaN.\nWhat to check: 性能提升、功耗或能效表现.\nContext: Distilling an atomistic foundation model is all you need for large-scale molecular dynamics of ….",
+      "reading_notes": "Focus: 半导体、GaN.\nWhat to check: 性能提升、功耗或能效表现.\nContext: Distilling an atomistic foundation model is all you need for large-scale molecular dynamics of …."
     },
     {
       "source": "Nature Electronics",
@@ -91,6 +141,30 @@
       "reading_notes": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: The Weight Is in the Reading: Hidden States in Memristors, Memlumors, and Electrochemical Trans…."
     },
     {
+      "source": "arXiv",
+      "uid": "arxiv:2611.15138v1",
+      "title": "High-Throughput Surface Screening Reveals Energetically Competitive Low-Symmetry Facets in Wurtzite Semiconductors",
+      "url": "https://arxiv.org/abs/2611.15138v1",
+      "published": "2026-11-11",
+      "authors": [
+        "Gustavo Madrigal",
+        "Cibrán López",
+        "Jordi Llorca",
+        "Claudio Cazorla"
+      ],
+      "summary": "Surfaces and interfaces govern the performance of wurtzite semiconductors in electronics, sensing, and solar-fuel conversion. To date, first-principles studies have focused mostly on high-symmetry low-index facets, owing to the computational cost and complexity of modelling low-symmetry high-index surfaces. In practice, however, surface formation energy is determined by the planar atomic density and the strength of the bonds severed upon cleavage, neither of which inherently excludes high-Miller-index surfaces from being energetically competitive. Here, we combine automated surface generation, machine-learning interatomic potential screening, and density functional theory to explore 226 clean, stoichiometric surface models of wurtzite GaN, LaN, and ZnO, spanning all Miller orientations with $|h|,|k|,|l| \\le 3$ and their inequivalent terminations. We find that low-symmetry high-index prismatic facets are energetically competitive with respect to the conventional $m$- and $a$-planes: nine of the fifteen lowest-energy nonpolar surfaces are high-index, and the five best candidates of each compound lie within only 2.5-5.3% of the minimum surface energy. Hybrid-functional calculations reveal, however, that this energetic proximity does not translate into similar electronic alignment. In GaN, the two most stable surfaces differ by just 0.08 J m$^{-2}$ in formation energy but by almost 0.8 eV in vacuum-referenced band-edge positions, whereas in LaN the nearly degenerate $m$- and $a$-planes are separated by 0.16 eV. Wurtzite facets with similar formation energies may therefore exhibit very different ionization potentials and electron affinities. Our results enable the joint, systematic assessment of stability and band alignment across the facets that can actually occur in wurtzites, and provide a map of candidate surfaces for the rational design of related nanostructure and heterointerfaces.",
+      "score": 7,
+      "priority": 1,
+      "highlights": [
+        "semiconductor",
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体、GaN方向，围绕“High-Throughput Surface Screening Reveals Energetically Competitive Low-Symmetr…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看性能提升、可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体、GaN方向，围绕“High-Throughput Surface Screening Reveals Energetically Competitive Low-Symmetr…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看性能提升、可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 半导体、GaN.\nWhat to check: 性能提升、可靠性与稳定性、功耗或能效表现.\nContext: High-Throughput Surface Screening Reveals Energetically Competitive Low-Symmetry Facets in Wurt….",
+      "reading_notes": "Focus: 半导体、GaN.\nWhat to check: 性能提升、可靠性与稳定性、功耗或能效表现.\nContext: High-Throughput Surface Screening Reveals Energetically Competitive Low-Symmetry Facets in Wurt…."
+    },
+    {
       "source": "Applied Physics Letters",
       "uid": "doi:10.1063/5.0349786",
       "title": "Dislocation glide induced point defects in (In,Ga)N films",
@@ -115,88 +189,11 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Dislocation glide induced point defects in (In,Ga)N films”展开。摘要显示，文章重点涉及电学/光学表征与测试结果，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Dislocation glide induced point defects in (In,Ga)N films.",
       "reading_notes": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Dislocation glide induced point defects in (In,Ga)N films."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2611.10354v1",
-      "title": "Fabrication and Characterization of Flexible In2O3 Thin-Film Transistors on Mica Substrates",
-      "url": "https://arxiv.org/abs/2611.10354v1",
-      "published": "2026-11-07",
-      "authors": [
-        "Hyeonjun Kong",
-        "Ping-Hsein Wu",
-        "Xian-Ye Jiang",
-        "Yasutaka Matsuo",
-        "Ying-Hao Chu",
-        "Hiromichi Ohta"
-      ],
-      "summary": "Flexible oxide-semiconductor thin-film transistors (TFTs) with high field-effect mobility (uFE > 70 cm^2/Vs) are required for next-generation flexible displays. Polycrystalline In2O3-based TFTs are promising candidates; however, conventional flexible substrates such as plastics are not suitable because their fabrication typically requires relatively high temperatures (~350 deg.C). In this study, we used mica as a flexible substrate to fabricate polycrystalline In2O3-based TFTs, motivated by previous demonstrations of crystalline oxide growth on mica. The resulting TFTs exhibited a uFE of approximately 75 cm^2/Vs. The devices maintained gate-modulated operation after 10^3 flex-out bending cycles at a 5 mm radius, whereas flex-in cycling caused early electrical failure, likely due to In2O3 film degradation. The TFTs also operated normally after exposure to 85 deg.C and 40% relative humidity for one day. These results demonstrate that mica substrates enable high-mobility, flex-out-compatible In2O3-based TFTs.",
-      "score": 7,
-      "priority": 1,
-      "highlights": [
-        "transistor"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Fabrication and Characterization of Flexible In2O3 Thin-Film Transistors on Mic…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Fabrication and Characterization of Flexible In2O3 Thin-Film Transistors on Mic…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Fabrication and Characterization of Flexible In2O3 Thin-Film Transistors on Mica Substrates.",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Fabrication and Characterization of Flexible In2O3 Thin-Film Transistors on Mica Substrates."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2611.12651v1",
-      "title": "Neutronic Field-Effect Transistor",
-      "url": "https://arxiv.org/abs/2611.12651v1",
-      "published": "2026-11-10",
-      "authors": [
-        "Dusan Sarenac",
-        "Charles W. Clark",
-        "Owen Lailey",
-        "Muhammad Arif",
-        "Wangchun Chen",
-        "David G. Cory",
-        "Michael G. Huber",
-        "Joachim Nsofini",
-        "Dmitry A. Pushin"
-      ],
-      "summary": "Field-effect electronic devices are in widespread use in communication, computing, data storage, and sensing applications. We demonstrate a neutronic field-effect transistor (NFET) that is analogous to the Datta-Das electron spin transistor and atomtronic devices. The NFET is based on a perfect-crystal Mach-Zehnder neutron interferometer with phase shifts applied to the spin and path degrees of freedom.",
-      "score": 5,
-      "priority": 1,
-      "highlights": [
-        "transistor"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Neutronic Field-Effect Transistor”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Neutronic Field-Effect Transistor”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Neutronic Field-Effect Transistor.",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Neutronic Field-Effect Transistor."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2611.12415v1",
-      "title": "Gate-tunable supercurrent switching in a three-terminal quantum dot transistor",
-      "url": "https://arxiv.org/abs/2611.12415v1",
-      "published": "2026-11-09",
-      "authors": [
-        "David Novák",
-        "Kacper Wrześniewski",
-        "Filip Krizek",
-        "Wolfgang Belzig",
-        "Peter Zalom"
-      ],
-      "summary": "We propose and analyze a three-terminal superconducting transistor switch in which a gate-defined quantum dot region interrupts a flux-controlled loop. The output supercurrent is switched off completely when the two loop arms couple to the dot with equal tunneling strengths and half a flux quantum threads the loop. The device then operates as a symmetric SQUID at half flux. The condition follows from a single geometric factor $χ$, which reduces the three-terminal problem to an equivalent two-terminal Anderson impurity model and makes the switching mechanism independent of the Coulomb interaction, the dot level position, the total hybridization and temperature. These enter only through a prefactor and thus decide how tolerant the device is to imperfect barrier tuning. Numerical renormalization group calculations across the full coupling parameter space show that the resonance is embedded in a broad region of elevated switching ratio at intermediate hybridization $Γ\\approx Δ$, while both weaker and stronger coupling reduce it to a thin isolated line. Finite temperature smooths the underlying singlet-doublet transition and lowers the supercurrent amplitude, but affects the open and closed states comparably and leaves the switching ratio largely intact. Within a zero-bandwidth two-level model, a second dot level is shown to open a leakage channel that grows as the two levels approach in energy. Raising the output barrier and the realistic presence of inter-level Coulomb repulsion, however, suppress the leakage.",
-      "score": 5,
-      "priority": 1,
-      "highlights": [
-        "transistor"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Gate-tunable supercurrent switching in a three-terminal quantum dot transistor”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看效率/耦合表现、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Gate-tunable supercurrent switching in a three-terminal quantum dot transistor”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看效率/耦合表现、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Gate-tunable supercurrent switching in a three-terminal quantum dot transistor.",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Gate-tunable supercurrent switching in a three-terminal quantum dot transistor."
     }
   ],
   "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-11-13T00:30:00+00:00"
+  "generated_at": "2026-11-14T00:30:00+00:00"
 }
