@@ -1,59 +1,9 @@
 {
   "ok": true,
-  "new_count": 9,
+  "new_count": 0,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-11-14）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 3 篇\n1. [arXiv] Hands-on fabrication of 2D material field-effect transistors for the classroom using off-th…\n   关键词：transistor, 2D materials\n   日期：2026-11-07\n   Authors: Yigit Sozen, Tayfun Kutlu, Juan J. Riquelme 等\n   https://arxiv.org/abs/2611.14565v1\n2. [arXiv] Distilling an atomistic foundation model is all you need for large-scale molecular dynamics…\n   关键词：semiconductor, GaN\n   日期：2026-11-11\n   Authors: Feiyu Zhou, Wei Qiu, Fei Shuang 等\n   https://arxiv.org/abs/2611.14948v1\n3. [arXiv] High-Throughput Surface Screening Reveals Energetically Competitive Low-Symmetry Facets in …\n   关键词：semiconductor, GaN\n   日期：2026-11-11\n   Authors: Gustavo Madrigal, Cibrán López, Jordi Llorca 等\n   https://arxiv.org/abs/2611.15138v1\n4. [Science Advances] Carrier-free Arg-CpG augments antitumor efficacy by triggering specific immune activation\n   关键词：GaN\n   日期：2026-11-13\n   Authors: Huishan Li, Quankun Lin, Yuexia Xie 等\n   https://doi.org/10.1126/sciadv.aeg8936\n5. [arXiv] High-Quality InSb Nanowires Grown by Molecular-Beam Epitaxy via Precise Catalyst Modulation\n   关键词：epitaxy\n   日期：2026-11-12\n   Authors: Wenlong Yang, Jiaye Xu, Shuai Yang 等\n   https://arxiv.org/abs/2611.16234v1\n6. [arXiv] Bright and Uniform Silicon Carbide Nanophotonic Arrays for Scalable Nanoscale Quantum Sensi…\n   日期：2026-11-12\n   Authors: Chenyang Liao, Chihang Luo, Xin Chen 等\n   https://arxiv.org/abs/2611.16252v1\n7. [arXiv] Matrix-aware 2D field-effect biosensing of cardiac troponin I using complementary ion-sensi…\n   日期：2026-11-11\n   Authors: Subhabrata Das, Bharti, Babulu Pradhan 等\n   https://arxiv.org/abs/2611.15347v1\n8. [arXiv] Interfacial Effects of Thermal Reorganization on Charge and Spin Transport in Organic Spin …\n   日期：2026-11-12\n   Authors: Zihao Liu, Yunzhe Ke, Hajar Komekoz 等\n   https://arxiv.org/abs/2611.16852v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-11-15）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 4 篇\n1. [arXiv] Distilling an atomistic foundation model is all you need for large-scale molecular dynamics…\n   关键词：semiconductor, GaN\n   日期：2026-11-11\n   Authors: Feiyu Zhou, Wei Qiu, Fei Shuang 等\n   https://arxiv.org/abs/2611.14948v1\n2. [Nature Electronics] Designing additives for perovskite transistors using molecular polarity as a guide\n   关键词：transistor\n   日期：2026-11-11\n   https://www.nature.com/articles/s41928-026-01733-x\n3. [Nature Electronics] A high-polarity molecular-anchor design for stable high-mobility perovskite transistors\n   关键词：transistor\n   日期：2026-11-11\n   https://www.nature.com/articles/s41928-026-01732-y\n4. [arXiv] The Weight Is in the Reading: Hidden States in Memristors, Memlumors, and Electrochemical T…\n   关键词：transistor\n   日期：2026-11-10\n   Authors: Gonzalo Rivera-Sierra, Heyi Zhang, Daiki Nishioka 等\n   https://arxiv.org/abs/2611.12706v1\n5. [arXiv] High-Throughput Surface Screening Reveals Energetically Competitive Low-Symmetry Facets in …\n   关键词：semiconductor, GaN\n   日期：2026-11-11\n   Authors: Gustavo Madrigal, Cibrán López, Jordi Llorca 等\n   https://arxiv.org/abs/2611.15138v1\n6. [Applied Physics Letters] Dislocation glide induced point defects in (In,Ga)N films\n   关键词：GaN\n   日期：2026-11-09\n   Authors: R. Kernke, J. Smalc-Koziorowska, J. Moneta 等\n   https://doi.org/10.1063/5.0349786\n7. [Science Advances] Carrier-free Arg-CpG augments antitumor efficacy by triggering specific immune activation\n   关键词：GaN\n   日期：2026-11-13\n   Authors: Huishan Li, Quankun Lin, Yuexia Xie 等\n   https://doi.org/10.1126/sciadv.aeg8936\n8. [arXiv] Neutronic Field-Effect Transistor\n   关键词：transistor\n   日期：2026-11-10\n   Authors: Dusan Sarenac, Charles W. Clark, Owen Lailey 等\n   https://arxiv.org/abs/2611.12651v1",
   "papers": [
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2611.12968v1",
-      "title": "Wafer-scale MoS2 and HZO-based Ferroelectric Field Effect Transistors with 4.4 V Memory Window for Back-End Compatible Multibit Memory",
-      "url": "https://arxiv.org/abs/2611.12968v1",
-      "published": "2026-11-07",
-      "authors": [
-        "Manisha Rajput",
-        "Farhan Ahmed Siddique",
-        "Chung-Che Huang",
-        "Ioannis Zeimpekis",
-        "Sayani Majumdar"
-      ],
-      "summary": "Ferroelectric field-effect transistors (FeFETs) with low-power operation and non-volatile data retention enabled by stable ferroelectric polarization switching, have emerged as promising alternatives to conventional floating-gate transistors for next-generation low-power memory applications. A FeFET with two-dimensional (2D) channel provides the opportunity for better electrostatic gate control and scalability beyond silicon. In this work, we report wafer scale 2D semiconductor-based FeFETs with Hf0.5Zr0.5O2 (HZO) gate stack showing unusual p-type charge transport and stable multibit memory properties. FeFETs based on 2-3 monolayer Molybdenum disulfide (MoS2) channel and a 20 nm HZO back gate oxide layer exhibit a large hysteresis with a memory window spanning 4.4 V under a operating voltage range of +3.8 to -3.8 V, and an ION/IOFF ratio of 10^5. We demonstrate that the polarization charge-induced modification of Schottky barrier width strongly affects the hole transport and memory properties of MoS2-HZO FeFETs. We further demonstrate several advantages and unique features of the FeFETs such as nondestructive data readout, non-volatile data retention under zero gate bias, low operation voltage, high write endurance and ultra-fast switching speed. These 1T memory cells can simplify the dense 3D integrated array architecture and offer additional practical functionalities, such as fast programming and erasing of large data arrays that are absent for many conventional memories. The demonstrated MoS2 and HZO-based FeFET shows great potential for on-chip complementary metal-oxide semiconductor (CMOS)-back-end-of-line (BEOL) compatible circuits for multifunctional devices, especially for 3D monolithically integrated architectures for AI workload.",
-      "score": 17,
-      "priority": 2,
-      "highlights": [
-        "transistor",
-        "ferroelectric",
-        "wafer"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、铁电材料、wafer方向，围绕“Wafer-scale MoS2 and HZO-based Ferroelectric Field Effect Transistors with 4.4 …”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看可靠性与稳定性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、铁电材料、wafer方向，围绕“Wafer-scale MoS2 and HZO-based Ferroelectric Field Effect Transistors with 4.4 …”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看可靠性与稳定性、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管、铁电材料、wafer.\nWhat to check: 可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Wafer-scale MoS2 and HZO-based Ferroelectric Field Effect Transistors with 4.4 V Memory Window ….",
-      "reading_notes": "Focus: 晶体管、铁电材料、wafer.\nWhat to check: 可靠性与稳定性、与既有工艺平台的集成价值.\nContext: Wafer-scale MoS2 and HZO-based Ferroelectric Field Effect Transistors with 4.4 V Memory Window …."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2611.14565v1",
-      "title": "Hands-on fabrication of 2D material field-effect transistors for the classroom using off-the-shelf ionic gel",
-      "url": "https://arxiv.org/abs/2611.14565v1",
-      "published": "2026-11-07",
-      "authors": [
-        "Yigit Sozen",
-        "Tayfun Kutlu",
-        "Juan J. Riquelme",
-        "Andres Castellanos-Gomez"
-      ],
-      "summary": "We introduce a hands-on experimental method that enables students to fabricate and operate van der Waals semiconductor-based field-effect transistors (FETs) using readily available materials and minimal infrastructure. The approach is based on ionic-gel gating using commercially available hydrogel conductors originally developed for muscle electrostimulation devices. For device fabrication we rely on commercially available thin-film interdigitated electrode arrays and for the semiconductor channel, we deposited MoS2 flakes produced by high-throughput mechanical exfoliation. By avoiding the need for cleanroom processing, vacuum deposition, or custom electrolytes, this method allows functional FETs based on van der Waals materials to be realized in a standard teaching laboratory. The experiment is well suited for undergraduate and early graduate courses and is intended to complement concepts introduced in electronics and solid-state physics by providing students with first-hand experience in the fabrication and electrical characterization of emerging electronic devices. Representative electrical measurements demonstrate gate-dependent modulation of the channel conductance and illustrate characteristic features of ionic-gated transistor operation. Overall, the proposed platform provides an accessible route for students to fabricate, characterize, and analyze field-effect devices without access to conventional semiconductor foundry.",
-      "score": 14,
-      "priority": 2,
-      "highlights": [
-        "transistor",
-        "2D materials"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、二维材料方向，围绕“Hands-on fabrication of 2D material field-effect transistors for the classroom …”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、二维材料方向，围绕“Hands-on fabrication of 2D material field-effect transistors for the classroom …”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管、二维材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Hands-on fabrication of 2D material field-effect transistors for the classroom using off-the-sh….",
-      "reading_notes": "Focus: 晶体管、二维材料.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Hands-on fabrication of 2D material field-effect transistors for the classroom using off-the-sh…."
-    },
     {
       "source": "arXiv",
       "uid": "arxiv:2611.14948v1",
@@ -189,11 +139,71 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Dislocation glide induced point defects in (In,Ga)N films”展开。摘要显示，文章重点涉及电学/光学表征与测试结果，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Dislocation glide induced point defects in (In,Ga)N films.",
       "reading_notes": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Dislocation glide induced point defects in (In,Ga)N films."
+    },
+    {
+      "source": "Science Advances",
+      "uid": "doi:10.1126/sciadv.aeg8936",
+      "title": "Carrier-free Arg-CpG augments antitumor efficacy by triggering specific immune activation",
+      "url": "https://doi.org/10.1126/sciadv.aeg8936",
+      "published": "2026-11-13",
+      "authors": [
+        "Huishan Li",
+        "Quankun Lin",
+        "Yuexia Xie",
+        "Xiaozhen He",
+        "Shuai Yang",
+        "Yan Zhou",
+        "Xue Zhao",
+        "Xingang Wang",
+        "Yongming Han",
+        "Fangli Cao",
+        "Lu Gan",
+        "Sidi Zhang",
+        "Peifeng Liu"
+      ],
+      "summary": "The delivery of nucleic acids using nonviral vectors represents a promising approach for cancer therapy. Nevertheless, nucleic acid–based drugs suffer from poor potency and rapid degradation. Herein, we report a carrier-free nucleic acid delivery system termed Arg-CpG, which is easily constructed through charge-driven assembly of poly( l -arginine) (Arg) and the immune adjuvant unmethylated cytosine-phosphate-guanine oligonucleotide (CpG). This Arg-CpG functions as both a carrier and a therapeutic agent, thereby eliminating the need for a conventional drug delivery vehicle and minimizing potential toxicity. The guanidinium groups of Arg endow Arg-CpG with dual functionalities: enhancing cellular uptake and serving as the nitrogen donor for iNOS-mediated nitric oxide (NO) generation. This NO production further synergizes with CpG to drive macrophage reprogramming toward an antitumor phenotype. Notably, Arg-CpG exhibits cell-type–dependent modulation of autophagy. It disrupts autophagic machinery in 4T1 tumor cells while preserving functional autophagy in RAW264.7 macrophages. This differential activity results in selective killing of tumor cells without compromising the viability or function of normal immune cells. Consequently, Arg-CpG elicits a robust antitumor immune response in vivo. Moreover, the modular design of Arg-CpG enables its straightforward assembly with CpG oligonucleotides and other nucleic acid payloads (e.g., anti-miR oligonucleotides and siRNA), establishing a versatile and promising platform for nucleic acid–based cancer therapy.",
+      "score": 6,
+      "priority": 1,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Carrier-free Arg-CpG augments antitumor efficacy by triggering specific immune …”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Carrier-free Arg-CpG augments antitumor efficacy by triggering specific immune …”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 可靠性与稳定性.\nContext: Carrier-free Arg-CpG augments antitumor efficacy by triggering specific immune activation.",
+      "reading_notes": "Focus: GaN.\nWhat to check: 可靠性与稳定性.\nContext: Carrier-free Arg-CpG augments antitumor efficacy by triggering specific immune activation."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2611.12651v1",
+      "title": "Neutronic Field-Effect Transistor",
+      "url": "https://arxiv.org/abs/2611.12651v1",
+      "published": "2026-11-10",
+      "authors": [
+        "Dusan Sarenac",
+        "Charles W. Clark",
+        "Owen Lailey",
+        "Muhammad Arif",
+        "Wangchun Chen",
+        "David G. Cory",
+        "Michael G. Huber",
+        "Joachim Nsofini",
+        "Dmitry A. Pushin"
+      ],
+      "summary": "Field-effect electronic devices are in widespread use in communication, computing, data storage, and sensing applications. We demonstrate a neutronic field-effect transistor (NFET) that is analogous to the Datta-Das electron spin transistor and atomtronic devices. The NFET is based on a perfect-crystal Mach-Zehnder neutron interferometer with phase shifts applied to the spin and path degrees of freedom.",
+      "score": 5,
+      "priority": 1,
+      "highlights": [
+        "transistor"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Neutronic Field-Effect Transistor”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Neutronic Field-Effect Transistor”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Neutronic Field-Effect Transistor.",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Neutronic Field-Effect Transistor."
     }
   ],
   "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-11-14T00:30:00+00:00"
+  "generated_at": "2026-11-15T00:30:00+00:00"
 }
