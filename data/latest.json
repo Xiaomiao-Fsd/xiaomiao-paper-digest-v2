@@ -2,7 +2,7 @@
   "ok": true,
   "new_count": 0,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-11-15）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 4 篇\n1. [arXiv] Distilling an atomistic foundation model is all you need for large-scale molecular dynamics…\n   关键词：semiconductor, GaN\n   日期：2026-11-11\n   Authors: Feiyu Zhou, Wei Qiu, Fei Shuang 等\n   https://arxiv.org/abs/2611.14948v1\n2. [Nature Electronics] Designing additives for perovskite transistors using molecular polarity as a guide\n   关键词：transistor\n   日期：2026-11-11\n   https://www.nature.com/articles/s41928-026-01733-x\n3. [Nature Electronics] A high-polarity molecular-anchor design for stable high-mobility perovskite transistors\n   关键词：transistor\n   日期：2026-11-11\n   https://www.nature.com/articles/s41928-026-01732-y\n4. [arXiv] The Weight Is in the Reading: Hidden States in Memristors, Memlumors, and Electrochemical T…\n   关键词：transistor\n   日期：2026-11-10\n   Authors: Gonzalo Rivera-Sierra, Heyi Zhang, Daiki Nishioka 等\n   https://arxiv.org/abs/2611.12706v1\n5. [arXiv] High-Throughput Surface Screening Reveals Energetically Competitive Low-Symmetry Facets in …\n   关键词：semiconductor, GaN\n   日期：2026-11-11\n   Authors: Gustavo Madrigal, Cibrán López, Jordi Llorca 等\n   https://arxiv.org/abs/2611.15138v1\n6. [Applied Physics Letters] Dislocation glide induced point defects in (In,Ga)N films\n   关键词：GaN\n   日期：2026-11-09\n   Authors: R. Kernke, J. Smalc-Koziorowska, J. Moneta 等\n   https://doi.org/10.1063/5.0349786\n7. [Science Advances] Carrier-free Arg-CpG augments antitumor efficacy by triggering specific immune activation\n   关键词：GaN\n   日期：2026-11-13\n   Authors: Huishan Li, Quankun Lin, Yuexia Xie 等\n   https://doi.org/10.1126/sciadv.aeg8936\n8. [arXiv] Neutronic Field-Effect Transistor\n   关键词：transistor\n   日期：2026-11-10\n   Authors: Dusan Sarenac, Charles W. Clark, Owen Lailey 等\n   https://arxiv.org/abs/2611.12651v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-11-16）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 3 篇\n1. [arXiv] Distilling an atomistic foundation model is all you need for large-scale molecular dynamics…\n   关键词：semiconductor, GaN\n   日期：2026-11-11\n   Authors: Feiyu Zhou, Wei Qiu, Fei Shuang 等\n   https://arxiv.org/abs/2611.14948v1\n2. [Nature Electronics] Designing additives for perovskite transistors using molecular polarity as a guide\n   关键词：transistor\n   日期：2026-11-11\n   https://www.nature.com/articles/s41928-026-01733-x\n3. [Nature Electronics] A high-polarity molecular-anchor design for stable high-mobility perovskite transistors\n   关键词：transistor\n   日期：2026-11-11\n   https://www.nature.com/articles/s41928-026-01732-y\n4. [arXiv] The Weight Is in the Reading: Hidden States in Memristors, Memlumors, and Electrochemical T…\n   关键词：transistor\n   日期：2026-11-10\n   Authors: Gonzalo Rivera-Sierra, Heyi Zhang, Daiki Nishioka 等\n   https://arxiv.org/abs/2611.12706v1\n5. [arXiv] High-Throughput Surface Screening Reveals Energetically Competitive Low-Symmetry Facets in …\n   关键词：semiconductor, GaN\n   日期：2026-11-11\n   Authors: Gustavo Madrigal, Cibrán López, Jordi Llorca 等\n   https://arxiv.org/abs/2611.15138v1\n6. [Science Advances] Carrier-free Arg-CpG augments antitumor efficacy by triggering specific immune activation\n   关键词：GaN\n   日期：2026-11-13\n   Authors: Huishan Li, Quankun Lin, Yuexia Xie 等\n   https://doi.org/10.1126/sciadv.aeg8936\n7. [arXiv] Neutronic Field-Effect Transistor\n   关键词：transistor\n   日期：2026-11-10\n   Authors: Dusan Sarenac, Charles W. Clark, Owen Lailey 等\n   https://arxiv.org/abs/2611.12651v1\n8. [arXiv] Gate-tunable supercurrent switching in a three-terminal quantum dot transistor\n   关键词：transistor\n   日期：2026-11-09\n   Authors: David Novák, Kacper Wrześniewski, Filip Krizek 等\n   https://arxiv.org/abs/2611.12415v1",
   "papers": [
     {
       "source": "arXiv",
@@ -115,32 +115,6 @@
       "reading_notes": "Focus: 半导体、GaN.\nWhat to check: 性能提升、可靠性与稳定性、功耗或能效表现.\nContext: High-Throughput Surface Screening Reveals Energetically Competitive Low-Symmetry Facets in Wurt…."
     },
     {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0349786",
-      "title": "Dislocation glide induced point defects in (In,Ga)N films",
-      "url": "https://doi.org/10.1063/5.0349786",
-      "published": "2026-11-09",
-      "authors": [
-        "R. Kernke",
-        "J. Smalc-Koziorowska",
-        "J. Moneta",
-        "G. Muzioł",
-        "C. Richter",
-        "C. Bazioti",
-        "T. Schulz"
-      ],
-      "summary": "By combining transmission electron microscopy (TEM) and cathodoluminescence (CL), the propagation of (a + c) dislocations in (In,Ga)N layers grown on GaN substrates was investigated. Cross-sectional TEM revealed point-defect clusters within the associated pyramidal glide planes, formed during dislocation glide. Correlative CL measurements showed that these defects act as efficient non-radiative recombination centers and are distributed throughout the glide plane. Preliminary chemical analyses suggest that the point defects are of native origin. These glide-induced point defects are the main cause for the dark-line contrast observed in plan-view CL images, whereas the misfit dislocation segment at the substrate–layer interface has only a negligible contribution. This demonstrates the critical role of dislocation glide in degrading the functional properties of (In,Ga)N. Accordingly, the material quality depends not only on the density of (a + c) dislocations but also on the distance over which they propagate.",
-      "score": 7,
-      "priority": 1,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Dislocation glide induced point defects in (In,Ga)N films”展开。摘要显示，文章重点涉及电学/光学表征与测试结果，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Dislocation glide induced point defects in (In,Ga)N films”展开。摘要显示，文章重点涉及电学/光学表征与测试结果，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Dislocation glide induced point defects in (In,Ga)N films.",
-      "reading_notes": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Dislocation glide induced point defects in (In,Ga)N films."
-    },
-    {
       "source": "Science Advances",
       "uid": "doi:10.1126/sciadv.aeg8936",
       "title": "Carrier-free Arg-CpG augments antitumor efficacy by triggering specific immune activation",
@@ -199,11 +173,35 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Neutronic Field-Effect Transistor”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Neutronic Field-Effect Transistor.",
       "reading_notes": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Neutronic Field-Effect Transistor."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2611.12415v1",
+      "title": "Gate-tunable supercurrent switching in a three-terminal quantum dot transistor",
+      "url": "https://arxiv.org/abs/2611.12415v1",
+      "published": "2026-11-09",
+      "authors": [
+        "David Novák",
+        "Kacper Wrześniewski",
+        "Filip Krizek",
+        "Wolfgang Belzig",
+        "Peter Zalom"
+      ],
+      "summary": "We propose and analyze a three-terminal superconducting transistor switch in which a gate-defined quantum dot region interrupts a flux-controlled loop. The output supercurrent is switched off completely when the two loop arms couple to the dot with equal tunneling strengths and half a flux quantum threads the loop. The device then operates as a symmetric SQUID at half flux. The condition follows from a single geometric factor $χ$, which reduces the three-terminal problem to an equivalent two-terminal Anderson impurity model and makes the switching mechanism independent of the Coulomb interaction, the dot level position, the total hybridization and temperature. These enter only through a prefactor and thus decide how tolerant the device is to imperfect barrier tuning. Numerical renormalization group calculations across the full coupling parameter space show that the resonance is embedded in a broad region of elevated switching ratio at intermediate hybridization $Γ\\approx Δ$, while both weaker and stronger coupling reduce it to a thin isolated line. Finite temperature smooths the underlying singlet-doublet transition and lowers the supercurrent amplitude, but affects the open and closed states comparably and leaves the switching ratio largely intact. Within a zero-bandwidth two-level model, a second dot level is shown to open a leakage channel that grows as the two levels approach in energy. Raising the output barrier and the realistic presence of inter-level Coulomb repulsion, however, suppress the leakage.",
+      "score": 5,
+      "priority": 1,
+      "highlights": [
+        "transistor"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Gate-tunable supercurrent switching in a three-terminal quantum dot transistor”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看效率/耦合表现、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Gate-tunable supercurrent switching in a three-terminal quantum dot transistor”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看效率/耦合表现、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Gate-tunable supercurrent switching in a three-terminal quantum dot transistor.",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Gate-tunable supercurrent switching in a three-terminal quantum dot transistor."
     }
   ],
   "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-11-15T00:30:00+00:00"
+  "generated_at": "2026-11-16T00:30:00+00:00"
 }
