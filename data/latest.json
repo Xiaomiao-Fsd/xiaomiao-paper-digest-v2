@@ -1,9 +1,113 @@
 {
   "ok": true,
-  "new_count": 0,
+  "new_count": 8,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-11-16）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 3 篇\n1. [arXiv] Distilling an atomistic foundation model is all you need for large-scale molecular dynamics…\n   关键词：semiconductor, GaN\n   日期：2026-11-11\n   Authors: Feiyu Zhou, Wei Qiu, Fei Shuang 等\n   https://arxiv.org/abs/2611.14948v1\n2. [Nature Electronics] Designing additives for perovskite transistors using molecular polarity as a guide\n   关键词：transistor\n   日期：2026-11-11\n   https://www.nature.com/articles/s41928-026-01733-x\n3. [Nature Electronics] A high-polarity molecular-anchor design for stable high-mobility perovskite transistors\n   关键词：transistor\n   日期：2026-11-11\n   https://www.nature.com/articles/s41928-026-01732-y\n4. [arXiv] The Weight Is in the Reading: Hidden States in Memristors, Memlumors, and Electrochemical T…\n   关键词：transistor\n   日期：2026-11-10\n   Authors: Gonzalo Rivera-Sierra, Heyi Zhang, Daiki Nishioka 等\n   https://arxiv.org/abs/2611.12706v1\n5. [arXiv] High-Throughput Surface Screening Reveals Energetically Competitive Low-Symmetry Facets in …\n   关键词：semiconductor, GaN\n   日期：2026-11-11\n   Authors: Gustavo Madrigal, Cibrán López, Jordi Llorca 等\n   https://arxiv.org/abs/2611.15138v1\n6. [Science Advances] Carrier-free Arg-CpG augments antitumor efficacy by triggering specific immune activation\n   关键词：GaN\n   日期：2026-11-13\n   Authors: Huishan Li, Quankun Lin, Yuexia Xie 等\n   https://doi.org/10.1126/sciadv.aeg8936\n7. [arXiv] Neutronic Field-Effect Transistor\n   关键词：transistor\n   日期：2026-11-10\n   Authors: Dusan Sarenac, Charles W. Clark, Owen Lailey 等\n   https://arxiv.org/abs/2611.12651v1\n8. [arXiv] Gate-tunable supercurrent switching in a three-terminal quantum dot transistor\n   关键词：transistor\n   日期：2026-11-09\n   Authors: David Novák, Kacper Wrześniewski, Filip Krizek 等\n   https://arxiv.org/abs/2611.12415v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-11-17）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 3 篇\n1. [Applied Physics Letters] Data-driven reassessment of lattice matching in ScAlN/GaN heterostructures grown by sputter…\n   关键词：epitaxy, GaN\n   日期：2026-11-16\n   Authors: Atsushi Kobayashi, Takuya Maeda, Thai-Son Nguyen 等\n   https://doi.org/10.1063/5.0345218\n2. [Applied Physics Letters] Investigation of single-event burnout mechanism in p-GaN gate HEMTs\n   关键词：GaN\n   日期：2026-11-16\n   Authors: Dongyang Wang, Mingmin Huang, Qimeng Jiang 等\n   https://doi.org/10.1063/5.0345096\n3. [arXiv] Epitaxial integration of GaN $μ$-platelets and thin films on metallic TiN using a hybrid ap…\n   关键词：GaN\n   日期：2026-11-13\n   Authors: Philipp M. John, Thomas Auzelle, Pierre-Marie Coulon 等\n   https://arxiv.org/abs/2611.17986v1\n4. [Applied Physics Letters] IGZO optoelectronic synaptic transistor for neuromorphic vision and motion tracking applica…\n   关键词：transistor\n   日期：2026-11-16\n   Authors: Manoj Kumar Rajbhar, Dhananjay D. Kumbhar, Serhii Tytov 等\n   https://doi.org/10.1063/5.0353000\n5. [Nature Electronics] Mixed-dimensional complementary metal–oxide–semiconductor technology for high-performance i…\n   关键词：semiconductor\n   日期：2026-11-16\n   https://www.nature.com/articles/s41928-026-01737-7\n6. [Applied Physics Letters] Effect of TiN deposition temperature on fully ALD TiN/high- <i>κ</i> HZO/TiN stack properti…\n   关键词：deposition\n   日期：2026-11-16\n   Authors: Boping Wang, Yang Yang, Xueyang Peng 等\n   https://doi.org/10.1063/5.0318493\n7. [Applied Physics Letters] Polymorphic polar nanoregions-induced giant capacitive energy storage in lead-free high-ent…\n   关键词：ferroelectric\n   日期：2026-11-16\n   Authors: Xiangfu Zeng, Liang Cao, Ji Zhang 等\n   https://doi.org/10.1063/5.0362607\n8. [arXiv] A charge-dependent electron emission yield from electron irradiated dielectrics\n   关键词：dielectric\n   日期：2026-11-14\n   Authors: M. Belhaj, A. M. Cavalca de Almeida, N. Fil\n   https://arxiv.org/abs/2611.18486v1",
   "papers": [
+    {
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0345218",
+      "title": "Data-driven reassessment of lattice matching in ScAlN/GaN heterostructures grown by sputter epitaxy and molecular beam epitaxy",
+      "url": "https://doi.org/10.1063/5.0345218",
+      "published": "2026-11-16",
+      "authors": [
+        "Atsushi Kobayashi",
+        "Takuya Maeda",
+        "Thai-Son Nguyen",
+        "Huili Grace Xing",
+        "Debdeep Jena",
+        "Yoshio Honda"
+      ],
+      "summary": "We reassessed the lattice-matching behavior of ScAlN thin films grown on GaN by constructing a unified dataset from sputter epitaxy, molecular beam epitaxy (MBE), and literature reports. The dataset comprised 197 samples, including 32 MBE-grown and 70 sputter-grown films from our laboratories and 95 literature data points, for which Sc composition, growth temperature, film thickness, polarity, growth technique, and a- and c-axis lattice constants were compiled. The compiled data were analyzed using a neural-network-based surrogate model to extract smooth lattice-constant trends within the experimentally covered parameter range, and these trends were subsequently parameterized by empirical polynomial functions of Sc composition and growth temperature. The lattice-matched Sc composition of ScxAl1−xN to GaN was estimated to be x ≈ 0.10–0.13, which is lower than the conventional value of approximately 0.18 and is only weakly dependent on growth temperature and growth technique. In contrast, the c-axis lattice constant was strongly dependent on growth temperature and decreased at higher growth temperatures. This c-axis contraction, together with the reduced c/a ratio, is consistent with growth-temperature-dependent bond softening and local structural distortion in ScAlN, providing a possible structural link to polarization switching in ferroelectric nitrides.",
+      "score": 13,
+      "priority": 2,
+      "highlights": [
+        "epitaxy",
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注epitaxy、GaN方向，围绕“Data-driven reassessment of lattice matching in ScAlN/GaN heterostructures grow…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注epitaxy、GaN方向，围绕“Data-driven reassessment of lattice matching in ScAlN/GaN heterostructures grow…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: epitaxy、GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Data-driven reassessment of lattice matching in ScAlN/GaN heterostructures grown by sputter epi….",
+      "reading_notes": "Focus: epitaxy、GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Data-driven reassessment of lattice matching in ScAlN/GaN heterostructures grown by sputter epi…."
+    },
+    {
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0345096",
+      "title": "Investigation of single-event burnout mechanism in p-GaN gate HEMTs",
+      "url": "https://doi.org/10.1063/5.0345096",
+      "published": "2026-11-16",
+      "authors": [
+        "Dongyang Wang",
+        "Mingmin Huang",
+        "Qimeng Jiang",
+        "Yao Ma",
+        "Zhimei Yang",
+        "Yun Li",
+        "Min Gong"
+      ],
+      "summary": "In this work, the mechanism of single-event burnout (SEB) in p-GaN gate HEMTs is thoroughly investigated by irradiation experiments and simulations. The samples were irradiated with tantalum (Ta) ions (67 MeV cm2/mg in GaN). There are two distinct failure modes observed in samples occurring in SEB. One is the four-terminal short-circuit mode, and the other is the vertical short-circuit mode between the drain and the substrate. By comparing damaged structures, it can be inferred that both failure modes probably originated from the burnout of the drain. According to the transient currents and temperature distributions by simulations, it is found that the most sensitive region to SEB is the edge of the drain, rather than the edge of the gate or field plate. The SEB mechanism can be explained as follows. A large number of generated holes accumulate at the GaN/AlN interface, while a large number of electrons will accumulate at the Si-Sub/AlN interface, leading to a high electric field in the AlN layer and in turn enhancing the impact ionization. Then the generated electrons will drift to the drain and concentrate around the drain, which produces high current density as well as a high electric field near the drain. Therefore, the lattice temperature there is quickly raised to trigger thermal runaway at the drain.",
+      "score": 8,
+      "priority": 2,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Investigation of single-event burnout mechanism in p-GaN gate HEMTs”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Investigation of single-event burnout mechanism in p-GaN gate HEMTs”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Investigation of single-event burnout mechanism in p-GaN gate HEMTs.",
+      "reading_notes": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Investigation of single-event burnout mechanism in p-GaN gate HEMTs."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2611.17986v1",
+      "title": "Epitaxial integration of GaN $μ$-platelets and thin films on metallic TiN using a hybrid approach",
+      "url": "https://arxiv.org/abs/2611.17986v1",
+      "published": "2026-11-13",
+      "authors": [
+        "Philipp M. John",
+        "Thomas Auzelle",
+        "Pierre-Marie Coulon",
+        "Blandine Alloing",
+        "Ileana Florea",
+        "Mikel Gómez Ruiz",
+        "Jonas Lähnemann",
+        "Lutz Geelhaar",
+        "Oliver Brandt"
+      ],
+      "summary": "We demonstrate the synthesis of epitaxial, self-organized GaN $μ$-platelets on metallic TiN thin films. To this end, we first nucleate self-assembled GaN nanowires with number densities between 0.01 to 300 $μm^{-2}$ by molecular beam epitaxy. Subsequent overgrowth of these seed nanowires by metal-organic vapor phase epitaxy yields GaN $μ$-platelets with corresponding number densities. The platelets exhibit N-polarity and form an ohmic contact to the metallic TiN substrate. By adjusting the growth conditions during the metal-organic vapor phase epitaxy, particularly the carrier gas and precursor ratio, the morphology of the GaN can be controlled across a broad range. Growth under N$_{2}$ carrier gas and with a 1:1 NH$_{3}$/trimethylgallium precursor flow ratio results in platelet ensembles with broad diameter and height distributions. In contrast, employing an N$_{2}$/H$_{2}$ carrier gas mixture promotes the formation of more homogeneous ensembles with narrower size distributions around a diameter of $\\approx$2 $μm$. Finally, N-rich growth conditions under H$_{2}$ carrier gas enhance lateral growth, leading to the formation of coalesced GaN layers. GaN grown under these latter conditions exhibits strong near-band-edge emission, accompanied by only weak deep-level luminescence at room temperature.",
+      "score": 7,
+      "priority": 2,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Epitaxial integration of GaN $μ$-platelets and thin films on metallic TiN using…”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升、效率/耦合表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Epitaxial integration of GaN $μ$-platelets and thin films on metallic TiN using…”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升、效率/耦合表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现、与既有工艺平台的集成价值.\nContext: Epitaxial integration of GaN $μ$-platelets and thin films on metallic TiN using a hybrid approa….",
+      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现、与既有工艺平台的集成价值.\nContext: Epitaxial integration of GaN $μ$-platelets and thin films on metallic TiN using a hybrid approa…."
+    },
+    {
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0353000",
+      "title": "IGZO optoelectronic synaptic transistor for neuromorphic vision and motion tracking applications",
+      "url": "https://doi.org/10.1063/5.0353000",
+      "published": "2026-11-16",
+      "authors": [
+        "Manoj Kumar Rajbhar",
+        "Dhananjay D. Kumbhar",
+        "Serhii Tytov",
+        "Dayanand Kumar",
+        "Nazek El-Atab"
+      ],
+      "summary": "Neuromorphic vision systems that integrate optical sensing, memory, and information processing are promising candidates for overcoming the energy and bandwidth limitations of conventional von Neumann architectures. Here, we report an indium gallium zinc oxide (IGZO) optoelectronic synaptic transistor for neuromorphic vision and motion tracking applications. The fabricated device exhibits excellent electrical performance, including a high on/off current ratio of ∼1.06 × 108, a low subthreshold swing of 110.58 mV/dec, and a field-effect mobility of 1.52 cm2 V−1 s−1. Under 405 nm optical stimulation, the transistor successfully emulates essential biological synaptic behaviors, including intensity- and time-dependent synaptic plasticity, paired-pulse facilitation, short-term to long-term memory transition, and learning-forgetting-relearning characteristics, while operating with a low energy consumption of approximately 6.75 pJ per synaptic event. Photoluminescence and x-ray photoelectron spectroscopy analyses reveal that oxygen-vacancy-related defect states induce carrier trapping and persistent photoconductivity, providing the physical mechanism responsible for the observed optoelectronic synaptic behavior. To demonstrate its practical applicability, a hardware–software co-designed neuromorphic vision framework employing a 128 × 64 IGZO synaptic transistor array model experimentally calibrated using measured devices' optoelectronic characteristics was simulated for real-time motion detection and vehicle tracking. The proposed system achieved a pixel localization accuracy of 94.8% through hardware-aware spatiotemporal preprocessing, significantly reducing redundant data transmission and computational overhead. These results demonstrate the potential of IGZO optoelectronic synaptic transistors as an energy-efficient platform for intelligent visual perception, edge artificial intelligence, and next-generation in-sensor neuromorphic computing.",
+      "score": 11,
+      "priority": 1,
+      "highlights": [
+        "transistor"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“IGZO optoelectronic synaptic transistor for neuromorphic vision and motion trac…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“IGZO optoelectronic synaptic transistor for neuromorphic vision and motion trac…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、功耗或能效表现.\nContext: IGZO optoelectronic synaptic transistor for neuromorphic vision and motion tracking applications.",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、功耗或能效表现.\nContext: IGZO optoelectronic synaptic transistor for neuromorphic vision and motion tracking applications."
+    },
     {
       "source": "arXiv",
       "uid": "arxiv:2611.14948v1",
@@ -68,30 +172,6 @@
     },
     {
       "source": "arXiv",
-      "uid": "arxiv:2611.12706v1",
-      "title": "The Weight Is in the Reading: Hidden States in Memristors, Memlumors, and Electrochemical Transistors",
-      "url": "https://arxiv.org/abs/2611.12706v1",
-      "published": "2026-11-10",
-      "authors": [
-        "Gonzalo Rivera-Sierra",
-        "Heyi Zhang",
-        "Daiki Nishioka",
-        "Takashi Tsuchiya",
-        "Juan Bisquert"
-      ],
-      "summary": "Physical synapses are routinely described by a single number, the weight, that is identified with a conductance, a current, or a luminescence yield. This identification conflates two different objects: the internal state that the device stores, and the signal obtained when that state is read. Building on Chua's formulation of memristive systems, we separate the state variable, which evolves with the excitation history, from the observation map that converts it into a measured signal, and we define the weight as the outcome of a specified read protocol. Three platforms show the consequences: a memristor, in which the same voltage writes and reads; a memlumor, in which light both modifies the state and produces the photoluminescence that reports it; and an organic electrochemical transistor (OECT), in which the gate writes and the channel reads. In the transistor, two states prepared by different histories give the same channel current at a specific drain bias and become distinguishable again when the bias is changed, while the stored charge persists and the gate current continues to separate them. Published experiments provide precedents: a drain-bias-dependent cancellation of the OECT transient, and trapped charges in perovskite memlumors that are invisible to conventional time-resolved photoluminescence but revealed by a read-write-read sequence. A synaptic weight is therefore not a property of the material alone but of the material together with its readout, and reports of synaptic behavior should specify what is stored, what is measured, and how one is inferred from the other.",
-      "score": 8,
-      "priority": 1,
-      "highlights": [
-        "transistor"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“The Weight Is in the Reading: Hidden States in Memristors, Memlumors, and Elect…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“The Weight Is in the Reading: Hidden States in Memristors, Memlumors, and Elect…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: The Weight Is in the Reading: Hidden States in Memristors, Memlumors, and Electrochemical Trans….",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: The Weight Is in the Reading: Hidden States in Memristors, Memlumors, and Electrochemical Trans…."
-    },
-    {
-      "source": "arXiv",
       "uid": "arxiv:2611.15138v1",
       "title": "High-Throughput Surface Screening Reveals Energetically Competitive Low-Symmetry Facets in Wurtzite Semiconductors",
       "url": "https://arxiv.org/abs/2611.15138v1",
@@ -113,95 +193,11 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体、GaN方向，围绕“High-Throughput Surface Screening Reveals Energetically Competitive Low-Symmetr…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看性能提升、可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: 半导体、GaN.\nWhat to check: 性能提升、可靠性与稳定性、功耗或能效表现.\nContext: High-Throughput Surface Screening Reveals Energetically Competitive Low-Symmetry Facets in Wurt….",
       "reading_notes": "Focus: 半导体、GaN.\nWhat to check: 性能提升、可靠性与稳定性、功耗或能效表现.\nContext: High-Throughput Surface Screening Reveals Energetically Competitive Low-Symmetry Facets in Wurt…."
-    },
-    {
-      "source": "Science Advances",
-      "uid": "doi:10.1126/sciadv.aeg8936",
-      "title": "Carrier-free Arg-CpG augments antitumor efficacy by triggering specific immune activation",
-      "url": "https://doi.org/10.1126/sciadv.aeg8936",
-      "published": "2026-11-13",
-      "authors": [
-        "Huishan Li",
-        "Quankun Lin",
-        "Yuexia Xie",
-        "Xiaozhen He",
-        "Shuai Yang",
-        "Yan Zhou",
-        "Xue Zhao",
-        "Xingang Wang",
-        "Yongming Han",
-        "Fangli Cao",
-        "Lu Gan",
-        "Sidi Zhang",
-        "Peifeng Liu"
-      ],
-      "summary": "The delivery of nucleic acids using nonviral vectors represents a promising approach for cancer therapy. Nevertheless, nucleic acid–based drugs suffer from poor potency and rapid degradation. Herein, we report a carrier-free nucleic acid delivery system termed Arg-CpG, which is easily constructed through charge-driven assembly of poly( l -arginine) (Arg) and the immune adjuvant unmethylated cytosine-phosphate-guanine oligonucleotide (CpG). This Arg-CpG functions as both a carrier and a therapeutic agent, thereby eliminating the need for a conventional drug delivery vehicle and minimizing potential toxicity. The guanidinium groups of Arg endow Arg-CpG with dual functionalities: enhancing cellular uptake and serving as the nitrogen donor for iNOS-mediated nitric oxide (NO) generation. This NO production further synergizes with CpG to drive macrophage reprogramming toward an antitumor phenotype. Notably, Arg-CpG exhibits cell-type–dependent modulation of autophagy. It disrupts autophagic machinery in 4T1 tumor cells while preserving functional autophagy in RAW264.7 macrophages. This differential activity results in selective killing of tumor cells without compromising the viability or function of normal immune cells. Consequently, Arg-CpG elicits a robust antitumor immune response in vivo. Moreover, the modular design of Arg-CpG enables its straightforward assembly with CpG oligonucleotides and other nucleic acid payloads (e.g., anti-miR oligonucleotides and siRNA), establishing a versatile and promising platform for nucleic acid–based cancer therapy.",
-      "score": 6,
-      "priority": 1,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Carrier-free Arg-CpG augments antitumor efficacy by triggering specific immune …”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Carrier-free Arg-CpG augments antitumor efficacy by triggering specific immune …”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 可靠性与稳定性.\nContext: Carrier-free Arg-CpG augments antitumor efficacy by triggering specific immune activation.",
-      "reading_notes": "Focus: GaN.\nWhat to check: 可靠性与稳定性.\nContext: Carrier-free Arg-CpG augments antitumor efficacy by triggering specific immune activation."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2611.12651v1",
-      "title": "Neutronic Field-Effect Transistor",
-      "url": "https://arxiv.org/abs/2611.12651v1",
-      "published": "2026-11-10",
-      "authors": [
-        "Dusan Sarenac",
-        "Charles W. Clark",
-        "Owen Lailey",
-        "Muhammad Arif",
-        "Wangchun Chen",
-        "David G. Cory",
-        "Michael G. Huber",
-        "Joachim Nsofini",
-        "Dmitry A. Pushin"
-      ],
-      "summary": "Field-effect electronic devices are in widespread use in communication, computing, data storage, and sensing applications. We demonstrate a neutronic field-effect transistor (NFET) that is analogous to the Datta-Das electron spin transistor and atomtronic devices. The NFET is based on a perfect-crystal Mach-Zehnder neutron interferometer with phase shifts applied to the spin and path degrees of freedom.",
-      "score": 5,
-      "priority": 1,
-      "highlights": [
-        "transistor"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Neutronic Field-Effect Transistor”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Neutronic Field-Effect Transistor”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Neutronic Field-Effect Transistor.",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Neutronic Field-Effect Transistor."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2611.12415v1",
-      "title": "Gate-tunable supercurrent switching in a three-terminal quantum dot transistor",
-      "url": "https://arxiv.org/abs/2611.12415v1",
-      "published": "2026-11-09",
-      "authors": [
-        "David Novák",
-        "Kacper Wrześniewski",
-        "Filip Krizek",
-        "Wolfgang Belzig",
-        "Peter Zalom"
-      ],
-      "summary": "We propose and analyze a three-terminal superconducting transistor switch in which a gate-defined quantum dot region interrupts a flux-controlled loop. The output supercurrent is switched off completely when the two loop arms couple to the dot with equal tunneling strengths and half a flux quantum threads the loop. The device then operates as a symmetric SQUID at half flux. The condition follows from a single geometric factor $χ$, which reduces the three-terminal problem to an equivalent two-terminal Anderson impurity model and makes the switching mechanism independent of the Coulomb interaction, the dot level position, the total hybridization and temperature. These enter only through a prefactor and thus decide how tolerant the device is to imperfect barrier tuning. Numerical renormalization group calculations across the full coupling parameter space show that the resonance is embedded in a broad region of elevated switching ratio at intermediate hybridization $Γ\\approx Δ$, while both weaker and stronger coupling reduce it to a thin isolated line. Finite temperature smooths the underlying singlet-doublet transition and lowers the supercurrent amplitude, but affects the open and closed states comparably and leaves the switching ratio largely intact. Within a zero-bandwidth two-level model, a second dot level is shown to open a leakage channel that grows as the two levels approach in energy. Raising the output barrier and the realistic presence of inter-level Coulomb repulsion, however, suppress the leakage.",
-      "score": 5,
-      "priority": 1,
-      "highlights": [
-        "transistor"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Gate-tunable supercurrent switching in a three-terminal quantum dot transistor”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看效率/耦合表现、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Gate-tunable supercurrent switching in a three-terminal quantum dot transistor”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看效率/耦合表现、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Gate-tunable supercurrent switching in a three-terminal quantum dot transistor.",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Gate-tunable supercurrent switching in a three-terminal quantum dot transistor."
     }
   ],
   "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-11-16T00:30:00+00:00"
+  "generated_at": "2026-11-17T00:30:00+00:00"
 }
