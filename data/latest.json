@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 8,
+  "new_count": 7,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-11-17）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 3 篇\n1. [Applied Physics Letters] Data-driven reassessment of lattice matching in ScAlN/GaN heterostructures grown by sputter…\n   关键词：epitaxy, GaN\n   日期：2026-11-16\n   Authors: Atsushi Kobayashi, Takuya Maeda, Thai-Son Nguyen 等\n   https://doi.org/10.1063/5.0345218\n2. [Applied Physics Letters] Investigation of single-event burnout mechanism in p-GaN gate HEMTs\n   关键词：GaN\n   日期：2026-11-16\n   Authors: Dongyang Wang, Mingmin Huang, Qimeng Jiang 等\n   https://doi.org/10.1063/5.0345096\n3. [arXiv] Epitaxial integration of GaN $μ$-platelets and thin films on metallic TiN using a hybrid ap…\n   关键词：GaN\n   日期：2026-11-13\n   Authors: Philipp M. John, Thomas Auzelle, Pierre-Marie Coulon 等\n   https://arxiv.org/abs/2611.17986v1\n4. [Applied Physics Letters] IGZO optoelectronic synaptic transistor for neuromorphic vision and motion tracking applica…\n   关键词：transistor\n   日期：2026-11-16\n   Authors: Manoj Kumar Rajbhar, Dhananjay D. Kumbhar, Serhii Tytov 等\n   https://doi.org/10.1063/5.0353000\n5. [Nature Electronics] Mixed-dimensional complementary metal–oxide–semiconductor technology for high-performance i…\n   关键词：semiconductor\n   日期：2026-11-16\n   https://www.nature.com/articles/s41928-026-01737-7\n6. [Applied Physics Letters] Effect of TiN deposition temperature on fully ALD TiN/high- <i>κ</i> HZO/TiN stack properti…\n   关键词：deposition\n   日期：2026-11-16\n   Authors: Boping Wang, Yang Yang, Xueyang Peng 等\n   https://doi.org/10.1063/5.0318493\n7. [Applied Physics Letters] Polymorphic polar nanoregions-induced giant capacitive energy storage in lead-free high-ent…\n   关键词：ferroelectric\n   日期：2026-11-16\n   Authors: Xiangfu Zeng, Liang Cao, Ji Zhang 等\n   https://doi.org/10.1063/5.0362607\n8. [arXiv] A charge-dependent electron emission yield from electron irradiated dielectrics\n   关键词：dielectric\n   日期：2026-11-14\n   Authors: M. Belhaj, A. M. Cavalca de Almeida, N. Fil\n   https://arxiv.org/abs/2611.18486v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-11-18）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 7 篇；Intel/TSMC 重点 0 篇；GaN 关键词 1 篇\n1. [Applied Physics Letters] Irradiation-hardened p-GaN HEMTs achieving &amp;gt;500 V single-event burnout hardness at 8…\n   关键词：GaN\n   日期：2026-11-16\n   Authors: Ga Zhang, Shenglei Zhao, Xiufeng Song 等\n   https://doi.org/10.1063/5.0343694\n2. [arXiv] Surrogate-Assisted Compact-Model Extraction for SKY130 CMOS at 77 K\n   关键词：CMOS\n   日期：2026-11-17\n   Authors: Aaron Wang, Olivia Gzamouranis, Vaibhav Lohia 等\n   https://arxiv.org/abs/2611.21594v1\n3. [arXiv] Rashba Effect and Type-III Broken-Gap Band Alignment in MoTe$_2$/HfS$_2$ van der Waals Hete…\n   关键词：transistor\n   日期：2026-11-16\n   Authors: Daniel S. Lopes, Bruno P. e Silva, Diego R. da Costa 等\n   https://arxiv.org/abs/2611.20491v1\n4. [arXiv] Field-Effect Magnon Transistor\n   关键词：transistor\n   日期：2026-11-15\n   Authors: Qian Song, Sergei Prokhorenko, Thomas Cleveland 等\n   https://arxiv.org/abs/2611.19582v1\n5. [Applied Physics Letters] Pseudomorphic SiGe/GeSn superlattices grown by molecular beam epitaxy on Ge(100)\n   关键词：epitaxy\n   日期：2026-11-16\n   Authors: Allison M. McMinn, Tyler T. McCarthy, Hryhorii Stanchu 等\n   https://doi.org/10.1063/5.0349294\n6. [arXiv] Porosification of the dielectric layer in alternating-current electroluminescence devices e…\n   关键词：dielectric\n   日期：2026-11-14\n   Authors: Mingwei Gu, Licheng Li, Zeyuan Zhou 等\n   https://arxiv.org/abs/2611.19384v1\n7. [arXiv] Energy spectrum of trions in semiconductors\n   关键词：semiconductor\n   日期：2026-11-17\n   Authors: Pavel A. Belov, Lucas Happ, Stefan Scheel 等\n   https://arxiv.org/abs/2611.21475v1",
   "papers": [
     {
       "source": "Applied Physics Letters",
@@ -29,6 +29,36 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注epitaxy、GaN方向，围绕“Data-driven reassessment of lattice matching in ScAlN/GaN heterostructures grow…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: epitaxy、GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Data-driven reassessment of lattice matching in ScAlN/GaN heterostructures grown by sputter epi….",
       "reading_notes": "Focus: epitaxy、GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Data-driven reassessment of lattice matching in ScAlN/GaN heterostructures grown by sputter epi…."
+    },
+    {
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0343694",
+      "title": "Irradiation-hardened p-GaN HEMTs achieving &amp;gt;500 V single-event burnout hardness at 82.06 MeV cm2/mg",
+      "url": "https://doi.org/10.1063/5.0343694",
+      "published": "2026-11-16",
+      "authors": [
+        "Ga Zhang",
+        "Shenglei Zhao",
+        "Xiufeng Song",
+        "Chao Duan",
+        "Zhongxu Wang",
+        "Zhaoxi Wu",
+        "Qifei Yuan",
+        "Linhuan Gao",
+        "Shuzhen You",
+        "Yue Hao",
+        "Jincheng Zhang"
+      ],
+      "summary": "This work presents a single-event radiation-hardened p-GaN gate high electron mobility transistor with a grounded Schottky contact (GSC-HEMT). A Schottky contact connected to the source electrode is fabricated on the barrier layer between the gate and drain terminals. Under Ta ion irradiation with a linear energy transfer of 82.06 MeV cm2/mg, the GSC-HEMT exhibits a significantly enhanced single-event burnout (SEB) voltage of over 500 V, demonstrating excellent SEB tolerance. In the conventional p-GaN HEMT, irradiation-induced holes accumulate beneath the gate region, resulting in a larger local electric field and increased gate leakage current. The proposed GSC-HEMT is capable of rapidly collecting irradiation-induced holes through its grounded Schottky contact. This structure can effectively suppress the massive accumulation of positive charges under the gate and within the buffer layer, thereby improving the radiation tolerance of the device. The designed device demonstrates great application prospects in aerospace electronics.",
+      "score": 11,
+      "priority": 2,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Irradiation-hardened p-GaN HEMTs achieving &amp;gt;500 V single-event burnout h…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Irradiation-hardened p-GaN HEMTs achieving &amp;gt;500 V single-event burnout h…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、功耗或能效表现.\nContext: Irradiation-hardened p-GaN HEMTs achieving &amp;gt;500 V single-event burnout hardness at 82.06….",
+      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、功耗或能效表现.\nContext: Irradiation-hardened p-GaN HEMTs achieving &amp;gt;500 V single-event burnout hardness at 82.06…."
     },
     {
       "source": "Applied Physics Letters",
@@ -85,6 +115,34 @@
       "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现、与既有工艺平台的集成价值.\nContext: Epitaxial integration of GaN $μ$-platelets and thin films on metallic TiN using a hybrid approa…."
     },
     {
+      "source": "arXiv",
+      "uid": "arxiv:2611.21594v1",
+      "title": "Surrogate-Assisted Compact-Model Extraction for SKY130 CMOS at 77 K",
+      "url": "https://arxiv.org/abs/2611.21594v1",
+      "published": "2026-11-17",
+      "authors": [
+        "Aaron Wang",
+        "Olivia Gzamouranis",
+        "Vaibhav Lohia",
+        "Hershel Fei Xun Weiner",
+        "Olivia Seidel",
+        "Richard Cavanaugh",
+        "Giuseppe Di Guglielmo",
+        "Nhan Tran",
+        "Davide Braga"
+      ],
+      "summary": "Cryogenic circuit design requires compact transistor models that reproduce measured low-temperature behavior and run in standard circuit simulators. We fit BSIM4 parameters to measured I-V curves of SkyWater 130 nm (SKY130) transistors at 77 K using a neural surrogate of NGSpice. The surrogate maps compact-model parameters and device geometry to the complete set of output and transfer characteristics. Extraction is a bounded least-squares search: a bank of NGSpice simulations supplies initial candidates, finite differences of the surrogate supply the local Jacobian, and NGSpice re-simulates the resulting cards before selection. On 18 measured geometries, we compare a search over seven card parameters with a search over 43 parameters selected by NGSpice sensitivity. Relative to NGSpice re-simulations of the previously released cards, the two searches reduce the in-sample mean relative root-mean-square error (RRMS) by 17% and 26%, respectively. The 43-parameter search has the lower overall error, but the seven-parameter search has the lower mean on high-bias curves, and some individual curves have higher error than with the released cards under both searches.",
+      "score": 11,
+      "priority": 1,
+      "highlights": [
+        "CMOS"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS方向，围绕“Surrogate-Assisted Compact-Model Extraction for SKY130 CMOS at 77 K”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS方向，围绕“Surrogate-Assisted Compact-Model Extraction for SKY130 CMOS at 77 K”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Surrogate-Assisted Compact-Model Extraction for SKY130 CMOS at 77 K.",
+      "reading_notes": "Focus: CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Surrogate-Assisted Compact-Model Extraction for SKY130 CMOS at 77 K."
+    },
+    {
       "source": "Applied Physics Letters",
       "uid": "doi:10.1063/5.0353000",
       "title": "IGZO optoelectronic synaptic transistor for neuromorphic vision and motion tracking applications",
@@ -135,69 +193,35 @@
       "reading_notes": "Focus: 半导体、GaN.\nWhat to check: 性能提升、功耗或能效表现.\nContext: Distilling an atomistic foundation model is all you need for large-scale molecular dynamics of …."
     },
     {
-      "source": "Nature Electronics",
-      "uid": "Nature Electronics:10.1038/s41928-026-01733-x",
-      "title": "Designing additives for perovskite transistors using molecular polarity as a guide",
-      "url": "https://www.nature.com/articles/s41928-026-01733-x",
-      "published": "2026-11-11",
-      "authors": [],
-      "summary": "Nature Electronics, Published online: 11 November 2026; doi:10.1038/s41928-026-01733-x Molecular polarity can be used as a predictive descriptor to screen potential additives for halide perovskite lattices, allowing robust and high-performance tin-based perovskite transistors to be created.",
-      "score": 8,
-      "priority": 1,
-      "highlights": [
-        "transistor"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Designing additives for perovskite transistors using molecular polarity as a gu…”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Designing additives for perovskite transistors using molecular polarity as a gu…”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看性能提升、可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Designing additives for perovskite transistors using molecular polarity as a guide.",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、可靠性与稳定性.\nContext: Designing additives for perovskite transistors using molecular polarity as a guide."
-    },
-    {
-      "source": "Nature Electronics",
-      "uid": "Nature Electronics:10.1038/s41928-026-01732-y",
-      "title": "A high-polarity molecular-anchor design for stable high-mobility perovskite transistors",
-      "url": "https://www.nature.com/articles/s41928-026-01732-y",
-      "published": "2026-11-11",
-      "authors": [],
-      "summary": "Nature Electronics, Published online: 11 November 2026; doi:10.1038/s41928-026-01732-y Molecular polarity can be used to guide the rational and targeted design of additives that suppress ion migration in metal halide perovskite transistors, leading to mobilities of over 40 cm2 V−1 s−1 and stabilities of over 9,000 on/off cycles.",
-      "score": 8,
-      "priority": 1,
-      "highlights": [
-        "transistor"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“A high-polarity molecular-anchor design for stable high-mobility perovskite tra…”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“A high-polarity molecular-anchor design for stable high-mobility perovskite tra…”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 可靠性与稳定性.\nContext: A high-polarity molecular-anchor design for stable high-mobility perovskite transistors.",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 可靠性与稳定性.\nContext: A high-polarity molecular-anchor design for stable high-mobility perovskite transistors."
-    },
-    {
       "source": "arXiv",
-      "uid": "arxiv:2611.15138v1",
-      "title": "High-Throughput Surface Screening Reveals Energetically Competitive Low-Symmetry Facets in Wurtzite Semiconductors",
-      "url": "https://arxiv.org/abs/2611.15138v1",
-      "published": "2026-11-11",
+      "uid": "arxiv:2611.20491v1",
+      "title": "Rashba Effect and Type-III Broken-Gap Band Alignment in MoTe$_2$/HfS$_2$ van der Waals Heterostructures for Tunnel Field-Effect Transistors",
+      "url": "https://arxiv.org/abs/2611.20491v1",
+      "published": "2026-11-16",
       "authors": [
-        "Gustavo Madrigal",
-        "Cibrán López",
-        "Jordi Llorca",
-        "Claudio Cazorla"
+        "Daniel S. Lopes",
+        "Bruno P. e Silva",
+        "Diego R. da Costa",
+        "Alexandre C. Dias",
+        "Rodrigo G. Amorim",
+        "Teldo A. S. Pereira",
+        "Jeanlex S. de Sousa"
       ],
-      "summary": "Surfaces and interfaces govern the performance of wurtzite semiconductors in electronics, sensing, and solar-fuel conversion. To date, first-principles studies have focused mostly on high-symmetry low-index facets, owing to the computational cost and complexity of modelling low-symmetry high-index surfaces. In practice, however, surface formation energy is determined by the planar atomic density and the strength of the bonds severed upon cleavage, neither of which inherently excludes high-Miller-index surfaces from being energetically competitive. Here, we combine automated surface generation, machine-learning interatomic potential screening, and density functional theory to explore 226 clean, stoichiometric surface models of wurtzite GaN, LaN, and ZnO, spanning all Miller orientations with $|h|,|k|,|l| \\le 3$ and their inequivalent terminations. We find that low-symmetry high-index prismatic facets are energetically competitive with respect to the conventional $m$- and $a$-planes: nine of the fifteen lowest-energy nonpolar surfaces are high-index, and the five best candidates of each compound lie within only 2.5-5.3% of the minimum surface energy. Hybrid-functional calculations reveal, however, that this energetic proximity does not translate into similar electronic alignment. In GaN, the two most stable surfaces differ by just 0.08 J m$^{-2}$ in formation energy but by almost 0.8 eV in vacuum-referenced band-edge positions, whereas in LaN the nearly degenerate $m$- and $a$-planes are separated by 0.16 eV. Wurtzite facets with similar formation energies may therefore exhibit very different ionization potentials and electron affinities. Our results enable the joint, systematic assessment of stability and band alignment across the facets that can actually occur in wurtzites, and provide a map of candidate surfaces for the rational design of related nanostructure and heterointerfaces.",
-      "score": 7,
+      "summary": "Two-dimensional van der Waals heterostructures (vdWHs) based on transition metal dichalcogenides (TMDs) have emerged as promising platforms for next-generation low-power electronics and spintronics. Here, we investigate the structural, electronic, and spin properties of MoTe$_2$/HfS$_2$ vdWHs using first-principles density functional theory calculations. Our results reveal an intrinsic type-III (broken-gap) band alignment, making this heterostructure highly attractive for tunnel field-effect transistor (TFET) applications. In addition, inversion-symmetry breaking at the interface, combined with strong spin-orbit coupling, induces a pronounced Rashba spin splitting around the $Γ$ point, accompanied by characteristic helical spin textures. We further show that external vertical electric fields, twist engineering, and both out-of-plane and in-plane strain provide efficient means to tune the band alignment, charge transfer, and Rashba parameters. In particular, electric fields and mechanical strain can drive reversible transitions between type-II and type-III band alignments while simultaneously modifying the Rashba spin texture and the band-to-band tunneling (BTBT) window. The twisted heterostructure with $θ= 21.79^\\circ$ exhibits similar tunability, including strain-induced transitions between distinct band-alignment regimes. These findings establish MoTe$_2$/HfS$_2$ vdWHs as versatile multifunctional platforms combining electrically tunable Rashba spin splitting with controllable type-II/type-III band alignment, offering promising opportunities for next-generation TFETs and spintronic devices.",
+      "score": 8,
       "priority": 1,
       "highlights": [
-        "semiconductor",
-        "GaN"
+        "transistor"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体、GaN方向，围绕“High-Throughput Surface Screening Reveals Energetically Competitive Low-Symmetr…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看性能提升、可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体、GaN方向，围绕“High-Throughput Surface Screening Reveals Energetically Competitive Low-Symmetr…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看性能提升、可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 半导体、GaN.\nWhat to check: 性能提升、可靠性与稳定性、功耗或能效表现.\nContext: High-Throughput Surface Screening Reveals Energetically Competitive Low-Symmetry Facets in Wurt….",
-      "reading_notes": "Focus: 半导体、GaN.\nWhat to check: 性能提升、可靠性与稳定性、功耗或能效表现.\nContext: High-Throughput Surface Screening Reveals Energetically Competitive Low-Symmetry Facets in Wurt…."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Rashba Effect and Type-III Broken-Gap Band Alignment in MoTe$_2$/HfS$_2$ van de…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Rashba Effect and Type-III Broken-Gap Band Alignment in MoTe$_2$/HfS$_2$ van de…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 效率/耦合表现.\nContext: Rashba Effect and Type-III Broken-Gap Band Alignment in MoTe$_2$/HfS$_2$ van der Waals Heterost….",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 效率/耦合表现.\nContext: Rashba Effect and Type-III Broken-Gap Band Alignment in MoTe$_2$/HfS$_2$ van der Waals Heterost…."
     }
   ],
   "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-11-17T00:30:00+00:00"
+  "generated_at": "2026-11-18T00:30:00+00:00"
 }
