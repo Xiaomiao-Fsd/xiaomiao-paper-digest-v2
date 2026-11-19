@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 7,
+  "new_count": 10,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-11-18）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 7 篇；Intel/TSMC 重点 0 篇；GaN 关键词 1 篇\n1. [Applied Physics Letters] Irradiation-hardened p-GaN HEMTs achieving &amp;gt;500 V single-event burnout hardness at 8…\n   关键词：GaN\n   日期：2026-11-16\n   Authors: Ga Zhang, Shenglei Zhao, Xiufeng Song 等\n   https://doi.org/10.1063/5.0343694\n2. [arXiv] Surrogate-Assisted Compact-Model Extraction for SKY130 CMOS at 77 K\n   关键词：CMOS\n   日期：2026-11-17\n   Authors: Aaron Wang, Olivia Gzamouranis, Vaibhav Lohia 等\n   https://arxiv.org/abs/2611.21594v1\n3. [arXiv] Rashba Effect and Type-III Broken-Gap Band Alignment in MoTe$_2$/HfS$_2$ van der Waals Hete…\n   关键词：transistor\n   日期：2026-11-16\n   Authors: Daniel S. Lopes, Bruno P. e Silva, Diego R. da Costa 等\n   https://arxiv.org/abs/2611.20491v1\n4. [arXiv] Field-Effect Magnon Transistor\n   关键词：transistor\n   日期：2026-11-15\n   Authors: Qian Song, Sergei Prokhorenko, Thomas Cleveland 等\n   https://arxiv.org/abs/2611.19582v1\n5. [Applied Physics Letters] Pseudomorphic SiGe/GeSn superlattices grown by molecular beam epitaxy on Ge(100)\n   关键词：epitaxy\n   日期：2026-11-16\n   Authors: Allison M. McMinn, Tyler T. McCarthy, Hryhorii Stanchu 等\n   https://doi.org/10.1063/5.0349294\n6. [arXiv] Porosification of the dielectric layer in alternating-current electroluminescence devices e…\n   关键词：dielectric\n   日期：2026-11-14\n   Authors: Mingwei Gu, Licheng Li, Zeyuan Zhou 等\n   https://arxiv.org/abs/2611.19384v1\n7. [arXiv] Energy spectrum of trions in semiconductors\n   关键词：semiconductor\n   日期：2026-11-17\n   Authors: Pavel A. Belov, Lucas Happ, Stefan Scheel 等\n   https://arxiv.org/abs/2611.21475v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-11-19）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 3 篇\n1. [Applied Physics Letters] High-field electron transport in <b> <i>β</i> </b> -Ga2O3 MOSFETs: Insights from electrolum…\n   关键词：MOSFET, GaN\n   日期：2026-11-16\n   Authors: Anjali Anjali, James Pomeroy, Masataka Higashiwaki 等\n   https://doi.org/10.1063/5.0355409\n2. [Applied Physics Letters] High-temperature operation of N-polar GaN/AlN HEMTs\n   关键词：GaN\n   日期：2026-11-16\n   Authors: F. Yamanaka, A. H. Zazuli, T. Kimoto 等\n   https://doi.org/10.1063/5.0327502\n3. [Applied Physics Letters] Resolving the origin of electron-beam benchmarking bias in GaN betavoltaic cells\n   关键词：GaN\n   日期：2026-11-16\n   Authors: Houjun He, Qian Yang, Qinghao Zhang 等\n   https://doi.org/10.1063/5.0361407\n4. [arXiv] Performance limits and benchmarking of ideal 2D topological insulator field-effect transist…\n   关键词：transistor\n   日期：2026-11-17\n   Authors: Yosep Park, Jaeyoung Eom, Yeonghun Lee\n   https://arxiv.org/abs/2611.22779v1\n5. [Applied Physics Letters] Ultrathin AlScN on scandium grown directly on sapphire and silicon wafers\n   日期：2026-11-16\n   Authors: Chloe Leblanc, Zekun Hu, Pedram Yousefian 等\n   https://doi.org/10.1063/5.0345015\n6. [arXiv] Optical characterization of Fermi polarons in monolayer MoSe$_2$ encapsulated in amorphous …\n   日期：2026-11-17\n   Authors: Christos Paspalides, Brendan C. Mulkerin, Rafael Luque Merino 等\n   https://arxiv.org/abs/2611.21931v1\n7. [Science Advances] Steering nanometric reductive-oxidative Fenton-like cycle for PFAS mineralization\n   日期：2026-11-20\n   Authors: Yichuan Wang, Jianfeng Zheng, Xinchun Ye 等\n   https://doi.org/10.1126/sciadv.aei3786\n8. [arXiv] Assessment of electric-field-induced forces for bulk solids within the projector-augmented …\n   日期：2026-11-17\n   Authors: Peitao Liu, Martijn Marsman, Georg Kresse 等\n   https://arxiv.org/abs/2611.22400v1",
   "papers": [
     {
       "source": "Applied Physics Letters",
@@ -29,6 +29,62 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注epitaxy、GaN方向，围绕“Data-driven reassessment of lattice matching in ScAlN/GaN heterostructures grow…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: epitaxy、GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Data-driven reassessment of lattice matching in ScAlN/GaN heterostructures grown by sputter epi….",
       "reading_notes": "Focus: epitaxy、GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Data-driven reassessment of lattice matching in ScAlN/GaN heterostructures grown by sputter epi…."
+    },
+    {
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0355409",
+      "title": "High-field electron transport in <b> <i>β</i> </b> -Ga2O3 MOSFETs: Insights from electroluminescence",
+      "url": "https://doi.org/10.1063/5.0355409",
+      "published": "2026-11-16",
+      "authors": [
+        "Anjali Anjali",
+        "James Pomeroy",
+        "Masataka Higashiwaki",
+        "Martin Kuball"
+      ],
+      "summary": "Electroluminescence (EL) was used to study high-field electron transport in β-Ga2O3 MOSFETs. Electron temperatures as high as ∼3355 K were determined in the saturation regime, comparable to those observed in GaN, despite the relatively low mobility of β-Ga2O3. The dependence of electron temperature on baseplate temperature and applied bias is consistent with velocity saturation occurring above a drain bias of ∼60 V. A saturation velocity for Ga2O3 was extracted based on the EL-measured electron temperature and found to be similar to that of GaN. The high saturated electron velocity of Ga2O3 supports its potential suitability for scaled microwave electronics operating under high-bias conditions, despite its relatively low electron mobility.",
+      "score": 12,
+      "priority": 2,
+      "highlights": [
+        "MOSFET",
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、GaN方向，围绕“High-field electron transport in <b> <i>β</i> </b> -Ga2O3 MOSFETs: Insights fro…”展开。摘要显示，文章重点涉及电学/光学表征与测试结果，建议阅读时优先查看先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、GaN方向，围绕“High-field electron transport in <b> <i>β</i> </b> -Ga2O3 MOSFETs: Insights fro…”展开。摘要显示，文章重点涉及电学/光学表征与测试结果，建议阅读时优先查看先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: MOSFET、GaN.\nWhat to check: 先进尺度下的可扩展性.\nContext: High-field electron transport in <b> <i>β</i> </b> -Ga2O3 MOSFETs: Insights from electrolumines….",
+      "reading_notes": "Focus: MOSFET、GaN.\nWhat to check: 先进尺度下的可扩展性.\nContext: High-field electron transport in <b> <i>β</i> </b> -Ga2O3 MOSFETs: Insights from electrolumines…."
+    },
+    {
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0327502",
+      "title": "High-temperature operation of N-polar GaN/AlN HEMTs",
+      "url": "https://doi.org/10.1063/5.0327502",
+      "published": "2026-11-16",
+      "authors": [
+        "F. Yamanaka",
+        "A. H. Zazuli",
+        "T. Kimoto",
+        "R. Ninoki",
+        "A. Hayashiuchi",
+        "H. Danbata",
+        "N. Hirata",
+        "S. Kurai",
+        "N. Okada",
+        "M. Hiroki",
+        "K. Hirama",
+        "Y. Taniyasu",
+        "Y. Yamada"
+      ],
+      "summary": "Gallium nitride (GaN)-based high-electron-mobility transistors (HEMTs), which employ GaN as the active material, are expected to exhibit high breakdown voltages and high electron saturation velocities. Extensive research and development efforts are currently being conducted to further enhance their performance. One of the major challenges for GaN HEMTs lies in maintaining stable operation under high-temperature conditions. Therefore, further investigation into HEMT structures capable of withstanding higher breakdown voltages and offering improved thermal stability is required. To address this issue, we have focused on an N-polar GaN/AlGaN/AlN HEMT, which utilizes AlN—a material with approximately twice the bandgap energy of GaN and superior thermal conductivity—as a buffer layer. This structure is expected to provide a higher breakdown voltage and improved high-temperature performance than the conventional Ga-polar AlGaN/GaN HEMT. In this study, we evaluated the temperature-dependent characteristics of N-polar GaN/AlGaN/AlN HEMTs over a temperature range from room temperature to 800 °C in order to investigate the high-temperature operation. As a result, the N-polar GaN/AlGaN/AlN HEMT exhibited stable DC characteristics up to 600 °C, demonstrating superior high-temperature operation compared with the conventional AlGaN/GaN HEMT.",
+      "score": 11,
+      "priority": 2,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“High-temperature operation of N-polar GaN/AlN HEMTs”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看性能提升、可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“High-temperature operation of N-polar GaN/AlN HEMTs”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看性能提升、可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性、功耗或能效表现.\nContext: High-temperature operation of N-polar GaN/AlN HEMTs.",
+      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性、功耗或能效表现.\nContext: High-temperature operation of N-polar GaN/AlN HEMTs."
     },
     {
       "source": "Applied Physics Letters",
@@ -59,6 +115,34 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Irradiation-hardened p-GaN HEMTs achieving &amp;gt;500 V single-event burnout h…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、功耗或能效表现.\nContext: Irradiation-hardened p-GaN HEMTs achieving &amp;gt;500 V single-event burnout hardness at 82.06….",
       "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、功耗或能效表现.\nContext: Irradiation-hardened p-GaN HEMTs achieving &amp;gt;500 V single-event burnout hardness at 82.06…."
+    },
+    {
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0361407",
+      "title": "Resolving the origin of electron-beam benchmarking bias in GaN betavoltaic cells",
+      "url": "https://doi.org/10.1063/5.0361407",
+      "published": "2026-11-16",
+      "authors": [
+        "Houjun He",
+        "Qian Yang",
+        "Qinghao Zhang",
+        "Jing Yang",
+        "Degang Zhao",
+        "Feng Liang",
+        "Yuheng Zhang",
+        "Weihang Huang",
+        "Yuncheng Han"
+      ],
+      "summary": "Electron-beam excitation is widely used as a surrogate benchmark for evaluating radioisotope-driven betavoltaic converters, yet its equivalence to realistic radioactive-source operation remains uncertain. Here, we investigate a GaN p-i-n betavoltaic cell under 63Ni irradiation and 17.4-keV electron-beam excitation and establish a quantitative framework linking source energy delivery, carrier collection, and junction output. At 5 mCi/cm2, the device exhibits an overall conversion efficiency of 1.35% under 63Ni irradiation and 6.47% under electron-beam excitation, corresponding to a 4.79-fold efficiency ratio (a 379% relative benchmarking overestimation). This benchmarking bias is quantitatively reconstructed by three multiplicative factors: deposited-energy utilization (2.49), charge collection (1.50), and junction output (1.29). The deposited-energy difference is dominated by source-side self-absorption and substrate absorption, whereas the charge-collection difference arises from the spatial mismatch between the radiation deposition profile and the effective carrier-collection region. A deposition–collection matching factor M is introduced to quantify this coupling. Structure-dependent simulations demonstrate that the benchmarking bias is governed by the effective collection width rather than the excitation source alone. Effective collection region engineering increases the overall conversion efficiency of the cell under 63Ni irradiation to 4.52%, and complementary source engineering can further increase this overall conversion efficiency to 8.10% by raising the 63Ni source efficiency. These results provide a quantitative basis for interpreting electron-beam benchmarking bias and for coordinated optimization of the converter and radioactive source in practical 63Ni betavoltaic systems.",
+      "score": 9,
+      "priority": 2,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Resolving the origin of electron-beam benchmarking bias in GaN betavoltaic cells”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看效率/耦合表现、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Resolving the origin of electron-beam benchmarking bias in GaN betavoltaic cells”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看效率/耦合表现、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Resolving the origin of electron-beam benchmarking bias in GaN betavoltaic cells.",
+      "reading_notes": "Focus: GaN.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Resolving the origin of electron-beam benchmarking bias in GaN betavoltaic cells."
     },
     {
       "source": "Applied Physics Letters",
@@ -141,87 +225,11 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS方向，围绕“Surrogate-Assisted Compact-Model Extraction for SKY130 CMOS at 77 K”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Surrogate-Assisted Compact-Model Extraction for SKY130 CMOS at 77 K.",
       "reading_notes": "Focus: CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Surrogate-Assisted Compact-Model Extraction for SKY130 CMOS at 77 K."
-    },
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0353000",
-      "title": "IGZO optoelectronic synaptic transistor for neuromorphic vision and motion tracking applications",
-      "url": "https://doi.org/10.1063/5.0353000",
-      "published": "2026-11-16",
-      "authors": [
-        "Manoj Kumar Rajbhar",
-        "Dhananjay D. Kumbhar",
-        "Serhii Tytov",
-        "Dayanand Kumar",
-        "Nazek El-Atab"
-      ],
-      "summary": "Neuromorphic vision systems that integrate optical sensing, memory, and information processing are promising candidates for overcoming the energy and bandwidth limitations of conventional von Neumann architectures. Here, we report an indium gallium zinc oxide (IGZO) optoelectronic synaptic transistor for neuromorphic vision and motion tracking applications. The fabricated device exhibits excellent electrical performance, including a high on/off current ratio of ∼1.06 × 108, a low subthreshold swing of 110.58 mV/dec, and a field-effect mobility of 1.52 cm2 V−1 s−1. Under 405 nm optical stimulation, the transistor successfully emulates essential biological synaptic behaviors, including intensity- and time-dependent synaptic plasticity, paired-pulse facilitation, short-term to long-term memory transition, and learning-forgetting-relearning characteristics, while operating with a low energy consumption of approximately 6.75 pJ per synaptic event. Photoluminescence and x-ray photoelectron spectroscopy analyses reveal that oxygen-vacancy-related defect states induce carrier trapping and persistent photoconductivity, providing the physical mechanism responsible for the observed optoelectronic synaptic behavior. To demonstrate its practical applicability, a hardware–software co-designed neuromorphic vision framework employing a 128 × 64 IGZO synaptic transistor array model experimentally calibrated using measured devices' optoelectronic characteristics was simulated for real-time motion detection and vehicle tracking. The proposed system achieved a pixel localization accuracy of 94.8% through hardware-aware spatiotemporal preprocessing, significantly reducing redundant data transmission and computational overhead. These results demonstrate the potential of IGZO optoelectronic synaptic transistors as an energy-efficient platform for intelligent visual perception, edge artificial intelligence, and next-generation in-sensor neuromorphic computing.",
-      "score": 11,
-      "priority": 1,
-      "highlights": [
-        "transistor"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“IGZO optoelectronic synaptic transistor for neuromorphic vision and motion trac…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“IGZO optoelectronic synaptic transistor for neuromorphic vision and motion trac…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、功耗或能效表现.\nContext: IGZO optoelectronic synaptic transistor for neuromorphic vision and motion tracking applications.",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、功耗或能效表现.\nContext: IGZO optoelectronic synaptic transistor for neuromorphic vision and motion tracking applications."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2611.14948v1",
-      "title": "Distilling an atomistic foundation model is all you need for large-scale molecular dynamics of semiconductor interfaces",
-      "url": "https://arxiv.org/abs/2611.14948v1",
-      "published": "2026-11-11",
-      "authors": [
-        "Feiyu Zhou",
-        "Wei Qiu",
-        "Fei Shuang",
-        "Yilun Liu",
-        "Shengying Yue",
-        "Penghua Ying"
-      ],
-      "summary": "State-of-the-art atomistic foundation models provide broadly transferable energy and force predictions, but their direct deployment in large-scale molecular dynamics remains computationally costly. Here we examine whether their knowledge can be distilled into compact potentials while retaining the physical responses of heterogeneous semiconductor interfaces. From 128 pretrained models spanning 22 model families, we select a fixed EquiformerV3 teacher and train atomic cluster expansion (ACE) and neuroevolution potential (NEP) students without target-specific teacher fine-tuning, with both simulation speed and accessible system size improved by several orders of magnitude relative to the teacher model. Matched training configurations and architectures enable direct comparisons with students trained on density-functional-theory (DFT) reference labels. For 79,920-atom BAs/GaN interfaces, direct distillation preserves termination-dependent thermal conductance and dominant spectral features, with conductance differing by at most 6.6% from DFT-trained counterparts. In 29,792-atom Cu/diamond specimens loaded at 500 K, tensile strength and loading work differ by 2.8% and 1.5%, respectively. Exploratory SiC/a-C/SiC simulations retain the principal thermal bottleneck and the direction of the annealing response. Furthermore, a four-model committee retrieves 42-56% of the highest-error teacher configurations with a 10% selection budget and improves high-error force fitting, but does not consistently improve downstream properties. These findings demonstrate that direct distillation can preserve key interfacial thermal and mechanical responses in compact interatomic potentials, opening a path towards large-scale, high-throughput simulations of heterogeneous interfaces.",
-      "score": 9,
-      "priority": 1,
-      "highlights": [
-        "semiconductor",
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体、GaN方向，围绕“Distilling an atomistic foundation model is all you need for large-scale molecu…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看性能提升、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体、GaN方向，围绕“Distilling an atomistic foundation model is all you need for large-scale molecu…”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看性能提升、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 半导体、GaN.\nWhat to check: 性能提升、功耗或能效表现.\nContext: Distilling an atomistic foundation model is all you need for large-scale molecular dynamics of ….",
-      "reading_notes": "Focus: 半导体、GaN.\nWhat to check: 性能提升、功耗或能效表现.\nContext: Distilling an atomistic foundation model is all you need for large-scale molecular dynamics of …."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2611.20491v1",
-      "title": "Rashba Effect and Type-III Broken-Gap Band Alignment in MoTe$_2$/HfS$_2$ van der Waals Heterostructures for Tunnel Field-Effect Transistors",
-      "url": "https://arxiv.org/abs/2611.20491v1",
-      "published": "2026-11-16",
-      "authors": [
-        "Daniel S. Lopes",
-        "Bruno P. e Silva",
-        "Diego R. da Costa",
-        "Alexandre C. Dias",
-        "Rodrigo G. Amorim",
-        "Teldo A. S. Pereira",
-        "Jeanlex S. de Sousa"
-      ],
-      "summary": "Two-dimensional van der Waals heterostructures (vdWHs) based on transition metal dichalcogenides (TMDs) have emerged as promising platforms for next-generation low-power electronics and spintronics. Here, we investigate the structural, electronic, and spin properties of MoTe$_2$/HfS$_2$ vdWHs using first-principles density functional theory calculations. Our results reveal an intrinsic type-III (broken-gap) band alignment, making this heterostructure highly attractive for tunnel field-effect transistor (TFET) applications. In addition, inversion-symmetry breaking at the interface, combined with strong spin-orbit coupling, induces a pronounced Rashba spin splitting around the $Γ$ point, accompanied by characteristic helical spin textures. We further show that external vertical electric fields, twist engineering, and both out-of-plane and in-plane strain provide efficient means to tune the band alignment, charge transfer, and Rashba parameters. In particular, electric fields and mechanical strain can drive reversible transitions between type-II and type-III band alignments while simultaneously modifying the Rashba spin texture and the band-to-band tunneling (BTBT) window. The twisted heterostructure with $θ= 21.79^\\circ$ exhibits similar tunability, including strain-induced transitions between distinct band-alignment regimes. These findings establish MoTe$_2$/HfS$_2$ vdWHs as versatile multifunctional platforms combining electrically tunable Rashba spin splitting with controllable type-II/type-III band alignment, offering promising opportunities for next-generation TFETs and spintronic devices.",
-      "score": 8,
-      "priority": 1,
-      "highlights": [
-        "transistor"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Rashba Effect and Type-III Broken-Gap Band Alignment in MoTe$_2$/HfS$_2$ van de…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Rashba Effect and Type-III Broken-Gap Band Alignment in MoTe$_2$/HfS$_2$ van de…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 效率/耦合表现.\nContext: Rashba Effect and Type-III Broken-Gap Band Alignment in MoTe$_2$/HfS$_2$ van der Waals Heterost….",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 效率/耦合表现.\nContext: Rashba Effect and Type-III Broken-Gap Band Alignment in MoTe$_2$/HfS$_2$ van der Waals Heterost…."
     }
   ],
   "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-11-18T00:30:00+00:00"
+  "generated_at": "2026-11-19T00:30:00+00:00"
 }
