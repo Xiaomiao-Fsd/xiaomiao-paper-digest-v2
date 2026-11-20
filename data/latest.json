@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 10,
+  "new_count": 0,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-11-19）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 3 篇\n1. [Applied Physics Letters] High-field electron transport in <b> <i>β</i> </b> -Ga2O3 MOSFETs: Insights from electrolum…\n   关键词：MOSFET, GaN\n   日期：2026-11-16\n   Authors: Anjali Anjali, James Pomeroy, Masataka Higashiwaki 等\n   https://doi.org/10.1063/5.0355409\n2. [Applied Physics Letters] High-temperature operation of N-polar GaN/AlN HEMTs\n   关键词：GaN\n   日期：2026-11-16\n   Authors: F. Yamanaka, A. H. Zazuli, T. Kimoto 等\n   https://doi.org/10.1063/5.0327502\n3. [Applied Physics Letters] Resolving the origin of electron-beam benchmarking bias in GaN betavoltaic cells\n   关键词：GaN\n   日期：2026-11-16\n   Authors: Houjun He, Qian Yang, Qinghao Zhang 等\n   https://doi.org/10.1063/5.0361407\n4. [arXiv] Performance limits and benchmarking of ideal 2D topological insulator field-effect transist…\n   关键词：transistor\n   日期：2026-11-17\n   Authors: Yosep Park, Jaeyoung Eom, Yeonghun Lee\n   https://arxiv.org/abs/2611.22779v1\n5. [Applied Physics Letters] Ultrathin AlScN on scandium grown directly on sapphire and silicon wafers\n   日期：2026-11-16\n   Authors: Chloe Leblanc, Zekun Hu, Pedram Yousefian 等\n   https://doi.org/10.1063/5.0345015\n6. [arXiv] Optical characterization of Fermi polarons in monolayer MoSe$_2$ encapsulated in amorphous …\n   日期：2026-11-17\n   Authors: Christos Paspalides, Brendan C. Mulkerin, Rafael Luque Merino 等\n   https://arxiv.org/abs/2611.21931v1\n7. [Science Advances] Steering nanometric reductive-oxidative Fenton-like cycle for PFAS mineralization\n   日期：2026-11-20\n   Authors: Yichuan Wang, Jianfeng Zheng, Xinchun Ye 等\n   https://doi.org/10.1126/sciadv.aei3786\n8. [arXiv] Assessment of electric-field-induced forces for bulk solids within the projector-augmented …\n   日期：2026-11-17\n   Authors: Peitao Liu, Martijn Marsman, Georg Kresse 等\n   https://arxiv.org/abs/2611.22400v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-11-20）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 5 篇\n1. [Applied Physics Letters] Data-driven reassessment of lattice matching in ScAlN/GaN heterostructures grown by sputter…\n   关键词：epitaxy, GaN\n   日期：2026-11-16\n   Authors: Atsushi Kobayashi, Takuya Maeda, Thai-Son Nguyen 等\n   https://doi.org/10.1063/5.0345218\n2. [Applied Physics Letters] High-field electron transport in <b> <i>β</i> </b> -Ga2O3 MOSFETs: Insights from electrolum…\n   关键词：MOSFET, GaN\n   日期：2026-11-16\n   Authors: Anjali Anjali, James Pomeroy, Masataka Higashiwaki 等\n   https://doi.org/10.1063/5.0355409\n3. [Applied Physics Letters] High-temperature operation of N-polar GaN/AlN HEMTs\n   关键词：GaN\n   日期：2026-11-16\n   Authors: F. Yamanaka, A. H. Zazuli, T. Kimoto 等\n   https://doi.org/10.1063/5.0327502\n4. [Applied Physics Letters] Resolving the origin of electron-beam benchmarking bias in GaN betavoltaic cells\n   关键词：GaN\n   日期：2026-11-16\n   Authors: Houjun He, Qian Yang, Qinghao Zhang 等\n   https://doi.org/10.1063/5.0361407\n5. [Applied Physics Letters] Investigation of single-event burnout mechanism in p-GaN gate HEMTs\n   关键词：GaN\n   日期：2026-11-16\n   Authors: Dongyang Wang, Mingmin Huang, Qimeng Jiang 等\n   https://doi.org/10.1063/5.0345096\n6. [Applied Physics Letters] IGZO optoelectronic synaptic transistor for neuromorphic vision and motion tracking applica…\n   关键词：transistor\n   日期：2026-11-16\n   Authors: Manoj Kumar Rajbhar, Dhananjay D. Kumbhar, Serhii Tytov 等\n   https://doi.org/10.1063/5.0353000\n7. [Applied Physics Letters] Ultrathin AlScN on scandium grown directly on sapphire and silicon wafers\n   日期：2026-11-16\n   Authors: Chloe Leblanc, Zekun Hu, Pedram Yousefian 等\n   https://doi.org/10.1063/5.0345015\n8. [Nature Electronics] Mixed-dimensional complementary metal–oxide–semiconductor technology for high-performance i…\n   关键词：semiconductor\n   日期：2026-11-16\n   https://www.nature.com/articles/s41928-026-01737-7\n注：以下源本次抓取失败：arXiv",
   "papers": [
     {
       "source": "Applied Physics Letters",
@@ -88,36 +88,6 @@
     },
     {
       "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0343694",
-      "title": "Irradiation-hardened p-GaN HEMTs achieving &amp;gt;500 V single-event burnout hardness at 82.06 MeV cm2/mg",
-      "url": "https://doi.org/10.1063/5.0343694",
-      "published": "2026-11-16",
-      "authors": [
-        "Ga Zhang",
-        "Shenglei Zhao",
-        "Xiufeng Song",
-        "Chao Duan",
-        "Zhongxu Wang",
-        "Zhaoxi Wu",
-        "Qifei Yuan",
-        "Linhuan Gao",
-        "Shuzhen You",
-        "Yue Hao",
-        "Jincheng Zhang"
-      ],
-      "summary": "This work presents a single-event radiation-hardened p-GaN gate high electron mobility transistor with a grounded Schottky contact (GSC-HEMT). A Schottky contact connected to the source electrode is fabricated on the barrier layer between the gate and drain terminals. Under Ta ion irradiation with a linear energy transfer of 82.06 MeV cm2/mg, the GSC-HEMT exhibits a significantly enhanced single-event burnout (SEB) voltage of over 500 V, demonstrating excellent SEB tolerance. In the conventional p-GaN HEMT, irradiation-induced holes accumulate beneath the gate region, resulting in a larger local electric field and increased gate leakage current. The proposed GSC-HEMT is capable of rapidly collecting irradiation-induced holes through its grounded Schottky contact. This structure can effectively suppress the massive accumulation of positive charges under the gate and within the buffer layer, thereby improving the radiation tolerance of the device. The designed device demonstrates great application prospects in aerospace electronics.",
-      "score": 11,
-      "priority": 2,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Irradiation-hardened p-GaN HEMTs achieving &amp;gt;500 V single-event burnout h…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Irradiation-hardened p-GaN HEMTs achieving &amp;gt;500 V single-event burnout h…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、功耗或能效表现.\nContext: Irradiation-hardened p-GaN HEMTs achieving &amp;gt;500 V single-event burnout hardness at 82.06….",
-      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、功耗或能效表现.\nContext: Irradiation-hardened p-GaN HEMTs achieving &amp;gt;500 V single-event burnout hardness at 82.06…."
-    },
-    {
-      "source": "Applied Physics Letters",
       "uid": "doi:10.1063/5.0361407",
       "title": "Resolving the origin of electron-beam benchmarking bias in GaN betavoltaic cells",
       "url": "https://doi.org/10.1063/5.0361407",
@@ -171,65 +141,78 @@
       "reading_notes": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Investigation of single-event burnout mechanism in p-GaN gate HEMTs."
     },
     {
-      "source": "arXiv",
-      "uid": "arxiv:2611.17986v1",
-      "title": "Epitaxial integration of GaN $μ$-platelets and thin films on metallic TiN using a hybrid approach",
-      "url": "https://arxiv.org/abs/2611.17986v1",
-      "published": "2026-11-13",
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0353000",
+      "title": "IGZO optoelectronic synaptic transistor for neuromorphic vision and motion tracking applications",
+      "url": "https://doi.org/10.1063/5.0353000",
+      "published": "2026-11-16",
       "authors": [
-        "Philipp M. John",
-        "Thomas Auzelle",
-        "Pierre-Marie Coulon",
-        "Blandine Alloing",
-        "Ileana Florea",
-        "Mikel Gómez Ruiz",
-        "Jonas Lähnemann",
-        "Lutz Geelhaar",
-        "Oliver Brandt"
+        "Manoj Kumar Rajbhar",
+        "Dhananjay D. Kumbhar",
+        "Serhii Tytov",
+        "Dayanand Kumar",
+        "Nazek El-Atab"
       ],
-      "summary": "We demonstrate the synthesis of epitaxial, self-organized GaN $μ$-platelets on metallic TiN thin films. To this end, we first nucleate self-assembled GaN nanowires with number densities between 0.01 to 300 $μm^{-2}$ by molecular beam epitaxy. Subsequent overgrowth of these seed nanowires by metal-organic vapor phase epitaxy yields GaN $μ$-platelets with corresponding number densities. The platelets exhibit N-polarity and form an ohmic contact to the metallic TiN substrate. By adjusting the growth conditions during the metal-organic vapor phase epitaxy, particularly the carrier gas and precursor ratio, the morphology of the GaN can be controlled across a broad range. Growth under N$_{2}$ carrier gas and with a 1:1 NH$_{3}$/trimethylgallium precursor flow ratio results in platelet ensembles with broad diameter and height distributions. In contrast, employing an N$_{2}$/H$_{2}$ carrier gas mixture promotes the formation of more homogeneous ensembles with narrower size distributions around a diameter of $\\approx$2 $μm$. Finally, N-rich growth conditions under H$_{2}$ carrier gas enhance lateral growth, leading to the formation of coalesced GaN layers. GaN grown under these latter conditions exhibits strong near-band-edge emission, accompanied by only weak deep-level luminescence at room temperature.",
-      "score": 7,
-      "priority": 2,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Epitaxial integration of GaN $μ$-platelets and thin films on metallic TiN using…”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升、效率/耦合表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Epitaxial integration of GaN $μ$-platelets and thin films on metallic TiN using…”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升、效率/耦合表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现、与既有工艺平台的集成价值.\nContext: Epitaxial integration of GaN $μ$-platelets and thin films on metallic TiN using a hybrid approa….",
-      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现、与既有工艺平台的集成价值.\nContext: Epitaxial integration of GaN $μ$-platelets and thin films on metallic TiN using a hybrid approa…."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2611.21594v1",
-      "title": "Surrogate-Assisted Compact-Model Extraction for SKY130 CMOS at 77 K",
-      "url": "https://arxiv.org/abs/2611.21594v1",
-      "published": "2026-11-17",
-      "authors": [
-        "Aaron Wang",
-        "Olivia Gzamouranis",
-        "Vaibhav Lohia",
-        "Hershel Fei Xun Weiner",
-        "Olivia Seidel",
-        "Richard Cavanaugh",
-        "Giuseppe Di Guglielmo",
-        "Nhan Tran",
-        "Davide Braga"
-      ],
-      "summary": "Cryogenic circuit design requires compact transistor models that reproduce measured low-temperature behavior and run in standard circuit simulators. We fit BSIM4 parameters to measured I-V curves of SkyWater 130 nm (SKY130) transistors at 77 K using a neural surrogate of NGSpice. The surrogate maps compact-model parameters and device geometry to the complete set of output and transfer characteristics. Extraction is a bounded least-squares search: a bank of NGSpice simulations supplies initial candidates, finite differences of the surrogate supply the local Jacobian, and NGSpice re-simulates the resulting cards before selection. On 18 measured geometries, we compare a search over seven card parameters with a search over 43 parameters selected by NGSpice sensitivity. Relative to NGSpice re-simulations of the previously released cards, the two searches reduce the in-sample mean relative root-mean-square error (RRMS) by 17% and 26%, respectively. The 43-parameter search has the lower overall error, but the seven-parameter search has the lower mean on high-bias curves, and some individual curves have higher error than with the released cards under both searches.",
+      "summary": "Neuromorphic vision systems that integrate optical sensing, memory, and information processing are promising candidates for overcoming the energy and bandwidth limitations of conventional von Neumann architectures. Here, we report an indium gallium zinc oxide (IGZO) optoelectronic synaptic transistor for neuromorphic vision and motion tracking applications. The fabricated device exhibits excellent electrical performance, including a high on/off current ratio of ∼1.06 × 108, a low subthreshold swing of 110.58 mV/dec, and a field-effect mobility of 1.52 cm2 V−1 s−1. Under 405 nm optical stimulation, the transistor successfully emulates essential biological synaptic behaviors, including intensity- and time-dependent synaptic plasticity, paired-pulse facilitation, short-term to long-term memory transition, and learning-forgetting-relearning characteristics, while operating with a low energy consumption of approximately 6.75 pJ per synaptic event. Photoluminescence and x-ray photoelectron spectroscopy analyses reveal that oxygen-vacancy-related defect states induce carrier trapping and persistent photoconductivity, providing the physical mechanism responsible for the observed optoelectronic synaptic behavior. To demonstrate its practical applicability, a hardware–software co-designed neuromorphic vision framework employing a 128 × 64 IGZO synaptic transistor array model experimentally calibrated using measured devices' optoelectronic characteristics was simulated for real-time motion detection and vehicle tracking. The proposed system achieved a pixel localization accuracy of 94.8% through hardware-aware spatiotemporal preprocessing, significantly reducing redundant data transmission and computational overhead. These results demonstrate the potential of IGZO optoelectronic synaptic transistors as an energy-efficient platform for intelligent visual perception, edge artificial intelligence, and next-generation in-sensor neuromorphic computing.",
       "score": 11,
       "priority": 1,
       "highlights": [
-        "CMOS"
+        "transistor"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS方向，围绕“Surrogate-Assisted Compact-Model Extraction for SKY130 CMOS at 77 K”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS方向，围绕“Surrogate-Assisted Compact-Model Extraction for SKY130 CMOS at 77 K”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Surrogate-Assisted Compact-Model Extraction for SKY130 CMOS at 77 K.",
-      "reading_notes": "Focus: CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: Surrogate-Assisted Compact-Model Extraction for SKY130 CMOS at 77 K."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“IGZO optoelectronic synaptic transistor for neuromorphic vision and motion trac…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“IGZO optoelectronic synaptic transistor for neuromorphic vision and motion trac…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、功耗或能效表现.\nContext: IGZO optoelectronic synaptic transistor for neuromorphic vision and motion tracking applications.",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、功耗或能效表现.\nContext: IGZO optoelectronic synaptic transistor for neuromorphic vision and motion tracking applications."
+    },
+    {
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0345015",
+      "title": "Ultrathin AlScN on scandium grown directly on sapphire and silicon wafers",
+      "url": "https://doi.org/10.1063/5.0345015",
+      "published": "2026-11-16",
+      "authors": [
+        "Chloe Leblanc",
+        "Zekun Hu",
+        "Pedram Yousefian",
+        "Hyunmin Cho",
+        "Rajeev Kumar Rai",
+        "Eric A. Stach",
+        "Roy H. Olsson",
+        "Deep Jariwala"
+      ],
+      "summary": "Wurtzite ferroelectric Al1−xScxN is a leading candidate for next-generation, high-density, nonvolatile and logic-in-memory hardware. However, there remain significant challenges associated with scaling to sub-10 nm thicknesses on industry-standard wafers without sacrificing low-voltage operation. We report robust ferroelectric switching in 8 nm thick Al0.63Sc0.37N grown on a Sc bottom electrode that was deposited on 6 in. thick silicon and sapphire wafers via in situ co-sputtering. The Sc template provides improved in-plane lattice matching to the wurtzite Al0.63Sc0.37N structure, yielding (002)-textured films. We measured DC coercive fields of |2.2–2.3| MV/cm in metal–ferroelectric–metal capacitors—among the lowest reported for sub-10 nm wurtzite ferroelectrics on CMOS-compatible substrates—corresponding to switching voltages below 2 V. Building on the same heterostructure, we demonstrated two additional device architectures: metal–ferroelectric–insulator–metal ferroelectric diodes with Ti/Au and Ni top contacts, and metal–ferroelectric–semiconductor field-effect transistors using monolayer MoS2 channels and 50–250 nm channel lengths, all operating below ±2 V. Together, these results establish that wafer-scale, low-voltage, sub-10 nm Al1−xScxN device platforms can be realized in a single in situ growth process on commercial Si and sapphire substrates, enabling monolithic integration of capacitor, diode, and transistor memory primitives in a CMOS back-end-of-line process flow.",
+      "score": 14,
+      "priority": 0,
+      "highlights": [],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Ultrathin AlScN on scandium grown directly on sapphire and silicon wafers”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Ultrathin AlScN on scandium grown directly on sapphire and silicon wafers”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: Ultrathin AlScN on scandium grown directly on sapphire and silicon wafers.",
+      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: Ultrathin AlScN on scandium grown directly on sapphire and silicon wafers."
+    },
+    {
+      "source": "Nature Electronics",
+      "uid": "Nature Electronics:10.1038/s41928-026-01737-7",
+      "title": "Mixed-dimensional complementary metal–oxide–semiconductor technology for high-performance integrated circuits",
+      "url": "https://www.nature.com/articles/s41928-026-01737-7",
+      "published": "2026-11-16",
+      "authors": [],
+      "summary": "Nature Electronics, Published online: 16 November 2026; doi:10.1038/s41928-026-01737-7 With the help of a hard mask technology and pre-deposition annealing process, two-dimensional single-crystal molybdenum disulfide n-type transistors and one-dimensional aligned carbon nanotube p-type transistors can be integrated to create a mixed-dimensional complementary metal–oxide–semiconductor technology.",
+      "score": 11,
+      "priority": 0,
+      "highlights": [
+        "semiconductor"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体方向，围绕“Mixed-dimensional complementary metal–oxide–semiconductor technology for high-p…”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体方向，围绕“Mixed-dimensional complementary metal–oxide–semiconductor technology for high-p…”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 半导体.\nWhat to check: 性能提升.\nContext: Mixed-dimensional complementary metal–oxide–semiconductor technology for high-performance integ….",
+      "reading_notes": "Focus: 半导体.\nWhat to check: 性能提升.\nContext: Mixed-dimensional complementary metal–oxide–semiconductor technology for high-performance integ…."
     }
   ],
-  "errors": [],
+  "errors": [
+    "arXiv"
+  ],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-11-19T00:30:00+00:00"
+  "generated_at": "2026-11-20T00:30:00+00:00"
 }
