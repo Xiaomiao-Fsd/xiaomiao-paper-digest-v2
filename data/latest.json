@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 0,
+  "new_count": 9,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-11-20）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 5 篇\n1. [Applied Physics Letters] Data-driven reassessment of lattice matching in ScAlN/GaN heterostructures grown by sputter…\n   关键词：epitaxy, GaN\n   日期：2026-11-16\n   Authors: Atsushi Kobayashi, Takuya Maeda, Thai-Son Nguyen 等\n   https://doi.org/10.1063/5.0345218\n2. [Applied Physics Letters] High-field electron transport in <b> <i>β</i> </b> -Ga2O3 MOSFETs: Insights from electrolum…\n   关键词：MOSFET, GaN\n   日期：2026-11-16\n   Authors: Anjali Anjali, James Pomeroy, Masataka Higashiwaki 等\n   https://doi.org/10.1063/5.0355409\n3. [Applied Physics Letters] High-temperature operation of N-polar GaN/AlN HEMTs\n   关键词：GaN\n   日期：2026-11-16\n   Authors: F. Yamanaka, A. H. Zazuli, T. Kimoto 等\n   https://doi.org/10.1063/5.0327502\n4. [Applied Physics Letters] Resolving the origin of electron-beam benchmarking bias in GaN betavoltaic cells\n   关键词：GaN\n   日期：2026-11-16\n   Authors: Houjun He, Qian Yang, Qinghao Zhang 等\n   https://doi.org/10.1063/5.0361407\n5. [Applied Physics Letters] Investigation of single-event burnout mechanism in p-GaN gate HEMTs\n   关键词：GaN\n   日期：2026-11-16\n   Authors: Dongyang Wang, Mingmin Huang, Qimeng Jiang 等\n   https://doi.org/10.1063/5.0345096\n6. [Applied Physics Letters] IGZO optoelectronic synaptic transistor for neuromorphic vision and motion tracking applica…\n   关键词：transistor\n   日期：2026-11-16\n   Authors: Manoj Kumar Rajbhar, Dhananjay D. Kumbhar, Serhii Tytov 等\n   https://doi.org/10.1063/5.0353000\n7. [Applied Physics Letters] Ultrathin AlScN on scandium grown directly on sapphire and silicon wafers\n   日期：2026-11-16\n   Authors: Chloe Leblanc, Zekun Hu, Pedram Yousefian 等\n   https://doi.org/10.1063/5.0345015\n8. [Nature Electronics] Mixed-dimensional complementary metal–oxide–semiconductor technology for high-performance i…\n   关键词：semiconductor\n   日期：2026-11-16\n   https://www.nature.com/articles/s41928-026-01737-7\n注：以下源本次抓取失败：arXiv",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-11-21）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 3 篇\n1. [arXiv] Tuning spreading transport in GaN HEMTs with an AlN space layer under non-equilibrium heati…\n   关键词：GaN\n   日期：2026-11-18\n   Authors: Daosheng Tang, Rui Hu, Chen Ning 等\n   https://arxiv.org/abs/2611.23866v1\n2. [arXiv] Breaking the Myth of Four-Tier Stacked Transistors for Logic: an Investigation from Process…\n   关键词：transistor\n   日期：2026-11-18\n   Authors: Jianxiang Jin, Haoran Lu, Yihan Luo 等\n   https://arxiv.org/abs/2611.23806v1\n3. [Science Advances] Flexible megahertz low-power complementary circuits based on nanoscale organic transistors\n   关键词：transistor\n   日期：2026-11-20\n   Authors: Ute Zschieschang, Sabrina Steffens, Karla Cordero-Solano 等\n   https://doi.org/10.1126/sciadv.aei3974\n4. [Nature Electronics] CMOS surprises\n   关键词：CMOS\n   日期：2026-11-20\n   https://www.nature.com/articles/s41928-026-01748-4\n5. [Science Advances] <i>Roseburia intestinalis</i> counteracts TBEP-exacerbated atherosclerosis\n   关键词：GaN\n   日期：2026-11-20\n   Authors: Liangju Liu, Tiantian Gan, Liu Yang 等\n   https://doi.org/10.1126/sciadv.aed2040\n6. [arXiv] Design and Modeling of Graded Base III-Nitride HBTs for High-Frequency Applications\n   关键词：GaN\n   日期：2026-11-19\n   Authors: Md Saklain Morshed, Chandan Joishi, Ijaas Mohamed 等\n   https://arxiv.org/abs/2611.24790v2\n7. [arXiv] Sliding-ferroelectric control of dipolar and quadrupolar excitons in R-stacked WSe$_2$\n   关键词：ferroelectric\n   日期：2026-11-19\n   Authors: Asmund Ottesen, Shun Feng, Edoardo Lopriore 等\n   https://arxiv.org/abs/2611.26158v1\n8. [arXiv] Origin and hole-density dependence of the intrinsic spin Hall conductivity in inorganic hal…\n   日期：2026-11-19\n   Authors: Thanh Tung Huynh, Yuefeng Yin, Weiyao Zhao 等\n   https://arxiv.org/abs/2611.25488v1",
   "papers": [
     {
       "source": "Applied Physics Letters",
@@ -115,6 +115,29 @@
       "reading_notes": "Focus: GaN.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Resolving the origin of electron-beam benchmarking bias in GaN betavoltaic cells."
     },
     {
+      "source": "arXiv",
+      "uid": "arxiv:2611.23866v1",
+      "title": "Tuning spreading transport in GaN HEMTs with an AlN space layer under non-equilibrium heating",
+      "url": "https://arxiv.org/abs/2611.23866v1",
+      "published": "2026-11-18",
+      "authors": [
+        "Daosheng Tang",
+        "Rui Hu",
+        "Chen Ning",
+        "Bingyang Cao"
+      ],
+      "summary": "Lateral spreading transport dominates near-junction heat dissipation in GaN high-electron-mobility transistors, yet thermal control has largely overlooked this geometry. It neither reaches the core AlGaN/GaN region nor, beyond the spatial spreading itself, accounts for the spectral non-equilibrium of the heat source. Here we tune the spreading resistance directly by inserting a thin, highly conducting AlN space layer above the source to intercept heat and divert it laterally. We test this approach across GaN, AlGaN/GaN, and AlGaN/AlN/GaN structures under both equilibrium and longitudinal-optical (LO)-pumped non-equilibrium heating, pairing non-equilibrium molecular dynamics (NEMD) with full-band phonon Monte Carlo (MC). In equilibrium, the AlN layer lowers the spreading resistance by 38% relative to the AlGaN-capped structure and by 17% relative to bare GaN, with little change in the one-dimensional resistance. The equilibrium color map over AlN thickness and interfacial bonding shows a strong interface effect but a weak thickness trend that reverses, so the gain is set by interface admission rather than solely by thickness or bulk conductivity. This ordering is independently confirmed by gray MC simulations. Under LO pumping, the spreading resistance rises by 58-83% in NEMD and by 9-20% in MC, and the equilibrium spatial optimum weakens or even reverses. This is because an optical-to-acoustic conversion gate now precedes every spatial gate and locks energy in slow optical modes. The three gates in series (optical-to-acoustic conversion, interface admission, and lateral diversion) close into a single non-equilibrium resistance network that predicts the full-band MC cases and frames the AlN space layer as a design variable within the non-equilibrium source state.",
+      "score": 8,
+      "priority": 2,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Tuning spreading transport in GaN HEMTs with an AlN space layer under non-equil…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看功耗或能效表现、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Tuning spreading transport in GaN HEMTs with an AlN space layer under non-equil…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看功耗或能效表现、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 功耗或能效表现、接触/互连相关指标.\nContext: Tuning spreading transport in GaN HEMTs with an AlN space layer under non-equilibrium heating.",
+      "reading_notes": "Focus: GaN.\nWhat to check: 功耗或能效表现、接触/互连相关指标.\nContext: Tuning spreading transport in GaN HEMTs with an AlN space layer under non-equilibrium heating."
+    },
+    {
       "source": "Applied Physics Letters",
       "uid": "doi:10.1063/5.0345096",
       "title": "Investigation of single-event burnout mechanism in p-GaN gate HEMTs",
@@ -141,78 +164,67 @@
       "reading_notes": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Investigation of single-event burnout mechanism in p-GaN gate HEMTs."
     },
     {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0353000",
-      "title": "IGZO optoelectronic synaptic transistor for neuromorphic vision and motion tracking applications",
-      "url": "https://doi.org/10.1063/5.0353000",
-      "published": "2026-11-16",
+      "source": "arXiv",
+      "uid": "arxiv:2611.23806v1",
+      "title": "Breaking the Myth of Four-Tier Stacked Transistors for Logic: an Investigation from Process to Device and Block-Level PPA",
+      "url": "https://arxiv.org/abs/2611.23806v1",
+      "published": "2026-11-18",
       "authors": [
-        "Manoj Kumar Rajbhar",
-        "Dhananjay D. Kumbhar",
-        "Serhii Tytov",
-        "Dayanand Kumar",
-        "Nazek El-Atab"
+        "Jianxiang Jin",
+        "Haoran Lu",
+        "Yihan Luo",
+        "Yanbang Chu",
+        "Yibo Zhang",
+        "Jingru Jiang",
+        "Yuji Cheng",
+        "Wanyue Peng",
+        "Xun Jiang",
+        "Feiyu Teng",
+        "Kairang Guo",
+        "Ming Li",
+        "Yibo Lin",
+        "Runsheng Wang",
+        "Heng Wu",
+        "Ru Huang"
       ],
-      "summary": "Neuromorphic vision systems that integrate optical sensing, memory, and information processing are promising candidates for overcoming the energy and bandwidth limitations of conventional von Neumann architectures. Here, we report an indium gallium zinc oxide (IGZO) optoelectronic synaptic transistor for neuromorphic vision and motion tracking applications. The fabricated device exhibits excellent electrical performance, including a high on/off current ratio of ∼1.06 × 108, a low subthreshold swing of 110.58 mV/dec, and a field-effect mobility of 1.52 cm2 V−1 s−1. Under 405 nm optical stimulation, the transistor successfully emulates essential biological synaptic behaviors, including intensity- and time-dependent synaptic plasticity, paired-pulse facilitation, short-term to long-term memory transition, and learning-forgetting-relearning characteristics, while operating with a low energy consumption of approximately 6.75 pJ per synaptic event. Photoluminescence and x-ray photoelectron spectroscopy analyses reveal that oxygen-vacancy-related defect states induce carrier trapping and persistent photoconductivity, providing the physical mechanism responsible for the observed optoelectronic synaptic behavior. To demonstrate its practical applicability, a hardware–software co-designed neuromorphic vision framework employing a 128 × 64 IGZO synaptic transistor array model experimentally calibrated using measured devices' optoelectronic characteristics was simulated for real-time motion detection and vehicle tracking. The proposed system achieved a pixel localization accuracy of 94.8% through hardware-aware spatiotemporal preprocessing, significantly reducing redundant data transmission and computational overhead. These results demonstrate the potential of IGZO optoelectronic synaptic transistors as an energy-efficient platform for intelligent visual perception, edge artificial intelligence, and next-generation in-sensor neuromorphic computing.",
+      "summary": "For the first time, this work evaluated whether 4-tier stacked transistors can translate the straightforward density gains into realistic chip-level scaling benefits. A practical dual-sided 4-tier transistor-stacking CFFET (Flipped CFET-to-CFET) process was proposed, on which a DTCO framework spanning standard-cell design, local interconnects, RO analysis, and physical implementation was built under 2A node design rules. The CFFET was also benchmarked with its 2-tier transistor-stacking counterparts FFET. Among CFFET configurations, the best-performing Symmetric Power still lags FFET by 11.2% in RO frequency due to the complex MOL parasitics. At the block level, CFFET reduces the Ibex RISC-V core area by only 12.8% (far below the 40% nominal cell-height reduction), while running 10.9% slower at iso-power. We further introduced a novel Tetris-like cell stitching to minimize the area overhead, which allows non-rectangular cell design and recovers 7.4% area in a 1-bit ALU design. An optimized NanoStack CFFET was finally proposed, inspired by previous work. This work indicates that straightforward vertical 4-tier stacking proves insufficient to guarantee enough PPA benefits, though the resulting design insights may guide future advanced architectures.",
+      "score": 12,
+      "priority": 1,
+      "highlights": [
+        "transistor"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Breaking the Myth of Four-Tier Stacked Transistors for Logic: an Investigation …”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看先进尺度下的可扩展性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Breaking the Myth of Four-Tier Stacked Transistors for Logic: an Investigation …”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看先进尺度下的可扩展性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 先进尺度下的可扩展性、接触/互连相关指标.\nContext: Breaking the Myth of Four-Tier Stacked Transistors for Logic: an Investigation from Process to ….",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 先进尺度下的可扩展性、接触/互连相关指标.\nContext: Breaking the Myth of Four-Tier Stacked Transistors for Logic: an Investigation from Process to …."
+    },
+    {
+      "source": "Science Advances",
+      "uid": "doi:10.1126/sciadv.aei3974",
+      "title": "Flexible megahertz low-power complementary circuits based on nanoscale organic transistors",
+      "url": "https://doi.org/10.1126/sciadv.aei3974",
+      "published": "2026-11-20",
+      "authors": [
+        "Ute Zschieschang",
+        "Sabrina Steffens",
+        "Karla Cordero-Solano",
+        "Hagen Klauk"
+      ],
+      "summary": "The stringent low-power requirements of wearable electronics systems can be met only by combining p-channel and n-channel transistors in a complementary circuit topology. For circuits based on organic thin-film transistors (TFTs), this calls for improvements in n-channel TFT performance. We report on flexible low-voltage nanoscale n-channel organic TFTs fabricated using a recently developed high-performance small-molecule semiconductor. The TFTs have on/off current ratios greater than 10 8 and subthreshold swings below 200 millivolts per decade. Nanoscale n-channel and p-channel organic TFTs were integrated into inverters that display small-signal gains up to 175, noise margins up to 80%, static power consumption as low as 10 −12 watts, and characteristic signal-delay time constants as short as 60 nanoseconds (at 3 volts). These are the best-performing flexible organic TFT–based complementary inverters reported to date.",
       "score": 11,
       "priority": 1,
       "highlights": [
         "transistor"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“IGZO optoelectronic synaptic transistor for neuromorphic vision and motion trac…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“IGZO optoelectronic synaptic transistor for neuromorphic vision and motion trac…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、功耗或能效表现.\nContext: IGZO optoelectronic synaptic transistor for neuromorphic vision and motion tracking applications.",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、功耗或能效表现.\nContext: IGZO optoelectronic synaptic transistor for neuromorphic vision and motion tracking applications."
-    },
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0345015",
-      "title": "Ultrathin AlScN on scandium grown directly on sapphire and silicon wafers",
-      "url": "https://doi.org/10.1063/5.0345015",
-      "published": "2026-11-16",
-      "authors": [
-        "Chloe Leblanc",
-        "Zekun Hu",
-        "Pedram Yousefian",
-        "Hyunmin Cho",
-        "Rajeev Kumar Rai",
-        "Eric A. Stach",
-        "Roy H. Olsson",
-        "Deep Jariwala"
-      ],
-      "summary": "Wurtzite ferroelectric Al1−xScxN is a leading candidate for next-generation, high-density, nonvolatile and logic-in-memory hardware. However, there remain significant challenges associated with scaling to sub-10 nm thicknesses on industry-standard wafers without sacrificing low-voltage operation. We report robust ferroelectric switching in 8 nm thick Al0.63Sc0.37N grown on a Sc bottom electrode that was deposited on 6 in. thick silicon and sapphire wafers via in situ co-sputtering. The Sc template provides improved in-plane lattice matching to the wurtzite Al0.63Sc0.37N structure, yielding (002)-textured films. We measured DC coercive fields of |2.2–2.3| MV/cm in metal–ferroelectric–metal capacitors—among the lowest reported for sub-10 nm wurtzite ferroelectrics on CMOS-compatible substrates—corresponding to switching voltages below 2 V. Building on the same heterostructure, we demonstrated two additional device architectures: metal–ferroelectric–insulator–metal ferroelectric diodes with Ti/Au and Ni top contacts, and metal–ferroelectric–semiconductor field-effect transistors using monolayer MoS2 channels and 50–250 nm channel lengths, all operating below ±2 V. Together, these results establish that wafer-scale, low-voltage, sub-10 nm Al1−xScxN device platforms can be realized in a single in situ growth process on commercial Si and sapphire substrates, enabling monolithic integration of capacitor, diode, and transistor memory primitives in a CMOS back-end-of-line process flow.",
-      "score": 14,
-      "priority": 0,
-      "highlights": [],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Ultrathin AlScN on scandium grown directly on sapphire and silicon wafers”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注微电子器件与材料方向，围绕“Ultrathin AlScN on scandium grown directly on sapphire and silicon wafers”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: Ultrathin AlScN on scandium grown directly on sapphire and silicon wafers.",
-      "reading_notes": "Focus: 微电子器件与材料.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: Ultrathin AlScN on scandium grown directly on sapphire and silicon wafers."
-    },
-    {
-      "source": "Nature Electronics",
-      "uid": "Nature Electronics:10.1038/s41928-026-01737-7",
-      "title": "Mixed-dimensional complementary metal–oxide–semiconductor technology for high-performance integrated circuits",
-      "url": "https://www.nature.com/articles/s41928-026-01737-7",
-      "published": "2026-11-16",
-      "authors": [],
-      "summary": "Nature Electronics, Published online: 16 November 2026; doi:10.1038/s41928-026-01737-7 With the help of a hard mask technology and pre-deposition annealing process, two-dimensional single-crystal molybdenum disulfide n-type transistors and one-dimensional aligned carbon nanotube p-type transistors can be integrated to create a mixed-dimensional complementary metal–oxide–semiconductor technology.",
-      "score": 11,
-      "priority": 0,
-      "highlights": [
-        "semiconductor"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体方向，围绕“Mixed-dimensional complementary metal–oxide–semiconductor technology for high-p…”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注半导体方向，围绕“Mixed-dimensional complementary metal–oxide–semiconductor technology for high-p…”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 半导体.\nWhat to check: 性能提升.\nContext: Mixed-dimensional complementary metal–oxide–semiconductor technology for high-performance integ….",
-      "reading_notes": "Focus: 半导体.\nWhat to check: 性能提升.\nContext: Mixed-dimensional complementary metal–oxide–semiconductor technology for high-performance integ…."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Flexible megahertz low-power complementary circuits based on nanoscale organic …”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Flexible megahertz low-power complementary circuits based on nanoscale organic …”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、功耗或能效表现.\nContext: Flexible megahertz low-power complementary circuits based on nanoscale organic transistors.",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、功耗或能效表现.\nContext: Flexible megahertz low-power complementary circuits based on nanoscale organic transistors."
     }
   ],
-  "errors": [
-    "arXiv"
-  ],
+  "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-11-20T00:30:00+00:00"
+  "generated_at": "2026-11-21T00:30:00+00:00"
 }
