@@ -1,203 +1,9 @@
 {
   "ok": true,
   "new_count": 0,
-  "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-11-22）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 6 篇\n1. [Applied Physics Letters] Data-driven reassessment of lattice matching in ScAlN/GaN heterostructures grown by sputter…\n   关键词：epitaxy, GaN\n   日期：2026-11-16\n   Authors: Atsushi Kobayashi, Takuya Maeda, Thai-Son Nguyen 等\n   https://doi.org/10.1063/5.0345218\n2. [Applied Physics Letters] High-field electron transport in <b> <i>β</i> </b> -Ga2O3 MOSFETs: Insights from electrolum…\n   关键词：MOSFET, GaN\n   日期：2026-11-16\n   Authors: Anjali Anjali, James Pomeroy, Masataka Higashiwaki 等\n   https://doi.org/10.1063/5.0355409\n3. [Applied Physics Letters] High-temperature operation of N-polar GaN/AlN HEMTs\n   关键词：GaN\n   日期：2026-11-16\n   Authors: F. Yamanaka, A. H. Zazuli, T. Kimoto 等\n   https://doi.org/10.1063/5.0327502\n4. [Applied Physics Letters] Resolving the origin of electron-beam benchmarking bias in GaN betavoltaic cells\n   关键词：GaN\n   日期：2026-11-16\n   Authors: Houjun He, Qian Yang, Qinghao Zhang 等\n   https://doi.org/10.1063/5.0361407\n5. [arXiv] Tuning spreading transport in GaN HEMTs with an AlN space layer under non-equilibrium heati…\n   关键词：GaN\n   日期：2026-11-18\n   Authors: Daosheng Tang, Rui Hu, Chen Ning 等\n   https://arxiv.org/abs/2611.23866v1\n6. [Applied Physics Letters] Investigation of single-event burnout mechanism in p-GaN gate HEMTs\n   关键词：GaN\n   日期：2026-11-16\n   Authors: Dongyang Wang, Mingmin Huang, Qimeng Jiang 等\n   https://doi.org/10.1063/5.0345096\n7. [arXiv] Breaking the Myth of Four-Tier Stacked Transistors for Logic: an Investigation from Process…\n   关键词：transistor\n   日期：2026-11-18\n   Authors: Jianxiang Jin, Haoran Lu, Yihan Luo 等\n   https://arxiv.org/abs/2611.23806v1\n8. [Science Advances] Flexible megahertz low-power complementary circuits based on nanoscale organic transistors\n   关键词：transistor\n   日期：2026-11-20\n   Authors: Ute Zschieschang, Sabrina Steffens, Karla Cordero-Solano 等\n   https://doi.org/10.1126/sciadv.aei3974",
+  "selected_count": 3,
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-11-23）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 3 篇；Intel/TSMC 重点 0 篇；GaN 关键词 1 篇\n1. [Science Advances] Flexible megahertz low-power complementary circuits based on nanoscale organic transistors\n   关键词：transistor\n   日期：2026-11-20\n   Authors: Ute Zschieschang, Sabrina Steffens, Karla Cordero-Solano 等\n   https://doi.org/10.1126/sciadv.aei3974\n2. [Nature Electronics] CMOS surprises\n   关键词：CMOS\n   日期：2026-11-20\n   https://www.nature.com/articles/s41928-026-01748-4\n3. [Science Advances] <i>Roseburia intestinalis</i> counteracts TBEP-exacerbated atherosclerosis\n   关键词：GaN\n   日期：2026-11-20\n   Authors: Liangju Liu, Tiantian Gan, Liu Yang 等\n   https://doi.org/10.1126/sciadv.aed2040\n注：以下源本次抓取失败：arXiv",
   "papers": [
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0345218",
-      "title": "Data-driven reassessment of lattice matching in ScAlN/GaN heterostructures grown by sputter epitaxy and molecular beam epitaxy",
-      "url": "https://doi.org/10.1063/5.0345218",
-      "published": "2026-11-16",
-      "authors": [
-        "Atsushi Kobayashi",
-        "Takuya Maeda",
-        "Thai-Son Nguyen",
-        "Huili Grace Xing",
-        "Debdeep Jena",
-        "Yoshio Honda"
-      ],
-      "summary": "We reassessed the lattice-matching behavior of ScAlN thin films grown on GaN by constructing a unified dataset from sputter epitaxy, molecular beam epitaxy (MBE), and literature reports. The dataset comprised 197 samples, including 32 MBE-grown and 70 sputter-grown films from our laboratories and 95 literature data points, for which Sc composition, growth temperature, film thickness, polarity, growth technique, and a- and c-axis lattice constants were compiled. The compiled data were analyzed using a neural-network-based surrogate model to extract smooth lattice-constant trends within the experimentally covered parameter range, and these trends were subsequently parameterized by empirical polynomial functions of Sc composition and growth temperature. The lattice-matched Sc composition of ScxAl1−xN to GaN was estimated to be x ≈ 0.10–0.13, which is lower than the conventional value of approximately 0.18 and is only weakly dependent on growth temperature and growth technique. In contrast, the c-axis lattice constant was strongly dependent on growth temperature and decreased at higher growth temperatures. This c-axis contraction, together with the reduced c/a ratio, is consistent with growth-temperature-dependent bond softening and local structural distortion in ScAlN, providing a possible structural link to polarization switching in ferroelectric nitrides.",
-      "score": 13,
-      "priority": 2,
-      "highlights": [
-        "epitaxy",
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注epitaxy、GaN方向，围绕“Data-driven reassessment of lattice matching in ScAlN/GaN heterostructures grow…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注epitaxy、GaN方向，围绕“Data-driven reassessment of lattice matching in ScAlN/GaN heterostructures grow…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: epitaxy、GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Data-driven reassessment of lattice matching in ScAlN/GaN heterostructures grown by sputter epi….",
-      "reading_notes": "Focus: epitaxy、GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Data-driven reassessment of lattice matching in ScAlN/GaN heterostructures grown by sputter epi…."
-    },
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0355409",
-      "title": "High-field electron transport in <b> <i>β</i> </b> -Ga2O3 MOSFETs: Insights from electroluminescence",
-      "url": "https://doi.org/10.1063/5.0355409",
-      "published": "2026-11-16",
-      "authors": [
-        "Anjali Anjali",
-        "James Pomeroy",
-        "Masataka Higashiwaki",
-        "Martin Kuball"
-      ],
-      "summary": "Electroluminescence (EL) was used to study high-field electron transport in β-Ga2O3 MOSFETs. Electron temperatures as high as ∼3355 K were determined in the saturation regime, comparable to those observed in GaN, despite the relatively low mobility of β-Ga2O3. The dependence of electron temperature on baseplate temperature and applied bias is consistent with velocity saturation occurring above a drain bias of ∼60 V. A saturation velocity for Ga2O3 was extracted based on the EL-measured electron temperature and found to be similar to that of GaN. The high saturated electron velocity of Ga2O3 supports its potential suitability for scaled microwave electronics operating under high-bias conditions, despite its relatively low electron mobility.",
-      "score": 12,
-      "priority": 2,
-      "highlights": [
-        "MOSFET",
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、GaN方向，围绕“High-field electron transport in <b> <i>β</i> </b> -Ga2O3 MOSFETs: Insights fro…”展开。摘要显示，文章重点涉及电学/光学表征与测试结果，建议阅读时优先查看先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、GaN方向，围绕“High-field electron transport in <b> <i>β</i> </b> -Ga2O3 MOSFETs: Insights fro…”展开。摘要显示，文章重点涉及电学/光学表征与测试结果，建议阅读时优先查看先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: MOSFET、GaN.\nWhat to check: 先进尺度下的可扩展性.\nContext: High-field electron transport in <b> <i>β</i> </b> -Ga2O3 MOSFETs: Insights from electrolumines….",
-      "reading_notes": "Focus: MOSFET、GaN.\nWhat to check: 先进尺度下的可扩展性.\nContext: High-field electron transport in <b> <i>β</i> </b> -Ga2O3 MOSFETs: Insights from electrolumines…."
-    },
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0327502",
-      "title": "High-temperature operation of N-polar GaN/AlN HEMTs",
-      "url": "https://doi.org/10.1063/5.0327502",
-      "published": "2026-11-16",
-      "authors": [
-        "F. Yamanaka",
-        "A. H. Zazuli",
-        "T. Kimoto",
-        "R. Ninoki",
-        "A. Hayashiuchi",
-        "H. Danbata",
-        "N. Hirata",
-        "S. Kurai",
-        "N. Okada",
-        "M. Hiroki",
-        "K. Hirama",
-        "Y. Taniyasu",
-        "Y. Yamada"
-      ],
-      "summary": "Gallium nitride (GaN)-based high-electron-mobility transistors (HEMTs), which employ GaN as the active material, are expected to exhibit high breakdown voltages and high electron saturation velocities. Extensive research and development efforts are currently being conducted to further enhance their performance. One of the major challenges for GaN HEMTs lies in maintaining stable operation under high-temperature conditions. Therefore, further investigation into HEMT structures capable of withstanding higher breakdown voltages and offering improved thermal stability is required. To address this issue, we have focused on an N-polar GaN/AlGaN/AlN HEMT, which utilizes AlN—a material with approximately twice the bandgap energy of GaN and superior thermal conductivity—as a buffer layer. This structure is expected to provide a higher breakdown voltage and improved high-temperature performance than the conventional Ga-polar AlGaN/GaN HEMT. In this study, we evaluated the temperature-dependent characteristics of N-polar GaN/AlGaN/AlN HEMTs over a temperature range from room temperature to 800 °C in order to investigate the high-temperature operation. As a result, the N-polar GaN/AlGaN/AlN HEMT exhibited stable DC characteristics up to 600 °C, demonstrating superior high-temperature operation compared with the conventional AlGaN/GaN HEMT.",
-      "score": 11,
-      "priority": 2,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“High-temperature operation of N-polar GaN/AlN HEMTs”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看性能提升、可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“High-temperature operation of N-polar GaN/AlN HEMTs”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看性能提升、可靠性与稳定性、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性、功耗或能效表现.\nContext: High-temperature operation of N-polar GaN/AlN HEMTs.",
-      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、可靠性与稳定性、功耗或能效表现.\nContext: High-temperature operation of N-polar GaN/AlN HEMTs."
-    },
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0361407",
-      "title": "Resolving the origin of electron-beam benchmarking bias in GaN betavoltaic cells",
-      "url": "https://doi.org/10.1063/5.0361407",
-      "published": "2026-11-16",
-      "authors": [
-        "Houjun He",
-        "Qian Yang",
-        "Qinghao Zhang",
-        "Jing Yang",
-        "Degang Zhao",
-        "Feng Liang",
-        "Yuheng Zhang",
-        "Weihang Huang",
-        "Yuncheng Han"
-      ],
-      "summary": "Electron-beam excitation is widely used as a surrogate benchmark for evaluating radioisotope-driven betavoltaic converters, yet its equivalence to realistic radioactive-source operation remains uncertain. Here, we investigate a GaN p-i-n betavoltaic cell under 63Ni irradiation and 17.4-keV electron-beam excitation and establish a quantitative framework linking source energy delivery, carrier collection, and junction output. At 5 mCi/cm2, the device exhibits an overall conversion efficiency of 1.35% under 63Ni irradiation and 6.47% under electron-beam excitation, corresponding to a 4.79-fold efficiency ratio (a 379% relative benchmarking overestimation). This benchmarking bias is quantitatively reconstructed by three multiplicative factors: deposited-energy utilization (2.49), charge collection (1.50), and junction output (1.29). The deposited-energy difference is dominated by source-side self-absorption and substrate absorption, whereas the charge-collection difference arises from the spatial mismatch between the radiation deposition profile and the effective carrier-collection region. A deposition–collection matching factor M is introduced to quantify this coupling. Structure-dependent simulations demonstrate that the benchmarking bias is governed by the effective collection width rather than the excitation source alone. Effective collection region engineering increases the overall conversion efficiency of the cell under 63Ni irradiation to 4.52%, and complementary source engineering can further increase this overall conversion efficiency to 8.10% by raising the 63Ni source efficiency. These results provide a quantitative basis for interpreting electron-beam benchmarking bias and for coordinated optimization of the converter and radioactive source in practical 63Ni betavoltaic systems.",
-      "score": 9,
-      "priority": 2,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Resolving the origin of electron-beam benchmarking bias in GaN betavoltaic cells”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看效率/耦合表现、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Resolving the origin of electron-beam benchmarking bias in GaN betavoltaic cells”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看效率/耦合表现、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Resolving the origin of electron-beam benchmarking bias in GaN betavoltaic cells.",
-      "reading_notes": "Focus: GaN.\nWhat to check: 效率/耦合表现、功耗或能效表现.\nContext: Resolving the origin of electron-beam benchmarking bias in GaN betavoltaic cells."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2611.23866v1",
-      "title": "Tuning spreading transport in GaN HEMTs with an AlN space layer under non-equilibrium heating",
-      "url": "https://arxiv.org/abs/2611.23866v1",
-      "published": "2026-11-18",
-      "authors": [
-        "Daosheng Tang",
-        "Rui Hu",
-        "Chen Ning",
-        "Bingyang Cao"
-      ],
-      "summary": "Lateral spreading transport dominates near-junction heat dissipation in GaN high-electron-mobility transistors, yet thermal control has largely overlooked this geometry. It neither reaches the core AlGaN/GaN region nor, beyond the spatial spreading itself, accounts for the spectral non-equilibrium of the heat source. Here we tune the spreading resistance directly by inserting a thin, highly conducting AlN space layer above the source to intercept heat and divert it laterally. We test this approach across GaN, AlGaN/GaN, and AlGaN/AlN/GaN structures under both equilibrium and longitudinal-optical (LO)-pumped non-equilibrium heating, pairing non-equilibrium molecular dynamics (NEMD) with full-band phonon Monte Carlo (MC). In equilibrium, the AlN layer lowers the spreading resistance by 38% relative to the AlGaN-capped structure and by 17% relative to bare GaN, with little change in the one-dimensional resistance. The equilibrium color map over AlN thickness and interfacial bonding shows a strong interface effect but a weak thickness trend that reverses, so the gain is set by interface admission rather than solely by thickness or bulk conductivity. This ordering is independently confirmed by gray MC simulations. Under LO pumping, the spreading resistance rises by 58-83% in NEMD and by 9-20% in MC, and the equilibrium spatial optimum weakens or even reverses. This is because an optical-to-acoustic conversion gate now precedes every spatial gate and locks energy in slow optical modes. The three gates in series (optical-to-acoustic conversion, interface admission, and lateral diversion) close into a single non-equilibrium resistance network that predicts the full-band MC cases and frames the AlN space layer as a design variable within the non-equilibrium source state.",
-      "score": 8,
-      "priority": 2,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Tuning spreading transport in GaN HEMTs with an AlN space layer under non-equil…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看功耗或能效表现、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Tuning spreading transport in GaN HEMTs with an AlN space layer under non-equil…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看功耗或能效表现、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 功耗或能效表现、接触/互连相关指标.\nContext: Tuning spreading transport in GaN HEMTs with an AlN space layer under non-equilibrium heating.",
-      "reading_notes": "Focus: GaN.\nWhat to check: 功耗或能效表现、接触/互连相关指标.\nContext: Tuning spreading transport in GaN HEMTs with an AlN space layer under non-equilibrium heating."
-    },
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0345096",
-      "title": "Investigation of single-event burnout mechanism in p-GaN gate HEMTs",
-      "url": "https://doi.org/10.1063/5.0345096",
-      "published": "2026-11-16",
-      "authors": [
-        "Dongyang Wang",
-        "Mingmin Huang",
-        "Qimeng Jiang",
-        "Yao Ma",
-        "Zhimei Yang",
-        "Yun Li",
-        "Min Gong"
-      ],
-      "summary": "In this work, the mechanism of single-event burnout (SEB) in p-GaN gate HEMTs is thoroughly investigated by irradiation experiments and simulations. The samples were irradiated with tantalum (Ta) ions (67 MeV cm2/mg in GaN). There are two distinct failure modes observed in samples occurring in SEB. One is the four-terminal short-circuit mode, and the other is the vertical short-circuit mode between the drain and the substrate. By comparing damaged structures, it can be inferred that both failure modes probably originated from the burnout of the drain. According to the transient currents and temperature distributions by simulations, it is found that the most sensitive region to SEB is the edge of the drain, rather than the edge of the gate or field plate. The SEB mechanism can be explained as follows. A large number of generated holes accumulate at the GaN/AlN interface, while a large number of electrons will accumulate at the Si-Sub/AlN interface, leading to a high electric field in the AlN layer and in turn enhancing the impact ionization. Then the generated electrons will drift to the drain and concentrate around the drain, which produces high current density as well as a high electric field near the drain. Therefore, the lattice temperature there is quickly raised to trigger thermal runaway at the drain.",
-      "score": 8,
-      "priority": 2,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Investigation of single-event burnout mechanism in p-GaN gate HEMTs”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Investigation of single-event burnout mechanism in p-GaN gate HEMTs”展开。摘要显示，文章重点涉及器件结构与设计思路、机理分析或模型解释，建议阅读时优先查看器件性能、实验结果和潜在应用价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Investigation of single-event burnout mechanism in p-GaN gate HEMTs.",
-      "reading_notes": "Focus: GaN.\nWhat to check: 器件性能、实验结果和潜在应用价值.\nContext: Investigation of single-event burnout mechanism in p-GaN gate HEMTs."
-    },
-    {
-      "source": "arXiv",
-      "uid": "arxiv:2611.23806v1",
-      "title": "Breaking the Myth of Four-Tier Stacked Transistors for Logic: an Investigation from Process to Device and Block-Level PPA",
-      "url": "https://arxiv.org/abs/2611.23806v1",
-      "published": "2026-11-18",
-      "authors": [
-        "Jianxiang Jin",
-        "Haoran Lu",
-        "Yihan Luo",
-        "Yanbang Chu",
-        "Yibo Zhang",
-        "Jingru Jiang",
-        "Yuji Cheng",
-        "Wanyue Peng",
-        "Xun Jiang",
-        "Feiyu Teng",
-        "Kairang Guo",
-        "Ming Li",
-        "Yibo Lin",
-        "Runsheng Wang",
-        "Heng Wu",
-        "Ru Huang"
-      ],
-      "summary": "For the first time, this work evaluated whether 4-tier stacked transistors can translate the straightforward density gains into realistic chip-level scaling benefits. A practical dual-sided 4-tier transistor-stacking CFFET (Flipped CFET-to-CFET) process was proposed, on which a DTCO framework spanning standard-cell design, local interconnects, RO analysis, and physical implementation was built under 2A node design rules. The CFFET was also benchmarked with its 2-tier transistor-stacking counterparts FFET. Among CFFET configurations, the best-performing Symmetric Power still lags FFET by 11.2% in RO frequency due to the complex MOL parasitics. At the block level, CFFET reduces the Ibex RISC-V core area by only 12.8% (far below the 40% nominal cell-height reduction), while running 10.9% slower at iso-power. We further introduced a novel Tetris-like cell stitching to minimize the area overhead, which allows non-rectangular cell design and recovers 7.4% area in a 1-bit ALU design. An optimized NanoStack CFFET was finally proposed, inspired by previous work. This work indicates that straightforward vertical 4-tier stacking proves insufficient to guarantee enough PPA benefits, though the resulting design insights may guide future advanced architectures.",
-      "score": 12,
-      "priority": 1,
-      "highlights": [
-        "transistor"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Breaking the Myth of Four-Tier Stacked Transistors for Logic: an Investigation …”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看先进尺度下的可扩展性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Breaking the Myth of Four-Tier Stacked Transistors for Logic: an Investigation …”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看先进尺度下的可扩展性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 先进尺度下的可扩展性、接触/互连相关指标.\nContext: Breaking the Myth of Four-Tier Stacked Transistors for Logic: an Investigation from Process to ….",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 先进尺度下的可扩展性、接触/互连相关指标.\nContext: Breaking the Myth of Four-Tier Stacked Transistors for Logic: an Investigation from Process to …."
-    },
     {
       "source": "Science Advances",
       "uid": "doi:10.1126/sciadv.aei3974",
@@ -220,11 +26,62 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Flexible megahertz low-power complementary circuits based on nanoscale organic …”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、功耗或能效表现.\nContext: Flexible megahertz low-power complementary circuits based on nanoscale organic transistors.",
       "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、功耗或能效表现.\nContext: Flexible megahertz low-power complementary circuits based on nanoscale organic transistors."
+    },
+    {
+      "source": "Nature Electronics",
+      "uid": "Nature Electronics:10.1038/s41928-026-01748-4",
+      "title": "CMOS surprises",
+      "url": "https://www.nature.com/articles/s41928-026-01748-4",
+      "published": "2026-11-20",
+      "authors": [],
+      "summary": "Nature Electronics, Published online: 20 November 2026; doi:10.1038/s41928-026-01748-4 Unexpected effects are still being discovered in complementary metal–oxide–semiconductor (CMOS) circuits, and the results could have implications for the advance of quantum computing.",
+      "score": 10,
+      "priority": 1,
+      "highlights": [
+        "CMOS"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS方向，围绕“CMOS surprises”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS方向，围绕“CMOS surprises”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: CMOS surprises.",
+      "reading_notes": "Focus: CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: CMOS surprises."
+    },
+    {
+      "source": "Science Advances",
+      "uid": "doi:10.1126/sciadv.aed2040",
+      "title": "<i>Roseburia intestinalis</i> counteracts TBEP-exacerbated atherosclerosis",
+      "url": "https://doi.org/10.1126/sciadv.aed2040",
+      "published": "2026-11-20",
+      "authors": [
+        "Liangju Liu",
+        "Tiantian Gan",
+        "Liu Yang",
+        "Zhiwei Wang",
+        "Xiaowang Lv",
+        "Xiaoyan Wang",
+        "Ka Zhang",
+        "Hao Kan",
+        "Mengru Gao",
+        "Lilong Pan",
+        "Aiqin Mao",
+        "Tingting Zhou"
+      ],
+      "summary": "Interactions between serum metabolites and vascular endothelial cells directly influence atherosclerotic lesions. It is essential to identify and understand the effects of the complex profile of serum metabolites on vascular pathology. In this study, we found that coronary lesion severity positively correlated with serum levels of the organophosphate ester tris (2-butoxyethyl) phosphate (TBEP), while TBEP levels inversely correlated with gut Roseburia intestinalis abundance. Western diet supplemented with TBEP substantially exacerbated atherosclerosis in apolipoprotein E −/− ( ApoE −/− ) mice. We found that TBEP enhanced AMP-activated protein kinase α (AMPKα) phosphorylation, reduced nuclear translocation of active sterol regulatory element–binding protein 1c (SREBP1c) fragments, suppressed Patatin-like phospholipase domain–containing protein 3 (PNPLA3) protein expression in endothelial cells, and increased lipid deposition. Oral R. intestinalis supplementation reduced fecal and serum TBEP levels and attenuated TBEP-driven atherosclerotic lesions. We highlight that TBEP aggravates endothelial lipid accumulation and atherosclerosis, suggesting that targeting gut microbiota may serve as a promising strategy against TBEP-exacerbated atherosclerosis.",
+      "score": 7,
+      "priority": 1,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“<i>Roseburia intestinalis</i> counteracts TBEP-exacerbated atherosclerosis”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“<i>Roseburia intestinalis</i> counteracts TBEP-exacerbated atherosclerosis”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升.\nContext: <i>Roseburia intestinalis</i> counteracts TBEP-exacerbated atherosclerosis.",
+      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升.\nContext: <i>Roseburia intestinalis</i> counteracts TBEP-exacerbated atherosclerosis."
     }
   ],
-  "errors": [],
+  "errors": [
+    "arXiv"
+  ],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-11-22T00:30:00+00:00"
+  "generated_at": "2026-11-23T00:30:00+00:00"
 }
