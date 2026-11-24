@@ -1,9 +1,157 @@
 {
   "ok": true,
-  "new_count": 0,
-  "selected_count": 3,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-11-23）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 3 篇；Intel/TSMC 重点 0 篇；GaN 关键词 1 篇\n1. [Science Advances] Flexible megahertz low-power complementary circuits based on nanoscale organic transistors\n   关键词：transistor\n   日期：2026-11-20\n   Authors: Ute Zschieschang, Sabrina Steffens, Karla Cordero-Solano 等\n   https://doi.org/10.1126/sciadv.aei3974\n2. [Nature Electronics] CMOS surprises\n   关键词：CMOS\n   日期：2026-11-20\n   https://www.nature.com/articles/s41928-026-01748-4\n3. [Science Advances] <i>Roseburia intestinalis</i> counteracts TBEP-exacerbated atherosclerosis\n   关键词：GaN\n   日期：2026-11-20\n   Authors: Liangju Liu, Tiantian Gan, Liu Yang 等\n   https://doi.org/10.1126/sciadv.aed2040\n注：以下源本次抓取失败：arXiv",
+  "new_count": 11,
+  "selected_count": 8,
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-11-24）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 3 篇\n1. [Applied Physics Letters] 8-in. wafer-scale uniform growth of GaN-on-silicon epilayers for near-eye micro-displays\n   关键词：wafer, GaN\n   日期：2026-11-23\n   Authors: Shenyu Xu, Chenxue Li, Yimeng Sang 等\n   https://doi.org/10.1063/5.0340073\n2. [Applied Physics Letters] Polarity-driven divergence in thermal decomposition of GaN: Kinetics, morphology, and surfa…\n   关键词：GaN\n   日期：2026-11-23\n   Authors: Xiaoning Zhan, Jianxun Liu, Xiujian Sun 等\n   https://doi.org/10.1063/5.0354009\n3. [Applied Physics Letters] Gate-length dependence of trap passivation via rapid deuterium annealing in scaled MOSFETs\n   关键词：MOSFET\n   日期：2026-11-23\n   Authors: Hyo-Jun Park, Da-Eun Bang, Eui-Cheol Yun 等\n   https://doi.org/10.1063/5.0361690\n4. [Applied Physics Letters] Quantum-dot-assisted AlGaN wide-bandgap tunnel junction enabling high-reflectivity electrod…\n   关键词：GaN\n   日期：2026-11-23\n   Authors: Yuhao Yin, Yue Xu, Shitao Dong 等\n   https://doi.org/10.1063/5.0349222\n5. [Applied Physics Letters] Quasi-van der Waals epitaxy of low-strain <b> <i>β</i> </b> -Ga2O3 on fluorophlogopite enab…\n   关键词：epitaxy\n   日期：2026-11-23\n   Authors: Siqi Li, Hongbin Wang, Hanyang Ji 等\n   https://doi.org/10.1063/5.0352726\n6. [Applied Physics Letters] Hexagonal WN <i>x</i> bottom electrodes for Al1− <i>x</i> Sc <i>x</i> N ferroelectric capac…\n   关键词：ferroelectric\n   日期：2026-11-23\n   Authors: Xuanyu Zhao, Zhipeng Chen, Yicheng Luo 等\n   https://doi.org/10.1063/5.0357229\n7. [Applied Physics Letters] Temperature evolution of photoluminescence from narrow-bandgap heteroepitaxial PbSnSe alloy…\n   日期：2026-11-23\n   Authors: Seong Jin Park, Jarod Meyer, Kunal Mukherjee\n   https://doi.org/10.1063/5.0354945\n8. [Applied Physics Letters] Impact of multi-dot configurations on electron temperature and double quantum dot latching …\n   日期：2026-11-23\n   Authors: Jakob Walsh, Miriam Schweinböck, Jhih-Sian Tu 等\n   https://doi.org/10.1063/5.0354740",
   "papers": [
+    {
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0340073",
+      "title": "8-in. wafer-scale uniform growth of GaN-on-silicon epilayers for near-eye micro-displays",
+      "url": "https://doi.org/10.1063/5.0340073",
+      "published": "2026-11-23",
+      "authors": [
+        "Shenyu Xu",
+        "Chenxue Li",
+        "Yimeng Sang",
+        "Guanqun Feng",
+        "Yao Chen",
+        "Rongrong Dou",
+        "Jinsong Peng",
+        "Tao Tao",
+        "Jianbing Yang",
+        "Shiping Guo",
+        "Zhe Zhuang",
+        "Rong Zhang",
+        "Bin Liu"
+      ],
+      "summary": "Heteroepitaxial growth of high-quality gallium nitride (GaN) films and their uniform light-emitting diode (LED) structures on 8-in.-wafer-scale silicon (Si) substrates remains a significant challenge due to large lattice and thermal mismatches for the critical control of threading dislocations (TDs) and wafer bowing. Here, we proposed a novel variable growth rate strategy to grow a 6.7-μm-thick, crack-free GaN layer on an 8-in. Si(111) substrate. By carefully managing the thermal stress and the interactions between TDs during epitaxial growth, we could reduce the TD density to approximately 8.0 × 107 cm−2, thereby implying very high-quality GaN epi-layers on Si substrates compared to previous reports. Moreover, blue LED structures were grown on this GaN template, exhibiting a standard deviation of 1.1 nm in peak wavelength and a wafer bowing of 16 μm over the entire 8-in. wafer. This epi-wafer was finally used to fabricate micro-LED arrays via direct 8-in. wafer bonding, revealing the great potential of GaN-on-Si techniques for near-eye micro-displays.",
+      "score": 11,
+      "priority": 2,
+      "highlights": [
+        "wafer",
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注wafer、GaN方向，围绕“8-in. wafer-scale uniform growth of GaN-on-silicon epilayers for near-eye micro…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看效率/耦合表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注wafer、GaN方向，围绕“8-in. wafer-scale uniform growth of GaN-on-silicon epilayers for near-eye micro…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看效率/耦合表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: wafer、GaN.\nWhat to check: 效率/耦合表现、与既有工艺平台的集成价值.\nContext: 8-in. wafer-scale uniform growth of GaN-on-silicon epilayers for near-eye micro-displays.",
+      "reading_notes": "Focus: wafer、GaN.\nWhat to check: 效率/耦合表现、与既有工艺平台的集成价值.\nContext: 8-in. wafer-scale uniform growth of GaN-on-silicon epilayers for near-eye micro-displays."
+    },
+    {
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0354009",
+      "title": "Polarity-driven divergence in thermal decomposition of GaN: Kinetics, morphology, and surface damage recovery",
+      "url": "https://doi.org/10.1063/5.0354009",
+      "published": "2026-11-23",
+      "authors": [
+        "Xiaoning Zhan",
+        "Jianxun Liu",
+        "Xiujian Sun",
+        "Yuhai Chen",
+        "Xiaocui Lv",
+        "Yu Zhou",
+        "Qian Li",
+        "Qian Sun",
+        "Hui Yang"
+      ],
+      "summary": "Although the polarity-dependent thermal decomposition of gallium nitride (GaN) has been studied, the fundamental mechanisms that govern decomposition morphology and kinetics remain unclear. In this work, the distinct thermal decomposition behavior of gallium (Ga)-polar and nitrogen (N)-polar GaN was systematically investigated. Notably, thermal etching produces grooved hexagonal inverted pyramids on N-polar GaN but hexagonal pyramids protrusions on Ga-polar GaN, a difference that is clearly elucidated by a facet-dependent etching rate model. By employing a growth–etching–regrowth approach, the activation energies under H2/NH3 ambient are measured as 2.88 ± 0.25 eV for Ga-polar GaN and 2.50 ± 0.15 eV for N-polar GaN. Despite its lower activation energy, N-polar GaN etches more slowly than Ga-polar GaN due to a much smaller pre-exponential factor that imposes significant kinetic constraints. In comparison, under N2/NH3 ambient, Ga-polar GaN exhibits an activation energy of 3.40 ± 0.065 eV, while N-polar GaN behaves highly resistant to thermal etching with an etching rate below 5 nm/h even at 1050 °C. Beyond kinetics, thermal treatment effectively removes the dry-etch-induced surface damage, with N2 ambient providing superior recovery for both polarities. These findings not only clarify polarity-dependent decomposition pathways but also provide practical guidelines for interface engineering in high-performance GaN devices.",
+      "score": 9,
+      "priority": 2,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Polarity-driven divergence in thermal decomposition of GaN: Kinetics, morpholog…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Polarity-driven divergence in thermal decomposition of GaN: Kinetics, morpholog…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、功耗或能效表现.\nContext: Polarity-driven divergence in thermal decomposition of GaN: Kinetics, morphology, and surface d….",
+      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、功耗或能效表现.\nContext: Polarity-driven divergence in thermal decomposition of GaN: Kinetics, morphology, and surface d…."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2611.23866v1",
+      "title": "Tuning spreading transport in GaN HEMTs with an AlN space layer under non-equilibrium heating",
+      "url": "https://arxiv.org/abs/2611.23866v1",
+      "published": "2026-11-18",
+      "authors": [
+        "Daosheng Tang",
+        "Rui Hu",
+        "Chen Ning",
+        "Bingyang Cao"
+      ],
+      "summary": "Lateral spreading transport dominates near-junction heat dissipation in GaN high-electron-mobility transistors, yet thermal control has largely overlooked this geometry. It neither reaches the core AlGaN/GaN region nor, beyond the spatial spreading itself, accounts for the spectral non-equilibrium of the heat source. Here we tune the spreading resistance directly by inserting a thin, highly conducting AlN space layer above the source to intercept heat and divert it laterally. We test this approach across GaN, AlGaN/GaN, and AlGaN/AlN/GaN structures under both equilibrium and longitudinal-optical (LO)-pumped non-equilibrium heating, pairing non-equilibrium molecular dynamics (NEMD) with full-band phonon Monte Carlo (MC). In equilibrium, the AlN layer lowers the spreading resistance by 38% relative to the AlGaN-capped structure and by 17% relative to bare GaN, with little change in the one-dimensional resistance. The equilibrium color map over AlN thickness and interfacial bonding shows a strong interface effect but a weak thickness trend that reverses, so the gain is set by interface admission rather than solely by thickness or bulk conductivity. This ordering is independently confirmed by gray MC simulations. Under LO pumping, the spreading resistance rises by 58-83% in NEMD and by 9-20% in MC, and the equilibrium spatial optimum weakens or even reverses. This is because an optical-to-acoustic conversion gate now precedes every spatial gate and locks energy in slow optical modes. The three gates in series (optical-to-acoustic conversion, interface admission, and lateral diversion) close into a single non-equilibrium resistance network that predicts the full-band MC cases and frames the AlN space layer as a design variable within the non-equilibrium source state.",
+      "score": 8,
+      "priority": 2,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Tuning spreading transport in GaN HEMTs with an AlN space layer under non-equil…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看功耗或能效表现、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Tuning spreading transport in GaN HEMTs with an AlN space layer under non-equil…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看功耗或能效表现、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 功耗或能效表现、接触/互连相关指标.\nContext: Tuning spreading transport in GaN HEMTs with an AlN space layer under non-equilibrium heating.",
+      "reading_notes": "Focus: GaN.\nWhat to check: 功耗或能效表现、接触/互连相关指标.\nContext: Tuning spreading transport in GaN HEMTs with an AlN space layer under non-equilibrium heating."
+    },
+    {
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0361690",
+      "title": "Gate-length dependence of trap passivation via rapid deuterium annealing in scaled MOSFETs",
+      "url": "https://doi.org/10.1063/5.0361690",
+      "published": "2026-11-23",
+      "authors": [
+        "Hyo-Jun Park",
+        "Da-Eun Bang",
+        "Eui-Cheol Yun",
+        "Moon-Kwon Lee",
+        "Min-Woo Kim",
+        "Dol Sohn",
+        "Sang-Min Kang",
+        "Chae-Rim Lee",
+        "Dae-Myeong Geum",
+        "Jun-Young Park"
+      ],
+      "summary": "As the semiconductor industry pursues higher integration density and faster operating speeds, the physical gate length (LG) of metal–oxide–semiconductor field-effect transistors (MOSFETs) continues to scale down. This aggressive scaling exacerbates short-channel effects, which require proportionally thinner gate dielectrics to improve gate controllability. However, gate dielectrics are highly susceptible to electrical stress, making gate oxide reliability a critical concern. While conventional forming gas annealing is widely employed to improve dielectric quality, its high thermal budget can induce thermal damage in advanced scaled devices. Rapid deuterium annealing (RDA) has emerged as a promising alternative to minimize this thermal budget and mitigate thermal degradation. Nevertheless, the efficacy of the RDA process across different LG values remains unexplored. To address this, we investigate the gate-length dependence of RDA on device performance. Planar Si nMOSFETs were fabricated on bulk substrates, and key device parameters were systematically extracted and analyzed using I–V and C–V measurements.",
+      "score": 15,
+      "priority": 1,
+      "highlights": [
+        "MOSFET"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET方向，围绕“Gate-length dependence of trap passivation via rapid deuterium annealing in sca…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET方向，围绕“Gate-length dependence of trap passivation via rapid deuterium annealing in sca…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: MOSFET.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: Gate-length dependence of trap passivation via rapid deuterium annealing in scaled MOSFETs.",
+      "reading_notes": "Focus: MOSFET.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: Gate-length dependence of trap passivation via rapid deuterium annealing in scaled MOSFETs."
+    },
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2611.23806v1",
+      "title": "Breaking the Myth of Four-Tier Stacked Transistors for Logic: an Investigation from Process to Device and Block-Level PPA",
+      "url": "https://arxiv.org/abs/2611.23806v1",
+      "published": "2026-11-18",
+      "authors": [
+        "Jianxiang Jin",
+        "Haoran Lu",
+        "Yihan Luo",
+        "Yanbang Chu",
+        "Yibo Zhang",
+        "Jingru Jiang",
+        "Yuji Cheng",
+        "Wanyue Peng",
+        "Xun Jiang",
+        "Feiyu Teng",
+        "Kairang Guo",
+        "Ming Li",
+        "Yibo Lin",
+        "Runsheng Wang",
+        "Heng Wu",
+        "Ru Huang"
+      ],
+      "summary": "For the first time, this work evaluated whether 4-tier stacked transistors can translate the straightforward density gains into realistic chip-level scaling benefits. A practical dual-sided 4-tier transistor-stacking CFFET (Flipped CFET-to-CFET) process was proposed, on which a DTCO framework spanning standard-cell design, local interconnects, RO analysis, and physical implementation was built under 2A node design rules. The CFFET was also benchmarked with its 2-tier transistor-stacking counterparts FFET. Among CFFET configurations, the best-performing Symmetric Power still lags FFET by 11.2% in RO frequency due to the complex MOL parasitics. At the block level, CFFET reduces the Ibex RISC-V core area by only 12.8% (far below the 40% nominal cell-height reduction), while running 10.9% slower at iso-power. We further introduced a novel Tetris-like cell stitching to minimize the area overhead, which allows non-rectangular cell design and recovers 7.4% area in a 1-bit ALU design. An optimized NanoStack CFFET was finally proposed, inspired by previous work. This work indicates that straightforward vertical 4-tier stacking proves insufficient to guarantee enough PPA benefits, though the resulting design insights may guide future advanced architectures.",
+      "score": 12,
+      "priority": 1,
+      "highlights": [
+        "transistor"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Breaking the Myth of Four-Tier Stacked Transistors for Logic: an Investigation …”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看先进尺度下的可扩展性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Breaking the Myth of Four-Tier Stacked Transistors for Logic: an Investigation …”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看先进尺度下的可扩展性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 晶体管.\nWhat to check: 先进尺度下的可扩展性、接触/互连相关指标.\nContext: Breaking the Myth of Four-Tier Stacked Transistors for Logic: an Investigation from Process to ….",
+      "reading_notes": "Focus: 晶体管.\nWhat to check: 先进尺度下的可扩展性、接触/互连相关指标.\nContext: Breaking the Myth of Four-Tier Stacked Transistors for Logic: an Investigation from Process to …."
+    },
     {
       "source": "Science Advances",
       "uid": "doi:10.1126/sciadv.aei3974",
@@ -46,42 +194,35 @@
       "reading_notes": "Focus: CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: CMOS surprises."
     },
     {
-      "source": "Science Advances",
-      "uid": "doi:10.1126/sciadv.aed2040",
-      "title": "<i>Roseburia intestinalis</i> counteracts TBEP-exacerbated atherosclerosis",
-      "url": "https://doi.org/10.1126/sciadv.aed2040",
-      "published": "2026-11-20",
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0349222",
+      "title": "Quantum-dot-assisted AlGaN wide-bandgap tunnel junction enabling high-reflectivity electrodes for deep-ultraviolet LEDs",
+      "url": "https://doi.org/10.1063/5.0349222",
+      "published": "2026-11-23",
       "authors": [
-        "Liangju Liu",
-        "Tiantian Gan",
-        "Liu Yang",
-        "Zhiwei Wang",
-        "Xiaowang Lv",
-        "Xiaoyan Wang",
-        "Ka Zhang",
-        "Hao Kan",
-        "Mengru Gao",
-        "Lilong Pan",
-        "Aiqin Mao",
-        "Tingting Zhou"
+        "Yuhao Yin",
+        "Yue Xu",
+        "Shitao Dong",
+        "Xiping Cao",
+        "Xianhe Liu",
+        "Jian Kang",
+        "Shizhao Fan"
       ],
-      "summary": "Interactions between serum metabolites and vascular endothelial cells directly influence atherosclerotic lesions. It is essential to identify and understand the effects of the complex profile of serum metabolites on vascular pathology. In this study, we found that coronary lesion severity positively correlated with serum levels of the organophosphate ester tris (2-butoxyethyl) phosphate (TBEP), while TBEP levels inversely correlated with gut Roseburia intestinalis abundance. Western diet supplemented with TBEP substantially exacerbated atherosclerosis in apolipoprotein E −/− ( ApoE −/− ) mice. We found that TBEP enhanced AMP-activated protein kinase α (AMPKα) phosphorylation, reduced nuclear translocation of active sterol regulatory element–binding protein 1c (SREBP1c) fragments, suppressed Patatin-like phospholipase domain–containing protein 3 (PNPLA3) protein expression in endothelial cells, and increased lipid deposition. Oral R. intestinalis supplementation reduced fecal and serum TBEP levels and attenuated TBEP-driven atherosclerotic lesions. We highlight that TBEP aggravates endothelial lipid accumulation and atherosclerosis, suggesting that targeting gut microbiota may serve as a promising strategy against TBEP-exacerbated atherosclerosis.",
-      "score": 7,
+      "summary": "AlGaN deep-ultraviolet (DUV) light-emitting diodes (LEDs) suffer from limited light extraction efficiency due to high absorption losses in the p-GaN contact layer and annealed metal layers for p-type Ohmic contact. Here, we boosted the DUV reflectivity by incorporating a p-GaN quantum-dot-assisted AlGaN tunnel junction on top of the AlGaN LED epitaxial structure. Precisely controlled thermal decomposition of the top p-GaN layer is realized in a high-vacuum chamber, which transforms the conformal p-GaN layer into nanopyramid-shaped quantum dots by eliminating over 95% of the p-GaN. Subsequent in situ molecular beam epitaxy regrowth of a smooth wide-bandgap n-AlGaN contact layer enables tunneling injection of holes and lateral current spreading. The resulting device exhibits a low specific contact resistivity of 2.5 × 10−5 Ω cm2 and a tunnel-junction voltage drop of 1.09 V. Moreover, the n-AlGaN top contact allows the use of a low-coverage Ti/Al/Ni/Au grid electrode combined with an Al reflector, increasing the effective reflectance at 265 nm to 77.16%. These results demonstrate that the p-GaN quantum-dot-assisted AlGaN tunnel junction improves electrical injection characteristics and enables a high-reflectivity electrode architecture, which promises improved light extraction in AlGaN DUV LEDs.",
+      "score": 9,
       "priority": 1,
       "highlights": [
         "GaN"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“<i>Roseburia intestinalis</i> counteracts TBEP-exacerbated atherosclerosis”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“<i>Roseburia intestinalis</i> counteracts TBEP-exacerbated atherosclerosis”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升.\nContext: <i>Roseburia intestinalis</i> counteracts TBEP-exacerbated atherosclerosis.",
-      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升.\nContext: <i>Roseburia intestinalis</i> counteracts TBEP-exacerbated atherosclerosis."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Quantum-dot-assisted AlGaN wide-bandgap tunnel junction enabling high-reflectiv…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Quantum-dot-assisted AlGaN wide-bandgap tunnel junction enabling high-reflectiv…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现.\nContext: Quantum-dot-assisted AlGaN wide-bandgap tunnel junction enabling high-reflectivity electrodes f….",
+      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现.\nContext: Quantum-dot-assisted AlGaN wide-bandgap tunnel junction enabling high-reflectivity electrodes f…."
     }
   ],
-  "errors": [
-    "arXiv"
-  ],
+  "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-11-23T00:30:00+00:00"
+  "generated_at": "2026-11-24T00:30:00+00:00"
 }
