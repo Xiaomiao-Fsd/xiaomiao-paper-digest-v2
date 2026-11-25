@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 11,
+  "new_count": 9,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-11-24）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 3 篇\n1. [Applied Physics Letters] 8-in. wafer-scale uniform growth of GaN-on-silicon epilayers for near-eye micro-displays\n   关键词：wafer, GaN\n   日期：2026-11-23\n   Authors: Shenyu Xu, Chenxue Li, Yimeng Sang 等\n   https://doi.org/10.1063/5.0340073\n2. [Applied Physics Letters] Polarity-driven divergence in thermal decomposition of GaN: Kinetics, morphology, and surfa…\n   关键词：GaN\n   日期：2026-11-23\n   Authors: Xiaoning Zhan, Jianxun Liu, Xiujian Sun 等\n   https://doi.org/10.1063/5.0354009\n3. [Applied Physics Letters] Gate-length dependence of trap passivation via rapid deuterium annealing in scaled MOSFETs\n   关键词：MOSFET\n   日期：2026-11-23\n   Authors: Hyo-Jun Park, Da-Eun Bang, Eui-Cheol Yun 等\n   https://doi.org/10.1063/5.0361690\n4. [Applied Physics Letters] Quantum-dot-assisted AlGaN wide-bandgap tunnel junction enabling high-reflectivity electrod…\n   关键词：GaN\n   日期：2026-11-23\n   Authors: Yuhao Yin, Yue Xu, Shitao Dong 等\n   https://doi.org/10.1063/5.0349222\n5. [Applied Physics Letters] Quasi-van der Waals epitaxy of low-strain <b> <i>β</i> </b> -Ga2O3 on fluorophlogopite enab…\n   关键词：epitaxy\n   日期：2026-11-23\n   Authors: Siqi Li, Hongbin Wang, Hanyang Ji 等\n   https://doi.org/10.1063/5.0352726\n6. [Applied Physics Letters] Hexagonal WN <i>x</i> bottom electrodes for Al1− <i>x</i> Sc <i>x</i> N ferroelectric capac…\n   关键词：ferroelectric\n   日期：2026-11-23\n   Authors: Xuanyu Zhao, Zhipeng Chen, Yicheng Luo 等\n   https://doi.org/10.1063/5.0357229\n7. [Applied Physics Letters] Temperature evolution of photoluminescence from narrow-bandgap heteroepitaxial PbSnSe alloy…\n   日期：2026-11-23\n   Authors: Seong Jin Park, Jarod Meyer, Kunal Mukherjee\n   https://doi.org/10.1063/5.0354945\n8. [Applied Physics Letters] Impact of multi-dot configurations on electron temperature and double quantum dot latching …\n   日期：2026-11-23\n   Authors: Jakob Walsh, Miriam Schweinböck, Jhih-Sian Tu 等\n   https://doi.org/10.1063/5.0354740",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-11-25）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 2 篇\n1. [Applied Physics Letters] Deep-level defect in GaN diodes observed with electrically detected magnetic resonance\n   关键词：GaN\n   日期：2026-11-23\n   Authors: Dustin T. Hassenmayer, David A. Fehr, Yuxin Du 等\n   https://doi.org/10.1063/5.0356195\n2. [Applied Physics Letters] High-quality GaN epilayer grown on Si substrates enabled by a SiO2-frustum-patterned templa…\n   关键词：GaN\n   日期：2026-11-23\n   Authors: Faquan Wu, Zhenghao Chen, Han Yang 等\n   https://doi.org/10.1063/5.0360044\n3. [Applied Physics Letters] Reduced dark current in Cd0.9Zn0.1Te detector arrays by aluminum oxide passivation\n   日期：2026-11-23\n   Authors: Sudarshan Singh, Luc Montpetit, Eloïse Rahier 等\n   https://doi.org/10.1063/5.0356062\n4. [arXiv] Electric Field Assisted Charge Transfer Mediated Electronic Coupling in Ferromagnetic/Multi…\n   日期：2026-11-23\n   Authors: Subho Saha, Sourav Chowdhury, Suryakanta Mondal 等\n   https://arxiv.org/abs/2611.30598v1\n5. [arXiv] Fully solid-state all-2D micro-supercapacitors for on-chip energy storage\n   日期：2026-11-22\n   Authors: Bar Favelukis, Andreas Furchner, Barak Ratzker 等\n   https://arxiv.org/abs/2611.29476v1\n6. [arXiv] Generalized dielectric-dependent hybrid functional combining Gaussian and Yukawa screening\n   关键词：dielectric\n   日期：2026-11-24\n   Authors: Alexey Tal, Fabien Tran, Wei Chen 等\n   https://arxiv.org/abs/2611.30930v1\n7. [arXiv] Metal to Semiconductor Transition in Niobium Sulfoselenide Alloy Films by Compositional Con…\n   关键词：semiconductor\n   日期：2026-11-21\n   Authors: Tinsae Alem, Abir Hasan, Jordan A. Hachtel 等\n   https://arxiv.org/abs/2611.28238v1\n8. [arXiv] Two-dimensional Thyristor\n   日期：2026-11-23\n   Authors: Purbasha Ray, Rupali Verma, Biswajeet Nayak 等\n   https://arxiv.org/abs/2611.30748v1",
   "papers": [
     {
       "source": "Applied Physics Letters",
@@ -36,6 +36,64 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注wafer、GaN方向，围绕“8-in. wafer-scale uniform growth of GaN-on-silicon epilayers for near-eye micro…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看效率/耦合表现、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: wafer、GaN.\nWhat to check: 效率/耦合表现、与既有工艺平台的集成价值.\nContext: 8-in. wafer-scale uniform growth of GaN-on-silicon epilayers for near-eye micro-displays.",
       "reading_notes": "Focus: wafer、GaN.\nWhat to check: 效率/耦合表现、与既有工艺平台的集成价值.\nContext: 8-in. wafer-scale uniform growth of GaN-on-silicon epilayers for near-eye micro-displays."
+    },
+    {
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0356195",
+      "title": "Deep-level defect in GaN diodes observed with electrically detected magnetic resonance",
+      "url": "https://doi.org/10.1063/5.0356195",
+      "published": "2026-11-23",
+      "authors": [
+        "Dustin T. Hassenmayer",
+        "David A. Fehr",
+        "Yuxin Du",
+        "Blair R. Tuttle",
+        "Michael J. Elko",
+        "Joseph Sink",
+        "Rongming Chu",
+        "Michael E. Flatté",
+        "Patrick M. Lenahan"
+      ],
+      "summary": "Point defects continue to limit the performance of GaN and other III–V semiconductor devices. The dominant electrically active defects in GaN are predicted to be vacancies such as VGa and VN and their complexes with common impurities such as O and H. Electrically detected magnetic resonance (EDMR) is a powerful technique for detecting the physical and chemical nature of electrically active point defects which affect the performance of semiconductor devices. We show, to our knowledge, the first room temperature EDMR on GaN displaying hyperfine structure. The EDMR spectrum has a g⊥c=2.005±0.001, g∥c=2.006±0.001, |ΔI/I0|=8×10−6, and a 10-line hyperfine structure. We identify the observed defect, with reasonable certainty, as the VGa−VN divacancy.",
+      "score": 10,
+      "priority": 2,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Deep-level defect in GaN diodes observed with electrically detected magnetic re…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Deep-level defect in GaN diodes observed with electrically detected magnetic re…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升.\nContext: Deep-level defect in GaN diodes observed with electrically detected magnetic resonance.",
+      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升.\nContext: Deep-level defect in GaN diodes observed with electrically detected magnetic resonance."
+    },
+    {
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0360044",
+      "title": "High-quality GaN epilayer grown on Si substrates enabled by a SiO2-frustum-patterned template",
+      "url": "https://doi.org/10.1063/5.0360044",
+      "published": "2026-11-23",
+      "authors": [
+        "Faquan Wu",
+        "Zhenghao Chen",
+        "Han Yang",
+        "Lin Yao",
+        "Yipeng Cai",
+        "Huiling Pan",
+        "Xuelin Yang",
+        "Fujun Xu",
+        "Ning Tang",
+        "Xinqiang Wang",
+        "Bo Shen"
+      ],
+      "summary": "GaN-on-Si technologies have attracted considerable attention for next-generation electronic applications, yet high threading dislocation density (TDD) remains a major challenge. Here, we develop a SiO2-frustum-patterned template for effective filtering of threading dislocations (TDs) in wafer-scale GaN-on-Si heteroepitaxy. The SiO2 array blocks the directly upward propagation of TDs through the masked zones, while the window zones promote lateral overgrowth and facilitate rapid TD bending and termination. To further suppress coalescence-related TDs, facet-evolution regulation is introduced to promote highly ordered domain coalescence, with a misorientation angle of only 0.088°. Consequently, a TDD of 5.4 × 107 cm−2 is achieved in a 4.2-μm-thick GaN epilayer grown on a 4-in. Si substrate, substantially lower than that of conventional GaN-on-Si heteroepitaxy. This work demonstrates a low-cost solution for high-quality GaN-on-Si heteroepitaxy, providing a promising material platform for high-performance GaN-based power electronics.",
+      "score": 10,
+      "priority": 2,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“High-quality GaN epilayer grown on Si substrates enabled by a SiO2-frustum-patt…”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“High-quality GaN epilayer grown on Si substrates enabled by a SiO2-frustum-patt…”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升.\nContext: High-quality GaN epilayer grown on Si substrates enabled by a SiO2-frustum-patterned template.",
+      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升.\nContext: High-quality GaN epilayer grown on Si substrates enabled by a SiO2-frustum-patterned template."
     },
     {
       "source": "Applied Physics Letters",
@@ -174,55 +232,11 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Flexible megahertz low-power complementary circuits based on nanoscale organic …”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、功耗或能效表现.\nContext: Flexible megahertz low-power complementary circuits based on nanoscale organic transistors.",
       "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、功耗或能效表现.\nContext: Flexible megahertz low-power complementary circuits based on nanoscale organic transistors."
-    },
-    {
-      "source": "Nature Electronics",
-      "uid": "Nature Electronics:10.1038/s41928-026-01748-4",
-      "title": "CMOS surprises",
-      "url": "https://www.nature.com/articles/s41928-026-01748-4",
-      "published": "2026-11-20",
-      "authors": [],
-      "summary": "Nature Electronics, Published online: 20 November 2026; doi:10.1038/s41928-026-01748-4 Unexpected effects are still being discovered in complementary metal–oxide–semiconductor (CMOS) circuits, and the results could have implications for the advance of quantum computing.",
-      "score": 10,
-      "priority": 1,
-      "highlights": [
-        "CMOS"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS方向，围绕“CMOS surprises”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS方向，围绕“CMOS surprises”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: CMOS surprises.",
-      "reading_notes": "Focus: CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: CMOS surprises."
-    },
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0349222",
-      "title": "Quantum-dot-assisted AlGaN wide-bandgap tunnel junction enabling high-reflectivity electrodes for deep-ultraviolet LEDs",
-      "url": "https://doi.org/10.1063/5.0349222",
-      "published": "2026-11-23",
-      "authors": [
-        "Yuhao Yin",
-        "Yue Xu",
-        "Shitao Dong",
-        "Xiping Cao",
-        "Xianhe Liu",
-        "Jian Kang",
-        "Shizhao Fan"
-      ],
-      "summary": "AlGaN deep-ultraviolet (DUV) light-emitting diodes (LEDs) suffer from limited light extraction efficiency due to high absorption losses in the p-GaN contact layer and annealed metal layers for p-type Ohmic contact. Here, we boosted the DUV reflectivity by incorporating a p-GaN quantum-dot-assisted AlGaN tunnel junction on top of the AlGaN LED epitaxial structure. Precisely controlled thermal decomposition of the top p-GaN layer is realized in a high-vacuum chamber, which transforms the conformal p-GaN layer into nanopyramid-shaped quantum dots by eliminating over 95% of the p-GaN. Subsequent in situ molecular beam epitaxy regrowth of a smooth wide-bandgap n-AlGaN contact layer enables tunneling injection of holes and lateral current spreading. The resulting device exhibits a low specific contact resistivity of 2.5 × 10−5 Ω cm2 and a tunnel-junction voltage drop of 1.09 V. Moreover, the n-AlGaN top contact allows the use of a low-coverage Ti/Al/Ni/Au grid electrode combined with an Al reflector, increasing the effective reflectance at 265 nm to 77.16%. These results demonstrate that the p-GaN quantum-dot-assisted AlGaN tunnel junction improves electrical injection characteristics and enables a high-reflectivity electrode architecture, which promises improved light extraction in AlGaN DUV LEDs.",
-      "score": 9,
-      "priority": 1,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Quantum-dot-assisted AlGaN wide-bandgap tunnel junction enabling high-reflectiv…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Quantum-dot-assisted AlGaN wide-bandgap tunnel junction enabling high-reflectiv…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现.\nContext: Quantum-dot-assisted AlGaN wide-bandgap tunnel junction enabling high-reflectivity electrodes f….",
-      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现.\nContext: Quantum-dot-assisted AlGaN wide-bandgap tunnel junction enabling high-reflectivity electrodes f…."
     }
   ],
   "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-11-24T00:30:00+00:00"
+  "generated_at": "2026-11-25T00:30:00+00:00"
 }
