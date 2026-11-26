@@ -1,9 +1,36 @@
 {
   "ok": true,
-  "new_count": 9,
+  "new_count": 4,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-11-25）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 2 篇\n1. [Applied Physics Letters] Deep-level defect in GaN diodes observed with electrically detected magnetic resonance\n   关键词：GaN\n   日期：2026-11-23\n   Authors: Dustin T. Hassenmayer, David A. Fehr, Yuxin Du 等\n   https://doi.org/10.1063/5.0356195\n2. [Applied Physics Letters] High-quality GaN epilayer grown on Si substrates enabled by a SiO2-frustum-patterned templa…\n   关键词：GaN\n   日期：2026-11-23\n   Authors: Faquan Wu, Zhenghao Chen, Han Yang 等\n   https://doi.org/10.1063/5.0360044\n3. [Applied Physics Letters] Reduced dark current in Cd0.9Zn0.1Te detector arrays by aluminum oxide passivation\n   日期：2026-11-23\n   Authors: Sudarshan Singh, Luc Montpetit, Eloïse Rahier 等\n   https://doi.org/10.1063/5.0356062\n4. [arXiv] Electric Field Assisted Charge Transfer Mediated Electronic Coupling in Ferromagnetic/Multi…\n   日期：2026-11-23\n   Authors: Subho Saha, Sourav Chowdhury, Suryakanta Mondal 等\n   https://arxiv.org/abs/2611.30598v1\n5. [arXiv] Fully solid-state all-2D micro-supercapacitors for on-chip energy storage\n   日期：2026-11-22\n   Authors: Bar Favelukis, Andreas Furchner, Barak Ratzker 等\n   https://arxiv.org/abs/2611.29476v1\n6. [arXiv] Generalized dielectric-dependent hybrid functional combining Gaussian and Yukawa screening\n   关键词：dielectric\n   日期：2026-11-24\n   Authors: Alexey Tal, Fabien Tran, Wei Chen 等\n   https://arxiv.org/abs/2611.30930v1\n7. [arXiv] Metal to Semiconductor Transition in Niobium Sulfoselenide Alloy Films by Compositional Con…\n   关键词：semiconductor\n   日期：2026-11-21\n   Authors: Tinsae Alem, Abir Hasan, Jordan A. Hachtel 等\n   https://arxiv.org/abs/2611.28238v1\n8. [arXiv] Two-dimensional Thyristor\n   日期：2026-11-23\n   Authors: Purbasha Ray, Rupali Verma, Biswajeet Nayak 等\n   https://arxiv.org/abs/2611.30748v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-11-26）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 4 篇；Intel/TSMC 重点 0 篇；GaN 关键词 1 篇\n1. [arXiv] N-Polar AlGaN/GaN Heterojunction Bipolar Transistor\n   关键词：transistor, GaN\n   日期：2026-11-24\n   Authors: Md Saklain Morshed, John Cobbinah, Ijaas Mohamed 等\n   https://arxiv.org/abs/2611.31646v1\n2. [Science Advances] Continuously aligned biomimetic sites in MXene membranes for rapid lithium extraction\n   日期：2026-11-27\n   Authors: Zihan Liu, Longfeng Hu, Sijin Li 等\n   https://doi.org/10.1126/sciadv.aeg9915\n3. [Science Advances] A flexible fiber–based artificial chemical postsynapse\n   日期：2026-11-27\n   Authors: Tran Quang Trung, Montri Meeseepong, Ok-Hyeon Kim 等\n   https://doi.org/10.1126/sciadv.aeh8971\n4. [arXiv] Electron spin relaxation and coherence times of silicon vacancies in 4H-SiC\n   关键词：SiC\n   日期：2026-11-24\n   Authors: Irene Donà, Michele Segantini, Gianluca Marcozzi 等\n   https://arxiv.org/abs/2611.32451v1",
   "papers": [
+    {
+      "source": "arXiv",
+      "uid": "arxiv:2611.31646v1",
+      "title": "N-Polar AlGaN/GaN Heterojunction Bipolar Transistor",
+      "url": "https://arxiv.org/abs/2611.31646v1",
+      "published": "2026-11-24",
+      "authors": [
+        "Md Saklain Morshed",
+        "John Cobbinah",
+        "Ijaas Mohamed",
+        "Jonathan Pratt",
+        "Akilesh Srikanth",
+        "Chandan Joishi",
+        "Siddharth Rajan"
+      ],
+      "summary": "Heterojunction bipolar transistors based on the III-Nitride systems have significantly lower performance than field effect transistors due to challenges associated with p-type doping of the base. N-polar AlGaN/GaN HBTs can overcome these challenges by polarization-induced holes in the base and base-emitter interface. We experimentally demonstrate the first N-polar AlGaN/GaN heterojunction bipolar transistors (HBTs) grown by plasma-assisted molecular beam epitaxy on GaN substrate without emitter regrowth. The HBTs exhibit a peak current gain of approximately 15, peak differential current gain of approximately 18, and emitter-area-normalized peak current densities exceeding 20 kA/cm^2 and 66 kA/cm^2 for emitter areas of 10 x 10 um^2 and 3 x 10 um^2, respectively. The specific contact resistance for base is estimated 1.32 x 10^{-2} Ohm.cm^2. The open-base breakdown voltage is characterized ~63 V for a 300 nm collector without dielectric passivation. This work lays the foundation for future development of N-polar III-Nitride HBTs for next-generation RF applications.",
+      "score": 17,
+      "priority": 3,
+      "highlights": [
+        "transistor",
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、GaN方向，围绕“N-Polar AlGaN/GaN Heterojunction Bipolar Transistor”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、GaN方向，围绕“N-Polar AlGaN/GaN Heterojunction Bipolar Transistor”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: 晶体管、GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: N-Polar AlGaN/GaN Heterojunction Bipolar Transistor.",
+      "reading_notes": "Focus: 晶体管、GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: N-Polar AlGaN/GaN Heterojunction Bipolar Transistor."
+    },
     {
       "source": "Applied Physics Letters",
       "uid": "doi:10.1063/5.0340073",
@@ -124,29 +151,6 @@
       "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、功耗或能效表现.\nContext: Polarity-driven divergence in thermal decomposition of GaN: Kinetics, morphology, and surface d…."
     },
     {
-      "source": "arXiv",
-      "uid": "arxiv:2611.23866v1",
-      "title": "Tuning spreading transport in GaN HEMTs with an AlN space layer under non-equilibrium heating",
-      "url": "https://arxiv.org/abs/2611.23866v1",
-      "published": "2026-11-18",
-      "authors": [
-        "Daosheng Tang",
-        "Rui Hu",
-        "Chen Ning",
-        "Bingyang Cao"
-      ],
-      "summary": "Lateral spreading transport dominates near-junction heat dissipation in GaN high-electron-mobility transistors, yet thermal control has largely overlooked this geometry. It neither reaches the core AlGaN/GaN region nor, beyond the spatial spreading itself, accounts for the spectral non-equilibrium of the heat source. Here we tune the spreading resistance directly by inserting a thin, highly conducting AlN space layer above the source to intercept heat and divert it laterally. We test this approach across GaN, AlGaN/GaN, and AlGaN/AlN/GaN structures under both equilibrium and longitudinal-optical (LO)-pumped non-equilibrium heating, pairing non-equilibrium molecular dynamics (NEMD) with full-band phonon Monte Carlo (MC). In equilibrium, the AlN layer lowers the spreading resistance by 38% relative to the AlGaN-capped structure and by 17% relative to bare GaN, with little change in the one-dimensional resistance. The equilibrium color map over AlN thickness and interfacial bonding shows a strong interface effect but a weak thickness trend that reverses, so the gain is set by interface admission rather than solely by thickness or bulk conductivity. This ordering is independently confirmed by gray MC simulations. Under LO pumping, the spreading resistance rises by 58-83% in NEMD and by 9-20% in MC, and the equilibrium spatial optimum weakens or even reverses. This is because an optical-to-acoustic conversion gate now precedes every spatial gate and locks energy in slow optical modes. The three gates in series (optical-to-acoustic conversion, interface admission, and lateral diversion) close into a single non-equilibrium resistance network that predicts the full-band MC cases and frames the AlN space layer as a design variable within the non-equilibrium source state.",
-      "score": 8,
-      "priority": 2,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Tuning spreading transport in GaN HEMTs with an AlN space layer under non-equil…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看功耗或能效表现、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Tuning spreading transport in GaN HEMTs with an AlN space layer under non-equil…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看功耗或能效表现、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 功耗或能效表现、接触/互连相关指标.\nContext: Tuning spreading transport in GaN HEMTs with an AlN space layer under non-equilibrium heating.",
-      "reading_notes": "Focus: GaN.\nWhat to check: 功耗或能效表现、接触/互连相关指标.\nContext: Tuning spreading transport in GaN HEMTs with an AlN space layer under non-equilibrium heating."
-    },
-    {
       "source": "Applied Physics Letters",
       "uid": "doi:10.1063/5.0361690",
       "title": "Gate-length dependence of trap passivation via rapid deuterium annealing in scaled MOSFETs",
@@ -176,67 +180,53 @@
       "reading_notes": "Focus: MOSFET.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: Gate-length dependence of trap passivation via rapid deuterium annealing in scaled MOSFETs."
     },
     {
-      "source": "arXiv",
-      "uid": "arxiv:2611.23806v1",
-      "title": "Breaking the Myth of Four-Tier Stacked Transistors for Logic: an Investigation from Process to Device and Block-Level PPA",
-      "url": "https://arxiv.org/abs/2611.23806v1",
-      "published": "2026-11-18",
-      "authors": [
-        "Jianxiang Jin",
-        "Haoran Lu",
-        "Yihan Luo",
-        "Yanbang Chu",
-        "Yibo Zhang",
-        "Jingru Jiang",
-        "Yuji Cheng",
-        "Wanyue Peng",
-        "Xun Jiang",
-        "Feiyu Teng",
-        "Kairang Guo",
-        "Ming Li",
-        "Yibo Lin",
-        "Runsheng Wang",
-        "Heng Wu",
-        "Ru Huang"
-      ],
-      "summary": "For the first time, this work evaluated whether 4-tier stacked transistors can translate the straightforward density gains into realistic chip-level scaling benefits. A practical dual-sided 4-tier transistor-stacking CFFET (Flipped CFET-to-CFET) process was proposed, on which a DTCO framework spanning standard-cell design, local interconnects, RO analysis, and physical implementation was built under 2A node design rules. The CFFET was also benchmarked with its 2-tier transistor-stacking counterparts FFET. Among CFFET configurations, the best-performing Symmetric Power still lags FFET by 11.2% in RO frequency due to the complex MOL parasitics. At the block level, CFFET reduces the Ibex RISC-V core area by only 12.8% (far below the 40% nominal cell-height reduction), while running 10.9% slower at iso-power. We further introduced a novel Tetris-like cell stitching to minimize the area overhead, which allows non-rectangular cell design and recovers 7.4% area in a 1-bit ALU design. An optimized NanoStack CFFET was finally proposed, inspired by previous work. This work indicates that straightforward vertical 4-tier stacking proves insufficient to guarantee enough PPA benefits, though the resulting design insights may guide future advanced architectures.",
-      "score": 12,
+      "source": "Nature Electronics",
+      "uid": "Nature Electronics:10.1038/s41928-026-01748-4",
+      "title": "CMOS surprises",
+      "url": "https://www.nature.com/articles/s41928-026-01748-4",
+      "published": "2026-11-20",
+      "authors": [],
+      "summary": "Nature Electronics, Published online: 20 November 2026; doi:10.1038/s41928-026-01748-4 Unexpected effects are still being discovered in complementary metal–oxide–semiconductor (CMOS) circuits, and the results could have implications for the advance of quantum computing.",
+      "score": 10,
       "priority": 1,
       "highlights": [
-        "transistor"
+        "CMOS"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Breaking the Myth of Four-Tier Stacked Transistors for Logic: an Investigation …”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看先进尺度下的可扩展性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Breaking the Myth of Four-Tier Stacked Transistors for Logic: an Investigation …”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看先进尺度下的可扩展性、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 先进尺度下的可扩展性、接触/互连相关指标.\nContext: Breaking the Myth of Four-Tier Stacked Transistors for Logic: an Investigation from Process to ….",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 先进尺度下的可扩展性、接触/互连相关指标.\nContext: Breaking the Myth of Four-Tier Stacked Transistors for Logic: an Investigation from Process to …."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS方向，围绕“CMOS surprises”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS方向，围绕“CMOS surprises”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: CMOS surprises.",
+      "reading_notes": "Focus: CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: CMOS surprises."
     },
     {
-      "source": "Science Advances",
-      "uid": "doi:10.1126/sciadv.aei3974",
-      "title": "Flexible megahertz low-power complementary circuits based on nanoscale organic transistors",
-      "url": "https://doi.org/10.1126/sciadv.aei3974",
-      "published": "2026-11-20",
+      "source": "Applied Physics Letters",
+      "uid": "doi:10.1063/5.0349222",
+      "title": "Quantum-dot-assisted AlGaN wide-bandgap tunnel junction enabling high-reflectivity electrodes for deep-ultraviolet LEDs",
+      "url": "https://doi.org/10.1063/5.0349222",
+      "published": "2026-11-23",
       "authors": [
-        "Ute Zschieschang",
-        "Sabrina Steffens",
-        "Karla Cordero-Solano",
-        "Hagen Klauk"
+        "Yuhao Yin",
+        "Yue Xu",
+        "Shitao Dong",
+        "Xiping Cao",
+        "Xianhe Liu",
+        "Jian Kang",
+        "Shizhao Fan"
       ],
-      "summary": "The stringent low-power requirements of wearable electronics systems can be met only by combining p-channel and n-channel transistors in a complementary circuit topology. For circuits based on organic thin-film transistors (TFTs), this calls for improvements in n-channel TFT performance. We report on flexible low-voltage nanoscale n-channel organic TFTs fabricated using a recently developed high-performance small-molecule semiconductor. The TFTs have on/off current ratios greater than 10 8 and subthreshold swings below 200 millivolts per decade. Nanoscale n-channel and p-channel organic TFTs were integrated into inverters that display small-signal gains up to 175, noise margins up to 80%, static power consumption as low as 10 −12 watts, and characteristic signal-delay time constants as short as 60 nanoseconds (at 3 volts). These are the best-performing flexible organic TFT–based complementary inverters reported to date.",
-      "score": 11,
+      "summary": "AlGaN deep-ultraviolet (DUV) light-emitting diodes (LEDs) suffer from limited light extraction efficiency due to high absorption losses in the p-GaN contact layer and annealed metal layers for p-type Ohmic contact. Here, we boosted the DUV reflectivity by incorporating a p-GaN quantum-dot-assisted AlGaN tunnel junction on top of the AlGaN LED epitaxial structure. Precisely controlled thermal decomposition of the top p-GaN layer is realized in a high-vacuum chamber, which transforms the conformal p-GaN layer into nanopyramid-shaped quantum dots by eliminating over 95% of the p-GaN. Subsequent in situ molecular beam epitaxy regrowth of a smooth wide-bandgap n-AlGaN contact layer enables tunneling injection of holes and lateral current spreading. The resulting device exhibits a low specific contact resistivity of 2.5 × 10−5 Ω cm2 and a tunnel-junction voltage drop of 1.09 V. Moreover, the n-AlGaN top contact allows the use of a low-coverage Ti/Al/Ni/Au grid electrode combined with an Al reflector, increasing the effective reflectance at 265 nm to 77.16%. These results demonstrate that the p-GaN quantum-dot-assisted AlGaN tunnel junction improves electrical injection characteristics and enables a high-reflectivity electrode architecture, which promises improved light extraction in AlGaN DUV LEDs.",
+      "score": 9,
       "priority": 1,
       "highlights": [
-        "transistor"
+        "GaN"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Flexible megahertz low-power complementary circuits based on nanoscale organic …”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管方向，围绕“Flexible megahertz low-power complementary circuits based on nanoscale organic …”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: 晶体管.\nWhat to check: 性能提升、功耗或能效表现.\nContext: Flexible megahertz low-power complementary circuits based on nanoscale organic transistors.",
-      "reading_notes": "Focus: 晶体管.\nWhat to check: 性能提升、功耗或能效表现.\nContext: Flexible megahertz low-power complementary circuits based on nanoscale organic transistors."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Quantum-dot-assisted AlGaN wide-bandgap tunnel junction enabling high-reflectiv…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Quantum-dot-assisted AlGaN wide-bandgap tunnel junction enabling high-reflectiv…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现.\nContext: Quantum-dot-assisted AlGaN wide-bandgap tunnel junction enabling high-reflectivity electrodes f….",
+      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现.\nContext: Quantum-dot-assisted AlGaN wide-bandgap tunnel junction enabling high-reflectivity electrodes f…."
     }
   ],
   "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-11-25T00:30:00+00:00"
+  "generated_at": "2026-11-26T00:30:00+00:00"
 }
