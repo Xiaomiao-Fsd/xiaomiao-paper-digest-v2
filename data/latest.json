@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "new_count": 4,
+  "new_count": 33,
   "selected_count": 8,
-  "message": "论文晨报｜微电子材料 / 晶体管（2026-11-26）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 4 篇；Intel/TSMC 重点 0 篇；GaN 关键词 1 篇\n1. [arXiv] N-Polar AlGaN/GaN Heterojunction Bipolar Transistor\n   关键词：transistor, GaN\n   日期：2026-11-24\n   Authors: Md Saklain Morshed, John Cobbinah, Ijaas Mohamed 等\n   https://arxiv.org/abs/2611.31646v1\n2. [Science Advances] Continuously aligned biomimetic sites in MXene membranes for rapid lithium extraction\n   日期：2026-11-27\n   Authors: Zihan Liu, Longfeng Hu, Sijin Li 等\n   https://doi.org/10.1126/sciadv.aeg9915\n3. [Science Advances] A flexible fiber–based artificial chemical postsynapse\n   日期：2026-11-27\n   Authors: Tran Quang Trung, Montri Meeseepong, Ok-Hyeon Kim 等\n   https://doi.org/10.1126/sciadv.aeh8971\n4. [arXiv] Electron spin relaxation and coherence times of silicon vacancies in 4H-SiC\n   关键词：SiC\n   日期：2026-11-24\n   Authors: Irene Donà, Michele Segantini, Gianluca Marcozzi 等\n   https://arxiv.org/abs/2611.32451v1",
+  "message": "论文晨报｜微电子材料 / 晶体管（2026-11-27）\nSources: arXiv / Science Advances / Applied Physics Letters (APL) / Nature Electronics / Nature Materials / Nature Physics (NP) / IEEE EDL / IEEE Transactions on Electron Devices (TED) / IEEE Journal of the Electron Devices Society (JEDS) / PRL / Physical Review B (PRB)\n命中 8 篇；Intel/TSMC 重点 0 篇；GaN 关键词 7 篇\n1. [IEEE Electron Device Letters] WSe <sub>2</sub> p-MOSFETs With Nb-Doped WS <sub>2</sub> Contacts Deposited Using Atomic La…\n   关键词：MOSFET, deposition\n   日期：2026-12-01\n   Authors: Shivanshu Mishra, Ruixue Li, Dongjea Seo 等\n   https://doi.org/10.1109/led.2026.3745334\n2. [IEEE Electron Device Letters] 3.0-W/mm Output Power Density at W-Band From Enhancement-Mode AlGaN/GaN HEMT With Free-Stan…\n   关键词：GaN\n   日期：2026-12-01\n   Authors: Zhentong Huang, Pengfei Wang, Minhan Mi 等\n   https://doi.org/10.1109/led.2026.3742422\n3. [IEEE Electron Device Letters] Impact of Scaling on the Temperature Dependence of GaN HEMTs\n   关键词：GaN\n   日期：2026-12-01\n   Authors: Biddut K. Sarker, Leonard A. Duncan, Shaikh S. Ahmed 等\n   https://doi.org/10.1109/led.2026.3739157\n4. [IEEE Electron Device Letters] N-Polar GaN HEMT Operating at 800 °C in Air for 1 h With Minimum <i> I <sub>ON</sub> </i> /…\n   关键词：GaN\n   日期：2026-12-01\n   Authors: Tanmay Chavan, Robert Hamwey, Boyu Wang 等\n   https://doi.org/10.1109/led.2026.3743418\n5. [IEEE Electron Device Letters] Demonstration of Nitrogen-Polar GaN HEMTs With ALD Regrown n <sup>+</sup> Contacts\n   关键词：GaN\n   日期：2026-12-01\n   Authors: Boyu Wang, Zhiyuan Ma, Robert Hamwey 等\n   https://doi.org/10.1109/led.2026.3739285\n6. [arXiv] Self-Assembled Triangular Sc-rich Nanodomains: The Orign of Anomalous Alloy Scattering in S…\n   关键词：GaN\n   日期：2026-11-25\n   Authors: Yuhao Yin, Shizhao Fan\n   https://arxiv.org/abs/2611.33868v1\n7. [IEEE Electron Device Letters] Scaling of GaN Micro-LEDs With a 2.75-GHz Bandwidth for High-Speed Optical Links\n   关键词：GaN\n   日期：2026-12-01\n   Authors: Abdelghany Abouelnagga, Zetai Liu, Johnathan Wright 等\n   https://doi.org/10.1109/led.2026.3745737\n8. [IEEE Electron Device Letters] High-Performance Compact Multifunctional Integration GaN HEMTs With 21.28-W/mm Output-Power…\n   关键词：GaN\n   日期：2026-12-01\n   Authors: Yutong Jiang, Xu Zou, Meng Zhang 等\n   https://doi.org/10.1109/led.2026.3742457",
   "papers": [
     {
       "source": "arXiv",
@@ -30,6 +30,126 @@
       "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注晶体管、GaN方向，围绕“N-Polar AlGaN/GaN Heterojunction Bipolar Transistor”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
       "overview_cn": "Focus: 晶体管、GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: N-Polar AlGaN/GaN Heterojunction Bipolar Transistor.",
       "reading_notes": "Focus: 晶体管、GaN.\nWhat to check: 性能提升、接触/互连相关指标.\nContext: N-Polar AlGaN/GaN Heterojunction Bipolar Transistor."
+    },
+    {
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3745334",
+      "title": "WSe <sub>2</sub> p-MOSFETs With Nb-Doped WS <sub>2</sub> Contacts Deposited Using Atomic Layer Deposition",
+      "url": "https://doi.org/10.1109/led.2026.3745334",
+      "published": "2026-12-01",
+      "authors": [
+        "Shivanshu Mishra",
+        "Ruixue Li",
+        "Dongjea Seo",
+        "Anil Adhikari",
+        "Lucas G. Cooper",
+        "Rebecca A. Dawley",
+        "Ageeth A. Bol",
+        "Steven J. Koester"
+      ],
+      "summary": "WSe 2 p-MOSFETs with Nb-doped WS 2 contacts formed using atomic layer deposition are demonstrated. The devices are fabricated using a technique that aligns the contact metallization with the Nb-doped WS 2 contacts using a selective oxidation process. Devices with source/drain spacing of $0.11~\\mu $ m have on-state current of $98.6~\\mu $ A/ $\\mu $ m at ${V}_{\\text {DS}} = -1$ V at a channel carrier concentration of $\\sim ~7.5\\times 10^{{12}}$ cm ${}^{-{2}}$ . The results provide a promising CMOS-compatible pathway to create low-resistance contacts to 2D-channel transistors.",
+      "score": 16,
+      "priority": 2,
+      "highlights": [
+        "MOSFET",
+        "deposition"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、deposition方向，围绕“WSe <sub>2</sub> p-MOSFETs With Nb-Doped WS <sub>2</sub> Contacts Deposited Usi…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看接触/互连相关指标、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET、deposition方向，围绕“WSe <sub>2</sub> p-MOSFETs With Nb-Doped WS <sub>2</sub> Contacts Deposited Usi…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看接触/互连相关指标、与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: MOSFET、deposition.\nWhat to check: 接触/互连相关指标、与既有工艺平台的集成价值.\nContext: WSe <sub>2</sub> p-MOSFETs With Nb-Doped WS <sub>2</sub> Contacts Deposited Using Atomic Layer ….",
+      "reading_notes": "Focus: MOSFET、deposition.\nWhat to check: 接触/互连相关指标、与既有工艺平台的集成价值.\nContext: WSe <sub>2</sub> p-MOSFETs With Nb-Doped WS <sub>2</sub> Contacts Deposited Using Atomic Layer …."
+    },
+    {
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3742422",
+      "title": "3.0-W/mm Output Power Density at W-Band From Enhancement-Mode AlGaN/GaN HEMT With Free-Standing T-Gate",
+      "url": "https://doi.org/10.1109/led.2026.3742422",
+      "published": "2026-12-01",
+      "authors": [
+        "Zhentong Huang",
+        "Pengfei Wang",
+        "Minhan Mi",
+        "Dongxu Xiao",
+        "Xiang Du",
+        "Feiyang Chen",
+        "Xiangxin Cao",
+        "Jingyun Yao",
+        "Yifan Liu",
+        "Xiaohua Ma",
+        "Yue Hao"
+      ],
+      "summary": "This letter reports on high-performance enhancement-mode (E-mode) GaN high-electron-mobility transistor (HEMT) for W-band applications. The E-mode HEMT was realized via a gate-recess etching process, exhibiting a positive threshold voltage ( ${V}_{\\text {th}}\\text {)}$ of 0.41 V, a peak transconductance ( ${G}_{\\text {m}}\\text {)}$ of 0.73 S/mm, and a maximum drain current density ( ${I}_{\\text {d-{ma}{x}}}\\text {)}$ of 1.35 A/mm. To overcome gate-head-induced extrinsic fringing capacitance, the proposed device employed an optimized free-standing T-gate (FT-gate) with a gate stem height ( ${H}_{\\text {s}}\\text {)}$ of 250 nm and a gate length ( ${L}_{\\text {g}}\\text {)}$ of 120 nm. Small-signal characterization revealed a peak current-gain cutoff frequency ( ${f}_{\\text {T}}\\text {)}$ of 117 GHz and a peak maximum oscillation frequency ( ${f}_{\\max }\\text {)}$ of 275 GHz, yielding an outstanding ${f}_{\\text {T}} \\times {L}_{\\text {g}}$ of 14.04 GHz $\\cdot \\mu $ m. Load-pull measurements at 92 GHz demonstrated an output power density ( ${P}_{\\text {out}}\\text {)}$ of 3.0 W/mm at a drain-source voltage ( ${V}_{\\text {ds}}\\text {)}$ of 12 V. These competitive results establish the proposed technological platform as a promising candidate for next-generation E-mode GaN HEMTs.",
+      "score": 11,
+      "priority": 2,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“3.0-W/mm Output Power Density at W-Band From Enhancement-Mode AlGaN/GaN HEMT Wi…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“3.0-W/mm Output Power Density at W-Band From Enhancement-Mode AlGaN/GaN HEMT Wi…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升.\nContext: 3.0-W/mm Output Power Density at W-Band From Enhancement-Mode AlGaN/GaN HEMT With Free-Standing….",
+      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升.\nContext: 3.0-W/mm Output Power Density at W-Band From Enhancement-Mode AlGaN/GaN HEMT With Free-Standing…."
+    },
+    {
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3739157",
+      "title": "Impact of Scaling on the Temperature Dependence of GaN HEMTs",
+      "url": "https://doi.org/10.1109/led.2026.3739157",
+      "published": "2026-12-01",
+      "authors": [
+        "Biddut K. Sarker",
+        "Leonard A. Duncan",
+        "Shaikh S. Ahmed",
+        "Stefan Nikodemski",
+        "Erdem Arkun",
+        "Dan Denninghoff",
+        "Kelson D. Chabak",
+        "Andrew J. Green",
+        "Ahmad E. Islam"
+      ],
+      "summary": "We report the temperature-dependent DC and small-signal RF characteristics of GaN high-electron mobility transistors (HEMTs) with aggressively scaled source–drain spacing ( ${L}_{\\textit {SD}}\\text {)}$ and gate length ( ${L}_{G}\\text {)}$ . Devices fabricated using HRL Laboratories’ T3.5 technology exhibit superior temperature-dependent performance with the reduction in ${L}_{\\textit {SD}}$ . Devices with ${L}_{\\textit {SD}} =150$ nm achieve a maximum drain current ${I}_{\\textit {D,max}} = 2.28\\pm 0.04$ A/mm, a current gain cutoff frequency ${f}_{T} = 222\\pm 14$ GHz, and a maximum oscillation frequency ${f}_{\\textit {max}} = 329\\pm 10$ GHz. Importantly, these scaled devices exhibit excellent high-temperature performance up to $300~^{\\circ }$ C, with ${I}_{\\textit {D,max}}$ , small-signal RF gain, and ${f}_{T}$ exhibiting smaller changes with temperature compared to longer ${L}_{\\textit {SD}}$ devices. Device simulations confirm experimental observations, indicating that as ${L}_{\\textit {SD}}$ is reduced and approaches the electron’s mean-free path, carriers in the channel region undergo predominantly quasi-ballistic transport between the source and drain. Consequently, these devices exhibit reduced temperature dependence. These findings, therefore, provide a unique experimental framework to understand temperature-dependent carrier transport in aggressively scaled GaN HEMTs.",
+      "score": 11,
+      "priority": 2,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Impact of Scaling on the Temperature Dependence of GaN HEMTs”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看性能提升、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Impact of Scaling on the Temperature Dependence of GaN HEMTs”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看性能提升、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、先进尺度下的可扩展性.\nContext: Impact of Scaling on the Temperature Dependence of GaN HEMTs.",
+      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、先进尺度下的可扩展性.\nContext: Impact of Scaling on the Temperature Dependence of GaN HEMTs."
+    },
+    {
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3743418",
+      "title": "N-Polar GaN HEMT Operating at 800 °C in Air for 1 h With Minimum <i> I <sub>ON</sub> </i> / <i> I <sub>OFF</sub> </i> = 1900",
+      "url": "https://doi.org/10.1109/led.2026.3743418",
+      "published": "2026-12-01",
+      "authors": [
+        "Tanmay Chavan",
+        "Robert Hamwey",
+        "Boyu Wang",
+        "Emre Akso",
+        "Harsh Rana",
+        "Rijo Baby",
+        "Christopher Clymore",
+        "Nirupam Hatui",
+        "Oguz Odabasi",
+        "James Lambert",
+        "Mina Rais-Zadeh",
+        "Matthew Guidry",
+        "Stacia Keller",
+        "Elaheh Ahmadi",
+        "Umesh K. Mishra"
+      ],
+      "summary": "An N-polar gallium nitride (GaN) high electron mobility transistor (HEMT) with a p-GaN gate is developed, and its operation at $800~^{\\circ }$ C in air is demonstrated. At drain-to-source voltage ( ${V}_{\\textit {DS}}\\text {)}$ of 2 and 6 V, the device exhibits on-current ( ${I}_{\\textit {ON}}\\text {)}$ of 46 and 80 mA/mm, respectively, with corresponding on/off current ratio ( ${I}_{\\textit {ON}}/{I}_{\\textit {OFF}}\\text {)}$ of 3400 and 2400. These values represent the highest simultaneous ${I}_{\\textit {ON}}$ and ${I}_{\\textit {ON}}/{I}_{\\textit {OFF}}$ reported for any transistor operating at $800~^{\\circ }$ C in air. Furthermore, the HEMT maintains stable operation during a 60 min thermal-stress test at $800~^{\\circ }$ C, with minimal degradation in ${I}_{\\textit {ON}}$ and ${I}_{\\textit {ON}}/{I}_{\\textit {OFF}}$ . After 60 min, ${I}_{\\textit {ON}}$ remains at 40 and 70 mA/mm at ${V}_{\\textit {DS}} =2$ and 6 V, respectively, while the corresponding ${I}_{\\textit {ON}}/{I}_{\\textit {OFF}}$ ratio remains high at 2500 and 1900. These results highlight the potential of N-polar GaN HEMTs for high-temperature and harsh-environment electronics.",
+      "score": 11,
+      "priority": 2,
+      "highlights": [
+        "GaN"
+      ],
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“N-Polar GaN HEMT Operating at 800 °C in Air for 1 h With Minimum <i> I <sub>ON<…”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“N-Polar GaN HEMT Operating at 800 °C in Air for 1 h With Minimum <i> I <sub>ON<…”展开。摘要显示，文章重点涉及器件结构与设计思路，建议阅读时优先查看可靠性与稳定性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 可靠性与稳定性.\nContext: N-Polar GaN HEMT Operating at 800 °C in Air for 1 h With Minimum <i> I <sub>ON</sub> </i> / <i>….",
+      "reading_notes": "Focus: GaN.\nWhat to check: 可靠性与稳定性.\nContext: N-Polar GaN HEMT Operating at 800 °C in Air for 1 h With Minimum <i> I <sub>ON</sub> </i> / <i>…."
     },
     {
       "source": "Applied Physics Letters",
@@ -65,168 +185,64 @@
       "reading_notes": "Focus: wafer、GaN.\nWhat to check: 效率/耦合表现、与既有工艺平台的集成价值.\nContext: 8-in. wafer-scale uniform growth of GaN-on-silicon epilayers for near-eye micro-displays."
     },
     {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0356195",
-      "title": "Deep-level defect in GaN diodes observed with electrically detected magnetic resonance",
-      "url": "https://doi.org/10.1063/5.0356195",
-      "published": "2026-11-23",
+      "source": "IEEE Electron Device Letters",
+      "uid": "doi:10.1109/led.2026.3739285",
+      "title": "Demonstration of Nitrogen-Polar GaN HEMTs With ALD Regrown n <sup>+</sup> Contacts",
+      "url": "https://doi.org/10.1109/led.2026.3739285",
+      "published": "2026-12-01",
       "authors": [
-        "Dustin T. Hassenmayer",
-        "David A. Fehr",
-        "Yuxin Du",
-        "Blair R. Tuttle",
-        "Michael J. Elko",
-        "Joseph Sink",
-        "Rongming Chu",
-        "Michael E. Flatté",
-        "Patrick M. Lenahan"
+        "Boyu Wang",
+        "Zhiyuan Ma",
+        "Robert Hamwey",
+        "Chulong Wang",
+        "William J. Mitchell",
+        "Emre Akso",
+        "Tanmay Chavan",
+        "Sunil Choudhary",
+        "Bowen Tian",
+        "Nirupam Hatui",
+        "Christopher Clymore",
+        "Matthew Guidry",
+        "Stacia Keller",
+        "Elaheh Ahmadi",
+        "Umesh K. Mishra"
       ],
-      "summary": "Point defects continue to limit the performance of GaN and other III–V semiconductor devices. The dominant electrically active defects in GaN are predicted to be vacancies such as VGa and VN and their complexes with common impurities such as O and H. Electrically detected magnetic resonance (EDMR) is a powerful technique for detecting the physical and chemical nature of electrically active point defects which affect the performance of semiconductor devices. We show, to our knowledge, the first room temperature EDMR on GaN displaying hyperfine structure. The EDMR spectrum has a g⊥c=2.005±0.001, g∥c=2.006±0.001, |ΔI/I0|=8×10−6, and a 10-line hyperfine structure. We identify the observed defect, with reasonable certainty, as the VGa−VN divacancy.",
+      "summary": "Atomic layer deposition (ALD) is a versatile growth technique for producing high-quality, uniform, and conformal films with precise thickness control at low substrate temperatures. N-polar GaN HEMTs incorporating ALD-regrown n + GaN layers for source/drain contacts in high-performance RF power application are demonstrated. Ohmic contacts were realized without the need for alloyed contacts or high-temperature MBE/MOCVD-regrown n + contacts during device fabrication. A low metal-to-2DEG contact resistance of $0.36~\\Omega \\cdot $ mm was achieved, falling within the lower end of the range typically reported for Ti/Al/Ni/Au alloyed contacts. N-polar GaN Schottky-gate HEMTs fabricated utilizing the ALD-regrown n + layer demonstrated excellent DC and RF performance at ${L}_{\\text {G}} =370$ nm, reaching a drain current above 1 A/mm, a peak gate transconductance of 590 mS/mm, an on resistance of $1.2~\\Omega \\cdot $ mm, and a pad de-embedded ${f}_{\\text {MAX}}$ exceeding 108 GHz. Moreover, at 10 GHz, the device delivered an output power of 4 W/mm with an associated power added efficiency of 55.9% at ${V}_{\\text {DS,Q}} =18$ V. Additionally, the output power increased further to 4.7 W/mm at ${V}_{\\text {DS,Q}} =20$ V. These results highlight the feasibility of ALD-regrown n + layers for realizing low-resistance ohmic contacts in GaN HEMTs, while reducing fabrication cost and complexity.",
       "score": 10,
       "priority": 2,
       "highlights": [
         "GaN"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Deep-level defect in GaN diodes observed with electrically detected magnetic re…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Deep-level defect in GaN diodes observed with electrically detected magnetic re…”展开。摘要显示，文章重点涉及器件结构与设计思路、电学/光学表征与测试结果，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升.\nContext: Deep-level defect in GaN diodes observed with electrically detected magnetic resonance.",
-      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升.\nContext: Deep-level defect in GaN diodes observed with electrically detected magnetic resonance."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Demonstration of Nitrogen-Polar GaN HEMTs With ALD Regrown n <sup>+</sup> Conta…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、效率/耦合表现、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Demonstration of Nitrogen-Polar GaN HEMTs With ALD Regrown n <sup>+</sup> Conta…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件，建议阅读时优先查看性能提升、效率/耦合表现、接触/互连相关指标。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现、接触/互连相关指标.\nContext: Demonstration of Nitrogen-Polar GaN HEMTs With ALD Regrown n <sup>+</sup> Contacts.",
+      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现、接触/互连相关指标.\nContext: Demonstration of Nitrogen-Polar GaN HEMTs With ALD Regrown n <sup>+</sup> Contacts."
     },
     {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0360044",
-      "title": "High-quality GaN epilayer grown on Si substrates enabled by a SiO2-frustum-patterned template",
-      "url": "https://doi.org/10.1063/5.0360044",
-      "published": "2026-11-23",
-      "authors": [
-        "Faquan Wu",
-        "Zhenghao Chen",
-        "Han Yang",
-        "Lin Yao",
-        "Yipeng Cai",
-        "Huiling Pan",
-        "Xuelin Yang",
-        "Fujun Xu",
-        "Ning Tang",
-        "Xinqiang Wang",
-        "Bo Shen"
-      ],
-      "summary": "GaN-on-Si technologies have attracted considerable attention for next-generation electronic applications, yet high threading dislocation density (TDD) remains a major challenge. Here, we develop a SiO2-frustum-patterned template for effective filtering of threading dislocations (TDs) in wafer-scale GaN-on-Si heteroepitaxy. The SiO2 array blocks the directly upward propagation of TDs through the masked zones, while the window zones promote lateral overgrowth and facilitate rapid TD bending and termination. To further suppress coalescence-related TDs, facet-evolution regulation is introduced to promote highly ordered domain coalescence, with a misorientation angle of only 0.088°. Consequently, a TDD of 5.4 × 107 cm−2 is achieved in a 4.2-μm-thick GaN epilayer grown on a 4-in. Si substrate, substantially lower than that of conventional GaN-on-Si heteroepitaxy. This work demonstrates a low-cost solution for high-quality GaN-on-Si heteroepitaxy, providing a promising material platform for high-performance GaN-based power electronics.",
-      "score": 10,
-      "priority": 2,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“High-quality GaN epilayer grown on Si substrates enabled by a SiO2-frustum-patt…”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“High-quality GaN epilayer grown on Si substrates enabled by a SiO2-frustum-patt…”展开。摘要显示，文章重点涉及制备流程与工艺条件，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升.\nContext: High-quality GaN epilayer grown on Si substrates enabled by a SiO2-frustum-patterned template.",
-      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升.\nContext: High-quality GaN epilayer grown on Si substrates enabled by a SiO2-frustum-patterned template."
-    },
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0354009",
-      "title": "Polarity-driven divergence in thermal decomposition of GaN: Kinetics, morphology, and surface damage recovery",
-      "url": "https://doi.org/10.1063/5.0354009",
-      "published": "2026-11-23",
-      "authors": [
-        "Xiaoning Zhan",
-        "Jianxun Liu",
-        "Xiujian Sun",
-        "Yuhai Chen",
-        "Xiaocui Lv",
-        "Yu Zhou",
-        "Qian Li",
-        "Qian Sun",
-        "Hui Yang"
-      ],
-      "summary": "Although the polarity-dependent thermal decomposition of gallium nitride (GaN) has been studied, the fundamental mechanisms that govern decomposition morphology and kinetics remain unclear. In this work, the distinct thermal decomposition behavior of gallium (Ga)-polar and nitrogen (N)-polar GaN was systematically investigated. Notably, thermal etching produces grooved hexagonal inverted pyramids on N-polar GaN but hexagonal pyramids protrusions on Ga-polar GaN, a difference that is clearly elucidated by a facet-dependent etching rate model. By employing a growth–etching–regrowth approach, the activation energies under H2/NH3 ambient are measured as 2.88 ± 0.25 eV for Ga-polar GaN and 2.50 ± 0.15 eV for N-polar GaN. Despite its lower activation energy, N-polar GaN etches more slowly than Ga-polar GaN due to a much smaller pre-exponential factor that imposes significant kinetic constraints. In comparison, under N2/NH3 ambient, Ga-polar GaN exhibits an activation energy of 3.40 ± 0.065 eV, while N-polar GaN behaves highly resistant to thermal etching with an etching rate below 5 nm/h even at 1050 °C. Beyond kinetics, thermal treatment effectively removes the dry-etch-induced surface damage, with N2 ambient providing superior recovery for both polarities. These findings not only clarify polarity-dependent decomposition pathways but also provide practical guidelines for interface engineering in high-performance GaN devices.",
-      "score": 9,
-      "priority": 2,
-      "highlights": [
-        "GaN"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Polarity-driven divergence in thermal decomposition of GaN: Kinetics, morpholog…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Polarity-driven divergence in thermal decomposition of GaN: Kinetics, morpholog…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果、机理分析或模型解释，建议阅读时优先查看性能提升、功耗或能效表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、功耗或能效表现.\nContext: Polarity-driven divergence in thermal decomposition of GaN: Kinetics, morphology, and surface d….",
-      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、功耗或能效表现.\nContext: Polarity-driven divergence in thermal decomposition of GaN: Kinetics, morphology, and surface d…."
-    },
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0361690",
-      "title": "Gate-length dependence of trap passivation via rapid deuterium annealing in scaled MOSFETs",
-      "url": "https://doi.org/10.1063/5.0361690",
-      "published": "2026-11-23",
-      "authors": [
-        "Hyo-Jun Park",
-        "Da-Eun Bang",
-        "Eui-Cheol Yun",
-        "Moon-Kwon Lee",
-        "Min-Woo Kim",
-        "Dol Sohn",
-        "Sang-Min Kang",
-        "Chae-Rim Lee",
-        "Dae-Myeong Geum",
-        "Jun-Young Park"
-      ],
-      "summary": "As the semiconductor industry pursues higher integration density and faster operating speeds, the physical gate length (LG) of metal–oxide–semiconductor field-effect transistors (MOSFETs) continues to scale down. This aggressive scaling exacerbates short-channel effects, which require proportionally thinner gate dielectrics to improve gate controllability. However, gate dielectrics are highly susceptible to electrical stress, making gate oxide reliability a critical concern. While conventional forming gas annealing is widely employed to improve dielectric quality, its high thermal budget can induce thermal damage in advanced scaled devices. Rapid deuterium annealing (RDA) has emerged as a promising alternative to minimize this thermal budget and mitigate thermal degradation. Nevertheless, the efficacy of the RDA process across different LG values remains unexplored. To address this, we investigate the gate-length dependence of RDA on device performance. Planar Si nMOSFETs were fabricated on bulk substrates, and key device parameters were systematically extracted and analyzed using I–V and C–V measurements.",
-      "score": 15,
-      "priority": 1,
-      "highlights": [
-        "MOSFET"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET方向，围绕“Gate-length dependence of trap passivation via rapid deuterium annealing in sca…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注MOSFET方向，围绕“Gate-length dependence of trap passivation via rapid deuterium annealing in sca…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、可靠性与稳定性、先进尺度下的可扩展性。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: MOSFET.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: Gate-length dependence of trap passivation via rapid deuterium annealing in scaled MOSFETs.",
-      "reading_notes": "Focus: MOSFET.\nWhat to check: 性能提升、可靠性与稳定性、先进尺度下的可扩展性.\nContext: Gate-length dependence of trap passivation via rapid deuterium annealing in scaled MOSFETs."
-    },
-    {
-      "source": "Nature Electronics",
-      "uid": "Nature Electronics:10.1038/s41928-026-01748-4",
-      "title": "CMOS surprises",
-      "url": "https://www.nature.com/articles/s41928-026-01748-4",
-      "published": "2026-11-20",
-      "authors": [],
-      "summary": "Nature Electronics, Published online: 20 November 2026; doi:10.1038/s41928-026-01748-4 Unexpected effects are still being discovered in complementary metal–oxide–semiconductor (CMOS) circuits, and the results could have implications for the advance of quantum computing.",
-      "score": 10,
-      "priority": 1,
-      "highlights": [
-        "CMOS"
-      ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS方向，围绕“CMOS surprises”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注CMOS方向，围绕“CMOS surprises”展开。摘要显示，文章重点涉及背景问题、方案设计、结果验证和应用讨论，建议阅读时优先查看与既有工艺平台的集成价值。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: CMOS surprises.",
-      "reading_notes": "Focus: CMOS.\nWhat to check: 与既有工艺平台的集成价值.\nContext: CMOS surprises."
-    },
-    {
-      "source": "Applied Physics Letters",
-      "uid": "doi:10.1063/5.0349222",
-      "title": "Quantum-dot-assisted AlGaN wide-bandgap tunnel junction enabling high-reflectivity electrodes for deep-ultraviolet LEDs",
-      "url": "https://doi.org/10.1063/5.0349222",
-      "published": "2026-11-23",
+      "source": "arXiv",
+      "uid": "arxiv:2611.33868v1",
+      "title": "Self-Assembled Triangular Sc-rich Nanodomains: The Orign of Anomalous Alloy Scattering in ScAlN/GaN Heterostructures",
+      "url": "https://arxiv.org/abs/2611.33868v1",
+      "published": "2026-11-25",
       "authors": [
         "Yuhao Yin",
-        "Yue Xu",
-        "Shitao Dong",
-        "Xiping Cao",
-        "Xianhe Liu",
-        "Jian Kang",
         "Shizhao Fan"
       ],
-      "summary": "AlGaN deep-ultraviolet (DUV) light-emitting diodes (LEDs) suffer from limited light extraction efficiency due to high absorption losses in the p-GaN contact layer and annealed metal layers for p-type Ohmic contact. Here, we boosted the DUV reflectivity by incorporating a p-GaN quantum-dot-assisted AlGaN tunnel junction on top of the AlGaN LED epitaxial structure. Precisely controlled thermal decomposition of the top p-GaN layer is realized in a high-vacuum chamber, which transforms the conformal p-GaN layer into nanopyramid-shaped quantum dots by eliminating over 95% of the p-GaN. Subsequent in situ molecular beam epitaxy regrowth of a smooth wide-bandgap n-AlGaN contact layer enables tunneling injection of holes and lateral current spreading. The resulting device exhibits a low specific contact resistivity of 2.5 × 10−5 Ω cm2 and a tunnel-junction voltage drop of 1.09 V. Moreover, the n-AlGaN top contact allows the use of a low-coverage Ti/Al/Ni/Au grid electrode combined with an Al reflector, increasing the effective reflectance at 265 nm to 77.16%. These results demonstrate that the p-GaN quantum-dot-assisted AlGaN tunnel junction improves electrical injection characteristics and enables a high-reflectivity electrode architecture, which promises improved light extraction in AlGaN DUV LEDs.",
-      "score": 9,
-      "priority": 1,
+      "summary": "Wurtzite scandium aluminium nitride (ScAlN) alloys hold substantial potential for GaN heterostructure high-electron mobility transistors, owing to their large spontaneous polarization gradient and the ability to achieve precise lattice matching at heterointerface. Nevertheless, despite continuous advances in epitaxy and device fabrication, the two-dimensional electron gas (2DEG) mobility in ScAlN/GaN heterostructures remains persistently limited, and the underlying microscopic origin remains elusive. Here, we uncover an anomalous electron scattering mechanism from laterally correlated alloy disorder that spontaneously develops within the ScAlN barrier driven by strain-field undulations imposed by threading dislocations. Dislocation strain field partitions the growth front into nanoscale domains with distinct strain states, driving anisotropic diffusion of Sc adatoms and yielding crystallographically oriented triangular Sc-rich nanodomains. Reducing the threading dislocation density from 2.8E10 to 4.4E8 cm^-2 suppresses areal density of nanodomains by more than two orders of magnitude. As a result, low-temperature Hall mobility increases from 1800 to 11995 cm^2*V^-1*s^-1. These findings establish dislocation-mediated Sc-rich nanodomains as the dominant source of anomalously strong alloy scattering, resolving the mobility bottleneck for high-performance nitride electronics.",
+      "score": 10,
+      "priority": 2,
       "highlights": [
         "GaN"
       ],
-      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Quantum-dot-assisted AlGaN wide-bandgap tunnel junction enabling high-reflectiv…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Quantum-dot-assisted AlGaN wide-bandgap tunnel junction enabling high-reflectiv…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、电学/光学表征与测试结果，建议阅读时优先查看性能提升、效率/耦合表现。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
-      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现.\nContext: Quantum-dot-assisted AlGaN wide-bandgap tunnel junction enabling high-reflectivity electrodes f….",
-      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升、效率/耦合表现.\nContext: Quantum-dot-assisted AlGaN wide-bandgap tunnel junction enabling high-reflectivity electrodes f…."
+      "abstract_cn": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Self-Assembled Triangular Sc-rich Nanodomains: The Orign of Anomalous Alloy Sca…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "abstract_zh": "【中文概述（基于英文摘要自动提炼）】\n这篇论文关注GaN方向，围绕“Self-Assembled Triangular Sc-rich Nanodomains: The Orign of Anomalous Alloy Sca…”展开。摘要显示，文章重点涉及器件结构与设计思路、制备流程与工艺条件、机理分析或模型解释，建议阅读时优先查看性能提升。如需逐句中文翻译，可在后续生成流程中接入专门的翻译模型。",
+      "overview_cn": "Focus: GaN.\nWhat to check: 性能提升.\nContext: Self-Assembled Triangular Sc-rich Nanodomains: The Orign of Anomalous Alloy Scattering in ScAlN….",
+      "reading_notes": "Focus: GaN.\nWhat to check: 性能提升.\nContext: Self-Assembled Triangular Sc-rich Nanodomains: The Orign of Anomalous Alloy Scattering in ScAlN…."
     }
   ],
   "errors": [],
   "report_url": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/",
   "report_url_pc": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/desktop.html",
   "report_url_mobile": "https://xiaomiao-fsd.github.io/xiaomiao-paper-digest-v2/mobile.html",
-  "generated_at": "2026-11-26T00:30:00+00:00"
+  "generated_at": "2026-11-27T00:30:00+00:00"
 }
